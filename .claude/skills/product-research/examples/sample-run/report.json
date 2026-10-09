@@ -1,0 +1,949 @@
+{
+ "run": {
+  "title": "Product Research: sample report",
+  "date": "2026-09-21",
+  "prepared_for": "Sample",
+  "countries": [
+   "au",
+   "us"
+  ],
+  "assumptions": [
+   "Product costs are estimates",
+   "Ad counts only include ads that use the exact product words",
+   "Green on a map means we found nobody else selling it there, not that nobody does"
+  ],
+  "mode": "full"
+ },
+ "headline": "One brand has made this pay with ads for ten months. Copies exist from A$18, but a shopper searching Amazon or Google does not find them: none is in the top results and the best has 14 reviews. Not unique, so win on audience, not on product.",
+ "products": [
+  {
+   "slug": "crimp",
+   "name": "Climber's Finger Trainer (GripX Pro)",
+   "one_liner": "One brand has made this pay with ads for ten months. Copies exist from A$18, but a shopper searching Amazon or Google does not find them: none is in the top results and the best has 14 reviews. Not unique, so win on audience, not on product.",
+   "url": "https://gocrimp.com/products/finger-trainer",
+   "brand": "Go Crimp",
+   "category": "Climbing training gear",
+   "price": "US$59 (kit US$119)",
+   "ad_days": "Advertising since 2025-11-27",
+   "store_platform": "Shopify",
+   "store_launched": "2025-01",
+   "store_products": "6 products, all climbing training",
+   "snapshot": {
+    "icp": "Indoor climbers and boulderers, 20–40, who train at home",
+    "job": "Build finger strength away from the wall",
+    "cogs": "US$8–14 landed (estimate)",
+    "margin": "~75% at US$59 (estimate)",
+    "claims": "Built with physios and coaches; per-finger loading",
+    "demoable": "Yes: one-hand squeeze, anywhere"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Walmart Canada sells the same device for C$10. No chain has it in the other five"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "Copies from A$18 exist, but none is in the top search results and the best has 14 reviews. Go Crimp has sold at US$59 beside them for ten months"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand runs most of the ads and has done since November 2025"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Avoid injury-cure claims"
+    }
+   ],
+   "scores": {
+    "saturated": 5,
+    "margin": 8,
+    "viral": 6,
+    "pain": 7,
+    "differentiation": 4
+   },
+   "overall": 62,
+   "confidence": "Medium",
+   "best_region": "Both are light green: copies exist but shoppers do not find them.",
+   "angles": [
+    "Same device for guitarists and pianists",
+    "Arthritis and rehab hand strength (careful with health claims)",
+    "Golf and tennis grip strength",
+    "Office 'desk workout' gadget",
+    "Gift for the climber who has everything"
+   ],
+   "tile_notes": {
+    "Amazon": {
+     "head": "Copies from A$18",
+     "detail": "The same device is on Amazon in every country checked.",
+     "colour": "amber"
+    },
+    "Demand": {
+     "detail": "+14% Google searches on the year before. A steady niche."
+    }
+   },
+   "final": {
+    "verdict": "Test now",
+    "why": [
+     "Go Crimp has kept ads live since November 2025 and now runs most of the live ads for it. Nobody pays that long for ads that lose money",
+     "The copies are hidden: in both countries none shows up when a shopper types the product words into Amazon or Google, and the best-known one has 14 reviews",
+     "A supplier clearly exists (the same device retails at A$18), so the margin at US$59 is large"
+    ],
+    "risk": "The copies are hidden today, not gone. If the product takes off they will surface, and Go Crimp already owns the climbers.",
+    "fastest_test": [
+     "Start in the US or Australia",
+     "Take it to an audience Go Crimp ignores: guitarists, golfers or hand rehab. 3 short ads, US$20 a day for 5 days"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "crowded",
+     "why": "rebel sells a pricier version ($119.99)",
+     "sellers": 21,
+     "cheapest": "A$9",
+     "typical": "A$79",
+     "top": "Oliunìd (266)"
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "32 different sellers",
+     "sellers": 32,
+     "cheapest": "US$4",
+     "typical": "US$29",
+     "top": "TRX Training (1200)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 13,200 reviews; 3 of the first 20 have 1,000+; at least 350 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 13200,
+     "n_1000_plus": 3,
+     "cheapest": "A$8",
+     "typical": "A$13",
+     "bought_last_month_min": 350,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "D Addario Varigrip Hand Exerciser Improve Dexterity and Strength in Fingers, Hands, Forear",
+       "price_text": "$31.00",
+       "price": 31.0,
+       "rating": 4.6,
+       "reviews": 13200,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/DAddario-Varigrip-Adjustable-Hand-Exerciser/dp/B001OCGGEM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81TYymxHffL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Finger Strengthener - Finger Exerciser for Forearm and Hand Strengthener - Hand Grip Worko",
+       "price_text": "$20.27",
+       "price": 20.27,
+       "rating": 4.4,
+       "reviews": 4600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Finger-Strengthener-Exerciser-Equipment-Musician/dp/B0949VT6DY/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81vBh8qfkML._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Finger Strengthener - Finger Exerciser for Forearm and Hand Strengthener - Hand Grip Worko",
+       "price_text": "$16.11",
+       "price": 16.11,
+       "rating": 4.4,
+       "reviews": 4600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Pack-Finger-Strengthener-Exerciser-Equipment/dp/B07T1M7LVC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81788yKtZgL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 32,800 reviews; 16 of the first 20 have 1,000+; at least 36,600 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 32800,
+     "n_1000_plus": 16,
+     "cheapest": "US$6",
+     "typical": "US$13",
+     "bought_last_month_min": 36600,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "FitBeast Grip Strengthener Forearm Strengthener Hand Grips Strengthener Kit - 5 Pack Adjus",
+       "price_text": "$9.89",
+       "price": 9.89,
+       "rating": 4.5,
+       "reviews": 32800,
+       "bought_text": "10K+ bought in past month",
+       "bought": 10000,
+       "sponsored": false,
+       "badges": [
+        "Limited time deal"
+       ],
+       "link": "https://www.amazon.com/FitBeast-Grip-Strengthener-Forearm-Grips/dp/B07G824Z3V/",
+       "thumbnail": "https://m.media-amazon.com/images/I/718tBdzFF6L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Pnrskter Hand Grip Strengthener, Finger Exerciser, Grip Strength Trainer",
+       "price_text": "$8.39",
+       "price": 8.39,
+       "rating": 4.4,
+       "reviews": 29000,
+       "bought_text": "2K+ bought in past month",
+       "bought": 2000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Strengthener-Exerciser-Strength-Material-Stretcher/dp/B078L1KZBZ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71RG2kZyxtL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "D’Addario Varigrip Hand Exerciser–Improve Dexterity and Strength in Fingers",
+       "price_text": "$19.99",
+       "price": 19.99,
+       "rating": 4.7,
+       "reviews": 13400,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/DAddario-Exerciser-Improve-Dexterity-Comfortable-Conditioning/dp/B001OCGGEM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81TYymxHffL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "steady",
+     "growth_pct": 14,
+     "seasonal": true,
+     "peak_months": [
+      "Feb",
+      "Apr",
+      "Aug"
+     ],
+     "months_to_peak": 5,
+     "now_vs_high": 17,
+     "avg_last_year": 28.5,
+     "spike": true,
+     "zero_share": 0.03,
+     "why": "A typical week in the last 12 months is +14% on the year before; includes a spike around Feb 2026 — check it isn't a one-off; strongly seasonal, peaking Feb–Apr–Aug",
+     "line": [
+      16,
+      21,
+      16,
+      16,
+      24,
+      18,
+      18,
+      23,
+      22,
+      21,
+      17,
+      23,
+      28,
+      29,
+      25,
+      23,
+      19,
+      22,
+      24,
+      8,
+      12,
+      20,
+      25,
+      25,
+      22,
+      42,
+      30,
+      26,
+      26,
+      25,
+      18,
+      20,
+      23,
+      15,
+      23,
+      20,
+      54,
+      78,
+      24,
+      28,
+      43,
+      47,
+      32,
+      29,
+      22,
+      33,
+      14,
+      16,
+      18,
+      22,
+      31,
+      33,
+      17
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "weak",
+     "why": "5 copies, all hard to find. Cheapest: Amazon.com.au at A$18 (not in the top results, 14 reviews)",
+     "prices": {
+      "brand": 88.5,
+      "cheapest_copy": 18.0,
+      "typical_copy": 90.0,
+      "cheapest_real_copy": null,
+      "priced_copies": 2
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.com.au",
+       "title": "Hand Strength Trainer, Grip Strength Trainer Adjustable ...",
+       "link": "https://www.amazon.com.au/Strength-Trainer-Adjustable-Training-Mechanical/dp/B0D86W1X5N",
+       "price_text": "A$18",
+       "kind": "marketplace",
+       "thumb_file": null,
+       "looked_up": true,
+       "reviews": 14,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 14 reviews"
+      },
+      {
+       "source": "Aussie Finds",
+       "title": "GPro™ Hand & Finger Strength Trainer – Aussie Finds",
+       "link": "https://www.aussiefinds.com.au/products/finger-trainer",
+       "price_text": "A$90",
+       "kind": "other store",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "AliExpress",
+       "title": "Buy with free shipping on aliexpress",
+       "link": "https://www.aliexpress.com/category/200003539/hand-grips.html",
+       "price_text": null,
+       "kind": "other store",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "slow delivery from overseas"
+      },
+      {
+       "source": "Amazon.com.au",
+       "title": "FitBeast Grip Strengthener Forearm Strengthener Hand Grips ...",
+       "link": "https://www.amazon.com.au/FitBeast-Strength-Trainer-Muscle-Building/dp/B0CR78BW1F",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Alibaba",
+       "title": "FDFIT Multifunctional gripper finger strength training ...",
+       "link": "https://www.alibaba.com/product-detail/FDFIT-Multifunctional-gripper-finger-strength-training_1601399048153.html",
+       "price_text": null,
+       "kind": "other store",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "slow delivery from overseas"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "weak",
+     "why": "5 copies, all hard to find. Cheapest: AliExpress (slow delivery from overseas)",
+     "prices": {
+      "brand": 59.0,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "AliExpress",
+       "title": "Buy with free shipping on aliexpress",
+       "link": "https://www.aliexpress.com/category/200003539/hand-grips.html",
+       "price_text": null,
+       "kind": "other store",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "slow delivery from overseas"
+      },
+      {
+       "source": "DHgate",
+       "title": "Adjustable Hand Grip Trainer With Counter For Wrist,... From ...",
+       "link": "https://in.dhgate.com/product/5-60kg-adjustable-hand-grip-with-five-finger/1118714761.html",
+       "price_text": null,
+       "kind": "other store",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "slow delivery from overseas"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: THE FINGER BLITZER - adjustable finger strength ...",
+       "link": "https://www.amazon.com/clp/B07BM8X165",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Walmart",
+       "title": "Grip Strength Trainer, Hand Grip Strengthener, Adjustable ...",
+       "link": "https://www.walmart.com/ip/Grip-Strength-Trainer-Hand-Grip-Strengthener-Adjustable-Resistance-22-132Lbs-10-60kg-Forearm-Strengthener-Perfect-Musicians-Athletes-Hand-Injury-Reco/5533065568",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Walmart",
+       "title": "Hyknon Hand Grip Exerciser Strengthener, Counting Grip ...",
+       "link": "https://www.walmart.com/ip/Hyknon-Hand-Grip-Exerciser-Strengthener-Counting-Grip-Strength-Trainer-Ajustable-Resistance-Grip-Strengthener-Protable-Grip-Strength-Device-Forearm-S/20086457831?classType=VARIANT",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": null,
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 60
+    }
+   ],
+   "lens_sheet": "lens/crimp_sheet.jpg",
+   "supplier": {
+    "slug": "crimp",
+    "brand_price": 59.0,
+    "brand_currency": "usd",
+    "words": "finger strength trainer climbing",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-finger-strength-trainer-climbing.html",
+    "listings": [
+     {
+      "n": 1,
+      "site": "DHgate",
+      "order_type": "small orders",
+      "title": "Adjustable Hand Grip Trainer With Counter For Wrist,... From ...",
+      "link": "https://in.dhgate.com/product/5-60kg-adjustable-hand-grip-with-five-finger/1118714761.html",
+      "thumb_file": null,
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 2,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "FDFIT Multifunctional gripper finger strength training ...",
+      "link": "https://www.alibaba.com/product-detail/FDFIT-Multifunctional-gripper-finger-strength-training_1601399048153.html",
+      "thumb_file": null,
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 3,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Adjustable Resistance Hand Grip Strengthener with Counter ...",
+      "link": "https://www.alibaba.com/product-detail/Hand-Grip-Strengthener-with-Counter-Forearm_1600960172665.html",
+      "thumb_file": null,
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 4,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Heavy Duty Metal Gym Arm Muscle Trainer Exercise Soft ...",
+      "link": "https://www.alibaba.com/product-detail/Heavy-Duty-Metal-Gym-Arm-Muscle_1601076479049.html",
+      "thumb_file": null,
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     }
+    ],
+    "summary": {
+     "found": 4,
+     "priced": 0,
+     "brand_price_usd": 59.0,
+     "status": "found, price not read",
+     "plain": "4 supplier listings found. Open them to read the price: supplier sites do not show prices to search engines."
+    }
+   },
+   "meta": {
+    "slug": "crimp",
+    "phrase": "finger trainer",
+    "checked": "2026-09-20",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22finger%20trainer%22",
+    "ads_loaded": 126,
+    "capped": false,
+    "stopped_by": "read every live ad",
+    "n_advertisers": 8,
+    "advertisers_with_3_plus_ads": 1,
+    "biggest_advertiser_share": 0.94,
+    "brands_new_in_last_2_months": 7,
+    "brands_advertising_3_plus_months": 1,
+    "ads_started_last_2_months": 107,
+    "ads_older_than_6_months": 5,
+    "pattern": "one brand owns it",
+    "plain": "8 brands, but gocrimp.com runs 118 of the 126 ads. Of the 3 biggest shops we could date, 3 are over a year old and 0 opened in the last four months.",
+    "months": {
+     "2025-11": 2,
+     "2025-12": 3,
+     "2026-05": 1,
+     "2026-07": 13,
+     "2026-08": 18,
+     "2026-09": 89
+    },
+    "brand_months": {
+     "2025-11": 1,
+     "2026-08": 1,
+     "2026-09": 6
+    },
+    "top_advertisers": [
+     {
+      "name": "Go Crimp",
+      "pages": 4,
+      "page_names": [
+       "Go Crimp",
+       "Isaac Balwan",
+       "Christopher Brown",
+       "Ilona the Explorer"
+      ],
+      "ads": 118,
+      "oldest_live_ad": "2025-11-27",
+      "page_likes": 508,
+      "headline": "No excuses.",
+      "shop": "gocrimp.com",
+      "product_page": "https://gocrimp.com/products/finger-trainer",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=554760361052590",
+      "shop_open_since": "2025-01-28"
+     },
+     {
+      "name": "Boulderball",
+      "pages": 1,
+      "page_names": [
+       "Boulderball"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-08-05",
+      "page_likes": 1766,
+      "headline": "Every Climber Needs Boulderball",
+      "shop": "boulderball.com",
+      "product_page": "https://www.boulderball.com/en/pages/how-it-works",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105970268842976",
+      "shop_open_since": "2022-07-08"
+     },
+     {
+      "name": "sheger mart",
+      "pages": 1,
+      "page_names": [
+       "sheger mart"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-11",
+      "page_likes": 48,
+      "headline": "price 1500birr with free delivery",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1110943872112191",
+      "shop_open_since": null
+     },
+     {
+      "name": "Saamionline.com",
+      "pages": 1,
+      "page_names": [
+       "Saamionline.com"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-14",
+      "page_likes": 261253,
+      "headline": "Dhamaan 𝐀𝐥𝐚𝐚𝐛𝐚𝐡𝐚𝐧 𝐗𝐮𝐥𝐤𝐚 𝐚𝐡 hadda ka dalbo Saamionline.com Magaalo kasta oo aad ku sugantah",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1835390106774574",
+      "shop_open_since": null
+     },
+     {
+      "name": "EStock",
+      "pages": 1,
+      "page_names": [
+       "EStock"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-06",
+      "page_likes": 841,
+      "headline": "Stress Ball. Grip Trainer. Rehab Tool.",
+      "shop": "estocklb.com",
+      "product_page": "https://estocklb.com/products/grip-strengthener",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=584608664743620",
+      "shop_open_since": "2025-04-23"
+     },
+     {
+      "name": "Go Well ",
+      "pages": 1,
+      "page_names": [
+       "Go Well "
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-18",
+      "page_likes": 27380,
+      "headline": "{{product.name}}",
+      "shop": "gowellbd.com",
+      "product_page": "http://gowellbd.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=129702880234307",
+      "shop_open_since": null
+     },
+     {
+      "name": "Sennasin MART",
+      "pages": 1,
+      "page_names": [
+       "Sennasin MART"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-18",
+      "page_likes": 29,
+      "headline": "6 Fret Guitar Finger Trainer Chord Practice Tool",
+      "shop": "sennasinmart.com",
+      "product_page": "https://sennasinmart.com/product/guitar-part-portable-6-fret-guitar-finger-trainer-chord-practice-tool-with-rotatable-chords-chart-screen-for-beginner.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1158497270678489",
+      "shop_open_since": null
+     },
+     {
+      "name": "Remedic",
+      "pages": 1,
+      "page_names": [
+       "Remedic"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-19",
+      "page_likes": 6102,
+      "headline": "Remedic Hand Exerciser for Arthritis – Grip & Finger Strength Trainer | Includes resistanc",
+      "shop": "amazon.com",
+      "product_page": "https://www.amazon.com/Remedic-Hand-Finger-Training-System/dp/B0CW32Q3LT/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103669215107581",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "gocrimp.com": 118,
+     "boulderball.com": 2,
+     "estocklb.com": 1,
+     "gowellbd.com": 1,
+     "sennasinmart.com": 1,
+     "amazon.com": 1
+    },
+    "cost_usd": 0.49,
+    "shops_checked": 3,
+    "shops_over_a_year_old": 3,
+    "shops_under_4_months_old": 0,
+    "takeaway": "Go Crimp owns this. 95 of the 127 live ads are theirs, and the 'other' advertisers all link to gocrimp.com, so they are Go Crimp's own creator pages. Their oldest live ad is from November 2025: ten months of proof that the ads pay."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "climbing finger trainer",
+     "image": "asis/crimp_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Finger Strength Training Tools for Climbers",
+       "link": "https://www.climbinganchors.com.au/training/finger-strength/?srsltid=AU7gw4VjKgT2Mj-h6WIr6_ciorQWAhSFkH5AZE6Zt4SzQk7ZI4aODB3s",
+       "domain": "climbinganchors.com.au",
+       "kind": "store / brand",
+       "snippet": "Build your climbing finger strength with hangboards, portable fingerboards, training tools and other climbing training accessories."
+      },
+      {
+       "position": 2,
+       "title": "Crux Gear: Grip Training Gear for Climbers",
+       "link": "https://cruxgear.com.au/?srsltid=AU7gw4Vs0yMVN9t3oD9ZCpmG_o8cvDZKCt5Ojel3YvjBsDzmTY_LFHbJ",
+       "domain": "cruxgear.com.au",
+       "kind": "store / brand",
+       "snippet": "Portable grip training gear for climbers. Build finger strength and control between sessions for smoother climbing on the wall."
+      },
+      {
+       "position": 4,
+       "title": "Climbing Training",
+       "link": "https://bananafingers.com/climbing/climbing-training?srsltid=AU7gw4X9ye9KvvX8a52dnX_dCxlNfueE0y9ZbiO8A_ICuteGyoTJ1Ph-",
+       "domain": "bananafingers.com",
+       "kind": "store / brand",
+       "snippet": "Climbing training devices: everything you need to train endurance, grip strength and technique at home, on sale online."
+      },
+      {
+       "position": 5,
+       "title": "Grip Training For Climbing",
+       "link": "https://godsofgrip.com/pages/grip-training-for-climbing?srsltid=AU7gw4U1Opypbh5AnXQ1i6oE30l0h_uduxy49NifyOASPMxgBMP_nKdp",
+       "domain": "godsofgrip.com",
+       "kind": "store / brand",
+       "snippet": "Finger Exerciser. This versatile accessory can be used for both warming up or developing finger strength. Having strong fingers is essential for climbing."
+      },
+      {
+       "position": 6,
+       "title": "Grip Strength for Climbing: 9 Exercises That Work",
+       "link": "https://boulderflash.com/blog/how-to-improve-your-grip-strength-for-climbing/?srsltid=AU7gw4UK8dGlSteb6ShytTyHBWkmarTERDBTMN3nCBS3AflmhEnBkBYH",
+       "domain": "boulderflash.com",
+       "kind": "article",
+       "snippet": "One of the best climbing grip trainer devices that you will find for working on your fingers is the 1cm rubber band. Hold your hands like an Italian and place ."
+      }
+     ],
+     "paa": [
+      "Do finger strengtheners work for climbing?",
+      "What is the best climbing finger strength trainer?",
+      "Why do people with ADHD like rock climbing?",
+      "How to train your fingers for climbing?"
+     ],
+     "popular_products": [
+      {
+       "title": "Quhoxdye Handcrafted Boulder Block Build Strength and Precis",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "TSWCBYYLB Handcrafted Rock Climbing Boulder Block Ball Finge",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "MONO PEBBLE - Iso Finger Trainer Forest Green",
+       "price": null,
+       "source": "Crux Gear"
+      },
+      {
+       "title": "YY Vertical Mono Finger Trainer",
+       "price": null,
+       "source": "BananaFingers"
+      },
+      {
+       "title": "YY Vertical Alien Finger Trainer",
+       "price": null,
+       "source": "Mountain Equipment"
+      },
+      {
+       "title": "Hangboard Rock Climbing Finger & Forearm Grip Strength Train",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "MONO ROCK - Finger Iso Trainer Forest Green",
+       "price": null,
+       "source": "Crux Gear"
+      },
+      {
+       "title": "Crush Club Volume Gripper finger training",
+       "price": null,
+       "source": "EpicTV"
+      },
+      {
+       "title": "TWO STONES Portable Hangboard Rock Climbing, Pull Up Rings a",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Micro Crimps | Rock climbing finger strength and grip traine",
+       "price": null,
+       "source": "Etsy"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in Australia: climbinganchors.com.au (store / brand). In the product strip: Amazon, Amazon AU - Amazon.com.au-Seller, BananaFingers, Crux Gear, EpicTV. Amazon here is crowded."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "climbing finger trainer",
+     "image": "asis/crimp_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 2,
+       "title": "Finger Trainers | Portable Edges, Mono & Duo Holds for ...",
+       "link": "https://www.maxclimbing.com/collections/finger-trainers?srsltid=AU7gw4UhCJvSOp52yf18FEyLff3CrBq0acnZo3rnFDRCQY6Eq99tbRuq",
+       "domain": "maxclimbing.com",
+       "kind": "store / brand",
+       "snippet": "Finger trainers are the flexible alternative to a fixed hangboard. Same training principle — progressive loading on specific grip positions"
+      },
+      {
+       "position": 3,
+       "title": "Climbing Grip Trainer",
+       "link": "https://www.amazon.com/climbing-grip-trainer/s?k=climbing+grip+trainer",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "12 Unique Resin Holds with Color-Guided Training Paths, Premium Wood Finger Strength Trainer for Climbers, Portable Bouldering Gift for Men & Women"
+      },
+      {
+       "position": 4,
+       "title": "Talon Ball Grip Trainer",
+       "link": "https://frictitiousclimbing.com/products/talon-ball-grip-trainer?srsltid=AU7gw4XIAh6zyYMAkBhe_Cp-aBFQSB8_1kpIcW1eC1MX_HEoA_m8i5z0",
+       "domain": "frictitiousclimbing.com",
+       "kind": "store / brand",
+       "snippet": "This tool specifically strengthens the lumbrical muscles, leading to inherently higher pinch strength while reducing the potential for injury."
+      },
+      {
+       "position": 5,
+       "title": "5 Best Grip Strengtheners in 2026",
+       "link": "https://www.99boulders.com/best-grip-strengtheners",
+       "domain": "99boulders.com",
+       "kind": "article",
+       "snippet": "Top Pick: IronMind Captains of Crush Hand Gripper · Best Finger Trainer: Gripmaster Pro Hand Exerciser · Best Value: Luxon Hand Grip Strengthener."
+      },
+      {
+       "position": 6,
+       "title": "Grip Training For Climbing",
+       "link": "https://godsofgrip.com/pages/grip-training-for-climbing?srsltid=AU7gw4X9VRevZDpfliBmoeN0l_uaG9OUpXyZhiMPIvfEWpcdUK3yjM-I",
+       "domain": "godsofgrip.com",
+       "kind": "store / brand",
+       "snippet": "Finger Exerciser. This versatile accessory can be used for both warming up or developing finger strength. Having strong fingers is essential for climbing."
+      }
+     ],
+     "paa": [
+      "Do finger strengtheners work for climbing?",
+      "What is the best climbing finger trainer?",
+      "How to train your fingers for climbing?",
+      "Why do people with ADHD like rock climbing?"
+     ],
+     "popular_products": [
+      {
+       "title": "Climbing Finger Strength Trainer | Kumo Pocket Block | Grip ",
+       "price": "$29.82",
+       "source": "Etsy"
+      },
+      {
+       "title": "MONO PEBBLE - Iso Finger Trainer Forest Green",
+       "price": "$11.00",
+       "source": "Crux Gear"
+      },
+      {
+       "title": "Nature Climbing Lifting Pin",
+       "price": "$59.00",
+       "source": "Nature Climbing"
+      },
+      {
+       "title": "MONO ROCK - Finger Iso Trainer Forest Green",
+       "price": "$18.00",
+       "source": "Crux Gear"
+      },
+      {
+       "title": "Gripmaster Heavy Resistance Hand Exerciser, Black",
+       "price": "$21.95",
+       "source": "REI"
+      },
+      {
+       "title": "The NUG",
+       "price": "$50.00",
+       "source": "Frictitious Climbing"
+      },
+      {
+       "title": "Handcrafted Boulder Block Multi-function Finger Strength Tra",
+       "price": "$21.99",
+       "source": "Walmart - Seller"
+      },
+      {
+       "title": "Portable Climbing Finger Strength Trainer Kikko Crimp Block ",
+       "price": "$37.23",
+       "source": "Etsy"
+      },
+      {
+       "title": "Talon Ball Grip Trainer",
+       "price": "$25.00",
+       "source": "Frictitious Climbing"
+      },
+      {
+       "title": "So iLL Strength Trainer",
+       "price": "$22.00",
+       "source": "REI"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A climbing finger trainer is a specialized portable tool or device used to build finger strength, improve forearm endurance, and prevent injuries for rock climbers. Popular Types of Finger Trainers Effective Training Methods Learn more about different portable finger training equipment and how they rank for edge loading: If you're looking for a specific type of training, tell me:",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in the US: maxclimbing.com (store / brand). In the product strip: Crux Gear, Etsy, Frictitious Climbing, Nature Climbing, REI. Amazon here is crowded."
+    }
+   ],
+   "compare": {
+    "match_name": "Hand Strength Trainer (Amazon Australia, A$18)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same pistol-grip device at a fifth of the price.",
+    "brand_image": "crimp/img_1.jpg",
+    "match_image": "lens/crimp_thumb_00.jpg"
+   }
+  }
+ ],
+ "ranking": [
+  "crimp"
+ ]
+}

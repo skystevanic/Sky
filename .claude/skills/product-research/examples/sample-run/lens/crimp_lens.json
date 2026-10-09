@@ -1,0 +1,179 @@
+{
+ "slug": "crimp",
+ "same": [
+  0,
+  2,
+  4,
+  5,
+  6,
+  10,
+  46,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  84,
+  85,
+  87
+ ],
+ "brand_price": 59.0,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "au",
+   "status": "weak",
+   "why": "5 copies, all hard to find. Cheapest: Amazon.com.au at A$18 (not in the top results, 14 reviews)",
+   "prices": {
+    "brand": 88.5,
+    "cheapest_copy": 18.0,
+    "typical_copy": 90.0,
+    "cheapest_real_copy": null,
+    "priced_copies": 2
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon.com.au",
+     "title": "Hand Strength Trainer, Grip Strength Trainer Adjustable ...",
+     "link": "https://www.amazon.com.au/Strength-Trainer-Adjustable-Training-Mechanical/dp/B0D86W1X5N",
+     "price_text": "A$18",
+     "kind": "marketplace",
+     "thumb_file": null,
+     "looked_up": true,
+     "reviews": 14,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 14 reviews"
+    },
+    {
+     "source": "Aussie Finds",
+     "title": "GPro™ Hand & Finger Strength Trainer – Aussie Finds",
+     "link": "https://www.aussiefinds.com.au/products/finger-trainer",
+     "price_text": "A$90",
+     "kind": "other store",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "AliExpress",
+     "title": "Buy with free shipping on aliexpress",
+     "link": "https://www.aliexpress.com/category/200003539/hand-grips.html",
+     "price_text": null,
+     "kind": "other store",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "slow delivery from overseas"
+    },
+    {
+     "source": "Amazon.com.au",
+     "title": "FitBeast Grip Strengthener Forearm Strengthener Hand Grips ...",
+     "link": "https://www.amazon.com.au/FitBeast-Strength-Trainer-Muscle-Building/dp/B0CR78BW1F",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Alibaba",
+     "title": "FDFIT Multifunctional gripper finger strength training ...",
+     "link": "https://www.alibaba.com/product-detail/FDFIT-Multifunctional-gripper-finger-strength-training_1601399048153.html",
+     "price_text": null,
+     "kind": "other store",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "slow delivery from overseas"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "us",
+   "status": "weak",
+   "why": "5 copies, all hard to find. Cheapest: AliExpress (slow delivery from overseas)",
+   "prices": {
+    "brand": 59.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "AliExpress",
+     "title": "Buy with free shipping on aliexpress",
+     "link": "https://www.aliexpress.com/category/200003539/hand-grips.html",
+     "price_text": null,
+     "kind": "other store",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "slow delivery from overseas"
+    },
+    {
+     "source": "DHgate",
+     "title": "Adjustable Hand Grip Trainer With Counter For Wrist,... From ...",
+     "link": "https://in.dhgate.com/product/5-60kg-adjustable-hand-grip-with-five-finger/1118714761.html",
+     "price_text": null,
+     "kind": "other store",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "slow delivery from overseas"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: THE FINGER BLITZER - adjustable finger strength ...",
+     "link": "https://www.amazon.com/clp/B07BM8X165",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Walmart",
+     "title": "Grip Strength Trainer, Hand Grip Strengthener, Adjustable ...",
+     "link": "https://www.walmart.com/ip/Grip-Strength-Trainer-Hand-Grip-Strengthener-Adjustable-Resistance-22-132Lbs-10-60kg-Forearm-Strengthener-Perfect-Musicians-Athletes-Hand-Injury-Reco/5533065568",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Walmart",
+     "title": "Hyknon Hand Grip Exerciser Strengthener, Counting Grip ...",
+     "link": "https://www.walmart.com/ip/Hyknon-Hand-Grip-Exerciser-Strengthener-Counting-Grip-Strength-Trainer-Ajustable-Resistance-Grip-Strengthener-Protable-Grip-Strength-Device-Forearm-S/20086457831?classType=VARIANT",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": null,
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    }
+   ],
+   "picture_matches": 60
+  }
+ ]
+}

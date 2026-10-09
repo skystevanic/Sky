@@ -1,0 +1,109 @@
+{
+ "run": {
+  "title": "Product Research: sample report",
+  "date": "2026-09-21",
+  "prepared_for": "Sample",
+  "countries": [
+   "au",
+   "us"
+  ],
+  "assumptions": [
+   "Product costs are estimates",
+   "Ad counts only include ads that use the exact product words",
+   "Green on a map means we found nobody else selling it there, not that nobody does"
+  ]
+ },
+ "headline": "One brand has made this pay with ads for ten months. Copies exist from A$18, but a shopper searching Amazon or Google does not find them: none is in the top results and the best has 14 reviews. Not unique, so win on audience, not on product.",
+ "products": [
+  {
+   "slug": "crimp",
+   "name": "Climber's Finger Trainer (GripX Pro)",
+   "brand": "Go Crimp",
+   "url": "https://gocrimp.com/products/finger-trainer",
+   "category": "Climbing training gear",
+   "price": "US$59 (kit US$119)",
+   "ad_days": "Advertising since 2025-11-27",
+   "store_platform": "Shopify",
+   "store_launched": "2025-01",
+   "store_products": "6 products, all climbing training",
+   "one_liner": "One brand has made this pay with ads for ten months. Copies exist from A$18, but a shopper searching Amazon or Google does not find them: none is in the top results and the best has 14 reviews. Not unique, so win on audience, not on product.",
+   "verdict": "Test now",
+   "overall": 62,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 5,
+    "margin": 8,
+    "viral": 6,
+    "pain": 7,
+    "differentiation": 4
+   },
+   "why": [
+    "Go Crimp has kept ads live since November 2025 and now runs most of the live ads for it. Nobody pays that long for ads that lose money",
+    "The copies are hidden: in both countries none shows up when a shopper types the product words into Amazon or Google, and the best-known one has 14 reviews",
+    "A supplier clearly exists (the same device retails at A$18), so the margin at US$59 is large"
+   ],
+   "risk": "The copies are hidden today, not gone. If the product takes off they will surface, and Go Crimp already owns the climbers.",
+   "next": [
+    "Start in the US or Australia",
+    "Take it to an audience Go Crimp ignores: guitarists, golfers or hand rehab. 3 short ads, US$20 a day for 5 days"
+   ],
+   "best_region": "Both are light green: copies exist but shoppers do not find them.",
+   "snapshot": {
+    "icp": "Indoor climbers and boulderers, 20–40, who train at home",
+    "job": "Build finger strength away from the wall",
+    "cogs": "US$8–14 landed (estimate)",
+    "margin": "~75% at US$59 (estimate)",
+    "claims": "Built with physios and coaches; per-finger loading",
+    "demoable": "Yes: one-hand squeeze, anywhere"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Walmart Canada sells the same device for C$10. No chain has it in the other five"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "Copies from A$18 exist, but none is in the top search results and the best has 14 reviews. Go Crimp has sold at US$59 beside them for ten months"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand runs most of the ads and has done since November 2025"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Avoid injury-cure claims"
+    }
+   ],
+   "angles": [
+    "Same device for guitarists and pianists",
+    "Arthritis and rehab hand strength (careful with health claims)",
+    "Golf and tennis grip strength",
+    "Office 'desk workout' gadget",
+    "Gift for the climber who has everything"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 0,
+    "match_name": "Hand Strength Trainer (Amazon Australia, A$18)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same pistol-grip device at a fifth of the price."
+   },
+   "advertiser_takeaway": "Go Crimp owns this. 95 of the 127 live ads are theirs, and the 'other' advertisers all link to gocrimp.com, so they are Go Crimp's own creator pages. Their oldest live ad is from November 2025: ten months of proof that the ads pay.",
+   "tile_notes": {
+    "Amazon": {
+     "head": "Copies from A$18",
+     "detail": "The same device is on Amazon in every country checked.",
+     "colour": "amber"
+    },
+    "Demand": {
+     "detail": "+14% Google searches on the year before. A steady niche."
+    }
+   }
+  }
+ ]
+}

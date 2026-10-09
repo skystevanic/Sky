@@ -1,0 +1,169 @@
+{
+ "slug": "crimp",
+ "phrase": "finger trainer",
+ "checked": "2026-09-20",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22finger%20trainer%22",
+ "ads_loaded": 126,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 8,
+ "advertisers_with_3_plus_ads": 1,
+ "biggest_advertiser_share": 0.94,
+ "brands_new_in_last_2_months": 7,
+ "brands_advertising_3_plus_months": 1,
+ "ads_started_last_2_months": 107,
+ "ads_older_than_6_months": 5,
+ "pattern": "one brand owns it",
+ "plain": "8 brands, but gocrimp.com runs 118 of the 126 ads. Of the 3 biggest shops we could date, 3 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2025-11": 2,
+  "2025-12": 3,
+  "2026-05": 1,
+  "2026-07": 13,
+  "2026-08": 18,
+  "2026-09": 89
+ },
+ "brand_months": {
+  "2025-11": 1,
+  "2026-08": 1,
+  "2026-09": 6
+ },
+ "top_advertisers": [
+  {
+   "name": "Go Crimp",
+   "pages": 4,
+   "page_names": [
+    "Go Crimp",
+    "Isaac Balwan",
+    "Christopher Brown",
+    "Ilona the Explorer"
+   ],
+   "ads": 118,
+   "oldest_live_ad": "2025-11-27",
+   "page_likes": 508,
+   "headline": "No excuses.",
+   "shop": "gocrimp.com",
+   "product_page": "https://gocrimp.com/products/finger-trainer",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=554760361052590",
+   "shop_open_since": "2025-01-28"
+  },
+  {
+   "name": "Boulderball",
+   "pages": 1,
+   "page_names": [
+    "Boulderball"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-05",
+   "page_likes": 1766,
+   "headline": "Every Climber Needs Boulderball",
+   "shop": "boulderball.com",
+   "product_page": "https://www.boulderball.com/en/pages/how-it-works",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105970268842976",
+   "shop_open_since": "2022-07-08"
+  },
+  {
+   "name": "sheger mart",
+   "pages": 1,
+   "page_names": [
+    "sheger mart"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-11",
+   "page_likes": 48,
+   "headline": "price 1500birr with free delivery",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1110943872112191",
+   "shop_open_since": null
+  },
+  {
+   "name": "Saamionline.com",
+   "pages": 1,
+   "page_names": [
+    "Saamionline.com"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-14",
+   "page_likes": 261253,
+   "headline": "Dhamaan 𝐀𝐥𝐚𝐚𝐛𝐚𝐡𝐚𝐧 𝐗𝐮𝐥𝐤𝐚 𝐚𝐡 hadda ka dalbo Saamionline.com Magaalo kasta oo aad ku sugantah",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1835390106774574",
+   "shop_open_since": null
+  },
+  {
+   "name": "EStock",
+   "pages": 1,
+   "page_names": [
+    "EStock"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-06",
+   "page_likes": 841,
+   "headline": "Stress Ball. Grip Trainer. Rehab Tool.",
+   "shop": "estocklb.com",
+   "product_page": "https://estocklb.com/products/grip-strengthener",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=584608664743620",
+   "shop_open_since": "2025-04-23"
+  },
+  {
+   "name": "Go Well ",
+   "pages": 1,
+   "page_names": [
+    "Go Well "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-18",
+   "page_likes": 27380,
+   "headline": "{{product.name}}",
+   "shop": "gowellbd.com",
+   "product_page": "http://gowellbd.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=129702880234307",
+   "shop_open_since": null
+  },
+  {
+   "name": "Sennasin MART",
+   "pages": 1,
+   "page_names": [
+    "Sennasin MART"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-18",
+   "page_likes": 29,
+   "headline": "6 Fret Guitar Finger Trainer Chord Practice Tool",
+   "shop": "sennasinmart.com",
+   "product_page": "https://sennasinmart.com/product/guitar-part-portable-6-fret-guitar-finger-trainer-chord-practice-tool-with-rotatable-chords-chart-screen-for-beginner.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1158497270678489",
+   "shop_open_since": null
+  },
+  {
+   "name": "Remedic",
+   "pages": 1,
+   "page_names": [
+    "Remedic"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-19",
+   "page_likes": 6102,
+   "headline": "Remedic Hand Exerciser for Arthritis – Grip & Finger Strength Trainer | Includes resistanc",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Remedic-Hand-Finger-Training-System/dp/B0CW32Q3LT/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103669215107581",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "gocrimp.com": 118,
+  "boulderball.com": 2,
+  "estocklb.com": 1,
+  "gowellbd.com": 1,
+  "sennasinmart.com": 1,
+  "amazon.com": 1
+ },
+ "cost_usd": 0.49,
+ "shops_checked": 3,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 0
+}

@@ -1,0 +1,127 @@
+{
+ "slug": "crimp",
+ "query": "finger strengthener climbing",
+ "brand": "GripX",
+ "countries": [
+  {
+   "cc": "au",
+   "label": "Australia",
+   "amazon_site": "amazon.com.au",
+   "note": null,
+   "pressure": "high",
+   "why": "top listing 13,200 reviews; 3 of the first 20 have 1,000+; at least 350 bought last month across them",
+   "listings_seen": 20,
+   "top_reviews": 13200,
+   "n_1000_plus": 3,
+   "cheapest": 7.64,
+   "typical": 12.99,
+   "bought_last_month_min": 350,
+   "brand_present": false,
+   "top3": [
+    {
+     "title": "D Addario Varigrip Hand Exerciser Improve Dexterity and Strength in Fingers, Hands, Forear",
+     "price_text": "$31.00",
+     "price": 31.0,
+     "rating": 4.6,
+     "reviews": 13200,
+     "bought_text": "50+ bought in past month",
+     "bought": 50,
+     "sponsored": false,
+     "badges": null,
+     "link": "https://www.amazon.com.au/DAddario-Varigrip-Adjustable-Hand-Exerciser/dp/B001OCGGEM/",
+     "thumbnail": "https://m.media-amazon.com/images/I/81TYymxHffL._AC_UL320_.jpg",
+     "is_brand": false
+    },
+    {
+     "title": "Finger Strengthener - Finger Exerciser for Forearm and Hand Strengthener - Hand Grip Worko",
+     "price_text": "$20.27",
+     "price": 20.27,
+     "rating": 4.4,
+     "reviews": 4600,
+     "bought_text": null,
+     "bought": null,
+     "sponsored": false,
+     "badges": null,
+     "link": "https://www.amazon.com.au/Finger-Strengthener-Exerciser-Equipment-Musician/dp/B0949VT6DY/",
+     "thumbnail": "https://m.media-amazon.com/images/I/81vBh8qfkML._AC_UL320_.jpg",
+     "is_brand": false
+    },
+    {
+     "title": "Finger Strengthener - Finger Exerciser for Forearm and Hand Strengthener - Hand Grip Worko",
+     "price_text": "$16.11",
+     "price": 16.11,
+     "rating": 4.4,
+     "reviews": 4600,
+     "bought_text": null,
+     "bought": null,
+     "sponsored": false,
+     "badges": null,
+     "link": "https://www.amazon.com.au/Pack-Finger-Strengthener-Exerciser-Equipment/dp/B07T1M7LVC/",
+     "thumbnail": "https://m.media-amazon.com/images/I/81788yKtZgL._AC_UL320_.jpg",
+     "is_brand": false
+    }
+   ]
+  },
+  {
+   "cc": "us",
+   "label": "United States",
+   "amazon_site": "amazon.com",
+   "note": null,
+   "pressure": "high",
+   "why": "top listing 32,800 reviews; 16 of the first 20 have 1,000+; at least 36,600 bought last month across them",
+   "listings_seen": 20,
+   "top_reviews": 32800,
+   "n_1000_plus": 16,
+   "cheapest": 6.29,
+   "typical": 12.99,
+   "bought_last_month_min": 36600,
+   "brand_present": false,
+   "top3": [
+    {
+     "title": "FitBeast Grip Strengthener Forearm Strengthener Hand Grips Strengthener Kit - 5 Pack Adjus",
+     "price_text": "$9.89",
+     "price": 9.89,
+     "rating": 4.5,
+     "reviews": 32800,
+     "bought_text": "10K+ bought in past month",
+     "bought": 10000,
+     "sponsored": false,
+     "badges": [
+      "Limited time deal"
+     ],
+     "link": "https://www.amazon.com/FitBeast-Grip-Strengthener-Forearm-Grips/dp/B07G824Z3V/",
+     "thumbnail": "https://m.media-amazon.com/images/I/718tBdzFF6L._AC_UL320_.jpg",
+     "is_brand": false
+    },
+    {
+     "title": "Pnrskter Hand Grip Strengthener, Finger Exerciser, Grip Strength Trainer",
+     "price_text": "$8.39",
+     "price": 8.39,
+     "rating": 4.4,
+     "reviews": 29000,
+     "bought_text": "2K+ bought in past month",
+     "bought": 2000,
+     "sponsored": false,
+     "badges": null,
+     "link": "https://www.amazon.com/Strengthener-Exerciser-Strength-Material-Stretcher/dp/B078L1KZBZ/",
+     "thumbnail": "https://m.media-amazon.com/images/I/71RG2kZyxtL._AC_UL320_.jpg",
+     "is_brand": false
+    },
+    {
+     "title": "D\u2019Addario Varigrip Hand Exerciser\u2013Improve Dexterity and Strength in Fingers",
+     "price_text": "$19.99",
+     "price": 19.99,
+     "rating": 4.7,
+     "reviews": 13400,
+     "bought_text": "1K+ bought in past month",
+     "bought": 1000,
+     "sponsored": false,
+     "badges": null,
+     "link": "https://www.amazon.com/DAddario-Exerciser-Improve-Dexterity-Comfortable-Conditioning/dp/B001OCGGEM/",
+     "thumbnail": "https://m.media-amazon.com/images/I/81TYymxHffL._AC_UL320_.jpg",
+     "is_brand": false
+    }
+   ]
+  }
+ ]
+}
