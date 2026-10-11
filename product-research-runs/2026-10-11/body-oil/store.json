@@ -1,0 +1,117 @@
+{
+  "input_url": "https://nordbody.com/products/peptide-body-oil",
+  "store_root": "https://nordbody.com",
+  "platform": "shopify",
+  "title": "NØRD BODY Peptide Body Oil",
+  "vendor": "Nord Body",
+  "product_type": "",
+  "created_at": "2026-06-23T23:45:00+02:00",
+  "updated_at": "2026-10-11T13:49:34+02:00",
+  "price_min": 38.0,
+  "price_max": 55.0,
+  "was_price": "62.00",
+  "n_variants": 2,
+  "variants": [
+    {
+      "title": "150ml",
+      "price": "38.00",
+      "was": "62.00",
+      "available": null
+    },
+    {
+      "title": "240ml",
+      "price": "55.00",
+      "was": "87.00",
+      "available": null
+    }
+  ],
+  "description": "Smoother-looking skin starts with a daily massage. Our fast-absorbing oil helps reduce the appearance of uneven texture with a 5–10 minute ritual, 1–2× daily—lightweight, non-sticky, spa-fresh. ✓ Deeply hydrates for a supple finish – Locks in moisture to visibly plump and soften so texture appears smoother. ✓ Ideal glide, zero stickiness – Cushions hands or tools for firm pressure without tugging—absorbs cleanly, won’t cling to clothes. ✓ Built for your routine – Pairs perfectly with dry brushing or a roller; use AM/PM after shower or workout for best cosmetic results.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/1_f4043e3a-2f83-4ad6-aa38-7cf0ee10a65e.png?v=1782818016",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/3_4943fded-3ce8-42fe-91b3-357c7adb32ab.png?v=1790530781",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/2_87561563-75d4-4d6e-8e71-8c5ebac5b2a8.png?v=1790530781",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/4_eaf31c24-9293-4075-b94b-878aa8fb7768.png?v=1790530781",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/Kenna_NORD.png?v=1791630838",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/6_3695ddb9-1dec-429e-8627-9ccdfab4d3c2.png?v=1790530781",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/5_32d61e29-d83b-4906-bc5b-be595fb41d28.png?v=1790530781",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/7_a8d165e5-3b86-40a2-a98c-36f89d242470.png?v=1790530780",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/6_238b94a7-66ff-4d07-93e2-88413e6d6be1.png?v=1782818016",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/7_85a22f21-66b1-414c-8f65-37887e2f6b03.png?v=1782818016",
+    "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/8_6f7be89c-f2ce-43cd-8473-ade537c0abfe.png?v=1782818016"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 16,
+    "first_product_created": "2026-04-14T05:17:52+02:00",
+    "newest": [
+      {
+        "title": "NØRD BODY Anti-Cellulite Massage Oil",
+        "created_at": "2026-10-10",
+        "price": "38.00"
+      },
+      {
+        "title": "NØRD BODY Peptide Body Oil",
+        "created_at": "2026-10-10",
+        "price": "55.00"
+      },
+      {
+        "title": "NØRD BODY Peptide Body Oil",
+        "created_at": "2026-10-05",
+        "price": "63.00"
+      },
+      {
+        "title": "NØRD BODY Peptide Body Oil",
+        "created_at": "2026-10-02",
+        "price": "57.00"
+      },
+      {
+        "title": "NØRD BODY Anti-Cellulite Massage Oil",
+        "created_at": "2026-10-02",
+        "price": "43.00"
+      },
+      {
+        "title": "NØRD BODY Anti-Cellulite Massage Oil",
+        "created_at": "2026-09-21",
+        "price": "38.00"
+      },
+      {
+        "title": "NØRD BODY Peptide Body Oil",
+        "created_at": "2026-09-21",
+        "price": "55.00"
+      },
+      {
+        "title": "NØRD BODY Peptide Body Oil",
+        "created_at": "2026-09-18",
+        "price": "55.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "AUD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/body-oil/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/1_f4043e3a-2f83-4ad6-aa38-7cf0ee10a65e.png?v=1782818016"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/body-oil/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/3_4943fded-3ce8-42fe-91b3-357c7adb32ab.png?v=1790530781"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/body-oil/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/2_87561563-75d4-4d6e-8e71-8c5ebac5b2a8.png?v=1790530781"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/body-oil/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/4_eaf31c24-9293-4075-b94b-878aa8fb7768.png?v=1790530781"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/body-oil/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/Kenna_NORD.png?v=1791630838"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/body-oil/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/6_3695ddb9-1dec-429e-8627-9ccdfab4d3c2.png?v=1790530781"
+    }
+  ]
+}

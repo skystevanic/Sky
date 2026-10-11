@@ -1,0 +1,1707 @@
+{
+ "slug": "body-oil",
+ "image_url": "https://cdn.shopify.com/s/files/1/1063/1315/4899/files/1_f4043e3a-2f83-4ad6-aa38-7cf0ee10a65e.png?v=1782818016",
+ "brand_domain": "nordbody.com",
+ "matches_per_country": {
+  "au": 60,
+  "us": 60,
+  "uk": 58,
+  "ca": 0,
+  "de": 60,
+  "nz": 60
+ },
+ "candidates": [
+  {
+   "source": "Chemist Warehouse",
+   "title": "Buy Mother Natal Belly & Body Oil 120ml online at Chemist ...",
+   "link": "https://www.chemistwarehouse.com.au/buy/168189/mother-natal-belly-body-oil-120ml",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK53E5XPsTeFfRIfn5hcYNHE6Xy84sumasnSL611dfPAcGByyX",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$50*"
+    }
+   },
+   "priced": true,
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_00.jpg"
+  },
+  {
+   "source": "MYER",
+   "title": "Alpha-H Firming Peptide Body Oil with Hexapeptide-8 100ml | MYER",
+   "link": "https://www.myer.com.au/p/alpha-h-firming-peptide-body-oil-with-hexapeptide-8-100ml",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYPdXTfGSswnysP_b-rZfVEmnUQvFF0bkbbh6BJO5c6irE8T9H",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$50*"
+    }
+   },
+   "priced": true,
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_01.jpg"
+  },
+  {
+   "source": "Rossmann",
+   "title": "Nø Flawless tøday Calming Peptide Glow Serum online kaufen ...",
+   "link": "https://www.rossmann.de/de/pflege-und-duft-no-flawless-today-calming-peptide-glow-serum/p/4260524943429",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTESXk3JIKGMPzm1k6udGDRv11VuUER6fhDz4DMpkDkl1Qvlwqb",
+   "price_text": "€16*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€16*"
+    }
+   },
+   "priced": true,
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_02.jpg"
+  },
+  {
+   "source": "Rossmann",
+   "title": "Nø proud today Slow-Aging Serum online kaufen | rossmann.de",
+   "link": "https://www.rossmann.de/de/pflege-und-duft-no-proud-today-slow-aging-serum/p/4260524941135",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBuL1VgtBr8OeW0QXryeNdSvOecBclgefyofF2nGlJkJyeEZXr",
+   "price_text": "€17*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€17*"
+    }
+   },
+   "priced": true,
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_03.jpg"
+  },
+  {
+   "source": "Douglas",
+   "title": "Geek & Gorgeous Serum Power Peptides Anti-Aging Serum ...",
+   "link": "https://www.douglas.de/de/p/m002458003",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSvhnD3669fw6gqMzuaL06bgbTzUmmcmSj2TQRuCvzbgJ7QfEy",
+   "price_text": "€17*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€17*"
+    }
+   },
+   "priced": true,
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_04.jpg"
+  },
+  {
+   "source": "Chemist Warehouse",
+   "title": "Buy Oil Garden Lymphatic Boost Body Oil 100ml Online at ...",
+   "link": "https://www.chemistwarehouse.co.nz/buy/148441/oil-garden-lymphatic-boost-body-oil-100ml",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRps64m1SE8zr-GG2dmboAmHq_GFUvOsTlDo5wBcokQo-G_caHj",
+   "price_text": "NZ$24*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$24*"
+    }
+   },
+   "priced": true,
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_05.jpg"
+  },
+  {
+   "source": "Mecca",
+   "title": "Alpha-H - Firming Peptide Body Oil with Hexapeptide-8 | MECCA",
+   "link": "https://www.mecca.com/en-au/alpha-h/firming-peptide-body-oil-with-hexapeptide-8-I-076920/",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcspG0Rfsi4m8wXNNhqNKs3T6dzwtPCCLZroheavDrIhPba-88",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$50*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$56*"
+    }
+   },
+   "priced": true,
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_06.jpg"
+  },
+  {
+   "source": "Alpha-H Skincare Australia",
+   "title": "Firming Peptide Body Oil | Alpha-H Skincare Australia",
+   "link": "https://alpha-h.com/products/firming-peptide-body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUUgOnmkXfAEO1BMfhqK40MiDu_xoyI_Tw_n4TZj-eeTEuz1wP",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$50*"
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_07.jpg"
+  },
+  {
+   "source": "Adore Beauty",
+   "title": "Alpha-H Firming Peptide Body Oil with Hexapeptide-8 100ml ...",
+   "link": "https://www.adorebeauty.com.au/p/alpha-h/alpha-h-firming-peptide-body-oil-with-hexapeptide-8-100ml.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNsdLBccs_LvhgNvHuVOlUNLPhYDtxhxDmaDyK4BGo-UrOsPeg",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$50*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_08.jpg"
+  },
+  {
+   "source": "WeLoveUs.Shop",
+   "title": "Teak and Oud Wood Body Oil – WeLoveUs",
+   "link": "https://weloveus.shop/products/teak-and-oud-wood-body-oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfyfGmeyc4XI4Hn3IsKXrJvLfYaX7GJSyjY4zsU5YEKcvqPToF",
+   "price_text": "$18*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$18*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_09.jpg"
+  },
+  {
+   "source": "Space NK",
+   "title": "Space NK Nordic Wilds Body Oil | Space NK",
+   "link": "https://www.spacenk.com/uk/bath-body/body-moisturiser-oils/body-oil/nordic-wilds-body-oil-MUK200038325.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVaNC5IhmmxM3W9PDjnUbpDRA2hZHBIRqRVEMlqCzVjvVxlG8I",
+   "price_text": "£18*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£18*"
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_10.jpg"
+  },
+  {
+   "source": "Alpha-H Skincare UK",
+   "title": "Firming Peptide Body Oil – Alpha-H Skincare UK",
+   "link": "https://uk.alpha-h.com/products/firming-peptide-body-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSjr0EhWYqtmgsGSx5DoCaTsXLtK6UiwmyY1mM9LltwHmHmk32",
+   "price_text": "£32*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£32*"
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_11.jpg"
+  },
+  {
+   "source": "Oz Hair & Beauty",
+   "title": "Alpha-H Firming Peptide Body Oil with Hexapeptide-8 100ml ...",
+   "link": "https://www.ozhairandbeauty.com/products/alpha-h-firming-peptide-body-oil-with-hexapeptide-8-100ml",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnVNWYuSFTpwooMny-dup6hmw0LvTUoBpy2UAobRdCK7d84VQ1",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$50*"
+    }
+   },
+   "priced": true,
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_12.jpg"
+  },
+  {
+   "source": "Trilogy Skincare",
+   "title": "Trilogy Natural Skin Care Pure Plant Body Oil – Trilogy ...",
+   "link": "https://www.trilogyproducts.com.au/products/pure-plant-body-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNOqE7MiliwEEtU1OMTljmDnYWAKkz5vZI8YYbX5PqtBUmXxFL",
+   "price_text": "A$30*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$30*"
+    }
+   },
+   "priced": true,
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_13.jpg"
+  },
+  {
+   "source": "Lavandula Farm",
+   "title": "Body Aches Bath & Massage Oil | Spike Lavender, Juniper ...",
+   "link": "https://www.lavandula.com.au/products/spike-lavender-juniper-rosemary-massage-and-bath-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEkDVY2WfLsIcQe0EJx4SxoZFxvkrpCc1ZwPaOFEioi4nrUg3Q",
+   "price_text": "A$30*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$30*"
+    }
+   },
+   "priced": true,
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_14.jpg"
+  },
+  {
+   "source": "Organic Ministry Skincare",
+   "title": "Bath & Body Oil – Organic Ministry Skincare",
+   "link": "https://www.organicministry.com.au/products/bath-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS97y9OS2nWAQN1ZkLHPnhdDcsUi22MOhvOkX8dyZd73nFe9tGP",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$50*"
+    }
+   },
+   "priced": true,
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_15.jpg"
+  },
+  {
+   "source": "denu",
+   "title": "Relaxing Body Oil - the best for hydrated skin - denu",
+   "link": "https://www.denu.com.au/products/new-relaxing-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIeCdQlxjZALx4JXSOtJJgOmRLjDyFBbowfrLSQbP38sD2WsZE",
+   "price_text": "A$10*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$10*"
+    }
+   },
+   "priced": true,
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_16.jpg"
+  },
+  {
+   "source": "Go For Zero",
+   "title": "Noosa Basics Stretch Mark Oil | Organic, Vegan, Palm Oil ...",
+   "link": "https://goforzero.com.au/products/noosa-basics-stretch-mark-body-oil-100ml",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShI0C6qKl7VcGoO9DHpNkLR_QwuIuM3MSTzI9F8dq_KaqQGF5J",
+   "price_text": "A$35*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$35*"
+    }
+   },
+   "priced": true,
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_17.jpg"
+  },
+  {
+   "source": "TerryWhite Chemmart",
+   "title": "BOOST LAB Jojoba + Bio-Nourishing Face Oil 30ml - BOOST LAB",
+   "link": "https://terrywhitechemmart.com.au/shop/product/boost-lab-jojoba-bio-nourishing-face-oil-30ml",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEFKzRYYucLXDFcwdIYYn_4tCovq3hXlYFnewuFL3DKm0BIg5B",
+   "price_text": "A$30*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$30*"
+    }
+   },
+   "priced": true,
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_18.jpg"
+  },
+  {
+   "source": "remedial massage",
+   "title": "The Body Oil - 200mls Jojoba, Macadamia & Almond Oil — BODY ...",
+   "link": "https://bodyinflowremedialmassage.com.au/shop/p/the-body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVzJpXzWvzsB0ZhQeDBKA7hsQB6Kl3EwvIVZtpC3XtIS5w5Rk",
+   "price_text": "A$39*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$39*"
+    }
+   },
+   "priced": true,
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_19.jpg"
+  },
+  {
+   "source": "biotyspa au",
+   "title": "Firming Body Oil 400ML – BIOTYSPA AU",
+   "link": "https://biotyspa.com/products/firming-body-oil-400ml",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRhM5rusV319qFdLWGrS7oc_2DouxLBHIdHIYx1UXFrnUI4l4",
+   "price_text": "A$129*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$129*"
+    }
+   },
+   "priced": true,
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_20.jpg"
+  },
+  {
+   "source": "Scented Life",
+   "title": "Hydrate Body Oil Light - Scented Life",
+   "link": "https://www.scentedlife.com.au/product/hydrate/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5gcHDDtkbXZVeDrkksXh7jsxb0PXVnXjyXZGIvqaA33aobJM5",
+   "price_text": "A$69*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$69*"
+    }
+   },
+   "priced": true,
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_21.jpg"
+  },
+  {
+   "source": "Nood Australia",
+   "title": "Yarta Range | Native Australian Body Lotion – Nood Australia",
+   "link": "https://nood-australia.myshopify.com/products/yarta-range-native-australian-body-lotion",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5KgK2HqqAxmROK8IaC791F6DbI2JXzj6sAp3F6t0bkQyz7xK8",
+   "price_text": "A$20*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$20*"
+    }
+   },
+   "priced": true,
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_22.jpg"
+  },
+  {
+   "source": "SkinBliss",
+   "title": "Tone Body Oil 100ml - SkinBliss",
+   "link": "https://skinbliss.com.au/shop/tone-body-oil/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTb1gftXUc8qCz0b-9s09DMxG8yTAVIXCyQtQviSpcElL_jb7h",
+   "price_text": "A$25*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$25*"
+    }
+   },
+   "priced": true,
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_23.jpg"
+  },
+  {
+   "source": "Lavandula Farm",
+   "title": "Lavender Body Oil",
+   "link": "https://www.lavandula.com.au/products/sensatia-body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbmxyLgNdZ2W3iI5i93fp7R4J_xObrScGZd1IKPODVOWoUKh7",
+   "price_text": "A$35*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$35*"
+    }
+   },
+   "priced": true,
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_24.jpg"
+  },
+  {
+   "source": "PURE MAMA Skincare AUS",
+   "title": "Stretch Mark Belly & Body Oil - 100% Natural – PURE MAMA ...",
+   "link": "https://au.puremama.com/products/belly-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSXj7Gjf0ZlPFQl4uFhXf0McKtOiBDH_-tDr80q5lPRugcCN9W",
+   "price_text": "A$69*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$69*"
+    }
+   },
+   "priced": true,
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_25.jpg"
+  },
+  {
+   "source": "Adore Beauty",
+   "title": "Biotyspa Firming Body Oil 400ml - Adore Beauty",
+   "link": "https://www.adorebeauty.com.au/p/biotyspa/biotyspa-firming-body-oil-400ml.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyNa8kN5cwf0oBXneA3I37ZNdggoOjGad0cqA8Xh-8ZDEZ8CYs",
+   "price_text": "A$129*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$129*"
+    }
+   },
+   "priced": true,
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_26.jpg"
+  },
+  {
+   "source": "Black On Body",
+   "title": "raw body oil - earthy. fresh. unisex. — Black On Body",
+   "link": "https://www.blackonbody.com.au/shop/p/raw-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShVh-42FJtilJkEEK0Xd67JXBfHPBZGqm8mBRxux3o76BVv4Oh",
+   "price_text": "A$35*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$35*"
+    }
+   },
+   "priced": true,
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_27.jpg"
+  },
+  {
+   "source": "Plant Therapy",
+   "title": "Anti Aging Body Oil | Hydrating & Nourishing Body Oil",
+   "link": "https://www.planttherapy.com/products/anti-age-body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDcGfa9SqZnhHLGr3tvpfl_1y-Am5RtvsCEo41NogUp_RT2OCT",
+   "price_text": "$19*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$19*"
+    }
+   },
+   "priced": true,
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_28.jpg"
+  },
+  {
+   "source": "Twisted Tomboy",
+   "title": "Nourish+Hydrate Body Oil – Twisted Tomboy",
+   "link": "https://twistedtomboy.com/products/nourish-hydrate-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRm_3a0KclzqoQVPOwRz5PhQg_gP4Zb85VOSl9DMVIZxrsIYoR8",
+   "price_text": "$24*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$24*"
+    }
+   },
+   "priced": true,
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_29.jpg"
+  },
+  {
+   "source": "Nordisk Element",
+   "title": "Hydrating Body Serum | Spices & Sandalwood – Nordisk Element",
+   "link": "https://www.nordiskelement.com/products/hydrating-body-serum-spices-sandalwood-1",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNbXhWw6rV1iDmcTCUv_xUkzV686oxL6ybJY0PvQgThW1irn7R",
+   "price_text": "$29*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$29*"
+    }
+   },
+   "priced": true,
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_30.jpg"
+  },
+  {
+   "source": "Asterwood",
+   "title": "Total Body Peptide Duo – Asterwood",
+   "link": "https://www.asterwood.co/products/total-body-peptide-duo",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxgxpfUTNrGfec8PqYigmfIaL8upRNFynacCwh2tzpWC7Fbep",
+   "price_text": "$75*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$75*"
+    }
+   },
+   "priced": true,
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_31.jpg"
+  },
+  {
+   "source": "Modern Podiatrist",
+   "title": "NOURISH | Reparative Foot Lotion for Dry Skin | Modern ...",
+   "link": "https://modernpodiatrist.com/products/nourish-conditioning-foot-lotion",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMd8YuUYn--uOUxxS9ZXKPu6KK_tTKTTL3JUHOhbwv0DF-zPw0",
+   "price_text": "$24*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$24*"
+    }
+   },
+   "priced": true,
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_32.jpg"
+  },
+  {
+   "source": "2 NOTE",
+   "title": "Botanical Body Oil — Jojoba & Camellia – 2 NOTE",
+   "link": "https://2note.co/products/body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeK8Z1Q5w9ApaMtc4Z6sU8aK186_eZt5BYrAoFbrojOCcKDF41",
+   "price_text": "$68*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$68*"
+    }
+   },
+   "priced": true,
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_33.jpg"
+  },
+  {
+   "source": "Olive Tree People",
+   "title": "006 DOPE your skin BODY oil SERUM | Olive Tree People",
+   "link": "https://us.olivetreepeople.com/products/hemp-body-oil-serum-006",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRQ_lsdMLsVerxcDjJFZ4VAqYPSN6alQQpxCpNWOZcMtNN3Jf7",
+   "price_text": "$55*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$55*"
+    }
+   },
+   "priced": true,
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_34.jpg"
+  },
+  {
+   "source": "Edens Garden",
+   "title": "Vanilla Sandalwood | Essential Oil Body Oil | Edens Garden",
+   "link": "https://www.edensgarden.com/products/vanilla-sandalwood-body-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlwKKx_fDQzIA3ssUpihtmXvRdLUHLdfPTsRHHvP0ubn-I5g39",
+   "price_text": "$27*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$27*"
+    }
+   },
+   "priced": true,
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_35.jpg"
+  },
+  {
+   "source": "Loved01",
+   "title": "Lightweight, Balancing Face and Body Oil | Allure Best of ...",
+   "link": "https://loved01.com/products/face-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFWgpueia-Hti-D2dhQ2DUFqFiFGMgVfz5-PxBtfY4LmXbbkD7",
+   "price_text": "$19*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$19*"
+    }
+   },
+   "priced": true,
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_36.jpg"
+  },
+  {
+   "source": "Alpha-H Skincare",
+   "title": "Firming Peptide Body Oil – Alpha-H Skincare US",
+   "link": "https://us.alpha-h.com/products/firming-peptide-body-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSjr0EhWYqtmgsGSx5DoCaTsXLtK6UiwmyY1mM9LltwHmHmk32",
+   "price_text": "$36*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$36*"
+    }
+   },
+   "priced": true,
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_37.jpg"
+  },
+  {
+   "source": "BodyLove by Tal",
+   "title": "Body Oil | Herbal – BodyLove by Tal",
+   "link": "https://bodylovebytal.com/products/herbal-body-oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS56UkAg7BrOTn8478RPhqhJx6_L7atVHkDHRiRcNV8eA5ihc4m",
+   "price_text": "$37*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$37*"
+    }
+   },
+   "priced": true,
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_38.jpg"
+  },
+  {
+   "source": "JUNOCO",
+   "title": "The Body Oil Rinse | Hydrating Shower Oil & Bath Soak - JUNOCO",
+   "link": "https://www.junoco.com/products/the-body-oil-rinse",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuP5JkpeXyEPu0DUH14SgjtNT-wekIlQSKgbiBcXE-O7Ij6oK2",
+   "price_text": "$25*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$25*"
+    }
+   },
+   "priced": true,
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_39.jpg"
+  },
+  {
+   "source": "Bedewed Skin",
+   "title": "Multi-Use Body Oil – Bedewed Skin",
+   "link": "https://www.bedewedskincare.com/products/multi-use-body-oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKdSO5OV0yuMhQc6rbv8cW6jj_4E0u4QTXENayiFoGhmy2Gwjb",
+   "price_text": "$18*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$18*"
+    }
+   },
+   "priced": true,
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_40.jpg"
+  },
+  {
+   "source": "Nourish and Refine",
+   "title": "Natural Body Oil for Nourished Skin | Nourish and Refine ...",
+   "link": "https://nourishandrefine.com/products/naturalbodyoil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL-M5bPRnSAnPwn-631JQiheg21KEPnDOVV-e5YWb8iRSPL1wC",
+   "price_text": "$40*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$40*"
+    }
+   },
+   "priced": true,
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_41.jpg"
+  },
+  {
+   "source": "Essential 23 Skincare",
+   "title": "Rejuvenating Body Oil – Essential 23 Skin and Bath Co.",
+   "link": "https://essential23.com/products/rejuvenating-body-oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_BnaOehDw9AV92EvlrriIbpSeE3wSC7Aeyw4fWqdxQmqiKRvU",
+   "price_text": "$23*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$23*"
+    }
+   },
+   "priced": true,
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_42.jpg"
+  },
+  {
+   "source": "Skin Rhythm Spa",
+   "title": "Cottonwood Body Oil – Skin Rhythm Spa",
+   "link": "https://skinrhythmspa.com/products/cottonwood-body-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvG5qC8fHzSM8XDWHDTD23Llv3EU9bvZHDm_sicmVI4_ME-FL6",
+   "price_text": "$15*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$15*"
+    }
+   },
+   "priced": true,
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_43.jpg"
+  },
+  {
+   "source": "Rooted Healing | Shop all products",
+   "title": "Rooted Healing | Shop all products",
+   "link": "https://www.rootedhealingskincare.com/product/body-oil/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx3rglBqeJLZ5_9OedWwT-9lVp1tuowQF1lDSRvpdTXGkDbmSx",
+   "price_text": "$15*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$15*"
+    }
+   },
+   "priced": true,
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_44.jpg"
+  },
+  {
+   "source": "GoSupps.com",
+   "title": "Twisted Tomboy Nourishing Body Oil | Buy Now with Express ...",
+   "link": "https://www.gosupps.com/nourishing-hydrating-body-oil.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiuiCW0grlMwYt8AhzqVF5tXNAuxxiF6kaPq_q8jW_U2S4tS62",
+   "price_text": "$55*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$55*"
+    }
+   },
+   "priced": true,
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_45.jpg"
+  },
+  {
+   "source": "LovelySkin",
+   "title": "Alpha-H Firming Peptide Body Oil | LovelySkin",
+   "link": "https://www.lovelyskin.com/o/alpha-h-firming-peptide-body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIw5tyPxU_Wrs5CwNjCQWURscUNuixfIZG0ie1KwMFQdoIsCgl",
+   "price_text": "$27*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$27*"
+    }
+   },
+   "priced": true,
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_46.jpg"
+  },
+  {
+   "source": "Mum Bub Hub",
+   "title": "Nourishing Skin Oil 100ml | Bump and Body Oil for Dry Skin ...",
+   "link": "https://mumbubhub.co.uk/products/bump-and-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6Xy_qp-He0CwZiSK0aiAGfLQFfY5kuJMw2990nWESCjuC8Eja",
+   "price_text": "£18*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£18*"
+    }
+   },
+   "priced": true,
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_47.jpg"
+  },
+  {
+   "source": "Cult Beauty",
+   "title": "VIEVE Bath, Body and Massage Oil 150ml | Cult Beauty",
+   "link": "https://www.cultbeauty.co.uk/p/vieve-bath-body-and-massage-oil-150ml/15048271/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLVf2p_adIR_bGoePfYkD15ACJcauT9KEligu8a3ooTp9bEL1",
+   "price_text": "£25*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£25*"
+    }
+   },
+   "priced": true,
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_48.jpg"
+  },
+  {
+   "source": "Sephora UK",
+   "title": "Necessaire The Body Lotion Fragrance-Free 450ml | SEPHORA UK",
+   "link": "https://www.sephora.co.uk/p/necessaire-the-body-lotion-fragrance-free-P1000205302",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0n0lWgtonz3LkDNL2VehsP8EO1wuAnRo90JXHYzSzycjAY6A",
+   "price_text": "£48*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£48*"
+    }
+   },
+   "priced": true,
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_49.jpg"
+  },
+  {
+   "source": "Mankind",
+   "title": "NIOD Multi-Molecular Hyaluronic Complex Serum 30ml | Mankind",
+   "link": "https://www.mankind.co.uk/p/niod-multi-molecular-hyaluronic-complex-serum-30ml/11135679/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlLovzQSzOY5h7OpikhMCpO-XPfLrh8GZxA6exobrv7lqAQ2w2",
+   "price_text": "£38*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£38*"
+    }
+   },
+   "priced": true,
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_50.jpg"
+  },
+  {
+   "source": "Lesotho Rose",
+   "title": "Body Oil - Rosehip Oil and Grapefruit – Lesotho Rose",
+   "link": "https://lesothorose.co.uk/products/rejuvenating-body-oil-rosehip-seed-oil-and-grapefruit",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5ViV4YWnJlsMx1fmKDd0R2vZtGXHxCzlcJQCTD4T66XEsweX9",
+   "price_text": "£35*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£35*"
+    }
+   },
+   "priced": true,
+   "n": 51,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_51.jpg"
+  },
+  {
+   "source": "Vesa Beauty",
+   "title": "Veoli Botanica LIPID SOLVE BODY Moisturising body balm 290ml ...",
+   "link": "https://vesa.co.uk/products/veoli-botanica-lipid-solve-body-moisturising-regenerating-body-balm-with-lipids-290ml",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFwwhnM18iOsq31BBMqUql5zK3NxnoSG0IooVhGjqKuybwXuvB",
+   "price_text": "£26*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£26*"
+    }
+   },
+   "priced": true,
+   "n": 52,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_52.jpg"
+  },
+  {
+   "source": "MyPure",
+   "title": "Buy Evolve Beauty Timeless Renewal Bio Retinol Body Oil ...",
+   "link": "https://www.mypure.co.uk/products/timeless-renewal-bio-retinol-body-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxcBGwZlqxrRX8fI-7dmil2ndp9OUb-yTYlgbGikaJB87eibOZ",
+   "price_text": "£34*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£34*"
+    }
+   },
+   "priced": true,
+   "n": 53,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_53.jpg"
+  },
+  {
+   "source": "Mum Bub Hub",
+   "title": "Perineal Massage Oil for Pregnancy | Birth Prep from 34 ...",
+   "link": "https://mumbubhub.co.uk/products/perineal-massage-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoeY6MSEIXDM2LBwZAPkSkPaJG3pfhz9GnQYxwGTX9LM4aLKdM",
+   "price_text": "£12*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£12*"
+    }
+   },
+   "priced": true,
+   "n": 54,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_54.jpg"
+  },
+  {
+   "source": "Beauty Flash",
+   "title": "Evolve Organic Beauty Timeless Renewal Bio Retinol Body Oil ...",
+   "link": "https://www.beautyflash.co.uk/evolve-organic-beauty-timeless-renewal-bio-retinol-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_GjJ_xEzu2UDDr2fsDYOb4OlNhOufciGUrhp577i6FUW3lIoa",
+   "price_text": "£34*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£34*"
+    }
+   },
+   "priced": true,
+   "n": 55,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_55.jpg"
+  },
+  {
+   "source": "Diana Drummond",
+   "title": "7 Miracle Blend SKIN CORE SERUM – Diana Drummond",
+   "link": "https://dianadrummond.co.uk/products/7-miracle-blend-skin-core-essence",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqZA49hDIEaNFtvCyJClNWQQlDgcyLz-bQXztiXRt6Fj0iufrS",
+   "price_text": "£46*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£46*"
+    }
+   },
+   "priced": true,
+   "n": 56,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_56.jpg"
+  },
+  {
+   "source": "MyPure",
+   "title": "Buy Evolve Beauty Superfood 360 Natural Serum | MyPure ...",
+   "link": "https://www.mypure.co.uk/products/superfood-360-serum",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9acE8CTR-M4PIBoRjS7hrVUZYZvaHe-PwquDklkKQgYupKRUT",
+   "price_text": "£19*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£19*"
+    }
+   },
+   "priced": true,
+   "n": 57,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_57.jpg"
+  },
+  {
+   "source": "DM",
+   "title": "NØ cosmetics Gesichtsserum Nø flawless tøday Calming Peptide ...",
+   "link": "https://www.dm.de/p/d/3092090/no-cosmetics-gesichtsserum-no-flawless-today-calming-peptide-glow",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9BTbOoBRkJkNSm6PYC9glgHZ3-ZoHHBmR8TMLFcINFRRLmuV",
+   "price_text": "€16*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€16*"
+    }
+   },
+   "priced": true,
+   "n": 58,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_58.jpg"
+  },
+  {
+   "source": "PURE SKIN FOOD",
+   "title": "Organic Anti-Cellulite Body Oil, 100 ml - PURE SKIN FOOD ...",
+   "link": "https://www.pureskinfood.de/psf/anti-cellulite-oel",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJESsw7pTw2m_l5LicA6DgTDdYeNot6NYSjiaCtmn9SgyEctg2",
+   "price_text": "€30*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€30*"
+    }
+   },
+   "priced": true,
+   "n": 59,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_59.jpg"
+  },
+  {
+   "source": "pure & beyond",
+   "title": "SHAPE ME – PURE & BEYOND",
+   "link": "https://pure-beyond.de/products/shape-me-body-oil-200ml",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5iNKS7o-84xRi2YX-yGXGPLjGhXDAvDGouBpGiQ_iydarN5oH",
+   "price_text": "€37*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€37*"
+    }
+   },
+   "priced": true,
+   "n": 60,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_60.jpg"
+  },
+  {
+   "source": "Skins",
+   "title": "AKT London The Everyday Encore Body Oil SC.02 100ml - Skins",
+   "link": "https://www.skins.nl/en/akt-london/the-everyday-encore-body-oil-sc02-after-thun/150328/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMCVLtjum8SY-IIrszyx5jxYuVuUTJjFA8i78B8OsebCNjmEY",
+   "price_text": "€52*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€52*"
+    }
+   },
+   "priced": true,
+   "n": 61,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_61.jpg"
+  },
+  {
+   "source": "Shop Apotheke",
+   "title": "Nordic Oil Multi Komplex 50+ 60 St - Shop Apotheke",
+   "link": "https://www.shop-apotheke.com/arzneimittel/upmYM44TX/nordic-oil-multi-komplex-50.htm",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwUWJuMZ-4oubaj6uXo6jVr587SmJFm13nCwAERv4ZVChjDH1v",
+   "price_text": "€25*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€25*"
+    }
+   },
+   "priced": true,
+   "n": 62,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_62.jpg"
+  },
+  {
+   "source": "PUCA - PURE & CARE",
+   "title": "BODY Oil - Vitamin C",
+   "link": "https://pureandcare.com/body-oil-vitamin-c",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcrFMdcobWyYFm-1ck5WWjE-2rX8VjDTJeUXwuUV1FfBD_pVx",
+   "price_text": "€9*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€9*"
+    }
+   },
+   "priced": true,
+   "n": 63,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_63.jpg"
+  },
+  {
+   "source": "Greekosmetics",
+   "title": "Euphoria · Firming Body Oil · 100ml - Greekosmetics",
+   "link": "https://greekosmetics.de/product/euphoria-firming-body-oil-100ml/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTgBzxjDpnqHK78uw-yH-uGJzVq6Tr-BGQbKotLdQrbkhMnkeq",
+   "price_text": "€45*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€45*"
+    }
+   },
+   "priced": true,
+   "n": 64,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_64.jpg"
+  },
+  {
+   "source": "Australian-bodycare.de",
+   "title": "Body Oil – Reduziert Dehnungsstreifen, Narben ...",
+   "link": "https://australian-bodycare.de/products/body-oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_DZXw-Pw9YtzgN82Sepyx6_GXSijM3-L1WVUiFl9gg0BdpynP",
+   "price_text": "€17*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€17*"
+    }
+   },
+   "priced": true,
+   "n": 65,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_65.jpg"
+  },
+  {
+   "source": "Geek & Gorgeous",
+   "title": "Power Peptides",
+   "link": "https://geekandgorgeous.de/products/power-peptides",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOjJ3QlqbqZ2I5Dtk3YjVSeW_0elh9ADGNYOfVxw2klqoneThf",
+   "price_text": "€16*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€16*"
+    }
+   },
+   "priced": true,
+   "n": 66,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_66.jpg"
+  },
+  {
+   "source": "EcoWarehouse",
+   "title": "Body and Soul Oil - Original Essence for Mind and Body",
+   "link": "https://ecowarehouse.nz/body-and-soul-oil-original-nora-biocosmetics",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpfGbBHSRTMeEwyMj8FeKftqB4rwHhsXBjGbsp1a8J21c_CkpX",
+   "price_text": "NZ$35*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$35*"
+    }
+   },
+   "priced": true,
+   "n": 67,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_67.jpg"
+  },
+  {
+   "source": "Corbin Rd",
+   "title": "Natural Body Oil NZ | Nourishing Dry Skin Treatment | Corbin Rd",
+   "link": "https://corbinrd.co.nz/products/body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_jILpdsefVq8Pt4PzakZGlGL0lYkDHFoW0KSyekuAMI9Un9B",
+   "price_text": "NZ$35*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$35*"
+    }
+   },
+   "priced": true,
+   "n": 68,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_68.jpg"
+  },
+  {
+   "source": "Scenturie Natural Skincare",
+   "title": "Luxury Aromatherapy Body Oil | Natural Skin Glow | Scenturie",
+   "link": "https://scenturie.co.nz/product/luxury-body-oil-harmony",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJy0Km9b5GOX1SmMdGcpFQ8T6RVcS0uX63nJtlpGwIYzN7szm8",
+   "price_text": "NZ$50*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$50*"
+    }
+   },
+   "priced": true,
+   "n": 69,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_69.jpg"
+  },
+  {
+   "source": "Trilogy",
+   "title": "Trilogy Natural Skin Care Pure Plant Body Oil – Trilogy ...",
+   "link": "https://www.trilogyproducts.co.nz/products/pure-plant-body-oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0N95X2ZSNkaSoHqZxSzI08cylkGYj-JsUvka9fcV574niruEn",
+   "price_text": "NZ$32*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$32*"
+    }
+   },
+   "priced": true,
+   "n": 70,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_70.jpg"
+  },
+  {
+   "source": "Sol Goods",
+   "title": "The Good Oil – Sol Goods",
+   "link": "https://www.sol.co.nz/products/the-good-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UjUJMI7Bq-0ofciRQoW8lDHEnWRWt1fEyJle2laStuXHYFWK",
+   "price_text": "NZ$35*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$35*"
+    }
+   },
+   "priced": true,
+   "n": 71,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_71.jpg"
+  },
+  {
+   "source": "Parnell Baby Boutique",
+   "title": "Belly & Body Oil for Pregnancy | Parnell Baby Boutique",
+   "link": "https://parnellbabyboutique.co.nz/products/pure-mama-belly-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWPSHNidEW4J2e6fBh_ZhFhdxEjc6XUXxKwIXSby4jts08c5xL",
+   "price_text": "NZ$74*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$74*"
+    }
+   },
+   "priced": true,
+   "n": 72,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_72.jpg"
+  },
+  {
+   "source": "Little Trooper",
+   "title": "Pure Mama Belly & Body Oil – Little Trooper Limited",
+   "link": "https://www.littletrooper.co.nz/products/pure-mama-belly-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNze0FXX1FD8-PJceVa05L0WWHncwx0sAyF61j0bHS5gQg9KD",
+   "price_text": "NZ$74*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$74*"
+    }
+   },
+   "priced": true,
+   "n": 73,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_73.jpg"
+  },
+  {
+   "source": "Kali",
+   "title": "Body Oil | www.kalinz.co.nz",
+   "link": "https://www.kalinz.co.nz/product-page/body-oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLu21w8ve0Jm5VKyxWkEbeYjTPN-DwCTZgmiJNUFxAYO8_9aEI",
+   "price_text": "NZ$34*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$34*"
+    }
+   },
+   "priced": true,
+   "n": 74,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_74.jpg"
+  },
+  {
+   "source": "Little Bambinos NZ",
+   "title": "PURE MAMA Pregnancy Care Set – Little Bambinos NZ",
+   "link": "https://www.littlebambinos.co.nz/products/pure-mama-pregnancy-care-set",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj8SiBt2lQq_mPKRJSrAXHWBEt70Dc95JxJ-f8-tyjH2KWuAla",
+   "price_text": "NZ$179*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$179*"
+    }
+   },
+   "priced": true,
+   "n": 75,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_75.jpg"
+  },
+  {
+   "source": "Skye Candle And Body Care",
+   "title": "Essential Oil Massage Oil NZ – Skye Candle And Body Care",
+   "link": "https://www.skyecandleandbodycare.co.nz/products/aromatherapy-massage-oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9CY78CqmXClFWgg3HA94k8vfgjnRQcfiU2W9lOpA2L2hxKhTm",
+   "price_text": "NZ$30*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$30*"
+    }
+   },
+   "priced": true,
+   "n": 76,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_76.jpg"
+  },
+  {
+   "source": "Sephora NZ",
+   "title": "Buy Alpha-H Firming Peptide Body Oil | Sephora New Zealand",
+   "link": "https://www.sephora.nz/products/alpha-h-firming-peptide-body-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqEITBcT9z_UaXyqf_XMdMoGQmwUyacc0bbbCBlb8gEulL7wtx",
+   "price_text": "NZ$57*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$57*"
+    }
+   },
+   "priced": true,
+   "n": 77,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_77.jpg"
+  },
+  {
+   "source": "Nora Biocosmetics",
+   "title": "Body & Soul Oil - original | Nora Biocosmetics",
+   "link": "https://www.norabiocosmetics.com/product-page/body-and-soul-oil-original",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZirdtSTNggC0s73C68S0uOmwhlqeguSREsVT_thp2_fJhtCHx",
+   "price_text": "NZ$35*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$35*"
+    }
+   },
+   "priced": true,
+   "n": 78,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_78.jpg"
+  },
+  {
+   "source": "B.BOLD",
+   "title": "Natural Deodorant & Face Oil Bundle | B.BOLD.",
+   "link": "https://bbold.co.nz/products/clarifying-facial-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKKwS3C-hZEP3nNipcuuDYRSWqRd1ugp5VlFU7tnpLqlHiDo7b",
+   "price_text": "NZ$50*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$50*"
+    }
+   },
+   "priced": true,
+   "n": 79,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_79.jpg"
+  },
+  {
+   "source": "BioFormulations",
+   "title": "Neroli Blossom Body Oil. Natural Skin Care by ...",
+   "link": "https://bioformulations.co.nz/products/neroli-blossom-natural-body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoE4a1Z9U-Kxfm9DLC3Q_Shc5arM0phIEkcfce54AUFF3IcYIB",
+   "price_text": "NZ$48*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$48*"
+    }
+   },
+   "priced": true,
+   "n": 80,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_80.jpg"
+  },
+  {
+   "source": "NØRD BODY",
+   "title": "NØRD BODY Anti-Cellulite Massage Oil",
+   "link": "https://nordbody.com/products/cellulite4",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpXG41k11cF0A4HNUVxlVLkEKWLxoc6Xw1B47ZnXwnQAeqmf4",
+   "price_text": "A$38*",
+   "seen_in": {
+    "au": {
+     "kind": "the brand",
+     "price_text": "A$38*"
+    },
+    "us": {
+     "kind": "the brand",
+     "price_text": "$34*"
+    },
+    "uk": {
+     "kind": "the brand",
+     "price_text": "£21*"
+    },
+    "de": {
+     "kind": "the brand",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "the brand",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 81,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_81.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Body Firming Oil, 3.38 FL OZ Body Oil After ...",
+   "link": "https://us.amazon.com/clp/B0GYRZM4Q3",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH9CU2C2mepAZNlBkM4ZkQbwTZGfrQCAga6C_MyfU0o2WxraYn",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 82,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_82.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Augustinus Bader The Body Oil | Luxury Hydrating ...",
+   "link": "https://www.amazon.com/clp/B0B223JBNX",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0W3CoEKXvqjZCUmiLBfTJ4y30gJ49VgLoUx1prUMWqE1F7zeW",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 83,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_83.jpg"
+  },
+  {
+   "source": "www.amazon.co.jp",
+   "title": "Amazon | Multi-Peptide Body Oil ，a smooth, anti-cellulite ...",
+   "link": "https://www.amazon.co.jp/Multi-Peptide-anti-cellulite-lightweight-moisturizing-absorbed/dp/B0HG1NCBK2",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDFh6uJUK_7seyEgsBkGz6PvAGEOilNR3K-ORYIYUuVnhUs3a0",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 84,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_84.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com : Rii Naturals Anti-Cellulite Massage Oil for ...",
+   "link": "https://www.amazon.com/Rii-Naturals-Cellulite-Lymphatic-Nourishing/dp/B0F5W2S5BK",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNI5wsMshFxhwZtdC1_RN7dOAjKOKPo7tYyFn-WbvP_FtTQ_rr",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 85,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_85.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Amazon.com.au Hot New Releases: The bestselling new and ...",
+   "link": "https://www.amazon.com.au/gp/new-releases/beauty/5150559051",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN9mUb-cNbIZduB9iBA6Xp7sitdJ19BMZBpfRptAt3HVkuNNSR",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 86,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_86.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Anti-Aging Oil Moisturizers for sale | eBay",
+   "link": "https://www.ebay.com/b/Anti-Aging-Oil-Moisturizers/33164/bn_8535115",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwCNYzkJ7bq5q5WG7c6haCLqnI_0WLYgLg0J-ts_qng4VkIyGA",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 87,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_87.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Multi Peptide Body Oil, Firming Body Oil For Crepey Skin ...",
+   "link": "https://www.amazon.co.uk/Multi-Peptide-Firming-Crepey-Skin，2Pcs/dp/B0HDXMKJ7Y",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIq-BS0s1xQoj3D3BvrHVWXmEYBEsSSWsmdJVU7UT3jtQF_ur-",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 88,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_88.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Oil Revitalizing Anti-Aging Products for sale | eBay",
+   "link": "https://www.ebay.com/b/Oil-Revitalizing-Anti-Aging-Products/33164/bn_98451371",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwCNYzkJ7bq5q5WG7c6haCLqnI_0WLYgLg0J-ts_qng4VkIyGA",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 89,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_89.jpg"
+  },
+  {
+   "source": "Little Bay Beauty",
+   "title": "Natural Body Oil for Dry Skin | Little Bay Beauty ...",
+   "link": "https://littlebaybeauty.com.au/products/rejuvenation-body-oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Vvs_ci6uB2khNSC5FlWZJEBUS9LXHceYUkbA3XkSYr9cqh63",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 90,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_90.jpg"
+  },
+  {
+   "source": "Ulta Beauty",
+   "title": "maude - Oil Fragrance Free Body and Massage Oil | Ulta Beauty",
+   "link": "https://www.ulta.com/p/oil-fragrance-free-body-massage-oil-pimprod2061501?sku=2662406",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPsW2seSNRcZRSUT2oLiq0lcjpfbKy4SrTR8cgkWKU4tCJllxm",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 91,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_91.jpg"
+  },
+  {
+   "source": "Sephora",
+   "title": "Oil - 100% organic, cold-pressed body and bath oil - maude ...",
+   "link": "https://www.sephora.com/product/maude-oil-100-organic-cold-pressed-body-bath-oil-P481119",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdIBZ0IyLwjRJufKTfHfYPAWu0OBrmpp4pKjFyyL9gbSyF-Fs7",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 92,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_92.jpg"
+  },
+  {
+   "source": "Etsy",
+   "title": "Organic Body Oil - Etsy",
+   "link": "https://www.etsy.com/listing/711914541/organic-body-oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOZD_1IHNkH6KDnJwQnDXnFWKtPvTSPlshyxWXreCxRMcgx42T",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 93,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_93.jpg"
+  },
+  {
+   "source": "AliExpress Business",
+   "title": "eos shea- Aliexpress Business|AliExpress Business serves 5 ...",
+   "link": "https://inbusiness.aliexpress.com/wholesale/eos-shea.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRppp9OuaXdAbi6y50b7Hz0aXqTHVa76cPkwT3Ca4MnCk_fipmv",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 94,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_94.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "anti cellulite products for sale | eBay UK",
+   "link": "https://www.ebay.co.uk/b/bn_7024762457",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREH0qTMW9vYbq3aacHp3xE0zecqMqV3aRlyM3uU4tBS3jf4quu",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 95,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_95.jpg"
+  },
+  {
+   "source": "Zalando",
+   "title": "YOU & OIL BODY OIL NOURISH & VITALISE DEHYDRATED SKIN 100ML ...",
+   "link": "https://en.zalando.de/youandoil-body-oil-nourish-and-vitalise-dehydrated-skin-100ml-body-oil-neutral-yo831g00u-s11.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzadCiSuSVKnubzxrydhX-GDyAXV_-F2gvex2ovYyczo5lkhIo",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 96,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_96.jpg"
+  },
+  {
+   "source": "Zalando",
+   "title": "YOU & OIL BODY OIL NOURISH & BALANCE ANTI CELLULITE 100ML ...",
+   "link": "https://www.zalando.at/youandoil-body-oil-nourish-and-balance-anti-cellulite-100ml-koerperoel-neutral-yo831g00v-s11.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7IIffiwpD7HIFKhtwr3rCEnHAQ5GdZj4kR-MbCSxS7Qr7gSN5",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 97,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_97.jpg"
+  }
+ ]
+}

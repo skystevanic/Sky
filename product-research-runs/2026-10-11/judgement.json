@@ -18,8 +18,97 @@
    "Lash adhesive is a cosmetic used near the eye: selling in the EU or UK needs a safety assessment and product registration"
   ]
  },
- "headline": "No product is ready to test today. The under-eye CC cream has the strongest proof: one Italian shop has advertised it alone for over six months. But it copies Tarte's best-seller and needs EU cosmetics paperwork first.",
+ "headline": "No clear yes yet, but the peptide body oil is the best lead: one brand has advertised it alone for four months, it is white-label so you can source it, and Germany shows no copies so far.",
  "products": [
+  {
+   "slug": "body-oil",
+   "name": "Multi-Peptide Body Oil (NØRD BODY)",
+   "brand": "NØRD BODY",
+   "url": "https://nordbody.com/products/peptide-body-oil",
+   "category": "Body care: firming and anti-cellulite oil",
+   "price": "A$55 (smaller size A$38)",
+   "ad_days": "Oldest live ad 2026-06-08",
+   "store_platform": "Shopify",
+   "store_launched": "2026-04",
+   "store_products": "16 products, mostly this oil at test prices",
+   "one_liner": "One young brand has advertised this alone for four months, and it is a white-label oil anyone can buy. Copies already sit in Amazon's top results in four countries, but not in Germany.",
+   "verdict": "Backlog",
+   "overall": 64,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 6,
+    "margin": 8,
+    "viral": 7,
+    "pain": 7,
+    "differentiation": 4
+   },
+   "why": [
+    "NØRD BODY runs 199 of the 202 ads for \"peptide body oil\", live since 8 June, about 50 new ads a month",
+    "It is a white-label oil: the same bottle and box are on AliExpress without the brand, so you can source it",
+    "Germany is clear so far; the UK has it at £11.99 (Amazon result 1) and the US at US$27.80"
+   ],
+   "risk": "A white-label product can be copied by anyone overnight, and EU cosmetics rules apply before the first sale.",
+   "next": [
+    "Ask the AliExpress supplier whether the oil comes with EU cosmetic safety paperwork (a CPSR) and registration",
+    "If yes, test in Germany with German ads: 3 short massage videos, about €20 a day for 5 days"
+   ],
+   "best_region": "Germany: no copy found by photo or in the top shopper results, and the proof (four months of ads) comes from Australia.",
+   "snapshot": {
+    "icp": "Women 30-55 who want firmer-looking legs, bum and arms",
+    "job": "Smooth crepey skin and the look of cellulite with a daily massage",
+    "cogs": "About €5-8 landed from a white-label supplier (estimate, not checked)",
+    "margin": "About 80-85% at a €35-40 European price (estimate)",
+    "claims": "Triple peptide complex, caffeine, CoQ10; fast-absorbing, non-greasy",
+    "demoable": "Yes: massage ritual and skin-glow close-ups"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells this exact bottle; chains sell other body oils such as Bio-Oil"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "Cheaper copies in Amazon's top results in Australia, the US, the UK and New Zealand; none found in Germany"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand runs 99% of the ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "A 240 ml bottle: light, but a liquid"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A cosmetic with cellulite and firming claims: EU safety report and registration needed"
+    }
+   ],
+   "angles": [
+    "German-language version for Germany and Austria",
+    "Post-pregnancy body care for new mums (check ingredient safety)",
+    "Gym and sports: post-workout massage oil",
+    "Bundle with a dry brush or massage roller",
+    "TAKEN: \"For bums, tums, thighs and underarms\" (NØRD BODY's main message)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 94,
+    "match_name": "Unbranded on AliExpress",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same amber pump bottle and box, sold without the brand name on AliExpress and by many sellers on Amazon."
+   },
+   "advertiser_takeaway": "NØRD BODY is alone: 199 of the 202 ads are theirs, running steadily since June. Four months of spending is good proof the ads pay. The only other advertisers (Coco & Eve and two small shops) ran one ad each.",
+   "category_notes": {
+    "ca": "The photo search returned no results in Canada.",
+    "de": "dm and Douglas sell other body oils; this exact bottle was not found in Germany."
+   }
+  },
   {
    "slug": "cc-cream",
    "name": "Under-Eye CC Cream Compact (DermoCosmetic)",

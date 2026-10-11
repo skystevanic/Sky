@@ -1,0 +1,105 @@
+{
+ "slug": "body-oil",
+ "phrase": "peptide body oil",
+ "checked": "2026-10-11",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22peptide%20body%20oil%22",
+ "ads_loaded": 202,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 4,
+ "advertisers_with_3_plus_ads": 1,
+ "biggest_advertiser_share": 0.99,
+ "brands_new_in_last_2_months": 3,
+ "brands_advertising_3_plus_months": 1,
+ "ads_started_last_2_months": 58,
+ "ads_older_than_6_months": 0,
+ "pattern": "one brand owns it",
+ "plain": "4 brands, but nordbody.com runs 199 of the 202 ads. Of the 4 biggest shops we could date, 2 are over a year old and 1 opened in the last four months.",
+ "months": {
+  "2026-06": 39,
+  "2026-07": 58,
+  "2026-08": 47,
+  "2026-09": 51,
+  "2026-10": 7
+ },
+ "brand_months": {
+  "2026-06": 1,
+  "2026-09": 2,
+  "2026-10": 1
+ },
+ "top_advertisers": [
+  {
+   "name": "NØRD BODY",
+   "pages": 3,
+   "page_names": [
+    "NØRD BODY",
+    "Body Confidence Daily",
+    "Skincare Tips"
+   ],
+   "ads": 199,
+   "oldest_live_ad": "2026-06-08",
+   "page_likes": 2118,
+   "headline": "Money Back Guarantee",
+   "shop": "nordbody.com",
+   "product_page": "https://nordbody.com/pages/7-reasons-this-is-the-most-talked-about-crepey-skin-oil-of-2026",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1162941896892016",
+   "shop_open_since": "2026-04-14"
+  },
+  {
+   "name": "Nurse Renee",
+   "pages": 1,
+   "page_names": [
+    "Nurse Renee"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": null,
+   "headline": "Body Business Is Here",
+   "shop": "nurserenee.com.au",
+   "product_page": "https://nurserenee.com.au/products/body-business-body-oil",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=209096118952502",
+   "shop_open_since": "2024-10-14"
+  },
+  {
+   "name": "Coco & Eve",
+   "pages": 1,
+   "page_names": [
+    "Coco & Eve"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-14",
+   "page_likes": 391537,
+   "headline": "Save 15% with our bundles!",
+   "shop": "cocoandeve.com",
+   "product_page": "https://www.cocoandeve.com/products/sun-tan-essentials-set",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1627356637522836",
+   "shop_open_since": "2019-05-23"
+  },
+  {
+   "name": "Sophie Keller",
+   "pages": 1,
+   "page_names": [
+    "Sophie Keller"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-02",
+   "page_likes": 472,
+   "headline": "I Lost The Weight. My Skin Didn't Get The Memo. Here's What Finally Wo",
+   "shop": "tryeliks.com",
+   "product_page": "https://tryeliks.com/products/eliks-triple-peptide-firming-body-oil",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102759712157296",
+   "shop_open_since": "2026-08-06"
+  }
+ ],
+ "domains": {
+  "nordbody.com": 199,
+  "nurserenee.com.au": 1,
+  "cocoandeve.com": 1,
+  "tryeliks.com": 1
+ },
+ "cost_usd": 1.04,
+ "shops_checked": 4,
+ "shops_over_a_year_old": 2,
+ "shops_under_4_months_old": 1
+}

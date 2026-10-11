@@ -1,0 +1,2317 @@
+{
+ "slug": "body-oil",
+ "top": 12,
+ "candidates": [
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Olay Super Body Oil for Women 5-in-1 Oil + Serum for Luminous Skin, 4 fl oz",
+   "thumbnail": "https://m.media-amazon.com/images/I/71nSgEfOeDL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/dp/B0H5KZSPMP/",
+   "asin": "B0H5KZSPMP",
+   "seen_in": {
+    "us": {
+     "rank": 1,
+     "price_text": "$14.97",
+     "reviews": 651,
+     "rating": 4.7,
+     "bought": "20K+ bought in past month"
+    }
+   },
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_000.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Multi Peptide Body Oil, Firming Skin Care Oil For Dry Skin, 240ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/61kDbQbSgbL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/dp/B0HHDBGMCC/",
+   "asin": "B0HHDBGMCC",
+   "seen_in": {
+    "uk": {
+     "rank": 1,
+     "price_text": "£11.99",
+     "reviews": 3,
+     "rating": 5.0,
+     "bought": "New on Amazon in past month"
+    }
+   },
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_001.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Majestic Pure Vitamin E Oil 100% Pure and Natural Oil - 236 ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/615eXrTUCiL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/dp/B0C2Z44JLK/",
+   "asin": "B0C2Z44JLK",
+   "seen_in": {
+    "uk": {
+     "rank": 12,
+     "price_text": "£13.99",
+     "reviews": 7000,
+     "rating": 4.5,
+     "bought": "1K+ bought in past month"
+    },
+    "de": {
+     "rank": 1,
+     "price_text": "€13.99",
+     "reviews": 36300,
+     "rating": 4.5,
+     "bought": "300+ bought in past month"
+    }
+   },
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_002.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Organic Sweet Almond Oil - 16.9 fl oz (500ml), 100% Pure Natural Carrier Oil, for Face, Body & Hair Moisturizing, Massage Oil Base, DIY Beauty Recipes, Nourishing Skin Softener",
+   "thumbnail": "https://m.media-amazon.com/images/I/618kjJcTHnL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/dp/B0H7M9Z5Q6/",
+   "asin": "B0H7M9Z5Q6",
+   "seen_in": {
+    "au": {
+     "rank": 2,
+     "price_text": "$29.99",
+     "reviews": 3,
+     "rating": 4.0,
+     "bought": "50+ bought in past month"
+    },
+    "nz": {
+     "rank": 2,
+     "price_text": "$29.99",
+     "reviews": 3,
+     "rating": 4.0,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_003.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Balance Me Super Firming Body Oil 150ml, Body Moisturiser for Dry Skin",
+   "thumbnail": "https://m.media-amazon.com/images/I/612o3+gW5sL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/dp/B07X36FTST/",
+   "asin": "B07X36FTST",
+   "seen_in": {
+    "uk": {
+     "rank": 2,
+     "price_text": "£25.00",
+     "reviews": 282,
+     "rating": 4.4,
+     "bought": "300+ bought in past month"
+    }
+   },
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_004.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Firming Body Oil with Bakuchiol, Vitamin C & Rosehip Oil, 100 mL",
+   "thumbnail": "https://m.media-amazon.com/images/I/61QiIgB7iGL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/dp/B0HFCHJ3SG/",
+   "asin": "B0HFCHJ3SG",
+   "seen_in": {
+    "ca": {
+     "rank": 2,
+     "price_text": "$21.99",
+     "reviews": 2,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_005.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Bi-Oil Skin Care Oil | For Stretch Marks & Scars | 125 ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/61eZ758cYQL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B00KWCQHZ8/",
+   "asin": "B00KWCQHZ8",
+   "seen_in": {
+    "de": {
+     "rank": 2,
+     "price_text": "€14.95",
+     "reviews": 12900,
+     "rating": 4.5,
+     "bought": "900+ bought in past month"
+    }
+   },
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_006.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Zea Relief Kunzea Concentrated Massage Oil 30 ml – Lightweight Non-Greasy Vegan Massage Oil with Kunzea – Botanical Body Oil",
+   "thumbnail": "https://m.media-amazon.com/images/I/61XETX3+BwL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/dp/B08FYXTCF2/",
+   "asin": "B08FYXTCF2",
+   "seen_in": {
+    "au": {
+     "rank": 3,
+     "price_text": "$21.49",
+     "reviews": 15,
+     "rating": 4.2,
+     "bought": null
+    },
+    "nz": {
+     "rank": 3,
+     "price_text": "$21.49",
+     "reviews": 15,
+     "rating": 4.2,
+     "bought": null
+    }
+   },
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_007.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Collagen Body Oil for Skin Tightening, Firming & Lifting Oil (200ML)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71q+7nUqjKL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/dp/B0HGLLKG3Z/",
+   "asin": "B0HGLLKG3Z",
+   "seen_in": {
+    "uk": {
+     "rank": 3,
+     "price_text": "£14.99",
+     "reviews": 7,
+     "rating": 5.0,
+     "bought": "200+ bought in past month"
+    }
+   },
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_008.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "ELEMIS Körperöle & Straffende Körpercremes",
+   "thumbnail": "https://m.media-amazon.com/images/I/61T9BE5wgFL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0058QM77K/",
+   "asin": "B0058QM77K",
+   "seen_in": {
+    "de": {
+     "rank": 3,
+     "price_text": "€58.05",
+     "reviews": 1300,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_009.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Cyperus Rotundus Oil, Moisturising & Soothing Care for Smooth Skin,60ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/71QX5W34VFL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/dp/B0H8PMQF1Q/",
+   "asin": "B0H8PMQF1Q",
+   "seen_in": {
+    "ca": {
+     "rank": 4,
+     "price_text": "$14.99",
+     "reviews": 6,
+     "rating": 3.0,
+     "bought": null
+    }
+   },
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_010.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "lavera Beauty Body Oil Body Care 100 ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/51kW4h7fw5L._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0DCCCK936/",
+   "asin": "B0DCCCK936",
+   "seen_in": {
+    "de": {
+     "rank": 4,
+     "price_text": "€11.16",
+     "reviews": 92,
+     "rating": 4.6,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_011.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Nord Body Multi Peptide Body Oil, Nord Body Anti Cellulite Oil, Firming Body Oils for Crepey Skin, Reduce Fine Lines, Lift Sagging Skin, Anti Cellulite for Bums, Thighs & Underarms",
+   "thumbnail": "https://m.media-amazon.com/images/I/51CeCjq+YgL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/Peptide-Cellulite-Firming-Sagging-Underarms/dp/B0HJ1HP1MV/",
+   "asin": "B0HJ1HP1MV",
+   "seen_in": {
+    "au": {
+     "rank": 5,
+     "price_text": "$29.90",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 5,
+     "price_text": "$29.90",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_012.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Nord Body Peptide Oil, Nord Body Multi Peptide Body Oil, Revitalize Your Skin, Smooth and Delicate, 8 Fl Oz",
+   "thumbnail": "https://m.media-amazon.com/images/I/61DTBxUc6FL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/dp/B0HHY896P8/",
+   "asin": "B0HHY896P8",
+   "seen_in": {
+    "us": {
+     "rank": 5,
+     "price_text": "$29.99",
+     "reviews": 4,
+     "rating": 5.0,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_013.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "BYOMA Nourishing Body Oil, Lightweight, Fast-Absorbing Body Oil (200ml)",
+   "thumbnail": "https://m.media-amazon.com/images/I/61uq0CQRQoL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/dp/B0CSDXLPDP/",
+   "asin": "B0CSDXLPDP",
+   "seen_in": {
+    "uk": {
+     "rank": 5,
+     "price_text": "£11.99",
+     "reviews": 842,
+     "rating": 4.4,
+     "bought": "600+ bought in past month"
+    }
+   },
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_014.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Coco & Eve Firming & Tan Prolonging Peptide Body Oil. Up to 28 Days Natural Tan Extender. After Sun Care with Tropical Oils, Vitamins C & E for Nourished, Glowy & Visibly Firmer Skin. (5.75 fl oz/170ml)",
+   "thumbnail": "https://m.media-amazon.com/images/I/61u1HCDzbVL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/dp/B0F9KDKS3P/",
+   "asin": "B0F9KDKS3P",
+   "seen_in": {
+    "ca": {
+     "rank": 5,
+     "price_text": "$47.00",
+     "reviews": 238,
+     "rating": 4.4,
+     "bought": null
+    }
+   },
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_015.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Olay Collagen Peptide Restoring Body Lotion 500 ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/61NE+5HWKVL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/Olay-Collagen-Peptide-Restoring-Lotion/dp/B0FZ9QNG19/",
+   "asin": "B0FZ9QNG19",
+   "seen_in": {
+    "de": {
+     "rank": 5,
+     "price_text": "€13.99",
+     "reviews": 188,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_016.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Nord Body Multi-Peptide Body Oil for Dry, Crepey-Feeling Skin 240ml (2PCS)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71QadS+TAqL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/dp/B0HK4F6SXB/",
+   "asin": "B0HK4F6SXB",
+   "seen_in": {
+    "au": {
+     "rank": 6,
+     "price_text": "$29.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 6,
+     "price_text": "$29.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_017.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Peptide Oil, Multi-Peptide Body Oil for Skin Firming Oil with Caffeine – Anti Cellulite Massage Oil for Crepey Skin for Women",
+   "thumbnail": "https://m.media-amazon.com/images/I/71ILzQ3iKeL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/dp/B0H9PRHWDQ/",
+   "asin": "B0H9PRHWDQ",
+   "seen_in": {
+    "us": {
+     "rank": 6,
+     "price_text": "$27.80",
+     "reviews": 11,
+     "rating": 4.0,
+     "bought": "300+ bought in past month"
+    }
+   },
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_018.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Nord Body Multi Peptide Body Oil, Nord Body Anti Cellulite Oil",
+   "thumbnail": "https://m.media-amazon.com/images/I/71hevJkyJ+L._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/Nord-Body-Multi-Peptide-Cellulite/dp/B0HFX5S4PM/",
+   "asin": "B0HFX5S4PM",
+   "seen_in": {
+    "uk": {
+     "rank": 6,
+     "price_text": "£12.99",
+     "reviews": 6,
+     "rating": 3.6,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_019.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Q+A Collagen Body Oil 150ml, Nourishing Body Moisturiser",
+   "thumbnail": "https://m.media-amazon.com/images/I/51WtQW9ljyL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/Nourishing-Moisturiser-Vegetable-Immortelle-Elasticity/dp/B0FPMKPYVW/",
+   "asin": "B0FPMKPYVW",
+   "seen_in": {
+    "uk": {
+     "rank": 9,
+     "price_text": "£12.00",
+     "reviews": 109,
+     "rating": 4.6,
+     "bought": "400+ bought in past month"
+    },
+    "de": {
+     "rank": 6,
+     "price_text": "€14.00",
+     "reviews": 108,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_020.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Multi-Peptide Body Oil, Firming & Nourishing Skin Care, 240ml (1pcs)",
+   "thumbnail": "https://m.media-amazon.com/images/I/61+xQV82U2L._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/Multi-Peptide-Body-Firming-Nourishing-240ml/dp/B0HFD998M2/",
+   "asin": "B0HFD998M2",
+   "seen_in": {
+    "ca": {
+     "rank": 6,
+     "price_text": "$21.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_021.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Nord Body Multi Peptide Body Oil - Firming & Smoothing Anti-Cellulite Massage Oil for Crepey Skin - Tightens Loose Skin on Thighs, Bums, Arms & Stomach - Hydrating Daily Skin Care, 240ml(3PCS)",
+   "thumbnail": "https://m.media-amazon.com/images/I/51-PQMVBWFL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/dp/B0HJD2MFJP/",
+   "asin": "B0HJD2MFJP",
+   "seen_in": {
+    "au": {
+     "rank": 7,
+     "price_text": "$78.98",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 7,
+     "price_text": "$78.98",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_022.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Firming Body Oil, Cellulite Massage Oil for Legs and Body, 8 fl oz by M3",
+   "thumbnail": "https://m.media-amazon.com/images/I/71qiBpreYjL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/Anti-Cellulite-Massage-Oil/dp/B076DSBHD1/",
+   "asin": "B076DSBHD1",
+   "seen_in": {
+    "us": {
+     "rank": 7,
+     "price_text": "$24.81",
+     "reviews": 68900,
+     "rating": 4.3,
+     "bought": "10K+ bought in past month"
+    },
+    "ca": {
+     "rank": 11,
+     "price_text": "$31.81",
+     "reviews": 60300,
+     "rating": 4.3,
+     "bought": "1K+ bought in past month"
+    }
+   },
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_023.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Multi Peptide Body Oil, Body Peptide Oil, 1Pc | Collagen Oil for Skin Tightening, PeptideFix Finishing Body Oil for Crepey Skin, Provide Skin Comfort, Smoother Looking Skin, 240ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/71zw8rbFZyL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/Collagen-Tightening-PeptideFix-Finishing-Smoother/dp/B0HDTC4PC7/",
+   "asin": "B0HDTC4PC7",
+   "seen_in": {
+    "uk": {
+     "rank": 7,
+     "price_text": "£11.99",
+     "reviews": 5,
+     "rating": 4.2,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_024.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Olay Super Serum Body Lotion, Moisturizing Body Lotion for Dry Skin with Super Serum Complex to Slow Visible Signs of Aging, 547 mL",
+   "thumbnail": "https://m.media-amazon.com/images/I/71H79Vy1M-L._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/Olay-Lotion-Moisturizing-Complex-Visible/dp/B0FF6XB1YZ/",
+   "asin": "B0FF6XB1YZ",
+   "seen_in": {
+    "ca": {
+     "rank": 7,
+     "price_text": "$18.98",
+     "reviews": 558,
+     "rating": 4.6,
+     "bought": "3K+ bought in past month"
+    }
+   },
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_025.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Collagen Body Oil, Collagen Lifting Body Oil, Firming Body Oil with Collagen, Reduces Fine Strips, Increases Hanging Skin, Increases Skin Shine, 120 ml (1 Piece)",
+   "thumbnail": "https://m.media-amazon.com/images/I/815RogauOOL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/Collagen-Lifting-Firming-Reduces-Increases/dp/B0H2D1B8HW/",
+   "asin": "B0H2D1B8HW",
+   "seen_in": {
+    "de": {
+     "rank": 7,
+     "price_text": "€14.99",
+     "reviews": 67,
+     "rating": 4.3,
+     "bought": null
+    }
+   },
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_026.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Nord Body Multi-Peptide Body Oil for Dry, Crepey-Feeling Skin 240ml (1PCS)",
+   "thumbnail": "https://m.media-amazon.com/images/I/713m-MPwNjL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/Nord-Body-Multi-Peptide-Crepey-Feeling-240ml/dp/B0HK4BS3SV/",
+   "asin": "B0HK4BS3SV",
+   "seen_in": {
+    "au": {
+     "rank": 8,
+     "price_text": "$19.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 8,
+     "price_text": "$19.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_027.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Nordbody Peptide Oil, Moisturizing Body Oil with Copper Peptide",
+   "thumbnail": "https://m.media-amazon.com/images/I/51IVj4TdGuL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/Clovana-Nordbody-Peptide-Moisturizing-Copper/dp/B0HK4461B8/",
+   "asin": "B0HK4461B8",
+   "seen_in": {
+    "us": {
+     "rank": 8,
+     "price_text": "$25.99",
+     "reviews": 2,
+     "rating": 5.0,
+     "bought": "New on Amazon in past month"
+    }
+   },
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_028.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Multi Peptide Body Oil, 240ml Multi-peptide Complex Oil for Skin Tightening,Lightweight Anti Cellulite Massage Oil for Thighs & Bums,Saggy & Crepey Skin,Hydrating and Anti-aging",
+   "thumbnail": "https://m.media-amazon.com/images/I/71RjSbaeV4L._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/dp/B0HFZMCKN6/",
+   "asin": "B0HFZMCKN6",
+   "seen_in": {
+    "uk": {
+     "rank": 8,
+     "price_text": "£13.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_029.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Collagen Lifting Body Oil, Collagen Oil for Skin Tightening, Moisturizing, Lightweight and Non Greasy Texture, Collagen Oil for Skin & Face, Shower Oil for Women & Men, for All Skin Types, 4.22 Fl Oz",
+   "thumbnail": "https://m.media-amazon.com/images/I/71kOuXASTxL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/Collagen-Lifting-Tightening-Moisturizing-Lightweight/dp/B0H4RCH4SY/",
+   "asin": "B0H4RCH4SY",
+   "seen_in": {
+    "uk": {
+     "rank": 10,
+     "price_text": "£9.99",
+     "reviews": 87,
+     "rating": 4.3,
+     "bought": "300+ bought in past month"
+    },
+    "de": {
+     "rank": 8,
+     "price_text": "€14.99",
+     "reviews": 81,
+     "rating": 4.5,
+     "bought": null
+    }
+   },
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_030.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Skincu Skin Firming Body Oil with Peptides for Face Arms Belly Feet, 2 Pack",
+   "thumbnail": "https://m.media-amazon.com/images/I/71yqI7UVGcL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/Skincu-Skin-Firming-Peptides-Belly/dp/B0HK63S3TP/",
+   "asin": "B0HK63S3TP",
+   "seen_in": {
+    "ca": {
+     "rank": 8,
+     "price_text": "$28.21",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_031.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Nord Body Peptide Oil, 300ML Anti Aging Body Oil for Mature & Crepey-Looking Skin, Multi-Peptide Moisturizer for Dry Skin, Helps Smooth & Nourish Arms and Thighs (1 PCS)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71aAe4EBqQL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/Peptide-Crepey-Looking-Multi-Peptide-Moisturizer-Nourish/dp/B0HKR6J97L/",
+   "asin": "B0HKR6J97L",
+   "seen_in": {
+    "au": {
+     "rank": 9,
+     "price_text": "$23.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 9,
+     "price_text": "$23.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_032.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Peptide Oil, Multi Peptide Body Oil for Firm, Smooth-Looking Skin，1Pc",
+   "thumbnail": "https://m.media-amazon.com/images/I/612WT8iGweL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/Peptide-Multi-Body-Smooth-Looking-Skin%EF%BC%8C1Pc/dp/B0HGR81MFK/",
+   "asin": "B0HGR81MFK",
+   "seen_in": {
+    "us": {
+     "rank": 9,
+     "price_text": "$27.99",
+     "reviews": 3,
+     "rating": 2.9,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_033.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Multi-Peptide Body Oil, Firming & Nourishing Skin Care, 240ml (2pcs)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71vbbNJsYdL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/Multi-Peptide-Body-Firming-Nourishing-240ml/dp/B0HFD626FF/",
+   "asin": "B0HFD626FF",
+   "seen_in": {
+    "ca": {
+     "rank": 9,
+     "price_text": "$35.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_034.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "frei öl Body Shaping Oil, firming body oil, anti-cellulite effect, all skin types and sensitive skin, pharmacist quality, climate-neutral certified, microbiom-friendly, vegan, 1 x 125 ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/71e1ReL770L._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/frei-%C3%B6l-anti-cellulite-climate-neutral-microbiom-friendly/dp/B01LYTJSQ5/",
+   "asin": "B01LYTJSQ5",
+   "seen_in": {
+    "de": {
+     "rank": 9,
+     "price_text": "€16.95",
+     "reviews": 2400,
+     "rating": 4.5,
+     "bought": "500+ bought in past month"
+    }
+   },
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_035.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Collagen Firming Body Oil 100ml, with application gloves, moisturises the neck, décolletage, arms, legs and abdomen, firms the skin, reduces wrinkles and stretch marks, body repair oil",
+   "thumbnail": "https://m.media-amazon.com/images/I/61WjQxy3elL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/PAMYST-Collagen-application-moisturises-d%C3%A9colletage/dp/B0GVJNT32S/",
+   "asin": "B0GVJNT32S",
+   "seen_in": {
+    "au": {
+     "rank": 10,
+     "price_text": "$12.99",
+     "reviews": 1,
+     "rating": 4.0,
+     "bought": null
+    },
+    "nz": {
+     "rank": 10,
+     "price_text": "$12.99",
+     "reviews": 1,
+     "rating": 4.0,
+     "bought": null
+    }
+   },
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_036.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Peptide Oil Anti Cellulite Skin Smoother Lightweight Body Oil (1)",
+   "thumbnail": "https://m.media-amazon.com/images/I/61a95mEJzCL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/Nord-Body-Cellulite-Smoother-Lightweight/dp/B0HBJZYBQD/",
+   "asin": "B0HBJZYBQD",
+   "seen_in": {
+    "us": {
+     "rank": 10,
+     "price_text": "$28.98",
+     "reviews": 15,
+     "rating": 3.6,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_037.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Olay Firming Body Lotion with Collagen Peptide and Niacinamide, Body Lotion to Visibly Improve Skin Firmness, 502 mL",
+   "thumbnail": "https://m.media-amazon.com/images/I/61Rt-YY9J0L._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/dp/B09NB34V14/",
+   "asin": "B09NB34V14",
+   "seen_in": {
+    "ca": {
+     "rank": 10,
+     "price_text": "$14.97",
+     "reviews": 3800,
+     "rating": 4.5,
+     "bought": "3K+ bought in past month"
+    }
+   },
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_038.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Truly Beauty Birthday Luxury Body Oil",
+   "thumbnail": "https://m.media-amazon.com/images/I/71izI5jB8UL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/Truly-Beauty-Birthday-Luxury-Body/dp/B0DBZ23VYY/",
+   "asin": "B0DBZ23VYY",
+   "seen_in": {
+    "de": {
+     "rank": 10,
+     "price_text": "€28.00",
+     "reviews": 148,
+     "rating": 4.2,
+     "bought": null
+    }
+   },
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_039.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Nord Body Peptide Oil, 300ML Anti Aging Body Oil for Mature & Crepey-Looking Skin, Multi-Peptide Moisturizer for Dry Skin, Helps Smooth & Nourish Arms and Thighs (2 PCS)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71++rOvzvbL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/Peptide-Crepey-Looking-Multi-Peptide-Moisturizer-Nourish/dp/B0HKRBDKKC/",
+   "asin": "B0HKRBDKKC",
+   "seen_in": {
+    "au": {
+     "rank": 11,
+     "price_text": "$35.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 11,
+     "price_text": "$35.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_040.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Neutrogena Body Oil Light Sesame Formula, 8.5 fl oz",
+   "thumbnail": "https://m.media-amazon.com/images/I/618C4BYcNHL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/dp/B000052YOR/",
+   "asin": "B000052YOR",
+   "seen_in": {
+    "us": {
+     "rank": 11,
+     "price_text": "$15.99",
+     "reviews": 38900,
+     "rating": 4.7,
+     "bought": "6K+ bought in past month"
+    }
+   },
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_041.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Collagen Oil for Skin Tightening, Collagen Lifting Body Oil – Firming & Moisturising Massage Oil with Glow Essence, Lightweight Nourishing Formula for Neck, Arms, Legs (1 Pack)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71gvr8UEKqL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/dp/B0H5Q4CQ9Y/",
+   "asin": "B0H5Q4CQ9Y",
+   "seen_in": {
+    "uk": {
+     "rank": 11,
+     "price_text": "£9.99",
+     "reviews": 9,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_042.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "wesentlich. Organic Sesame Oil | 100% Pure & Cold Pressed | Native Care Oil for Body & Face | Ideal Ayurveda Massage Oil & Base Oil for DIY Cosmetics | 100 ml",
+   "thumbnail": "https://m.media-amazon.com/images/I/61Gswp3Fk2L._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0GTXC4X4K/",
+   "asin": "B0GTXC4X4K",
+   "seen_in": {
+    "de": {
+     "rank": 11,
+     "price_text": "€9.95",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_043.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Body Peptide Oil, 300ML for Mature & Crepey-Looking Skin (1PCS)",
+   "thumbnail": "https://m.media-amazon.com/images/I/713m-MPwNjL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/Body-Peptide-300ML-Mature-Crepey-Looking/dp/B0HMBR99VV/",
+   "asin": "B0HMBR99VV",
+   "seen_in": {
+    "au": {
+     "rank": 12,
+     "price_text": "$19.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 12,
+     "price_text": "$19.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_044.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "OSEA Undaria Algae Body Oil, Visibly Firming, Deeply Moisturizing, 5 oz",
+   "thumbnail": "https://m.media-amazon.com/images/I/51RoDZdOsyL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/dp/B004L17FKC/",
+   "asin": "B004L17FKC",
+   "seen_in": {
+    "us": {
+     "rank": 12,
+     "price_text": "$52.00",
+     "reviews": 4900,
+     "rating": 4.5,
+     "bought": "10K+ bought in past month"
+    }
+   },
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_045.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Skincu Skin Firming Body Oil with Peptides for Face Arms Belly Feet, 2 Pack",
+   "thumbnail": "https://m.media-amazon.com/images/I/71yqI7UVGcL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/Skincu-Skin-Firming-Peptides-Belly/dp/B0HJMMRRBN/",
+   "asin": "B0HJMMRRBN",
+   "seen_in": {
+    "ca": {
+     "rank": 12,
+     "price_text": "$28.21",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_046.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Chosa Castor Oil Cold Pressed Unrefined 100% Pure 1000 ml + Dispenser - Castor Oil Hair, Skin, Beard, Eyelashes - Vegan Massage Oil & Hair Oil - for DIY Cosmetics - Castor Oil 1 Litre Bottle",
+   "thumbnail": "https://m.media-amazon.com/images/I/71O5yBe3jKL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0D78XNKSD/",
+   "asin": "B0D78XNKSD",
+   "seen_in": {
+    "de": {
+     "rank": 12,
+     "price_text": "€12.74",
+     "reviews": 166,
+     "rating": 4.4,
+     "bought": "400+ bought in past month"
+    }
+   },
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_047.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Oz Hair and Beauty",
+   "title": "Alpha-H Firming Peptide Body Oil with Hexapeptide-8",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDwKrBy_cZ14V6VBApQFkpiFsJXMnQK_rpir7vdf6WQgwrB0aUmXev5MuOnKfu6BUXJNG-AUdX",
+   "link": "https://www.google.com/search?q=%22Alpha-H+Firming+Peptide+Body+Oil+with+Hexapeptide-8%22+Oz+Hair+and+Beauty",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 1,
+     "price_text": "$49.95",
+     "reviews": 246,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_048.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Bloomingdale's",
+   "title": "Osea Malibu Undaria Algae Body Oil 9.6 oz.",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtNFMuk5Unqxr7Iu1C9oxJN0YGNN60De8CZLYLG7caj7b9R4UiF7ai8j0bBQGiNEjvg8TiDaBE1_q872TavtD1VdbUYFLgSvsQLH-fVsT8Qpj_i0hrhkkrew",
+   "link": "https://www.google.com/search?q=%22Osea+Malibu+Undaria+Algae+Body+Oil+9.6+oz.%22+Bloomingdale%27s",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 1,
+     "price_text": "$84.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_049.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Cult Beauty",
+   "title": "Alpha-H Firming Peptide Body Oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSodbsdUbFEQqp8EsfnAuSl1UMLlPmt8oPBwA9r_cVe4BT1JMwCOsl7Q_BFdtpdpjnT0NhNWBxS",
+   "link": "https://www.google.com/search?q=%22Alpha-H+Firming+Peptide+Body+Oil%22+Cult+Beauty",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 1,
+     "price_text": "£25.59",
+     "reviews": 246,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_050.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Sephora",
+   "title": "Sol de Janeiro Bum Bum Body Firmeza Oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDxGqPPmT4po0y2SSpm4ihsnmkDxQbCz-whug_jQ9iGcCXqBNUhBm56odaKrB2ulriHJC2gS0",
+   "link": "https://www.google.com/search?q=%22Sol+de+Janeiro+Bum+Bum+Body+Firmeza+Oil%22+Sephora",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 1,
+     "price_text": "$70.00",
+     "reviews": 5300,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 51,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_051.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "flaconi.de",
+   "title": "Sol de Janeiro Bum Bum Body Firmeza Oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPN4NgaFft4D53jrvf4D6N1izRlzgXYKq0gjOhEsaLCIQSRFtizkIdp0SCROwDrJKigLZjUEUZUOGGR6OVS4OBajHRw3_OEieg1PVitTof11Wncf7mI732",
+   "link": "https://www.google.com/search?q=%22Sol+de+Janeiro+Bum+Bum+Body+Firmeza+Oil%22+flaconi.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 1,
+     "price_text": "35,99 €",
+     "reviews": 5336,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 52,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_052.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "MECCA",
+   "title": "Alpha-H Firming Peptide Body Oil with Hexapeptide-8",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNpoXul1DKc0pg6Sw2-pgGYIm6eb1NkShzTIAi443fRmBX4s1oW5hseAc2w_VUn0HDevZ322FJN78Dyl1K5dCTJjGjR-fx57-N4JObfvgoln-pcKkWfStu",
+   "link": "https://www.google.com/search?q=%22Alpha-H+Firming+Peptide+Body+Oil+with+Hexapeptide-8%22+MECCA",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 1,
+     "price_text": "$55.95",
+     "reviews": 246,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 53,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_053.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Coco & Eve AU",
+   "title": "Coco & Eve Firming & Tan Prolonging Peptide Body Oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRDuGNmP8Xj1qJSxkXCbImOG1REozrH-aSWWkKL1cQSTUcaQJ4rMasf_Xs96QLbAXqRg707Luw",
+   "link": "https://www.google.com/search?q=%22Coco+%26+Eve+Firming+%26+Tan+Prolonging+Peptide+Body+Oil%22+Coco+%26+Eve+AU",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 2,
+     "price_text": "$50.00",
+     "reviews": 80,
+     "rating": 4.7,
+     "bought": null
+    },
+    "nz": {
+     "rank": 6,
+     "price_text": "$62.28",
+     "reviews": 80,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 54,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_054.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay - p.ragona",
+   "title": "Undaria Algae Body Oil 5 Oz – Visibly Firming, Deeply Moisturizing,",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRybDxOri_qGWtpDOLspoS4icjAMwObIQWlVQ78oLyVZ4EMQSWvMQBHjPPZLD5ZpeSAEUbuPJEoIieOWNlgcydBEq2tx-Mo6mCVBHTkZCX9qW5hHw4l_Owd",
+   "link": "https://www.google.com/search?q=%22Undaria+Algae+Body+Oil+5+Oz+%E2%80%93+Visibly+Firming%2C+Deeply+Moisturizing%2C%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 2,
+     "price_text": "$94.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 55,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_055.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Coco & Eve UK",
+   "title": "Coco & Eve Firming & Tan Prolonging Peptide Body Oil. Up to 28 Days Natural Tan Extender. After Sun Care with Tropical Oils",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRDuGNmP8Xj1qJSxkXCbImOG1REozrH-aSWWkKL1cQSTUcaQJ4rMasf_Xs96QLbAXqRg707Luw",
+   "link": "https://www.google.com/search?q=%22Coco+%26+Eve+Firming+%26+Tan+Prolonging+Peptide+Body+Oil.+Up+to+28+Days+Natural+Tan+Extender.+After+Sun+Care+with+%22+Coco+%26+Eve+UK",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 2,
+     "price_text": "£26.00",
+     "reviews": 80,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 56,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_056.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon CA",
+   "title": "Coco & Eve Firming & Tan Prolonging Peptide Body Oil. Up to 28 Days Natural Tan Extender. After Sun Care with Tropical Oils",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTadIehKIZUqS2iUSslMBk01Am9I_6CwRRVd5wSZjAQ527HoQZ1v193AMoY2SxnYQc61XPLaWOC",
+   "link": "https://www.google.com/search?q=%22Coco+%26+Eve+Firming+%26+Tan+Prolonging+Peptide+Body+Oil.+Up+to+28+Days+Natural+Tan+Extender.+After+Sun+Care+with+%22+Amazon+CA",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 2,
+     "price_text": "$47.00",
+     "reviews": 80,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 57,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_057.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "Coco & Eve Firming & Tan Prolonging Peptide Body Oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4EY71MR6K7XbjyuWeBzp5eNBaMaCQDhmXdb6R0UczkJ3ik4UZo2qL9aTNamtJ8QDrqeZVtiNPvrv7PGKana0RddyBNqdPx68VUfO89fTiS0LfQEv-oAyndg",
+   "link": "https://www.google.com/search?q=%22Coco+%26+Eve+Firming+%26+Tan+Prolonging+Peptide+Body+Oil%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 2,
+     "price_text": "30,00 €",
+     "reviews": 80,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 58,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_058.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Chemist Warehouse NZ",
+   "title": "Oil Garden Complexion Boost Body Oil 100ml",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRBinas4uCH3nIDo3K2OCNZyQlvwPC0EdWXFpmwbm9PneTHjsrsZrG5E4QVgpfrzmXOQX5_whZsG1sRCyFXAAzUmHE91aKb-TXUITrrEZyGjCU_AuvlJi66cw",
+   "link": "https://www.google.com/search?q=%22Oil+Garden+Complexion+Boost+Body+Oil+100ml%22+Chemist+Warehouse+NZ",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 2,
+     "price_text": "$23.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 59,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_059.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon AU - Amazon.com.au-Seller",
+   "title": "Multi-Peptide Shower Body Oil for Crepey Skin | Fast-Absorbing, Non-Greasy, Post-Shower Massage Oil, for Thighs, Buttocks & Underarms",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTA7d7fzH1kbDOL_0uTRBLAtqF_hW3PetrnfpOn7fOWc1LCQBxBSHjp5isTXIphLtwJbameQKc",
+   "link": "https://www.google.com/search?q=%22Multi-Peptide+Shower+Body+Oil+for+Crepey+Skin+%7C+Fast-Absorbing%2C+Non-Greasy%2C+Post-Shower+Massage+Oil%2C+for+Thigh%22+Amazon+AU",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 3,
+     "price_text": "$21.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 60,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_060.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "nordbody.com",
+   "title": "NØRD BODY Peptide Body Oil 150ml",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJ9yqiLw3hWrs-wNQc-7QNHmuG5x4boHsClmDRwLCRqwISrUR9FZ6rKGB3TS4J5DfeudHdlrY",
+   "link": "https://www.google.com/search?q=%22N%C3%98RD+BODY+Peptide+Body+Oil+150ml%22+nordbody.com",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 5,
+     "price_text": "$38.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "ca": {
+     "rank": 3,
+     "price_text": "$38.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 8,
+     "price_text": "$48.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 61,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_061.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Mercari",
+   "title": "Osea Undaria Algae Body Oil - New Beauty",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhRRYdNa2dLZeQnkhiu-ocTXIZLKuz2tk5V6qXRLWAaHb6ciDYGjlXEIi73bYi2o-Va_GjNfXuMvfvL-Y2EoGQEty7tRCXFA4kRs-K-RQ",
+   "link": "https://www.google.com/search?q=%22Osea+Undaria+Algae+Body+Oil+-+New+Beauty%22+Mercari",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 3,
+     "price_text": "$7.00",
+     "reviews": 7400,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 62,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_062.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "QVC UK",
+   "title": "Alpha-H Peptide Body Oil 100ml",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmA_2M_V8gNgqp_NGmYjjardyqoVzOyIj8T03A8LF_9eCjEZs8CXz3Crzw9eZ0FlD3PmFA9iSh",
+   "link": "https://www.google.com/search?q=%22Alpha-H+Peptide+Body+Oil+100ml%22+QVC+UK",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 3,
+     "price_text": "£28.92",
+     "reviews": 1,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 63,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_063.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "dm-drogerie markt",
+   "title": "Geek & Gorgeous Power Peptides Serum - 30.0 ml",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTdg_GcTr4vEUN9agkky6cRJ8MM601p_dYRyghTZbc-jkFSLk2PduH22GvhSFraGz-FEvqZ7FQ7TH7AnnFVW1vskzGQovJ3qh1opl5ZH6JUM0Pgp0FL-SG9",
+   "link": "https://www.google.com/search?q=%22Geek+%26+Gorgeous+Power+Peptides+Serum+-+30.0+ml%22+dm-drogerie+markt",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 3,
+     "price_text": "15,35 €",
+     "reviews": 2342,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 64,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_064.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "The Warehouse",
+   "title": "Palmer's Coco Firming Body Oil 192ml",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQg6zpV1BF0e0scbOBRNWLeMadutEIP1t5pW7w-YfRSqczwOvhDZQOJe-EDykqgWlo1ckDnot1dVluhqcaceV8dOkLacBD7czV48dKZ4KncHb8MpUBGkHRU",
+   "link": "https://www.google.com/search?q=%22Palmer%27s+Coco+Firming+Body+Oil+192ml%22+The+Warehouse",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 3,
+     "price_text": "$24.99",
+     "reviews": 461,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 65,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_065.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Sephora.com.au",
+   "title": "Biotyspa Firming Body Oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRv4Wwbvb6QTxRt3v0Rini4Rzruff5xl7bRgi26uAHcf4m3E3HNIsb6B_eqdDrsqR6b_8I6TKfx",
+   "link": "https://www.google.com/search?q=%22Biotyspa+Firming+Body+Oil%22+Sephora.com.au",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 4,
+     "price_text": "$59.00",
+     "reviews": 47,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 66,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_066.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "nordbody.com",
+   "title": "NØRD BODY Peptide Body Oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmKNmuZIsosQzYS0Mag1qMnM-U7nspYBVWvBNPem7YxDzg8Z9-NnKArUtiVpWupnpB7LHwnjDgpQ",
+   "link": "https://www.google.com/search?q=%22N%C3%98RD+BODY+Peptide+Body+Oil%22+nordbody.com",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 10,
+     "price_text": "$55.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 4,
+     "price_text": "$68.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 67,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_067.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Mercari",
+   "title": "Osea Undaria Algae Body Oil 1oz / 30ml - New Beauty",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSgkqkndfEtm0EpfB3whxsr9h8Z9BFSgJt7u6MVh9Ev5A61gkIJ3KWKLhNxTwMB_9uQ6gpj7XIOoI1xQVn2SAktqfU8M_iVUStOHf5j5HAt",
+   "link": "https://www.google.com/search?q=%22Osea+Undaria+Algae+Body+Oil+1oz+%2F+30ml+-+New+Beauty%22+Mercari",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 4,
+     "price_text": "$14.00",
+     "reviews": 7300,
+     "rating": 3.6,
+     "bought": null
+    }
+   },
+   "n": 68,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_068.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.co.uk",
+   "title": "YOPE Ultra Regenerating Body Serum my Body Peptide Renew",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQAe_YDBG5jy02__BmQY1e2hJj2ynWYcwRadi1BeNOg_IIEnQcolNYeMuknOn31v7E8FgJ6z8-J",
+   "link": "https://www.google.com/search?q=%22YOPE+Ultra+Regenerating+Body+Serum+my+Body+Peptide+Renew%22+Amazon.co.uk",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 4,
+     "price_text": "£8.20",
+     "reviews": 10,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 69,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_069.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Sephora",
+   "title": "SEPHORA COLLECTION Lift & Firm Recovery Firming Night Oil with Retinol 1.01 fl. oz",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQcurzShVJv6l3mecxV-XXpe-9NCtc8f5jZ9ezgSRhfq5yFpducWjeT9OWMEEoPUwYZpHH0tbI",
+   "link": "https://www.google.com/search?q=%22SEPHORA+COLLECTION+Lift+%26+Firm+Recovery+Firming+Night+Oil+with+Retinol+1.01+fl.+oz%22+Sephora",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 4,
+     "price_text": "$33.00",
+     "reviews": 521,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 70,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_070.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "dehuidspecialistshop",
+   "title": "Alpha-H Firming Peptide Body Oil | Tegen slappe en droge huid",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkTdem3Ulq1JmMEVSqQe-QFj1OCa3MaAP1QXOqxYM_bMqyGHfzEsAeIzMHdoeLtf9pTFGoaRSOXYt4j-PGHfkeqgZhmhWC7zvZjgz04Ole4pZBiyIhLNI3aw",
+   "link": "https://www.google.com/search?q=%22Alpha-H+Firming+Peptide+Body+Oil+%7C+Tegen+slappe+en+droge+huid%22+dehuidspecialistshop",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 4,
+     "price_text": "33,95 €",
+     "reviews": 246,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 71,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_071.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Mercari",
+   "title": "Osea Undaria Algae Body Oil .6 Oz 18 ML Mini Travel Size - New Beauty",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZhI8zCV0ujLbtJk9pJ1npSzHfNAcK93Fltg-pQIWE5IJzix_xETDiInefhUgoRD02O9fXzVJrQt21xtiIYOs-_sZ10goP_boScikB_QE",
+   "link": "https://www.google.com/search?q=%22Osea+Undaria+Algae+Body+Oil+.6+Oz+18+ML+Mini+Travel+Size+-+New+Beauty%22+Mercari",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 5,
+     "price_text": "$12.00",
+     "reviews": 7300,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 72,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_072.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "LOOKFANTASTIC",
+   "title": "Nip+Fab Travel Size Peptide Fix Finishing Oil 2%",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQU5dnjW35l9ozoEvz5QdzO6m-V2RYAbQufKuekWBOY3Y5hoHjZE3IpeHPIoSmva_xtwFX4E_xd9w",
+   "link": "https://www.google.com/search?q=%22Nip%2BFab+Travel+Size+Peptide+Fix+Finishing+Oil+2%25%22+LOOKFANTASTIC",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 5,
+     "price_text": "£11.96",
+     "reviews": 58,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 73,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_073.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon CA",
+   "title": "Multi-Peptide Body Oil, Firming & Nourishing Skin Care, 240ml (2pcs) | Multi-Peptide Body oil helps nourish and smoothing the look of dry Skin with a",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5ozJ8ozCCnoMZfL0L1nwxXNFqs6UtmtwRThjBz2TUlQPiDIyOns6_W1sTT-mSSi5h5tMjYh07",
+   "link": "https://www.google.com/search?q=%22Multi-Peptide+Body+Oil%2C+Firming+%26+Nourishing+Skin+Care%2C+240ml+%282pcs%29+%7C+Multi-Peptide+Body+oil+helps+nourish+an%22+Amazon+CA",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 5,
+     "price_text": "$35.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 74,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_074.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "dm-drogerie markt",
+   "title": "Bi-Oil Hautpflege-Öl 100% natürlich",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvG2hEkmiXCVs69TbffA6cQ6HxDiFRJa4mLiS9iMfsRf3lrr34S88kfBR7ks7_cSKq7gui_-a-1Wer61krG3ZNFjPZZAwtzcrCQMgR_yt2wQ59KG0JtlQBQg",
+   "link": "https://www.google.com/search?q=%22Bi-Oil+Hautpflege-%C3%96l+100%25+nat%C3%BCrlich%22+dm-drogerie+markt",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 5,
+     "price_text": "16,95 €",
+     "reviews": 160,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 75,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_075.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "hikoco.co.nz",
+   "title": "Mizon Peptide 500 30ml",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlOg40ZQBV5aqQvyEE-Wm7jNBmb50_pCnNrzzdn7z9XYWW655ym2wICLnU-nywdCCmQTsJJ_9Pr_pE5EtL2Y6dPX4weMY-8i8OABqgVbyZRuRKLR020gGK9Q",
+   "link": "https://www.google.com/search?q=%22Mizon+Peptide+500+30ml%22+hikoco.co.nz",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 5,
+     "price_text": "$42.00",
+     "reviews": 599,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 76,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_076.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "BIG W",
+   "title": "Palmer's Brazilian Coco Firming Body Oil 192ml",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYMBDuCZ0jx2sXa1YkG2GFniK2u0mbCx4OUMb37rCHkc2MUmgZJHxkQ3hnymc",
+   "link": "https://www.google.com/search?q=%22Palmer%27s+Brazilian+Coco+Firming+Body+Oil+192ml%22+BIG+W",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 6,
+     "price_text": "$20.00",
+     "reviews": 461,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 77,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_077.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay - myboutique7763",
+   "title": "Osea Malibu Undaria Algae Body Oil 18ml/0.6oz Sample-choose Lot",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7sPTQj8-PLv-Y-uBNdZVNOeL1XDxeWD5t7NVbfm59jc1WDOd3iBElQWUeuj9IWb3mqmm1fZFTE0Sui_ZNXPpi6dE_xjqLw08DcSLnyFJKprHOQk9qX371Mg",
+   "link": "https://www.google.com/search?q=%22Osea+Malibu+Undaria+Algae+Body+Oil+18ml%2F0.6oz+Sample-choose+Lot%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 6,
+     "price_text": "$29.99",
+     "reviews": 7200,
+     "rating": 3.9,
+     "bought": null
+    }
+   },
+   "n": 78,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_078.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "The Alternative Beauty & Fragrance",
+   "title": "Joonbyrd Daydreamer Body Serum",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFf4SpLTLSTkVF3fvS_Pv6dPB0QvdmpEeEPnuae0QmiqbNraYQ1oBLcC1FC0ySBM-hgp2pTC0Hcw",
+   "link": "https://www.google.com/search?q=%22Joonbyrd+Daydreamer+Body+Serum%22+The+Alternative+Beauty+%26+Fragrance",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 6,
+     "price_text": "£59.00",
+     "reviews": 337,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 79,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_079.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Shoppers Drug Mart",
+   "title": "Naturium Multi-Peptide Advanced Serum",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSwowrvgT0jCL1fS-B8vUA7PFqhF5rU9E6h9FbB4k46pbYd3rWT7U5wBeAoJ_JA4dgnjF3j5xqz",
+   "link": "https://www.google.com/search?q=%22Naturium+Multi-Peptide+Advanced+Serum%22+Shoppers+Drug+Mart",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 6,
+     "price_text": "$39.99",
+     "reviews": 233,
+     "rating": 4.0,
+     "bought": null
+    }
+   },
+   "n": 80,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_080.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "BioKosmetik Vegan Berlin",
+   "title": "Dr. Spiller Celltresor Ultimate Peptide Serum",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUeAZC8EQxmmVB4hPjRxFEtf_rFr6-UVr5tW-XJ8bNv3zBUE5ayVOtC3AL7H6EPLqUcIK2kbhaGz_XEYdcVYpOPOcvhVCwKEPqsj_t8J8OH3aFREGYO09VYw",
+   "link": "https://www.google.com/search?q=%22Dr.+Spiller+Celltresor+Ultimate+Peptide+Serum%22+BioKosmetik+Vegan+Berlin",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 6,
+     "price_text": "99,80 €",
+     "reviews": 13,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 81,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_081.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon AU - Amazon.com.au-Seller",
+   "title": "Multi Peptide Body Oil, Anti Cellulite Oil, Firming Body Oils for Crepey Skin, Reduce Fine Lines, Lift Sagging Skin, Anti Cellulite for Bums, Thighs &",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRHvsHlbqGEXEvgtMTHzzyqvz45xJQZ24jX6fEIJoP-p1qcybd_jNalAXmoDDpFtVmkX4Qb_b0",
+   "link": "https://www.google.com/search?q=%22Multi+Peptide+Body+Oil%2C+Anti+Cellulite+Oil%2C+Firming+Body+Oils+for+Crepey+Skin%2C+Reduce+Fine+Lines%2C+Lift+Sagging%22+Amazon+AU",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 7,
+     "price_text": "$30.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 82,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_082.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Mercari",
+   "title": "Osea Body Oil - New Beauty",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTm5P4kcGurUGuLOo5vyIeqz516jBBnTK44QGaliFbwlRO5kC6WVa-oM6QtV8KbPPVuIVM61ymbD0yn5vrqUQu1akHqPPMvcvCohP-sdxE",
+   "link": "https://www.google.com/search?q=%22Osea+Body+Oil+-+New+Beauty%22+Mercari",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 7,
+     "price_text": "$15.00",
+     "reviews": 7200,
+     "rating": 3.9,
+     "bought": null
+    }
+   },
+   "n": 83,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_083.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Boots.com",
+   "title": "Rehab. Retreat Dose Energise Body Oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS089sCU2zm_czaSQxPSuir9N_F1BD66o-UfnkcSO0bFoHkWO8MH0R1fHRk8KSdO4xCzP_hFqQ",
+   "link": "https://www.google.com/search?q=%22Rehab.+Retreat+Dose+Energise+Body+Oil%22+Boots.com",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 7,
+     "price_text": "£28.00",
+     "reviews": 42,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 84,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_084.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "LOOKFANTASTIC",
+   "title": "Nip+Fab Peptide Finishing Oil 15 ml",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQU5dnjW35l9ozoEvz5QdzO6m-V2RYAbQufKuekWBOY3Y5hoHjZE3IpeHPIoSmva_xtwFX4E_xd9w",
+   "link": "https://www.google.com/search?q=%22Nip%2BFab+Peptide+Finishing+Oil+15+ml%22+LOOKFANTASTIC",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 7,
+     "price_text": "$21.00",
+     "reviews": 58,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 85,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_085.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "dm-drogerie markt",
+   "title": "Balea Body Beauty-Öl",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwiy-XB5dyT5Qm17GkhCAYJ7Iaba-5HKRralirGHY3C1m6d-X0bEuxn9yZ_rN55UrWBmUDWsu_8jIQPvF4PgeD-AC4Qe9HkU4lZJI3_VzHfRI0sV9aS03HDw",
+   "link": "https://www.google.com/search?q=%22Balea+Body+Beauty-%C3%96l%22+dm-drogerie+markt",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 7,
+     "price_text": "3,95 €",
+     "reviews": 258,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 86,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_086.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Ceres Organics",
+   "title": "Weleda Pomegranate Regenerating Body Oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRCZ_-sD_nb1PKPpw1AGjf6eaeYbYIXLj-UcPdTR4eXwaxs_9HI0tZaHauxQWgpF66F0ntDboSIpe0mOTy37eAT2nCZgT8_A0gMUgDji3193M6S7DBtEEEA",
+   "link": "https://www.google.com/search?q=%22Weleda+Pomegranate+Regenerating+Body+Oil%22+Ceres+Organics",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 7,
+     "price_text": "$33.00",
+     "reviews": 774,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 87,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_087.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Sephora.com.au",
+   "title": "Bangn Body Firming Body Oil Pregnancy Stretch Mark Belly Oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-BHawK6ORxQ-3FB7TQZGzXoNouN15K1oyiNSaAZcP9t4JJFb2PxcXYWqOeBG0lz3fkT_NFko",
+   "link": "https://www.google.com/search?q=%22Bangn+Body+Firming+Body+Oil+Pregnancy+Stretch+Mark+Belly+Oil%22+Sephora.com.au",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 8,
+     "price_text": "$34.00",
+     "reviews": 760,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 88,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_088.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "TikTok Shop",
+   "title": "Nécessaire The Body Lotion",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-RV4ac_sAf7lMg8P0D4ix1Fzm6PXPhDO-J2up_Jhoa2v-6CR9KMS_fAwVNPsDikQt-T7huTO68zH5t7-dbyyxPOJ2yFZPRUkd8512p6gMMWHDhAwnmbdEmQ",
+   "link": "https://www.google.com/search?q=%22N%C3%A9cessaire+The+Body+Lotion%22+TikTok+Shop",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 8,
+     "price_text": "$30.00",
+     "reviews": 6500,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 89,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_089.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+   "title": "Nord Body Multi Peptide Body Oil Peptide Skin Care for Daily Body Care",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTalRihDg6FmU2IJVV081zS4OGNBRB1MxKBoVZbQ_kmAZvp6dy9g2pXR1Nqt80IhjKHCYkQkB5Z",
+   "link": "https://www.google.com/search?q=%22Nord+Body+Multi+Peptide+Body+Oil+Peptide+Skin+Care+for+Daily+Body+Care%22+Amazon.co.uk",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 8,
+     "price_text": "£19.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 90,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_090.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Sephora",
+   "title": "L Occitane Almond Supple Skin Oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRQ-0na_yrcn2QvgDl_8PPEMZFF9IqOmJKsumLCJXgHjkDVFLgGGBFL00jwT81a-KypSKFMKcE",
+   "link": "https://www.google.com/search?q=%22L+Occitane+Almond+Supple+Skin+Oil%22+Sephora",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 8,
+     "price_text": "$32.00",
+     "reviews": 5200,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 91,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_091.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "GoSupps Beauty",
+   "title": "Ensanté Body Firming Oil With Collagen Peptides Cellulite Massage Oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYGMsJF5Rvk-2HoAUJCMoh2QaLRmcchtbJMD7RQWTBWG6l-DOoR62jZOVD3wlDRRYaYJKSjbt4n7_vxH6v0UkQiv2PqccTVjYAw5XLPslaRmLTjHoj-zGO6A",
+   "link": "https://www.google.com/search?q=%22Ensant%C3%A9+Body+Firming+Oil+With+Collagen+Peptides+Cellulite+Massage+Oil%22+GoSupps+Beauty",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 8,
+     "price_text": "49,09 €",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 92,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_092.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "REVOLVE",
+   "title": "Irene Forte Pistachio Body Oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKrVTjntQksBjfGQV_PXSR2KFvRCzcz3J39dxHZApOYg7r8bU1no3am9XAWHLdnDz3C6YNEkJWGLkGHoVE9K49yct6WydnlpOwhBkinDJGem33ih4Jd1mFqw",
+   "link": "https://www.google.com/search?q=%22Irene+Forte+Pistachio+Body+Oil%22+REVOLVE",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 9,
+     "price_text": "$165.00",
+     "reviews": 1,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 93,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_093.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Luminis Beauty Spa",
+   "title": "Olverum Firming Body Oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTq9-VEn2I-qo0y-_DCxMZ0axlXjrOjVkvYLrdlr0OqaH2N63n3mlqyq5OGUnHnWTP6b0NiCmAE",
+   "link": "https://www.google.com/search?q=%22Olverum+Firming+Body+Oil%22+Luminis+Beauty+Spa",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 9,
+     "price_text": "£47.50",
+     "reviews": 143,
+     "rating": 4.5,
+     "bought": null
+    }
+   },
+   "n": 94,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_094.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon CA",
+   "title": "Huile corporelle multi-peptides, soin raffermissant et nourrissant, 240 ml | L'huile corporelle multi-peptide aide à nourrir et lisser l'apparence de",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6cyev889z1Kta3xYvZKCrhhHxUjXea3oJwqRHLGBCzHOY6RAliG6TYNNITDcxCywZVe_RrScV",
+   "link": "https://www.google.com/search?q=%22Huile+corporelle+multi-peptides%2C+soin+raffermissant+et+nourrissant%2C+240+ml+%7C+L%27huile+corporelle+multi-peptide+%22+Amazon+CA",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 9,
+     "price_text": "$21.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 95,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_095.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Apotheker.com",
+   "title": "Dr. Grandel Beautygen Renew Body Oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPNWhGqLyHCv5BVmhNRyYrTygGOuJgJ-jYKOwUkagIwdiuD-uwHG9nNsmVdP7-Fvsf7haM3yiwoDXZSh_1D0yOW9BhTwO28MNDQ3UKqBbYNxe8Hua37oBX_w",
+   "link": "https://www.google.com/search?q=%22Dr.+Grandel+Beautygen+Renew+Body+Oil%22+Apotheker.com",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 9,
+     "price_text": "40,80 €",
+     "reviews": 20,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 96,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_096.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "It's Organic Darling",
+   "title": "Becca Project Zahara Body Oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRGqx4G7CYwhAcYLTPAZ426IWsjxpQLAHrrY9s2G8J8H2NFO4kNp39i4dtTLNAgFD6_cCW0DCU-CTyFU_4f6ghoFI9A-meiUbmHAENMdPoga6BDAmxpXw6LzA",
+   "link": "https://www.google.com/search?q=%22Becca+Project+Zahara+Body+Oil%22+It%27s+Organic+Darling",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 9,
+     "price_text": "$71.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 97,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_097.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Loja Glamourosa",
+   "title": "Payot Rituel Douceur Toning 100ml Body Oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQe8e7IYjzqYc_GYWp88r7SQoQ_mAXjEk8gbD4w707nt4n_ja1oVZ49DVtpOXKXXLtTq2ECctTYGsBloaFv5qRpEXs5aqPBUUeY332IrlBYORloyA8kmKx",
+   "link": "https://www.google.com/search?q=%22Payot+Rituel+Douceur+Toning+100ml+Body+Oil%22+Loja+Glamourosa",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 10,
+     "price_text": "$29.49",
+     "reviews": 1,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 98,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_098.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay",
+   "title": "Q+A Collagen Body Oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTBu8nEWjtLj_-w_CND0fCkrEqCiGdg3Er4Nlic2XlnAezpYRxw8uEdlvHpdLw",
+   "link": "https://www.google.com/search?q=%22Q%2BA+Collagen+Body+Oil%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 10,
+     "price_text": "£6.52",
+     "reviews": 243,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 99,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_099.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Delizioso Skincare",
+   "title": "Bulgarian Rose Mature Skin Pro-Collagen Peptide Oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSW05DhBgTD1WTPFC-v4-fi67j1UQo-uKcm1GpRXi85Z59nQQvmsTuIxulY0HImmAZZUGc9Jczk",
+   "link": "https://www.google.com/search?q=%22Bulgarian+Rose+Mature+Skin+Pro-Collagen+Peptide+Oil%22+Delizioso+Skincare",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 10,
+     "price_text": "$62.00",
+     "reviews": 4,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 100,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_100.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "dm-drogerie markt",
+   "title": "Shirin Beauty Körperöl",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9v0dWWIX84C4ZsPdYsbdH_EnlLLWC4ApesBWypeLgC0q4rqL5z4V4rKDxBKocbZruiqzdOMhUWSf7Jw7JNh4_ARweyIMHf87MUE-wAQhUqv1NAy8tW37Rcw",
+   "link": "https://www.google.com/search?q=%22Shirin+Beauty+K%C3%B6rper%C3%B6l%22+dm-drogerie+markt",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 10,
+     "price_text": "4,95 €",
+     "reviews": 240,
+     "rating": 4.2,
+     "bought": null
+    }
+   },
+   "n": 101,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_101.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Hedgerow",
+   "title": "Embodyme Peace Nurturing Body Oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR10PdK9v2brhhAgXobj-yItTiXY17zKizj00n6jMWKChp-RZI3gzUI8dNHg6V6VIP3ZMGQCSmFDU2najTeBbHzTwyby40sev6z9t8YG30RTcwZ7Mv22zrXjuc",
+   "link": "https://www.google.com/search?q=%22Embodyme+Peace+Nurturing+Body+Oil%22+Hedgerow",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 10,
+     "price_text": "$120.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 102,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_102.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Stylerunner",
+   "title": "Bangn Body Firming Oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQCmB1dwh94nCJWAk17GPsue_gMrJKvCLJmU4_YXzYbsujxQxzI_Ln6AyfCaX748eQQ66-82OM",
+   "link": "https://www.google.com/search?q=%22Bangn+Body+Firming+Oil%22+Stylerunner",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 11,
+     "price_text": "$68.00",
+     "reviews": 4,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 103,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_103.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "YesStyle.com",
+   "title": "APLB Glycolipids Peptide Ampoule Serum",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTAmeOCbuAMrq3UZb75xMMMuKfTa0en9tKhfYW-55ypJFUcW4BzcIViKyHamQpEYvUZw76yKrkMZAF3Xt9hO0_tyMXZ0j4LOB7vjVA2MHg",
+   "link": "https://www.google.com/search?q=%22APLB+Glycolipids+Peptide+Ampoule+Serum%22+YesStyle.com",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 11,
+     "price_text": "$9.80",
+     "reviews": 130,
+     "rating": 4.9,
+     "bought": null
+    }
+   },
+   "n": 104,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_104.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Clan Pharmacy",
+   "title": "Medik8 Copper PCA Peptides",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKcqvFA3mgrR7jfnaWcsVtFPcOWVZyEUBBbb0HHVQ1muNmAXBkzFAvN-ZkJyXlxWDCNLI10I9a",
+   "link": "https://www.google.com/search?q=%22Medik8+Copper+PCA+Peptides%22+Clan+Pharmacy",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 11,
+     "price_text": "£65.00",
+     "reviews": 423,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 105,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_105.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Beauty From Bees",
+   "title": "Beauty From Bees Body Serum",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqRmYmFnrqCkMa4D_eaOfu8clriWSmYJML0krdi8h8AbqSdBmKaXyqNUMYcpPiIBLLXnKqDF8",
+   "link": "https://www.google.com/search?q=%22Beauty+From+Bees+Body+Serum%22+Beauty+From+Bees",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 11,
+     "price_text": "$119.00",
+     "reviews": 42000,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 106,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_106.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "flaconi.de",
+   "title": "Nuxe Huile Prodigieuse Roll-On",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfIvNgN7kV649hRPc7RXgd4hEAv3J1QCBa1_sNyQCVzdw78wM5KtT2CHkkMCc4GZgta9_GbcZYaDPIzAl0CcgcB7LOaWm9moiayHTi2hgbzOaZn8vYqx5o",
+   "link": "https://www.google.com/search?q=%22Nuxe+Huile+Prodigieuse+Roll-On%22+flaconi.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 11,
+     "price_text": "17,05 €",
+     "reviews": 561,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 107,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_107.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Sephora.nz",
+   "title": "Biotyspa Firming Body Oil",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcReftI8SSDnrgINjQ-RUeDyKG309KbmnT6L8dr2EiLjivgxm--crvPfWuJm4L8JXAXlf639g8Ze1-y8HMmP1SdCiKoiN18wIrWJXpDE6Uo0fqudxReBt4ieFg",
+   "link": "https://www.google.com/search?q=%22Biotyspa+Firming+Body+Oil%22+Sephora.nz",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 11,
+     "price_text": "$67.00",
+     "reviews": 47,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 108,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_108.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon AU - Amazon.com.au-Seller",
+   "title": "Multi-peptide body oil, Firming & Nourishing skin Care, 240ml Multi-peptide body oil helps nourish and smoothing the look of dry skin with a",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5ozJ8ozCCnoMZfL0L1nwxXNFqs6UtmtwRThjBz2TUlQPiDIyOns6_W1sTT-mSSi5h5tMjYh07",
+   "link": "https://www.google.com/search?q=%22Multi-peptide+body+oil%2C+Firming+%26+Nourishing+skin+Care%2C+240ml+Multi-peptide+body+oil+helps+nourish+and+smoothi%22+Amazon+AU",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 12,
+     "price_text": "$46.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 109,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_109.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Ulta Beauty",
+   "title": "Uni Golden Microalgae Body Oil",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVMpFN3aGwlwPNzewiBc7TJrV4FakYLzESrELDTt7vrKNIIoiExVDNjmzVrPVhvbV_vLF9CWZpKGQVvcD3ms84SJ2pBR1h0ZYonGIDisFheGdAwqwWIbrUYw",
+   "link": "https://www.google.com/search?q=%22Uni+Golden+Microalgae+Body+Oil%22+Ulta+Beauty",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 12,
+     "price_text": "$48.00",
+     "reviews": 178,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 110,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_110.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+   "title": "NordBody Multi Peptide Body Oil, Nourishing Firming Oil for Crepey Skin, Reduce Fine Lines, Moisturizing Body Oil for Bums, Thighs and Underarms",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZIKJgOHM3myJXFUWDcFSS-YOX4vFCmNXlUP9mlf9aD6gwRf5Goi9GjNoLrLJwroqCHo0bwXY",
+   "link": "https://www.google.com/search?q=%22NordBody+Multi+Peptide+Body+Oil%2C+Nourishing+Firming+Oil+for+Crepey+Skin%2C+Reduce+Fine+Lines%2C+Moisturizing+Body+%22+Amazon.co.uk",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 12,
+     "price_text": "£12.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 111,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_111.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Sephora",
+   "title": "BYOMA Nourishing Body Oil",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcShQkG7j4eFqxZZaM0vdJZdcTAikDK41IfTfrn9Hde00K4Gv7E8g8fwNr1zmJdTZVqkjcxkCOIi",
+   "link": "https://www.google.com/search?q=%22BYOMA+Nourishing+Body+Oil%22+Sephora",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 12,
+     "price_text": "$22.00",
+     "reviews": 1200,
+     "rating": 4.3,
+     "bought": null
+    }
+   },
+   "n": 112,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_112.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Glam Skin Webshop",
+   "title": "Alpha-H Firming Peptide Body Oil 100ml",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRx-8A66eK7-k9ud0Kd8sUgLWYtA81U6Ruoc8v3M3KP5xJRmFe7JhflmyajhCAf3UKLmfM-RVtutnpxLARvO-nzlJJiBjNV8mMpqZdI0YsgH2YGyuT8uJeX",
+   "link": "https://www.google.com/search?q=%22Alpha-H+Firming+Peptide+Body+Oil+100ml%22+Glam+Skin+Webshop",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 12,
+     "price_text": "33,95 €",
+     "reviews": 246,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 113,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_113.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Life Pharmacy Meadowbank",
+   "title": "Trilogy Pure Plant Body Oil",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQnqGPoTTlbnoIbckH2OunXOemZK1L7vc0mXOlpcXvQpnzPKgTyxGOch8cU9C2p0EZ933MM-iC52v_1Y7Fhv3hqRfWogDD3DTsJHzvCQ-Df3Hpo1Z41Ofc1PBo",
+   "link": "https://www.google.com/search?q=%22Trilogy+Pure+Plant+Body+Oil%22+Life+Pharmacy+Meadowbank",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 12,
+     "price_text": "$31.99",
+     "reviews": 94,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 114,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_114.jpg"
+  }
+ ]
+}
