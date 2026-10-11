@@ -1,0 +1,1917 @@
+{
+ "run": {
+  "title": "Product Research",
+  "date": "2026-10-11",
+  "prepared_for": "Sky",
+  "countries": [
+   "au",
+   "us",
+   "uk",
+   "ca",
+   "de",
+   "nz"
+  ],
+  "assumptions": [
+   "Product costs are estimates: no supplier price was read for this kit",
+   "Ad counts only include ads that use the exact words \"pre-glued lashes\", and counting stopped at 250 ads, so real numbers are higher",
+   "Green on a map means we found nobody else selling this exact kit there, not that nobody does",
+   "Lash adhesive is a cosmetic used near the eye: selling in the EU or UK needs a safety assessment and product registration"
+  ],
+  "mode": "full"
+ },
+ "headline": "Demand for pre-glued lash clusters is nearly doubling, but you would be fighting an established brand, 28+ advertisers and cheap Ardell, KISS and GLAM kits in every big chain. Nobody copies Lola's exact kit, yet the category is full.",
+ "products": [
+  {
+   "slug": "lola-kit",
+   "name": "Pre-Glued Lash Starter Kit (Lola's Lashes)",
+   "one_liner": "Nobody else sells this exact kit, so the map is green. But the category is full: big brands in every chain, 28+ advertisers and Amazon kits with thousands of reviews.",
+   "url": "https://lolaslashes.co.uk/products/pre-glued-starter-kit-1",
+   "brand": "Lola's Lashes",
+   "category": "DIY lash extensions (pre-glued clusters)",
+   "price": "£33 (€44 in the EU)",
+   "ad_days": "Oldest live ad 2026-02-16",
+   "store_platform": "Shopify",
+   "store_launched": "2019-06",
+   "store_products": "250 products, all lashes and lash care",
+   "snapshot": {
+    "icp": "Women 18-40 who want salon-style lash extensions without salon cost or infill appointments",
+    "job": "Fuller lashes at home that last several days",
+    "cogs": "Roughly £3-6 landed for a generic pre-glued kit (estimate, not checked)",
+    "margin": "About 80-90% at £33 (estimate)",
+    "claims": "5-10 day hold, waterproof, patented stick-and-clamp applicator, vegan; Beauty Awards 2025 shortlist",
+    "demoable": "Yes: before and after, three-step application on camera"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "flag",
+     "why": "No chain sells a copy of this exact kit, but Superdrug and Boots stock Lola's own kit, and every chain sells rival pre-glued clusters"
+    },
+    {
+     "name": "Copies gate",
+     "result": "pass",
+     "why": "No other seller copies this exact design. The rival kits look clearly different, so this gate passes, but the category is full"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded, not a swarm: 12 of 28 brands are new in the last two months, and the biggest shops are all over a year old"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A cosmetic with adhesive used near the eye: needs EU/UK cosmetic safety assessment and registration before selling"
+    }
+   ],
+   "scores": {
+    "saturated": 9,
+    "margin": 7,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "overall": 54,
+   "confidence": "Medium",
+   "best_region": "None. The map is green only because no one copies Lola's design; rival pre-glued kits are in big chains in all six countries.",
+   "angles": [
+    "Lashes for glasses wearers: lengths that don't touch the lenses",
+    "Gym and swim lashes: sweat-proof for workouts",
+    "Mature eyes: soft, light clusters for sparse lashes over 45",
+    "Bride and bridesmaid kit: one box for the whole party",
+    "TAKEN: \"No more infills\" salon-cost saving (Lola's main message)"
+   ],
+   "tile_notes": {
+    "Same": {
+     "head": "Only the brand itself",
+     "detail": "Every exact match is Lola's own kit, sold by the brand or its stockists (Superdrug, Boozyshop, Amazon). Rival kits look different but are everywhere.",
+     "colour": "green"
+    }
+   },
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "Ardell, KISS imPRESS and GLAM pre-glued clusters sit in Target, Walmart, Kmart, Priceline and Chemist Warehouse from about US$12",
+     "At least 28 brands advertise \"pre-glued lashes\"; Lola's alone runs 147 of 250 ads and has advertised since February",
+     "Amazon is heavy: 10,550+ bought last month in the US, and the top listing in Canada has 25,100 reviews"
+    ],
+    "risk": "You would need your own lash brand, safety paperwork and creative good enough to beat established beauty brands on cost per sale.",
+    "fastest_test": [
+     "Skip this as a product test. If beauty appeals, look for a lash-care add-on (remover, storage, aftercare) with fewer advertisers"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "The chain listings are rival brands (Ardell, GLAM by Manicare), not this kit.",
+     "sellers": 21,
+     "cheapest": "A$6",
+     "typical": "A$24",
+     "top": "Beautopia Hair & Beauty (1300)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "Target and Walmart sell rival brands (Ardell, KISS imPRESS), not this kit.",
+     "sellers": 27,
+     "cheapest": "US$3",
+     "typical": "US$18",
+     "top": "eBay - tanjajordan (3600)"
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "Superdrug and Boots sell Lola's own kit and rival brands.",
+     "sellers": 7,
+     "cheapest": "£5",
+     "typical": "£10",
+     "top": "Superdrug.com (272)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "Walmart and Shoppers Drug Mart sell rival brands (Ardell, QUO, KISS), not this kit.",
+     "sellers": 13,
+     "cheapest": "C$9",
+     "typical": "C$24",
+     "top": "Walmart.ca (12000)"
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "Douglas and Boozyshop sell rival kits; Boozyshop also sells Lola's own kit.",
+     "sellers": 9,
+     "cheapest": "€3",
+     "typical": "€10",
+     "top": "Douglas.de (581)"
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "Chemist Warehouse sells GLAM by Manicare clusters, not this kit.",
+     "sellers": 17,
+     "cheapest": "NZ$10",
+     "typical": "NZ$24",
+     "top": "iHerb (879)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 919 reviews; 0 of the first 20 have 1,000+; at least 1,650 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 919,
+     "n_1000_plus": 0,
+     "cheapest": "A$10",
+     "typical": "A$13",
+     "bought_last_month_min": 1650,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Higu clace Self Adhesive Eyelashes Natural Self Adhesive Lash Clusters Pre glued Eyelash C",
+       "price_text": "$9.99",
+       "price": 9.99,
+       "rating": 4.3,
+       "reviews": 919,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0FJRKVTDX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/815UmYADfFL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Higu clace Self Adhesive Eyelashes Natural Self Adhesive Lash Clusters Pre glued Eyelash C",
+       "price_text": "$9.99",
+       "price": 9.99,
+       "rating": 4.3,
+       "reviews": 919,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Higu-clace-Eyelashes-Mix10-16mm-Individual/dp/B0FJRKVTDX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/815UmYADfFL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Higu clace Self Adhesive Eyelashes Natural Self Adhesive Lash Clusters Pre glued Eyelash C",
+       "price_text": "$9.99",
+       "price": 9.99,
+       "rating": 4.3,
+       "reviews": 919,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Higu-clace-Mix10-16mm-Individual-Natural-DH/dp/B0FJRL3SB9/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81Nq+I2+a7L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 4,500 reviews; 2 of the first 20 have 1,000+; at least 10,550 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 4500,
+     "n_1000_plus": 2,
+     "cheapest": "US$7",
+     "typical": "US$10",
+     "bought_last_month_min": 10550,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Kiss Impress Falsies Self Adhesive Eyelashes, Press On Lashes, 12mm-14mm Glam Volume Lashe",
+       "price_text": "$15.97",
+       "price": 15.97,
+       "rating": 4.0,
+       "reviews": 4500,
+       "bought_text": "3K+ bought in past month",
+       "bought": 3000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Eyelashes-12mm-14mm-Invisible-Non-Stick-Applicator/dp/B0BX3YHN14/",
+       "thumbnail": "https://m.media-amazon.com/images/I/812CkJ69N+L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "FADLASH Lash Clusters Kit 280PCS Natural Eyelash Clusters Individual D Curl Cluster Eyelas",
+       "price_text": "$8.49",
+       "price": 8.49,
+       "rating": 4.3,
+       "reviews": 1100,
+       "bought_text": "600+ bought in past month",
+       "bought": 600,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com/dp/B0DX1MD8GX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81grOYlV3ML._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ardell Winks Press On Eyelash Extensions, Volume - DIY Clusters, 30 Individual Lashes, Nat",
+       "price_text": "$8.45",
+       "price": 8.45,
+       "rating": 4.2,
+       "reviews": 542,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Ardell-Winks-Pre-Glued-Underlash-Extensions/dp/B0CKHHF35T/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81RRs3Q9bRL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 10,000 reviews; 7 of the first 20 have 1,000+; at least 8,200 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 10000,
+     "n_1000_plus": 7,
+     "cheapest": "£7",
+     "typical": "£11",
+     "bought_last_month_min": 8200,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "QUEWEL Pre-Glued-Eyelashes Cluster Kit Natural Lash Clusters",
+       "price_text": "EUR 8.85",
+       "price": 8.85,
+       "rating": 4.2,
+       "reviews": 10000,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/QUEWEL-Pre-Glued-Eyelashes-Cluster-Clusters-Adhesive/dp/B0DYJ2TVJL/",
+       "thumbnail": "https://m.media-amazon.com/images/I/814TGorkWML._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "BEYELIAN Self Adhesive Lashes Clusters 200Pcs, Pre Glued Eyelashes D Curl 10-16mm Press On",
+       "price_text": "EUR 10.63",
+       "price": 10.63,
+       "rating": 4.2,
+       "reviews": 3500,
+       "bought_text": "3K+ bought in past month",
+       "bought": 3000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/BEYELIAN-Adhesive-Clusters-Eyelashes-10-16mm/dp/B0GWC5Y4JP/",
+       "thumbnail": "https://m.media-amazon.com/images/I/914kTo+dtxL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "BEYELIAN Self Adhesive Lashes Clusters 198Pcs, Pre Glued Eyelashes D Curl",
+       "price_text": "EUR 11.81",
+       "price": 11.81,
+       "rating": 4.2,
+       "reviews": 3500,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/BEYELIAN-Adhesive-Clusters-Eyelashes-10-16mm/dp/B0GJSG7K1R/",
+       "thumbnail": "https://m.media-amazon.com/images/I/91FvoWKBglL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 25,100 reviews; 5 of the first 20 have 1,000+; at least 5,900 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 25100,
+     "n_1000_plus": 5,
+     "cheapest": "C$8",
+     "typical": "C$14",
+     "bought_last_month_min": 5900,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Brown Lash Clusters Natural Look Self Adhesive Eyelashes Wispy",
+       "price_text": "$14.99",
+       "price": 14.99,
+       "rating": 4.1,
+       "reviews": 25100,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Brown-Clusters-Natural-Adhesive-Eyelashes/dp/B0H69VDXWL/",
+       "thumbnail": "https://m.media-amazon.com/images/I/91zh2fXUKJL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "KISS imPRESS Press-On Falsies Eyelash Clusters - Volume - 20 Clusters",
+       "price_text": "$28.98",
+       "price": 28.98,
+       "rating": 3.5,
+       "reviews": 4400,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/imPRESS-Press-Falsies-Eyelash-Clusters/dp/B0BX3YHN14/",
+       "thumbnail": "https://m.media-amazon.com/images/I/812CkJ69N+L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "BEYELIAN Self Adhesive Lash Clusters, D Curl 10-16mm Pre Glued Eyelashes",
+       "price_text": "$13.48",
+       "price": 13.48,
+       "rating": 4.0,
+       "reviews": 1700,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/BEYELIAN-Adhesive-Eyelashes-Waterproof-Extensions/dp/B0D9863L5D/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81zyCwSpLLL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 3,100 reviews; 7 of the first 20 have 1,000+; at least 2,250 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 3100,
+     "n_1000_plus": 7,
+     "cheapest": "€9",
+     "typical": "€10",
+     "bought_last_month_min": 2250,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "LASHVIEW Self-Adhesive Eyelashes, without Glue, Pack of 200, Press on Lashes, Clusters, D-",
+       "price_text": "€9.89",
+       "price": 9.89,
+       "rating": 4.2,
+       "reviews": 3100,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/LASHVIEW-Self-Adhesive-Eyelashes-Beginners-Waterproof/dp/B0H45KNVQX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/91i4BqPgQZL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "LASHVIEW Brown Self Adhesive Eyelashes Clusters, Press On Lashes, Pre Glued Eyelash Extens",
+       "price_text": "€13.99",
+       "price": 13.99,
+       "rating": 4.1,
+       "reviews": 2100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/LASHVIEW-Adhesive-Eyelashes-Clusters-Extension/dp/B0H1QGM5CT/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81zXQqLqYcL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "CALAILIS Self-Adhesive Eyelash Extensions, 200+ Pieces, D Curl Eyelashes, Self-Adhesive wi",
+       "price_text": "€9.93",
+       "price": 9.93,
+       "rating": 4.2,
+       "reviews": 1100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0GKF63GBM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/91cMkMEwy4L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "low",
+     "why": "top listing 919 reviews; 0 of the first 20 have 1,000+; at least 1,650 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 919,
+     "n_1000_plus": 0,
+     "cheapest": "A$10",
+     "typical": "A$13",
+     "bought_last_month_min": 1650,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Higu clace Self Adhesive Eyelashes Natural Self Adhesive Lash Clusters Pre glued Eyelash C",
+       "price_text": "$9.99",
+       "price": 9.99,
+       "rating": 4.3,
+       "reviews": 919,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0FJRKVTDX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/815UmYADfFL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Higu clace Self Adhesive Eyelashes Natural Self Adhesive Lash Clusters Pre glued Eyelash C",
+       "price_text": "$9.99",
+       "price": 9.99,
+       "rating": 4.3,
+       "reviews": 919,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Higu-clace-Eyelashes-Mix10-16mm-Individual/dp/B0FJRKVTDX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/815UmYADfFL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Higu clace Self Adhesive Eyelashes Natural Self Adhesive Lash Clusters Pre glued Eyelash C",
+       "price_text": "$9.99",
+       "price": 9.99,
+       "rating": 4.3,
+       "reviews": 919,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Higu-clace-Mix10-16mm-Individual-Natural-DH/dp/B0FJRL3SB9/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81Nq+I2+a7L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "rising",
+     "growth_pct": 94,
+     "seasonal": false,
+     "peak_months": [
+      "Apr",
+      "Aug",
+      "Sep"
+     ],
+     "months_to_peak": null,
+     "now_vs_high": 65,
+     "avg_last_year": 62.5,
+     "spike": false,
+     "zero_share": 0.0,
+     "why": "A typical week in the last 12 months is +94% on the year before",
+     "line": [
+      21,
+      21,
+      22,
+      25,
+      26,
+      30,
+      26,
+      26,
+      28,
+      28,
+      28,
+      30,
+      31,
+      32,
+      30,
+      31,
+      34,
+      35,
+      40,
+      42,
+      48,
+      47,
+      48,
+      44,
+      43,
+      42,
+      44,
+      44,
+      48,
+      46,
+      50,
+      58,
+      50,
+      50,
+      55,
+      55,
+      52,
+      62,
+      93,
+      89,
+      70,
+      78,
+      64,
+      68,
+      60,
+      55,
+      60,
+      62,
+      69,
+      82,
+      86,
+      66,
+      65
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 66.0,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 59
+    },
+    {
+     "cc": "us",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 44.0,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 59
+    },
+    {
+     "cc": "uk",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 33.0,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 59
+    },
+    {
+     "cc": "ca",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 60.28,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 59
+    },
+    {
+     "cc": "de",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 37.84,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 59
+    },
+    {
+     "cc": "nz",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 73.92,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 59
+    }
+   ],
+   "lens_sheet": "lens/lola-kit_sheet.jpg",
+   "supplier": {
+    "slug": "lola-kit",
+    "brand_price": 33.0,
+    "brand_currency": "gbp",
+    "words": "pre glued lash clusters",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-pre-glued-lash-clusters.html",
+    "listings": [],
+    "summary": {
+     "found": 0,
+     "priced": 0,
+     "brand_price_usd": 44.0,
+     "status": "none found",
+     "plain": "The photo search did not turn up a supplier listing for this exact object. That does not prove there isn't one: search AliExpress for it by name or picture before you decide."
+    }
+   },
+   "meta": {
+    "slug": "lola-kit",
+    "phrase": "pre-glued lashes",
+    "checked": "2026-10-11",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22pre-glued%20lashes%22",
+    "ads_loaded": 250,
+    "capped": true,
+    "stopped_by": "stopped at 250 ads (there are more)",
+    "n_advertisers": 28,
+    "advertisers_with_3_plus_ads": 11,
+    "biggest_advertiser_share": 0.59,
+    "brands_new_in_last_2_months": 12,
+    "brands_advertising_3_plus_months": 8,
+    "ads_started_last_2_months": 36,
+    "ads_older_than_6_months": 113,
+    "pattern": "crowded",
+    "plain": "At least 28 brands advertise it; 8 have kept ads running 3+ months, 12 are new in the last two months. We stopped counting at 250 ads, so the real numbers are higher. Of the 10 biggest shops we could date, 10 are over a year old and 0 opened in the last four months.",
+    "months": {
+     "2025-04": 1,
+     "2025-06": 1,
+     "2025-10": 2,
+     "2026-01": 1,
+     "2026-02": 46,
+     "2026-03": 24,
+     "2026-04": 38,
+     "2026-05": 22,
+     "2026-06": 10,
+     "2026-07": 34,
+     "2026-08": 35,
+     "2026-09": 30,
+     "2026-10": 6
+    },
+    "brand_months": {
+     "2025-04": 1,
+     "2025-10": 2,
+     "2026-02": 1,
+     "2026-05": 2,
+     "2026-06": 1,
+     "2026-07": 7,
+     "2026-08": 6,
+     "2026-09": 8
+    },
+    "top_advertisers": [
+     {
+      "name": "Lola's Lashes",
+      "pages": 3,
+      "page_names": [
+       "Lola's Lashes",
+       "lydiakateeloise",
+       "Makeup By Nichola"
+      ],
+      "ads": 147,
+      "oldest_live_ad": "2026-02-16",
+      "page_likes": 84505,
+      "headline": "Lashes That Last 5–10 Days. No Salon Needed 💖",
+      "shop": "lolaslashes.co.uk",
+      "product_page": "https://lolaslashes.co.uk/collections/pre-glued-lashes",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=315919509100699",
+      "shop_open_since": "2019-06-06"
+     },
+     {
+      "name": "Unicorn Cosmetics",
+      "pages": 1,
+      "page_names": [
+       "Unicorn Cosmetics"
+      ],
+      "ads": 34,
+      "oldest_live_ad": "2025-10-23",
+      "page_likes": 347247,
+      "headline": "5-minute lashes that last 10 days.💜",
+      "shop": "unicorncosmetics.com",
+      "product_page": "https://unicorncosmetics.com/collections/super-pre-glued-party-lashes",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1456997541210322",
+      "shop_open_since": "2016-07-29"
+     },
+     {
+      "name": "Tatti Lashes",
+      "pages": 1,
+      "page_names": [
+       "Tatti Lashes"
+      ],
+      "ads": 18,
+      "oldest_live_ad": "2026-07-15",
+      "page_likes": 136776,
+      "headline": "{{product.name}}",
+      "shop": "tattilashes.com",
+      "product_page": "https://tattilashes.com/collections/olivia-atwood-x-tatti-lashes",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1352094618207344",
+      "shop_open_since": "2017-03-29"
+     },
+     {
+      "name": "Cuurld Lash Co.",
+      "pages": 1,
+      "page_names": [
+       "Cuurld Lash Co."
+      ],
+      "ads": 9,
+      "oldest_live_ad": "2025-04-24",
+      "page_likes": 714,
+      "headline": "From the Cuurld community ✧\n\nA little glimpse into ❄️Linda❄️ ’s active lifestyle and the l",
+      "shop": "cuurldlash.co",
+      "product_page": "http://cuurldlash.co/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=250012831530795",
+      "shop_open_since": "2024-03-10"
+     },
+     {
+      "name": "imPRESS Lashes",
+      "pages": 1,
+      "page_names": [
+       "imPRESS Lashes"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-09-22",
+      "page_likes": 579478,
+      "headline": "Press on and keep going",
+      "shop": "walmart.ca",
+      "product_page": "https://www.walmart.ca/en/search",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=117779774926545",
+      "shop_open_since": null
+     },
+     {
+      "name": "LIT Lashes UAE",
+      "pages": 1,
+      "page_names": [
+       "LIT Lashes UAE"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-07-16",
+      "page_likes": 95,
+      "headline": "{{product.name}}",
+      "shop": "lit-lashes.com",
+      "product_page": "https://lit-lashes.com/products/whimsy-wink-mixed-lenght-pre-glued",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=916612374857949",
+      "shop_open_since": "2025-09-24"
+     },
+     {
+      "name": "imPRESS Lashes",
+      "pages": 1,
+      "page_names": [
+       "imPRESS Lashes"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-22",
+      "page_likes": 579478,
+      "headline": "Press on and keep going",
+      "shop": "jeancoutu.com",
+      "product_page": "https://www.jeancoutu.com/en/shop/search",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=117779774926545",
+      "shop_open_since": null
+     },
+     {
+      "name": "House of Amor",
+      "pages": 1,
+      "page_names": [
+       "House of Amor"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-08-26",
+      "page_likes": 26364,
+      "headline": "Buy 3 Get Your 4th FREE!",
+      "shop": "houseofamor.co.uk",
+      "product_page": "https://www.houseofamor.co.uk/pages/lazy-girl-pre-glued-diy-eyelashes",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1919069131654505",
+      "shop_open_since": "2021-08-19"
+     },
+     {
+      "name": "Dark Swan of Denmark",
+      "pages": 1,
+      "page_names": [
+       "Dark Swan of Denmark"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-05-24",
+      "page_likes": 2979,
+      "headline": "{{product.name}}",
+      "shop": "darkswanofdenmark.com",
+      "product_page": "https://darkswanofdenmark.com/collections/self-adhesive-lashes/products/flora-self-adhesive",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=579829575466178",
+      "shop_open_since": "2015-01-09"
+     },
+     {
+      "name": "Girl Got Lashes",
+      "pages": 1,
+      "page_names": [
+       "Girl Got Lashes"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-02",
+      "page_likes": 6010,
+      "headline": "Bis zu 7 Tagen Halt!",
+      "shop": "girlgotlashes.de",
+      "product_page": "https://www.girlgotlashes.de/pages/campaign-2026",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101309582134791",
+      "shop_open_since": "2021-06-22"
+     },
+     {
+      "name": "Cliquelab",
+      "pages": 1,
+      "page_names": [
+       "Cliquelab"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-08-21",
+      "page_likes": 5667,
+      "headline": "Introducing: Clique-On",
+      "shop": "cliquelab.com",
+      "product_page": "https://cliquelab.com/pages/clique-on",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100773488792713",
+      "shop_open_since": "2020-12-30"
+     },
+     {
+      "name": "Navo Lashes",
+      "pages": 1,
+      "page_names": [
+       "Navo Lashes"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2025-10-29",
+      "page_likes": 392,
+      "headline": "The perfect daily-wear lash didn’t exist, so I made it — no messy glue, clean, reusable 10",
+      "shop": "navolashes.com",
+      "product_page": "https://navolashes.com/discount/HELLO10",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=435825872944312",
+      "shop_open_since": "2024-07-31"
+     },
+     {
+      "name": "Infinaluxe",
+      "pages": 1,
+      "page_names": [
+       "Infinaluxe"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-09-16",
+      "page_likes": 12824,
+      "headline": "10 Day Lashes in 2 Minutes 💅",
+      "shop": "infinaluxe.com.au",
+      "product_page": "https://infinaluxe.com.au/collections/lashes",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108908838261938",
+      "shop_open_since": null
+     },
+     {
+      "name": "ILashuk.co.uk",
+      "pages": 1,
+      "page_names": [
+       "ILashuk.co.uk"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-26",
+      "page_likes": 1935,
+      "headline": "I created these lashes for women like you 💛",
+      "shop": "ilashuk.co.uk",
+      "product_page": "https://www.ilashuk.co.uk/products/pre-glued-half-full-lash-no-10",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=152241476624475",
+      "shop_open_since": null
+     },
+     {
+      "name": "Salon Perfect Beauty",
+      "pages": 1,
+      "page_names": [
+       "Salon Perfect Beauty"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-10",
+      "page_likes": 25579,
+      "headline": "80 PRE-GLUED LASHES FOR $13.48?! ⭐️ Unbeatable value, zero glue, zero mess. 💅✨\n \nSwiping t",
+      "shop": "walmart.com",
+      "product_page": "https://www.walmart.com/brand/salonperfect/lash/20008491",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=311838481394",
+      "shop_open_since": null
+     },
+     {
+      "name": "Be SNOB",
+      "pages": 1,
+      "page_names": [
+       "Be SNOB"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-05",
+      "page_likes": 9546,
+      "headline": "No Glue. Just Lashes.",
+      "shop": "besnobonline.com",
+      "product_page": "https://besnobonline.com/el/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=824558350932092",
+      "shop_open_since": null
+     },
+     {
+      "name": "Hey Chook",
+      "pages": 1,
+      "page_names": [
+       "Hey Chook"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-05-29",
+      "page_likes": 236,
+      "headline": "Apply in seconds. Wear for days.",
+      "shop": "heychookcosmetics.com",
+      "product_page": "https://heychookcosmetics.com/products/burleigh",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=862224163633408",
+      "shop_open_since": null
+     },
+     {
+      "name": "Kallos Vanity Cosmetics",
+      "pages": 1,
+      "page_names": [
+       "Kallos Vanity Cosmetics"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-04",
+      "page_likes": 870,
+      "headline": "Our Pre-Glued lashes bring a gentler twist to your lash routine — swapping the usual full ",
+      "shop": "kallosvanity.com",
+      "product_page": "https://kallosvanity.com/collections/false-eyelashes",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=744573409217470",
+      "shop_open_since": null
+     },
+     {
+      "name": "Saisons",
+      "pages": 1,
+      "page_names": [
+       "Saisons"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-29",
+      "page_likes": 19416,
+      "headline": "{{product.name}}",
+      "shop": "saisonsbeauty.com",
+      "product_page": "https://saisonsbeauty.com/products/the-fast-lash-premium-pre-glued-lash-strips",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=984392381424210",
+      "shop_open_since": null
+     },
+     {
+      "name": "Edy.London",
+      "pages": 1,
+      "page_names": [
+       "Edy.London"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-06-19",
+      "page_likes": 328,
+      "headline": "NEW TUTORIAL IS LIVE!\nI designed my Pre-Glued Lashes especially for those of you who can’t",
+      "shop": "edylondonbeauty.com",
+      "product_page": "https://edylondonbeauty.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=657778197717073",
+      "shop_open_since": null
+     },
+     {
+      "name": "KYRO Beauty ",
+      "pages": 1,
+      "page_names": [
+       "KYRO Beauty "
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-02",
+      "page_likes": 2899,
+      "headline": "Glamour die wél in je budget past ✨",
+      "shop": "kyrobeauty.com",
+      "product_page": "https://kyrobeauty.com/collections/press-on-lashes",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=422339614285712",
+      "shop_open_since": null
+     },
+     {
+      "name": "Bonded Lashes",
+      "pages": 1,
+      "page_names": [
+       "Bonded Lashes"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-12",
+      "page_likes": 1195,
+      "headline": "No more strip lash struggles",
+      "shop": "bondedlashes.com",
+      "product_page": "http://www.bondedlashes.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=334566193064656",
+      "shop_open_since": null
+     },
+     {
+      "name": "Lola's Lashes",
+      "pages": 1,
+      "page_names": [
+       "Lola's Lashes"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-23",
+      "page_likes": 84505,
+      "headline": "5-10 Day Wear Pre-Glued Lashes",
+      "shop": "fb.com",
+      "product_page": "https://fb.com/canvas_doc/1085121250681604",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=315919509100699",
+      "shop_open_since": null
+     },
+     {
+      "name": "DUFFBEAUTY",
+      "pages": 1,
+      "page_names": [
+       "DUFFBEAUTY"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-17",
+      "page_likes": 67,
+      "headline": "my favvv lashes to use are pre glued lashes, they’re an actual life saver. No glue, mess o",
+      "shop": "duffbeauty.dk",
+      "product_page": "https://duffbeauty.dk/collections/easy-lash-collection",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1642881142629504",
+      "shop_open_since": null
+     },
+     {
+      "name": "Ailana Beauty",
+      "pages": 1,
+      "page_names": [
+       "Ailana Beauty"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-31",
+      "page_likes": 2892,
+      "headline": "Australia's #1 Pre-Glued Lashes 🏆",
+      "shop": "ailanabeauty.com",
+      "product_page": "https://ailanabeauty.com/products/pre-glued-lash-extensions",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102345168634763",
+      "shop_open_since": null
+     },
+     {
+      "name": "Lash Buddy",
+      "pages": 1,
+      "page_names": [
+       "Lash Buddy"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-12",
+      "page_likes": 6556,
+      "headline": "7+ Days. ZERO Damage.",
+      "shop": "shoplashbuddy.com",
+      "product_page": "https://shoplashbuddy.com/pages/7r-lp1",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108583615515560",
+      "shop_open_since": null
+     },
+     {
+      "name": "Jetzi Reserve",
+      "pages": 1,
+      "page_names": [
+       "Jetzi Reserve"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-21",
+      "page_likes": 695,
+      "headline": "Lash Extensions. Minus the Appointment.",
+      "shop": "jetziness.com",
+      "product_page": "http://www.jetziness.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=483663438161851",
+      "shop_open_since": null
+     },
+     {
+      "name": "DUFFBEAUTY",
+      "pages": 1,
+      "page_names": [
+       "DUFFBEAUTY"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-17",
+      "page_likes": 67,
+      "headline": "my favvv lashes to use are pre glued lashes, they’re an actual life saver. No glue, mess o",
+      "shop": "duffbeauty.no",
+      "product_page": "https://duffbeauty.no/collections/easy-lash-collection",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1642881142629504",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "lolaslashes.co.uk": 147,
+     "unicorncosmetics.com": 34,
+     "tattilashes.com": 18,
+     "cuurldlash.co": 9,
+     "walmart.ca": 5,
+     "lit-lashes.com": 3,
+     "jeancoutu.com": 3,
+     "houseofamor.co.uk": 3,
+     "darkswanofdenmark.com": 3,
+     "girlgotlashes.de": 3,
+     "cliquelab.com": 3,
+     "navolashes.com": 2,
+     "infinaluxe.com.au": 2,
+     "ilashuk.co.uk": 1,
+     "walmart.com": 1,
+     "besnobonline.com": 1,
+     "heychookcosmetics.com": 1,
+     "kallosvanity.com": 1,
+     "saisonsbeauty.com": 1,
+     "edylondonbeauty.com": 1,
+     "kyrobeauty.com": 1,
+     "bondedlashes.com": 1,
+     "fb.com": 1,
+     "duffbeauty.dk": 1,
+     "ailanabeauty.com": 1
+    },
+    "cost_usd": 1.45,
+    "shops_checked": 10,
+    "shops_over_a_year_old": 10,
+    "shops_under_4_months_old": 0,
+    "takeaway": "Lola's Lashes leads: 147 of the first 250 ads are theirs, running since February. Behind them are established names (Unicorn Cosmetics, Tatti Lashes, imPRESS) with shops over a year old. It works, but it is a fight between real brands, not an open gap."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "pre glued lash clusters",
+     "image": "asis/lola-kit_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Pre Glued Lashes",
+       "link": "https://infinaluxe.com.au/collections/pre-glued-lashes?srsltid=AU7gw4XpMnrPuKLUIaB0gxUzSpYcG73rRyD-r_wLqPl15UDofLNAOQTv",
+       "domain": "infinaluxe.com.au",
+       "kind": "store / brand",
+       "snippet": "Pre Glued Lashes ; Pre-Glued Lashes · $65.00 ; Pre-Glued Lashes x 2 bundle · $120.00 ; Pre-Glued Lashes (New) x 3 Bundle · $150.00 ; Pre-Glued Lashes, Applicato"
+      },
+      {
+       "position": 2,
+       "title": "Award Winning DIY Lash Extensions Australia I Underlash™",
+       "link": "https://underlash.com.au/?srsltid=AU7gw4Vieuuoq-toKRXY3zU47HYUB2TBvo73rvUhRfcIprxmGCdxONLW",
+       "domain": "underlash.com.au",
+       "kind": "store / brand",
+       "snippet": "Pre-bonded lashes … easy to apply, lashes that last up to 10 days. No glue, no stress - just lash and go. Designed for shorter wear or up to 5 days"
+      },
+      {
+       "position": 3,
+       "title": "Pre-glued cluster lashes",
+       "link": "https://nanolash.com.au/diy-eyelash-extensions-pre-glued",
+       "domain": "nanolash.com.au",
+       "kind": "store / brand",
+       "snippet": "The pre-glued cluster lashes are false lashes that do not require any extra glue. The lashes can last from 3 to 5 days, depending on skin type, aftercare and .."
+      },
+      {
+       "position": 4,
+       "title": "The Illuxe Pre-Glued Cluster Collection",
+       "link": "https://illashbyilly.com.au/collections/pre-glued-clusters?srsltid=AU7gw4XXiwpA1YPF3SHv_yoJB69u5zl9YOV3mGVtxQMrSjfnnsJnTEdl",
+       "domain": "illashbyilly.com.au",
+       "kind": "store / brand",
+       "snippet": "Our easiest and fastest lashes that are designed to last up to 5 days. Applied under your natural lashes, our pre-glued. No glue, no mess and no stress."
+      },
+      {
+       "position": 5,
+       "title": "INFINALUXE",
+       "link": "https://infinaluxe.com.au/?srsltid=AU7gw4XKls5d1TNrFrP2YSQLuTdP5vQKEAqTL5kG5o-q_B57-L7zVkXs",
+       "domain": "infinaluxe.com.au",
+       "kind": "store / brand",
+       "snippet": "Pre-Glued Lashes are our quickest and easiest option, with adhesive already applied to each cluster, so there is no separate bond or sealant required."
+      }
+     ],
+     "paa": [
+      "What are the healthiest fake lashes?",
+      "How to glue lash clusters without glue?",
+      "Do eyelash primers actually work?",
+      "What is the best eyelash glue in Australia?"
+     ],
+     "popular_products": [
+      {
+       "title": "120PCS Pre Glued Lash Clusters 10-16MM D Curl Self Adhesive ",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Glam by Manicare Pre-Glued Cluster Lash Brown 3 Sets",
+       "price": null,
+       "source": "Priceline"
+      },
+      {
+       "title": "NAGARAKU Pre Glued Cluster Lashes with Tweezers 48",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "POP PRESS 12mm Pre Glued Self-Adhesive Lash Clusters, Natura",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Ardell Press On Pre-Glued Underlash Extensions #naked",
+       "price": null,
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Pre-Glued Lash Clusters",
+       "price": null,
+       "source": "Feather Sisters"
+      },
+      {
+       "title": "London Lash Pre-Glued Cluster Lashes",
+       "price": null,
+       "source": "By London Lash"
+      },
+      {
+       "title": "Ardell Press On Lashes Wispies Natural Pre Glued Lash Cluste",
+       "price": null,
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Volume (Pre Glued Lash Clusters Extensions)",
+       "price": null,
+       "source": "Missy Lash"
+      },
+      {
+       "title": "VYRILA Self-Adhesive Lash Cluster, 150pcs Pre-Glued Clusters",
+       "price": null,
+       "source": "Amazon AU"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: infinaluxe.com.au (store / brand). In the product strip: Amazon AU, Amazon AU - Amazon.com.au-Seller, By London Lash, Feather Sisters, Missy Lash. Amazon here is quiet."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "pre glued lash clusters",
+     "image": "asis/lola-kit_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Impress Falsies Long Lasting Pre-Glued False Eyelashes",
+       "link": "https://www.impressbeauty.com/products/impress-falsies-long-lasting-pre-glued-lash-clusters-kit-demi-natural?srsltid=AU7gw4W8SfiNB5911zFm4dKpTrDTnb1sQq6L3sAxsUWJrF-ZPgFcLgsh",
+       "domain": "impressbeauty.com",
+       "kind": "store / brand",
+       "snippet": "Long Lasting pre-glued lash extension kit comes with 48 Demi Natural lash clusters, 8mm-16mm · Pre-bonded lashes press on & last for up to 5 days with no glue, "
+      },
+      {
+       "position": 2,
+       "title": "Best Selling Pre-Glued Lashes",
+       "link": "https://lolaslashes.com/collections/best-selling-pre-glued-lashes",
+       "domain": "lolaslashes.com",
+       "kind": "article",
+       "snippet": "The pre-glued cluster lashes 700,000+ women have made the switch to. No glue. No bond. 5-10 days of wear. Shortlisted at the 2025 Beauty Awards."
+      },
+      {
+       "position": 4,
+       "title": "Press-On Falsies Lash Collection - Impress Nails",
+       "link": "https://www.impressbeauty.com/collections/falsies-lashes?srsltid=AU7gw4U8UrKAsZeYnKq9MRd6g_7p8v8OJjItdFzrzTZsnWeHDLy4nRju",
+       "domain": "impressbeauty.com",
+       "kind": "store / brand",
+       "snippet": "Quick and easy lash glam! Try imPRESS Press-on Falsies - the first self-adhesive, pre-bonded falsies. No glue, just press and go!"
+      },
+      {
+       "position": 5,
+       "title": "Self Glue Eyelash Cluster",
+       "link": "https://www.amazon.com/self-glue-eyelash-cluster/s?k=self+glue+eyelash+cluster",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Pre Glued Eyelashes Clusters. Clusters press on lashes no glue needed, ,10-16mm mix, long-lasting hold, reusable Overall"
+      },
+      {
+       "position": 6,
+       "title": "The BEST Pre-Glued Lash Clusters for Easy 2-Week Wear!",
+       "link": "https://www.lemon8-app.com/@itsmissgemini2you/7682553782709862925?region=us",
+       "domain": "lemon8-app.com",
+       "kind": "store / brand",
+       "snippet": "The fact that they are pre glued, it makes the application much faster. I don't have to worry about grabbing lash glue with a bond and seal."
+      }
+     ],
+     "paa": [
+      "What are the healthiest fake lashes?",
+      "How to glue lash clusters without glue?",
+      "How to apply pre-glued cluster eyelashes?",
+      "What's the difference between lash glue and lash cluster glue?"
+     ],
+     "popular_products": [
+      {
+       "title": "Ardell Naked Press On Underlash Extensions",
+       "price": "$8.97",
+       "source": "Walmart"
+      },
+      {
+       "title": "Kiss imPRESS Pre-Glued Lash Clusters Kit Faux Mink Volume",
+       "price": "$15.99",
+       "source": "Target"
+      },
+      {
+       "title": "Impress Pre-Glued Lash Clusters",
+       "price": "$16.97",
+       "source": "H-E-B"
+      },
+      {
+       "title": "Impress Pre-Glued Lash Clusters Kit",
+       "price": "$17.49",
+       "source": "Ulta Beauty"
+      },
+      {
+       "title": "Velour Lashes Velour-Xtensions Self-Stick Lash",
+       "price": "$18.00",
+       "source": "Sephora"
+      },
+      {
+       "title": "Kiss imPRESS Long Lasting Pre-Glued Lash Clusters Kit",
+       "price": "$20.49",
+       "source": "Ulta Beauty"
+      },
+      {
+       "title": "Kiss Impress Strip Lash Kit",
+       "price": "$8.99",
+       "source": "Target"
+      },
+      {
+       "title": "Kiss imPRESS Press-On Falsies Kit",
+       "price": "$15.97",
+       "source": "Walmart"
+      },
+      {
+       "title": "Kiss imPRESS Lash Long Lasting Demi Natural Lashes",
+       "price": "$20.49",
+       "source": "Ulta Beauty"
+      },
+      {
+       "title": "Kiss imPRESS Individual Lash Kit",
+       "price": "$17.99",
+       "source": "Target"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "Pre-glued lash clusters feature a pre-applied, pressure-sensitive adhesive band that lets you apply extensions under your natural lashes in a single step without liquid glue or drying time. If you'd like to narrow down the choices, tell me:",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in the US: impressbeauty.com (store / brand). In the product strip: H-E-B, Sephora, Target, Ulta Beauty, Walmart. Amazon here is busy."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "pre glued lash clusters",
+     "image": "asis/lola-kit_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Eureka Clusters",
+       "link": "https://www.eurekanetwork.org/programmes-and-calls/eureka-clusters/",
+       "domain": "eurekanetwork.org",
+       "kind": "store / brand",
+       "snippet": "Eureka Clusters are international communities led by industry. Each cluster is focused on a strategic technology area."
+      },
+      {
+       "position": 2,
+       "title": "One minute guide: Cluster working | Leeds.gov.uk",
+       "link": "https://www.leeds.gov.uk/one-minute-guides/cluster-working",
+       "domain": "leeds.gov.uk",
+       "kind": "store / brand",
+       "snippet": "Clusters are what we call the model of locality working with children and families in Leeds: over 20 groups of schools and key partners in small geographical .."
+      },
+      {
+       "position": 3,
+       "title": "Cluster activities | European Medicines Agency (EMA)",
+       "link": "https://www.ema.europa.eu/en/partners-networks/international-activities/cluster-activities",
+       "domain": "ema.europa.eu",
+       "kind": "store / brand",
+       "snippet": "The clusters are areas of cooperation focusing on special topics and therapeutic areas identified as requiring an intensified exchange of information and ..."
+      },
+      {
+       "position": 4,
+       "title": "Cluster - Group sharing for friends & family. The antidote to ...",
+       "link": "https://cluster.co/",
+       "domain": "cluster.co",
+       "kind": "store / brand",
+       "snippet": "Cluster gives you a private space to share photos and memories with the people you choose, away from social media. Make your own groups and share pics, ..."
+      },
+      {
+       "position": 5,
+       "title": "Clusters | Offshore Wind Industry Council (OWIC)",
+       "link": "https://www.owic.org.uk/work/clusters/",
+       "domain": "owic.org.uk",
+       "kind": "store / brand",
+       "snippet": "Clusters Provides strategic alignment and collaboration across the offshore wind clusters to support regional growth."
+      }
+     ],
+     "paa": [
+      "How long do pre-glued lash clusters last?",
+      "Are pre-glued lash clusters good?",
+      "Which pre-glued lash clusters are the best?",
+      "Can I sleep with pre-glued lash clusters on?"
+     ],
+     "popular_products": [
+      {
+       "title": "Ardell Press On Pre-Glued Underlash Extensions Multipack",
+       "price": "£19.95",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Pre Glued Cluster Lashes, Eyelash Clusters D Curl 10-16mm, 1",
+       "price": "£4.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Ardell Press On Pre-Glued Underlash Extensions Kit",
+       "price": "£12.82",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Tatti Lashes Natural Pre-Glued Individuals",
+       "price": "£11.00",
+       "source": "Superdrug.com"
+      },
+      {
+       "title": "QUEWEL Pre Glued Eyelashes Natural Lash Clusters Pre Glued C",
+       "price": "£8.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Eylure Pre-Glued Clusters Naturals",
+       "price": "£7.13",
+       "source": "LOOKFANTASTIC"
+      },
+      {
+       "title": "Wosheer Pre Glued Cluster Lashes Self Adhesive Eyelash Clust",
+       "price": "£15.98",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Eylure Underlash Pre-Glued Salon Curl",
+       "price": "£13.00",
+       "source": "Superdrug.com"
+      },
+      {
+       "title": "Nouveau Lashes Pre-Glued Express Cluster Lashes Reusable & C",
+       "price": "£12.00",
+       "source": "BargainBrit"
+      },
+      {
+       "title": "Tatti Lashes Wispy Volume Pre-Glued Individuals",
+       "price": "£10.95",
+       "source": "Boots.com"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the UK: eurekanetwork.org (store / brand). In the product strip: Amazon.co.uk - Amazon.co.uk-Seller, BargainBrit, Boots.com, LOOKFANTASTIC, Superdrug.com. Amazon here is crowded."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "pre glued lash clusters",
+     "image": "asis/lola-kit_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Diy Pre-Glued Lash Clusters Pre-Permed Long",
+       "link": "https://www.walmart.ca/en/ip/Salon-Perfect-Diy-Pre-Glued-Lash-Clusters-Pre-Permed-Long/42SPF8SN4X90",
+       "domain": "walmart.ca",
+       "kind": "big chain",
+       "snippet": "1-step pre-glued underlash extensions. Builds 8-12 pairs of lashes. No glue needed. 80 pre-glued clusters in 3 long lengths, 12 mm, 14mm, 16mm. Easy to use."
+      },
+      {
+       "position": 2,
+       "title": "Clusters Lashes | Walmart Canada",
+       "link": "https://www.walmart.ca/en/c/kp/clusters-lashes",
+       "domain": "walmart.ca",
+       "kind": "big chain",
+       "snippet": "Pre-Glued Lash Clusters Self Adhesive Lashes Press On Lashes Canada No Glue Needed DIY Lash Extensions Kit False Eyelashes Reusable Waterproof Lash Clusters."
+      },
+      {
+       "position": 3,
+       "title": "The Swifty Collection - Pre-glued Lash Clusters!",
+       "link": "https://methodlash.ca/collections/the-swifty-collection-pre-glued-lash-clusters?srsltid=AU7gw4XVoZQUDn-yL4OvPy_vUbHsf_u-Hta4835CHW6ZP3tfhqZFcq_5",
+       "domain": "methodlash.ca",
+       "kind": "store / brand",
+       "snippet": "Get salon-style lashes at home with Swifty pre-glued lash clusters. Easy to apply, comfortable wear, and long-lasting volume for any occasion."
+      },
+      {
+       "position": 4,
+       "title": "Salon Perfect DIY Short Volume Pre-Glued Lash Clusters",
+       "link": "https://www.instacart.ca/store/products/118921106-salon-perfect-diy-preglued-lash-clusters-volume-short",
+       "domain": "instacart.ca",
+       "kind": "store / brand",
+       "snippet": "Get Salon Perfect DIY Short Volume Pre-Glued Lash Clusters delivered to you in as fast as 1 hour via Instacart or choose curbside or in-store pickup."
+      },
+      {
+       "position": 5,
+       "title": "Diy Pre-Glued Lash Clusters Pre-Permed Long",
+       "link": "https://www.walmart.ca/en/reviews/product/42SPF8SN4X90",
+       "domain": "walmart.ca",
+       "kind": "big chain",
+       "snippet": "These pre glued lash clusters were not great compared to other ones I have tried. The glue wasn't uniformly spread across the whole cluster leaving the edge of "
+      }
+     ],
+     "paa": [
+      "Is kiss lash cluster glue waterproof?",
+      "What are the healthiest fake lashes?",
+      "How to glue lash clusters without glue?",
+      "How do pre-glued eyelashes work?"
+     ],
+     "popular_products": [
+      {
+       "title": "Quo Beauty Polly Pocket x QB Pre-Glued Clusters 30 Pieces Bl",
+       "price": null,
+       "source": "Shoppers Drug Mart"
+      },
+      {
+       "title": "Soft & Wispy Velour-Xtensions Self-Stick Lash Clusters",
+       "price": null,
+       "source": "Sephora"
+      },
+      {
+       "title": "Kiss Impress Mega Multi",
+       "price": null,
+       "source": "Walmart.ca"
+      },
+      {
+       "title": "VeyesBeauty Cluster Lash Self Adhesive Eyelash Extensions",
+       "price": null,
+       "source": "VeyesBeauty"
+      },
+      {
+       "title": "Quo Beauty Pre-Glued Clusters 30 Pieces Black",
+       "price": null,
+       "source": "Shoppers Drug Mart"
+      },
+      {
+       "title": "Velour Lashes Velour-Xtensions Self-Stick Lash",
+       "price": null,
+       "source": "Sephora"
+      },
+      {
+       "title": "Pretty Balayage Pre-Glued Cluster Lashes 40 Pack",
+       "price": null,
+       "source": "Pretty Lashes"
+      },
+      {
+       "title": "Lash Extension Kit 20D+40D Clusters With Bond and Seal",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "VeyesBeauty Luxe Duo Cluster Lash Self Adhesive Eyelash Exte",
+       "price": null,
+       "source": "VeyesBeauty"
+      },
+      {
+       "title": "Quo Beauty Pre-Glued Clusters 30 Pieces MULTI",
+       "price": null,
+       "source": "Shoppers Drug Mart"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: walmart.ca (big chain). In the product strip: Amazon CA, Pretty Lashes, Sephora, Shoppers Drug Mart, VeyesBeauty. Amazon here is crowded."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "pre glued lash clusters",
+     "image": "asis/lola-kit_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "LASHVIEW Self Adhesive Lashes Clusters Eyelashes ...",
+       "link": "https://www.amazon.de/LASHVIEW-Adhesive-Eyelashes-Individual-Extension/dp/B0D5CQVH68",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "LASHVIEW Self Adhesive Lashes Clusters Eyelashes,Press-on Lashes 10-16mm Individual Lash Extension Kit with Lash Tweezers,No Glue Needed Natural Self ..."
+      },
+      {
+       "position": 2,
+       "title": "PRE CUT LASH CLUSTERS",
+       "link": "https://www.aylashes.de/collections/wimpernbander?srsltid=AU7gw4WHzrQa_t-2kbUxuelyKUwwBPXYmaLUug7JMwUI5CG2fichACib",
+       "domain": "aylashes.de",
+       "kind": "store / brand",
+       "snippet": "PRE CUT LASH CLUSTERS. 21 Produkte. Spare 63%. LIKE A LADY. + In den Warenkorb. LIKE A LADY · (198) Angebot5,23 € Regulärer Preis13,95 €. Spare 63%."
+      },
+      {
+       "position": 3,
+       "title": "Velour-Xtensions™ Self-Stick Lash Kit | Pre-Glued Clusters",
+       "link": "https://velourbeauty.com/products/velour-xtensions-self-stick-lash-kit?srsltid=AU7gw4V3dJ-ew_vIYrvjs6UeUoE0r9JDXTOeWXYj0e_M3PtwYuDLb7l-",
+       "domain": "velourbeauty.com",
+       "kind": "store / brand",
+       "snippet": "Lash application in just 1 step with our pre-glued technology! Perfect for beginners, these self-adhesive lash clusters are easy to apply and mess-free."
+      },
+      {
+       "position": 4,
+       "title": "Pre Glued Cluster Lashes - 'Game Over' Style, Easy ...",
+       "link": "https://www.etsy.com/de/listing/1800889997/big-sale-eingestellter-lagerbestand-pre",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "48 lashes in each box - A perfect mix of short, medium and long. ... Our pre-glued cluster lashes are pre-applied with our pre-bonded formula saving you time an"
+      },
+      {
+       "position": 6,
+       "title": "Higu clace Self -Adhesive-Cluster-Lashes Natural Look ...",
+       "link": "https://www.amazon.de/Higu-clace-Adhesive-Cluster-Lashes-Clusters-Pre-Glued-Eyelashes/dp/B0FD3LDJSC",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Higu clace Self -Adhesive-Cluster-Lashes Natural Look, Wispy Lash Clusters D Curl Mix 10-12mm, Pre-Glued-Eyelashes No Glue Deeded, Press on Lashes Easy to ..."
+      }
+     ],
+     "paa": [
+      "What are the healthiest fake lashes?",
+      "What are the best lash clusters for beginners?",
+      "How do pre-glued eyelashes work?",
+      "How to glue lash clusters without glue?"
+     ],
+     "popular_products": [
+      {
+       "title": "Aylashes Altro Dramma Mixed Box",
+       "price": "22,95 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Tatti Lashes 1-Step Press Pre-Glued Individuals Hybrid Volum",
+       "price": "13,50 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "S.T.F.U. & I.F.L.Y. Super Pre-Glued Lash Duo Pack",
+       "price": "36,95 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Eylure Pre-Glued Natural Clusters",
+       "price": "15,99 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "W7 Pre glued Individual Cluster Lashes",
+       "price": "7,95 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Tatti Lashes 1-Step Press Pre-Glued Individuals Wispy Volume",
+       "price": "13,50 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "XOXO & D.G.A.F. Super Pre-Glued Lash Duo Pack",
+       "price": "36,95 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Lola's Lashes Cocoa Pre Glued Lashes Set",
+       "price": "26,95 €",
+       "source": "Vergleichsportale"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "filters",
+      "related_searches"
+     ],
+     "takeaway": "First result in Germany: amazon.de (marketplace). In the product strip: Vergleichsportale. Amazon here is crowded."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "pre glued lash clusters",
+     "image": "asis/lola-kit_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Glue-Free Premium Cluster Lashes #Girly Heart Single - 6 Rows",
+       "link": "https://deiji.co.nz/products/new-cute-lashes-premium-glue-free-girly-heart-single-cluster-lashes?srsltid=AU7gw4WZtIjdJ_q-LXYwPk8dIS4RuO5l3E8byrnB8Hzq6az0Xeyzr9Wy",
+       "domain": "deiji.co.nz",
+       "kind": "store / brand",
+       "snippet": "Crafted with an innovative self-adhesive strip, these clusters adhere directly beneath your natural lashes—eliminating messy glue bottles, sticky residue, and ."
+      },
+      {
+       "position": 2,
+       "title": "Nouveau Lashes Pre-Glued Express Cluster Lashes (Volume ...",
+       "link": "https://www.inspiredbeauty.co.nz/products/nouveau-lashes-pre-glued-express-cluster-lashes-wispy-01",
+       "domain": "inspiredbeauty.co.nz",
+       "kind": "store / brand",
+       "snippet": "Pre-Glued Express Cluster Lashes (Volume 01) About Train with the best, become the best!"
+      },
+      {
+       "position": 3,
+       "title": "Cluster lashes for self application (DIY) - Nanolash New Zealand",
+       "link": "https://nanolash.co.nz/diy-eyelash-extensions-fantasy",
+       "domain": "nanolash.co.nz",
+       "kind": "store / brand",
+       "snippet": "Pre-glued lashes. Our at-home eyelash extensions kit includes: 36 cluster lashes in three lengths: 10, 12, and 14 mm, a bonder and a sealer necessary for the .."
+      },
+      {
+       "position": 4,
+       "title": "Pre-glued cluster lashes",
+       "link": "https://nanolash.com.au/diy-eyelash-extensions-pre-glued",
+       "domain": "nanolash.com.au",
+       "kind": "store / brand",
+       "snippet": "The pre-glued cluster lashes are false lashes that do not require any extra glue. The lashes can last from 3 to 5 days, depending on skin type, aftercare and .."
+      },
+      {
+       "position": 5,
+       "title": "Ardell Press On Wispies, Natural - Eyes",
+       "link": "https://www.farmers.co.nz/beauty/makeup/eyes/ardell-press-on-wispies-natural-6970056?srsltid=AU7gw4Xm5PjYXSZ5zyDFRC0FEDz8sGLs3RIuG3KjpX2YNAyhCoXV0tV5",
+       "domain": "farmers.co.nz",
+       "kind": "big chain",
+       "snippet": "Pre-glued so lashes adhere instantly and hold all day. Customizable kit with 30 patented lash clusters in 4 lengths: 10 mm Inner, 10 mm, 12 mm, 14 mm. Great ..."
+      }
+     ],
+     "paa": [
+      "What are the healthiest fake lashes?",
+      "How to glue lash clusters without glue?",
+      "How do pre-glued eyelashes work?",
+      "What's the difference between lash glue and lash cluster glue?"
+     ],
+     "popular_products": [
+      {
+       "title": "Pretty Cherished Pre-Glued 3D Cluster Lashes 10 Pack",
+       "price": "$20.00",
+       "source": "Pretty Lashes"
+      },
+      {
+       "title": "Eylure Underlash Pre-Glued Natural Clusters False Eyelashes",
+       "price": "$39.07",
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Manicare Glam Ready Pre Glued Cluster Luxe",
+       "price": "$23.99",
+       "source": "Chemist Warehouse NZ"
+      },
+      {
+       "title": "Pre Glued Clusters Venus",
+       "price": "$29.00",
+       "source": "VE Cosmetics"
+      },
+      {
+       "title": "Tatti Lashes Wispy Volume Pre-Glued Individuals",
+       "price": "$30.00",
+       "source": "ASOS"
+      },
+      {
+       "title": "30x W7 Pre-Glued Individual Cluster Lashes Latex Free All Da",
+       "price": "$17.00",
+       "source": "False Eyelashes"
+      },
+      {
+       "title": "Eylure Underlash Pre-Glued Natural Clusters",
+       "price": "$18.84",
+       "source": "LOOKFANTASTIC"
+      },
+      {
+       "title": "MODELROCK Pre-Glued Cluster Lashes Style",
+       "price": "$25.60",
+       "source": "Dick Smith NZ"
+      },
+      {
+       "title": "Pretty Focused Pre-Glued Cluster Lashes 40 Pack",
+       "price": "$27.00",
+       "source": "Pretty Lashes"
+      },
+      {
+       "title": "Glam by Manicare Ready Pre Glued Cluster Lash",
+       "price": "$20.90",
+       "source": "Pharmacy Direct"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "Pre-glued lash clusters are individual or sectional false eyelashes with adhesive already applied to the band, allowing for a fast, mess-free, and glue-free application. Tip: According to community discussions on Reddit's AustralianMakeup forum, users agree that stabilizing your hand (such as resting your elbow on a table) helps greatly with precision placement so the glue line doesn't stick to your tools. If you'd like, let me know: I can recommend the best specific style for your eyes.",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: deiji.co.nz (store / brand). In the product strip: ASOS, Amazon AU, Chemist Warehouse NZ, Dick Smith NZ, False Eyelashes. Amazon here is quiet."
+    }
+   ],
+   "compare": {
+    "match_name": "Lola's Lashes kit on Amazon UK (£20)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "Every exact match was Lola's own kit, sold by the brand or its stockists, including Lola's on Amazon UK at £20. No other seller makes this design.",
+    "brand_image": "lola-kit/img_3.jpg",
+    "match_image": "lens/lola-kit_thumb_00.jpg"
+   }
+  }
+ ],
+ "ranking": [
+  "lola-kit"
+ ]
+}

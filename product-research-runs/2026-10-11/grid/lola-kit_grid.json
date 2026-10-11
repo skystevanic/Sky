@@ -1,0 +1,1110 @@
+{
+  "slug": "lola-kit",
+  "query": "pre glued lash clusters",
+  "mode": "full",
+  "brand_price": 33.0,
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "currency": "A$",
+      "status": "blocked",
+      "why": "Priceline sells it at $20.99",
+      "results": 40,
+      "distinct_sellers": 21,
+      "chains_present": [
+        "BIG W",
+        "Chemist Warehouse",
+        "Kmart",
+        "Priceline",
+        "Target Australia"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon AU",
+        "Amazon AU - Amazon.com.au-Seller"
+      ],
+      "cheapest": 6.0,
+      "typical": 24.0,
+      "most_reviewed": {
+        "seller": "Beautopia Hair & Beauty",
+        "title": "Ardell Naked Press On Pre-Glued Underlash Extensions",
+        "reviews": 1300,
+        "price_text": "$25.90"
+      },
+      "top_rows": [
+        {
+          "seller": "Beautopia Hair & Beauty",
+          "title": "Ardell Naked Press On Pre-Glued Underlash Extensions",
+          "price_text": "$25.90",
+          "price": 25.9,
+          "rating": 4.2,
+          "reviews": 1300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:17539030285847031823,productid:4817523805532144260,headlineOfferDocid:3401631106779945802,imageDocid:14150841118542297846,rds:PC_4494893744479184123|PROD_PC_4494893744479184123,gpcid:4494893744479184123,mid:576462859585904716,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxwu3uR01bMzaeu_VMNMhF6R-5vKw_x4PlRp3n9H71sK8pr9gQLskWNAXVrei1BkjjNVRTC9ucAd03rWmWEGlt7NtRiBjq5tIRRCgkxuw_xYqffPfHC7w7cw"
+        },
+        {
+          "seller": "BIG W",
+          "title": "Ardell Naked Press On Pre-Glued Underlash Extensions Soft Volume",
+          "price_text": "$23.99",
+          "price": 23.99,
+          "rating": 4.3,
+          "reviews": 879,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:7773396532165706814,productid:630913982180554288,headlineOfferDocid:14941705995332965391,imageDocid:9864457792407093750,rds:PC_2524800025538329738|PROD_PC_2524800025538329738,gpcid:2524800025538329738,mid:576462476258230967,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhmMsYszTCRX58vi-jxUMCs_Vl7ZA_59AnMtaT5l2iNKkVCtO4eCNnRHxp8jE9Q7yC88qD-KA7PufxIpRdIP6a3ZZmvSB4KYi83wMFGmc1"
+        },
+        {
+          "seller": "BIG W",
+          "title": "Eylure Lashes Pre-Glued 117 Fluttery Light",
+          "price_text": "$11.50",
+          "price": 11.5,
+          "rating": 4.5,
+          "reviews": 299,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:11261635004941282829,productid:11176297324255753138,headlineOfferDocid:14585293587713481954,imageDocid:7865460490183139265,rds:PC_16433851627690691280|PROD_PC_16433851627690691280,gpcid:16433851627690691280,mid:576462860021122923,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSXib-wmC1I4si2JDrHaHa5PDibybyHQL8OITZUj5wndjtDOBqkZp-H7b3u7HV0rba9PiTQV3QH8Mc3hw3UdsMILz8BBAUm9MbDQa8eWyGy"
+        },
+        {
+          "seller": "Ailana Beauty",
+          "title": "Ailana Beauty Pre-Glued Lash Extensions Up to 7-10 Days Wear",
+          "price_text": "$64.95",
+          "price": 64.95,
+          "rating": 4.9,
+          "reviews": 218,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:13972753791523125696,productid:11714052859506138542,headlineOfferDocid:11146746994812523484,imageDocid:6675170796681164197,rds:PC_17284792734108410023|PROD_PC_17284792734108410023,gpcid:17284792734108410023,mid:576462896488143126,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTcQbSz4eCWlNblxWsOBjl7lgECRZxopI3J_dt-fRhFawiKrXel7evMB5kv4iEQ_fBF92Mk8lfeZ6Bson0pJG-cHSxxS2Bcoq-ibMNl6lqC6ZgHnxf3moc-Bw"
+        },
+        {
+          "seller": "Sephora.com.au",
+          "title": "Soft & Wispy Velour-Xtensions Self-Stick Lash Clusters",
+          "price_text": "$32.00",
+          "price": 32.0,
+          "rating": 4.5,
+          "reviews": 201,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:13900219057287970442,productid:12153582460876861311,headlineOfferDocid:17028904596877028582,imageDocid:9038967100863805866,rds:PC_6616275795045092493|PROD_PC_6616275795045092493,gpcid:6616275795045092493,mid:576462781898846261,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT35sAGbxRc02jZITKA8xzL8xN17f6iTYJ8I0BWxWME6UiBcXzdIi-H2blAbf2nIB91cmDv0ZuVPqMatKb6UxXasGF71R6eFtohlpiFsJ1Pxosf1qbD5nyZnQ"
+        },
+        {
+          "seller": "Priceline",
+          "title": "Ardell Press On Lashes Wispies Natural Pre Glued Lash Clusters",
+          "price_text": "$20.99",
+          "price": 20.99,
+          "rating": 4.5,
+          "reviews": 183,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:15662692899202359332,productid:12015798981614837763,headlineOfferDocid:4226114969173231477,imageDocid:18179672350914904413,rds:PC_14743035144968603972|PROD_PC_14743035144968603972,gpcid:14743035144968603972,mid:576462857764132960,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiK_YWCIA8wo5lL1LX1o_CA9BkxzdChpCFNUXiRU8Pxg3_q6IYXb3A7mcyRbmZ2Wla8CdKXWXbFt8O_ux8M8LMU3SNt4kPhWOnCx2gSWFNXiIuXkixSzv_"
+        },
+        {
+          "seller": "Amazon",
+          "title": "I envy Press & Go Press-On Clusters",
+          "price_text": "$27.92",
+          "price": 27.92,
+          "rating": 4.9,
+          "reviews": 183,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:14776692698067882463,productid:12922343496140730515,headlineOfferDocid:4675572974333315310,imageDocid:10641590080736598242,rds:PC_8246801559528144444|PROD_PC_8246801559528144444,gpcid:8246801559528144444,mid:576462815375301797,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQleiUigu2dw_lCnY__gVa4iIqLbi9bx84a9Bx2cEPks4G-vYkG4IWmf2EPDfWb-VXM5TBBWsvVpD9X32aoJVz4venV8QoQ"
+        },
+        {
+          "seller": "Amazon AU",
+          "title": "Ardell Press On Pre-Glued Underlash Extensions #naked",
+          "price_text": "$37.25",
+          "price": 37.25,
+          "rating": 4.4,
+          "reviews": 174,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:17170313616873672453,productid:10288091207112232125,headlineOfferDocid:11875722793815565673,imageDocid:2463590393600304056,rds:PC_2482763726397730471|PROD_PC_2482763726397730471,gpcid:2482763726397730471,mid:576462858003532013,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYssmEgUnqOn4pUj54Jw02AJIEXI-Stx85fvTmVIJyeevBGD_GtE2QfRnCvvVx30U_tG6_qiXNGLG_wMESgsg18GP1Q-HuOvSNagFsUBCikWhVLDVS4_6O"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Priceline",
+          "title": "Ardell Press On Lashes Wispies Natural Pre Glued Lash Clusters",
+          "price_text": "$20.99",
+          "price": 20.99,
+          "rating": 4.5,
+          "reviews": 183,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:15662692899202359332,productid:12015798981614837763,headlineOfferDocid:4226114969173231477,imageDocid:18179672350914904413,rds:PC_14743035144968603972|PROD_PC_14743035144968603972,gpcid:14743035144968603972,mid:576462857764132960,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiK_YWCIA8wo5lL1LX1o_CA9BkxzdChpCFNUXiRU8Pxg3_q6IYXb3A7mcyRbmZ2Wla8CdKXWXbFt8O_ux8M8LMU3SNt4kPhWOnCx2gSWFNXiIuXkixSzv_"
+        },
+        {
+          "seller": "Chemist Warehouse",
+          "title": "Manicare Glam Ready Pre-Glued Cluster Lashes Luxe Lizzie",
+          "price_text": "$17.99",
+          "price": 17.99,
+          "rating": 3.4,
+          "reviews": 13,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:12216512198122173389,productid:16825653002725002803,headlineOfferDocid:3021444932842970033,imageDocid:15732328878960055868,rds:PC_2805210615029908159|PROD_PC_2805210615029908159,gpcid:2805210615029908159,mid:576462497819716426,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTsnNgb3yoMAaU-ZUXfQgigsioZnMPUHI6Tan3Aijc9a0WxLoyXGD4SOTYYvtyTYs0r9JFGibiSRo-h3BZ8DHpa8eOqut0x-_ROYY0h_i68fFTFxK8Z_oBE"
+        },
+        {
+          "seller": "Target Australia",
+          "title": "Pinky Goat 24 Pack Pre-Glued Under Lashes",
+          "price_text": "$12.00",
+          "price": 12.0,
+          "rating": 1.5,
+          "reviews": 2,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:11017625105704907054,productid:4134670684508842242,headlineOfferDocid:4162415854753755944,imageDocid:7880530492885616998,rds:PC_2946970806865285591|PROD_PC_2946970806865285591,gpcid:2946970806865285591,mid:576462788345769431,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxOljjERunF2WMKCOQtfTvqS2eLp_OtaXh44EG14VHmkQrOhxUMIDo2RfgvagHHtXmVWLyMWlRdIhZBiaU7jA4fdvIMdvBECIDhWGcfMr0j36Yt9FCmfixkg"
+        },
+        {
+          "seller": "BIG W",
+          "title": "Ardell Naked Press On Pre-Glued Underlash Extensions Soft Volume",
+          "price_text": "$23.99",
+          "price": 23.99,
+          "rating": 4.3,
+          "reviews": 879,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:7773396532165706814,productid:630913982180554288,headlineOfferDocid:14941705995332965391,imageDocid:9864457792407093750,rds:PC_2524800025538329738|PROD_PC_2524800025538329738,gpcid:2524800025538329738,mid:576462476258230967,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhmMsYszTCRX58vi-jxUMCs_Vl7ZA_59AnMtaT5l2iNKkVCtO4eCNnRHxp8jE9Q7yC88qD-KA7PufxIpRdIP6a3ZZmvSB4KYi83wMFGmc1"
+        },
+        {
+          "seller": "Priceline",
+          "title": "Priceline Cluster Lashes C101 60 Pack",
+          "price_text": "$9.00",
+          "price": 9.0,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:11053246365938184052,productid:741037515623759695,headlineOfferDocid:5219206823659918787,imageDocid:3894904644902552415,gpcid:17737430916302903732,mid:576462517490485052,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQN_oA-Yf_jvR8MU23GRR0HEtpiw8lAUArmlxZJQsLnGnnBTYRxfXrQWddupAq6bGrYDg9QupwV7n_5Ij43ajONgRhmmI48Q7pU0ax4JXjpCrQaEU-PRgtf"
+        },
+        {
+          "seller": "Chemist Warehouse",
+          "title": "Glam by Manicare Jolene Cluster Lashes",
+          "price_text": "$16.99",
+          "price": 16.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:13440098781579591851,productid:15441343257417068664,headlineOfferDocid:12893024688503100076,imageDocid:11420872105829263107,gpcid:1705735580922919850,mid:576462914773075005,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQB66iTdvuodIqwm61N78P1Kqg58zMoOxt8USWVRpgKDGwjSkRC4Gj9qLZIiUtCeVRV1kWm2oyIQotun8XhmkI3M-VgW1jzzochgKbjgH42jRZp_7BeO6vm"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "currency": "US$",
+      "status": "blocked",
+      "why": "Target sells it at $11.99",
+      "results": 40,
+      "distinct_sellers": 27,
+      "chains_present": [
+        "Target",
+        "Ulta Beauty",
+        "Walmart"
+      ],
+      "marketplaces_present": [
+        "Walmart - Pure Beauty Secret",
+        "Walmart - Wang Mingjie",
+        "Walmart - Your Beauty Master",
+        "Walmart - iHerb",
+        "eBay - angel_face",
+        "eBay - blackduckdeals",
+        "eBay - closeoutsp",
+        "eBay - myemail038",
+        "eBay - naum_store_112",
+        "eBay - tanjajordan"
+      ],
+      "cheapest": 2.99,
+      "typical": 17.67,
+      "most_reviewed": {
+        "seller": "eBay - tanjajordan",
+        "title": "2 Kiss Products Impress Self Adhesive Eyelashes Soft Natural 50ct",
+        "reviews": 3600,
+        "price_text": "$25.00"
+      },
+      "top_rows": [
+        {
+          "seller": "eBay - tanjajordan",
+          "title": "2 Kiss Products Impress Self Adhesive Eyelashes Soft Natural 50ct",
+          "price_text": "$25.00",
+          "price": 25.0,
+          "rating": 4.6,
+          "reviews": 3600,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:5543451586028669488,headlineOfferDocid:5543451586028669488,imageDocid:16491134563432914213,rds:PC_16439322643829630028|PROD_PC_16439322643829630028,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQztYc423gXXEPtwOtMQvnbcebEki0vQP8PycYMeZcwxYCzZTDE5FDz2BUH8tqEhxY1fVJrW_SmFmdPqDJQLUPGXcI0QY5pvcYCdBUSrxc"
+        },
+        {
+          "seller": "GoSupps Beauty",
+          "title": "Kiss imPRESS Press-On Falsies Eyelash Clusters, Glamorous",
+          "price_text": "$49.99",
+          "price": 49.99,
+          "rating": 5.0,
+          "reviews": 3600,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:5402953022158435062,headlineOfferDocid:5402953022158435062,imageDocid:17640435911886982406,rds:PC_16439322643829630028|PROD_PC_16439322643829630028,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwWLv0SjtQQFdKcnzBf1nyM80ZDiJwAAGhkfw_b1dI2R204tOfrnAuMV4y_7wuQfYcxmIyS5oVFCQMNpGM-w6EPqFjb-RWi7Ipa_AtLrvA1-31aYi2eRyI"
+        },
+        {
+          "seller": "TikTok Shop",
+          "title": "Kiss imPRESS Press-On Falsies Kit",
+          "price_text": "$17.99",
+          "price": 17.99,
+          "rating": 5.0,
+          "reviews": 3500,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:2911993573014962670,productid:12393019455460569679,headlineOfferDocid:14372205108318589155,imageDocid:14641928922876347526,rds:PC_16439322643829630028|PROD_PC_16439322643829630028,gpcid:16439322643829630028,mid:576462784344599913,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4v4ZQOcvJUJNmhl572lS1LYfSmL9X3_-s0KcvY5Yl2rR4wnx-78t4ORFC1x9c7Gld6fQ5WdKnUYT3AQpQOR4fhU5yvDl-D0petth0-2UrjS7fVVXKeoZnbA"
+        },
+        {
+          "seller": "Target",
+          "title": "Kiss imPRESS Press-On Falsies Kit",
+          "price_text": "$15.99",
+          "price": 15.99,
+          "rating": 5.0,
+          "reviews": 3500,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:2911993573014962670,productid:12393019455460569679,headlineOfferDocid:1751260003246329220,imageDocid:14641928922876347526,rds:PC_16439322643829630028|PROD_PC_16439322643829630028,gpcid:16439322643829630028,mid:576462784344599913,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4v4ZQOcvJUJNmhl572lS1LYfSmL9X3_-s0KcvY5Yl2rR4wnx-78t4ORFC1x9c7Gld6fQ5WdKnUYT3AQpQOR4fhU5yvDl-D0petth0-2UrjS7fVVXKeoZnbA"
+        },
+        {
+          "seller": "TikTok Shop",
+          "title": "imPRESS Press-On Falsies 3-Pack Voluminous Clusters Bundle",
+          "price_text": "$35.98",
+          "price": 35.98,
+          "rating": 4.1,
+          "reviews": 3500,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:1185839154068020606,headlineOfferDocid:1185839154068020606,imageDocid:328248131908781353,rds:PC_16439322643829630028|PROD_PC_16439322643829630028,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRIFo4y1S34gTDRNA1nAV6i5Uia5uNA6qZFUUS76fhDR55WxNqBBG0KhlX44qNr51Gsbg_cK8ydxBc060al8OvZ864v3FfZwpBp2GacS_cw6KcOkBXW8NS4"
+        },
+        {
+          "seller": "eBay - blackduckdeals",
+          "title": "Kiss Impress Press-on Falsies Cluster Lashes, No-glue Needed – Set Of",
+          "price_text": "$19.99",
+          "price": 19.99,
+          "rating": 4.2,
+          "reviews": 3400,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:10981153698743998045,headlineOfferDocid:10981153698743998045,imageDocid:2475729407251944659,rds:PC_16439322643829630028|PROD_PC_16439322643829630028,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR__5DlqiXWdI1GUcCvwgxCmmQIImvKbn2vFWJMn6vTf2CqrPxXoYHQ4k1QXl77EUZBWkp6Iaz6DrEGOvL2bVc2IbJkZNU4T1GHUyEVo6aC9gDCDiX3N8Ng"
+        },
+        {
+          "seller": "eBay - angel_face",
+          "title": "X5 Kiss Impress Press-on Falsies Pre-glued Lash Extensions 160",
+          "price_text": "$42.99",
+          "price": 42.99,
+          "rating": 4.4,
+          "reviews": 3400,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:5895694444393077780,headlineOfferDocid:5895694444393077780,imageDocid:1396289453687369282,rds:PC_16439322643829630028|PROD_PC_16439322643829630028,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvCu-fMdlQ9GXDFmfbxraL54iF1S3qr4BPOddW97NI0IRDQttfcHREINDwfCXPrXY-m9c3SDaMLyQtvruWy9TfYpXF2ZgC8CuOvb6gQDk4aiNii3G1QSg-"
+        },
+        {
+          "seller": "Target",
+          "title": "Ardell Demi Wispies False Eyelashes - 6 pair",
+          "price_text": "$11.99",
+          "price": 11.99,
+          "rating": 5.0,
+          "reviews": 2000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:10180533674602114585,headlineOfferDocid:10180533674602114585,imageDocid:3179296242482191965,rds:PC_9665072784327039132|PROD_PC_9665072784327039132,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdK-x9s5kdqs-j98Y20hynV5fcSHOCzQ6q2QqLeCWtY4I5igRoL12xLrEA5M2RLf44AH9zodzYuAw4GmkhkPksrdh4ZmYodqXJ08dsf5CwKoBxd4gB-taIzw"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Target",
+          "title": "Ardell Demi Wispies False Eyelashes - 6 pair",
+          "price_text": "$11.99",
+          "price": 11.99,
+          "rating": 5.0,
+          "reviews": 2000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:10180533674602114585,headlineOfferDocid:10180533674602114585,imageDocid:3179296242482191965,rds:PC_9665072784327039132|PROD_PC_9665072784327039132,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdK-x9s5kdqs-j98Y20hynV5fcSHOCzQ6q2QqLeCWtY4I5igRoL12xLrEA5M2RLf44AH9zodzYuAw4GmkhkPksrdh4ZmYodqXJ08dsf5CwKoBxd4gB-taIzw"
+        },
+        {
+          "seller": "Walmart",
+          "title": "Ardell Press On Overlash 3D Fauxmink Volume 858 #38481",
+          "price_text": "$11.67",
+          "price": 11.67,
+          "rating": 5.0,
+          "reviews": 74,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:16406436849761988539,productid:8475974099526758291,headlineOfferDocid:11498205323553733157,imageDocid:5914355802742016748,rds:PC_12699278468045809267|PROD_PC_12699278468045809267,gpcid:12699278468045809267,mid:576462878422922782,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdmvax6CxlbwpqAR_n-Ccwb0qp1a3BM49oaYjfPQtCbVR8YzR8s3Ca5pmH_6QoQNuPsC00Opy_lBsb87BICYHrs7BieY-dNxdBg3rIvWrCPKTdd40ggxK2"
+        },
+        {
+          "seller": "Ulta Beauty",
+          "title": "Kiss imPRESS Press On Falsies Refills",
+          "price_text": "$15.49",
+          "price": 15.49,
+          "rating": 5.0,
+          "reviews": 1100,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:9857544085839608281,productid:9912721707050090663,headlineOfferDocid:7713858854745751077,imageDocid:6121365667246316915,rds:PC_7186319416177281919|PROD_PC_7186319416177281919,gpcid:7186319416177281919,mid:576462898590474679,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT_SJCU7q20C4CplM-NXydHeT0ntSjQJpp1yj7-v8JIBmGTTAu-7GxphTtxkxVC2EViRL2F72Kv7qxrH-g3FDGjr_s4TSTSW45WsKZVt60wKnuA8NFgd0o5"
+        },
+        {
+          "seller": "Target",
+          "title": "Kiss Impress Long Lasting",
+          "price_text": "$16.99",
+          "price": 16.99,
+          "rating": 3.3,
+          "reviews": 534,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:15386015380696086409,productid:9447255906696739722,headlineOfferDocid:14635294777173305936,imageDocid:1622897915885944746,rds:PC_11519955878143522415|PROD_PC_11519955878143522415,gpcid:11519955878143522415,mid:576462563916903587,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0xwEGIKbhMwkJTI8B6Ke7OtEkxWNJV2HhMxg2rH96ofq16xBd6W_hhejaiEeesfsDGISD1gWUs0HTcEWQtg9XzbSGWQJdJNhQeWUWtAavhmfc2uVUbuvw"
+        },
+        {
+          "seller": "Walmart",
+          "title": "Ardell Press-On Underlash Extensions",
+          "price_text": "$15.44",
+          "price": 15.44,
+          "rating": 5.0,
+          "reviews": 241,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:15662692899202359332,productid:5714417404186953355,headlineOfferDocid:6543812981818970524,imageDocid:2897565681394120207,rds:PC_14743035144968603972|PROD_PC_14743035144968603972,gpcid:14743035144968603972,mid:576462857764132960,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjBQbkckvnKZiO6UFUjwQL1P4h3IQhPgQN1D6WEPD7Q5jiQu4XmcoGihc4WdyWaY6sk1dfx_Vkzg5lxqARD2k_-NR4eA07FakbUM5fRCwPZAzky0a0VeU1ZQ"
+        },
+        {
+          "seller": "Target",
+          "title": "Kiss imPRESS Press-On Falsies Kit",
+          "price_text": "$15.99",
+          "price": 15.99,
+          "rating": 5.0,
+          "reviews": 3500,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:2911993573014962670,productid:12393019455460569679,headlineOfferDocid:1751260003246329220,imageDocid:14641928922876347526,rds:PC_16439322643829630028|PROD_PC_16439322643829630028,gpcid:16439322643829630028,mid:576462784344599913,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4v4ZQOcvJUJNmhl572lS1LYfSmL9X3_-s0KcvY5Yl2rR4wnx-78t4ORFC1x9c7Gld6fQ5WdKnUYT3AQpQOR4fhU5yvDl-D0petth0-2UrjS7fVVXKeoZnbA"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "currency": "£",
+      "status": "blocked",
+      "why": "Superdrug.com sells it at £15.99",
+      "results": 40,
+      "distinct_sellers": 7,
+      "chains_present": [
+        "Superdrug.com"
+      ],
+      "marketplaces_present": [
+        "Amazon.co.uk - Amazon.co.uk-Seller"
+      ],
+      "cheapest": 5.0,
+      "typical": 9.99,
+      "most_reviewed": {
+        "seller": "Superdrug.com",
+        "title": "Tatti Lashes Natural Pre-Glued Individuals",
+        "reviews": 272,
+        "price_text": "£11.00"
+      },
+      "top_rows": [
+        {
+          "seller": "Superdrug.com",
+          "title": "Tatti Lashes Natural Pre-Glued Individuals",
+          "price_text": "£11.00",
+          "price": 11.0,
+          "rating": 3.5,
+          "reviews": 272,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:17153343234332359383,productid:4524763866332930675,headlineOfferDocid:17851228870444426760,imageDocid:6511772465403771732,rds:PC_5213606971845200429|PROD_PC_5213606971845200429,gpcid:5213606971845200429,mid:576462790398269549,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhVerQlO_oa8_euN1CjfZUA75lSyihVq0YY6HGrN0uJ3AJXJnVj-_HfbcHeHnxiKwNzREjwesIYTWTxCzbSI8ncK06dXyG6v4MMMZwV3fu9c5enEz6IXCK"
+        },
+        {
+          "seller": "Lola's Lashes",
+          "title": "Lola's Lashes Sunday Salon Press-on Lashes Starter Kit",
+          "price_text": "£27.00",
+          "price": 27.0,
+          "rating": 4.6,
+          "reviews": 94,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:2759476957640995816,productid:8374247610561171658,headlineOfferDocid:12064850224904225326,imageDocid:12472851884250802930,rds:PC_8051938446809422019|PROD_PC_8051938446809422019,gpcid:8051938446809422019,mid:576462791620730865,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSS3_0TIu3HrBgf-iYFYghuzeLsywMaTJXVgbYkJiw6CFaiERWotu6_v2mzMxE7pgd5Huks6S6zLdcbSJX9_y6TKO48Q1eV_hLC-BEGBjwutWeolYaj6fD-SA"
+        },
+        {
+          "seller": "Lola's Lashes",
+          "title": "Lola's Lashes Bold Definition Single Length Pre-Glued Lashes",
+          "price_text": "£14.00",
+          "price": 14.0,
+          "rating": 4.3,
+          "reviews": 51,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:5658132584263983795,productid:10707532162623564242,headlineOfferDocid:10618200260283020361,imageDocid:14132267782195984290,rds:PC_8797748117008815353|PROD_PC_8797748117008815353,gpcid:8797748117008815353,mid:576462882311810207,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTCEyBFfF641KvSrzBYprgPkSK_BOe2OkFQvhn-8RsMGof6rkeX_Flwo5WLJJUsstMynfbo3bLGk11DIXFvE6sBXYloeNFg70Yk2yjn7kOdjL0TbdciNiSVxA"
+        },
+        {
+          "seller": "Lola's Lashes",
+          "title": "Lola's Lashes Bold Definition Single Length Pre-Glued Lashes",
+          "price_text": "£14.00",
+          "price": 14.0,
+          "rating": 4.3,
+          "reviews": 51,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:5658132584263983795,productid:10707532162623564242,headlineOfferDocid:11747916290341180019,imageDocid:14132267782195984290,rds:PC_8797748117008815353|PROD_PC_8797748117008815353,gpcid:8797748117008815353,mid:576462882311810207,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTCEyBFfF641KvSrzBYprgPkSK_BOe2OkFQvhn-8RsMGof6rkeX_Flwo5WLJJUsstMynfbo3bLGk11DIXFvE6sBXYloeNFg70Yk2yjn7kOdjL0TbdciNiSVxA"
+        },
+        {
+          "seller": "Lola's Lashes",
+          "title": "Lola's Lashes Bold Definition Single Length Pre-Glued Lashes",
+          "price_text": "£14.00",
+          "price": 14.0,
+          "rating": 4.3,
+          "reviews": 51,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:5658132584263983795,productid:10707532162623564242,headlineOfferDocid:3036347056265379054,imageDocid:14132267782195984290,rds:PC_8797748117008815353|PROD_PC_8797748117008815353,gpcid:8797748117008815353,mid:576462882311810207,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTCEyBFfF641KvSrzBYprgPkSK_BOe2OkFQvhn-8RsMGof6rkeX_Flwo5WLJJUsstMynfbo3bLGk11DIXFvE6sBXYloeNFg70Yk2yjn7kOdjL0TbdciNiSVxA"
+        },
+        {
+          "seller": "Lola's Lashes",
+          "title": "Lola's Lashes Bold Definition Single Length Pre-Glued Lashes",
+          "price_text": "£14.00",
+          "price": 14.0,
+          "rating": 4.3,
+          "reviews": 51,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:5658132584263983795,productid:10707532162623564242,headlineOfferDocid:2751575807238797673,imageDocid:14132267782195984290,rds:PC_8797748117008815353|PROD_PC_8797748117008815353,gpcid:8797748117008815353,mid:576462882311810207,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTCEyBFfF641KvSrzBYprgPkSK_BOe2OkFQvhn-8RsMGof6rkeX_Flwo5WLJJUsstMynfbo3bLGk11DIXFvE6sBXYloeNFg70Yk2yjn7kOdjL0TbdciNiSVxA"
+        },
+        {
+          "seller": "Lola's Lashes",
+          "title": "Lola's Lashes Bold Definition Single Length Pre-Glued Lashes",
+          "price_text": "£14.00",
+          "price": 14.0,
+          "rating": 4.3,
+          "reviews": 51,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:5658132584263983795,productid:10707532162623564242,headlineOfferDocid:8521955249677921491,imageDocid:14132267782195984290,rds:PC_8797748117008815353|PROD_PC_8797748117008815353,gpcid:8797748117008815353,mid:576462882311810207,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTCEyBFfF641KvSrzBYprgPkSK_BOe2OkFQvhn-8RsMGof6rkeX_Flwo5WLJJUsstMynfbo3bLGk11DIXFvE6sBXYloeNFg70Yk2yjn7kOdjL0TbdciNiSVxA"
+        },
+        {
+          "seller": "GoSupps Beauty",
+          "title": "Eylure Volume Pre Glued False Eyelashes - No 101",
+          "price_text": "£56.63",
+          "price": 56.63,
+          "rating": 3.3,
+          "reviews": 11,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:11785468768192574841,headlineOfferDocid:11785468768192574841,imageDocid:9674439969099927808,rds:PC_7990555250767906237|PROD_PC_7990555250767906237,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR3vGxv1jjIGb0_Obrm5Iq2Mt9OyCCbAjThoJlm1-XQPBKTvMx9lipaOnkHV1gKmZj9C8k2t_576HOBjDywRCuecjR0Z_5ZZTHcblSNOBqIvP_k3YtNpRDl"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Superdrug.com",
+          "title": "Lash Fx Press & Go St Tropez",
+          "price_text": "£15.99",
+          "price": 15.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:14337296408949610725,productid:14383990838894907050,headlineOfferDocid:12527958347162921316,imageDocid:16087523394788468941,gpcid:14411393099519462504,mid:576462881107476205,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMvcdaHxVrV2VBa5d2yTIcp_nNNtCpuzSmElnfifGrt7RgRz4fRAaCH6l-EdGFPfPdhf3OqlQWRMXHI8pCPyxBiXkbH_L2fYHNbY-o6FHF8ClPxfCdbuNZ"
+        },
+        {
+          "seller": "Superdrug.com",
+          "title": "Tatti Lashes Natural Pre-Glued Individuals",
+          "price_text": "£11.00",
+          "price": 11.0,
+          "rating": 3.5,
+          "reviews": 272,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:17153343234332359383,productid:4524763866332930675,headlineOfferDocid:17851228870444426760,imageDocid:6511772465403771732,rds:PC_5213606971845200429|PROD_PC_5213606971845200429,gpcid:5213606971845200429,mid:576462790398269549,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhVerQlO_oa8_euN1CjfZUA75lSyihVq0YY6HGrN0uJ3AJXJnVj-_HfbcHeHnxiKwNzREjwesIYTWTxCzbSI8ncK06dXyG6v4MMMZwV3fu9c5enEz6IXCK"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "currency": "C$",
+      "status": "blocked",
+      "why": "Walmart.ca sells it at $24.50",
+      "results": 40,
+      "distinct_sellers": 13,
+      "chains_present": [
+        "Real Canadian Superstore",
+        "Shoppers Drug Mart",
+        "Walmart.ca"
+      ],
+      "marketplaces_present": [
+        "Amazon CA",
+        "Pretty In The City Markham - Permanent Makeup"
+      ],
+      "cheapest": 9.0,
+      "typical": 24.5,
+      "most_reviewed": {
+        "seller": "Walmart.ca",
+        "title": "Kiss Falscara Eyelash All Inclusive Kit Lash Cluster",
+        "reviews": 12000,
+        "price_text": "$35.96"
+      },
+      "top_rows": [
+        {
+          "seller": "Walmart.ca",
+          "title": "Kiss Falscara Eyelash All Inclusive Kit Lash Cluster",
+          "price_text": "$35.96",
+          "price": 35.96,
+          "rating": 4.4,
+          "reviews": 12000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:18255393259434521557,productid:14369548787842446476,headlineOfferDocid:7155294579324327865,imageDocid:5386160936685351194,rds:PC_3434106978418122135|PROD_PC_3434106978418122135,gpcid:3434106978418122135,mid:576462859600999277,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-8P-Cig5aPNbsNaRuq96xAPoO110EPxiYC-IR3ZuQMrTXW-ykJ6O_3yRBsjv7Ufs9NH1doEYkSmH3ZlOzKkqc221TnANUjv69KZQgeLdlI9QLoC3EkcoMlA"
+        },
+        {
+          "seller": "tradesecrets.ca",
+          "title": "Ardell Naked Press On Natural Pre-Glued Underlash Extensions",
+          "price_text": "$15.99",
+          "price": 15.99,
+          "rating": 4.2,
+          "reviews": 1300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:17539030285847031823,productid:6660793494026376829,headlineOfferDocid:8636445652783173430,imageDocid:7048440478779297457,rds:PC_4494893744479184123|PROD_PC_4494893744479184123,gpcid:4494893744479184123,mid:576462859585904716,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSZrT2RY1Fidotr783l5QhNEoVZzwY5xGb6O6-yKm683T1rSzQo6ElpfTykAHzGWGqX0dICkm7-yh4j_eBJsy0rrmfABzNdUgRRtMPKczNsk7AyzClYeeQ4"
+        },
+        {
+          "seller": "Sephora",
+          "title": "Velour Lashes Velour-Xtensions Self-Stick Lash",
+          "price_text": "$24.50",
+          "price": 24.5,
+          "rating": 4.6,
+          "reviews": 492,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:15461751267506439320,productid:12102949248488960318,headlineOfferDocid:3202629221083590808,imageDocid:12816268662109373431,rds:PC_900909302545816751|PROD_PC_900909302545816751,gpcid:900909302545816751,mid:576462784346890925,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcST6UQXyn0ACNMvhXt-ZRpadCFC6Sqz-UmWC4AqNf1ghwlvcQ-QakdhNP_Qjk3d1l91igc-Jnhl85OBJahNEIDipD2ZH2i0Siy_XMzs6xhABj88aKgdKpq_oA"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Kiss Lash Couture Luxtensions Faux Lash Extensions Kit",
+          "price_text": "$18.97",
+          "price": 18.97,
+          "rating": 3.5,
+          "reviews": 344,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:5867071641889616232,productid:13865912638293172997,headlineOfferDocid:2056637471896865136,imageDocid:10917259547573199720,rds:PC_3628404576158741747|PROD_PC_3628404576158741747,gpcid:3628404576158741747,mid:576462441488637186,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdGukCSBomGcEaW4TUdD6E66A6S_kzW7aIpDwyEcsXy3jFgtoZBN0ePcBULInCymzlbHCfmyKDDkd9L7bgkXovBJzCxeXArn8-jjO7lNmwIzFaZtcJTb48jA"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Kiss Impress Mega Multi",
+          "price_text": "$20.96",
+          "price": 20.96,
+          "rating": 4.3,
+          "reviews": 332,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:7776388184277653664,productid:10157830057478663733,headlineOfferDocid:11226569425684892595,imageDocid:9738064822288092532,rds:PC_8431391859063387197|PROD_PC_8431391859063387197,gpcid:8431391859063387197,mid:576462531556629496,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWNuTnHrcyMT8NA5CEvf7Ce_ICLBuT9QSwZwqg2bLAhm8O-eYvi8_YhMmyicNtJB3s0VAS0lbNavHC13x9IIv_gC62veaCI7YV_T7anp5bNLtGI5E-Zr21oQ"
+        },
+        {
+          "seller": "Sephora",
+          "title": "Soft & Wispy Velour-Xtensions Self-Stick Lash Clusters",
+          "price_text": "$24.50",
+          "price": 24.5,
+          "rating": 4.5,
+          "reviews": 201,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:13900219057287970442,productid:14987289846527902606,headlineOfferDocid:285207797617915649,imageDocid:6701687443731951758,rds:PC_6616275795045092493|PROD_PC_6616275795045092493,gpcid:6616275795045092493,mid:576462781898846261,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0Ubc-RoE46R_QjZ97Qi69LajiewnlYFAK6AWMRytC3ChYSsg1zIHp_09eC7TSZ3Haga4XOLSMVAMxSlLUA53BTCWHy7c1w75_6KNEStLFp3dK0bwRYxhwEQ"
+        },
+        {
+          "seller": "Sephora",
+          "title": "Velour x CGonzalez Beauty Self-Stick Lash Clusters",
+          "price_text": "$24.50",
+          "price": 24.5,
+          "rating": 4.7,
+          "reviews": 138,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:7284836096140082384,productid:4091975101885114529,headlineOfferDocid:6703585559183782648,imageDocid:9537194902967297449,rds:PC_17000896097022583869|PROD_PC_17000896097022583869,gpcid:17000896097022583869,mid:576462503635038277,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_5062vpiekPaFvD8lvXO08Clf16cVFopNV76ypCORmDHRrjwKVevdlSzMCMJtIG0sgNzaQ12SUoFBFtOV23p_KNNO8mvWT9QjEnYkS1WHff1o-tPhh5Kuxg"
+        },
+        {
+          "seller": "Silly George",
+          "title": "Silly George Flaunt Pop-On False Eyelash Clusters",
+          "price_text": "$57.00",
+          "price": 57.0,
+          "rating": 4.9,
+          "reviews": 93,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:5875263268200306311,productid:10192298084571487840,headlineOfferDocid:10231558525339670233,imageDocid:3367975260378389316,rds:PC_2328773802584839287|PROD_PC_2328773802584839287,gpcid:5701714146664417495,mid:576462915021511863,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFwV6O68-BmV6xm1Rfv7hUfzcvrnHw6Zd_8wwCLKObJQV2jf9uatlfNJhw_2I-7TaIC_5mSNdie8-Zfqf4y4743tRhFbqDYnXmD_vuErreaW4xrZwoqDKd"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Walmart.ca",
+          "title": "Salon Perfect Diy Pre-Glued Lash Clusters",
+          "price_text": "$24.50",
+          "price": 24.5,
+          "rating": 4.4,
+          "reviews": 35,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:17277792298228546091,productid:462529594275441437,headlineOfferDocid:10203984301847425590,imageDocid:5706855456274632037,rds:PC_17703180208663991667|PROD_PC_17703180208663991667,gpcid:17703180208663991667,mid:576462557566941895,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWa0WJGnuC344mGnClxMVFXlxY_1O0y1Boimsq6h-HIicFMl4YJHOHhe_e3_3GDue16oQ_b2H3ScBRQcI4h_JmApm77He5TCQXuFWoBjSHJ_zlg3KtE3Ve8w"
+        },
+        {
+          "seller": "Real Canadian Superstore",
+          "title": "Dominion Quo Beauty Pre-Glued Bliss Cluster Lash",
+          "price_text": "$9.00",
+          "price": 9.0,
+          "rating": 5.0,
+          "reviews": 2,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:1251894683683501430,productid:10272840144532031949,headlineOfferDocid:7633113517139839784,imageDocid:15009229826628031708,rds:PC_12920251885497995543|PROD_PC_12920251885497995543,gpcid:12920251885497995543,mid:576462826116741606,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQU-SWxgEW-7qFANRwDWi-tiwsQR4RAIWNLz32qpZo2Yx5prdDrKV33ePNXICPcviz71cGenrE-vsxm46oGcSIXzi91ndIrHqB0_XT-Pjgnj3vdDBY95CMH"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Salon Perfect Diy Pre-Glued Lash Clusters Short",
+          "price_text": "$24.50",
+          "price": 24.5,
+          "rating": 4.6,
+          "reviews": 71,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:12748387617672141263,productid:3142221865582353607,headlineOfferDocid:12991061874794464695,imageDocid:5503586741937297961,rds:PC_2801565921386262225|PROD_PC_2801565921386262225,gpcid:2801565921386262225,mid:576462891247632344,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQa_0rzNFBdRPNWO5BV3G8x7EV_irTprjRIW77r0OPabQQnmPfe9SGi15Vm37oFymFimEAov7VhXiU0LZXVUt_nNkU_N9T8AwZmEi69rhXZErq6I8sa-Cgs2w"
+        },
+        {
+          "seller": "Shoppers Drug Mart",
+          "title": "Quo Beauty Pre-Glued Cluster Lash with Tool",
+          "price_text": "$24.00",
+          "price": 24.0,
+          "rating": 5.0,
+          "reviews": 2,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:1846410432207755268,productid:10471543414138453638,headlineOfferDocid:2496746661970025856,imageDocid:14204956903552120316,rds:PC_2121292788888016493|PROD_PC_2121292788888016493,gpcid:2121292788888016493,mid:576462517823395289,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTy8cRS2QBJFwn26iJaUbQ9WiMnvPG9Ngl7DHBPg2QTF7ryYn0BlYLaxL157V2c47IFTfsYh1LzdbPSg6KpBZIFHVaUOo6VpeDntAWCF84pDq9oWrYShVhH"
+        },
+        {
+          "seller": "Real Canadian Superstore",
+          "title": "Quo Beauty Pre-Glued Blossom Cluster Lash",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 1.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:6257332785301284733,productid:16790809334367181312,headlineOfferDocid:1860345454300155919,imageDocid:7324052527749124553,rds:PC_1401690724860641656|PROD_PC_1401690724860641656,gpcid:1401690724860641656,mid:576462517822730367,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSNfNFIB5XwyVFS1idML6kiZinfVlKBjzpS2U23XpLrwkD_Glrz4NjmWPj_XgT9ErMBuhrM9wM7Z0WIrbQH0CsIkFwRzi84WyQ-tViLiDtJiyo0RAMUmi63"
+        },
+        {
+          "seller": "Shoppers Drug Mart",
+          "title": "Quo Beauty Pre-Glued Clusters 30 Pieces MULTI",
+          "price_text": "$18.00",
+          "price": 18.0,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:5484331011493713023,productid:18359280406903607422,headlineOfferDocid:3879656837256391841,imageDocid:15831226725759529817,gpcid:9292342326985356572,mid:576462914783329877,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAfalFuqq5osDXCcX1K7-qVNE3CH3s_tIivO7k_Gek-FBUagI5_WYSGZbPA5mzPLeAXxH7zoSJIxETEGA1KvpsSe9yh5RSfFMewX6tWVvNxMTnZoYLIAAS"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "currency": "€",
+      "status": "blocked",
+      "why": "Douglas.de sells it at 6,19 €",
+      "results": 40,
+      "distinct_sellers": 9,
+      "chains_present": [
+        "Douglas.de"
+      ],
+      "marketplaces_present": [
+        "Amazon.de - Amazon.de-Seller",
+        "Zalando"
+      ],
+      "cheapest": 2.95,
+      "typical": 9.72,
+      "most_reviewed": {
+        "seller": "Douglas.de",
+        "title": "Ardell Seamless Refill",
+        "reviews": 581,
+        "price_text": "6,19 €"
+      },
+      "top_rows": [
+        {
+          "seller": "Douglas.de",
+          "title": "Ardell Seamless Refill",
+          "price_text": "6,19 €",
+          "price": 6.19,
+          "rating": 2.6,
+          "reviews": 581,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:13661188912942897269,productid:10479958112997388332,headlineOfferDocid:13432902938116378784,imageDocid:8361256361768308717,rds:PC_6261520561147169659|PROD_PC_6261520561147169659,gpcid:6261520561147169659,mid:576462891261143448,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRUpxJheIwAKOf2C_H-A272SooGb_KN1KOMjdsj7aGjUC8CisRm4xc4jv6SRk9lb14fvaZrkNSAq0YbnZx_hWEsEKuyMHpQXbbVZDauXSecU4TZ2N-iwq5jQ"
+        },
+        {
+          "seller": "Aylashes",
+          "title": "Aylashes Material GIRL",
+          "price_text": "5,23 €",
+          "price": 5.23,
+          "rating": 2.9,
+          "reviews": 420,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:6712845130327392939,productid:14272913000834709230,headlineOfferDocid:9287828026802803335,imageDocid:4587413639732339525,rds:PC_1157447322328602916|PROD_PC_1157447322328602916,gpcid:1157447322328602916,mid:576462820677393077,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRctQx1YnasLC94YqD1ATW_tKmXk7PaDw1P8xecDnUEzwky3EY2VYyh972YopXEs6OPxpnw65YtsUyrJD63qLC-rOPkTOZiX7UMqzgeawfTE7f4PNPqfcn0eA"
+        },
+        {
+          "seller": "Aylashes",
+          "title": "Aylashes Material GIRL",
+          "price_text": "5,23 €",
+          "price": 5.23,
+          "rating": 2.9,
+          "reviews": 420,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:6712845130327392939,productid:14272913000834709230,headlineOfferDocid:4642763205198003222,imageDocid:4587413639732339525,rds:PC_1157447322328602916|PROD_PC_1157447322328602916,gpcid:1157447322328602916,mid:576462820677393077,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRctQx1YnasLC94YqD1ATW_tKmXk7PaDw1P8xecDnUEzwky3EY2VYyh972YopXEs6OPxpnw65YtsUyrJD63qLC-rOPkTOZiX7UMqzgeawfTE7f4PNPqfcn0eA"
+        },
+        {
+          "seller": "Aylashes",
+          "title": "Aylashes Material GIRL",
+          "price_text": "5,23 €",
+          "price": 5.23,
+          "rating": 2.9,
+          "reviews": 420,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:6712845130327392939,productid:14272913000834709230,headlineOfferDocid:6025639729974202800,imageDocid:4587413639732339525,rds:PC_1157447322328602916|PROD_PC_1157447322328602916,gpcid:1157447322328602916,mid:576462820677393077,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRctQx1YnasLC94YqD1ATW_tKmXk7PaDw1P8xecDnUEzwky3EY2VYyh972YopXEs6OPxpnw65YtsUyrJD63qLC-rOPkTOZiX7UMqzgeawfTE7f4PNPqfcn0eA"
+        },
+        {
+          "seller": "Aylashes",
+          "title": "LIKE A LADY, 16MM - EXTRA LONG",
+          "price_text": "5,23 €",
+          "price": 5.23,
+          "rating": 5.0,
+          "reviews": 252,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:11000071379430480836,headlineOfferDocid:11000071379430480836,imageDocid:9173866650559288505,rds:PC_109351194591361478|PROD_PC_109351194591361478,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRouky7jB8FxEXq2y-T-RGhoC4y18O1p0S6e0UYQ7l-aZOoaFBiyELIkPFa6rDjtnoUa4ChFchnsCj0kDeInos6D_gcpvxC_HmISFlOoLE7qh5smjGN4xOx"
+        },
+        {
+          "seller": "Aylashes",
+          "title": "Aylashes OFFICE CHICK",
+          "price_text": "3,95 €",
+          "price": 3.95,
+          "rating": 4.0,
+          "reviews": 218,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:12048041969535944435,productid:3914412380810293705,headlineOfferDocid:3667950158287903243,imageDocid:13522267158221105875,rds:PC_11228474539899734672|PROD_PC_11228474539899734672,gpcid:11228474539899734672,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR9ykVErFV-T1Hw96Da3bZH1G4oQz1tyK5SlU6whoXHcswqeZxwBs3q5BBNrD7XEhMjEKsYupZPagK1pKHwrF0mRppAF7anfqiR9sq1fN3LKaeIz6ON4JMBoQ"
+        },
+        {
+          "seller": "Aylashes",
+          "title": "Aylashes OFFICE CHICK",
+          "price_text": "3,95 €",
+          "price": 3.95,
+          "rating": 4.0,
+          "reviews": 218,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:12048041969535944435,productid:3914412380810293705,headlineOfferDocid:14412874484010972490,imageDocid:13522267158221105875,rds:PC_11228474539899734672|PROD_PC_11228474539899734672,gpcid:11228474539899734672,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZDyOYYswlr5pC3Z2aOtU0V_Wct98Qww_qq_-i-ZSBivuGLDWP6jZhPXkEfmzP-ZwDXf7XwJP9n_PRQF6iDftCiAex8dwZWdIZdMcUrjaEn8pazYidyUs1PA"
+        },
+        {
+          "seller": "Zalando",
+          "title": "Aylashes OFFICE CHICK",
+          "price_text": "13,95 €",
+          "price": 13.95,
+          "rating": 4.0,
+          "reviews": 218,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:12048041969535944435,productid:3914412380810293705,headlineOfferDocid:15237738517737133084,imageDocid:13522267158221105875,rds:PC_11228474539899734672|PROD_PC_11228474539899734672,gpcid:11228474539899734672,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTMtsjAtq5gS6Cj4nv3yex4D-OFqoefULzXwGxCqSmNofyatPV4w1XFaP0Tto516blcagrrCOGIzVP4Ts_47sLtf4iRu1Itp13OHAmbZMADJ1W2skaFEIRwHg"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Douglas.de",
+          "title": "Ardell Seamless Refill",
+          "price_text": "6,19 €",
+          "price": 6.19,
+          "rating": 2.6,
+          "reviews": 581,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:13661188912942897269,productid:10479958112997388332,headlineOfferDocid:13432902938116378784,imageDocid:8361256361768308717,rds:PC_6261520561147169659|PROD_PC_6261520561147169659,gpcid:6261520561147169659,mid:576462891261143448,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRUpxJheIwAKOf2C_H-A272SooGb_KN1KOMjdsj7aGjUC8CisRm4xc4jv6SRk9lb14fvaZrkNSAq0YbnZx_hWEsEKuyMHpQXbbVZDauXSecU4TZ2N-iwq5jQ"
+        },
+        {
+          "seller": "Douglas.de",
+          "title": "Kiss Impress Press On Longlasting False Eyelashes 01",
+          "price_text": "18,99 €",
+          "price": 18.99,
+          "rating": 5.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:1990379902489139718,productid:17384082823955560484,headlineOfferDocid:17692157240885486565,imageDocid:2412073776202322746,rds:PC_18184148469298740495|PROD_PC_18184148469298740495,gpcid:18184148469298740495,mid:576462826459931290,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTdT1tRbHrdQdk0vm-TKNV61XnDqU4FzeJcIjKvkWcOjy89BNZnKLOqdkXsa0pHSNLvuYRhfk9LijBpcTTSiEKRNw557ZNHTCkzC4lkE0TjQAQuch1y_Gk0Vw"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "currency": "NZ$",
+      "status": "blocked",
+      "why": "Chemist Warehouse NZ sells it at $23.99",
+      "results": 40,
+      "distinct_sellers": 17,
+      "chains_present": [
+        "Chemist Warehouse NZ",
+        "Farmers Department Store"
+      ],
+      "marketplaces_present": [
+        "Amazon AU - Amazon.com.au-Seller"
+      ],
+      "cheapest": 10.0,
+      "typical": 23.99,
+      "most_reviewed": {
+        "seller": "iHerb",
+        "title": "Ardell Naked Press On Pre-Glued Underlash Extensions",
+        "reviews": 879,
+        "price_text": "$31.72"
+      },
+      "top_rows": [
+        {
+          "seller": "iHerb",
+          "title": "Ardell Naked Press On Pre-Glued Underlash Extensions",
+          "price_text": "$31.72",
+          "price": 31.72,
+          "rating": 4.3,
+          "reviews": 879,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:7773396532165706814,productid:13703458825270802975,headlineOfferDocid:7093774990157761701,imageDocid:1039140320903697965,rds:PC_2524800025538329738|PROD_PC_2524800025538329738,gpcid:2524800025538329738,mid:576462476258230967,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7KdKhmJgGClyVxLzCeHRSLnqTFAYTJPsjKHNritPcyMlzWKwerSwMA4cHokkYBBI1TyHNR8SRvfYGbyBVefDG1IYmSFV1d5L9dFub6BTqsK3emuDYJIaCwA"
+        },
+        {
+          "seller": "Sephora.nz",
+          "title": "Velour-Xtensions Self-Stick Lash",
+          "price_text": "$36.00",
+          "price": 36.0,
+          "rating": 4.6,
+          "reviews": 492,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:15461751267506439320,productid:16902413859914459545,headlineOfferDocid:11056836216611931758,imageDocid:17084050176364446824,rds:PC_900909302545816751|PROD_PC_900909302545816751,gpcid:900909302545816751,mid:576462784346890925,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRasuD86UeDNU0pSfLDmepR4BIu2kwo8eanT64k9W-rGJSTGgu0CJLx_2fPBrYbdvE9VCKXnpcWUqsFRj8hwRg5LK67x8PX7pajNhZa9rE8Ounuh89Dg4OkIg"
+        },
+        {
+          "seller": "Farmers Department Store",
+          "title": "Ardell Naked Clusters",
+          "price_text": "$21.95",
+          "price": 21.95,
+          "rating": 4.4,
+          "reviews": 299,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:15185823624492935543,productid:4315249772314880433,headlineOfferDocid:3525713900076119674,imageDocid:17185211020571363456,rds:PC_2050753780938634725|PROD_PC_2050753780938634725,gpcid:2050753780938634725,mid:576462783049201419,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSFl1q9cvs71m02jQVLJnVVC7XEBqyicWD1Yy_ds1b-vogaJAwtj4RFL_xgiZdBiRd-2yk5xF-z9VrgmvW3UALCoyJV3MVyqvizRGl3VHVpQASZhf6WAJaY"
+        },
+        {
+          "seller": "ASOS",
+          "title": "Tatti Lashes Wispy Volume Pre-Glued Individuals",
+          "price_text": "$30.00",
+          "price": 30.0,
+          "rating": 3.9,
+          "reviews": 232,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:16372411181214402264,productid:12260889508929745354,headlineOfferDocid:13204816029463791627,imageDocid:4588472688102934819,rds:PC_741352282466550166|PROD_PC_741352282466550166,gpcid:741352282466550166,mid:576462491485139653,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEHRzViWZxoTeFRtuRJFfzjbM1-oAES8UAyCon0wso6Ln5SL3jzizVO3GM0-BceRGNbfpC4QYRCku_Cdq_E1QEp-1GSvigHbhfp2rx_wUft1UlEQJPaO0l2w"
+        },
+        {
+          "seller": "MightyApe.co.nz",
+          "title": "Glam by Manicare Ready Pre-Glued Lashes",
+          "price_text": "$12.99",
+          "price": 12.99,
+          "rating": 4.1,
+          "reviews": 97,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:8606533249252046309,productid:10083262297287890432,headlineOfferDocid:6488535923345736496,imageDocid:14210703088448832930,rds:PC_6184775483872288354|PROD_PC_6184775483872288354,gpcid:6184775483872288354,mid:576462781902997956,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkZUAtT-ymdZow5fvAtSz9ch9FkaS6FHgrg9_jgK3tE4LGLEfvu9ol4sp5hJhsZB5uxvTKCobvK1FEAwCKJa_sXWSocE3ABHupwElbJFtd6rSnn-5Clqaw7w"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Glam By Manicare Eyelashes Pre-Glued Lashes Natural Billie 22402",
+          "price_text": "$13.49",
+          "price": 13.49,
+          "rating": 4.1,
+          "reviews": 97,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:15960957501848246020,headlineOfferDocid:15960957501848246020,imageDocid:11980344971660172727,rds:PC_6184775483872288354|PROD_PC_6184775483872288354,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS0IPibVLrqRm35aZHccMEF7ZVALFECEDdUqKtPWil31Fu_RI-J80M7Q2Sic0RDtcY6QuYBvE6ytqn5GY0Qqtv1VYQlLFZmmA"
+        },
+        {
+          "seller": "Bargain Chemist NZ",
+          "title": "12x Kiss ImPress Press-On Falsies",
+          "price_text": "$13.29",
+          "price": 13.29,
+          "rating": 4.2,
+          "reviews": 66,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:16025578328061247000,productid:15972340308640405827,headlineOfferDocid:9826498022495723645,imageDocid:4838362366421302708,rds:PC_18374039141858458582|PROD_PC_18374039141858458582,gpcid:18374039141858458582,mid:576462784334595509,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqxdpPLBqxzVtwemSmYAHrDvsDtXz1dDDHgYhL2j8gPbo0wN1Ym7Y8RBXmhR5zMTCPmkD7lbWHwDg3yXXvD4ahlO_OS_ERofyWrdxD_tt2oh9Bu4Yp3UcH"
+        },
+        {
+          "seller": "Beauty Gallery",
+          "title": "Premade Fans Eyelash Extensions 6D-C-0.07-11 Prema",
+          "price_text": "$10.00",
+          "price": 10.0,
+          "rating": 4.4,
+          "reviews": 33,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:10172902823208020643,productid:467443876333325778,headlineOfferDocid:113235962339578761,imageDocid:16233518233017339369,rds:PC_7351343619088081578|PROD_PC_7351343619088081578,gpcid:7351343619088081578,mid:576462893762182909,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdSQXsc_bf2DgN7r8UuCjCF25ILOm44mQG73Ufina3CnWDIdq9Rdv9Eh3ExaK0xBLSN63v9DRjvc_pNUmqjf2Wfojlq7LwTUtgHSugf-j4Q9gbELU3d3av"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Manicare Glam Ready Pre Glued Cluster Luxe",
+          "price_text": "$23.99",
+          "price": 23.99,
+          "rating": 3.4,
+          "reviews": 13,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:12216512198122173389,productid:17912907633941613864,headlineOfferDocid:10491498793501153909,imageDocid:11522538443946766883,rds:PC_2805210615029908159|PROD_PC_2805210615029908159,gpcid:2805210615029908159,mid:576462497819716426,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQbVoO4EsycU2EJcVNV4ul7Hf4R_zoCrB9EZdPYzZLUXp4K7faUxTMn1GqcbKJxow_twLiOhcrhhsdKVZE46N77xR57i9baATfAKJ3s45x5GQzWWKxS0saGUw"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Glam by Manicare Glam Ready Cluster Natural Mackenzie Lash",
+          "price_text": "$22.99",
+          "price": 22.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:12867222239526913655,productid:1647480058159602664,headlineOfferDocid:1218741210589820190,imageDocid:15123460573358587620,gpcid:1492783505665666990,mid:576462914492063801,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTaa6hTWinnAKMQQD9UcaXdeuaXcCNpQwqsZVqCQ_SMpmJ4RPl3W21xs5ug4yY5RRyXdh7Ie2ONVqdys8t17IX7SRziMo-I5mvqKsEvFndMSSBaqNQcN9W7Qw"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Glam by Manicare Ready Pre Glued Cluster Lash",
+          "price_text": "$22.99",
+          "price": 22.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:13440098781579591851,productid:8117963214292456418,headlineOfferDocid:4986850505559411946,imageDocid:11713534977139500976,gpcid:1705735580922919850,mid:576462914773075005,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQgKuN3t3d0cc9vdj0AXO8K96CNkf2zqwOPQLfDsFhmkcE761I3PKi2Jqw2zJgDwfhEYoe9A2c6AZkeyyzGF_1QUZC2NVJdmyJ9UfHH8QqEheg1eIOj_H0o"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Glam by Manicare Ready Pre-Glued Cluster Lash Intense Connie 22442",
+          "price_text": "$23.99",
+          "price": 23.99,
+          "rating": 3.4,
+          "reviews": 13,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:9413172889018857068,productid:7640955440476316494,headlineOfferDocid:13125757172795411149,imageDocid:5675919523543860429,rds:PC_2805210615029908159|PROD_PC_2805210615029908159,gpcid:10771737792238438503,mid:576462574876964164,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGesHdntJdNVXomagQT1-my2ggkTyD7CSXO7QAhc2cLtPsTFdNJkyL3Oxtqj9aG0t7z-Z6_NdMpcKogZN24Tt0RXXlWq1ZUsUboa22lcC440sPqbzyw3FnXg"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Glam by Manicare Ready Pre-Glued Cluster Lash Length Hannah 22441",
+          "price_text": "$23.99",
+          "price": 23.99,
+          "rating": 3.4,
+          "reviews": 13,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=catalogid:4470393992648525941,productid:15501387799507399366,headlineOfferDocid:10270976709013986863,imageDocid:15772513859405320988,rds:PC_2805210615029908159|PROD_PC_2805210615029908159,gpcid:13158869092172363128,mid:576462914766052965,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS-3dvBrPep_W0NT6k_xV_AFZ-kil2z3xIVjdT_rM_F0GpKkdcjzlQxAXdRV8_wfT_KVK-gqaBnyyR1dpTEqFFASXBOH_NPBJvt5CpJbLitVLTlMuCpHttFiA"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Glam by Manicare Ready Pre Glued Cluster Lash Luxe Lizzie 22448",
+          "price_text": "$23.99",
+          "price": 23.99,
+          "rating": 3.4,
+          "reviews": 13,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=pre glued lash clusters&prds=productid:8585027872149463586,headlineOfferDocid:8585027872149463586,imageDocid:14883821149478057459,rds:PC_2805210615029908159|PROD_PC_2805210615029908159,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAVDCZyfQXPVuKPf-zT1rtgxMmTLizd6JUOYFmwIO-FT34iA7eF3mpcrSkjdOZgVRow1HNsi_Q6qWZYtZej5Mz9yjxCYWS"
+        }
+      ],
+      "thin_market": false
+    }
+  ]
+}

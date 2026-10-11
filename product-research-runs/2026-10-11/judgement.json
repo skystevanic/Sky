@@ -1,0 +1,123 @@
+{
+ "run": {
+  "title": "Product Research",
+  "date": "2026-10-11",
+  "prepared_for": "Sky",
+  "countries": [
+   "au",
+   "us",
+   "uk",
+   "ca",
+   "de",
+   "nz"
+  ],
+  "assumptions": [
+   "Product costs are estimates: no supplier price was read for this kit",
+   "Ad counts only include ads that use the exact words \"pre-glued lashes\", and counting stopped at 250 ads, so real numbers are higher",
+   "Green on a map means we found nobody else selling this exact kit there, not that nobody does",
+   "Lash adhesive is a cosmetic used near the eye: selling in the EU or UK needs a safety assessment and product registration"
+  ]
+ },
+ "headline": "Demand for pre-glued lash clusters is nearly doubling, but you would be fighting an established brand, 28+ advertisers and cheap Ardell, KISS and GLAM kits in every big chain. Nobody copies Lola's exact kit, yet the category is full.",
+ "products": [
+  {
+   "slug": "lola-kit",
+   "name": "Pre-Glued Lash Starter Kit (Lola's Lashes)",
+   "brand": "Lola's Lashes",
+   "url": "https://lolaslashes.co.uk/products/pre-glued-starter-kit-1",
+   "category": "DIY lash extensions (pre-glued clusters)",
+   "price": "£33 (€44 in the EU)",
+   "ad_days": "Oldest live ad 2026-02-16",
+   "store_platform": "Shopify",
+   "store_launched": "2019-06",
+   "store_products": "250 products, all lashes and lash care",
+   "one_liner": "Nobody else sells this exact kit, so the map is green. But the category is full: big brands in every chain, 28+ advertisers and Amazon kits with thousands of reviews.",
+   "verdict": "Avoid",
+   "overall": 54,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 9,
+    "margin": 7,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "why": [
+    "Ardell, KISS imPRESS and GLAM pre-glued clusters sit in Target, Walmart, Kmart, Priceline and Chemist Warehouse from about US$12",
+    "At least 28 brands advertise \"pre-glued lashes\"; Lola's alone runs 147 of 250 ads and has advertised since February",
+    "Amazon is heavy: 10,550+ bought last month in the US, and the top listing in Canada has 25,100 reviews"
+   ],
+   "risk": "You would need your own lash brand, safety paperwork and creative good enough to beat established beauty brands on cost per sale.",
+   "next": [
+    "Skip this as a product test. If beauty appeals, look for a lash-care add-on (remover, storage, aftercare) with fewer advertisers"
+   ],
+   "best_region": "None. The map is green only because no one copies Lola's design; rival pre-glued kits are in big chains in all six countries.",
+   "snapshot": {
+    "icp": "Women 18-40 who want salon-style lash extensions without salon cost or infill appointments",
+    "job": "Fuller lashes at home that last several days",
+    "cogs": "Roughly £3-6 landed for a generic pre-glued kit (estimate, not checked)",
+    "margin": "About 80-90% at £33 (estimate)",
+    "claims": "5-10 day hold, waterproof, patented stick-and-clamp applicator, vegan; Beauty Awards 2025 shortlist",
+    "demoable": "Yes: before and after, three-step application on camera"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "flag",
+     "why": "No chain sells a copy of this exact kit, but Superdrug and Boots stock Lola's own kit, and every chain sells rival pre-glued clusters"
+    },
+    {
+     "name": "Copies gate",
+     "result": "pass",
+     "why": "No other seller copies this exact design. The rival kits look clearly different, so this gate passes, but the category is full"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded, not a swarm: 12 of 28 brands are new in the last two months, and the biggest shops are all over a year old"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A cosmetic with adhesive used near the eye: needs EU/UK cosmetic safety assessment and registration before selling"
+    }
+   ],
+   "angles": [
+    "Lashes for glasses wearers: lengths that don't touch the lenses",
+    "Gym and swim lashes: sweat-proof for workouts",
+    "Mature eyes: soft, light clusters for sparse lashes over 45",
+    "Bride and bridesmaid kit: one box for the whole party",
+    "TAKEN: \"No more infills\" salon-cost saving (Lola's main message)"
+   ],
+   "compare": {
+    "brand_photo": "img_3.jpg",
+    "match_number": 0,
+    "match_name": "Lola's Lashes kit on Amazon UK (£20)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "Every exact match was Lola's own kit, sold by the brand or its stockists, including Lola's on Amazon UK at £20. No other seller makes this design."
+   },
+   "advertiser_takeaway": "Lola's Lashes leads: 147 of the first 250 ads are theirs, running since February. Behind them are established names (Unicorn Cosmetics, Tatti Lashes, imPRESS) with shops over a year old. It works, but it is a fight between real brands, not an open gap.",
+   "category_notes": {
+    "au": "The chain listings are rival brands (Ardell, GLAM by Manicare), not this kit.",
+    "us": "Target and Walmart sell rival brands (Ardell, KISS imPRESS), not this kit.",
+    "uk": "Superdrug and Boots sell Lola's own kit and rival brands.",
+    "ca": "Walmart and Shoppers Drug Mart sell rival brands (Ardell, QUO, KISS), not this kit.",
+    "de": "Douglas and Boozyshop sell rival kits; Boozyshop also sells Lola's own kit.",
+    "nz": "Chemist Warehouse sells GLAM by Manicare clusters, not this kit."
+   },
+   "tile_notes": {
+    "Same": {
+     "head": "Only the brand itself",
+     "detail": "Every exact match is Lola's own kit, sold by the brand or its stockists (Superdrug, Boozyshop, Amazon). Rival kits look different but are everywhere.",
+     "colour": "green"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "slug": "lola-kit",
+ "phrase": "pre-glued lashes",
+ "checked": "2026-10-11",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22pre-glued%20lashes%22",
+ "ads_loaded": 250,
+ "capped": true,
+ "stopped_by": "stopped at 250 ads (there are more)",
+ "n_advertisers": 28,
+ "advertisers_with_3_plus_ads": 11,
+ "biggest_advertiser_share": 0.59,
+ "brands_new_in_last_2_months": 12,
+ "brands_advertising_3_plus_months": 8,
+ "ads_started_last_2_months": 36,
+ "ads_older_than_6_months": 113,
+ "pattern": "crowded",
+ "plain": "At least 28 brands advertise it; 8 have kept ads running 3+ months, 12 are new in the last two months. We stopped counting at 250 ads, so the real numbers are higher. Of the 10 biggest shops we could date, 10 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2025-04": 1,
+  "2025-06": 1,
+  "2025-10": 2,
+  "2026-01": 1,
+  "2026-02": 46,
+  "2026-03": 24,
+  "2026-04": 38,
+  "2026-05": 22,
+  "2026-06": 10,
+  "2026-07": 34,
+  "2026-08": 35,
+  "2026-09": 30,
+  "2026-10": 6
+ },
+ "brand_months": {
+  "2025-04": 1,
+  "2025-10": 2,
+  "2026-02": 1,
+  "2026-05": 2,
+  "2026-06": 1,
+  "2026-07": 7,
+  "2026-08": 6,
+  "2026-09": 8
+ },
+ "top_advertisers": [
+  {
+   "name": "Lola's Lashes",
+   "pages": 3,
+   "page_names": [
+    "Lola's Lashes",
+    "lydiakateeloise",
+    "Makeup By Nichola"
+   ],
+   "ads": 147,
+   "oldest_live_ad": "2026-02-16",
+   "page_likes": 84505,
+   "headline": "Lashes That Last 5–10 Days. No Salon Needed 💖",
+   "shop": "lolaslashes.co.uk",
+   "product_page": "https://lolaslashes.co.uk/collections/pre-glued-lashes",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=315919509100699",
+   "shop_open_since": "2019-06-06"
+  },
+  {
+   "name": "Unicorn Cosmetics",
+   "pages": 1,
+   "page_names": [
+    "Unicorn Cosmetics"
+   ],
+   "ads": 34,
+   "oldest_live_ad": "2025-10-23",
+   "page_likes": 347247,
+   "headline": "5-minute lashes that last 10 days.💜",
+   "shop": "unicorncosmetics.com",
+   "product_page": "https://unicorncosmetics.com/collections/super-pre-glued-party-lashes",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1456997541210322",
+   "shop_open_since": "2016-07-29"
+  },
+  {
+   "name": "Tatti Lashes",
+   "pages": 1,
+   "page_names": [
+    "Tatti Lashes"
+   ],
+   "ads": 18,
+   "oldest_live_ad": "2026-07-15",
+   "page_likes": 136776,
+   "headline": "{{product.name}}",
+   "shop": "tattilashes.com",
+   "product_page": "https://tattilashes.com/collections/olivia-atwood-x-tatti-lashes",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1352094618207344",
+   "shop_open_since": "2017-03-29"
+  },
+  {
+   "name": "Cuurld Lash Co.",
+   "pages": 1,
+   "page_names": [
+    "Cuurld Lash Co."
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2025-04-24",
+   "page_likes": 714,
+   "headline": "From the Cuurld community ✧\n\nA little glimpse into ❄️Linda❄️ ’s active lifestyle and the l",
+   "shop": "cuurldlash.co",
+   "product_page": "http://cuurldlash.co/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=250012831530795",
+   "shop_open_since": "2024-03-10"
+  },
+  {
+   "name": "imPRESS Lashes",
+   "pages": 1,
+   "page_names": [
+    "imPRESS Lashes"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": 579478,
+   "headline": "Press on and keep going",
+   "shop": "walmart.ca",
+   "product_page": "https://www.walmart.ca/en/search",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=117779774926545",
+   "shop_open_since": null
+  },
+  {
+   "name": "LIT Lashes UAE",
+   "pages": 1,
+   "page_names": [
+    "LIT Lashes UAE"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-07-16",
+   "page_likes": 95,
+   "headline": "{{product.name}}",
+   "shop": "lit-lashes.com",
+   "product_page": "https://lit-lashes.com/products/whimsy-wink-mixed-lenght-pre-glued",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=916612374857949",
+   "shop_open_since": "2025-09-24"
+  },
+  {
+   "name": "imPRESS Lashes",
+   "pages": 1,
+   "page_names": [
+    "imPRESS Lashes"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": 579478,
+   "headline": "Press on and keep going",
+   "shop": "jeancoutu.com",
+   "product_page": "https://www.jeancoutu.com/en/shop/search",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=117779774926545",
+   "shop_open_since": null
+  },
+  {
+   "name": "House of Amor",
+   "pages": 1,
+   "page_names": [
+    "House of Amor"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-08-26",
+   "page_likes": 26364,
+   "headline": "Buy 3 Get Your 4th FREE!",
+   "shop": "houseofamor.co.uk",
+   "product_page": "https://www.houseofamor.co.uk/pages/lazy-girl-pre-glued-diy-eyelashes",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1919069131654505",
+   "shop_open_since": "2021-08-19"
+  },
+  {
+   "name": "Dark Swan of Denmark",
+   "pages": 1,
+   "page_names": [
+    "Dark Swan of Denmark"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-05-24",
+   "page_likes": 2979,
+   "headline": "{{product.name}}",
+   "shop": "darkswanofdenmark.com",
+   "product_page": "https://darkswanofdenmark.com/collections/self-adhesive-lashes/products/flora-self-adhesive",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=579829575466178",
+   "shop_open_since": "2015-01-09"
+  },
+  {
+   "name": "Girl Got Lashes",
+   "pages": 1,
+   "page_names": [
+    "Girl Got Lashes"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-02",
+   "page_likes": 6010,
+   "headline": "Bis zu 7 Tagen Halt!",
+   "shop": "girlgotlashes.de",
+   "product_page": "https://www.girlgotlashes.de/pages/campaign-2026",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101309582134791",
+   "shop_open_since": "2021-06-22"
+  },
+  {
+   "name": "Cliquelab",
+   "pages": 1,
+   "page_names": [
+    "Cliquelab"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-08-21",
+   "page_likes": 5667,
+   "headline": "Introducing: Clique-On",
+   "shop": "cliquelab.com",
+   "product_page": "https://cliquelab.com/pages/clique-on",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100773488792713",
+   "shop_open_since": "2020-12-30"
+  },
+  {
+   "name": "Navo Lashes",
+   "pages": 1,
+   "page_names": [
+    "Navo Lashes"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2025-10-29",
+   "page_likes": 392,
+   "headline": "The perfect daily-wear lash didn’t exist, so I made it — no messy glue, clean, reusable 10",
+   "shop": "navolashes.com",
+   "product_page": "https://navolashes.com/discount/HELLO10",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=435825872944312",
+   "shop_open_since": "2024-07-31"
+  },
+  {
+   "name": "Infinaluxe",
+   "pages": 1,
+   "page_names": [
+    "Infinaluxe"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 12824,
+   "headline": "10 Day Lashes in 2 Minutes 💅",
+   "shop": "infinaluxe.com.au",
+   "product_page": "https://infinaluxe.com.au/collections/lashes",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108908838261938",
+   "shop_open_since": null
+  },
+  {
+   "name": "ILashuk.co.uk",
+   "pages": 1,
+   "page_names": [
+    "ILashuk.co.uk"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-26",
+   "page_likes": 1935,
+   "headline": "I created these lashes for women like you 💛",
+   "shop": "ilashuk.co.uk",
+   "product_page": "https://www.ilashuk.co.uk/products/pre-glued-half-full-lash-no-10",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=152241476624475",
+   "shop_open_since": null
+  },
+  {
+   "name": "Salon Perfect Beauty",
+   "pages": 1,
+   "page_names": [
+    "Salon Perfect Beauty"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-10",
+   "page_likes": 25579,
+   "headline": "80 PRE-GLUED LASHES FOR $13.48?! ⭐️ Unbeatable value, zero glue, zero mess. 💅✨\n \nSwiping t",
+   "shop": "walmart.com",
+   "product_page": "https://www.walmart.com/brand/salonperfect/lash/20008491",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=311838481394",
+   "shop_open_since": null
+  },
+  {
+   "name": "Be SNOB",
+   "pages": 1,
+   "page_names": [
+    "Be SNOB"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-05",
+   "page_likes": 9546,
+   "headline": "No Glue. Just Lashes.",
+   "shop": "besnobonline.com",
+   "product_page": "https://besnobonline.com/el/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=824558350932092",
+   "shop_open_since": null
+  },
+  {
+   "name": "Hey Chook",
+   "pages": 1,
+   "page_names": [
+    "Hey Chook"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-29",
+   "page_likes": 236,
+   "headline": "Apply in seconds. Wear for days.",
+   "shop": "heychookcosmetics.com",
+   "product_page": "https://heychookcosmetics.com/products/burleigh",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=862224163633408",
+   "shop_open_since": null
+  },
+  {
+   "name": "Kallos Vanity Cosmetics",
+   "pages": 1,
+   "page_names": [
+    "Kallos Vanity Cosmetics"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-04",
+   "page_likes": 870,
+   "headline": "Our Pre-Glued lashes bring a gentler twist to your lash routine — swapping the usual full ",
+   "shop": "kallosvanity.com",
+   "product_page": "https://kallosvanity.com/collections/false-eyelashes",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=744573409217470",
+   "shop_open_since": null
+  },
+  {
+   "name": "Saisons",
+   "pages": 1,
+   "page_names": [
+    "Saisons"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-29",
+   "page_likes": 19416,
+   "headline": "{{product.name}}",
+   "shop": "saisonsbeauty.com",
+   "product_page": "https://saisonsbeauty.com/products/the-fast-lash-premium-pre-glued-lash-strips",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=984392381424210",
+   "shop_open_since": null
+  },
+  {
+   "name": "Edy.London",
+   "pages": 1,
+   "page_names": [
+    "Edy.London"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-19",
+   "page_likes": 328,
+   "headline": "NEW TUTORIAL IS LIVE!\nI designed my Pre-Glued Lashes especially for those of you who can’t",
+   "shop": "edylondonbeauty.com",
+   "product_page": "https://edylondonbeauty.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=657778197717073",
+   "shop_open_since": null
+  },
+  {
+   "name": "KYRO Beauty ",
+   "pages": 1,
+   "page_names": [
+    "KYRO Beauty "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-02",
+   "page_likes": 2899,
+   "headline": "Glamour die wél in je budget past ✨",
+   "shop": "kyrobeauty.com",
+   "product_page": "https://kyrobeauty.com/collections/press-on-lashes",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=422339614285712",
+   "shop_open_since": null
+  },
+  {
+   "name": "Bonded Lashes",
+   "pages": 1,
+   "page_names": [
+    "Bonded Lashes"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-12",
+   "page_likes": 1195,
+   "headline": "No more strip lash struggles",
+   "shop": "bondedlashes.com",
+   "product_page": "http://www.bondedlashes.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=334566193064656",
+   "shop_open_since": null
+  },
+  {
+   "name": "Lola's Lashes",
+   "pages": 1,
+   "page_names": [
+    "Lola's Lashes"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-23",
+   "page_likes": 84505,
+   "headline": "5-10 Day Wear Pre-Glued Lashes",
+   "shop": "fb.com",
+   "product_page": "https://fb.com/canvas_doc/1085121250681604",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=315919509100699",
+   "shop_open_since": null
+  },
+  {
+   "name": "DUFFBEAUTY",
+   "pages": 1,
+   "page_names": [
+    "DUFFBEAUTY"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-17",
+   "page_likes": 67,
+   "headline": "my favvv lashes to use are pre glued lashes, they’re an actual life saver. No glue, mess o",
+   "shop": "duffbeauty.dk",
+   "product_page": "https://duffbeauty.dk/collections/easy-lash-collection",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1642881142629504",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ailana Beauty",
+   "pages": 1,
+   "page_names": [
+    "Ailana Beauty"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-31",
+   "page_likes": 2892,
+   "headline": "Australia's #1 Pre-Glued Lashes 🏆",
+   "shop": "ailanabeauty.com",
+   "product_page": "https://ailanabeauty.com/products/pre-glued-lash-extensions",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102345168634763",
+   "shop_open_since": null
+  },
+  {
+   "name": "Lash Buddy",
+   "pages": 1,
+   "page_names": [
+    "Lash Buddy"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-12",
+   "page_likes": 6556,
+   "headline": "7+ Days. ZERO Damage.",
+   "shop": "shoplashbuddy.com",
+   "product_page": "https://shoplashbuddy.com/pages/7r-lp1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108583615515560",
+   "shop_open_since": null
+  },
+  {
+   "name": "Jetzi Reserve",
+   "pages": 1,
+   "page_names": [
+    "Jetzi Reserve"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-21",
+   "page_likes": 695,
+   "headline": "Lash Extensions. Minus the Appointment.",
+   "shop": "jetziness.com",
+   "product_page": "http://www.jetziness.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=483663438161851",
+   "shop_open_since": null
+  },
+  {
+   "name": "DUFFBEAUTY",
+   "pages": 1,
+   "page_names": [
+    "DUFFBEAUTY"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-17",
+   "page_likes": 67,
+   "headline": "my favvv lashes to use are pre glued lashes, they’re an actual life saver. No glue, mess o",
+   "shop": "duffbeauty.no",
+   "product_page": "https://duffbeauty.no/collections/easy-lash-collection",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1642881142629504",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "lolaslashes.co.uk": 147,
+  "unicorncosmetics.com": 34,
+  "tattilashes.com": 18,
+  "cuurldlash.co": 9,
+  "walmart.ca": 5,
+  "lit-lashes.com": 3,
+  "jeancoutu.com": 3,
+  "houseofamor.co.uk": 3,
+  "darkswanofdenmark.com": 3,
+  "girlgotlashes.de": 3,
+  "cliquelab.com": 3,
+  "navolashes.com": 2,
+  "infinaluxe.com.au": 2,
+  "ilashuk.co.uk": 1,
+  "walmart.com": 1,
+  "besnobonline.com": 1,
+  "heychookcosmetics.com": 1,
+  "kallosvanity.com": 1,
+  "saisonsbeauty.com": 1,
+  "edylondonbeauty.com": 1,
+  "kyrobeauty.com": 1,
+  "bondedlashes.com": 1,
+  "fb.com": 1,
+  "duffbeauty.dk": 1,
+  "ailanabeauty.com": 1
+ },
+ "cost_usd": 1.45,
+ "shops_checked": 10,
+ "shops_over_a_year_old": 10,
+ "shops_under_4_months_old": 0
+}
