@@ -1,0 +1,67 @@
+{
+ "slug": "swingpro",
+ "phrase": "tennis swing trainer",
+ "checked": "2026-10-11",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22tennis%20swing%20trainer%22",
+ "ads_loaded": 14,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 2,
+ "advertisers_with_3_plus_ads": 2,
+ "biggest_advertiser_share": 0.64,
+ "brands_new_in_last_2_months": 2,
+ "brands_advertising_3_plus_months": 0,
+ "ads_started_last_2_months": 14,
+ "ads_older_than_6_months": 0,
+ "pattern": "one brand owns it",
+ "plain": "2 brands, but shifaaaa.com runs 9 of the 14 ads.",
+ "months": {
+  "2026-09": 2,
+  "2026-10": 12
+ },
+ "brand_months": {
+  "2026-09": 1,
+  "2026-10": 1
+ },
+ "top_advertisers": [
+  {
+   "name": "The Daily Insider",
+   "pages": 1,
+   "page_names": [
+    "The Daily Insider"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 7,
+   "headline": "Still Guessing at Your Forehand?",
+   "shop": "shifaaaa.com",
+   "product_page": "https://shifaaaa.com/products/shifa-swing-trainer",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1422586927586088",
+   "shop_open_since": "2026-09-19"
+  },
+  {
+   "name": "Swng",
+   "pages": 1,
+   "page_names": [
+    "Swng"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-09-17",
+   "page_likes": 139,
+   "headline": "Eliminate Tennis Frustration 🎾",
+   "shop": "swnglab.com",
+   "product_page": "https://swnglab.com/products/swingpro™",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=794269240436692",
+   "shop_open_since": "2025-09-13"
+  }
+ ],
+ "domains": {
+  "shifaaaa.com": 9,
+  "swnglab.com": 5
+ },
+ "cost_usd": 0.08,
+ "shops_checked": 2,
+ "shops_over_a_year_old": 1,
+ "shops_under_4_months_old": 1
+}

@@ -1,0 +1,843 @@
+{
+ "slug": "swingpro",
+ "image_url": "https://cdn.shopify.com/s/files/1/0954/2978/7959/files/IMG-01__V2.jpg?v=1790972012",
+ "brand_domain": "swnglab.com",
+ "matches_per_country": {
+  "au": 60,
+  "us": 60,
+  "uk": 0,
+  "ca": 60,
+  "de": 0,
+  "nz": 58
+ },
+ "candidates": [
+  {
+   "source": "Amazon",
+   "title": "Seticek Retractable Golf Swing Trainer,Golf Grip Trainer ...",
+   "link": "https://www.amazon.com.au/Seticek-Retractable-Trainer-Right-Handed-Golfers/dp/B0H3ZBXT2M",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWjQJCa-tJEb1p5sqzGi44MPtaKzL1N_YoJF_jh5s4w7kgNt3_",
+   "price_text": "A$58*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$58*"
+    }
+   },
+   "priced": true,
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_00.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Improve Swing Speed With Golf Swing Training Stick | BIG W",
+   "link": "https://www.bigw.com.au/product/improve-swing-speed-with-golf-swing-training-stick/p/9901531259",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgCcAIsx2dGwhBn_3r7d_PrF1zhAD3YiBae761x5cOTnlA7jRj",
+   "price_text": "A$177*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$177*"
+    }
+   },
+   "priced": true,
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_01.jpg"
+  },
+  {
+   "source": "Etsy",
+   "title": "Perfect Plane by Full Swing Golf Performance - Etsy",
+   "link": "https://www.etsy.com/listing/4421853787/perfect-plane-by-full-swing-golf",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTBk_RLeB1yJ-LyPj7hmHKLI9FJComt9Zs4LCodCP0EjCvvHSc",
+   "price_text": "$70*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$70*"
+    }
+   },
+   "priced": true,
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_02.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Swingrite Golf Swing Trainer - Mens - RH Training Grip ...",
+   "link": "https://www.ebay.com/itm/404179697073",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg4VfEPnYmmojV0OZG1yYXRwartgR8I7lh-PaMgBdx6715M-eW",
+   "price_text": "$160*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$160*"
+    }
+   },
+   "priced": true,
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_03.jpg"
+  },
+  {
+   "source": "Farmers",
+   "title": "Simply Essential Wooden Bath Brush - Bath & Shower Care",
+   "link": "https://www.farmers.co.nz/beauty/bath-body-care/bath-shower-care/simply-essential-wooden-bath-brush-6416084",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAM4VIvxCx0JiSjgraQRwiSTKb8_zKTxtQaixSBSrcED0ZWfgV",
+   "price_text": "NZ$19*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$19*"
+    }
+   },
+   "priced": true,
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_04.jpg"
+  },
+  {
+   "source": "Kmart",
+   "title": "10 Piece Ultimate BBQ Tool Set - Kmart NZ",
+   "link": "https://www.kmart.co.nz/product/10-piece-ultimate-bbq-tool-set-43756902/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVShms4-DzHYS6B_JFYMfwniObCG7wtyNVcSXjpH89ixCQAql",
+   "price_text": "NZ$29*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$29*"
+    }
+   },
+   "priced": true,
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_05.jpg"
+  },
+  {
+   "source": "HOWTRUE",
+   "title": "Golf Swing Trainer Aid with Click Feedback – HOWTRUE",
+   "link": "https://www.howtruesports.com/products/golf-swing-trainer-aid-with-click-feedback",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeOxIKu8NUXoBzzhd8GQDDU0w6dnu_kXJefrwDWhOnEPtE2lTx",
+   "price_text": "$16*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$16*"
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_06.jpg"
+  },
+  {
+   "source": "Drummond Golf",
+   "title": "Rypstick Swing Speed Trainer - 45\" – Drummond Golf",
+   "link": "https://drummondgolf.com.au/products/rypstick-swing-speed-trainer-45",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6G7ncze_Y1WhFT5iAWccGk12kQVj51vmGo38hhjmbsweC1Ghd",
+   "price_text": "A$319*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$319*"
+    }
+   },
+   "priced": true,
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_07.jpg"
+  },
+  {
+   "source": "Golf World",
+   "title": "SKLZ Tempo and Grip Trainer",
+   "link": "https://www.golfworld.com.au/sklz-tempo-and-grip-trainer",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYGa80DFTJZ-CSRdIoe70NWS5_s17IULEU2SxZ6mFa262FjmhW",
+   "price_text": "A$47*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$47*"
+    }
+   },
+   "priced": true,
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_08.jpg"
+  },
+  {
+   "source": "Golf Performance Store",
+   "title": "PGA Tour Weighted Swing Grip Trainer | Training & Practice ...",
+   "link": "https://golfperformancestore.com.au/products/pga-tour-weighted-swing-grip-training-club",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStlNrit0xigirRkNN-G8JjRwnNmXE-1-xte0xUCMpkL7qamlHb",
+   "price_text": "A$60*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$60*"
+    }
+   },
+   "priced": true,
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_09.jpg"
+  },
+  {
+   "source": "Leap sports",
+   "title": "Golf swing Trainer Stick Golf Corrector Training Aids golf ...",
+   "link": "https://leapsports.com.au/products/pgm-golf-swing-trainer-beginners",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaWOTk399MleRsOoIGGBD1nQze3Ed5mc86GowXkZzj3RY1Bcpg",
+   "price_text": "A$45*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$45*"
+    }
+   },
+   "priced": true,
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_10.jpg"
+  },
+  {
+   "source": "Stryper Golf",
+   "title": "Stryper Plus Golf Training System | StanceMate + SwingMate ...",
+   "link": "https://www.strypergolf.com.au/products/stryper-plus-golf-swing-training-system",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa5-dkZzQljkM2LUIwFlADZw4OCtINaTCiZtcB4-IkVvxLl3Ev",
+   "price_text": "A$268*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$268*"
+    }
+   },
+   "priced": true,
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_11.jpg"
+  },
+  {
+   "source": "GolfBox",
+   "title": "Rypstick Speed Trainer | GolfBox",
+   "link": "https://golfbox.com.au/rypstick-speed-trainer/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4QbmWYxlKLuKQ5FVaibHUebW_ynsrEamzP1HQzMejbyfqAXBn",
+   "price_text": "A$256*",
+   "seen_in": {
+    "au": {
+     "kind": "not a shop",
+     "price_text": "A$256*"
+    }
+   },
+   "priced": true,
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_12.jpg"
+  },
+  {
+   "source": "GoSupps.com",
+   "title": "HH-GOLF Golf Swing Speed Trainer 3 Weights | GoSupps.com",
+   "link": "https://www.gosupps.com/hh-golf-golf-swing-speed-trainer-golf-training-aid-and-correction-for-strength-golf-warm-up-stick-tempo-flexibility-training-club-with-3-different-weights.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwitioau3kqSsZhPX0O3kmpUdi0rkUe3dLWw5RtXRGUfLV8Jly",
+   "price_text": "$75*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$75*"
+    }
+   },
+   "priced": true,
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_13.jpg"
+  },
+  {
+   "source": "SportsX",
+   "title": "Golf Swing Trainer, Golf Swing Practice Stick, Golf Warm Up ...",
+   "link": "https://sportsx.ca/products/golf-swing-trainer-golf-swing-practice-stick-golf-warm-up-trainer-golf-practice-training-aid-accessories",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4jVQZ1P1RjkZXQ0RTKY6qxFyIVR_-TilKfEL9irE0Zx6_nv4",
+   "price_text": "CA$35*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_14.jpg"
+  },
+  {
+   "source": "VEVOR Canada",
+   "title": "VEVOR Telescoping Magnetic Sweeper Pickup Tool, 3.5inch ...",
+   "link": "https://www.vevor.ca/magnetic-sweeper-c_11032/vevor-telescoping-magnetic-sweeper-pickup-tool-3-5inch-handheld-screws-parts-finder-with-35lb-pull-capacity-retractable-handle-8-3-to-33-inches-with-strong-magnet-pick-up-nails-screws-metal-parts-p_010283548039",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROuaoqy-_h4kRaVoOiRhAFOUMlIDWQ8l5XDTDnFYXPR7zUusdN",
+   "price_text": "CA$26*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$26*"
+    }
+   },
+   "priced": true,
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_15.jpg"
+  },
+  {
+   "source": "Thin Lizzy NZ",
+   "title": "Pure Perfection Body Brush (Rechargeable) – Thin Lizzy NZ",
+   "link": "https://thinlizzy.co.nz/products/pure-perfection-body-brush",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgKttbyeiHM0zC31ABvm3L1qJSASYd7LytPA7S1h0QDzmIS63O",
+   "price_text": "NZ$120*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$120*"
+    }
+   },
+   "priced": true,
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_16.jpg"
+  },
+  {
+   "source": "Bed Bath & Beyond",
+   "title": "The Bath Shop Wooden Back Brush – Bed Bath & Beyond NZ",
+   "link": "https://www.bedbathandbeyond.co.nz/products/ba5088-the-bath-shop-wooden-back-brush",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScyyNaUThPnDN88SJEjOJdxhbpPbt_SYrQgDLqW0EKRkysUUUN",
+   "price_text": "NZ$12*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$12*"
+    }
+   },
+   "priced": true,
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_17.jpg"
+  },
+  {
+   "source": "Sable Boutique",
+   "title": "Dry Body Brush NZ | Stass and Co Sisal Brush | Sable Boutique",
+   "link": "https://sable.co.nz/products/the-body-brush",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrQBZz5AVwyIIhRXx-fAWkBNtTy6zUHlmCx8AqAvsF_uNau_SA",
+   "price_text": "NZ$70*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$70*"
+    }
+   },
+   "priced": true,
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_18.jpg"
+  },
+  {
+   "source": "Simon James",
+   "title": "Ionic Dry Body Brush | Simon James",
+   "link": "https://simonjames.co.nz/products/ionic-dry-body-brush",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyRXHSIlZoVz7UBitn6NcC6wykbED0pFNxtyPlYPJTTdeE9Ynf",
+   "price_text": "NZ$70*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$70*"
+    }
+   },
+   "priced": true,
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_19.jpg"
+  },
+  {
+   "source": "Bestow Beauty",
+   "title": "Bestow Body Brush | Shop Bestow NZ Wide | Bestow Beauty Store NZ",
+   "link": "https://www.bestowbeauty.com/products/bestow-body-brush",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5FS1Kmc58AiIAZF9ZlBZhJyoBKdxjEf6QvODzcv3fNOQVh3bQ",
+   "price_text": "NZ$20*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$20*"
+    }
+   },
+   "priced": true,
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_20.jpg"
+  },
+  {
+   "source": "Cosmetologists NZ",
+   "title": "180/240 Grit (Double-sided) Nail Files - 10 Pack ...",
+   "link": "https://cosmetologists.co.nz/products/180-240-grit-files-10-pack",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_NDPYgD_JPkyj1mZw3kzJM8lY6jKWcU0_MOQlQqek2jknGNlb",
+   "price_text": "NZ$15*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$15*"
+    }
+   },
+   "priced": true,
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_21.jpg"
+  },
+  {
+   "source": "Superette",
+   "title": "Everyday Dry Body Brush - Black Wood – Superette",
+   "link": "https://superette.co.nz/products/superette-everyday-dry-body-brush-black-wood-supa220162",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUmv464uG4a1TZyCUViEWMPYVd3tl94jSIaYWy5hVSQOlKPBsV",
+   "price_text": "NZ$35*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$35*"
+    }
+   },
+   "priced": true,
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_22.jpg"
+  },
+  {
+   "source": "Simply Clean NZ",
+   "title": "Bath & Shower Brush",
+   "link": "https://simplyclean.co.nz/products/bath-and-shower-brush",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1bwOL_FIUWHO3liFJwXzclACm51vMaml4v3OS0QoBtC69uHrj",
+   "price_text": "NZ$8*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$8*"
+    }
+   },
+   "priced": true,
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_23.jpg"
+  },
+  {
+   "source": "The Facialist",
+   "title": "Ionic Dry Body Brush – The Facialist",
+   "link": "https://thefacialist.co.nz/products/tronque-ionic-dry-body-brush",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWMiVEKg-jcokFfagd5aZ14uld4uPHxoKgIJMco0QBPcuCu5no",
+   "price_text": "NZ$70*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$70*"
+    }
+   },
+   "priced": true,
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_24.jpg"
+  },
+  {
+   "source": "Walmart.ca",
+   "title": "Lipstore Badminton Racket Swing Badminton Swing Training Aid ...",
+   "link": "https://www.walmart.ca/en/ip/Lipstore-Badminton-Racket-Swing-Badminton-Swing-Training-Aid-Exercise-Posture-Adjustment-Practice-Auxiliary-Tool-Training-Tool-White-Basic/6H0D9YIBY9UU",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLf4TN_95UpCP-dHDtkt-VNeA997V1E6HnCAjyHLGb89EPQa9a",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$23*"
+    }
+   },
+   "priced": false,
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_25.jpg"
+  },
+  {
+   "source": "DHgate",
+   "title": "BadmintonSwingTrainer PowerGenerator... From 6,92 € | DHgate",
+   "link": "https://ie.dhgate.com/product/badmintonswingtrainer-powergenerator-movementcorrectorracket/1114609826.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkezd3hIEpdw6pXnYDmCG5IfoWnrst2ZUKFUCt1gcw8H3L-T-",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_26.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Golf Swing Trainer, Golf Swing Practice Stick ...",
+   "link": "https://www.amazon.com/clp/B0CXMZ75Z5",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhre-kcO6MgaUMjnsR7JuPcFFkcAHYF_Cc5E8IMC3rVLLk8VV",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_27.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Retractable Golf Swing Training Aid For Strength Speed ...",
+   "link": "https://www.bigw.com.au/product/retractable-golf-swing-training-aid-for-strength-speed-practice-warm-up/p/9901475778",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCWoO9_OcT9r6KaCOhFuEy12Y3TCcvd2pfeyAJjB6VctzBAuYE",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_28.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Swing Trainers",
+   "link": "https://www.dicksmith.com.au/da/shop/category/sports-outdoors-travel/golf-training-aids/?grt=ChMxOTIyMTI0MDQ1MTA2NDQ3NDkyEAIaAklWIgNwZHAoADog-vHREo_y0RKM8tESrfLRErTx0RL38dESqfLRErLx0RJCDAj7mcTMBhDM-bjcAw",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAEyNF6zNlCX4POmVFUChU68jp5BJYVR_95P8_0nAPgRCkwCr_",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_29.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Golf Swing Training Aid Telescopic Impact Sound Stick ...",
+   "link": "https://www.bigw.com.au/product/golf-swing-training-aid-telescopic-impact-sound-stick-exercise-tool-for-practice/p/9902014147",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRALDOyWw_p37HIu9dOfH_JK9H9OFRm0vrLpFf6GKRIXpye_dMO",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_30.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: gonsir Retractable Golf Swing Aid for Golf Speed ...",
+   "link": "https://www.amazon.com/clp/B0D8KV7Z1L",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCQSOI2DI-_ooFgw-gSYgXNHMxCgYwxRglSLqKPkfz8i2rd4X6",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_31.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Original SwingRite with Standard Black Grip : Amazon.com.au ...",
+   "link": "https://www.amazon.com.au/SwingRite-Training-Aid/dp/B07K5G4K2C",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgPwtKdL32OXtQiiEvhzlaGiLSC6PlIsT8x_WY_uroD9-wOTGq",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_32.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Golf Swing Training Stick, Adjustable, Improved ...",
+   "link": "https://www.amazon.com/clp/B0DGRL9VT1",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHxpskYk-2s-QbSmQKaBP84Pbk3g44WrPqiDwH23GWpGtzvUI3",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_33.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Retractable Golf Swing Training Aid, Portable ...",
+   "link": "https://www.amazon.com/clp/B0FQPNSR44",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvmC2VA7ufiH-EdxLsvmPvdXzSxIlXHBvgCTi_-aXjzmvU-YSG",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_34.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Golf Swing Trainers in Golf Equipment | Red - Walmart.com",
+   "link": "https://www.walmart.com/browse/sports-outdoors/golf-training-aids/red/4125_4161_4152_5211/Y29sb3I6UmVk",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_ZQqiOiq6pv7wJ-2__FCzbInKPy5_mhti0DAiIP43fxA2ojOF",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_35.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Swing Golf Trainer | eBay",
+   "link": "https://www.ebay.com/shop/swing-golf-trainer?_nkw=swing+golf+trainer",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQufIhmhS0EgakLuAh80DOpRGtANQ0GV27DQ49qRg8fVnM-Rmoe",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_36.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: KeGOLF 3 in 1 Weight Changeable Golf Swing Speed ...",
+   "link": "https://www.amazon.com/clp/B0D735K45P",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSURJSm0WUPWAsnB0yUVZBcE2-m4JqrKpGT5K0vpPO3JHdaF57U",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_37.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Retractable Golf Swing Training Aid,Rhythm Click Sound Warm ...",
+   "link": "https://www.amazon.ca/Retractable-Training-Attachment-Strength-Accessories/dp/B0CX875SC3",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrm0Hq9iY51_Bd1jyZK6jIpiwKNQQtQE_NmsonEHPjP-EkdgtS",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_38.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Retractable Golf Swing Trainer, Portable Golf Grip Trainer ...",
+   "link": "https://www.amazon.ca/Retractable-Portable-Practice-Technique-Beginners/dp/B0FPCYJC9B",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0aQIzbTFUKtuK6Mq611lt_8wLZQGkUSFbKmZb7j8EOx1rXGZC",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_39.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Retractable Golf Swing Trainer with Arm Band - Click Stick ...",
+   "link": "https://www.walmart.ca/en/ip/Retractable-Golf-Swing-Trainer-Arm-Band-Click-Stick-Training-Aid-Right-Handed-Practice-Chipping-Hitting-Portable-Indoor-Outdoor/486G82PTTT69",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHX1QBkdSfwGxr9R61TEwxDh6kDOtYG1G6IMpN0rmkNLGIrd9V",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_40.jpg"
+  },
+  {
+   "source": "Temu",
+   "title": "double finger golden silvery color reading aid stick - Temu ...",
+   "link": "https://www.temu.com/qa/double-finger-golden-and-silvery-color-reading-aid-stick-the-stainless-steel-shaft-is-extendable-easy-to-store-and--slip-handle-provides-a-comfortable-grip-g-606894294958505.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OL-5mZupcnd9k2nOy_HefyeIgFA7ammhRFRtgSyZMk2wqOjc",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_41.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "EIGHTEEN H Proimpactor Golf Swing Trainer New Pro Heoseok ...",
+   "link": "https://www.amazon.ca/EIGHTEEN-Proimpactor-Swing-Trainer-Heoseok/dp/B0FT2NP8L7",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdedLQdt-qwgYPO7YwMHEYcEmaydz_v5HZ42DWFMIlVhqdI_vl",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_42.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Swing trainer (Yellow) - Walmart.com",
+   "link": "https://www.walmart.com/ip/Swing-trainer-Yellow/1821622111",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrBPTbtAEW8AHAb6YYy-oMlRa4A_Xe4qVXTvEohUJNAv4q1fJ",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_43.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "1PC Badminton Auxiliary Trainer Swing Force Generator ...",
+   "link": "https://www.ebay.com/itm/136696178428",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSypZarp_W-lrjORA-txhIhCaWQmV-2iVYXwqjlkw97VfUxMtKz",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_44.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Clip-On Golf Grip Trainer, Golf Swing Training Aid for ...",
+   "link": "https://www.amazon.ca/Trainer-Training-Improving-Proper-Positioning/dp/B0DXFCYMXP",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEUOvmP7FzX3cao-X7DdQQjBuB971ip8znZpsnW4eA3uPuul0Q",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_45.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "SHAQUDA SUVÉ Body brush long semi-hard [BBL2] : Amazon.co.uk ...",
+   "link": "https://www.amazon.co.uk/SHAQUDA-SUVÉ-Body-brush-semi-hard/dp/B01N2T207O",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcuepFjU1prxivD6jIO-ynN3W3OpAPiZpwg2oTNNbdbXDvDleQ",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_46.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "SHAQUDA SUVÉ Body brush long semi-hard [BBL2 ...",
+   "link": "https://www.amazon.co.uk/SHAQUDA-SUVÉ-Body-brush-semi-hard/dp/B01N2T207O",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuly9IdzDnZes8cdjT8fSQVG5kIqzy0N4Xi8r6cBY5jkU8jCW9",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_47.jpg"
+  },
+  {
+   "source": "eBay Australia",
+   "title": "SUVE BBL1 Natural Goat Hair Body Skin Wash Brush Long From ...",
+   "link": "https://www.ebay.com.au/itm/126212384127",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoKk9dsUiOWxIk-cRpE65CibX9X_LbR4cvRSv0tJMW2Bz8N5Sy",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_48.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Swig Espresso Photo Coasters Set Of 4 NEW | eBay",
+   "link": "https://www.ebay.com/itm/364934957429",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY25f4OV-yXrb8XLgTMYZ8lAK189qdleYzG1nO2Hc8EEs0Co9B",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_49.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "Symik Neck Strap Aluminum Bracket For Drone Remote New | eBay UK",
+   "link": "https://www.ebay.co.uk/itm/376072021768",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThn5nDg47VAf8viK0O0jaOsYdpRcKpOL-9tqY22fWy6OOB-3uj",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_50.jpg"
+  }
+ ]
+}

@@ -349,8 +349,9 @@ def decide(a):
                     h["price_text"] = lk["price_text"]
         # the same object in the top word-search results (what a shopper actually sees)
         for v in (visible or {}).get(cc, []):
-            if v.get("price_text") and not money_ok(v["price_text"], cc) and not (cc == "nz" and v.get("where") == "Amazon"):
-                continue                 # (New Zealand is served by Amazon Australia, so its A$ prices do count there)
+            if v.get("price_text") and not money_ok(v["price_text"], cc) and v.get("where") != "Amazon":
+                continue                 # (Amazon rows come from this country's own Amazon search, so a bare "$" there is local money;
+                                         #  New Zealand is served by Amazon Australia, so its A$ prices count there too)
             hits.append({"source": v.get("source"), "title": v.get("title"), "link": v.get("link"), "price_text": v.get("price_text"),
                          "kind": "big chain" if v.get("big_chain") else "marketplace", "thumb_file": v.get("thumb_file"), "found_by_words": True,
                          "where": v.get("where"), "rank": v.get("rank"), "reviews": v.get("reviews"), "bought": v.get("bought")})

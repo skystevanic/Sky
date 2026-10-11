@@ -1,0 +1,35 @@
+{
+ "slug": "swingpro",
+ "brand_price": 89.0,
+ "brand_currency": "usd",
+ "words": "tennis swing trainer",
+ "aliexpress_search": "https://www.aliexpress.com/w/wholesale-tennis-swing-trainer.html",
+ "listings": [
+  {
+   "n": 1,
+   "site": "DHgate",
+   "order_type": "small orders",
+   "title": "BadmintonSwingTrainer PowerGenerator... From 6,92 € | DHgate",
+   "link": "https://ie.dhgate.com/product/badmintonswingtrainer-powergenerator-movementcorrectorracket/1114609826.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_26.jpg",
+   "price_seen_in_search": null,
+   "price": 6.92,
+   "currency": "eur",
+   "shipping": null,
+   "note": "Starting price shown on the listing; shipping not included",
+   "delivered_cost_usd": 8.05
+  }
+ ],
+ "summary": {
+  "found": 1,
+  "priced": 1,
+  "brand_price_usd": 89.0,
+  "status": "priced",
+  "cost_usd": 8.05,
+  "cost_site": "DHgate",
+  "cost_includes_shipping": false,
+  "margin_pct": 91,
+  "room_per_sale_usd": 80.95,
+  "plain": "DHgate sells it for about US$8 before shipping. At the brand's price of about US$89 that leaves about US$81 a sale (91%) to cover ads, payment fees and profit."
+ }
+}

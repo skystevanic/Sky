@@ -1,0 +1,351 @@
+{
+ "slug": "swingpro",
+ "same": [
+  25,
+  26
+ ],
+ "brand_price": 89.0,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "au",
+   "status": "crowded",
+   "why": "amazon.com.au at $56.79: Amazon result 5 for the product words",
+   "prices": {
+    "brand": 133.5,
+    "cheapest_copy": 56.79,
+    "typical_copy": 56.79,
+    "cheapest_real_copy": 56.79,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "amazon.com.au",
+     "title": "Tennis Swing Training Tool Weighted Tennis Serve High-Performance Sports Training Equipmen",
+     "link": "https://www.amazon.com.au/Bffcnl-Training-Weighted-High-Performance-Equipment/dp/B0H5VJZ1RG/",
+     "price_text": "$56.79",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_016.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 5,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 5 for the product words"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "us",
+   "status": "crowded",
+   "why": "amazon.com at $29.99: Amazon result 3 for the product words. 2 other copies",
+   "prices": {
+    "brand": 89.0,
+    "cheapest_copy": 29.99,
+    "typical_copy": 29.99,
+    "cheapest_real_copy": 29.99,
+    "priced_copies": 3
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "amazon.com",
+     "title": "Tennis Power Trainer with Magnetic Resistance, MOOJAY Swing Trainer",
+     "link": "https://www.amazon.com/Tennis-Trainer-Magnetic-Resistance-MOOJAY/dp/B0HJ7BKXNV/",
+     "price_text": "$29.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_008.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 3,
+     "reviews": 31,
+     "bought": "New on Amazon in past month",
+     "strength": "strong",
+     "strength_why": "Amazon result 3 for the product words"
+    },
+    {
+     "source": "amazon.com",
+     "title": "Tennis Swing Trainer Stick - Weighted Audible Practice Stick",
+     "link": "https://www.amazon.com/owfccla-Tennis-Swing-Trainer-Stick/dp/B0HJ754PPM/",
+     "price_text": "$36.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_012.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 4,
+     "reviews": 3,
+     "bought": "50+ bought in past month",
+     "strength": "strong",
+     "strength_why": "Amazon result 4 for the product words"
+    },
+    {
+     "source": "amazon.com",
+     "title": "Tennis Power Trainer with Magnetic Resistance, MOOJAY Swing Trainer",
+     "link": "https://www.amazon.com/Tennis-Trainer-Magnetic-Resistance-MOOJAY/dp/B0HJ787HRK/",
+     "price_text": "$29.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_023.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 7,
+     "reviews": 31,
+     "bought": "New on Amazon in past month",
+     "strength": "strong",
+     "strength_why": "Amazon result 7 for the product words"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "uk",
+   "status": "crowded",
+   "why": "amazon.co.uk at £17.09: Amazon result 2 for the product words",
+   "prices": {
+    "brand": 66.75,
+    "cheapest_copy": 17.09,
+    "typical_copy": 17.09,
+    "cheapest_real_copy": 17.09,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "amazon.co.uk",
+     "title": "Tennis Power Trainer with Magnetic Resistance, Badminton Power Racket Trainer with Sound F",
+     "link": "https://www.amazon.co.uk/Jwthee-Magnetic-Resistance-Badminton-Professional/dp/B0H741W88X/",
+     "price_text": "£17.09",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_006.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 2,
+     "reviews": 1,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 2 for the product words"
+    }
+   ],
+   "picture_matches": 0
+  },
+  {
+   "cc": "ca",
+   "status": "blocked",
+   "why": "The same object is sold by Walmart.ca at CA$23",
+   "prices": {
+    "brand": 121.93,
+    "cheapest_copy": 23.0,
+    "typical_copy": 44.03,
+    "cheapest_real_copy": 23.0,
+    "priced_copies": 3
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Walmart.ca",
+     "title": "Lipstore Badminton Racket Swing Badminton Swing Training Aid ...",
+     "link": "https://www.walmart.ca/en/ip/Lipstore-Badminton-Racket-Swing-Badminton-Swing-Training-Aid-Exercise-Posture-Adjustment-Practice-Auxiliary-Tool-Training-Tool-White-Basic/6H0D9YIBY9UU",
+     "price_text": "CA$23",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro_thumb_25.jpg"
+    },
+    {
+     "source": "amazon.ca",
+     "title": "Tennis Badminton Trainer,Badminton Swing Trainer with Weights for Solo Training",
+     "link": "https://www.amazon.ca/dp/B0DJ73M5PB/",
+     "price_text": "$44.03",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_024.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 7,
+     "reviews": null,
+     "bought": null
+    },
+    {
+     "source": "amazon.ca",
+     "title": "Tennis Swing Trainer Stick - Weighted Audible Practice Stick",
+     "link": "https://www.amazon.com/owfccla-Tennis-Swing-Trainer-Stick/dp/B0HJ754PPM/",
+     "price_text": "$69.29",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_012.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 8,
+     "reviews": null,
+     "bought": null
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "de",
+   "status": "crowded",
+   "why": "amazon.de at €45.99: Amazon result 1 for the product words. 7 other copies",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": 13.47,
+    "typical_copy": 45.99,
+    "cheapest_real_copy": 13.47,
+    "priced_copies": 8
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "amazon.de",
+     "title": "Vemilo Swingo Tennis Swing Trainer",
+     "link": "https://www.amazon.de/dp/B0HKNB9VWK/",
+     "price_text": "€45.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_003.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 1,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 1 for the product words"
+    },
+    {
+     "source": "amazon.de",
+     "title": "Tennis Power Trainer with Magnetic Resistance",
+     "link": "https://www.amazon.de/-/en/SOYUZERISH-Tennis-Trainer-Magnetic-Resistance/dp/B0H9SDPNRY/",
+     "price_text": "€13.47",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_019.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 5,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 5 for the product words"
+    },
+    {
+     "source": "amazon.de",
+     "title": "Tennis Power Trainer with Magnetic Resistance, Badminton Power Racket Trainer with Sound F",
+     "link": "https://www.amazon.co.uk/Jwthee-Magnetic-Resistance-Badminton-Professional/dp/B0H741W88X/",
+     "price_text": "€18.09",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_006.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 6,
+     "reviews": 1,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 6 for the product words"
+    },
+    {
+     "source": "Amazon.de - Amazon.de-Seller",
+     "title": "Kuisoe Vemilo Swingo - Tennis Schwung Trainer | magnetischer Widerstand & Sound‐Feedback f",
+     "link": "https://www.google.com/search?q=%22Kuisoe+Vemilo+Swingo+-+Tennis+Schwung+Trainer+%7C+magnetischer+Widerstand+%26+Sound%E2%80%90Feedback+f%C3%BCr+Tennis+und+Badmin%22+Amazon.de",
+     "price_text": "45,99 €",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_077.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 6,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 6 for the product words"
+    },
+    {
+     "source": "amazon.de",
+     "title": "MEIION Vemilo Swingo Tennis Swing Trainer for Beginners and Professionals",
+     "link": "https://www.amazon.de/-/en/MEIION-Vemilo-Trainer-Beginners-Professionals/dp/B0HGM2YRPD/",
+     "price_text": "€49.90",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_027.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 8,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 8 for the product words"
+    },
+    {
+     "source": "amazon.de",
+     "title": "AXYNO Tennis Swing Trainer - Training Aid for Batting Technique & Control",
+     "link": "https://www.amazon.de/dp/B0HDCDHPXM/",
+     "price_text": "€39.90",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_031.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 9,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 9 for the product words"
+    },
+    {
+     "source": "amazon.de",
+     "title": "Milageto Tennis Swing Trainer Five Level Tennis Swing Trainer",
+     "link": "https://www.amazon.de/-/en/Milageto-Tennis-Swing-Trainer-Level/dp/B0H5VWC562/",
+     "price_text": "€53.29",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_035.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 10,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 10 for the product words"
+    },
+    {
+     "source": "Amazon.de - Amazon.de-Seller",
+     "title": "AXYNO Tennis Schwung Trainer – Trainingshilfe für Schlagtechnik & Kontrolle",
+     "link": "https://www.google.com/search?q=%22AXYNO+Tennis+Schwung+Trainer+%E2%80%93+Trainingshilfe+f%C3%BCr+Schlagtechnik+%26+Kontrolle%22+Amazon.de",
+     "price_text": "59,90 €",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_107.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 11,
+     "reviews": null,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "about the brand's price, few reviews"
+    }
+   ],
+   "picture_matches": 0
+  },
+  {
+   "cc": "nz",
+   "status": "crowded",
+   "why": "amazon.com.au at $56.79: Amazon result 5 for the product words",
+   "prices": {
+    "brand": 149.52,
+    "cheapest_copy": 56.79,
+    "typical_copy": 56.79,
+    "cheapest_real_copy": 56.79,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "amazon.com.au",
+     "title": "Tennis Swing Training Tool Weighted Tennis Serve High-Performance Sports Training Equipmen",
+     "link": "https://www.amazon.com.au/Bffcnl-Training-Weighted-High-Performance-Equipment/dp/B0H5VJZ1RG/",
+     "price_text": "$56.79",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/swingpro_vis_thumb_016.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 5,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 5 for the product words"
+    }
+   ],
+   "picture_matches": 58
+  }
+ ]
+}

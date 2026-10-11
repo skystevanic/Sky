@@ -12,15 +12,1637 @@
    "nz"
   ],
   "assumptions": [
-   "Product costs are estimates: no supplier price was read for this kit",
-   "Ad counts only include ads that use the exact words \"pre-glued lashes\", and counting stopped at 250 ads, so real numbers are higher",
-   "Green on a map means we found nobody else selling this exact kit there, not that nobody does",
+   "Product costs are estimates: supplier prices are starting prices before shipping",
+   "Ad counts only include ads that use the exact product words, so real numbers can be higher",
+   "Green on a map means we found nobody else selling this exact item there, not that nobody does",
    "Lash adhesive is a cosmetic used near the eye: selling in the EU or UK needs a safety assessment and product registration"
   ],
   "mode": "full"
  },
- "headline": "Demand for pre-glued lash clusters is nearly doubling, but you would be fighting an established brand, 28+ advertisers and cheap Ardell, KISS and GLAM kits in every big chain. Nobody copies Lola's exact kit, yet the category is full.",
+ "headline": "Neither product is ready to test. The tennis swing trainer is the closer call: huge margin and only one advertiser, but cheap copies already sit in Amazon's top results everywhere.",
  "products": [
+  {
+   "slug": "swingpro",
+   "name": "Magnetic Tennis Swing Trainer (SwngPro)",
+   "one_liner": "Only one brand advertises it and the margin is huge, but identical copies already sit in Amazon's top results in every country, from about US$30. Worth watching, not testing yet.",
+   "url": "https://swnglab.com/products/swingpro%E2%84%A2",
+   "brand": "Swng",
+   "category": "Tennis training aids",
+   "price": "US$89 (shown as reduced from US$179)",
+   "ad_days": "Oldest live ad 2026-08-28",
+   "store_platform": "Shopify",
+   "store_launched": "2025-09",
+   "store_products": "9 products, all tennis",
+   "snapshot": {
+    "icp": "Recreational tennis players, 25-55, who want to improve without paying for lessons",
+    "job": "Groove a consistent swing at home, with instant feedback",
+    "cogs": "About US$8 before shipping; roughly US$12-15 landed (estimate)",
+    "margin": "About 85-90% at US$89 (estimate)",
+    "claims": "Audible snap when the swing is right; 5 resistance levels (11-33 N); 15-day drill program",
+    "demoable": "Yes: the snap sound on a good swing is made for short video"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Walmart Canada lists the same stick at CA$23 (it may be a marketplace seller). No chain found elsewhere"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Cheaper copies sit in Amazon's top 5 in every country, from £17 in the UK and €13 in Germany"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand runs the ads; only one other page, which also sells SwngPro"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "No health claims needed"
+    }
+   ],
+   "scores": {
+    "saturated": 7,
+    "margin": 9,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 4
+   },
+   "overall": 63,
+   "confidence": "Medium",
+   "best_region": "None yet. Every country has a cheaper copy in Amazon's top results, and Walmart Canada lists one at CA$23.",
+   "angles": [
+    "Padel players: the fastest-growing racket sport in Europe",
+    "Pickleball players in the US",
+    "Junior players: parents buying practice between lessons",
+    "Coaches and clubs: a set for group drills",
+    "TAKEN: \"Win the match without lessons\" (Swng's main message)"
+   ],
+   "tile_notes": {
+    "Advertisers": {
+     "head": "1 brand, 60+ ads",
+     "detail": "Swng runs all 60+ ads that name SwngPro, rising fast since late August. The only other page also sells SwngPro."
+    }
+   },
+   "final": {
+    "verdict": "Backlog",
+    "why": [
+     "Swng runs 60+ ads and is ramping fast (36 started in October), with almost no other advertisers",
+     "A supplier sells it from about US$8, so roughly 90% of the US$89 price is left for ads and profit",
+     "But copies are easy to find: Amazon US result 3 at US$29.99, UK result 2 at £17, Germany result 1 at €45.99"
+    ],
+    "risk": "Swng's ads are only six weeks old, so they are not yet proof it pays, and Amazon copies undercut US$89 by two thirds.",
+    "fastest_test": [
+     "Check again in early December: if Swng's late-August ads are still running, the ads pay",
+     "Then test it for padel or pickleball players, which Swng ignores: 3 short ads, about €20 a day for 5 days"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "The chain listings are other tennis trainers (rebound balls, reflex sticks), not this stick.",
+     "sellers": 10,
+     "cheapest": "A$12",
+     "typical": "A$47",
+     "top": "rebel (222)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "DICK'S sells other tennis trainers, not this stick; the copies are on Amazon.",
+     "sellers": 36,
+     "cheapest": "US$12",
+     "typical": "US$60",
+     "top": "Racketspot.at (771)"
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "Decathlon sells other tennis trainers, not this stick; the copy is on Amazon UK.",
+     "sellers": 28,
+     "cheapest": "£5",
+     "typical": "£29",
+     "top": "eBay - ab486214 (176)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "Walmart.ca sells it at $66.99",
+     "sellers": 8,
+     "cheapest": "C$13",
+     "typical": "C$69",
+     "top": "RacquetGuys.ca (1200)"
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "Decathlon sells other tennis trainers, not this stick; the copies are on Amazon Germany.",
+     "sellers": 22,
+     "cheapest": "€7",
+     "typical": "€38",
+     "top": "Decathlon (221)"
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "Rebel Sport sells other tennis trainers, not this stick.",
+     "sellers": 20,
+     "cheapest": "NZ$10",
+     "typical": "NZ$89",
+     "top": "The Clubroom (509)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 306 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 306,
+     "n_1000_plus": 0,
+     "cheapest": "A$8",
+     "typical": "A$46",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Tennis ServeMaster Serve Tool and Swing Trainer for Tennis Training",
+       "price_text": "$111.88",
+       "price": 111.88,
+       "rating": 4.1,
+       "reviews": 306,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/ServeMaster-Serve-Trainer-Tennis-Training/dp/B009Y97TR0/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51Vu8NKRZBL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Premium Tennis Trainer Rebound with Metal Base,Portable Solo Tennis Trainer Set with 3 Hig",
+       "price_text": "$53.03",
+       "price": 53.03,
+       "rating": 3.8,
+       "reviews": 219,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0DMW1FR3B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71JnAcXShwL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Premium Tennis Trainer Rebound with Metal Base,Portable Solo Tennis Trainer Set with 3 Hig",
+       "price_text": "$53.03",
+       "price": 53.03,
+       "rating": 3.8,
+       "reviews": 219,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Hikeen-Portable-Practice-Equipment-Beginners/dp/B0DMW1FR3B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71JnAcXShwL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 1,000 reviews; 1 of the first 20 have 1,000+; at least 1,750 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 1000,
+     "n_1000_plus": 1,
+     "cheapest": "US$15",
+     "typical": "US$36",
+     "bought_last_month_min": 1750,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Teloon Solo Tennis Trainer Rebound Ball with String for Self Tennis Practice Training Tool",
+       "price_text": "$16.89",
+       "price": 16.89,
+       "rating": 4.0,
+       "reviews": 1000,
+       "bought_text": "700+ bought in past month",
+       "bought": 700,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Teloon-Practice-Training-Kids-Beginners-Portable/dp/B08HLGJVFD/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61jIYsxTATL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "TopspinPro Tennis Training Aid – Learn Topspin Fast for Effortless Power & Control | Porta",
+       "price_text": "$169.00",
+       "price": 169.0,
+       "rating": 4.4,
+       "reviews": 923,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/TopspinPro-Tennis-Training-Topspin-Minutes/dp/B01N1F8M6I/",
+       "thumbnail": "https://m.media-amazon.com/images/I/41bcRK-bLOL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Hikeen Premium Tennis Trainer Rebound with Metal Base,Portable Solo Tennis Trainer Set wit",
+       "price_text": "$35.99",
+       "price": 35.99,
+       "rating": 3.9,
+       "reviews": 432,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Hikeen-Portable-Practice-Equipment-Beginners/dp/B0DMW1FR3B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71JnAcXShwL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 2,600 reviews; 3 of the first 20 have 1,000+; at least 950 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 2600,
+     "n_1000_plus": 3,
+     "cheapest": "£6",
+     "typical": "£17",
+     "bought_last_month_min": 950,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Tennis-Trainer Set with Wilson® Tennis Ball | Innovative ball game for outdoors, in the ga",
+       "price_text": "£27.90",
+       "price": 27.9,
+       "rating": 3.8,
+       "reviews": 2600,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/innovative-training-outdoors-transport-exercise/dp/B08BHR6DF9/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81L-OPLUjgL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Classic Original | Red and Yellow | Outdoor Activities | Traditional Pole in the Ground Se",
+       "price_text": "£17.00",
+       "price": 17.0,
+       "rating": 4.3,
+       "reviews": 2200,
+       "bought_text": "600+ bought in past month",
+       "bought": 600,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Swingball-7282-Classic-Red/dp/B08WX6P32L/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61JGkfdoSgL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Swingballl PRO All Surface Tennis Ball Game Set, Swingball's Ultimate Outdoor Family Game ",
+       "price_text": "£43.00",
+       "price": 43.0,
+       "rating": 4.3,
+       "reviews": 1400,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Swingballl-Swingballs-Ultimate-Superior-Adjustable/dp/B09GPWPHMX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51IR37uHkwL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 898 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 898,
+     "n_1000_plus": 0,
+     "cheapest": "C$29",
+     "typical": "C$65",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Learn Topspin in 2 Minutes a Day - A Revolutionary Tennis Training Aid - Used in 67 Countr",
+       "price_text": "$249.95",
+       "price": 249.95,
+       "rating": 4.4,
+       "reviews": 898,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/TopspinPro-Topspin-Revolutionary-Training-Countries/dp/B01N1F8M6I/",
+       "thumbnail": "https://m.media-amazon.com/images/I/41bcRK-bLOL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Premium Tennis Trainer Rebound with Metal Base,Portable Solo Tennis Trainer Set with 3 Hig",
+       "price_text": "$59.99",
+       "price": 59.99,
+       "rating": 3.8,
+       "reviews": 422,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.ca/dp/B0DMW1FR3B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71JnAcXShwL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Premium Tennis Trainer Rebound with Metal Base,Portable Solo Tennis Trainer Set with 3 Hig",
+       "price_text": "$59.99",
+       "price": 59.99,
+       "rating": 3.8,
+       "reviews": 422,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Hikeen-Portable-Practice-Equipment-Beginners/dp/B0DMW1FR3B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71JnAcXShwL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 2,600 reviews; 1 of the first 20 have 1,000+; at least 800 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 2600,
+     "n_1000_plus": 1,
+     "cheapest": "€11",
+     "typical": "€40",
+     "bought_last_month_min": 800,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "MOVEMATE Tennis-Trainer Set mit Wilson® Tennisball | innovatives Ballspiel für Draußen, im",
+       "price_text": "€29.90",
+       "price": 29.9,
+       "rating": 4.0,
+       "reviews": 2600,
+       "bought_text": "600+ bought in past month",
+       "bought": 600,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Innovative-Outdoors-Children-Transport-guaranteed/dp/B08BHR6DF9/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81Oy0zQtgWL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "TENIX® Tennis Trainer Set [with Power Grip System] Tennis Training Device for Children and",
+       "price_text": "€39.90",
+       "price": 39.9,
+       "rating": 4.2,
+       "reviews": 309,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0D6NPSN4N/",
+       "thumbnail": "https://m.media-amazon.com/images/I/91i6C9i+1mL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "TENIX® Tennis Trainer Set [with Power Grip System] Tennis Training Device for Children and",
+       "price_text": "€39.90",
+       "price": 39.9,
+       "rating": 4.2,
+       "reviews": 309,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/TENIX%C2%AE-Tennis-Trainer-Training-Children/dp/B0D6NPSN4N/",
+       "thumbnail": "https://m.media-amazon.com/images/I/91i6C9i+1mL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "low",
+     "why": "top listing 306 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 306,
+     "n_1000_plus": 0,
+     "cheapest": "A$8",
+     "typical": "A$46",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Tennis ServeMaster Serve Tool and Swing Trainer for Tennis Training",
+       "price_text": "$111.88",
+       "price": 111.88,
+       "rating": 4.1,
+       "reviews": 306,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/ServeMaster-Serve-Trainer-Tennis-Training/dp/B009Y97TR0/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51Vu8NKRZBL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Premium Tennis Trainer Rebound with Metal Base,Portable Solo Tennis Trainer Set with 3 Hig",
+       "price_text": "$53.03",
+       "price": 53.03,
+       "rating": 3.8,
+       "reviews": 219,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0DMW1FR3B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71JnAcXShwL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Premium Tennis Trainer Rebound with Metal Base,Portable Solo Tennis Trainer Set with 3 Hig",
+       "price_text": "$53.03",
+       "price": 53.03,
+       "rating": 3.8,
+       "reviews": 219,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Hikeen-Portable-Practice-Equipment-Beginners/dp/B0DMW1FR3B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71JnAcXShwL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "thin",
+     "growth_pct": null,
+     "zero_share": 0.79,
+     "why": "Too few searches here for Google to measure reliably (79% of weeks read zero). Use Amazon units and ad velocity instead.",
+     "line": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      11,
+      46,
+      60,
+      82,
+      38,
+      6,
+      4,
+      2,
+      4,
+      0,
+      2,
+      0,
+      4,
+      0,
+      1,
+      0
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "crowded",
+     "why": "amazon.com.au at $56.79: Amazon result 5 for the product words",
+     "prices": {
+      "brand": 133.5,
+      "cheapest_copy": 56.79,
+      "typical_copy": 56.79,
+      "cheapest_real_copy": 56.79,
+      "priced_copies": 1
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.com.au",
+       "title": "Tennis Swing Training Tool Weighted Tennis Serve High-Performance Sports Training Equipmen",
+       "link": "https://www.amazon.com.au/Bffcnl-Training-Weighted-High-Performance-Equipment/dp/B0H5VJZ1RG/",
+       "price_text": "$56.79",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_016.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "amazon.com at $29.99: Amazon result 3 for the product words. 2 other copies",
+     "prices": {
+      "brand": 89.0,
+      "cheapest_copy": 29.99,
+      "typical_copy": 29.99,
+      "cheapest_real_copy": 29.99,
+      "priced_copies": 3
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.com",
+       "title": "Tennis Power Trainer with Magnetic Resistance, MOOJAY Swing Trainer",
+       "link": "https://www.amazon.com/Tennis-Trainer-Magnetic-Resistance-MOOJAY/dp/B0HJ7BKXNV/",
+       "price_text": "$29.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_008.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 31,
+       "bought": "New on Amazon in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 3 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Tennis Swing Trainer Stick - Weighted Audible Practice Stick",
+       "link": "https://www.amazon.com/owfccla-Tennis-Swing-Trainer-Stick/dp/B0HJ754PPM/",
+       "price_text": "$36.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_012.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": 3,
+       "bought": "50+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 4 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Tennis Power Trainer with Magnetic Resistance, MOOJAY Swing Trainer",
+       "link": "https://www.amazon.com/Tennis-Trainer-Magnetic-Resistance-MOOJAY/dp/B0HJ787HRK/",
+       "price_text": "$29.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_023.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 31,
+       "bought": "New on Amazon in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "amazon.co.uk at £17.09: Amazon result 2 for the product words",
+     "prices": {
+      "brand": 66.75,
+      "cheapest_copy": 17.09,
+      "typical_copy": 17.09,
+      "cheapest_real_copy": 17.09,
+      "priced_copies": 1
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.co.uk",
+       "title": "Tennis Power Trainer with Magnetic Resistance, Badminton Power Racket Trainer with Sound F",
+       "link": "https://www.amazon.co.uk/Jwthee-Magnetic-Resistance-Badminton-Professional/dp/B0H741W88X/",
+       "price_text": "£17.09",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_006.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": 1,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words"
+      }
+     ],
+     "picture_matches": 0
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "The same object is sold by Walmart.ca at CA$23",
+     "prices": {
+      "brand": 121.93,
+      "cheapest_copy": 23.0,
+      "typical_copy": 44.03,
+      "cheapest_real_copy": 23.0,
+      "priced_copies": 3
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Walmart.ca",
+       "title": "Lipstore Badminton Racket Swing Badminton Swing Training Aid ...",
+       "link": "https://www.walmart.ca/en/ip/Lipstore-Badminton-Racket-Swing-Badminton-Swing-Training-Aid-Exercise-Posture-Adjustment-Practice-Auxiliary-Tool-Training-Tool-White-Basic/6H0D9YIBY9UU",
+       "price_text": "CA$23",
+       "kind": "big chain",
+       "thumb_file": "lens/swingpro_thumb_25.jpg"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Tennis Badminton Trainer,Badminton Swing Trainer with Weights for Solo Training",
+       "link": "https://www.amazon.ca/dp/B0DJ73M5PB/",
+       "price_text": "$44.03",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_024.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": null,
+       "bought": null
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Tennis Swing Trainer Stick - Weighted Audible Practice Stick",
+       "link": "https://www.amazon.com/owfccla-Tennis-Swing-Trainer-Stick/dp/B0HJ754PPM/",
+       "price_text": "$69.29",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_012.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": null,
+       "bought": null
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "amazon.de at €45.99: Amazon result 1 for the product words. 7 other copies",
+     "prices": {
+      "brand": 76.54,
+      "cheapest_copy": 13.47,
+      "typical_copy": 45.99,
+      "cheapest_real_copy": 13.47,
+      "priced_copies": 8
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.de",
+       "title": "Vemilo Swingo Tennis Swing Trainer",
+       "link": "https://www.amazon.de/dp/B0HKNB9VWK/",
+       "price_text": "€45.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_003.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 1 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Tennis Power Trainer with Magnetic Resistance",
+       "link": "https://www.amazon.de/-/en/SOYUZERISH-Tennis-Trainer-Magnetic-Resistance/dp/B0H9SDPNRY/",
+       "price_text": "€13.47",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_019.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Tennis Power Trainer with Magnetic Resistance, Badminton Power Racket Trainer with Sound F",
+       "link": "https://www.amazon.co.uk/Jwthee-Magnetic-Resistance-Badminton-Professional/dp/B0H741W88X/",
+       "price_text": "€18.09",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_006.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 1,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "Kuisoe Vemilo Swingo - Tennis Schwung Trainer | magnetischer Widerstand & Sound‐Feedback f",
+       "link": "https://www.google.com/search?q=%22Kuisoe+Vemilo+Swingo+-+Tennis+Schwung+Trainer+%7C+magnetischer+Widerstand+%26+Sound%E2%80%90Feedback+f%C3%BCr+Tennis+und+Badmin%22+Amazon.de",
+       "price_text": "45,99 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_077.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 6,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 6 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "MEIION Vemilo Swingo Tennis Swing Trainer for Beginners and Professionals",
+       "link": "https://www.amazon.de/-/en/MEIION-Vemilo-Trainer-Beginners-Professionals/dp/B0HGM2YRPD/",
+       "price_text": "€49.90",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_027.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "AXYNO Tennis Swing Trainer - Training Aid for Batting Technique & Control",
+       "link": "https://www.amazon.de/dp/B0HDCDHPXM/",
+       "price_text": "€39.90",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_031.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Milageto Tennis Swing Trainer Five Level Tennis Swing Trainer",
+       "link": "https://www.amazon.de/-/en/Milageto-Tennis-Swing-Trainer-Level/dp/B0H5VWC562/",
+       "price_text": "€53.29",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_035.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "AXYNO Tennis Schwung Trainer – Trainingshilfe für Schlagtechnik & Kontrolle",
+       "link": "https://www.google.com/search?q=%22AXYNO+Tennis+Schwung+Trainer+%E2%80%93+Trainingshilfe+f%C3%BCr+Schlagtechnik+%26+Kontrolle%22+Amazon.de",
+       "price_text": "59,90 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_107.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 11,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      }
+     ],
+     "picture_matches": 0
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "amazon.com.au at $56.79: Amazon result 5 for the product words",
+     "prices": {
+      "brand": 149.52,
+      "cheapest_copy": 56.79,
+      "typical_copy": 56.79,
+      "cheapest_real_copy": 56.79,
+      "priced_copies": 1
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.com.au",
+       "title": "Tennis Swing Training Tool Weighted Tennis Serve High-Performance Sports Training Equipmen",
+       "link": "https://www.amazon.com.au/Bffcnl-Training-Weighted-High-Performance-Equipment/dp/B0H5VJZ1RG/",
+       "price_text": "$56.79",
+       "kind": "marketplace",
+       "thumb_file": "visible/swingpro_vis_thumb_016.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      }
+     ],
+     "picture_matches": 58
+    }
+   ],
+   "lens_sheet": "lens/swingpro_sheet.jpg",
+   "supplier": {
+    "slug": "swingpro",
+    "brand_price": 89.0,
+    "brand_currency": "usd",
+    "words": "tennis swing trainer",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-tennis-swing-trainer.html",
+    "listings": [
+     {
+      "n": 1,
+      "site": "DHgate",
+      "order_type": "small orders",
+      "title": "BadmintonSwingTrainer PowerGenerator... From 6,92 € | DHgate",
+      "link": "https://ie.dhgate.com/product/badmintonswingtrainer-powergenerator-movementcorrectorracket/1114609826.html",
+      "thumb_file": "lens/swingpro_thumb_26.jpg",
+      "price_seen_in_search": null,
+      "price": 6.92,
+      "currency": "eur",
+      "shipping": null,
+      "note": "Starting price shown on the listing; shipping not included",
+      "delivered_cost_usd": 8.05
+     }
+    ],
+    "summary": {
+     "found": 1,
+     "priced": 1,
+     "brand_price_usd": 89.0,
+     "status": "priced",
+     "cost_usd": 8.05,
+     "cost_site": "DHgate",
+     "cost_includes_shipping": false,
+     "margin_pct": 91,
+     "room_per_sale_usd": 80.95,
+     "plain": "DHgate sells it for about US$8 before shipping. At the brand's price of about US$89 that leaves about US$81 a sale (91%) to cover ads, payment fees and profit."
+    }
+   },
+   "meta": {
+    "slug": "swingpro",
+    "phrase": "tennis swing trainer",
+    "checked": "2026-10-11",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22tennis%20swing%20trainer%22",
+    "ads_loaded": 14,
+    "capped": false,
+    "stopped_by": "read every live ad",
+    "n_advertisers": 2,
+    "advertisers_with_3_plus_ads": 2,
+    "biggest_advertiser_share": 0.64,
+    "brands_new_in_last_2_months": 2,
+    "brands_advertising_3_plus_months": 0,
+    "ads_started_last_2_months": 14,
+    "ads_older_than_6_months": 0,
+    "pattern": "one brand owns it",
+    "plain": "2 brands, but shifaaaa.com runs 9 of the 14 ads.",
+    "months": {
+     "2026-09": 2,
+     "2026-10": 12
+    },
+    "brand_months": {
+     "2026-09": 1,
+     "2026-10": 1
+    },
+    "top_advertisers": [
+     {
+      "name": "The Daily Insider",
+      "pages": 1,
+      "page_names": [
+       "The Daily Insider"
+      ],
+      "ads": 9,
+      "oldest_live_ad": "2026-10-09",
+      "page_likes": 7,
+      "headline": "Still Guessing at Your Forehand?",
+      "shop": "shifaaaa.com",
+      "product_page": "https://shifaaaa.com/products/shifa-swing-trainer",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1422586927586088",
+      "shop_open_since": "2026-09-19"
+     },
+     {
+      "name": "Swng",
+      "pages": 1,
+      "page_names": [
+       "Swng"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-09-17",
+      "page_likes": 139,
+      "headline": "Eliminate Tennis Frustration 🎾",
+      "shop": "swnglab.com",
+      "product_page": "https://swnglab.com/products/swingpro™",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=794269240436692",
+      "shop_open_since": "2025-09-13"
+     }
+    ],
+    "domains": {
+     "shifaaaa.com": 9,
+     "swnglab.com": 5
+    },
+    "cost_usd": 0.08,
+    "shops_checked": 2,
+    "shops_over_a_year_old": 1,
+    "shops_under_4_months_old": 1,
+    "takeaway": "Swng is almost alone: 60+ ads, ramping fast since late August, and the only other page also sells SwngPro. That is the pattern to like, but it is only six weeks old, so it is not yet proof the ads pay."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "tennis swing trainer",
+     "image": "asis/swingpro_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 2,
+       "title": "SWING TENNIS TRAINER",
+       "link": "https://technologysport.com/tienda/en/technical-perfection/1939-swing-tennis-trainer.html?srsltid=AU7gw4Xq7F-jCRJciGYi-Qhz8avwnSD6zYOoeI6ZuMw7wjcydI5eS6GF",
+       "domain": "technologysport.com",
+       "kind": "store / brand",
+       "snippet": "Technical aid for tennis rackets, made up of two semi-spheres that together weigh 150 grams. Ideal for weight work integrated to the technical part."
+      },
+      {
+       "position": 6,
+       "title": "Self Tennis Trainer Portable String Hitting Swing",
+       "link": "https://www.amazon.com.au/Tennis-Trainer-Portable-String-Hitting/dp/B0GZSKRLK6",
+       "domain": "amazon.com.au",
+       "kind": "marketplace",
+       "snippet": "The equipment provides instant feedback on hitting and swing techniques, making it a reliable companion for practice sessions and games."
+      }
+     ],
+     "paa": [
+      "How to swing faster in tennis?",
+      "Do golf swing trainers actually work?",
+      "What do I need to be a tennis coach?",
+      "What is the best tennis training equipment?"
+     ],
+     "popular_products": [
+      {
+       "title": "Slazenger Tennis Trainer",
+       "price": null,
+       "source": "Tennis Direct Australia"
+      },
+      {
+       "title": "Tennis Swing Trainer Single Racket Corrector Practice Aid Fo",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Prince Tennis Trainer",
+       "price": null,
+       "source": "rebel"
+      },
+      {
+       "title": "SCIENSWING Tennis Swing & Serve Trainer, Retractable Click F",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Frediuo Tennis Serve Master Swing Training Tool, Hitting Tra",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Tennis Swing Trainer Corrector Practice Aid Forehands Backha",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Swing Buddy Tennis Trainer",
+       "price": null,
+       "source": "Marconi Tennis & Squash"
+      },
+      {
+       "title": "The Total Serve ServeMaster Serve Tool and Swing Trainer for",
+       "price": null,
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Racket Training Tool Tennis Swing Corrector Guide Practice A",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Tennis Swing Aid for Beginners Kids Adults(Blue)",
+       "price": null,
+       "source": "Amazon"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "Tennis swing trainers are tools designed to improve your form, racket speed, and muscle memory without needing a full court or a partner. See how the Dragonet Swing trainer uses internal mechanical feedback and an audible click to refine swing speed and wrist lag: If you'd like to narrow down the choices, tell me:",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: technologysport.com (store / brand). In the product strip: Amazon, Amazon AU, Amazon AU - Amazon.com.au-Seller, Marconi Tennis & Squash, Tennis Direct Australia. Amazon here is quiet."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "tennis swing trainer",
+     "image": "asis/swingpro_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "The 15 Best Tennis Training Aids: Reviews & Buyer's Guide",
+       "link": "https://thetennistribe.com/best-tennis-training-aids/",
+       "domain": "thetennistribe.com",
+       "kind": "article",
+       "snippet": "The Flex Trainer is a training aid that helps people get used to swinging while bending their knees. It creates a great leg workout for players ..."
+      },
+      {
+       "position": 4,
+       "title": "Professional Tennis Swing Trainer, Tennis Trainer Aid ...",
+       "link": "https://www.walmart.com/ip/Professional-Tennis-Swing-Trainer-Tennis-Trainer-Aid-Practice-Tool-for-Beginners-Improve-Skills-of-topspin-Downspins/19542714986",
+       "domain": "walmart.com",
+       "kind": "big chain",
+       "snippet": "This tennis practices equipment works as a tool for self-training. Set it up and start hitting, then wait for the to poped back for anothers round of forehands!"
+      },
+      {
+       "position": 5,
+       "title": "SWING TENNIS TRAINER",
+       "link": "https://technologysport.com/tienda/en/technical-perfection/1939-swing-tennis-trainer.html?srsltid=AU7gw4UxNkd-32KaksPz4dDUkZHTUqY4COBYKONepRcDQwr1OyoOCN2U",
+       "domain": "technologysport.com",
+       "kind": "store / brand",
+       "snippet": "Technical aid for tennis rackets, made up of two semi-spheres that together weigh 150 grams. Ideal for weight work integrated to the technical part."
+      }
+     ],
+     "paa": [
+      "What are some good tennis accessories for training?",
+      "How to swing faster in tennis?",
+      "Can I swing a tennis ball?",
+      "How to swing a tennis racquet?"
+     ],
+     "popular_products": [
+      {
+       "title": "Tourna Fill & Drill Tennis Trainer",
+       "price": "$12.99",
+       "source": "PGA TOUR Superstore"
+      },
+      {
+       "title": "Solace Tennis Trainer Tennis Swing Trainer Tennis Posture Tr",
+       "price": "$109.58",
+       "source": "Walmart - Solace"
+      },
+      {
+       "title": "TopspinPro Tennis Training Aid",
+       "price": "$121.27",
+       "source": "Racketspot.at"
+      },
+      {
+       "title": "Tennis Racket Swing Trainer - Varsity 8oz - Swing Trainer Re",
+       "price": "$38.91",
+       "source": "Mansion Athletics"
+      },
+      {
+       "title": "Swingball Reflex Tennis Pro",
+       "price": "$49.99",
+       "source": "The Toy Maven"
+      },
+      {
+       "title": "Tennis Trainer Rebound Ball Solo Tennis Training Equipment F",
+       "price": "$12.99",
+       "source": "Walmart - Seller"
+      },
+      {
+       "title": "PermaWrist Tennis Training Aid",
+       "price": "$25.00",
+       "source": "aaswing.com"
+      },
+      {
+       "title": "Tennis Swing Trainer-increase & Decrease Intensity -blue-sea",
+       "price": "$24.99",
+       "source": "eBay"
+      },
+      {
+       "title": "Tennis Swing Practice Trainer Set with Elastic Return Cord, ",
+       "price": "$15.41",
+       "source": "Walmart - flower"
+      },
+      {
+       "title": "Tennis Practice Swing Trainer - Advanced Package - Tennis Tr",
+       "price": "$109.44",
+       "source": "Mansion Tennis"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "Tennis swing trainers are tools designed to improve your stroke mechanics, build muscle memory, and practice your form at home or on the court without needing a partner or hitting actual balls. Here is a review showing how the Dragonet Swing trainer provides auditory and mechanical feedback for stroke efficiency: If you want to narrow down the best option, tell me:",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in the US: thetennistribe.com (article). In the product strip: Mansion Athletics, Mansion Tennis, PGA TOUR Superstore, Racketspot.at, The Toy Maven. Amazon here is busy."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "tennis swing trainer",
+     "image": "asis/swingpro_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Tennis Swing Trainer",
+       "link": "https://www.ebay.com/shop/tennis-swing-trainer?_nkw=tennis+swing+trainer",
+       "domain": "ebay.com",
+       "kind": "marketplace",
+       "snippet": "SCIENSWING Tennis Swing & Serve Trainer, Retractable Click Feedback Training ... Brand New. $79.99. Free delivery. Save up to 6% when you buy more. derosnopS."
+      },
+      {
+       "position": 4,
+       "title": "Tennis Training Tool",
+       "link": "https://www.amazon.com/tennis-training-tool/s?k=tennis+training+tool",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "VAIIO Professional Tennis Trainer - Full Metal Portable Solo Rebounder with 3 High-Elastic String Balls, Ideal for Adults, Kids, Beginners & Advanced Players."
+      },
+      {
+       "position": 5,
+       "title": "1X(Professional Tennis Trainer Tennis Swing Portable ...",
+       "link": "https://www.ebay.co.uk/itm/377294792541",
+       "domain": "ebay.co.uk",
+       "kind": "marketplace",
+       "snippet": "This tennis hitting aid can be used anywhere there's space wide enough to swing. Our tennis practice aid is for anyone from 7-70. by up to 50%."
+      }
+     ],
+     "paa": [
+      "How to swing faster in tennis?",
+      "What is the best tennis training equipment?",
+      "Who is considered the best tennis coach in the world?",
+      "How much does tennis coaching cost in the UK?"
+     ],
+     "popular_products": [
+      {
+       "title": "Artengo Tennis Trainer",
+       "price": "£9.99",
+       "source": "Decathlon UK"
+      },
+      {
+       "title": "Pro Tennis Swing Training Single Equipment Tennis Ball Exerc",
+       "price": "£20.89",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "The Total Serve ServeMaster Tennis Serve Trainer and Swing T",
+       "price": "£56.90",
+       "source": "Amazon.co.uk"
+      },
+      {
+       "title": "Tennis Swing Stainless Steel Tennis Serve Adjustable. Yellow",
+       "price": "£44.38",
+       "source": "eBay.co.uk"
+      },
+      {
+       "title": "Swingball All Surface Reflex Tennis Trainer",
+       "price": "£7.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Swingball Pro Reflex Tennis Trainer",
+       "price": "£19.99",
+       "source": "Decathlon UK"
+      },
+      {
+       "title": "TENIX Tennis Trainer Set Tennis Practice Device for kids & a",
+       "price": "£33.90",
+       "source": "Royal Deals"
+      },
+      {
+       "title": "Tennis Swing Coach Technique Tennis Serve Coach Professional",
+       "price": "£35.50",
+       "source": "eBay.co.uk"
+      },
+      {
+       "title": "YJSD Professional Tennis Trainer Practice Serve Ball Machine",
+       "price": "£58.74",
+       "source": "DealDen"
+      },
+      {
+       "title": "Dragonet Swing",
+       "price": "£151.44",
+       "source": "Dragonet Sport Technology srl"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A tennis swing trainer is a portable device designed to help you practice your strokes, timing, and mechanics without needing a full-sized court or a hitting partner. To help you find the right trainer, tell me:",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in the UK: ebay.com (marketplace). In the product strip: Amazon.co.uk, Amazon.co.uk - Amazon.co.uk-Seller, DealDen, Decathlon UK, Dragonet Sport Technology srl. Amazon here is busy."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "tennis swing trainer",
+     "image": "asis/swingpro_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "The 15 Best Tennis Training Aids: Reviews & Buyer's Guide",
+       "link": "https://thetennistribe.com/best-tennis-training-aids/",
+       "domain": "thetennistribe.com",
+       "kind": "article",
+       "snippet": "The Flex Trainer is a training aid that helps people get used to swinging while bending their knees. It creates a great leg workout for players ..."
+      },
+      {
+       "position": 3,
+       "title": "Tennis Training Aids | Walmart Canada",
+       "link": "https://www.walmart.ca/en/browse/sports-rec/tennis-racquets/tennis-training-aids/10010_21036_6000209078528",
+       "domain": "walmart.ca",
+       "kind": "big chain",
+       "snippet": "Shop tennis training aids at Walmart.ca to sharpen your skills with rebounders, targets, and more. Ideal for all levels, from beginner to pro!"
+      },
+      {
+       "position": 6,
+       "title": "Backswing Solution - Tennis Swing Trainer",
+       "link": "https://oncourtoffcourt.com/backswing-solution/?srsltid=AU7gw4XstklhJAN8Ftu6fQgpGsHDKNdslXyWWoSrJAIDwiTyq-vhBYIf",
+       "domain": "oncourtoffcourt.com",
+       "kind": "store / brand",
+       "snippet": "The Backswing Solution is a great training aid for tennis, pickleball, platform tennis and other racquet and paddle sports! $79.95 Sweet Spot Trainer 4.8 star ."
+      }
+     ],
+     "paa": [
+      "How much does a tennis coach charge per hour?",
+      "How to swing faster in tennis?",
+      "Do golf swing trainers actually work?",
+      "What is the best tennis training equipment?"
+     ],
+     "popular_products": [
+      {
+       "title": "SCIENSWING Tennis Swing & Serve Trainer, Retractable Click F",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "TopspinPro Tennis Training Aid",
+       "price": null,
+       "source": "RacquetGuys.ca"
+      },
+      {
+       "title": "Professional Tennis Swing Trainer Aid Practice Tool for Begi",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Tennis Swing Easy to Use Forehand Backhand Portable Sports T",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Tennis Training Device Tennis Swing Practice Aid Portable Ha",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "SLOWMOOSE Tennis Ball Trainer Tennis Swing Portable Practice",
+       "price": null,
+       "source": "Best Buy Canada Marketplace"
+      },
+      {
+       "title": "Hikeen Premium Tennis Trainer Rebound with Metal Base,Portab",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "The Total Serve ServeMaster Serve Tool and Swing Trainer for",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Teknigoo Tennis Swing Trainer with Pulley - Improve Swing & ",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Tennis Racket Swing Weight Training Aid - Adds 100g, 50g, Or",
+       "price": null,
+       "source": "Amazon CA"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A tennis swing trainer is a practice tool that helps you improve your stroke mechanics, timing, and muscle memory at home or on the court without needing a full-sized court or a hitting partner. Here is an overview of how the Dragonet Swing trainer provides mechanical biofeedback during a practice session: If you'd like, tell me: I can recommend the best style of trainer for your practice routine.",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: thetennistribe.com (article). In the product strip: Amazon, Amazon CA, Best Buy Canada Marketplace, RacquetGuys.ca. Amazon here is quiet."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "tennis swing trainer",
+     "image": "asis/swingpro_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 2,
+       "title": "Dragonet - Improve your Padel or Tennis Training",
+       "link": "https://dragonet.it/",
+       "domain": "dragonet.it",
+       "kind": "store / brand",
+       "snippet": "Your Dragonet Swing kit includes everything you need to start training right away: the Swing device; 5 adjustable micro-weights; 1 lower sealing gasket; 2 ..."
+      },
+      {
+       "position": 3,
+       "title": "Tennis Training Tool",
+       "link": "https://www.amazon.com/tennis-training-tool/s?k=tennis+training+tool",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "VAIIO Professional Tennis Trainer - Full Metal Portable Solo Rebounder with 3 High-Elastic String Balls, Ideal for Adults, Kids, Beginners & Advanced Players."
+      },
+      {
+       "position": 5,
+       "title": "The 15 Best Tennis Training Aids: Reviews & Buyer's Guide",
+       "link": "https://thetennistribe.com/best-tennis-training-aids/",
+       "domain": "thetennistribe.com",
+       "kind": "article",
+       "snippet": "The Flex Trainer is a training aid that helps people get used to swinging while bending their knees. It creates a great leg workout for players ..."
+      },
+      {
+       "position": 6,
+       "title": "Tennis swing trainer-AliExpress",
+       "link": "https://www.aliexpress.com/w/wholesale-tennis-swing-trainer.html",
+       "domain": "aliexpress.com",
+       "kind": "store / brand",
+       "snippet": "A portable training tool that helps players develop proper swing mechanics by providing resistance and feedback on swing path and timing. Adjustable Resistance "
+      }
+     ],
+     "paa": [],
+     "popular_products": [
+      {
+       "title": "Mookie Reflex Tennis Pro",
+       "price": "24,99 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Swingball Swingball Schlägerspiel REFLEX TENNIS PRO",
+       "price": "47,99 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Billie Jean King's Eye Coach Pro Tennis Training Aid",
+       "price": "191,57 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Tennis Ball Trainer Tennis Baseboard With Rope Self-study Te",
+       "price": "32,31 €",
+       "source": "Vergleichsportale"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "short_videos",
+      "organic_results"
+     ],
+     "takeaway": "First result in Germany: dragonet.it (store / brand). In the product strip: Vergleichsportale. Amazon here is busy."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "tennis swing trainer",
+     "image": "asis/swingpro_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Dragonet Swing Review: Who This Tennis Training Device ...",
+       "link": "https://www.feeltennis.net/dragonet-swing-review/",
+       "domain": "feeltennis.net",
+       "kind": "store / brand",
+       "snippet": "The Dragonet Swing is a tennis training tool that is heavier than a normal racket and has a moving internal mass that creates a click when you ..."
+      },
+      {
+       "position": 2,
+       "title": "Tennis Swing Trainer",
+       "link": "https://www.amazon.com/tennis-swing-trainer/s?k=tennis+swing+trainer",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Explore tennis swing trainers with audible feedback and weighted designs for all skill levels. Improve Rhythm and Fluidity of Serve, Forehand, Backhand, Smash, "
+      },
+      {
+       "position": 4,
+       "title": "Dragonet Swing",
+       "link": "https://dragonet.it/products/swing?srsltid=AU7gw4WDvHRPOfMf2yVD_hAYxPE1mvo-NVwVeIrtwCjXwwfOIfNTrObc",
+       "domain": "dragonet.it",
+       "kind": "store / brand",
+       "snippet": "Dragonet Swing combines technical, functional, and rehab training with instant mechanical feedback. It helps refine strokes, activate the full kinetic chain, .."
+      },
+      {
+       "position": 5,
+       "title": "Tennis Swing Trainer",
+       "link": "https://www.ebay.com/shop/tennis-swing-trainer?_nkw=tennis+swing+trainer",
+       "domain": "ebay.com",
+       "kind": "marketplace",
+       "snippet": "SCIENSWING Tennis Swing & Serve Trainer, Retractable Click Feedback Training ... Brand New. $79.99. Free delivery. Save up to 6% when you buy more. derosnopS."
+      },
+      {
+       "position": 7,
+       "title": "Tennis Swing Trainer, Tennis Training Tool, Self ...",
+       "link": "https://www.u-buy.co.nz/productjp/TN2IGK9J4-tennis-swing-trainer-tennis-training-tool-self-exercise-tennis-soft-shaft-swing-training-gear-rebound-practice-for-begin?srsltid=AU7gw4Xx-GJWbYCB1dIbicVUyClmd2qRPMw32Q2UvJmwYMKq1_jtz2p7",
+       "domain": "u-buy.co.nz",
+       "kind": "store / brand",
+       "snippet": "Portable tennis trainer for top spin, shape, practice drill, and proper drilling. ... This tennis training ball is made of high quality materials and is durable"
+      }
+     ],
+     "paa": [
+      "Do tennis swing trainers work?",
+      "How do I improve my tennis swing?",
+      "What is the best tennis trainer for home use?",
+      "What is a swing trainer?"
+     ],
+     "popular_products": [
+      {
+       "title": "Tennis Swing Trainer, Tennis Training Tool, Self Exercise, T",
+       "price": "$71.00",
+       "source": "u-buy.co.nz"
+      },
+      {
+       "title": "Tennis Trainer Rebound Ball with String Solo Tennis Training",
+       "price": "$36.46",
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Tennis Swing Trainer 50g Steel Add-on Weight Orange",
+       "price": "$30.38",
+       "source": "eBay - rowaction"
+      },
+      {
+       "title": "Tennis Practice Trainer, Portable Swing Trainer, Adjustable ",
+       "price": "$455.00",
+       "source": "u-buy.co.nz"
+      },
+      {
+       "title": "Outdoor Play Outdoor Tennis Trainer",
+       "price": "$19.99",
+       "source": "One19 - Clothing & Footwear"
+      },
+      {
+       "title": "Hikeen Premium Tennis Trainer Rebound with Metal Base,Portab",
+       "price": "$64.19",
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Tennis Serve Training Aids Swing Trainer Forehand Backhand S",
+       "price": "$172.09",
+       "source": "eBay - lanparte"
+      },
+      {
+       "title": "Powerti Tennis Racket Swing Weight Adding Device For Strengt",
+       "price": "$28.35",
+       "source": "eBay - rowaction"
+      },
+      {
+       "title": "Tennis Swing Trainer with Sound Feedback for Beginners",
+       "price": "$225.35",
+       "source": "Desertcart.ae"
+      },
+      {
+       "title": "tennis swing trainer tennis training tool self exercise tenn",
+       "price": "$79.00",
+       "source": "u-buy.co.nz"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: feeltennis.net (store / brand). In the product strip: Amazon AU - Amazon.com.au-Seller, Desertcart.ae, One19 - Clothing & Footwear, eBay - lanparte, eBay - rowaction. Amazon here is quiet."
+    }
+   ],
+   "compare": {
+    "match_name": "Walmart Canada (CA$23)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same chrome tube with a white grip and snap mechanism; Amazon sells the same design in other colours.",
+    "brand_image": "swingpro/img_1.jpg",
+    "match_image": "lens/swingpro_thumb_25.jpg"
+   }
+  },
   {
    "slug": "lola-kit",
    "name": "Pre-Glued Lash Starter Kit (Lola's Lashes)",
@@ -1912,6 +3534,7 @@
   }
  ],
  "ranking": [
+  "swingpro",
   "lola-kit"
  ]
 }

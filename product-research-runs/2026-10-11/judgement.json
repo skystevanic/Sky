@@ -12,14 +12,112 @@
    "nz"
   ],
   "assumptions": [
-   "Product costs are estimates: no supplier price was read for this kit",
-   "Ad counts only include ads that use the exact words \"pre-glued lashes\", and counting stopped at 250 ads, so real numbers are higher",
-   "Green on a map means we found nobody else selling this exact kit there, not that nobody does",
+   "Product costs are estimates: supplier prices are starting prices before shipping",
+   "Ad counts only include ads that use the exact product words, so real numbers can be higher",
+   "Green on a map means we found nobody else selling this exact item there, not that nobody does",
    "Lash adhesive is a cosmetic used near the eye: selling in the EU or UK needs a safety assessment and product registration"
   ]
  },
- "headline": "Demand for pre-glued lash clusters is nearly doubling, but you would be fighting an established brand, 28+ advertisers and cheap Ardell, KISS and GLAM kits in every big chain. Nobody copies Lola's exact kit, yet the category is full.",
+ "headline": "Neither product is ready to test. The tennis swing trainer is the closer call: huge margin and only one advertiser, but cheap copies already sit in Amazon's top results everywhere.",
  "products": [
+  {
+   "slug": "swingpro",
+   "name": "Magnetic Tennis Swing Trainer (SwngPro)",
+   "brand": "Swng",
+   "url": "https://swnglab.com/products/swingpro%E2%84%A2",
+   "category": "Tennis training aids",
+   "price": "US$89 (shown as reduced from US$179)",
+   "ad_days": "Oldest live ad 2026-08-28",
+   "store_platform": "Shopify",
+   "store_launched": "2025-09",
+   "store_products": "9 products, all tennis",
+   "one_liner": "Only one brand advertises it and the margin is huge, but identical copies already sit in Amazon's top results in every country, from about US$30. Worth watching, not testing yet.",
+   "verdict": "Backlog",
+   "overall": 63,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 7,
+    "margin": 9,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 4
+   },
+   "why": [
+    "Swng runs 60+ ads and is ramping fast (36 started in October), with almost no other advertisers",
+    "A supplier sells it from about US$8, so roughly 90% of the US$89 price is left for ads and profit",
+    "But copies are easy to find: Amazon US result 3 at US$29.99, UK result 2 at £17, Germany result 1 at €45.99"
+   ],
+   "risk": "Swng's ads are only six weeks old, so they are not yet proof it pays, and Amazon copies undercut US$89 by two thirds.",
+   "next": [
+    "Check again in early December: if Swng's late-August ads are still running, the ads pay",
+    "Then test it for padel or pickleball players, which Swng ignores: 3 short ads, about €20 a day for 5 days"
+   ],
+   "best_region": "None yet. Every country has a cheaper copy in Amazon's top results, and Walmart Canada lists one at CA$23.",
+   "snapshot": {
+    "icp": "Recreational tennis players, 25-55, who want to improve without paying for lessons",
+    "job": "Groove a consistent swing at home, with instant feedback",
+    "cogs": "About US$8 before shipping; roughly US$12-15 landed (estimate)",
+    "margin": "About 85-90% at US$89 (estimate)",
+    "claims": "Audible snap when the swing is right; 5 resistance levels (11-33 N); 15-day drill program",
+    "demoable": "Yes: the snap sound on a good swing is made for short video"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Walmart Canada lists the same stick at CA$23 (it may be a marketplace seller). No chain found elsewhere"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Cheaper copies sit in Amazon's top 5 in every country, from £17 in the UK and €13 in Germany"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand runs the ads; only one other page, which also sells SwngPro"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "No health claims needed"
+    }
+   ],
+   "angles": [
+    "Padel players: the fastest-growing racket sport in Europe",
+    "Pickleball players in the US",
+    "Junior players: parents buying practice between lessons",
+    "Coaches and clubs: a set for group drills",
+    "TAKEN: \"Win the match without lessons\" (Swng's main message)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 25,
+    "match_name": "Walmart Canada (CA$23)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same chrome tube with a white grip and snap mechanism; Amazon sells the same design in other colours."
+   },
+   "advertiser_takeaway": "Swng is almost alone: 60+ ads, ramping fast since late August, and the only other page also sells SwngPro. That is the pattern to like, but it is only six weeks old, so it is not yet proof the ads pay.",
+   "category_notes": {
+    "au": "The chain listings are other tennis trainers (rebound balls, reflex sticks), not this stick.",
+    "us": "DICK'S sells other tennis trainers, not this stick; the copies are on Amazon.",
+    "uk": "Decathlon sells other tennis trainers, not this stick; the copy is on Amazon UK.",
+    "de": "Decathlon sells other tennis trainers, not this stick; the copies are on Amazon Germany.",
+    "nz": "Rebel Sport sells other tennis trainers, not this stick."
+   },
+   "tile_notes": {
+    "Advertisers": {
+     "head": "1 brand, 60+ ads",
+     "detail": "Swng runs all 60+ ads that name SwngPro, rising fast since late August. The only other page also sells SwngPro."
+    }
+   }
+  },
   {
    "slug": "lola-kit",
    "name": "Pre-Glued Lash Starter Kit (Lola's Lashes)",
