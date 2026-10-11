@@ -399,6 +399,95 @@
    "category_notes": {
     "de": "The photo search returned no results in Germany; Douglas and Amazon Germany sell many neck creams."
    }
+  },
+  {
+   "slug": "paw-wash",
+   "name": "No-Rinse Foam Paw Cleanser (Dandylion)",
+   "brand": "Dandylion",
+   "url": "https://www.dandylionworld.com/products/clean-paws-no-rinse-foaming-cleanser-dog-paw-wash",
+   "category": "Pet care: dog paw cleaning",
+   "price": "CA$20",
+   "store_platform": "Shopify",
+   "store_launched": "2021-08",
+   "store_products": "44 products, dog grooming and care",
+   "one_liner": "Dandylion is an established brand already in Target, Chewy and Petco, and the same foam-and-brush bottle sells from about US$6 under dozens of names. Too cheap and too crowded for a newcomer.",
+   "verdict": "Avoid",
+   "overall": 52,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 9,
+    "margin": 6,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "why": [
+    "The same foam-and-brush bottle is in the top results everywhere: Amazon US result 2 at US$13.95 with 1,100 reviews",
+    "38 brands advertise \"paw cleaner\" and 32 of them started in the last two months: a swarm",
+    "At about CA$20 a bottle, there is little room to pay for ads against Wet Ones, Bugalugs and Pets at Home's own range"
+   ],
+   "risk": "A low-priced liquid: shipping and ad costs eat most of the margin unless customers reorder.",
+   "next": [
+    "Skip it. If pet care appeals, look for a higher-priced pet product with fewer sellers"
+   ],
+   "best_region": "None. Every country checked has cheap look-alikes with hundreds or thousands of reviews.",
+   "snapshot": {
+    "icp": "Dog owners, often in cities or rainy climates, who walk their dog daily",
+    "job": "Clean muddy paws after a walk without a bath",
+    "cogs": "About US$2-4 for a generic foam bottle with brush head (estimate)",
+    "margin": "About 70-80% at CA$20 before shipping a liquid (estimate)",
+    "claims": "Vet-dermatologist approved, fragrance-free, pH-balanced, lick-safe",
+    "demoable": "Yes: muddy paw before, clean paw after"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "flag",
+     "why": "Target, BIG W and Pets at Home sell foam paw cleaners; Dandylion's own bottle is in Target and Petco"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Cheaper look-alikes are in the top results in every country, many with 1,000+ reviews"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "fail",
+     "why": "38 brands advertise \"paw cleaner\", 32 new in the last two months (the phrase also covers paw-washing cups)"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small, but a liquid"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "A pet grooming product; avoid medical claims"
+    }
+   ],
+   "angles": [
+    "Winter salt and grit: protect paws in snowy cities",
+    "Allergy season: wash pollen off paws",
+    "Subscription refill for daily walkers",
+    "Cat litter-paw cleanup",
+    "TAKEN: \"Vet-dermatologist approved, lick-safe\" (Dandylion's main message)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 8,
+    "match_name": "Dandylion's own bottle at Target",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "Photo matches were Dandylion's own bottle at its stockists; look-alikes from other brands use the same foam-and-brush bottle."
+   },
+   "advertiser_takeaway": "It's a swarm: 38 brands, 32 of them new in the last two months, several from shops opened this year. The phrase also catches paw-washing cups, but the pattern is clear: many sellers piling in, and Dandylion is not among the top advertisers.",
+   "country_takeaways": {
+    "us": "Google's page for these words is off-topic in the US (student pages and unrelated sites); rely on the product strip and Amazon."
+   },
+   "category_notes": {
+    "ca": "The photo search returned no results in Canada; Dandylion is Canadian and sold at Pet Valu."
+   }
   }
  ]
 }

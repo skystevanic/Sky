@@ -1,0 +1,637 @@
+{
+ "slug": "paw-wash",
+ "phrase": "paw cleaner",
+ "checked": "2026-10-11",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22paw%20cleaner%22",
+ "ads_loaded": 99,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 38,
+ "advertisers_with_3_plus_ads": 10,
+ "biggest_advertiser_share": 0.15,
+ "brands_new_in_last_2_months": 32,
+ "brands_advertising_3_plus_months": 4,
+ "ads_started_last_2_months": 88,
+ "ads_older_than_6_months": 0,
+ "pattern": "a swarm, right now",
+ "plain": "38 brands, and 32 of them only started advertising it in the last two months. Of the 9 biggest shops we could date, 3 are over a year old and 4 opened in the last four months.",
+ "months": {
+  "2026-05": 3,
+  "2026-07": 1,
+  "2026-08": 7,
+  "2026-09": 20,
+  "2026-10": 68
+ },
+ "brand_months": {
+  "2026-05": 3,
+  "2026-07": 1,
+  "2026-08": 2,
+  "2026-09": 7,
+  "2026-10": 25
+ },
+ "top_advertisers": [
+  {
+   "name": "mr.Soda",
+   "pages": 1,
+   "page_names": [
+    "mr.Soda"
+   ],
+   "ads": 15,
+   "oldest_live_ad": "2026-08-10",
+   "page_likes": 12236,
+   "headline": "mr.Soda",
+   "shop": "mrsoda.lt",
+   "product_page": "http://mrsoda.lt/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=185535952330139",
+   "shop_open_since": "2026-02-07"
+  },
+  {
+   "name": "Aniva",
+   "pages": 1,
+   "page_names": [
+    "Aniva"
+   ],
+   "ads": 12,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 572,
+   "headline": "العناية اللي يستحقّها حيوانك… تبدأ من هنا 🐾",
+   "shop": "anniva.tn",
+   "product_page": "https://anniva.tn/product/pack",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=483187495038215",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pet Kingdom",
+   "pages": 1,
+   "page_names": [
+    "Pet Kingdom"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 1941,
+   "headline": "{{product.name}}",
+   "shop": "shopee.co.id",
+   "product_page": "https://shopee.co.id/petkingdomofficial",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100709216154365",
+   "shop_open_since": null
+  },
+  {
+   "name": "OutbackPaw",
+   "pages": 1,
+   "page_names": [
+    "OutbackPaw"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": 179,
+   "headline": "Limited Time Offer  - 50% OFF + Free Gifts",
+   "shop": "outbackpaw.com",
+   "product_page": "https://outbackpaw.com/products/adventure-seat-cover",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1156490244212894",
+   "shop_open_since": "2026-05-28"
+  },
+  {
+   "name": "Barely There Litter",
+   "pages": 1,
+   "page_names": [
+    "Barely There Litter"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-09-02",
+   "page_likes": 803,
+   "headline": "The 12 Month Difference",
+   "shop": "barelytherelitter.com.au",
+   "product_page": "https://barelytherelitter.com.au/products/barely-there-litter-stainless-steel-litter-box",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=388937640964217",
+   "shop_open_since": "2024-01-26"
+  },
+  {
+   "name": "Calivo Pets",
+   "pages": 1,
+   "page_names": [
+    "Calivo Pets"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 12,
+   "headline": "Save Up To 20% - Offer Ends Soon",
+   "shop": "calivopets.com",
+   "product_page": "https://calivopets.com/products/calivo-quiet-paws-painless-pet-nail-grinder",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1227752917096680",
+   "shop_open_since": "2026-07-19"
+  },
+  {
+   "name": "Bugalugs Pet Care",
+   "pages": 1,
+   "page_names": [
+    "Bugalugs Pet Care"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-20",
+   "page_likes": 27745,
+   "headline": "{{product.name}}",
+   "shop": "bugalugspetcare.com",
+   "product_page": "https://bugalugspetcare.com/collections/grooming-tools",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107606870849148",
+   "shop_open_since": "2024-03-26"
+  },
+  {
+   "name": "Nuvio",
+   "pages": 1,
+   "page_names": [
+    "Nuvio"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-18",
+   "page_likes": 6,
+   "headline": "Cleaner Paws, Cleaner Floors",
+   "shop": "1x0tvg-t0.myshopify.com",
+   "product_page": "https://1x0tvg-t0.myshopify.com/products/portable-dog-paw-cleaner",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1396598400195121",
+   "shop_open_since": "2026-09-17"
+  },
+  {
+   "name": "Barasch Onlineshop",
+   "pages": 1,
+   "page_names": [
+    "Barasch Onlineshop"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 7,
+   "headline": "Matschfrei™ Paw Cleaner PRO – Clean Paws in Seconds",
+   "shop": "baraschshop.com",
+   "product_page": "https://baraschshop.com/products/pfotenreiniger-pro",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1200466959824019",
+   "shop_open_since": "2026-08-02"
+  },
+  {
+   "name": "Nuvapet Chile",
+   "pages": 1,
+   "page_names": [
+    "Nuvapet Chile"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-10-02",
+   "page_likes": 29,
+   "headline": "OFERTA CYBER ! 40% TERMINA HOY",
+   "shop": "nuvapetchile.com",
+   "product_page": "https://nuvapetchile.com/products/quitapelos-pro%E2%84%A2-gatos",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1204584392742559",
+   "shop_open_since": "2026-07-16"
+  },
+  {
+   "name": "WAHL CA Animal",
+   "pages": 1,
+   "page_names": [
+    "WAHL CA Animal"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-24",
+   "page_likes": 64,
+   "headline": "Soft, Healthy Paws Start Here",
+   "shop": "ca.wahl.com",
+   "product_page": "https://ca.wahl.com/home-pet-grooming/parts-accessories/paw-grooming",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=885051378028757",
+   "shop_open_since": null
+  },
+  {
+   "name": "Herbal Hound",
+   "pages": 1,
+   "page_names": [
+    "Herbal Hound"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 2567,
+   "headline": "The Best Paw Cleaner in Australia",
+   "shop": "herbalhound.com.au",
+   "product_page": "https://herbalhound.com.au/collections/bundles",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=183276178202710",
+   "shop_open_since": "2023-11-21"
+  },
+  {
+   "name": "Petdriv Pet Essentials",
+   "pages": 2,
+   "page_names": [
+    "Petdriv Pet Essentials",
+    "petdrivv"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 2,
+   "headline": "PETDRIV",
+   "shop": "petdriv.com",
+   "product_page": "http://petdriv.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1340254109169473",
+   "shop_open_since": null
+  },
+  {
+   "name": "I Love Dogs",
+   "pages": 1,
+   "page_names": [
+    "I Love Dogs"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 1,
+   "headline": "Clean Paws in 4 Easy Steps",
+   "shop": "ilovedogs.store",
+   "product_page": "https://ilovedogs.store/products/cat-and-dog-paw-cleaner-dog-paw-washer-paw-muddy-paw-cleaner-perfect-gifts-for-pet-owners",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1305157872672037",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Regal Pet Co",
+   "pages": 1,
+   "page_names": [
+    "The Regal Pet Co"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 4,
+   "headline": "Bugalugs has officially landed in India!\nAnd we kicked things off with some tail-wagging f",
+   "shop": "theregalpetco.com",
+   "product_page": "https://theregalpetco.com/bugalugs/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1249245484930297",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pawly Supply",
+   "pages": 1,
+   "page_names": [
+    "Pawly Supply"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 265,
+   "headline": "{{product.name | titleize}}",
+   "shop": "pawlysupply.com",
+   "product_page": "https://pawlysupply.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1056337477544316",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pets Dreams UK",
+   "pages": 1,
+   "page_names": [
+    "Pets Dreams UK"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-31",
+   "page_likes": 13169,
+   "headline": "#1 Dog Paw Cleaner🐾",
+   "shop": "pets-dreams.uk",
+   "product_page": "https://pets-dreams.uk/products/gentle-waterless-paw-cleansing-foam-with-brush-for-dogs",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=122099419748000769",
+   "shop_open_since": null
+  },
+  {
+   "name": "DOG SHT",
+   "pages": 1,
+   "page_names": [
+    "DOG SHT"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-01",
+   "page_likes": 236,
+   "headline": "{{product.name}}",
+   "shop": "dogsht.com.au",
+   "product_page": "https://dogsht.com.au/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101260942513629",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ninja Shark Australia",
+   "pages": 1,
+   "page_names": [
+    "Ninja Shark Australia"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-14",
+   "page_likes": 13291,
+   "headline": "{{product.name}}",
+   "shop": "ninjashark.com.au",
+   "product_page": "https://ninjashark.com.au/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101378288254676",
+   "shop_open_since": null
+  },
+  {
+   "name": "HankPets",
+   "pages": 1,
+   "page_names": [
+    "HankPets"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-29",
+   "page_likes": 1544,
+   "headline": "{{product.name}}",
+   "shop": "hankpets.com",
+   "product_page": "https://hankpets.com/collections/dog-accessories",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109554005236586",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Minnie Store",
+   "pages": 1,
+   "page_names": [
+    "The Minnie Store"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 10,
+   "headline": "The Minnie Store",
+   "shop": "theminniestore.com",
+   "product_page": "https://theminniestore.com/products/paw-cleaner-cup",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=129386407088113",
+   "shop_open_since": null
+  },
+  {
+   "name": "Snout & Paw",
+   "pages": 1,
+   "page_names": [
+    "Snout & Paw"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-02",
+   "page_likes": 3,
+   "headline": "Looking for ideas for your next Pet Appreciation gift? Check out our best sellers! Time is",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1287975517734476",
+   "shop_open_since": null
+  },
+  {
+   "name": "Lilly Bell Pet Shop",
+   "pages": 1,
+   "page_names": [
+    "Lilly Bell Pet Shop"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 328,
+   "headline": "Set kozmetike za ljubimce\n🐾Cena 3.500rsd🐾\n🎀️Postarina besplatna🎀\n- Pena za suvo pranje 300",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=789349207597839",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Noble Paw",
+   "pages": 1,
+   "page_names": [
+    "The Noble Paw"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-12",
+   "page_likes": 96,
+   "headline": "{{product.name}}",
+   "shop": "thenoblepawboutique.com",
+   "product_page": "https://thenoblepawboutique.com/products/electric-automatic-pet-paw-cleaning-cup",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1152759627930217",
+   "shop_open_since": null
+  },
+  {
+   "name": "Coda & Casa",
+   "pages": 1,
+   "page_names": [
+    "Coda & Casa"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": null,
+   "headline": "Cleaner paws in seconds",
+   "shop": "codaecasa.store",
+   "product_page": "https://codaecasa.store/en-us/products/paw-cleaner-cup",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1287151894492294",
+   "shop_open_since": null
+  },
+  {
+   "name": "PuppiesZone",
+   "pages": 1,
+   "page_names": [
+    "PuppiesZone"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 6,
+   "headline": "PuppiesZone",
+   "shop": "puppieszone.com",
+   "product_page": "https://puppieszone.com/product/paw-plunger-pet-paw-cleaner-soft-silicone-foot-cleaning-cup-portable-cats-dogs-paw-clean-brush-home-practical-supplies-3-sizes/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=189594497571386",
+   "shop_open_since": null
+  },
+  {
+   "name": "WhiskerWell",
+   "pages": 1,
+   "page_names": [
+    "WhiskerWell"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": null,
+   "headline": "Paw Cleaner Cup – from £9.99",
+   "shop": "whiskerwell.co.uk",
+   "product_page": "https://whiskerwell.co.uk/product/mess-free-paw-cleaner-cup/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1225540600652903",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pet&Cat Paradise",
+   "pages": 1,
+   "page_names": [
+    "Pet&Cat Paradise"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 2254,
+   "headline": "❌ Accessoires et quelques produits anti puces pour chien et chat ❌\nLivraison possible 🚲🛵\n0",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=140411869148219",
+   "shop_open_since": null
+  },
+  {
+   "name": "PawLand",
+   "pages": 1,
+   "page_names": [
+    "PawLand"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-29",
+   "page_likes": 1,
+   "headline": "PawLand",
+   "shop": "pawlandstore.gr",
+   "product_page": "https://www.pawlandstore.gr/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1135910149607464",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pawszozo Ltd",
+   "pages": 1,
+   "page_names": [
+    "Pawszozo Ltd"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 9,
+   "headline": "Clean Paws in Seconds 🐾",
+   "shop": "pawszozo.com",
+   "product_page": "https://www.pawszozo.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1056916890847445",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Paws Store",
+   "pages": 1,
+   "page_names": [
+    "The Paws Store"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 32,
+   "headline": "{{product.name | titleize}}",
+   "shop": "thepawsstore.in",
+   "product_page": "https://thepawsstore.in/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1021586634378954",
+   "shop_open_since": null
+  },
+  {
+   "name": "Bscly For Pets",
+   "pages": 1,
+   "page_names": [
+    "Bscly For Pets"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": null,
+   "headline": "Buy 2 Get 2 FREE 🐾",
+   "shop": "bsclyforpets.com",
+   "product_page": "https://bsclyforpets.com/collections/all",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=953943051128069",
+   "shop_open_since": null
+  },
+  {
+   "name": "PawSheen",
+   "pages": 1,
+   "page_names": [
+    "PawSheen"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 23,
+   "headline": "Paw Cleaner Cup",
+   "shop": "pawsheen.com",
+   "product_page": "https://pawsheen.com/products/paw-cleaner-cup",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=218529964667434",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pet Amz Store",
+   "pages": 1,
+   "page_names": [
+    "Pet Amz Store"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-03",
+   "page_likes": 11,
+   "headline": "{{product.name | titleize}}",
+   "shop": "petamzstore.com",
+   "product_page": "https://petamzstore.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1156223754233809",
+   "shop_open_since": null
+  },
+  {
+   "name": "WoofnWhiskers",
+   "pages": 1,
+   "page_names": [
+    "WoofnWhiskers"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 3,
+   "headline": "USB-C paw cleaner",
+   "shop": "woofandwhisker.online",
+   "product_page": "https://woofandwhisker.online/products/usb-c-paw-cleaner-cup",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1346445168543350",
+   "shop_open_since": null
+  },
+  {
+   "name": "Wagbase ca",
+   "pages": 1,
+   "page_names": [
+    "Wagbase ca"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 1,
+   "headline": "{{product.name | titleize}}",
+   "shop": "wagbase.ca",
+   "product_page": "https://wagbase.ca/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1306779992520853",
+   "shop_open_since": null
+  },
+  {
+   "name": "PetPollo",
+   "pages": 1,
+   "page_names": [
+    "PetPollo"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 4,
+   "headline": "Make Post-Walk Paw Cleanup Simpler",
+   "shop": "petpollo.com",
+   "product_page": "https://petpollo.com/products/dog-paw-cleaner-cup-soft-silicone-combs-portable-outdoor-pet-foot-washer-paw-clean-brush-quickly-wash-foot-cleaning-bucket",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1298438523349112",
+   "shop_open_since": null
+  },
+  {
+   "name": "Archie's pet",
+   "pages": 1,
+   "page_names": [
+    "Archie's pet"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 85,
+   "headline": "Archie's pet",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=632575706587225",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "mrsoda.lt": 15,
+  "anniva.tn": 12,
+  "shopee.co.id": 9,
+  "outbackpaw.com": 7,
+  "barelytherelitter.com.au": 6,
+  "calivopets.com": 6,
+  "bugalugspetcare.com": 3,
+  "1x0tvg-t0.myshopify.com": 3,
+  "baraschshop.com": 3,
+  "nuvapetchile.com": 3,
+  "ca.wahl.com": 2,
+  "herbalhound.com.au": 2,
+  "petdriv.com": 2,
+  "ilovedogs.store": 2,
+  "theregalpetco.com": 1,
+  "pawlysupply.com": 1,
+  "pets-dreams.uk": 1,
+  "dogsht.com.au": 1,
+  "ninjashark.com.au": 1,
+  "hankpets.com": 1,
+  "theminniestore.com": 1,
+  "thenoblepawboutique.com": 1,
+  "codaecasa.store": 1,
+  "puppieszone.com": 1,
+  "whiskerwell.co.uk": 1
+ },
+ "cost_usd": 0.57,
+ "shops_checked": 9,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 4
+}

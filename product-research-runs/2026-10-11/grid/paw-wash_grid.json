@@ -1,0 +1,868 @@
+{
+  "slug": "paw-wash",
+  "query": "dog paw cleaner foam",
+  "mode": "full",
+  "brand_price": 20.0,
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "currency": "A$",
+      "status": "blocked",
+      "why": "BIG W sells it at $12.05",
+      "results": 40,
+      "distinct_sellers": 23,
+      "chains_present": [
+        "BIG W",
+        "Woolworths"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon AU - Amazon.com.au-Seller",
+        "Kogan.com"
+      ],
+      "cheapest": 5.0,
+      "typical": 20.49,
+      "most_reviewed": {
+        "seller": "Petso Online",
+        "title": "Kojima Pet Paw Cleaning Foam 150ml",
+        "reviews": 526,
+        "price_text": "$13.40"
+      },
+      "top_rows": [
+        {
+          "seller": "Petso Online",
+          "title": "Kojima Pet Paw Cleaning Foam 150ml",
+          "price_text": "$13.40",
+          "price": 13.4,
+          "rating": 4.9,
+          "reviews": 526,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:14308920234891153194,productid:258706005835693348,headlineOfferDocid:2970845619968187019,imageDocid:11516535394905173722,rds:PC_4706400122330456792|PROD_PC_4706400122330456792,gpcid:4706400122330456792,mid:576462701811092776,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhkZlrSw5oKZotdHb309VIu3i3i27DHy-ms3KRBT4BPcRjMDsnPI9a76ElF0kN5NZkCceC1bwZW34FrrXOAZqv09NniVV3bS957dlElPLk1HGd2jgOSvr0"
+        },
+        {
+          "seller": "Asian Pantry",
+          "title": "LION Dog Paw Cleaning Spray",
+          "price_text": "$13.99",
+          "price": 13.99,
+          "rating": 4.5,
+          "reviews": 72,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:3028065798625258809,productid:1397799170575017207,headlineOfferDocid:6466056711072303020,imageDocid:8682134225937695543,rds:PC_451410244738516024|PROD_PC_451410244738516024,gpcid:451410244738516024,mid:576462700182739888,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBqRanoiPMMc0BlSkpjBs-giIGuuzqTpeQcSFMcLhUouHIo2uML-J_IMtT3z9yCZc20oXV4QOmi-5CtLGUxlLS62ToZvSjK97Vq5ezwXdx3YnMJUIaePAV"
+        },
+        {
+          "seller": "Groomica",
+          "title": "BUGALUGS Dog Paw Cleaner No Rinse Foam Cat & Dog shampoo with Silicone Brush Head",
+          "price_text": "$28.00",
+          "price": 28.0,
+          "rating": 4.7,
+          "reviews": 71,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:7508214767223229874,productid:16096966786451811112,headlineOfferDocid:13466790981754461982,imageDocid:3017027901527463791,rds:PC_7841996324132333037|PROD_PC_7841996324132333037,gpcid:7841996324132333037,mid:576462757833160465,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStZckj1OWs_bOBUHUxLJYxwH5s2A3i0lcoAk94VE8e-CckuVaBFN3pcKhooKTll51oqxN31fyxUcPNi95_qdYwk5u5XjFWaxsNW3RQ1jOG8PWH8zwIhKlg"
+        },
+        {
+          "seller": "Woolworths",
+          "title": "2x Cature 150ml Waterless Paws Pet Cat/Dog Cleaning Foam Hygiene Grooming Wash",
+          "price_text": "$29.05",
+          "price": 29.05,
+          "rating": 4.9,
+          "reviews": 65,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:16457786965860492552,headlineOfferDocid:16457786965860492552,imageDocid:14599638894050105703,rds:PC_5946954180427158415|PROD_PC_5946954180427158415,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbKLn1qARJDPAyRd5AjwZwaZRgC3qvD7GKJzY4pt07MKA7BpU8DPjkYNOuz_fC2FU_dI3E6WY3B1v0J0L3UPJOl9KUoS-MfwZho1a-ZlIH5r1PD-yK2GwRXg"
+        },
+        {
+          "seller": "BIG W",
+          "title": "M-Pets Dog/Cat Cleaning/Grooming Hygiene Paw Soap Wash Foam w/Brush/Comb150ml",
+          "price_text": "$12.05",
+          "price": 12.05,
+          "rating": 4.8,
+          "reviews": 61,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:3255377933507797151,productid:13384734944021848437,headlineOfferDocid:17547725014202490285,imageDocid:13388556422072624646,rds:PC_16310079017259187742|PROD_PC_16310079017259187742,gpcid:16310079017259187742,mid:576462417006334615,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQMC8fPvQBpY3r6wswPr36zd810NUSitavXkZ2qoyZuLPMPdVJsgbATfP9s-T1uW9x_9OYlv7jqIxaTfeCKCpudAsL9-XODWF87Ywl3JXf-yNvtAtYk3ucl"
+        },
+        {
+          "seller": "Groomica",
+          "title": "Bugalugs Dog Paw Cleaner No Rinse Foam Cat & Dog shampoo with Silicone Brush Head",
+          "price_text": "$28.00",
+          "price": 28.0,
+          "rating": 4.8,
+          "reviews": 59,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:9383476842712251519,productid:4637484523362491087,headlineOfferDocid:12325910009242330820,imageDocid:7228121405663668355,rds:PC_5919962948549363738|PROD_PC_5919962948549363738,gpcid:2652559495429807787,mid:576462518207626051,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTOoTsiGlxAyd_Qw15ZjAxg0VJmuHccL9n4D4GAcl_dRmCskCXN6YCQAgxz3glbdaRTBUf7oZj-OvvvahzwR5kEqLaf2y0rJ8PDtvbe73NBWw3J3_smGUdM"
+        },
+        {
+          "seller": "Pet Supplies Empire",
+          "title": "Cature Waterless Paw Cleaning Foam 150ml | Dog & Cat Pet Grooming Supplies",
+          "price_text": "$14.95",
+          "price": 14.95,
+          "rating": 4.9,
+          "reviews": 57,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:15321837085639257133,headlineOfferDocid:15321837085639257133,imageDocid:2258032006338788099,rds:PC_11252514994387215594|PROD_PC_11252514994387215594,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRYB6Woko5TxEU5SzNEQgbTaW_z2-EpvX0Zf2Q5moniSfW2kHloqHPvHNugLtj8e-2ejXEDMsTf-H0bVB4BEbumo9Xl-5bhNFU8G-GVGE6vSDSDY1bh5u5b"
+        },
+        {
+          "seller": "Amazon",
+          "title": "Cature Natural Pet Paws Foam 150mL, Moisturizing Waterless Paws Foam",
+          "price_text": "$13.99",
+          "price": 13.99,
+          "rating": 4.9,
+          "reviews": 57,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:11091319257748823952,headlineOfferDocid:11091319257748823952,imageDocid:10753649858463731270,rds:PC_11252514994387215594|PROD_PC_11252514994387215594,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDDZvC6uA7Vlib6mdO495LytANt9yiKyj0QgCkSHBhSmynQAJa4RsSO90mxbuFu-XzMaLpOKMySf2et6QuYJZ_CSLtxnWcGX_TbXqbYwQvTmgyaW_DLg"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "BIG W",
+          "title": "M-Pets Dog/Cat Cleaning/Grooming Hygiene Paw Soap Wash Foam w/Brush/Comb150ml",
+          "price_text": "$12.05",
+          "price": 12.05,
+          "rating": 4.8,
+          "reviews": 61,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:3255377933507797151,productid:13384734944021848437,headlineOfferDocid:17547725014202490285,imageDocid:13388556422072624646,rds:PC_16310079017259187742|PROD_PC_16310079017259187742,gpcid:16310079017259187742,mid:576462417006334615,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQMC8fPvQBpY3r6wswPr36zd810NUSitavXkZ2qoyZuLPMPdVJsgbATfP9s-T1uW9x_9OYlv7jqIxaTfeCKCpudAsL9-XODWF87Ywl3JXf-yNvtAtYk3ucl"
+        },
+        {
+          "seller": "BIG W",
+          "title": "Velocity Dog Feet Foam Cleaner 100ML",
+          "price_text": "$33.91",
+          "price": 33.91,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:10610596133130621327,productid:12361110903923397051,headlineOfferDocid:2620392724039748636,imageDocid:9060941135237869520,gpcid:12486370295952743045,mid:576462895437181785,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRKuXWoy2dU4KhpLNvrpoJs0MdoaqiQIfkrnlG5Ocx2kclLZ1wY4ScnBMVY1w-CW5k0e_3RE0pN0ty0wOU5TJ4JYxAVqPBJa08LeAXxz4Y"
+        },
+        {
+          "seller": "Woolworths",
+          "title": "2x Cature 150ml Waterless Paws Pet Cat/Dog Cleaning Foam Hygiene Grooming Wash",
+          "price_text": "$29.05",
+          "price": 29.05,
+          "rating": 4.9,
+          "reviews": 65,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:16457786965860492552,headlineOfferDocid:16457786965860492552,imageDocid:14599638894050105703,rds:PC_5946954180427158415|PROD_PC_5946954180427158415,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbKLn1qARJDPAyRd5AjwZwaZRgC3qvD7GKJzY4pt07MKA7BpU8DPjkYNOuz_fC2FU_dI3E6WY3B1v0J0L3UPJOl9KUoS-MfwZho1a-ZlIH5r1PD-yK2GwRXg"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "currency": "US$",
+      "status": "blocked",
+      "why": "Target sells it at $12.99",
+      "results": 40,
+      "distinct_sellers": 21,
+      "chains_present": [
+        "Target"
+      ],
+      "marketplaces_present": [
+        "Walmart - Qihe Store",
+        "eBay",
+        "eBay - crossroads_collections"
+      ],
+      "cheapest": 2.0,
+      "typical": 14.99,
+      "most_reviewed": {
+        "seller": "The Farm Store",
+        "title": "Mudbuster Portable Dog Paw Cleaner | Keep Floors Clean Fuchsia / Petite",
+        "reviews": 1400,
+        "price_text": "$13.00"
+      },
+      "top_rows": [
+        {
+          "seller": "The Farm Store",
+          "title": "Mudbuster Portable Dog Paw Cleaner | Keep Floors Clean Fuchsia / Petite",
+          "price_text": "$13.00",
+          "price": 13.0,
+          "rating": 3.6,
+          "reviews": 1400,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:16491464619754361245,headlineOfferDocid:16491464619754361245,imageDocid:16319781237122285800,rds:PC_3255949287425380724|PROD_PC_3255949287425380724,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTopY7DQVzrkei3CIS4Mhg67TJ6dPCYf-JpRCFPpirUTMSy-AHlMsK7i9qmKqpASJ5lxteFYr0qcD7_iT6lN-CIuRJsoBYoMw70rlHYeNHLlgGKS_-jpBUS"
+        },
+        {
+          "seller": "Nature Select",
+          "title": "Dexas MudBuster Paw",
+          "price_text": "$26.99",
+          "price": 26.99,
+          "rating": 5.0,
+          "reviews": 1300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:8463747376721157899,productid:11539772228572563437,headlineOfferDocid:13581385657676053979,imageDocid:13830030659152214439,rds:PC_3255949287425380724|PROD_PC_3255949287425380724,gpcid:3255949287425380724,mid:576462778303465755,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvkmEDQqW1H3cLHsRUupbe-XJ6vQgy28JH1wMxhce8pmZhgFDXnqzwSXNfP-JY8ZWsRlGtFkPvOe0tfRUDhf26oMlfMxOliIVtvTzmaSs"
+        },
+        {
+          "seller": "Mercari",
+          "title": "Dexas Mudbuster Dog Paw Cleaner - Pet Supplies | Size: s",
+          "price_text": "$7.11",
+          "price": 7.11,
+          "rating": 5.0,
+          "reviews": 1200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:8248315557910265298,headlineOfferDocid:8248315557910265298,imageDocid:8744149856161635277,rds:PC_3255949287425380724|PROD_PC_3255949287425380724,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRUejY6AF1iwSthai7taIeQC8QWIfSEc5ZLtTc_L0eOj-4ZJnEGQrKF0OhXUDieMykLO1AubfVHXNfmD-ADnIDXYoQD7AhwJu0hw1o74cc9"
+        },
+        {
+          "seller": "Chop Chop Chews",
+          "title": "Clean Paws No-Rinse Foaming Cleanser Refill",
+          "price_text": "$25.00",
+          "price": 25.0,
+          "rating": 5.0,
+          "reviews": 192,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:12629252189059290168,headlineOfferDocid:12629252189059290168,imageDocid:13027919970377848858,rds:PC_12863618022886307679|PROD_PC_12863618022886307679,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0z7-uMTdLmXEHyn6R2vCOYsZVtGKSbgsiRMnkZGSEntH7CG5K966cF3lOn-3KAbET6fiGyBaWRdGZhz9g5F4l49nqf1ogEhccIWtKd8lfU0RqIWAJDBj1"
+        },
+        {
+          "seller": "Beauty Care Bag",
+          "title": "M-Pets Dog Paw Cleaning Foam 150ml",
+          "price_text": "$20.36",
+          "price": 20.36,
+          "rating": 4.3,
+          "reviews": 141,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:3255377933507797151,productid:18332493863612517980,headlineOfferDocid:13059465860204703090,imageDocid:13586434098933065615,rds:PC_16310079017259187742|PROD_PC_16310079017259187742,gpcid:16310079017259187742,mid:576462417006334615,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSeOSEQNSPoFuEoFRon__R7BaXFa0TmQ7SsmmjYm4oU7cmjS9kXeMbFvVzgwLgZk1hGXYRFv7jvYfoCgQjMP3ZQIoQa_Q1_KlmuNGGZ2vFRrh7iD7miuuFA"
+        },
+        {
+          "seller": "Whatnot",
+          "title": "Dandylion Clean Paws No-Rinse Foaming Cleanser Refill – Gentle, Fragrance-Free,",
+          "price_text": "$44.99",
+          "price": 44.99,
+          "rating": 4.4,
+          "reviews": 123,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:17479250848560138524,headlineOfferDocid:17479250848560138524,imageDocid:16200932038658734326,rds:PC_12863618022886307679|PROD_PC_12863618022886307679,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjgALCejV_Gb0p1XCLdFt2Uw78BKInJJmrKLePOOZM0_v5PTV6JVvumGBg2G_jL4LBmusqMhdm_ji6qljFqI_t-rz_CinlSSNEqyvsE6U"
+        },
+        {
+          "seller": "sweetcare.com",
+          "title": "Menforsan Shampoo Aloe Vera Foam",
+          "price_text": "$12.64",
+          "price": 12.64,
+          "rating": 5.0,
+          "reviews": 119,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:13428539373258462036,productid:163356339538469285,headlineOfferDocid:8172551578721784620,imageDocid:13037717705274144351,rds:PC_9115260688476867402|PROD_PC_9115260688476867402,gpcid:9115260688476867402,mid:576462751689594143,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDlMA05qc5n8UxhljxRdG1JMWvwn45e_BE7u_HWlMijrotFqqJDF3L5xcdHwyozR5Tk0yiZ9yWptqk6iuwRLzX0uPf1S9CQg"
+        },
+        {
+          "seller": "Chewy.com",
+          "title": "Bodhi Dog Foaming Dry Pet Shampoo No Rinse Cleaner Natural Waterless Foam Mousse for Dogs ",
+          "price_text": "$10.99",
+          "price": 10.99,
+          "rating": 4.6,
+          "reviews": 85,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:4180621850064597198,productid:5105088160956409435,headlineOfferDocid:8615900512716756031,imageDocid:16166432712636332613,rds:PC_1336901793823946015|PROD_PC_1336901793823946015,gpcid:1336901793823946015,mid:576462694274908068,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRIQL0CQp2dvqqQtWZD1vQ69MlWRwMdfZg9U3Kt511CIXQpYS2tosaZnGZLca2eP3CzVuQh7DjPgOV-Ni8KFrGXv5sExTcyeQJ7ItbRlmiB_nGfAGJeqigI"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Target",
+          "title": "Wahl Waterless Foaming Unscented Paw Cleanser Dog Shampoo - 6.8 fl oz",
+          "price_text": "$12.99",
+          "price": 12.99,
+          "rating": 4.5,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:15105786256319623327,headlineOfferDocid:15105786256319623327,imageDocid:8788979908743651618,rds:PC_11739976879884322978|PROD_PC_11739976879884322978,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxur343_LePOJJ7qoyMhF7rbvECVajoekkLnXka0zjPPrl-KURGTsI-do4M4xUh2wzGlM4Rw4GoPdgCl9HYDZGvYa7yBaDqat3hkwkNoSnnF6ePMvhcUXi3Q"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "currency": "£",
+      "status": "crowded",
+      "why": "22 different sellers",
+      "results": 40,
+      "distinct_sellers": 22,
+      "chains_present": [],
+      "marketplaces_present": [
+        "AliExpress - AliExpress-6002973751",
+        "Amazon.co.uk - Amazon.co.uk-Seller",
+        "eBay",
+        "eBay - bajishili"
+      ],
+      "cheapest": 4.23,
+      "typical": 10.0,
+      "most_reviewed": {
+        "seller": "CreatureLand.",
+        "title": "KOJIMA Pet Paw Cleaning Foam",
+        "reviews": 526,
+        "price_text": "£5.00"
+      },
+      "top_rows": [
+        {
+          "seller": "CreatureLand.",
+          "title": "KOJIMA Pet Paw Cleaning Foam",
+          "price_text": "£5.00",
+          "price": 5.0,
+          "rating": 4.9,
+          "reviews": 526,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:14308920234891153194,productid:16034214261643269251,headlineOfferDocid:9723352125188538677,imageDocid:16516624202950916492,rds:PC_4706400122330456792|PROD_PC_4706400122330456792,gpcid:4706400122330456792,mid:576462701811092776,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9owfuKTwFq48PHP4pdbOSKVZULyL3a_g3Feto8UdWelyxx8BZPaVwYshsOSBbkivSJG7H5TeO9KzWTyQGFAyTyimrDo1iUPUjtmMvDtuP41wSYghiSopr6g"
+        },
+        {
+          "seller": "Pet Drugs Online",
+          "title": "Ermidra Foam 200ml",
+          "price_text": "£15.98",
+          "price": 15.98,
+          "rating": 4.8,
+          "reviews": 239,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:18319883882890942907,productid:1347885480428339698,headlineOfferDocid:5824434240625653116,imageDocid:18207086611106373931,rds:PC_12767871955370212688|PROD_PC_12767871955370212688,gpcid:12767871955370212688,mid:576462333012108129,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRnSk-rT6XC70mcwpfL6ttYQrOS9ncz_H7SOCS3fV4EGuE3YqURNyKkwPqTSLG3f6DNQjhLiwJ1Ux2pxgeuTEICtYmZaog7bdaIOM4zC_w-RpzTmhw0Djrqsw"
+        },
+        {
+          "seller": "Pets at Home",
+          "title": "Bugalugs No Rinse Paw Cleaner",
+          "price_text": "£10.00",
+          "price": 10.0,
+          "rating": 4.8,
+          "reviews": 163,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:14402470155474238442,productid:11037821535286873373,headlineOfferDocid:6780290047350509321,imageDocid:11990417157507797244,rds:PC_2652559495429807787|PROD_PC_2652559495429807787,gpcid:2652559495429807787,mid:576462518207626051,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQSDRiRJePYnPZ6vnbi5KE_7T2L6um8FiZUKJWaFYgPEa7DY23REzXv_b50K_sRi6rtb6U2WssqQbbUWjANadHV6AeSvLn144vihOmwD1Qd8xx9rZW1_Bmyg"
+        },
+        {
+          "seller": "u-buy.co.uk",
+          "title": "Dandylion Clean Paws Dog Paw Cleaner",
+          "price_text": "£22.00",
+          "price": 22.0,
+          "rating": 4.7,
+          "reviews": 147,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:12410823148252020075,productid:11410712069031941798,headlineOfferDocid:8011598323576604070,imageDocid:1916178562284327556,rds:PC_12863618022886307679|PROD_PC_12863618022886307679,gpcid:12863618022886307679,mid:576462694401196193,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSvQ7sm4aGYH6DiTSTZnVeXkSft-8A5bQ1D8nN11NfrpVQLJarOS0_6u5rW0sdMNC_kQSilHkh8XGBQqcQ7ejSQiOVGd4bcqeecBB9W6WeemSI_dPQH8aHH"
+        },
+        {
+          "seller": "vetuk.co.uk",
+          "title": "Clorexyderm 4% Foam",
+          "price_text": "£13.50",
+          "price": 13.5,
+          "rating": 4.8,
+          "reviews": 138,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:13198953185403354237,productid:12224304380322317032,headlineOfferDocid:3785968806446520481,imageDocid:2401817737677613479,rds:PC_3062424462762573060|PROD_PC_3062424462762573060,gpcid:16319769010913722841,mid:576462666265665456,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTsfGLRTZtpYuPzkrxQbFuF58M-7aizrdq1vEmrB7FV1J6yKBt2Ur5ZDEOa_ib7vgarHH1337uVoolFIyLMDgfF-vakdMAkSqnfUbUI7ixM3CHKm77J5w8Y"
+        },
+        {
+          "seller": "Pet-Supermarket.co.uk",
+          "title": "Bugalugs Baby Fresh No Rinse Paw Cleaner",
+          "price_text": "£7.79",
+          "price": 7.79,
+          "rating": 4.7,
+          "reviews": 71,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:7508214767223229874,productid:7259333967125413333,headlineOfferDocid:9595357565636381871,imageDocid:3830752730215886993,rds:PC_7841996324132333037|PROD_PC_7841996324132333037,gpcid:7841996324132333037,mid:576462757833160465,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRZ9H1cj1lvrEaj8ipdnGcsdGhA_s2e_bF904XC7VJniZMKw1pu1FGdjYF9ZO1wZBBCtspu55M-QZ3tz444zlBj4dPM4mjZvJZhoeBWXw"
+        },
+        {
+          "seller": "Vetsend.co.uk",
+          "title": "M-Pets Paw Cleaning Foam 150ml Paraben Free Pet Cleaning Supplies for Dogs",
+          "price_text": "£8.55",
+          "price": 8.55,
+          "rating": 4.8,
+          "reviews": 61,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:3255377933507797151,productid:18323651690191759127,headlineOfferDocid:9526232279242858064,imageDocid:9860860198381281874,rds:PC_16310079017259187742|PROD_PC_16310079017259187742,gpcid:16310079017259187742,mid:576462417006334615,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThAcUMBSbnXdodOkw-QSugxRzwWSHv-6Oog1yHOPwyLVaGQ9aj2nDmOTpm2HB-ki5n761aiYJqRWm4HGJCCeHvUmB-tGC_PmErVi1xp72JfMZun9ZJNgNGKQ"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "Bugalugs Paw Cleaner",
+          "price_text": "£13.99",
+          "price": 13.99,
+          "rating": 4.7,
+          "reviews": 34,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:14401474250364448625,productid:7071699049470457418,headlineOfferDocid:17621693464984060280,imageDocid:2927267616857255484,rds:PC_151055093577940619|PROD_PC_151055093577940619,gpcid:151055093577940619,mid:576462852635596304,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAqyLlbJ-FMxg3X57GcKIw5yPtMg6mfexhYfRl8kVtFgRZpYFl5UZhaaWqpCGsHM3QSxhhb15-D9AZx8hLiCE5FAhe6nVK35rUeZvO3UbYnyqwCbIHkGOW"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "currency": "C$",
+      "status": "blocked",
+      "why": "London Drugs sells it at $11.49",
+      "results": 40,
+      "distinct_sellers": 19,
+      "chains_present": [
+        "London Drugs",
+        "Walmart.ca"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon CA"
+      ],
+      "cheapest": 7.98,
+      "typical": 16.99,
+      "most_reviewed": {
+        "seller": "CreatureLand.",
+        "title": "KOJIMA Pet Paw Cleaner Foam For Dog and Cat",
+        "reviews": 526,
+        "price_text": "$10.00"
+      },
+      "top_rows": [
+        {
+          "seller": "CreatureLand.",
+          "title": "KOJIMA Pet Paw Cleaner Foam For Dog and Cat",
+          "price_text": "$10.00",
+          "price": 10.0,
+          "rating": 4.9,
+          "reviews": 526,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:14308920234891153194,productid:1293522486091313744,headlineOfferDocid:13461455421165216296,imageDocid:16516624202950916492,rds:PC_4706400122330456792|PROD_PC_4706400122330456792,gpcid:4706400122330456792,mid:576462701811092776,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6Li5PY_P9Jbs2hxYAfjNRp0gqLZjGiQ4KmShSdlat6Wq9B-DdChtcAJs2LENGb6oVd9QxcpmJ1vu-xKj8SiHVAFOfES3ZuANWI8YX2HQKGcBGbwlGj0m9mQ"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "Dandylion Clean Paws No-Rinse Foaming Cleanser",
+          "price_text": "$20.00",
+          "price": 20.0,
+          "rating": 4.7,
+          "reviews": 147,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:12410823148252020075,productid:12904231223382841165,headlineOfferDocid:3332370517681455767,imageDocid:10838844268696139165,rds:PC_12863618022886307679|PROD_PC_12863618022886307679,gpcid:12863618022886307679,mid:576462694401196193,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQU1buEWUDrKXwAyfH3nyjHMUjP8E7MUw_PFE4tN1Jd-k_D6GdGFKRu8hDwI2vcoTlkML5AEzeHnp_Tou2myT80YxKK8DwkejdJStfn_tyziAdJgGJe42IvkA"
+        },
+        {
+          "seller": "Petland Canada",
+          "title": "M-PETS Paw Cleaning Foam",
+          "price_text": "$7.98",
+          "price": 7.98,
+          "rating": 4.8,
+          "reviews": 61,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:3255377933507797151,productid:5831673783175791169,headlineOfferDocid:16171988794548698734,imageDocid:6601640594998489089,rds:PC_16310079017259187742|PROD_PC_16310079017259187742,gpcid:16310079017259187742,mid:576462417006334615,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR74uX3RF4Unzwnre5zL6fPj9ofG2MAkdAQoPT3nig-E1csZSzzPQ-aKemoRiRlHXkoIRjK8q5W9UICARbWuLME4Yx3IUHZiw"
+        },
+        {
+          "seller": "London Drugs",
+          "title": "Bugalugs No Rinse Paw Cleaner for Dogs and Cats",
+          "price_text": "$11.49",
+          "price": 11.49,
+          "rating": 4.8,
+          "reviews": 59,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:9383476842712251519,productid:13676733751016339865,headlineOfferDocid:4547264807856424944,imageDocid:7228121405663668355,rds:PC_5919962948549363738|PROD_PC_5919962948549363738,gpcid:2652559495429807787,mid:576462518207626051,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQHHCCwfD4xwLo4q_eCv84LUqRndigBSty13idgaLeTMLvM5f3Vt0Mv8dmPjecRM82-oeku2fskAq7HfBIakzLuEuT61BSujIWETiN4YzVM-MhYXc5XmPuY"
+        },
+        {
+          "seller": "Western Pet Supply",
+          "title": "Buddycare Oatmeal Paw Cleanser",
+          "price_text": "$12.99",
+          "price": 12.99,
+          "rating": 4.5,
+          "reviews": 28,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:14426703890766544362,productid:5103002644916511519,headlineOfferDocid:12517200113686600642,imageDocid:138025309529232834,rds:PC_12565778368749297934|PROD_PC_12565778368749297934,gpcid:12565778368749297934,mid:576462819644069701,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQIPOLKQGElM6vWMnBVl9UhJ3lPx-V4ewqN0M6cz3xGfchVisy2O-v3Krr_9WR4mCGanYGVWn8KicvNg6SFcumPW7FQ_Lf0"
+        },
+        {
+          "seller": "Uproot Clean",
+          "title": "Uproot Paw Cleaner",
+          "price_text": "$28.51",
+          "price": 28.51,
+          "rating": 4.6,
+          "reviews": 20,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:13250842670725967209,productid:5386649123059701020,headlineOfferDocid:16799073073520808831,imageDocid:12015525689727046826,rds:PC_1421738592415071325|PROD_PC_1421738592415071325,gpcid:1421738592415071325,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRHfPvY09s0juO_umkBGR3Si5qbBr_Yzhiaew7Zoeo0zpGoj3dQQmmAtXx8hIv4M_rzorATKh2ezWSZi6xGsD1WQDhiWA-xG1y5f-xhC8-bpoQuf2TTmi3YTw"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "Divine Canine Foam Dog Paw Cleaner",
+          "price_text": "$33.61",
+          "price": 33.61,
+          "rating": 4.3,
+          "reviews": 17,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:13970269780854947925,productid:16040194355233122390,headlineOfferDocid:2531327605170270245,imageDocid:14752700320567869888,rds:PC_7745168490708659418|PROD_PC_7745168490708659418,gpcid:7745168490708659418,mid:576462826374605424,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSH_qs2zxaVmNBhgG9CP5i_e6GberOaeO6g13ZFUHNMzwzLdojYMEYoMcLbUpPNlk9Zw4NFg9M3EVdoLNhuurUrCmMYv1gBTgH8PUt8W-Kx_79D_5WM8Pgw8Q"
+        },
+        {
+          "seller": "Moonlight Natural Pet Store",
+          "title": "Earthbath Avocado & Calendula Dog Paw Wash 237 ml",
+          "price_text": "$17.49",
+          "price": 17.49,
+          "rating": 4.9,
+          "reviews": 15,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:18094748507801993504,productid:17921798380377763176,headlineOfferDocid:5877774603873821930,imageDocid:587330927690596491,rds:PC_2770983883924213316|PROD_PC_2770983883924213316,gpcid:2770983883924213316,mid:576462807943125899,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTMnFakv9En7aCyfdzof2o57HsjZ4UGzcEdONNxNCZ-cSR9I8s8PryuJsjSnZHJWj-i2DcYzrlPkb_OldJ3xiA0xsmIBbXArCaxo2bE9DhWqym861svaiIz"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "London Drugs",
+          "title": "Bugalugs No Rinse Paw Cleaner for Dogs and Cats",
+          "price_text": "$11.49",
+          "price": 11.49,
+          "rating": 4.8,
+          "reviews": 59,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:9383476842712251519,productid:13676733751016339865,headlineOfferDocid:4547264807856424944,imageDocid:7228121405663668355,rds:PC_5919962948549363738|PROD_PC_5919962948549363738,gpcid:2652559495429807787,mid:576462518207626051,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQHHCCwfD4xwLo4q_eCv84LUqRndigBSty13idgaLeTMLvM5f3Vt0Mv8dmPjecRM82-oeku2fskAq7HfBIakzLuEuT61BSujIWETiN4YzVM-MhYXc5XmPuY"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Herunwer Waterless Paw Cleaner Foam, With Pump Brush For Dogs And Cats, Ph-Balanced Formul",
+          "price_text": "$15.59",
+          "price": 15.59,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:495540771247135050,headlineOfferDocid:495540771247135050,imageDocid:5038696637108028991,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkAPl7qK3WY8F40zoCrPhx7jD_uVvG-qb7bimRUhZpl5AC74EG1CzJ-6MMkf_o0ohn2bzyeqAZSwDSr3bSB9bHYlV15M4OQLi4tEZF0K0diFC5sO5sPd-7i35U"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Dog Paw Washing Foam Dog Feet Cleaner",
+          "price_text": "$12.99",
+          "price": 12.99,
+          "rating": 4.5,
+          "reviews": 14,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:4717095698427257088,productid:7597235305175892966,headlineOfferDocid:9643650607940601383,imageDocid:17263729020446588122,rds:PC_15960003236662642982|PROD_PC_15960003236662642982,gpcid:15960003236662642982,mid:576462524341973614,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVsv0Nb2VLtrfiHY3AYM6K42cuW5i43nDGUWli8ZPVWank7aPd4qN7Cz88PVg_b95nWBV_3qNYkrT7YmUUArpEDT5dqIqollFvKVB4voowBcZ67XVSYy-24Ec"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Pet Supplies Up To 50% Off!qocolhg Pet Paw Foam Cleaner With Built-In Brush, 100ml No-Rins",
+          "price_text": "$7.99",
+          "price": 7.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:7223668052125664217,headlineOfferDocid:7223668052125664217,imageDocid:13068859503447140956,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTl80y-wf9DZeavNeq3821h_DnX1mC1cPOXIx3_2KxIRLBssRWyJmzauCk96P-D9eHEHLNnNwBbDCSDGN7sypw5nHpjk1ZOYAOEmJ7b5yl-hsHVDKINSD9C"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Unbranded Pet Paw Foam Cleaner Moisturizing Formula For Cats And Dogs Hydrating Paw Care 1",
+          "price_text": "$14.97",
+          "price": 14.97,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:923968989015886965,headlineOfferDocid:923968989015886965,imageDocid:4983879817103958449,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPr8ofTXNRKi4C7Nf7UycZiN-Nd62CJ_JfRMYY3DQSpKdw5gBWg6Xd4LY1YVTWGBNhQprnunApRLhPh3X4hVrtfaotJrPz1GHu3fidXSI"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "currency": "€",
+      "status": "crowded",
+      "why": "23 different sellers",
+      "results": 40,
+      "distinct_sellers": 23,
+      "chains_present": [],
+      "marketplaces_present": [
+        "Amazon.de - Amazon.de-Seller",
+        "DE - FutuPets.de",
+        "Kaufland.de - Katomix"
+      ],
+      "cheapest": 2.9,
+      "typical": 15.78,
+      "most_reviewed": {
+        "seller": "Tierbedarf-pro.de",
+        "title": "Wasserloser & Sanfter Pfoten Reinigungsschaum mit Bürste für Hunde",
+        "reviews": 297,
+        "price_text": "9,95 €"
+      },
+      "top_rows": [
+        {
+          "seller": "Tierbedarf-pro.de",
+          "title": "Wasserloser & Sanfter Pfoten Reinigungsschaum mit Bürste für Hunde",
+          "price_text": "9,95 €",
+          "price": 9.95,
+          "rating": 4.9,
+          "reviews": 297,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=productid:1244962829458998516,headlineOfferDocid:1244962829458998516,imageDocid:14460519672996003713,rds:LO_1244962829458998516|PROD_LO_1244962829458998516,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwm2C6o5Jn3zoS3bRShURvQkD1C7G41rPy29Ji_h2lvu3UBJ9aGUZyin1BTSPJ9V11_E3uWfzm6pwWNG9JC1_FtaoGFVb2UWpDWlGKR5ju"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "'PfotenBlitz' Pfotenreiniger für Hunde 1 St",
+          "price_text": "18,90 €",
+          "price": 18.9,
+          "rating": 4.7,
+          "reviews": 249,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:5975299975163319987,productid:10987503667519224905,headlineOfferDocid:7308389039120241151,imageDocid:1394230370037676546,rds:PC_14290983676078177119|PROD_PC_14290983676078177119,gpcid:14290983676078177119,mid:576462901047705592,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTXu8bortH3QT-sDhSyatecN30LQp05k-xxjl4hih8rAVYOLEFKFM9xJPXghXvheqWqiV1BtwqmZ7xe4D69RsLH9TEvEm82Ujtg59NwGDVmVt4mEfPsWHzz9Q"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "Bugalugs Pfotenreiniger 200 ml",
+          "price_text": "24,97 €",
+          "price": 24.97,
+          "rating": 4.8,
+          "reviews": 163,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:1689202344435558590,productid:18372828333208756256,headlineOfferDocid:5973859864698550349,imageDocid:13012093210149691923,rds:PC_2652559495429807787|PROD_PC_2652559495429807787,gpcid:2652559495429807787,mid:576462518207626051,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQCu2PqyK3MqJt4fQmdOhIW1BEBIHgT5wuq0vk5vcgFMdS8CsUt4ZsavRfTmL2b8SWEvc7CFUyVnDSNgb-P0RY1E1GTHcQYyBgbVL1hr_7BUoPL18KEIv5B"
+        },
+        {
+          "seller": "Groomica",
+          "title": "Bugalugs Pfotenreiniger Baby Fresh 200 ml",
+          "price_text": "16,55 €",
+          "price": 16.55,
+          "rating": 4.7,
+          "reviews": 71,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:7508214767223229874,productid:8909075859528897394,headlineOfferDocid:15686725832910278142,imageDocid:3017027901527463791,rds:PC_7841996324132333037|PROD_PC_7841996324132333037,gpcid:7841996324132333037,mid:576462757833160465,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHiKr9RED_UPw4XXodZoBqEp-L05EDxrtmAQUiv2EqXvIGPdmH6DEoxNtgthicjoyiBGrkuH-qKu15mQ0jna2q9VQTD7hLuNrZLAUoEvMzX8gUoV3Qc5zx"
+        },
+        {
+          "seller": "ZooshopXXL.de",
+          "title": "BuddyCare Vanilla & Shea Butter Paw cleanser 200ml",
+          "price_text": "11,99 €",
+          "price": 11.99,
+          "rating": 4.5,
+          "reviews": 28,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:8843532391647105801,productid:18036692059805538419,headlineOfferDocid:13484326043614382042,imageDocid:15623187933828944274,rds:PC_12565778368749297934|PROD_PC_12565778368749297934,gpcid:12565778368749297934,mid:576462819644069701,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOZlduC3T31iYz4dNmhvEpUTMxpUCr-fqnIw0yZ6-FIhIrjN_CPbl4c9RP1gOmY1_fVZNhDCNXZh0WIbztIaiD1CdTyUSzRClJ3ScaiN3mI_-WD63B32htjw"
+        },
+        {
+          "seller": "Makeup",
+          "title": "totobi Schaum zur Reinigung von Hunde",
+          "price_text": "15,78 €",
+          "price": 15.78,
+          "rating": 4.9,
+          "reviews": 27,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:16273570051020300674,productid:14462655257408379445,headlineOfferDocid:13311672445688989468,imageDocid:2786979386562389532,rds:PC_8544833063548306897|PROD_PC_8544833063548306897,gpcid:8544833063548306897,mid:576462813493617960,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGObb5Yejx_T2y6nEmzhSZwdxNcaF_hnMJQU1WIEU-6K8jULNeSQbbGoGGCvSwugg53rcrMvSI7UluLDpfGP__rDMgInW-blIoYMlrnJOTVNB6K_QqdQ_h"
+        },
+        {
+          "seller": "Groomica",
+          "title": "Bugalugs Pre Post + Probiotic No Rinse Paw Cleaner For Dogs",
+          "price_text": "23,09 €",
+          "price": 23.09,
+          "rating": 5.0,
+          "reviews": 16,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:16889771785418708655,productid:10996138542698938373,headlineOfferDocid:16446323742784664812,imageDocid:18253506361986484885,rds:PC_16841771569124064396|PROD_PC_16841771569124064396,gpcid:16841771569124064396,mid:576462874586872755,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTxLxShKcLra2HS2kviaheHtbImdUHpny68U2uS30eWajxGQO1y91Mj72gqAT6Q6FaOmEb0oj7QZLwZkO5nZQTDsDRT1HQl3H5f2R-UdiJoU4Eg2ZPbY20u"
+        },
+        {
+          "seller": "BluePet",
+          "title": "BluePet Pfotenschaum sanfter Pfotenreiniger für Hunde",
+          "price_text": "14,90 €",
+          "price": 14.9,
+          "rating": 5.0,
+          "reviews": 11,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:6544231164332911155,productid:16601272359232271668,headlineOfferDocid:3417563432324209216,imageDocid:3906564778018171242,rds:PC_5037280765249383712|PROD_PC_5037280765249383712,gpcid:5037280765249383712,mid:576462828590936057,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRIfOIDx_Q3rXzBeFvHyG7g48K4-2MD4xMbf0FhaQ6cG_ATB9ddGjbP7qhFD_EiEUsWJxqbMfExn8Bok6g1HwSaXDGd0xGAOsDy9gq4AxsmvvsLW3hPak98"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "currency": "NZ$",
+      "status": "crowded",
+      "why": "26 different sellers",
+      "results": 40,
+      "distinct_sellers": 26,
+      "chains_present": [],
+      "marketplaces_present": [
+        "Amazon AU",
+        "Amazon AU - Amazon.com.au-Seller",
+        "Dick Smith NZ",
+        "eBay",
+        "eBay - aton-sales",
+        "eBay - ssshair"
+      ],
+      "cheapest": 6.5,
+      "typical": 35.0,
+      "most_reviewed": {
+        "seller": "Petstock.co.nz",
+        "title": "Nootie Waterless Shampoo",
+        "reviews": 145,
+        "price_text": "$38.58"
+      },
+      "top_rows": [
+        {
+          "seller": "Petstock.co.nz",
+          "title": "Nootie Waterless Shampoo",
+          "price_text": "$38.58",
+          "price": 38.58,
+          "rating": 5.0,
+          "reviews": 145,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:8386135068351005220,productid:17251999194608718531,headlineOfferDocid:8677291426592535208,imageDocid:14261458175674641365,rds:PC_15714503721943655506|PROD_PC_15714503721943655506,gpcid:15714503721943655506,mid:576462374292529187,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_b4FWPXDZZPvBDWvqFxh-5s13g-Kse3G0tUm4qaZPtL658X52gx8LI9J7F0thLov7Z3RK5VUE9zpo-pUtYK3uT1RHFEcLi6Ga6r5fgv0yxPyN9NOe2n2W"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "Dry Dog Shampoo Waterless No Rinse Foam Mousse",
+          "price_text": "$43.23",
+          "price": 43.23,
+          "rating": 4.6,
+          "reviews": 93,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:2892813683607111615,productid:6315293495351119329,headlineOfferDocid:806841049781232298,imageDocid:11109835785002477337,rds:PC_4604022666678265944|PROD_PC_4604022666678265944,gpcid:4604022666678265944,mid:576462349284960811,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdZGMAQRZq1xvslkwfnG_FTSXT68nGpB_m6zO8feh9nW4_8AMlG2tr--QV0ehz9Qyij4dfF2ISojLRTkP3X6Cppk8yZy_kDw"
+        },
+        {
+          "seller": "Fishpond.co.nz",
+          "title": "John Paul Pet Waterless Foam Shampoo 236ml",
+          "price_text": "$29.95",
+          "price": 29.95,
+          "rating": 4.8,
+          "reviews": 92,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:12516666538716175931,productid:4442771247229470824,headlineOfferDocid:13423348274716863667,imageDocid:17669783665220312113,rds:PC_11806554610950436371|PROD_PC_11806554610950436371,gpcid:11806554610950436371,mid:576462803944527212,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQn7gt6gM-Asp4jOxjZRw2okWdRqU0YBxX-J186jMDWnOXlo9hzyx1GkCd-2-92WRCeAZyU4tzlezfRO1DuDuxyCgQzCLc_6rwDzaJCy6x0v0Hxxfu1e-0D"
+        },
+        {
+          "seller": "Natural Paws NZ",
+          "title": "Natural Dog Company Paw Wipes",
+          "price_text": "$23.00",
+          "price": 23.0,
+          "rating": 4.4,
+          "reviews": 79,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:17134606203790926465,productid:5375614457659276370,headlineOfferDocid:13109801022805911579,imageDocid:1303700531594230249,rds:PC_15558486678573116597|PROD_PC_15558486678573116597,gpcid:15558486678573116597,mid:576462852576494961,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSysK5q6kX1vj6lJW_ApYzyjSELA2P4pvUze_5pC24cVeemcH-iLSaG4P4pMjpxXtJVJGJX53OdHlDbCv35G8JzQhIYsVSH2JQ1ZYvM8OdPPv85XgjmuXo"
+        },
+        {
+          "seller": "eBay - ssshair",
+          "title": "Paul Mitchell Pet Soothing Oatmeal Waterless No-Rinse Shampoo Foam",
+          "price_text": "$32.39",
+          "price": 32.39,
+          "rating": 5.0,
+          "reviews": 35,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:17978201041742007512,productid:15317679296174980158,headlineOfferDocid:5436607803133815008,imageDocid:17934607530369842748,rds:PC_16871199245708213157|PROD_PC_16871199245708213157,gpcid:16871199245708213157,mid:576462862712935081,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxfnKlQSwmCZhaqa67gQX7HwT3fsrTaWTZ3nvl3uQuCiwdYumfiyH6B5EZHTUWNpE4EXIBSbNCjCg6zAEgyl-cbStlpJ51nLPT8LTLgF-g"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "Chris Christensen OC Magic Foam",
+          "price_text": "$79.17",
+          "price": 79.17,
+          "rating": 3.6,
+          "reviews": 21,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:13409355383583617445,productid:8752339999561412110,headlineOfferDocid:8130476676848215624,imageDocid:10246701392635324493,rds:PC_8578090374453622834|PROD_PC_8578090374453622834,gpcid:8578090374453622834,mid:576462744606529049,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtWxSOsw1gDULvvGGKs_rL5c2cvqm9MYVm9PeiOcLurGfY-qnVuVSAFcVUFVuORxUVXZbt1bUbkROWOxJqu0p-r8HgMQMqVw"
+        },
+        {
+          "seller": "SweetCare",
+          "title": "Bilper Menforsan Anti-Insect Foam Shampoo 200 ml",
+          "price_text": "$34.18",
+          "price": 34.18,
+          "rating": 5.0,
+          "reviews": 15,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:2345268585804731981,productid:10256249947937086498,headlineOfferDocid:9521696899760516822,imageDocid:11274750777889183333,rds:PC_1774339308441637511|PROD_PC_1774339308441637511,gpcid:1774339308441637511,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_W3XJrzT8yDo0XZ45Ee4G_x0x59bE7D21Nu_WC7HhotLpEZ2GdzdEUI4yCCKZziB8lAINBgaJtdDh2TSYXj-q2NwWaCPjoxbNMe13CbSZPgTRsBc8AwB5"
+        },
+        {
+          "seller": "eBay - aton-sales",
+          "title": "Warren London Deep Cleaning Paw Dog Spray",
+          "price_text": "$29.20",
+          "price": 29.2,
+          "rating": 3.8,
+          "reviews": 5,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog paw cleaner foam&prds=catalogid:15122931122186691305,productid:7776108172829689219,headlineOfferDocid:14020050865542244371,imageDocid:15948664967789574746,rds:PC_17881228955446433764|PROD_PC_17881228955446433764,gpcid:17881228955446433764,mid:576462573393516155,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwgGMd72gJp2tlZZnbgV2jdJ_cJa5x3ojLiVMj-tg8QgBMIvIkDsW74t-q_xCTCye9Td6vaUgFOjMw2bKUBWQpkaibo86geBbhvhQAKQDO24do0TUYyF3ZcTI"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    }
+  ]
+}

@@ -7462,12 +7462,2756 @@
     "brand_image": "lola-kit/img_3.jpg",
     "match_image": "lens/lola-kit_thumb_00.jpg"
    }
+  },
+  {
+   "slug": "paw-wash",
+   "name": "No-Rinse Foam Paw Cleanser (Dandylion)",
+   "one_liner": "Dandylion is an established brand already in Target, Chewy and Petco, and the same foam-and-brush bottle sells from about US$6 under dozens of names. Too cheap and too crowded for a newcomer.",
+   "url": "https://www.dandylionworld.com/products/clean-paws-no-rinse-foaming-cleanser-dog-paw-wash",
+   "brand": "Dandylion",
+   "category": "Pet care: dog paw cleaning",
+   "price": "CA$20",
+   "ad_days": null,
+   "store_platform": "Shopify",
+   "store_launched": "2021-08",
+   "store_products": "44 products, dog grooming and care",
+   "snapshot": {
+    "icp": "Dog owners, often in cities or rainy climates, who walk their dog daily",
+    "job": "Clean muddy paws after a walk without a bath",
+    "cogs": "About US$2-4 for a generic foam bottle with brush head (estimate)",
+    "margin": "About 70-80% at CA$20 before shipping a liquid (estimate)",
+    "claims": "Vet-dermatologist approved, fragrance-free, pH-balanced, lick-safe",
+    "demoable": "Yes: muddy paw before, clean paw after"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "flag",
+     "why": "Target, BIG W and Pets at Home sell foam paw cleaners; Dandylion's own bottle is in Target and Petco"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Cheaper look-alikes are in the top results in every country, many with 1,000+ reviews"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "fail",
+     "why": "38 brands advertise \"paw cleaner\", 32 new in the last two months (the phrase also covers paw-washing cups)"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small, but a liquid"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "A pet grooming product; avoid medical claims"
+    }
+   ],
+   "scores": {
+    "saturated": 9,
+    "margin": 6,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "overall": 52,
+   "confidence": "Medium",
+   "best_region": "None. Every country checked has cheap look-alikes with hundreds or thousands of reviews.",
+   "angles": [
+    "Winter salt and grit: protect paws in snowy cities",
+    "Allergy season: wash pollen off paws",
+    "Subscription refill for daily walkers",
+    "Cat litter-paw cleanup",
+    "TAKEN: \"Vet-dermatologist approved, lick-safe\" (Dandylion's main message)"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "The same foam-and-brush bottle is in the top results everywhere: Amazon US result 2 at US$13.95 with 1,100 reviews",
+     "38 brands advertise \"paw cleaner\" and 32 of them started in the last two months: a swarm",
+     "At about CA$20 a bottle, there is little room to pay for ads against Wet Ones, Bugalugs and Pets at Home's own range"
+    ],
+    "risk": "A low-priced liquid: shipping and ad costs eat most of the margin unless customers reorder.",
+    "fastest_test": [
+     "Skip it. If pet care appeals, look for a higher-priced pet product with fewer sellers"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "BIG W sells it at $12.05",
+     "sellers": 23,
+     "cheapest": "A$5",
+     "typical": "A$20",
+     "top": "Petso Online (526)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "Target sells it at $12.99",
+     "sellers": 21,
+     "cheapest": "US$2",
+     "typical": "US$15",
+     "top": "The Farm Store (1400)"
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "22 different sellers",
+     "sellers": 22,
+     "cheapest": "£4",
+     "typical": "£10",
+     "top": "CreatureLand. (526)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "The photo search returned no results in Canada; Dandylion is Canadian and sold at Pet Valu.",
+     "sellers": 19,
+     "cheapest": "C$8",
+     "typical": "C$17",
+     "top": "CreatureLand. (526)"
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "23 different sellers",
+     "sellers": 23,
+     "cheapest": "€3",
+     "typical": "€16",
+     "top": "Tierbedarf-pro.de (297)"
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "26 different sellers",
+     "sellers": 26,
+     "cheapest": "NZ$6",
+     "typical": "NZ$35",
+     "top": "Petstock.co.nz (145)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 7,400 reviews; 5 of the first 20 have 1,000+; at least 100 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 7400,
+     "n_1000_plus": 5,
+     "cheapest": "A$11",
+     "typical": "A$20",
+     "bought_last_month_min": 100,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Dexas PW700312 MudBuster Portable Dog Paw Cleaner, Small, Blue",
+       "price_text": "$28.14",
+       "price": 28.14,
+       "rating": 4.3,
+       "reviews": 7400,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Dexas-Petware-Mudbuster-Portable-Cleaner/dp/B01MYNCHLK/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71S0igrW7lL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Wet Ones for Pets Antibacterial Dog Paw Cleansing Foam with Built-in Paw Scrubber Brush, T",
+       "price_text": "$25.28",
+       "price": 25.28,
+       "rating": 4.6,
+       "reviews": 1600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Wet-Ones-Antibacterial-Cleansing-Scrubber/dp/B0CT623C62/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61awUfcY2DL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Dog Paw Cleaner Foam 200ml, No-Rinse with Silicone Brush & Towel",
+       "price_text": "$24.99",
+       "price": 24.99,
+       "rating": 4.6,
+       "reviews": 1200,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0H831GNJR/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61lu00tt4FL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 28,700 reviews; 11 of the first 20 have 1,000+; at least 28,600 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 28700,
+     "n_1000_plus": 11,
+     "cheapest": "US$6",
+     "typical": "US$14",
+     "bought_last_month_min": 28600,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "Dexas MudBuster Large Portable Pro Blue Paw Cleaner for Dogs - Premium Quality Pet Supplie",
+       "price_text": "$15.00",
+       "price": 15.0,
+       "rating": 4.4,
+       "reviews": 28700,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Dexas-MudBuster-Portable-Washer-Cleaner/dp/B084GYB9NM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71MbTMuSq9L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Dexas MudBuster Large Dog Paw Cleaner, Blue, Fits 2.5\"-3.5\" Wide Paws, Gentle Silicone Bri",
+       "price_text": "$15.00",
+       "price": 15.0,
+       "rating": 4.4,
+       "reviews": 28700,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Dexas-MudBuster-Portable-Cleaner-Large/dp/B01N52Z30T/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71E70CpqkeL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Douxo S3 PYO Medicated Dog Mousse - Bacterial & Yeast Infection Treatment",
+       "price_text": "$28.99",
+       "price": 28.99,
+       "rating": 4.6,
+       "reviews": 5700,
+       "bought_text": "20K+ bought in past month",
+       "bought": 20000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/S3-Chlorhexidine-Ophytrium%C2%AE-Antiseptic-Infections/dp/B094783CJ9/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61rCHHnTsVL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 1,900 reviews; 6 of the first 20 have 1,000+; at least 1,150 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 1900,
+     "n_1000_plus": 6,
+     "cheapest": "£6",
+     "typical": "£11",
+     "bought_last_month_min": 1150,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Dog Paw Washer for Large Dogs, Muddy Paw Cleaner Cup with 3 Towels",
+       "price_text": "£15.96",
+       "price": 15.96,
+       "rating": 4.3,
+       "reviews": 1900,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": [
+        "Limited time deal"
+       ],
+       "link": "https://www.amazon.co.uk/Tinioey-Cleaner-Absorbent-Towels-Washer/dp/B0C49H3PTJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71Yc4L54C0L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Paw Cleaner, No-Rinse Waterless Shampoo Dogs Cats Feet Cleaning Silicone Pet Grooming Brus",
+       "price_text": "£12.99",
+       "price": 12.99,
+       "rating": 4.4,
+       "reviews": 1600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/No-Rinse-Waterless-Cleaning-Silicone-Grooming/dp/B0CGT6DG1B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61qvHdWQq3L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Dog Paw Cleaner - Portable Washer Pet Cleaning Brush for Bathing and Grooming - Removes, D",
+       "price_text": "£7.49",
+       "price": 7.49,
+       "rating": 4.1,
+       "reviews": 1300,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B08FTDQCMD/",
+       "thumbnail": "https://m.media-amazon.com/images/I/719f5wPWlUL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 2,300 reviews; 4 of the first 20 have 1,000+; at least 4,200 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 2300,
+     "n_1000_plus": 4,
+     "cheapest": "C$14",
+     "typical": "C$20",
+     "bought_last_month_min": 4200,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "Dandylion, Dog Paw Cleaner, Clean Paws, No Rinse Foam Cleaner with Brush",
+       "price_text": "$20.00",
+       "price": 20.0,
+       "rating": 4.6,
+       "reviews": 2300,
+       "bought_text": "900+ bought in past month",
+       "bought": 900,
+       "sponsored": true,
+       "badges": [
+        "Amazon's Choice for \"dog paw cleaner foam\""
+       ],
+       "link": "https://www.amazon.ca/dp/B0BT23GXGJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71Y98NjbGaL._AC_UL320_.jpg",
+       "is_brand": true
+      },
+      {
+       "title": "Dandylion, Dog Paw Cleaner, Clean Paws, No Rinse Foam Cleaner with Brush",
+       "price_text": "$20.00",
+       "price": 20.0,
+       "rating": 4.6,
+       "reviews": 2300,
+       "bought_text": "900+ bought in past month",
+       "bought": 900,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"dog paw cleaner foam\""
+       ],
+       "link": "https://www.amazon.ca/Cleaner-Clean-Paws-Rinse-Brush/dp/B0BT23GXGJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71Y98NjbGaL._AC_UL320_.jpg",
+       "is_brand": true
+      },
+      {
+       "title": "Dog Paw Cleaner Foam 150ml, No-Rinse Paw Wash with Silicone Brush",
+       "price_text": "$16.99",
+       "price": 16.99,
+       "rating": 4.6,
+       "reviews": 1600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Tinioey-Cleaner-No-Rinse-Cleanser-Dandelion/dp/B0CD1GD8KF/",
+       "thumbnail": "https://m.media-amazon.com/images/I/612BsGKckmL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 57,700 reviews; 5 of the first 20 have 1,000+; at least 1,550 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 57700,
+     "n_1000_plus": 5,
+     "cheapest": "€10",
+     "typical": "€15",
+     "bought_last_month_min": 1550,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Earth Rated 100 x Thick Wipes for Dogs, Paws, Body and Butt, Lavender Fragrance",
+       "price_text": "€9.75",
+       "price": 9.75,
+       "rating": 4.7,
+       "reviews": 57700,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Earth-Rated-Thick-Lavender-Fragrance/dp/B07NHGX19F/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81JQA7ZnQiL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Paw Cleaner for Dogs and Cats, Magic Foam - Clean Paws No Rinse Foam Cleaner, Dry Shampoo,",
+       "price_text": "€12.61",
+       "price": 12.61,
+       "rating": 4.4,
+       "reviews": 1600,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": [
+        "Limited time deal"
+       ],
+       "link": "https://www.amazon.de/-/en/Cleaner-Dogs-Cats-Magic-Foam/dp/B0CGT6DG1B/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61qvHdWQq3L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "BluePet Paw Cleaner for Dogs, Dog Paw Cleaner for Clean Paws",
+       "price_text": "€19.90",
+       "price": 19.9,
+       "rating": 4.2,
+       "reviews": 1600,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/BluePet-Cleaner-Dogs-Clean-Paws/dp/B094JM8LQV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81u+WxfVa9L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "high",
+     "why": "top listing 7,400 reviews; 5 of the first 20 have 1,000+; at least 100 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 7400,
+     "n_1000_plus": 5,
+     "cheapest": "A$11",
+     "typical": "A$20",
+     "bought_last_month_min": 100,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Dexas PW700312 MudBuster Portable Dog Paw Cleaner, Small, Blue",
+       "price_text": "$28.14",
+       "price": 28.14,
+       "rating": 4.3,
+       "reviews": 7400,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Dexas-Petware-Mudbuster-Portable-Cleaner/dp/B01MYNCHLK/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71S0igrW7lL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Wet Ones for Pets Antibacterial Dog Paw Cleansing Foam with Built-in Paw Scrubber Brush, T",
+       "price_text": "$25.28",
+       "price": 25.28,
+       "rating": 4.6,
+       "reviews": 1600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Wet-Ones-Antibacterial-Cleansing-Scrubber/dp/B0CT623C62/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61awUfcY2DL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Dog Paw Cleaner Foam 200ml, No-Rinse with Silicone Brush & Towel",
+       "price_text": "$24.99",
+       "price": 24.99,
+       "rating": 4.6,
+       "reviews": 1200,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0H831GNJR/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61lu00tt4FL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "rising",
+     "growth_pct": 40,
+     "seasonal": true,
+     "peak_months": [
+      "Mar",
+      "Apr",
+      "May"
+     ],
+     "months_to_peak": 5,
+     "now_vs_high": 12,
+     "avg_last_year": 36.4,
+     "spike": false,
+     "zero_share": 0.0,
+     "why": "A typical week in the last 12 months is +40% on the year before; seasonal, busiest months Mar, Apr, May",
+     "line": [
+      16,
+      22,
+      22,
+      24,
+      34,
+      29,
+      26,
+      28,
+      24,
+      22,
+      20,
+      22,
+      20,
+      18,
+      16,
+      16,
+      13,
+      16,
+      15,
+      15,
+      17,
+      20,
+      26,
+      22,
+      16,
+      20,
+      22,
+      22,
+      24,
+      26,
+      27,
+      24,
+      22,
+      20,
+      28,
+      35,
+      28,
+      36,
+      91,
+      86,
+      55,
+      70,
+      48,
+      49,
+      32,
+      24,
+      22,
+      22,
+      30,
+      48,
+      44,
+      16,
+      12
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "crowded",
+     "why": "amazon.com.au at $24.99: Amazon result 5 for the product words, with 1,200 reviews. 5 other copies",
+     "prices": {
+      "brand": 21.9,
+      "cheapest_copy": 12.99,
+      "typical_copy": 18.99,
+      "cheapest_real_copy": 12.99,
+      "priced_copies": 6
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.com.au",
+       "title": "Dog Paw Cleaner Foam 200ml, No-Rinse with Silicone Brush & Towel",
+       "link": "https://www.amazon.com.au/dp/B0H831GNJR/",
+       "price_text": "$24.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_012.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 1200,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words, with 1,200 reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Paw Cleaner for Dogs & Cats, No-Rinse Foaming Pet Foot Washer with Built-in Scrubber Brush",
+       "link": "https://www.amazon.com.au/dp/B0FDGK4XQ4/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_016.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 52,
+       "bought": "50+ bought in past month",
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Dog Paw Cleaner Foam 150ml, No-Rinse Paw Wash with Brush & Towel",
+       "link": "https://www.amazon.com.au/dp/B0H83HM8S5/",
+       "price_text": "$12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_021.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "wikiRay Paw Cleaner for Dogs | No-Rinse, Unscented & pH-Balanced | Aloe Vera & Plant-Based",
+       "link": "https://www.amazon.com.au/wikiRay-No-Rinse-Unscented-pH-Balanced-Plant-Based/dp/B0C2KMDWGK/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_026.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 27,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Wet Ones for Pets Antibacterial Dog Paw Cleansing Foam with Built-in Paw Scrubber Brush, T",
+       "link": "https://www.amazon.com.au/Wet-Ones-Antibacterial-Cleansing-Scrubber/dp/B0CT623C62/",
+       "price_text": "$25.28",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_006.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 1600,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words, with 1,600 reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Dog Paw Cleaner Foam | PH-Balanced Paw Cleaning Foam with Aloe Vera | Puppy Paw Washer | D",
+       "link": "https://www.amazon.com.au/DOMESTEE-PH-Balanced-Nourishing-Portable-Cleaning/dp/B0DHTKDPR6/",
+       "price_text": "$18.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_035.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 38,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "amazon.com at $13.95: Amazon result 2 for the product words, with 1,100 reviews and 400+ bought in past month. 9 other copies",
+     "prices": {
+      "brand": 14.6,
+      "cheapest_copy": 6.01,
+      "typical_copy": 13.95,
+      "cheapest_real_copy": 6.01,
+      "priced_copies": 10
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.com",
+       "title": "Gentle Creatures Magic Foam Dog Paw Cleaner with Scrubber Brush, No Rinse",
+       "link": "https://www.amazon.com/Magic-Cleaner-No-Rinse-Foaming-Scrubber/dp/B09NPQYXSY/",
+       "price_text": "$13.95",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_002.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": 1100,
+       "bought": "400+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words, with 1,100 reviews and 400+ bought in past month"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Wet Ones for Pets Antibacterial Dog Paw Cleansing Foam with Built-in Paw Scrubber Brush, T",
+       "link": "https://www.amazon.com.au/Wet-Ones-Antibacterial-Cleansing-Scrubber/dp/B0CT623C62/",
+       "price_text": "$6.01",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_006.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 1700,
+       "bought": "2K+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 3 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Wet Ones for Pets Antibacterial Dog Paw Cleaner with Built-In Brush, Foaming No-Rinse Form",
+       "link": "https://www.amazon.com/Wet-Ones-Antibacterial-Cleansing-Scrubber/dp/B0D86XDNMD/",
+       "price_text": "$11.92",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_009.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": 1700,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 4 for the product words, with 1,700 reviews"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Wet Ones for Pets Foam Dog Paw Cleaner, Tropical Splash Scent, 5 Oz, 6-Pack",
+       "link": "https://www.amazon.com/Wet-Ones-Antibacterial-Cleansing-Scrubber/dp/B0D47VL2F4/",
+       "price_text": "$21.40",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_017.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 1700,
+       "bought": "200+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words, with 1,700 reviews and 200+ bought in past month"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Paw Cleaner for Dogs & Cats,No-Rinse Foaming Dog Paw Cleaner Washer Cleanser,Hypoallergeni",
+       "link": "https://www.amazon.com/PUPMATE-No-Rinse-Waterless-Cleaning-Silicone/dp/B0792B9NSX/",
+       "price_text": "$14.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_022.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 1200,
+       "bought": "200+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words, with 1,200 reviews and 200+ bought in past month"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Leopong Dog Paw Cleaner Foam 2 Pack with Silicone Brush, 200ml",
+       "link": "https://www.amazon.com/Leopong-Cleaner-Waterless-Silicone-Scrubber/dp/B0CQNXBDK2/",
+       "price_text": "$15.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_027.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 115,
+       "bought": "100+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words, with 115 reviews and 100+ bought in past month"
+      },
+      {
+       "source": "amazon.com",
+       "title": "PawSono Paw Cleaner for Dogs & Cats",
+       "link": "https://www.amazon.com/PawSono-Cleaner-No-Rinse-Foaming-Scrubber/dp/B0DMSSM599/",
+       "price_text": "$12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_031.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 466,
+       "bought": "400+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words, with 466 reviews and 400+ bought in past month"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Dog Paw Cleaner for Dogs & Cats, No-Rinse Foam Cleanser with Brush",
+       "link": "https://www.amazon.com/GJYC-PET-Cleaner-Dogs-Magic/dp/B0CGT6DG1B/",
+       "price_text": "$12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_001.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 1800,
+       "bought": "900+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words, with 1,800 reviews and 900+ bought in past month"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Vila Paw Cleanser, Moisturizing Gentle Foam Wash for Dogs and Puppies, No Rinse Formulatio",
+       "link": "https://www.amazon.com/Synra-Cleanser-Moisturizing-Formulation-Deodorizing/dp/B0F6CWHNLQ/",
+       "price_text": "$7.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_040.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": 12,
+       "bought": "50+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      },
+      {
+       "source": "groomerpro.eu",
+       "title": "Bugalugs Pet Care Bugalugs No Rinse Paw Cleaner Foam for Dogs",
+       "link": "https://www.google.com/search?q=%22Bugalugs+Pet+Care+Bugalugs+No+Rinse+Paw+Cleaner+Foam+for+Dogs%22+groomerpro.eu",
+       "price_text": "$19.62",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_114.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 12,
+       "reviews": 66,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "Pets at Home at £10.00: Google Shopping result 1 for the product words, with 163 reviews. 12 other copies",
+     "prices": {
+      "brand": 10.95,
+      "cheapest_copy": 5.0,
+      "typical_copy": 8.99,
+      "cheapest_real_copy": 5.0,
+      "priced_copies": 13
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Pets at Home",
+       "title": "Bugalugs No Rinse Paw Cleaner",
+       "link": "https://www.google.com/search?q=%22Bugalugs+No+Rinse+Paw+Cleaner%22+Pets+at+Home",
+       "price_text": "£10.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_050.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 1,
+       "reviews": 163,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 1 for the product words, with 163 reviews"
+      },
+      {
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+       "title": "Ani-Safe Paw Cleaner for dogs and cats",
+       "link": "https://www.google.com/search?q=%22Ani-Safe+Paw+Cleaner+for+dogs+and+cats%22+Amazon.co.uk",
+       "price_text": "£5.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_056.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 2,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 2 for the product words"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Waterless Foam Paw Cleaner for Dogs & Cats, 150ml No Rinse Paw Wash with Built-In Silicone",
+       "link": "https://www.amazon.co.uk/dp/B0H6KCBS4D/",
+       "price_text": "£14.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_007.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 2,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "CreatureLand.",
+       "title": "KOJIMA Pet Paw Cleaning Foam",
+       "link": "https://www.google.com/search?q=%22KOJIMA+Pet+Paw+Cleaning+Foam%22+CreatureLand.",
+       "price_text": "£5.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_062.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 3,
+       "reviews": 526,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 3 for the product words"
+      },
+      {
+       "source": "Vetsend.co.uk",
+       "title": "M-Pets Paw Cleaning Foam 150ml Paraben Free Pet Cleaning Supplies for Dogs",
+       "link": "https://www.google.com/search?q=%22M-Pets+Paw+Cleaning+Foam+150ml+Paraben+Free+Pet+Cleaning+Supplies+for+Dogs%22+Vetsend.co.uk",
+       "price_text": "£8.55",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_068.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 4,
+       "reviews": 61,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "Rokers",
+       "title": "Buddycare 200ml Paw Cleanser",
+       "link": "https://www.google.com/search?q=%22Buddycare+200ml+Paw+Cleanser%22+Rokers",
+       "price_text": "£5.25",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_074.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 5,
+       "reviews": 28,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 5 for the product words"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Bugalugs Dog Paw Cleaner No Rinse Foam Cat & Dog shampoo with Silicone Brush Head, waterle",
+       "link": "https://www.amazon.co.uk/Bugalugs-Silicone-waterless-grooming-products/dp/B0CFHQ7GKB/",
+       "price_text": "£10.98",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_018.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 1000,
+       "bought": "100+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words, with 1,000 reviews and 100+ bought in past month"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Bugalugs Probiotics for Dogs Natural No Rinse Paw Cleaner with Pumpkin Powder for dogs – S",
+       "link": "https://www.amazon.co.uk/Bugalugs-Probiotics-Natural-Cleaner-Pumpkin/dp/B0FXVHTR5X/",
+       "price_text": "£8.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_023.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 146,
+       "bought": "600+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words, with 146 reviews and 600+ bought in past month"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Bugalugs Dog Paw Cleaner No Rinse Foam Cat & Dog shampoo with Silicone Brush Head, waterle",
+       "link": "https://www.amazon.co.uk/dp/B0CFHNLYS7/",
+       "price_text": "£10.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_028.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 1000,
+       "bought": "50+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words, with 1,000 reviews and 50+ bought in past month"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Dog Paw Cleaner Cat & Dog shampoo with Silicone Brush Head, waterless grooming products. T",
+       "link": "https://www.amazon.co.uk/Silicone-waterless-grooming-products-friendly/dp/B0F1W5M7DK/",
+       "price_text": "£5.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_033.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 8,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Bugalugs Itch & Immunity Paw Cleaner Sensitive Skin - Professional Pet Grooming for Smelly",
+       "link": "https://www.amazon.co.uk/Bugalugs-Itch-Immunity-Cleaner-Sensitive/dp/B0GM851FQV/",
+       "price_text": "£10.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_036.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 14,
+       "bought": "200+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words, with 14 reviews and 200+ bought in past month"
+      },
+      {
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+       "title": "ITSY Pets Refillable Paw Cleaner for Dogs & Cats",
+       "link": "https://www.google.com/search?q=%22ITSY+Pets+Refillable+Paw+Cleaner+for+Dogs+%26+Cats%22+Amazon.co.uk",
+       "price_text": "£6.95",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_103.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 10,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 10 for the product words"
+      },
+      {
+       "source": "amyspetsupplies.co.uk",
+       "title": "Apex Pet Baby Fresh Foaming Paw Cleaner for Dogs 150ml",
+       "link": "https://www.google.com/search?q=%22Apex+Pet+Baby+Fresh+Foaming+Paw+Cleaner+for+Dogs+150ml%22+amyspetsupplies.co.uk",
+       "price_text": "£10.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_109.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 11,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "amazon.de at €12.61: Amazon result 1 for the product words, with 1,600 reviews and 100+ bought in past month. 12 other copies",
+     "prices": {
+      "brand": 12.55,
+      "cheapest_copy": 9.99,
+      "typical_copy": 13.99,
+      "cheapest_real_copy": 11.99,
+      "priced_copies": 13
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.de",
+       "title": "Dog Paw Cleaner for Dogs & Cats, No-Rinse Foam Cleanser with Brush",
+       "link": "https://www.amazon.com/GJYC-PET-Cleaner-Dogs-Magic/dp/B0CGT6DG1B/",
+       "price_text": "€12.61",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_001.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 1,
+       "reviews": 1600,
+       "bought": "100+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 1 for the product words, with 1,600 reviews and 100+ bought in past month"
+      },
+      {
+       "source": "amazon.de",
+       "title": "ReaVET Paw Cleaner for Dogs with Paw Foam, Dog Paw Cleaner, Paws Washing Dog without Rinsi",
+       "link": "https://www.amazon.de/-/en/ReaVET-Cleaner-Washing-without-Cucumber/dp/B0DYDRT4PC/",
+       "price_text": "€9.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_005.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": 25,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Paw Cleaner for Dogs and Cats 100% Natural All-Year Care 200 ml",
+       "link": "https://www.amazon.de/-/en/Cleaner-Dogs-Cats-Natural-All-Year/dp/B0CP2SCCFR/",
+       "price_text": "€17.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_008.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 206,
+       "bought": "100+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 3 for the product words, with 206 reviews and 100+ bought in past month"
+      },
+      {
+       "source": "woofstuff.de",
+       "title": "ReaVET Pfotenreiniger",
+       "link": "https://www.google.com/search?q=%22ReaVET+Pfotenreiniger%22+woofstuff.de",
+       "price_text": "12,99 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_064.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 3,
+       "reviews": 1,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Buddycare Baby Fresh Scented Dog Paw Cleaner 200 ml - No Rinse, Waterless Paw Cleaner for ",
+       "link": "https://www.amazon.de/-/en/Buddycare-Baby-Fresh-Scented-Cleaner/dp/B0F1FVQWYP/",
+       "price_text": "€11.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_011.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": 120,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 4 for the product words, with 120 reviews"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Paw Cleaner for Dogs and Cats [200 ml] | Cleans & Nourishes Naturally - Paw Foam without W",
+       "link": "https://www.amazon.de/-/en/GL%C3%9CCKSPFOTE-Cleaner-Cleans-Nourishes-Naturally/dp/B0F4XLS1HQ/",
+       "price_text": "€15.90",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_020.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 19,
+       "bought": "50+ bought in past month",
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Paw Cleaner Dog 200 ml, Paw Foam without Rinsing",
+       "link": "https://www.amazon.de/-/en/Tinioey-Cleaner-Foam-without-Rinsing/dp/B0H7TVBVW9/",
+       "price_text": "€13.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_025.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 1600,
+       "bought": "50+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words, with 1,600 reviews and 50+ bought in past month"
+      },
+      {
+       "source": "amazon.de",
+       "title": "BluePet Paw Foam, Paw Cleaner Dogs & Cats, Paw Shower",
+       "link": "https://www.amazon.de/-/en/BluePet-Foam-Cleaner-Dogs-Shower/dp/B0F3CTLSMT/",
+       "price_text": "€14.90",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_030.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 40,
+       "bought": "50+ bought in past month",
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Paw Cleaner for Dogs & Cats 200 ml - Paw Foam without Water with Brush Attachment - Cleani",
+       "link": "https://www.amazon.de/-/en/Petissimo-Care-Cleaner-Dogs-Cats/dp/B0F9L8PPK5/",
+       "price_text": "€12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_034.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 13,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "Pfotenreiniger für Hunde und Katzen, Magic Foam – Clean Paws Schaumreiniger ohne Abspülen,",
+       "link": "https://www.google.com/search?q=%22Pfotenreiniger+f%C3%BCr+Hunde+und+Katzen%2C+Magic+Foam+%E2%80%93+Clean+Paws+Schaumreiniger+ohne+Absp%C3%BClen%2C+Trockenshampoo%2C+Fu%C3%9F%22+Amazon.de",
+       "price_text": "12,61 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_105.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 10,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "PETpoint-Charly",
+       "title": "Bio-Groom Paw Scrubber 236 ml",
+       "link": "https://www.google.com/search?q=%22Bio-Groom+Paw+Scrubber+236+ml%22+PETpoint-Charly",
+       "price_text": "15,00 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_111.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 11,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Paw Cleaner for Dogs and Cats 150 ml - Fragrance-Free Dog Paw Cleaner without Water with I",
+       "link": "https://www.amazon.de/-/en/heybruno-Cleaner-Dogs-Cats-Fragrance-Free/dp/B0CPVRZGTQ/",
+       "price_text": "€19.90",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_047.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": 53,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "Friseurtotal.de",
+       "title": "WØØFY Paw Foam Cleaner",
+       "link": "https://www.google.com/search?q=%22W%C3%98%C3%98FY+Paw+Foam+Cleaner%22+Friseurtotal.de",
+       "price_text": "16,95 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_117.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "amazon.com.au at $24.99: Amazon result 5 for the product words, with 1,200 reviews. 5 other copies",
+     "prices": {
+      "brand": 24.53,
+      "cheapest_copy": 12.99,
+      "typical_copy": 18.99,
+      "cheapest_real_copy": 12.99,
+      "priced_copies": 6
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "amazon.com.au",
+       "title": "Dog Paw Cleaner Foam 200ml, No-Rinse with Silicone Brush & Towel",
+       "link": "https://www.amazon.com.au/dp/B0H831GNJR/",
+       "price_text": "$24.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_012.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 1200,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words, with 1,200 reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Paw Cleaner for Dogs & Cats, No-Rinse Foaming Pet Foot Washer with Built-in Scrubber Brush",
+       "link": "https://www.amazon.com.au/dp/B0FDGK4XQ4/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_016.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 52,
+       "bought": "50+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Dog Paw Cleaner Foam 150ml, No-Rinse Paw Wash with Brush & Towel",
+       "link": "https://www.amazon.com.au/dp/B0H83HM8S5/",
+       "price_text": "$12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_021.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "wikiRay Paw Cleaner for Dogs | No-Rinse, Unscented & pH-Balanced | Aloe Vera & Plant-Based",
+       "link": "https://www.amazon.com.au/wikiRay-No-Rinse-Unscented-pH-Balanced-Plant-Based/dp/B0C2KMDWGK/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_026.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 27,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Wet Ones for Pets Antibacterial Dog Paw Cleansing Foam with Built-in Paw Scrubber Brush, T",
+       "link": "https://www.amazon.com.au/Wet-Ones-Antibacterial-Cleansing-Scrubber/dp/B0CT623C62/",
+       "price_text": "$25.28",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_006.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 1600,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words, with 1,600 reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Dog Paw Cleaner Foam | PH-Balanced Paw Cleaning Foam with Aloe Vera | Puppy Paw Washer | D",
+       "link": "https://www.amazon.com.au/DOMESTEE-PH-Balanced-Nourishing-Portable-Cleaning/dp/B0DHTKDPR6/",
+       "price_text": "$18.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/paw-wash_vis_thumb_035.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 38,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      }
+     ],
+     "picture_matches": 59
+    }
+   ],
+   "lens_sheet": "lens/paw-wash_sheet.jpg",
+   "supplier": {
+    "slug": "paw-wash",
+    "brand_price": 20.0,
+    "brand_currency": "cad",
+    "words": "pet paw cleaning foam",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-pet-paw-cleaning-foam.html",
+    "listings": [],
+    "summary": {
+     "found": 0,
+     "priced": 0,
+     "brand_price_usd": 14.6,
+     "status": "none found",
+     "plain": "The photo search did not turn up a supplier listing for this exact object. That does not prove there isn't one: search AliExpress for it by name or picture before you decide."
+    }
+   },
+   "meta": {
+    "slug": "paw-wash",
+    "phrase": "paw cleaner",
+    "checked": "2026-10-11",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22paw%20cleaner%22",
+    "ads_loaded": 99,
+    "capped": false,
+    "stopped_by": "read every live ad",
+    "n_advertisers": 38,
+    "advertisers_with_3_plus_ads": 10,
+    "biggest_advertiser_share": 0.15,
+    "brands_new_in_last_2_months": 32,
+    "brands_advertising_3_plus_months": 4,
+    "ads_started_last_2_months": 88,
+    "ads_older_than_6_months": 0,
+    "pattern": "a swarm, right now",
+    "plain": "38 brands, and 32 of them only started advertising it in the last two months. Of the 9 biggest shops we could date, 3 are over a year old and 4 opened in the last four months.",
+    "months": {
+     "2026-05": 3,
+     "2026-07": 1,
+     "2026-08": 7,
+     "2026-09": 20,
+     "2026-10": 68
+    },
+    "brand_months": {
+     "2026-05": 3,
+     "2026-07": 1,
+     "2026-08": 2,
+     "2026-09": 7,
+     "2026-10": 25
+    },
+    "top_advertisers": [
+     {
+      "name": "mr.Soda",
+      "pages": 1,
+      "page_names": [
+       "mr.Soda"
+      ],
+      "ads": 15,
+      "oldest_live_ad": "2026-08-10",
+      "page_likes": 12236,
+      "headline": "mr.Soda",
+      "shop": "mrsoda.lt",
+      "product_page": "http://mrsoda.lt/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=185535952330139",
+      "shop_open_since": "2026-02-07"
+     },
+     {
+      "name": "Aniva",
+      "pages": 1,
+      "page_names": [
+       "Aniva"
+      ],
+      "ads": 12,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 572,
+      "headline": "العناية اللي يستحقّها حيوانك… تبدأ من هنا 🐾",
+      "shop": "anniva.tn",
+      "product_page": "https://anniva.tn/product/pack",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=483187495038215",
+      "shop_open_since": null
+     },
+     {
+      "name": "Pet Kingdom",
+      "pages": 1,
+      "page_names": [
+       "Pet Kingdom"
+      ],
+      "ads": 9,
+      "oldest_live_ad": "2026-10-01",
+      "page_likes": 1941,
+      "headline": "{{product.name}}",
+      "shop": "shopee.co.id",
+      "product_page": "https://shopee.co.id/petkingdomofficial",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100709216154365",
+      "shop_open_since": null
+     },
+     {
+      "name": "OutbackPaw",
+      "pages": 1,
+      "page_names": [
+       "OutbackPaw"
+      ],
+      "ads": 7,
+      "oldest_live_ad": "2026-09-22",
+      "page_likes": 179,
+      "headline": "Limited Time Offer  - 50% OFF + Free Gifts",
+      "shop": "outbackpaw.com",
+      "product_page": "https://outbackpaw.com/products/adventure-seat-cover",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1156490244212894",
+      "shop_open_since": "2026-05-28"
+     },
+     {
+      "name": "Barely There Litter",
+      "pages": 1,
+      "page_names": [
+       "Barely There Litter"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-09-02",
+      "page_likes": 803,
+      "headline": "The 12 Month Difference",
+      "shop": "barelytherelitter.com.au",
+      "product_page": "https://barelytherelitter.com.au/products/barely-there-litter-stainless-steel-litter-box",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=388937640964217",
+      "shop_open_since": "2024-01-26"
+     },
+     {
+      "name": "Calivo Pets",
+      "pages": 1,
+      "page_names": [
+       "Calivo Pets"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-10-06",
+      "page_likes": 12,
+      "headline": "Save Up To 20% - Offer Ends Soon",
+      "shop": "calivopets.com",
+      "product_page": "https://calivopets.com/products/calivo-quiet-paws-painless-pet-nail-grinder",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1227752917096680",
+      "shop_open_since": "2026-07-19"
+     },
+     {
+      "name": "Bugalugs Pet Care",
+      "pages": 1,
+      "page_names": [
+       "Bugalugs Pet Care"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-20",
+      "page_likes": 27745,
+      "headline": "{{product.name}}",
+      "shop": "bugalugspetcare.com",
+      "product_page": "https://bugalugspetcare.com/collections/grooming-tools",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107606870849148",
+      "shop_open_since": "2024-03-26"
+     },
+     {
+      "name": "Nuvio",
+      "pages": 1,
+      "page_names": [
+       "Nuvio"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-18",
+      "page_likes": 6,
+      "headline": "Cleaner Paws, Cleaner Floors",
+      "shop": "1x0tvg-t0.myshopify.com",
+      "product_page": "https://1x0tvg-t0.myshopify.com/products/portable-dog-paw-cleaner",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1396598400195121",
+      "shop_open_since": "2026-09-17"
+     },
+     {
+      "name": "Barasch Onlineshop",
+      "pages": 1,
+      "page_names": [
+       "Barasch Onlineshop"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-10-04",
+      "page_likes": 7,
+      "headline": "Matschfrei™ Paw Cleaner PRO – Clean Paws in Seconds",
+      "shop": "baraschshop.com",
+      "product_page": "https://baraschshop.com/products/pfotenreiniger-pro",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1200466959824019",
+      "shop_open_since": "2026-08-02"
+     },
+     {
+      "name": "Nuvapet Chile",
+      "pages": 1,
+      "page_names": [
+       "Nuvapet Chile"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-10-02",
+      "page_likes": 29,
+      "headline": "OFERTA CYBER ! 40% TERMINA HOY",
+      "shop": "nuvapetchile.com",
+      "product_page": "https://nuvapetchile.com/products/quitapelos-pro%E2%84%A2-gatos",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1204584392742559",
+      "shop_open_since": "2026-07-16"
+     },
+     {
+      "name": "WAHL CA Animal",
+      "pages": 1,
+      "page_names": [
+       "WAHL CA Animal"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-09-24",
+      "page_likes": 64,
+      "headline": "Soft, Healthy Paws Start Here",
+      "shop": "ca.wahl.com",
+      "product_page": "https://ca.wahl.com/home-pet-grooming/parts-accessories/paw-grooming",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=885051378028757",
+      "shop_open_since": null
+     },
+     {
+      "name": "Herbal Hound",
+      "pages": 1,
+      "page_names": [
+       "Herbal Hound"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-06",
+      "page_likes": 2567,
+      "headline": "The Best Paw Cleaner in Australia",
+      "shop": "herbalhound.com.au",
+      "product_page": "https://herbalhound.com.au/collections/bundles",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=183276178202710",
+      "shop_open_since": "2023-11-21"
+     },
+     {
+      "name": "Petdriv Pet Essentials",
+      "pages": 2,
+      "page_names": [
+       "Petdriv Pet Essentials",
+       "petdrivv"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 2,
+      "headline": "PETDRIV",
+      "shop": "petdriv.com",
+      "product_page": "http://petdriv.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1340254109169473",
+      "shop_open_since": null
+     },
+     {
+      "name": "I Love Dogs",
+      "pages": 1,
+      "page_names": [
+       "I Love Dogs"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-04",
+      "page_likes": 1,
+      "headline": "Clean Paws in 4 Easy Steps",
+      "shop": "ilovedogs.store",
+      "product_page": "https://ilovedogs.store/products/cat-and-dog-paw-cleaner-dog-paw-washer-paw-muddy-paw-cleaner-perfect-gifts-for-pet-owners",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1305157872672037",
+      "shop_open_since": null
+     },
+     {
+      "name": "The Regal Pet Co",
+      "pages": 1,
+      "page_names": [
+       "The Regal Pet Co"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-16",
+      "page_likes": 4,
+      "headline": "Bugalugs has officially landed in India!\nAnd we kicked things off with some tail-wagging f",
+      "shop": "theregalpetco.com",
+      "product_page": "https://theregalpetco.com/bugalugs/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1249245484930297",
+      "shop_open_since": null
+     },
+     {
+      "name": "Pawly Supply",
+      "pages": 1,
+      "page_names": [
+       "Pawly Supply"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 265,
+      "headline": "{{product.name | titleize}}",
+      "shop": "pawlysupply.com",
+      "product_page": "https://pawlysupply.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1056337477544316",
+      "shop_open_since": null
+     },
+     {
+      "name": "Pets Dreams UK",
+      "pages": 1,
+      "page_names": [
+       "Pets Dreams UK"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-05-31",
+      "page_likes": 13169,
+      "headline": "#1 Dog Paw Cleaner🐾",
+      "shop": "pets-dreams.uk",
+      "product_page": "https://pets-dreams.uk/products/gentle-waterless-paw-cleansing-foam-with-brush-for-dogs",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=122099419748000769",
+      "shop_open_since": null
+     },
+     {
+      "name": "DOG SHT",
+      "pages": 1,
+      "page_names": [
+       "DOG SHT"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-01",
+      "page_likes": 236,
+      "headline": "{{product.name}}",
+      "shop": "dogsht.com.au",
+      "product_page": "https://dogsht.com.au/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101260942513629",
+      "shop_open_since": null
+     },
+     {
+      "name": "Ninja Shark Australia",
+      "pages": 1,
+      "page_names": [
+       "Ninja Shark Australia"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-05-14",
+      "page_likes": 13291,
+      "headline": "{{product.name}}",
+      "shop": "ninjashark.com.au",
+      "product_page": "https://ninjashark.com.au/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101378288254676",
+      "shop_open_since": null
+     },
+     {
+      "name": "HankPets",
+      "pages": 1,
+      "page_names": [
+       "HankPets"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-29",
+      "page_likes": 1544,
+      "headline": "{{product.name}}",
+      "shop": "hankpets.com",
+      "product_page": "https://hankpets.com/collections/dog-accessories",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109554005236586",
+      "shop_open_since": null
+     },
+     {
+      "name": "The Minnie Store",
+      "pages": 1,
+      "page_names": [
+       "The Minnie Store"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-01",
+      "page_likes": 10,
+      "headline": "The Minnie Store",
+      "shop": "theminniestore.com",
+      "product_page": "https://theminniestore.com/products/paw-cleaner-cup",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=129386407088113",
+      "shop_open_since": null
+     },
+     {
+      "name": "Snout & Paw",
+      "pages": 1,
+      "page_names": [
+       "Snout & Paw"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-02",
+      "page_likes": 3,
+      "headline": "Looking for ideas for your next Pet Appreciation gift? Check out our best sellers! Time is",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1287975517734476",
+      "shop_open_since": null
+     },
+     {
+      "name": "Lilly Bell Pet Shop",
+      "pages": 1,
+      "page_names": [
+       "Lilly Bell Pet Shop"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 328,
+      "headline": "Set kozmetike za ljubimce\n🐾Cena 3.500rsd🐾\n🎀️Postarina besplatna🎀\n- Pena za suvo pranje 300",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=789349207597839",
+      "shop_open_since": null
+     },
+     {
+      "name": "The Noble Paw",
+      "pages": 1,
+      "page_names": [
+       "The Noble Paw"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-12",
+      "page_likes": 96,
+      "headline": "{{product.name}}",
+      "shop": "thenoblepawboutique.com",
+      "product_page": "https://thenoblepawboutique.com/products/electric-automatic-pet-paw-cleaning-cup",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1152759627930217",
+      "shop_open_since": null
+     },
+     {
+      "name": "Coda & Casa",
+      "pages": 1,
+      "page_names": [
+       "Coda & Casa"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-05",
+      "page_likes": null,
+      "headline": "Cleaner paws in seconds",
+      "shop": "codaecasa.store",
+      "product_page": "https://codaecasa.store/en-us/products/paw-cleaner-cup",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1287151894492294",
+      "shop_open_since": null
+     },
+     {
+      "name": "PuppiesZone",
+      "pages": 1,
+      "page_names": [
+       "PuppiesZone"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-06",
+      "page_likes": 6,
+      "headline": "PuppiesZone",
+      "shop": "puppieszone.com",
+      "product_page": "https://puppieszone.com/product/paw-plunger-pet-paw-cleaner-soft-silicone-foot-cleaning-cup-portable-cats-dogs-paw-clean-brush-home-practical-supplies-3-sizes/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=189594497571386",
+      "shop_open_since": null
+     },
+     {
+      "name": "WhiskerWell",
+      "pages": 1,
+      "page_names": [
+       "WhiskerWell"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-10",
+      "page_likes": null,
+      "headline": "Paw Cleaner Cup – from £9.99",
+      "shop": "whiskerwell.co.uk",
+      "product_page": "https://whiskerwell.co.uk/product/mess-free-paw-cleaner-cup/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1225540600652903",
+      "shop_open_since": null
+     },
+     {
+      "name": "Pet&Cat Paradise",
+      "pages": 1,
+      "page_names": [
+       "Pet&Cat Paradise"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-10",
+      "page_likes": 2254,
+      "headline": "❌ Accessoires et quelques produits anti puces pour chien et chat ❌\nLivraison possible 🚲🛵\n0",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=140411869148219",
+      "shop_open_since": null
+     },
+     {
+      "name": "PawLand",
+      "pages": 1,
+      "page_names": [
+       "PawLand"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-05-29",
+      "page_likes": 1,
+      "headline": "PawLand",
+      "shop": "pawlandstore.gr",
+      "product_page": "https://www.pawlandstore.gr/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1135910149607464",
+      "shop_open_since": null
+     },
+     {
+      "name": "Pawszozo Ltd",
+      "pages": 1,
+      "page_names": [
+       "Pawszozo Ltd"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-10",
+      "page_likes": 9,
+      "headline": "Clean Paws in Seconds 🐾",
+      "shop": "pawszozo.com",
+      "product_page": "https://www.pawszozo.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1056916890847445",
+      "shop_open_since": null
+     },
+     {
+      "name": "The Paws Store",
+      "pages": 1,
+      "page_names": [
+       "The Paws Store"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-10",
+      "page_likes": 32,
+      "headline": "{{product.name | titleize}}",
+      "shop": "thepawsstore.in",
+      "product_page": "https://thepawsstore.in/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1021586634378954",
+      "shop_open_since": null
+     },
+     {
+      "name": "Bscly For Pets",
+      "pages": 1,
+      "page_names": [
+       "Bscly For Pets"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-08",
+      "page_likes": null,
+      "headline": "Buy 2 Get 2 FREE 🐾",
+      "shop": "bsclyforpets.com",
+      "product_page": "https://bsclyforpets.com/collections/all",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=953943051128069",
+      "shop_open_since": null
+     },
+     {
+      "name": "PawSheen",
+      "pages": 1,
+      "page_names": [
+       "PawSheen"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-08",
+      "page_likes": 23,
+      "headline": "Paw Cleaner Cup",
+      "shop": "pawsheen.com",
+      "product_page": "https://pawsheen.com/products/paw-cleaner-cup",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=218529964667434",
+      "shop_open_since": null
+     },
+     {
+      "name": "Pet Amz Store",
+      "pages": 1,
+      "page_names": [
+       "Pet Amz Store"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-03",
+      "page_likes": 11,
+      "headline": "{{product.name | titleize}}",
+      "shop": "petamzstore.com",
+      "product_page": "https://petamzstore.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1156223754233809",
+      "shop_open_since": null
+     },
+     {
+      "name": "WoofnWhiskers",
+      "pages": 1,
+      "page_names": [
+       "WoofnWhiskers"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-09",
+      "page_likes": 3,
+      "headline": "USB-C paw cleaner",
+      "shop": "woofandwhisker.online",
+      "product_page": "https://woofandwhisker.online/products/usb-c-paw-cleaner-cup",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1346445168543350",
+      "shop_open_since": null
+     },
+     {
+      "name": "Wagbase ca",
+      "pages": 1,
+      "page_names": [
+       "Wagbase ca"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-06",
+      "page_likes": 1,
+      "headline": "{{product.name | titleize}}",
+      "shop": "wagbase.ca",
+      "product_page": "https://wagbase.ca/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1306779992520853",
+      "shop_open_since": null
+     },
+     {
+      "name": "PetPollo",
+      "pages": 1,
+      "page_names": [
+       "PetPollo"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-09",
+      "page_likes": 4,
+      "headline": "Make Post-Walk Paw Cleanup Simpler",
+      "shop": "petpollo.com",
+      "product_page": "https://petpollo.com/products/dog-paw-cleaner-cup-soft-silicone-combs-portable-outdoor-pet-foot-washer-paw-clean-brush-quickly-wash-foot-cleaning-bucket",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1298438523349112",
+      "shop_open_since": null
+     },
+     {
+      "name": "Archie's pet",
+      "pages": 1,
+      "page_names": [
+       "Archie's pet"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-10",
+      "page_likes": 85,
+      "headline": "Archie's pet",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=632575706587225",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "mrsoda.lt": 15,
+     "anniva.tn": 12,
+     "shopee.co.id": 9,
+     "outbackpaw.com": 7,
+     "barelytherelitter.com.au": 6,
+     "calivopets.com": 6,
+     "bugalugspetcare.com": 3,
+     "1x0tvg-t0.myshopify.com": 3,
+     "baraschshop.com": 3,
+     "nuvapetchile.com": 3,
+     "ca.wahl.com": 2,
+     "herbalhound.com.au": 2,
+     "petdriv.com": 2,
+     "ilovedogs.store": 2,
+     "theregalpetco.com": 1,
+     "pawlysupply.com": 1,
+     "pets-dreams.uk": 1,
+     "dogsht.com.au": 1,
+     "ninjashark.com.au": 1,
+     "hankpets.com": 1,
+     "theminniestore.com": 1,
+     "thenoblepawboutique.com": 1,
+     "codaecasa.store": 1,
+     "puppieszone.com": 1,
+     "whiskerwell.co.uk": 1
+    },
+    "cost_usd": 0.57,
+    "shops_checked": 9,
+    "shops_over_a_year_old": 3,
+    "shops_under_4_months_old": 4,
+    "takeaway": "It's a swarm: 38 brands, 32 of them new in the last two months, several from shops opened this year. The phrase also catches paw-washing cups, but the pattern is clear: many sellers piling in, and Dandylion is not among the top advertisers."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "dog paw cleaner foam",
+     "image": "asis/paw-wash_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "M-Pets Paw Cleaning Foam - 150ml",
+       "link": "https://www.harveynorman.com.au/m-pets-paw-cleaning-foam-150ml.html?srsltid=AU7gw4XpFAbeif-KOSCj8_i1y9ZiZ0BeCliogdQqU5EgMBahcHT9aKgs",
+       "domain": "harveynorman.com.au",
+       "kind": "big chain",
+       "snippet": "Formulated with anti-bacterial properties, helping keep your pet's paws clean and healthy · Can be use for cracked or dry paws · Comes with a brush head, making"
+      },
+      {
+       "position": 2,
+       "title": "M-PETS - Paw Cleaning Foam - 150 ml",
+       "link": "https://www.petservo.com.au/products/m-pets-paw-cleaning-foam-150-ml?srsltid=AU7gw4XMGhOqlu54GpspD5VopZOcq-o_ndy70McJgzFI0hX5f9QLfWhI",
+       "domain": "petservo.com.au",
+       "kind": "store / brand",
+       "snippet": "Antibacterial properties keep the paws healthy and clean.Composition: Deionised water, Cocamidopropyl Betaine, PEG-40, Hydrogenated Castor Oil, ..."
+      },
+      {
+       "position": 4,
+       "title": "Dog Paw Foam Cleaners: Keep Your Pup's Paws Pristine",
+       "link": "https://cature.au/dog-paw-foam-cleaners-keep-your-pups-paws-pristine/",
+       "domain": "cature.au",
+       "kind": "store / brand",
+       "snippet": "Foam paw cleaners are easy to use and keep things tidy. Apply them directly to the paw and wipe with a cloth; they leave no residue. Great for quick clean-ups ."
+      },
+      {
+       "position": 5,
+       "title": "Bugalugs Dog Paw Cleaner No Rinse Foam Cat And Dog",
+       "link": "https://www.desertcart.com.au/products/551127202-bugalugs-dog-paw-cleaner-no-rinse-foam-cat-and-dog?srsltid=AU7gw4Wmo3eEKxZaZrzBBrApovXyL1BINId8wB0DhRoeu4us_u_H5Ss7",
+       "domain": "desertcart.com.au",
+       "kind": "store / brand",
+       "snippet": "Bugalugs Dog Paw Cleaner is a 200ml UK-made, no rinse, waterless foam shampoo with a built-in silicone brush head designed for quick, gentle, ..."
+      },
+      {
+       "position": 6,
+       "title": "The 13 Best Dog Paw Cleaners for Every Type of Pup",
+       "link": "https://www.thesprucepets.com/best-dog-paw-cleaner-8362917",
+       "domain": "thesprucepets.com",
+       "kind": "article",
+       "snippet": "Our top pick is the Dexas MudBuster Portable Dog Paw Cleaner. You just add warm water and dunk your pup's paws in the cup to clean them. We also ..."
+      }
+     ],
+     "paa": [
+      "What's the best dog paw cleaner?",
+      "How to clean a dog bed foam?",
+      "What is the best moisturizer for dog paws?",
+      "How to use pet paw cleaner?"
+     ],
+     "popular_products": [
+      {
+       "title": "Tinioey Dog Paw Cleaner Foam 200ml No-Rinse with Silicone Br",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "DOMESTEE-Dog Paw Cleaner Foam | PH-Balanced Paw Cleaning Foa",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Wet Ones for Pets Antibacterial Dog Paw Cleansing Foam with ",
+       "price": null,
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Cature Waterless Paw Cleaning Foam 150ml | Dog & Cat Pet Gro",
+       "price": null,
+       "source": "Pet Supplies Empire"
+      },
+      {
+       "title": "M-Pets Dog/Cat Cleaning/Grooming Hygiene Paw Soap Wash Foam ",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Kojima Pet Paw Cleaning Foam 150ml",
+       "price": null,
+       "source": "BIG W"
+      },
+      {
+       "title": "Bugalugs Dog Paw Cleaner No Rinse Foam Cat & Dog shampoo wit",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Dog Paw Washing Foam Dog Feet Cleaner",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Waterless Paw Cleaner – Foam Shampoo",
+       "price": null,
+       "source": "Lazy Doxie Co"
+      },
+      {
+       "title": "BUGALUGS Dog Paw Cleaner No Rinse Foam Cat & Dog shampoo wit",
+       "price": null,
+       "source": "Amazon"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in Australia: harveynorman.com.au (big chain). In the product strip: Amazon, Amazon AU, Amazon AU - Amazon.com.au-Seller, BIG W, Lazy Doxie Co. Amazon here is crowded."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "dog paw cleaner foam",
+     "image": "asis/paw-wash_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Luxury Waterproof Dog Blankets, Beds & More by Paw.com",
+       "link": "https://www.paw.com/",
+       "domain": "paw.com",
+       "kind": "store / brand",
+       "snippet": "These premium memory foam beds are crafted to provide dogs with the ultimate place to rest. EASY TO CLEAN REPLACEABLE COVERS ORTHOPEDIC. FOAM WATER & ODOR ..."
+      },
+      {
+       "position": 2,
+       "title": "Panther Access to Web Services / PAWS",
+       "link": "https://uwm.edu/paws/home/",
+       "domain": "uwm.edu",
+       "kind": "store / brand",
+       "snippet": "Panther Access to Web Services (PAWS) is an online tool that helps students, faculty, and staff manage important school-related information in one place."
+      },
+      {
+       "position": 3,
+       "title": "RapidAPI for Mac – The most advanced API tool for Mac",
+       "link": "https://paw.cloud/",
+       "domain": "paw.cloud",
+       "kind": "store / brand",
+       "snippet": "RapidAPI for Mac is a full-featured HTTP client that lets you test and describe the APIs you build or consume. It has a beautiful native macOS interface to ..."
+      },
+      {
+       "position": 5,
+       "title": "PAWS - Georgia State University",
+       "link": "https://paws.gsu.edu/",
+       "domain": "paws.gsu.edu",
+       "kind": "store / brand",
+       "snippet": "Students use PAWS to register for classes, view grades, access billing and financial aid information, and access the student dashboard to view their current ..."
+      },
+      {
+       "position": 6,
+       "title": "Tiger Paw Punch",
+       "link": "https://www.boulevard.com/beverage/tiger-paw-punch/",
+       "domain": "boulevard.com",
+       "kind": "store / brand",
+       "snippet": "Quirk Hard Seltzer Tiger Paw Punch in partnership with Mizzou Athletics. Enjoy Juicy mango and tropical flavor, made in Missouri."
+      }
+     ],
+     "paa": [
+      "What is the best thing to clean a dog's paws?",
+      "What is a good DIY solution for cleaning dog paws?",
+      "What do vets recommend for dog paws?",
+      "What is the best thing to soak my dog's paws in?"
+     ],
+     "popular_products": [
+      {
+       "title": "Well & Good Hydrating Paw Foam Cleanser for Dogs",
+       "price": "$6.99",
+       "source": "Petco.com"
+      },
+      {
+       "title": "Wet Ones For Pets Antibacterial Paw Cleansing Foam",
+       "price": "$6.01",
+       "source": "Chewy.com"
+      },
+      {
+       "title": "Wizz Pet Natural Foam Cleaner",
+       "price": "$11.97",
+       "source": "Muddy Mat"
+      },
+      {
+       "title": "Petribe Dog Paw Cleaner Foam with Built-In Silicone Brush, N",
+       "price": "$10.99",
+       "source": "Walmart - Universal One"
+      },
+      {
+       "title": "Top Paw Waterless Dog Wash Cleansing No-Rinse Foam",
+       "price": "$9.99",
+       "source": "PetSmart"
+      },
+      {
+       "title": "Waterless Dog Paw Cleaner Foam with Silicone Brush No-Rinse ",
+       "price": "$13.36",
+       "source": "Walmart - STARSELECT"
+      },
+      {
+       "title": "Pet Paw Foam Cleaner with Built-In Brush Plant-Based No-Rins",
+       "price": "$6.67",
+       "source": "Walmart - Mmeneyy"
+      },
+      {
+       "title": "Dandylion Clean Paws No-Rinse Foaming Cleanser",
+       "price": "$17.99",
+       "source": "Target"
+      },
+      {
+       "title": "PawSono Dog & Cat Paw Cleansing Foam",
+       "price": "$12.99",
+       "source": "Chewy.com"
+      },
+      {
+       "title": "Pawsono Paw Cleaner for Dogs and Cats,Magic Foam - Clean Paw",
+       "price": "$12.99",
+       "source": "Walmart - PawSono Direct"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "Google's page for these words is off-topic in the US (student pages and unrelated sites); rely on the product strip and Amazon."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "dog paw cleaner foam",
+     "image": "asis/paw-wash_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Dogslife Paw Cleaner Foam + Towel 200ml",
+       "link": "https://wildwoodpets.co.uk/products/dogslife-paw-cleaner-foam-towel-200ml?srsltid=AU7gw4X_PW-ucQaHmrSL59NEJvN6vEgK2DNagYAIWaV5anEOXRYOaSOK",
+       "domain": "wildwoodpets.co.uk",
+       "kind": "store / brand",
+       "snippet": "Antibacterial formula ensures thorough cleansing • Effectively removes dirt and grime from your dog's paws • Infused with soothing lavender and chamomile"
+      },
+      {
+       "position": 2,
+       "title": "Amazon.co.uk: Dog Clean Paws",
+       "link": "https://www.amazon.co.uk/dog-clean-paws/s?k=dog+clean+paws",
+       "domain": "amazon.co.uk",
+       "kind": "marketplace",
+       "snippet": "Soothes Itchy & Irritated Paws, Supports Microbiome, Itchy Skin & Paws (Probiotic Paw Cleaner) Foam. Travel friendly paw cleaner for dogs defeat muddy paws on ."
+      },
+      {
+       "position": 4,
+       "title": "The 13 Best Dog Paw Cleaners for Every Type of Pup",
+       "link": "https://www.thesprucepets.com/best-dog-paw-cleaner-8362917",
+       "domain": "thesprucepets.com",
+       "kind": "article",
+       "snippet": "Our top pick is the Dexas MudBuster Portable Dog Paw Cleaner. Dandylion Clean Paws No-Rinse Foaming Cleanser, which features a built-in soft ..."
+      },
+      {
+       "position": 5,
+       "title": "Our Dogs Life Paw Cleaner No Rinse Foam Shampoo ...",
+       "link": "https://www.ebay.co.uk/itm/297470984949",
+       "domain": "ebay.co.uk",
+       "kind": "marketplace",
+       "snippet": "Our antibacterial formula infused with lavender and chamomile gently cleanses, soothes, and promotes healthy skin. Say goodbye to dirt and cracked paws"
+      },
+      {
+       "position": 6,
+       "title": "Paw Cleaner for Dogs and Cats 100/200 ml",
+       "link": "https://www.amazon.co.uk/Paw-Cleaner-Dogs-Cats-100/dp/B0DB8DTB3X",
+       "domain": "amazon.co.uk",
+       "kind": "marketplace",
+       "snippet": "100% Natural Paw Foam Cleans. Our paw cleaner for dogs is easy and quick to use without the need for rinsing. The integrated silicone brush ensures thorough ..."
+      }
+     ],
+     "paa": [
+      "Can I wash dog bed foam?",
+      "What is the best pet friendly floor cleaner in the UK?",
+      "What's the best dog paw cleaner?",
+      "How to use pet paw cleaner?"
+     ],
+     "popular_products": [
+      {
+       "title": "Bugalugs No Rinse Paw Cleaner",
+       "price": "£10.98",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Petroyale Paw Cleaner for Dogs & Cats Foaming Paw Cleanser w",
+       "price": "£10.00",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "ITSY Pets Refillable Paw Cleaner for Dogs & Cats",
+       "price": "£6.95",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Clorexyderm 4% Foam",
+       "price": "£13.50",
+       "source": "vetuk.co.uk"
+      },
+      {
+       "title": "Divine Canine Foam Dog Paw Cleaner Alcohol Free Foaming Paw ",
+       "price": "£7.99",
+       "source": "Royal Deals"
+      },
+      {
+       "title": "The Good Paws Muddy Buddy Paw Cleaner for Dogs & Cats No Rin",
+       "price": "£10.00",
+       "source": "Dealvip.co.uk"
+      },
+      {
+       "title": "M-Pets Paw Cleaning Foam 150ml Paraben Free Pet Cleaning Sup",
+       "price": "£8.55",
+       "source": "Vetsend.co.uk"
+      },
+      {
+       "title": "KOJIMA Pet Paw Cleaning Foam",
+       "price": "£5.00",
+       "source": "CreatureLand."
+      },
+      {
+       "title": "Dog Paw Cleaner for Dogs & Cats No Rinse Foaming Paw Washer",
+       "price": "£13.99",
+       "source": "BargainBrit"
+      },
+      {
+       "title": "Pet Paw Cleaner Foam - No-Rinse Waterless Gentle Lick-Safe, ",
+       "price": "£9.82",
+       "source": "eBay"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in the UK: wildwoodpets.co.uk (store / brand). In the product strip: Amazon.co.uk - Amazon.co.uk-Seller, BargainBrit, CreatureLand., Dealvip.co.uk, Royal Deals. Amazon here is crowded."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "dog paw cleaner foam",
+     "image": "asis/paw-wash_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Clean Paws No-Rinse Foaming Cleanser | Dog Paw Washer",
+       "link": "https://www.dandylionworld.com/products/clean-paws-no-rinse-foaming-cleanser-dog-paw-wash?srsltid=AU7gw4WiJfY8TqVn1F5ZNHLTMJZSPMfCkuqF3x82vtOrQSIm5LoFK4WU",
+       "domain": "dandylionworld.com",
+       "kind": "store / brand",
+       "snippet": "Clean Paws no-rinse foaming cleanser for dogs. Gently removes dirt from paws without water-perfect for post-walk cleanups &amp; daily paw care."
+      },
+      {
+       "position": 2,
+       "title": "Dog Probiotic Paw Cleaner",
+       "link": "https://ca.wahl.com/shop/dog-probiotic-paw-cleaner-058549?srsltid=AU7gw4UrzVG-TvoW4NRPmtE85guaMFrmveHDxbptjFmN0fvsdQllKOS_",
+       "domain": "ca.wahl.com",
+       "kind": "store / brand",
+       "snippet": "WAHL probiotic paw cleaning foam with soft silicone brush, aloe, oatmeal, and lanolin. Helps remove dirt and odor while supporting healthy dog paw hygiene."
+      },
+      {
+       "position": 4,
+       "title": "Essentials Waterless Dog Paw Cleaner",
+       "link": "https://www.petvalu.ca/product/essentials-waterless-dog-paw-cleaner/SCM07388",
+       "domain": "petvalu.ca",
+       "kind": "store / brand",
+       "snippet": "This easy-to-use foam hydrates the paws while the bristle head gently massages your dog's paws to clean any mud or debris without stripping the natural oils."
+      },
+      {
+       "position": 5,
+       "title": "PawZ Foaming Cleanser for Dog Paws",
+       "link": "https://pawzdogboots.com/products/pawz-paw-foaming-cleanser?srsltid=AU7gw4UldR7MGEATwDyf0xY-hvfVkkcc6ucDZXMPy8wFZF-Scrg7Hj-B",
+       "domain": "pawzdogboots.com",
+       "kind": "store / brand",
+       "snippet": "Designed with a built-in silicone brush, the foaming cleanser ensures a deep clean while being gentle on your dog's skin. Use in addition to our SaniPaw wipes ."
+      },
+      {
+       "position": 6,
+       "title": "Dog Paw Cleaner",
+       "link": "https://www.amazon.ca/dog-paw-cleaner/s?k=dog+paw+cleaner",
+       "domain": "amazon.ca",
+       "kind": "marketplace",
+       "snippet": "Shop dog paw cleaning solutions that remove dirt and mud. Discover cup-style washers and foam cleansers for different dog sizes. $10 to $20"
+      }
+     ],
+     "paa": [
+      "What kind of foam is good for itchy dog paws?",
+      "What is the best paw cleaner for dogs?",
+      "What is the best dog paw cleaner solution?",
+      "What is the best device for cleaning dog paws?"
+     ],
+     "popular_products": [
+      {
+       "title": "Tinioey Paw Cleaner for Dogs and Cats Clean Paws No-rinse Fo",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Uproot Paw Cleaner",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Wahl Probiotic Paw Cleaner No-Rinse Foaming Solution With Br",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "M-PETS Paw Cleaning Foam",
+       "price": null,
+       "source": "Petland Canada"
+      },
+      {
+       "title": "Paw Cleaner No-Rinse Foaming Cleanser for Dogs Cats 6.8 fl o",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Dog Paw Washing Foam Dog Feet Cleaner",
+       "price": null,
+       "source": "Walmart.ca"
+      },
+      {
+       "title": "Pawresh Foam No-Rinse Dog & Cat Paw Cleaner Foam 150 ml",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "The Good Paws Muddy Buddy Paw Cleaner for Dogs & Cats No Rin",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Divine Canine Foam Dog Paw Cleaner",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Top Paw Waterless Dog Paw Wash Cleansing No-Rinse Foam",
+       "price": null,
+       "source": "PetSmart.ca"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: dandylionworld.com (store / brand). In the product strip: Amazon CA, PetSmart.ca, Petland Canada, Walmart.ca. Amazon here is busy."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "dog paw cleaner foam",
+     "image": "asis/paw-wash_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Suchergebnis Auf Amazon.de Für: Dog Paw Cleaner",
+       "link": "https://www.amazon.de/dog-paw-cleaner/s?k=dog+paw+cleaner",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Pfotenreiniger für Hunde und Katzen, Magic Foam – Clean Paws Schaumreiniger ohne Abspülen, Trockenshampoo, Fußreinigungsbürste – mit Rosenextrakt, ..."
+      },
+      {
+       "position": 2,
+       "title": "Doggy´s Wash • Cleaning foam",
+       "link": "https://www.maxxiclean.com/en/products/maxxi-products/39-pets/72-doggys-wash-cleaning-foam",
+       "domain": "maxxiclean.com",
+       "kind": "store / brand",
+       "snippet": "The mild care foam with bisabolol, aloe vera, allantoin and panthenol also helps with irritated skin and itching in the anus area. Suitable for all dogs. PAW .."
+      },
+      {
+       "position": 3,
+       "title": "Paw Cleaner for Dogs and Cats, Cat Feet Cleaning with ...",
+       "link": "https://www.amazon.de/-/en/Cleaner-Cleaning-Silicone-Waterless-Skin-Friendly/dp/B0CBM2CL6J",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Gentle plant substances: the main ingredients of the dog paw cleaning foam are coconut oil, gentian root extract and glycerine. The natural plant substances ..."
+      },
+      {
+       "position": 4,
+       "title": "BluePet Paw Cleaner for Dogs, Dog Paw ...",
+       "link": "https://www.amazon.de/-/en/BluePet-Cleaner-Dogs-Clean-Paws/dp/B094JK9B47",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "For small dog paws up to 4 cm: paw cleaner for dogs available in various sizes including dog towel. Comfortable mini dog washing system for dog paws also as an "
+      },
+      {
+       "position": 5,
+       "title": "The 13 Best Dog Paw Cleaners for Every Type of Pup",
+       "link": "https://www.thesprucepets.com/best-dog-paw-cleaner-8362917",
+       "domain": "thesprucepets.com",
+       "kind": "article",
+       "snippet": "Our top pick is the Dexas MudBuster Portable Dog Paw Cleaner. You just add warm water and dunk your pup's paws in the cup to clean them. We also ..."
+      }
+     ],
+     "paa": [
+      "Can I wash dog bed foam?",
+      "What's the best dog paw cleaner?",
+      "Can I use Dawn dish soap on my dog's paws?",
+      "How do I deodorize my dog without a bath?"
+     ],
+     "popular_products": [
+      {
+       "title": "HiPet Paw Cleaner Foam, Natural Paw Care, Cleans Paws and Ma",
+       "price": "24,98 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "MiaCara Spuma Pfotenschaumreiniger",
+       "price": "16,95 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "G&B Pet Paw Cleaning Foam for Cats and Dogs 200ml",
+       "price": "13,76 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "BIO PETACTIVE Pure Paws Cleansing Foam XS-XL",
+       "price": "26,77 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Vet'S Plus Aloe Vera Paw Cleaning Foam for Cats & Dogs 150 m",
+       "price": "16,83 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Bio-Groom Paw Scrubber 236 ml",
+       "price": "15,37 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Docho Paw Cleaning & Care Foam",
+       "price": "27,77 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Bugalugs Pre Post + Probiotic No Rinse Paw Cleaner For Dogs",
+       "price": "23,09 €",
+       "source": "Vergleichsportale"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "organic_results"
+     ],
+     "takeaway": "First result in Germany: amazon.de (marketplace). In the product strip: Vergleichsportale. Amazon here is crowded."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "dog paw cleaner foam",
+     "image": "asis/paw-wash_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 2,
+       "title": "Paw Cleaner for Dogs & Cats,No-Rinse Foaming ...",
+       "link": "https://www.amazon.com/clp/B0792B9NSX",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "OurCares OurCares Dog Paw Cleaner Foam, No Rinse Silicone Brush, Alcohol-Free 6.8oz | No-rinse foam with oat, cica & panthenol. Alcohol-free, safe if licked."
+      },
+      {
+       "position": 3,
+       "title": "Paw Foam Cleaner 150ml - Dog-Grooming",
+       "link": "https://www.pet.kiwi/product/paw-foam-cleaner-150ml/ttpfc.aspx?srsltid=AU7gw4ViAhmNy4dLGt3FpZSvnbnIL2lu9hoGN-ElG1yxNsP8A8-GChTc",
+       "domain": "pet.kiwi",
+       "kind": "store / brand",
+       "snippet": "Made with skin nourishing and mild natural ingredients like deionized water, aloe vera, honey and plant extracts, the Tinytails dog paw cleaner 150 ml, ..."
+      },
+      {
+       "position": 4,
+       "title": "PawZ Foaming Cleanser for Dog Paws",
+       "link": "https://pawzdogboots.com/products/pawz-paw-foaming-cleanser?srsltid=AU7gw4V8WwxjdkHZYrZMLQqkFsXvTsA_JqaqgXCGd0Fr56GDyiPRT6GI",
+       "domain": "pawzdogboots.com",
+       "kind": "store / brand",
+       "snippet": "PawZ Foaming Cleanser for Dog Paws Regular price $15.99. Clean Kills 99.99% of Germs ・ just foam, scrub, and wipe dry ・ kill 99.9999% of bacteria and germs."
+      },
+      {
+       "position": 5,
+       "title": "Clean Paws Dog Paw Cleaner | No-Rinse Foam",
+       "link": "https://www.dandylionworld.com/pages/clean-paws-best-dog-paw-cleaner?srsltid=AU7gw4UPXjxMWhOHvuTMx4Uux9UiRzWq0A0Bc51nSi16cE70qb-rSC2e",
+       "domain": "dandylionworld.com",
+       "kind": "article",
+       "snippet": "Our innovative no-rinse foam works to gently deep clean while soothing and nourishing your dog's paw pads. fresh and irritation-free."
+      },
+      {
+       "position": 7,
+       "title": "M-PETS Paw Cleaning Foam, 150ml",
+       "link": "https://www.petmania.ie/product/m-pets-paw-cleaning-foam-150ml/?srsltid=AU7gw4XnrbYp8VIkd6li744kswmB5c_z60HPEpL3YNbhJ0yxxkAzVAX-",
+       "domain": "petmania.ie",
+       "kind": "store / brand",
+       "snippet": "M-PETS Paw Cleaning Foam is an antibacterial wash to help keep your dog's paws healthy and clean. Additional information Weight 295 g Dimensions 15.50 × 10.50 ."
+      }
+     ],
+     "paa": [
+      "What is the best solution for cleaning dog paws?",
+      "How do I get brown stains off my dog's paws?",
+      "How to make a dog paw cleaner?",
+      "What can I soak my dog's paws in to clean them?"
+     ],
+     "popular_products": [
+      {
+       "title": "Essential Dog Rinse Free Paw And Body Cleaner Foam",
+       "price": "$28.00",
+       "source": "Pet Humanization Empire"
+      },
+      {
+       "title": "Mubo Paw Cleaning Foam Cherry 200ml – No Rinse Grooming Esse",
+       "price": "$22.00",
+       "source": "Groomica"
+      },
+      {
+       "title": "2x Cature 150ml Waterless Paws Pet Cat/Dog Cleaning Foam Hyg",
+       "price": "$43.01",
+       "source": "MightyApe.co.nz"
+      },
+      {
+       "title": "DGG Easy Paw Cleaner for Dogs",
+       "price": "$18.97",
+       "source": "Petstock.co.nz"
+      },
+      {
+       "title": "HOT PAWZ PROGROOM FOAM PACK",
+       "price": "$63.50",
+       "source": "MJ's New Zealand"
+      },
+      {
+       "title": "Mubo Paw Cleaning Foam Watermelon 200ml – Fast No Rinse Wash",
+       "price": "$22.00",
+       "source": "Groomica"
+      },
+      {
+       "title": "Bioline Paw Cleaning Foam for Cats & Dogs",
+       "price": "$62.41",
+       "source": "GoSupps.com"
+      },
+      {
+       "title": "Smith & Burton Waterless Foaming Shampoo Hypoallergenic",
+       "price": "$22.39",
+       "source": "Petstock.co.nz"
+      },
+      {
+       "title": "Bugalugs Pet Care Bugalugs No Rinse Paw Cleaner Foam for Dog",
+       "price": "$34.00",
+       "source": "Groomica"
+      },
+      {
+       "title": "G&B Pet Paw Cleaning Foam for Cats and Dogs 200ml",
+       "price": "$53.49",
+       "source": "GoSupps.com"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: amazon.com (marketplace). In the product strip: GoSupps.com, Groomica, MJ's New Zealand, MightyApe.co.nz, Pet Humanization Empire. Amazon here is crowded."
+    }
+   ],
+   "compare": {
+    "match_name": "Dandylion's own bottle at Target",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "Photo matches were Dandylion's own bottle at its stockists; look-alikes from other brands use the same foam-and-brush bottle.",
+    "brand_image": "paw-wash/img_1.jpg",
+    "match_image": "lens/paw-wash_thumb_08.jpg"
+   }
   }
  ],
  "ranking": [
   "cc-cream",
   "swingpro",
   "neck-cream",
-  "lola-kit"
+  "lola-kit",
+  "paw-wash"
  ]
 }
