@@ -1,0 +1,924 @@
+{
+  "slug": "doggo-dock",
+  "query": "isofix dog car seat",
+  "mode": "full",
+  "brand_price": 140.0,
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "currency": "A$",
+      "status": "blocked",
+      "why": "Kmart sells it at $20.00",
+      "results": 40,
+      "distinct_sellers": 26,
+      "chains_present": [
+        "BIG W",
+        "Harvey Norman Australia",
+        "Kmart",
+        "Myer"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon AU - Amazon.com.au-Seller"
+      ],
+      "cheapest": 15.0,
+      "typical": 119.99,
+      "most_reviewed": {
+        "seller": "Amazon",
+        "title": "Trixie Car Seat Clear",
+        "reviews": 598,
+        "price_text": "$97.75"
+      },
+      "top_rows": [
+        {
+          "seller": "Amazon",
+          "title": "Trixie Car Seat Clear",
+          "price_text": "$97.75",
+          "price": 97.75,
+          "rating": 4.8,
+          "reviews": 598,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:206900487719413140,productid:2299498704393369364,headlineOfferDocid:16700773647111409328,imageDocid:16546862736797506786,rds:PC_285870661950285517|PROD_PC_285870661950285517,gpcid:285870661950285517,mid:576462666147208393,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUnrR5cd654WwptU27hS9asmvXUSDMgXp2ocTXZeEFW1f2gaYiet6c3GPIN_t6177Jk9wI1l0WtYxqSaOASkuLWs23AOAc"
+        },
+        {
+          "seller": "Kmart",
+          "title": "PaWz Pet Car Booster Seat Dog Protector",
+          "price_text": "$52.95",
+          "price": 52.95,
+          "rating": 4.2,
+          "reviews": 558,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:12907557872645459036,productid:17668675290995461308,headlineOfferDocid:13996003830655638214,imageDocid:10720602755576103303,rds:PC_15328204474555826464|PROD_PC_15328204474555826464,gpcid:15328204474555826464,mid:576462890362628644,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQlwGDzoFxDQ8uFNmprIHCzPShNF4dUxvUmC0OfukP907VJZa6g0Y9qx3fBECKXJY1XABKAJTWORrN8UUOARrMqmHOumsFGOutx_Zrba6MXF23CZKrpuuCi"
+        },
+        {
+          "seller": "The Vet Shed",
+          "title": "K&H Pet Products Bucket Booster Dog Car Seat Small",
+          "price_text": "$123.93",
+          "price": 123.93,
+          "rating": 4.5,
+          "reviews": 493,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:7456694420668209129,productid:9499016081473867806,headlineOfferDocid:17318919339779408919,imageDocid:8332955841846158677,rds:PC_14950071410077455762|PROD_PC_14950071410077455762,gpcid:14950071410077455762,mid:576462865608289853,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7fjxIVMbIV0plGMFpKTVi2-pzyuiruug3Rhombd9i6ECvvDhuB_L5BvygZII3_Kaz8mnsG1ya5shg3lSQU89kWlgTwkT6_w"
+        },
+        {
+          "seller": "petbarn.com.au",
+          "title": "Kurgo Rover Booster Seat",
+          "price_text": "$125.00",
+          "price": 125.0,
+          "rating": 4.6,
+          "reviews": 197,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:12742711700627053432,productid:2121941256355573001,headlineOfferDocid:7810791033917926346,imageDocid:4290847083622059869,rds:PC_3027200635774471775|PROD_PC_3027200635774471775,gpcid:3027200635774471775,mid:576462859078990962,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKE8hyq9uFTvx0ypzNzY53ePeHBRFLGu17Zbu57rNsjw6x8-obon-cG1SgySKT2geZw37RRJeVdOisEUR-SDuSrfEqEh6ZiUzBaR9DN87hc91jm92RSPtJ"
+        },
+        {
+          "seller": "4petsproducts",
+          "title": "Caree Smoked Pearl Standard seatbelt",
+          "price_text": "$665.00",
+          "price": 665.0,
+          "rating": 4.5,
+          "reviews": 146,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:6780838386728742060,productid:12219045550287661586,headlineOfferDocid:1029637756533779135,imageDocid:7997681857214988289,rds:PC_11307654827040227686|PROD_PC_11307654827040227686,gpcid:11307654827040227686,mid:576462898609618000,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTCOmdD-TGTaEoG8r4KDdyomhsTy59wKSASGmPdsw2QzYeM_eroPQbCYXkMRQtN1x2dplXW7rwIdSrxG75x8a-p_Rv53RHDzEtInG2lNRMns7ZUTaDePnwGA"
+        },
+        {
+          "seller": "BIG W",
+          "title": "PetSafe Happy Ride Safety Seat",
+          "price_text": "$94.99",
+          "price": 94.99,
+          "rating": 4.8,
+          "reviews": 132,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:7042245685416528569,productid:4281264349543852872,headlineOfferDocid:1115915826021761127,imageDocid:313603530626848210,rds:PC_3037363390000264040|PROD_PC_3037363390000264040,gpcid:3037363390000264040,mid:576462561886192206,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTt02GAlV0-EbWX6sdY9VwEKqxa6JcqtEeE7VpWMJCQeHMWxCgcB1fjLKlhqjKXh-RTr1xFf_tLOAdqg3VOOXaWgYLjHcBpXxIbZlmWpOA"
+        },
+        {
+          "seller": "Amazon AU - Amazon.com.au-Seller",
+          "title": "DOOG Dog Car Seat",
+          "price_text": "$159.99",
+          "price": 159.99,
+          "rating": 4.8,
+          "reviews": 83,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:17478096057986516492,productid:14791972299590128475,headlineOfferDocid:5658300248537722190,imageDocid:770221102376225305,rds:PC_996708729360687565|PROD_PC_996708729360687565,gpcid:996708729360687565,mid:576462567983077926,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiUoDPaXovbBABWNSg10cvFcM__SYzbs5j8brnSwDiTL-qxonbQcTSWRZfqFL_GV1hBgCRKXnulfAKLzjuGRzMxWxEIx2nn5lswhvvBAIXAvs9zgSz1Fkt"
+        },
+        {
+          "seller": "Kellyville Pets",
+          "title": "Tavo Hendrick Pet Car Seat & Flexible Carrier",
+          "price_text": "$549.00",
+          "price": 549.0,
+          "rating": 4.8,
+          "reviews": 76,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:13300994716220033180,productid:17960450076141393475,headlineOfferDocid:16188896276896324250,imageDocid:11328020120044201330,rds:PC_5162784650296260079|PROD_PC_5162784650296260079,gpcid:5162784650296260079,mid:576462866789219462,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSl0s3wWKlaPs4Z6DLv1NEBFyf1X0tna1z66bQT-XXRKO1S6BD6zmkPrJ4764CRfq2K7TUL_XvyYgWhYQk7WELqcNIHw573Z4FANv3XcXfVJHNuwJRczOviAuJ6"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Kmart",
+          "title": "Anko Dog Car Booster Seat",
+          "price_text": "$20.00",
+          "price": 20.0,
+          "rating": 3.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:3865709702361100956,productid:9632037375083671245,headlineOfferDocid:1428988441319363587,imageDocid:6705082492295716610,rds:PC_13588944875408848187|PROD_PC_13588944875408848187,gpcid:13588944875408848187,mid:576462854069065219,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIxn9QLoktZPeHR_IfiTqwJvB98TxZLyWcHeUai8eVtsBNS-85tv2ZbTSCJmJlOeuyx10wf_Q2Rk-3-Jcdqzr8S_Y2qU5zZvn5lWQ28hR1kPsMpbzxGnY4"
+        },
+        {
+          "seller": "Harvey Norman Australia",
+          "title": "Advwin 2-in-1 Pet Car Seat Portable Carrier",
+          "price_text": "$63.00",
+          "price": 63.0,
+          "rating": 5.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:5749329326860139383,productid:7063502830470872192,headlineOfferDocid:1720502591942203432,imageDocid:4977142078062797530,rds:PC_547275113335896450|PROD_PC_547275113335896450,gpcid:547275113335896450,mid:576462892419514851,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7X5pfEtpfaj2SItj0Z9xaDTPsZOVK3cV-NXOkqC2O2qMifkYUEcTMdXWJS-WQ09HylMk8yKG5rvjgbQ6fDBpaY6d8zuQUTamdT7bs3AXJ738TFYjdYsxKqQ"
+        },
+        {
+          "seller": "Kmart",
+          "title": "PaWz Pet Car Booster Seat Dog Protector",
+          "price_text": "$52.95",
+          "price": 52.95,
+          "rating": 4.2,
+          "reviews": 558,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:12907557872645459036,productid:17668675290995461308,headlineOfferDocid:13996003830655638214,imageDocid:10720602755576103303,rds:PC_15328204474555826464|PROD_PC_15328204474555826464,gpcid:15328204474555826464,mid:576462890362628644,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQlwGDzoFxDQ8uFNmprIHCzPShNF4dUxvUmC0OfukP907VJZa6g0Y9qx3fBECKXJY1XABKAJTWORrN8UUOARrMqmHOumsFGOutx_Zrba6MXF23CZKrpuuCi"
+        },
+        {
+          "seller": "BIG W",
+          "title": "PetSafe Happy Ride Safety Seat",
+          "price_text": "$94.99",
+          "price": 94.99,
+          "rating": 4.8,
+          "reviews": 132,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:7042245685416528569,productid:4281264349543852872,headlineOfferDocid:1115915826021761127,imageDocid:313603530626848210,rds:PC_3037363390000264040|PROD_PC_3037363390000264040,gpcid:3037363390000264040,mid:576462561886192206,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTt02GAlV0-EbWX6sdY9VwEKqxa6JcqtEeE7VpWMJCQeHMWxCgcB1fjLKlhqjKXh-RTr1xFf_tLOAdqg3VOOXaWgYLjHcBpXxIbZlmWpOA"
+        },
+        {
+          "seller": "Harvey Norman Australia",
+          "title": "Advwin 2-in-1 Pet Center Console Portable Car Seat Carrier",
+          "price_text": "$59.00",
+          "price": 59.0,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:9765466045059390070,productid:15974097662251865551,headlineOfferDocid:5653971244497016110,imageDocid:5505651491421589542,gpcid:12580946922532343674,mid:576462549198800935,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQwOcRuc9Eg_jFxFuf2yzj2WBypJ-NdADsNGUEy3olIimXhvaoipWlK8iefFexh0GQ2hZ2Gio7mA7jIRFr5T6hDcCej-5OuhAulvaZ9hBkS8-GnLZCE_pdJ_4"
+        },
+        {
+          "seller": "Myer",
+          "title": "Pawz Dog Car Seat Pet Car Seat Elevated 10cm Plush Oxford Black",
+          "price_text": "$79.95",
+          "price": 79.95,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:6682978528589542038,productid:10454269830533778781,headlineOfferDocid:1010362490157315735,imageDocid:9624628390423281109,gpcid:6815602713990122616,mid:576462912435366967,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-L8s120GXFCH0FS2rF3BzRsL7dp3l7cN03yy1804nbK_4zsTuvkXKHnT4UbCFXPqV1F35YLO3lXZCOsyR4up4k2Ea4C5R2-SyFVltZmYUhdIhkK8J_OQzIQ"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "currency": "US$",
+      "status": "blocked",
+      "why": "Lowe's sells it at $54.95",
+      "results": 40,
+      "distinct_sellers": 19,
+      "chains_present": [
+        "Kohl's",
+        "Lowe's",
+        "PetSmart"
+      ],
+      "marketplaces_present": [
+        "Etsy - Seller",
+        "Walmart - PETSFIT",
+        "Wayfair",
+        "eBay",
+        "eBay - cento_shop_usa",
+        "eBay - esnorashops",
+        "eBay - hilenka",
+        "eBay - northsalem21914",
+        "eBay - serra62lella",
+        "eBay - stefanotanca"
+      ],
+      "cheapest": 32.0,
+      "typical": 180.95,
+      "most_reviewed": {
+        "seller": "Big Frenchies",
+        "title": "Snoozer Lookout Car Seat",
+        "reviews": 1200,
+        "price_text": "$196.04"
+      },
+      "top_rows": [
+        {
+          "seller": "Big Frenchies",
+          "title": "Snoozer Lookout Car Seat",
+          "price_text": "$196.04",
+          "price": 196.04,
+          "rating": 5.0,
+          "reviews": 1200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:6796030160674293648,productid:4556643857695266914,headlineOfferDocid:8947693177092650125,imageDocid:15456551024616927722,rds:PC_1325467311692265848|PROD_PC_1325467311692265848,gpcid:1325467311692265848,mid:576462716876011510,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROMbQz4ll4q0cUa6oVVRQG-YL7ckf0x1Ug9STvSbuVTN-FJRCBXriGROoyLBm6IBrB92grnNuV86TTDRKmgeXA9ziSb09rCaT84fFLZB3L33wNElr3TAWFMw"
+        },
+        {
+          "seller": "bitchnewyork.com",
+          "title": "Lookout I Dog Car Seat Birch Diamond Medium / Personalization 2 Lines",
+          "price_text": "$222.00",
+          "price": 222.0,
+          "rating": 4.3,
+          "reviews": 1200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:10710273505474182601,headlineOfferDocid:10710273505474182601,imageDocid:5975521974065278090,rds:PC_1325467311692265848|PROD_PC_1325467311692265848,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRenwDc2eAoj6rFuqeiJoobAf5ICBYBJ6lTs8dINd90rx_1gHRhUiznnsdPU2rojlOpqpVx7UxEi5VTsD8yZgJIBiLd1bkd3Jkux9sdjyBIVvaBZV6TfCnM"
+        },
+        {
+          "seller": "eBay - northsalem21914",
+          "title": "Snoozer Lookout Car Seat",
+          "price_text": "$185.00",
+          "price": 185.0,
+          "rating": 5.0,
+          "reviews": 1200,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:6796030160674293648,productid:4556643857695266914,headlineOfferDocid:7659760849037279232,imageDocid:15456551024616927722,rds:PC_1325467311692265848|PROD_PC_1325467311692265848,gpcid:1325467311692265848,mid:576462716876011510,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROMbQz4ll4q0cUa6oVVRQG-YL7ckf0x1Ug9STvSbuVTN-FJRCBXriGROoyLBm6IBrB92grnNuV86TTDRKmgeXA9ziSb09rCaT84fFLZB3L33wNElr3TAWFMw"
+        },
+        {
+          "seller": "bitchnewyork.com",
+          "title": "Lookout I Dog Car Seat Birch Diamond Medium / No Personalization",
+          "price_text": "$163.00",
+          "price": 163.0,
+          "rating": 4.8,
+          "reviews": 1100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:2949981780012817171,headlineOfferDocid:2949981780012817171,imageDocid:5975521974065278090,rds:PC_1325467311692265848|PROD_PC_1325467311692265848,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRenwDc2eAoj6rFuqeiJoobAf5ICBYBJ6lTs8dINd90rx_1gHRhUiznnsdPU2rojlOpqpVx7UxEi5VTsD8yZgJIBiLd1bkd3Jkux9sdjyBIVvaBZV6TfCnM"
+        },
+        {
+          "seller": "bitchnewyork.com",
+          "title": "Lookout I Dog Car Seat Black Diamond Small / Personalization 2 Lines",
+          "price_text": "$196.00",
+          "price": 196.0,
+          "rating": 5.0,
+          "reviews": 1100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:13762993266895430278,headlineOfferDocid:13762993266895430278,imageDocid:3963884549274825601,rds:PC_1325467311692265848|PROD_PC_1325467311692265848,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQQJoyEp8wPkd4NxX0Y4QL5XQssHsV132s5wj2jotJ3xRAgP75fHD20vku2JAFWk8sb6wvQMi_spdfc4kVwHhuXlUoZifOL1Qo1dMAoNrQAPOXqz9PC2mkFQ"
+        },
+        {
+          "seller": "bitchnewyork.com",
+          "title": "Lookout I Dog Car Seat Black Diamond Small / Personalization 1 Line",
+          "price_text": "$176.00",
+          "price": 176.0,
+          "rating": 3.0,
+          "reviews": 1100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:6068040823426454403,headlineOfferDocid:6068040823426454403,imageDocid:3963884549274825601,rds:PC_1325467311692265848|PROD_PC_1325467311692265848,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQQJoyEp8wPkd4NxX0Y4QL5XQssHsV132s5wj2jotJ3xRAgP75fHD20vku2JAFWk8sb6wvQMi_spdfc4kVwHhuXlUoZifOL1Qo1dMAoNrQAPOXqz9PC2mkFQ"
+        },
+        {
+          "seller": "Chewy.com",
+          "title": "Solvit Booster Seat",
+          "price_text": "$36.51",
+          "price": 36.51,
+          "rating": 5.0,
+          "reviews": 817,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:16630400869668796427,productid:6416483926434714636,headlineOfferDocid:7746735396643948597,imageDocid:8049480353402378347,rds:PC_18151189594789397570|PROD_PC_18151189594789397570,gpcid:18151189594789397570,mid:576462556615109404,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSNgGIHJRQguENF04JPXyumi7pXwVtKr-cjPWazxtOZ4D0EJspsfhh-HRRzCLJvNX0zDbYnh-VpzoV-4Nq_y81K7DAzNn_xc59RsXJ5Uxo"
+        },
+        {
+          "seller": "Lowe's",
+          "title": "PetSafe Deluxe Booster Seat",
+          "price_text": "$54.95",
+          "price": 54.95,
+          "rating": 3.9,
+          "reviews": 806,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:4394586675674005105,productid:10375186602281431405,headlineOfferDocid:3827297208315212876,imageDocid:8787467123522976665,rds:PC_434389123285342282|PROD_PC_434389123285342282,gpcid:434389123285342282,mid:576462562954220025,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVOUfUQIIW6vgddQv51xsXAGER44bsl1WhUwDi53WqtfVKMEp7PkLpTjyckQiqy-MkqtPzXMzMmKz3V2v8LgVC0_ZlgdMOpg60jPWGGdEfkNTVqUmzKZSdXFE"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Lowe's",
+          "title": "PetSafe Deluxe Booster Seat",
+          "price_text": "$54.95",
+          "price": 54.95,
+          "rating": 3.9,
+          "reviews": 806,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:4394586675674005105,productid:10375186602281431405,headlineOfferDocid:3827297208315212876,imageDocid:8787467123522976665,rds:PC_434389123285342282|PROD_PC_434389123285342282,gpcid:434389123285342282,mid:576462562954220025,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVOUfUQIIW6vgddQv51xsXAGER44bsl1WhUwDi53WqtfVKMEp7PkLpTjyckQiqy-MkqtPzXMzMmKz3V2v8LgVC0_ZlgdMOpg60jPWGGdEfkNTVqUmzKZSdXFE"
+        },
+        {
+          "seller": "Kohl's",
+          "title": "Dog Car Seat for Small Dogs Pet Booster Seat with Safety Leash, Adjustable Straps, & Stora",
+          "price_text": "$36.99",
+          "price": 36.99,
+          "rating": 5.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:16659587570476307851,headlineOfferDocid:16659587570476307851,imageDocid:9753762709519144020,rds:PC_11434051288317203896|PROD_PC_11434051288317203896,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSgm92_raOF9JcI8USvk7ycR_1bZZ6nWrULxtQ5kskB9IkgJM8KZd0suDOEaFlWWw-kbThcRf-gnsIThzxZeC0mGF4J0znFWUKX5rhBa62W5pbrxavM-_3w"
+        },
+        {
+          "seller": "Kohl's",
+          "title": "Dog Car Seat for Small Dogs Pet Booster Seat with Safety Leash, Adjustable Straps, & Stora",
+          "price_text": "$36.99",
+          "price": 36.99,
+          "rating": 3.5,
+          "reviews": 58,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:1543283843875433607,headlineOfferDocid:1543283843875433607,imageDocid:10953436359640659668,rds:PC_11434051288317203896|PROD_PC_11434051288317203896,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRQXpTl15T5rerMU0GCvBlkuv5C4yODsAmJFJrtiqPR2Lb6azBgKU8U3C4TTlWz6mU3ZRXYBTyWrIRruKUM356fcu0nefNj7nwsQZugcxvwzs9uS88yAK1K"
+        },
+        {
+          "seller": "PetSmart",
+          "title": "PetSafe Deluxe Booster Seat",
+          "price_text": "$45.95",
+          "price": 45.95,
+          "rating": 3.9,
+          "reviews": 806,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:4394586675674005105,productid:10375186602281431405,headlineOfferDocid:7205104982117353686,imageDocid:8787467123522976665,rds:PC_434389123285342282|PROD_PC_434389123285342282,gpcid:434389123285342282,mid:576462562954220025,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVOUfUQIIW6vgddQv51xsXAGER44bsl1WhUwDi53WqtfVKMEp7PkLpTjyckQiqy-MkqtPzXMzMmKz3V2v8LgVC0_ZlgdMOpg60jPWGGdEfkNTVqUmzKZSdXFE"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "currency": "£",
+      "status": "crowded",
+      "why": "knock-offs from 5.99 vs typical 59.0",
+      "results": 40,
+      "distinct_sellers": 10,
+      "chains_present": [],
+      "marketplaces_present": [
+        "Amazon.co.uk - Amazon.co.uk-Seller",
+        "eBay - kudas2495770",
+        "eBay - sirendipity2009"
+      ],
+      "cheapest": 5.99,
+      "typical": 59.0,
+      "most_reviewed": {
+        "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+        "title": "PETSFIT Dog Car Seats For Small Dogs Patented Safety Buckles Safety Tether Foldable Travel",
+        "reviews": 124,
+        "price_text": "£33.31"
+      },
+      "top_rows": [
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "PETSFIT Dog Car Seats For Small Dogs Patented Safety Buckles Safety Tether Foldable Travel",
+          "price_text": "£33.31",
+          "price": 33.31,
+          "rating": 5.0,
+          "reviews": 124,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:17990699604252171907,productid:6379161400108861416,headlineOfferDocid:6787254459232625122,imageDocid:8418475250223445752,rds:PC_16631854262423076531|PROD_PC_16631854262423076531,gpcid:16631854262423076531,mid:576462794353224941,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHKlAoPWQreNcBykXseVU27jtqXUIhOC_t7APJRfnEyOi9Z3X97JeK-7KpEnZvAIWP6PMVsTA1F9R4QGow4QvKKkoC-73eSO6djShu9HeT"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "KONG Ultimate Safety Seat & Tether",
+          "price_text": "£65.00",
+          "price": 65.0,
+          "rating": 5.0,
+          "reviews": 66,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:15604713778756080193,productid:7286469116501240755,headlineOfferDocid:13629407102327603984,imageDocid:16058072474215699101,rds:PC_11827939743956994215|PROD_PC_11827939743956994215,gpcid:11827939743956994215,mid:576462808304323572,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpW-L7KIz87VCChZDRdjVrDzEtBTB8wUEL4Q3mU-obqvY5VJ8B2_OjXmf27SzF7ttTIl3L4L0JRxeRpAYny--uNdlhiIO7JRg3jkv7DigWFbgpzuSJeaPk"
+        },
+        {
+          "seller": "Just For Pets",
+          "title": "KONG Ultimate Safety Seat & Tether",
+          "price_text": "£64.99",
+          "price": 64.99,
+          "rating": 5.0,
+          "reviews": 66,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:15604713778756080193,productid:7286469116501240755,headlineOfferDocid:15091674230858100515,imageDocid:16058072474215699101,rds:PC_11827939743956994215|PROD_PC_11827939743956994215,gpcid:11827939743956994215,mid:576462808304323572,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpW-L7KIz87VCChZDRdjVrDzEtBTB8wUEL4Q3mU-obqvY5VJ8B2_OjXmf27SzF7ttTIl3L4L0JRxeRpAYny--uNdlhiIO7JRg3jkv7DigWFbgpzuSJeaPk"
+        },
+        {
+          "seller": "Petvita",
+          "title": "Lealchum Large Dog Car Seat,Memory Foam Cushion Car Seat for 2 Small Dogs,Comfy Vehicle Do",
+          "price_text": "£119.09",
+          "price": 119.09,
+          "rating": 5.0,
+          "reviews": 8,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:14416664237326824763,productid:15400678620543664613,headlineOfferDocid:1388817058659686409,imageDocid:6969687006732401314,rds:PC_1750923347618626837|PROD_PC_1750923347618626837,gpcid:1750923347618626837,mid:576462858224589701,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMuAtX57SEcCCnmdyR-Q3VRLm-pUcYM8sIAti_PPPRw1YHh8HugexWDlmLuX8GSJDXXMRAvforujZO7VG0_9BX6bIlIAAs7Ysy8mUcbtupOxDrLSXxoawL"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "OSDUE Dog Seat Belt, 3-in-1 Adjustable Reflective Dog Car Harness, Pet Safety Belt with Cl",
+          "price_text": "£5.99",
+          "price": 5.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:11225850854844520871,headlineOfferDocid:11225850854844520871,imageDocid:16817851061602964516,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRda6iMDKjP0ug6EVquYA-vQlXoiMJ0t_vf7qgBzxXjaGj9WzuausCiLiW-nFSyyLGj68D1_QUltyoAsHYV-Hl1PvoEj7fTQhoteJOJwxhoLeEdLTdRzMMvKg"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "PETCOOZ Dog Seat Belt, Adjustable Reflective Car Harness, Shock Absorbing | Elastic Pet Sa",
+          "price_text": "£8.99",
+          "price": 8.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:13309311328051683739,headlineOfferDocid:13309311328051683739,imageDocid:8164066965017338852,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTr7CG8KqPT8IrlzrYO_YgQeWlZPhg1dWSahQGOjGkGRtXSjLfzT_0Ajf9d7-hpaqQBtXX1iuIpRCnqUkK6Ni0D1it-oQ8xVWr8Nj9ddxY"
+        },
+        {
+          "seller": "funnyfuzzy",
+          "title": "Deluxe Faux Leather Dog Car Seat Booster Bed",
+          "price_text": "£79.99",
+          "price": 79.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:11148977823483589818,productid:12466950035872275786,headlineOfferDocid:604265536426958982,imageDocid:5944629954810404779,gpcid:4441817738128937947,mid:576462845561683403,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIHecz-liZnDZMIEcH0MIuSsNl5L98TD1DIE1xSaew4Qxbzx8NnO25uWtDvbha3TDQp56I8jq7xwUl1y7sOSkJNXy8CSvCBm_xgX-CYsg"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "Lealchum Dog Booster Car Seat for S/M Dogs Up to 35lbs Soft 6in Elevated Cushion",
+          "price_text": "£66.38",
+          "price": 66.38,
+          "rating": null,
+          "reviews": null,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:5006028263087774491,productid:6496256706729758286,headlineOfferDocid:4430746307388869031,imageDocid:14405992273230425445,gpcid:10357448736081617191,mid:576462847596793145,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwWUs90pEIr3ARw9-90UZz5d1JYQu8zPGHMGbpsxPuyqPNSRNkIThBfsPsibbiXEQE1xrkbV24al8mwhegf2GmwutR3XVTZzdXZbpYkmAUmyj6G2wVLm4DDw"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "currency": "C$",
+      "status": "blocked",
+      "why": "Walmart.ca sells it at $77.99",
+      "results": 40,
+      "distinct_sellers": 14,
+      "chains_present": [
+        "Walmart.ca"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon CA",
+        "Wayfair Canada"
+      ],
+      "cheapest": 15.0,
+      "typical": 98.07,
+      "most_reviewed": {
+        "seller": "Wayfair Canada",
+        "title": "Trixie Car Seat Clear",
+        "reviews": 598,
+        "price_text": "$140.47"
+      },
+      "top_rows": [
+        {
+          "seller": "Wayfair Canada",
+          "title": "Trixie Car Seat Clear",
+          "price_text": "$140.47",
+          "price": 140.47,
+          "rating": 4.8,
+          "reviews": 598,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:206900487719413140,productid:5582321904268630673,headlineOfferDocid:91347057936800954,imageDocid:2383056768891784996,rds:PC_285870661950285517|PROD_PC_285870661950285517,gpcid:285870661950285517,mid:576462666147208393,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR5ykCehpCvM9CV4Qpr7I8MMI8ut-dW8Rgswpr_ww-SgCpPnWfA-2tgzUn06pUjhAhjyW3YLQpxW2tAKrGX4Ut_ryqkPQd_NvtL5CXezBX_M705twc54MsQSQ"
+        },
+        {
+          "seller": "Wayfair Canada",
+          "title": "Snoozer Luxury Lookout II Pet Car Seat",
+          "price_text": "$156.99",
+          "price": 156.99,
+          "rating": 4.7,
+          "reviews": 596,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:13019340582655523253,productid:2509215617689065293,headlineOfferDocid:10301973423366504300,imageDocid:15068214553854698084,rds:PC_16312560574026493987|PROD_PC_16312560574026493987,gpcid:6252761520970500863,mid:576462797247877841,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHZnV9-e0ij7r_pK4sPgQvRLTcDz_crmFlZZ2Hu_F2dYAYcq4TooUedeEiNI3754wf-YxX3aPQ9hkj4ByvqhvNwMJdkwBbqvz8mnDIiA"
+        },
+        {
+          "seller": "FunnyFuzzy",
+          "title": "Funnyfuzzy Waterproof Dog Car Seat Bed",
+          "price_text": "$128.99",
+          "price": 128.99,
+          "rating": 4.9,
+          "reviews": 399,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:2421855778797484077,productid:7892617419965992653,headlineOfferDocid:3801836601102574507,imageDocid:9926173872120554637,rds:PC_1971259803765196202|PROD_PC_1971259803765196202,gpcid:262024163810939490,mid:576462913842153506,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwNjItAPPIvrGqfedFv9MN9gTq6Seryc0orIMFKKbUIu70duXpu1LCFJL_Z6QaecOUV3urzctL4FgKCYsVOOqwrlZ-3-qaGhSWn7apLUnk"
+        },
+        {
+          "seller": "FunnyFuzzy",
+          "title": "Dog Car Seat Bed",
+          "price_text": "$99.99",
+          "price": 99.99,
+          "rating": 4.9,
+          "reviews": 399,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:18290429210624268286,productid:4404968891552484339,headlineOfferDocid:2655183027694211237,imageDocid:7379020002097569637,rds:PC_1971259803765196202|PROD_PC_1971259803765196202,gpcid:5800639968190270428,mid:576462568254820874,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWcyghGA2sOfikomL_1ezB_Lj02KZlrIrF2VJGZ3RN1vAcDxBgn-1BT2dvV-hLQlm_yFWAtPjL2HtIgiIT5O1m0KWRRcQgRhM-GqpMHkQxH9YwDNYvoTuS"
+        },
+        {
+          "seller": "FunnyFuzzy",
+          "title": "Lace Stripe Travel Safety Waterproof Dog Car Seat Booster",
+          "price_text": "$98.99",
+          "price": 98.99,
+          "rating": 4.9,
+          "reviews": 397,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:4353453375882905647,productid:1581534809104502326,headlineOfferDocid:9633972869016693655,imageDocid:4606043433212581050,rds:PC_11409137456835022456|PROD_PC_11409137456835022456,gpcid:11475754937192595219,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTOEfDKQvGJcFIishz47zJwGFs7hGUmS-CFP96Q2ZZwVC0gt6cqqH8Nb3aEWkXNGLcsD0ya05cD-7fKE_AD3tssTi5WzzhLR0XWbwLDmRNpuDRi3Bj_T_lS"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "Kurgo Heather Booster Seat",
+          "price_text": "$98.07",
+          "price": 98.07,
+          "rating": 4.7,
+          "reviews": 267,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:4233263200831182499,productid:4283526173568334833,headlineOfferDocid:14743294069836044729,imageDocid:7534028415888750962,rds:PC_12824834040550571155|PROD_PC_12824834040550571155,gpcid:12824834040550571155,mid:576462704451186751,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTedbIHYVui2qGgIZlIMcGF6anwfupVhwUidGPkFElFin4ktzORMMH5NwAY25Tt6siO60eDvrKHghEEWum55CehkZfJ8RUk0BpFky1X1PnPe4MuNkTzpiJ-oA"
+        },
+        {
+          "seller": "Pet Valu",
+          "title": "Kurgo Rover Booster Seat",
+          "price_text": "$89.99",
+          "price": 89.99,
+          "rating": 4.6,
+          "reviews": 197,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:183312589243802910,productid:298663155280444198,headlineOfferDocid:2625855691392868818,imageDocid:13825206425902161006,rds:PC_3027200635774471775|PROD_PC_3027200635774471775,gpcid:3027200635774471775,mid:576462859078990962,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQG_PsQJTbEu8tx6BXT0dTF6p2_d4kgPDV7kZBAPD67NaOGTHsIVY_wB79-MyLpNI_XGtflpa18p5auCj2y7NykIKKWB4yAyeNGgW5bF7Ve"
+        },
+        {
+          "seller": "Petland Canada",
+          "title": "PetSafe 3 In 1 Harness And Car Restraint Walking & Car Harness For Dogs",
+          "price_text": "$42.38",
+          "price": 42.38,
+          "rating": 4.1,
+          "reviews": 95,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:2129921966363792596,productid:2608306333497430764,headlineOfferDocid:17584498006268916882,imageDocid:16580219496437241404,rds:PC_13841003258893300023|PROD_PC_13841003258893300023,gpcid:8132241122257110527,mid:576462568255154833,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQaYVIAYVbJnXt1mnUvv-gDBld8CPaTlA22LJJxTVU2HIc7ElG_3VnYbLE6sv6Ao0oMwjdgBb99tS5s2ukqoPT0JfNRywjCpNfvD2wl9E-eKYhGu5GyIVuy"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Walmart.ca",
+          "title": "GYMAX Dog Car Seat for Medium & Large Dogs Up to 55 Lbsfoam Dog Booster Seat for Back",
+          "price_text": "$77.99",
+          "price": 77.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:4567042073971083486,productid:13539814703695375452,headlineOfferDocid:509602338183499734,imageDocid:13421739004434223805,gpcid:1571453386866080643,mid:576462888238884974,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT6J4sDYS8gjaYrIuaqTLplRGE7TqWA-5LQO2z7Cybp0jJBDmQ4_8FpbF-2A0FYT9iV750Atl-0SJDmmc31llp34G3QnG32Q9w0OKza09mfsEOgcsQyu83emQ"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "currency": "€",
+      "status": "crowded",
+      "why": "21 different sellers",
+      "results": 40,
+      "distinct_sellers": 21,
+      "chains_present": [],
+      "marketplaces_present": [
+        "Amazon.de - Amazon.de-Seller",
+        "EzyDog - EU"
+      ],
+      "cheapest": 5.78,
+      "typical": 59.48,
+      "most_reviewed": {
+        "seller": "Bambini Babyfachmarkt",
+        "title": "Maxi-Cosi FamilyFix 360 Pro",
+        "reviews": 491,
+        "price_text": "219,00 €"
+      },
+      "top_rows": [
+        {
+          "seller": "Bambini Babyfachmarkt",
+          "title": "Maxi-Cosi FamilyFix 360 Pro",
+          "price_text": "219,00 €",
+          "price": 219.0,
+          "rating": 2.9,
+          "reviews": 491,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:1946507753094052543,productid:5752701722728929391,headlineOfferDocid:4169815856717939357,imageDocid:3320035675564550590,rds:PC_7273683486054468848|PROD_PC_7273683486054468848,gpcid:7273683486054468848,mid:576462748910280785,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR6C1Tw2JKzsQz_ekWyp6tKLRO2HWkCLVyKwoJupPGr5bMIN-batUUDKtNouJccue6Ia9J79zKLf1Se2e6eZai68Zbj1b-hzCgMKR62GigMmHezH1wz0l96"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "PETSFIT Hundesitz für Auto bis 15 kg – 13cm Memory Foam Booster für kleine & mittelgroße H",
+          "price_text": "69,99 €",
+          "price": 69.99,
+          "rating": 5.0,
+          "reviews": 109,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:5664991984134732146,headlineOfferDocid:5664991984134732146,imageDocid:2470333562973392568,rds:PC_5047137148135675630|PROD_PC_5047137148135675630,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSaAZtOMl29maDRov-5pgBwYM97FDLCQg9bRsFdFx1-WmTbp3vbjWA6BACgOBlj_4VuZCfoqiSW-LUkrZGBbiHvJ9_6C1N7PKWNWdtXiB4"
+        },
+        {
+          "seller": "Sage & Sill",
+          "title": "PupProtector Faux Leather Memory Foam Dog Car Bed",
+          "price_text": "219,74 €",
+          "price": 219.74,
+          "rating": 3.0,
+          "reviews": 109,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:3284200562163236799,productid:2017199607670699698,headlineOfferDocid:4194947779766596570,imageDocid:12831947733858129557,rds:PC_1133676817083737747|PROD_PC_1133676817083737747,gpcid:1133676817083737747,mid:576462821520892941,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5bpmTRtOfk5FtCu4H_hY7CSaGSBqjXpbOAKDR-6m39sZq38-A8xAnn3K0xCfIbfTdpA6Ug7JXyNrPAu9LPyzi71D0I52ZWJAp0R6hrTHz"
+        },
+        {
+          "seller": "Sage & Sill",
+          "title": "PupProtector Faux Leather Memory Foam Dog Car Bed",
+          "price_text": "182,96 €",
+          "price": 182.96,
+          "rating": 3.0,
+          "reviews": 109,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:3284200562163236799,productid:2017199607670699698,headlineOfferDocid:7423083000065128719,imageDocid:12831947733858129557,rds:PC_1133676817083737747|PROD_PC_1133676817083737747,gpcid:1133676817083737747,mid:576462821520892941,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT5bpmTRtOfk5FtCu4H_hY7CSaGSBqjXpbOAKDR-6m39sZq38-A8xAnn3K0xCfIbfTdpA6Ug7JXyNrPAu9LPyzi71D0I52ZWJAp0R6hrTHz"
+        },
+        {
+          "seller": "Cloud7",
+          "title": "Cloud7 Hundeautositz Getaway",
+          "price_text": "280,00 €",
+          "price": 280.0,
+          "rating": 5.0,
+          "reviews": 95,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:8539405104269271043,productid:3630230623720984705,headlineOfferDocid:7348728521915133147,imageDocid:16077315153657234415,rds:PC_10180568198946033290|PROD_PC_10180568198946033290,gpcid:10180568198946033290,mid:576462829260520369,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSpWmNELQlDNRKYqgPyLfUKFyS23Ai6PQFPDesnXBqTeY5kOBJKBPUruO6w0V66sD7NpUgCQJsF_EiaYF5SZThs6sFr9ONmRfA7MoYhisTTvFw_1C7c-x7V"
+        },
+        {
+          "seller": "EzyDog - EU",
+          "title": "EzyDog Click Dog Seat Belt Isofix 605",
+          "price_text": "18,95 €",
+          "price": 18.95,
+          "rating": 5.0,
+          "reviews": 87,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:9181859968005641928,productid:16408759295963198050,headlineOfferDocid:1817768268955783806,imageDocid:12362691150160468541,rds:PC_5191832150969230090|PROD_PC_5191832150969230090,gpcid:5191832150969230090,mid:576462852822203665,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRslgb3tC629t3uBv3MoeyGpOMczQvhSOm7i-TE8w9phgM7cD-gbwTKNkLRvf6nObEU4ISCJDhJjqaATSYAjtidy1OEr0ryZMMlD4bBM8gMYfyKzM7yHTLmGA"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "GL GLENSLAVE Hunde Autositz für mittlere/große, Hundesitz für Hunde unter 22Kg oder 2 klei",
+          "price_text": "64,49 €",
+          "price": 64.49,
+          "rating": 5.0,
+          "reviews": 62,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:16570099567617704487,headlineOfferDocid:16570099567617704487,imageDocid:8804149468672569320,rds:PC_17438560896060738074|PROD_PC_17438560896060738074,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpltnASjWWEpStpGuvD9TnB2WplE6mkobn2ekkTNTSAAUXteLqYKqcGqxXvykwbjv2zRwn5zEnc5ag5Dp-yaZpcyXpA34NNyw4tgGJZ7afcR639ZzK-sEfHw"
+        },
+        {
+          "seller": "EzyDog - EU",
+          "title": "EzyDog Drive Sitzerhöhung",
+          "price_text": "80,46 €",
+          "price": 80.46,
+          "rating": 4.4,
+          "reviews": 60,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:18213125990584962574,productid:15354857165787331450,headlineOfferDocid:6143988053081165122,imageDocid:8040875605887861714,rds:PC_1038080558770564700|PROD_PC_1038080558770564700,gpcid:1038080558770564700,mid:576462719717410401,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvT4H8ecIekB4ZfLwqsvmen_uU-EocC2efDEqoDiCUkgEz1LOa_xmjyuZIjZ47WyyAaG9lFrbyDxQWgoar4TH929_vLAn5BpgNyDQ6qWFiA1TOkr0xYjzQ1A"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "currency": "NZ$",
+      "status": "blocked",
+      "why": "The Warehouse sells it at $49.99",
+      "results": 40,
+      "distinct_sellers": 25,
+      "chains_present": [
+        "Kmart New Zealand",
+        "The Warehouse"
+      ],
+      "marketplaces_present": [
+        "Amazon AU",
+        "Dick Smith NZ"
+      ],
+      "cheapest": 18.0,
+      "typical": 106.18,
+      "most_reviewed": {
+        "seller": "Petworkz Waipapa",
+        "title": "Snoozer Lookout Booster Dog Car Seat Medium up to 12kg - Stone Diamond",
+        "reviews": 1200,
+        "price_text": "$249.50"
+      },
+      "top_rows": [
+        {
+          "seller": "Petworkz Waipapa",
+          "title": "Snoozer Lookout Booster Dog Car Seat Medium up to 12kg - Stone Diamond",
+          "price_text": "$249.50",
+          "price": 249.5,
+          "rating": 4.7,
+          "reviews": 1200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=productid:10846063806221914705,headlineOfferDocid:10846063806221914705,imageDocid:11571926612767834261,rds:PC_1325467311692265848|PROD_PC_1325467311692265848,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5b9dSA3525aiCHqqa4n_GVKTbHiN1HazIZNmU4OSYAQ7cw-ly"
+        },
+        {
+          "seller": "MightyApe.co.nz",
+          "title": "Petsafe Happy Ride Quilted Booster Seat",
+          "price_text": "$199.97",
+          "price": 199.97,
+          "rating": 4.4,
+          "reviews": 762,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:1536062916536301114,productid:2861999419805043222,headlineOfferDocid:13931210376225133531,imageDocid:3535230514479482852,rds:PC_7747936161134045822|PROD_PC_7747936161134045822,gpcid:7747936161134045822,mid:576462807119665119,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAElYtvZ16CF4_F8mBGxUDNu6xQmHxdPBuc3rQhPBLllR_KOgmzGjQEHIivFX--gZ0KfMDNjAq"
+        },
+        {
+          "seller": "Dick Smith NZ",
+          "title": "Ezydog Drive Harness",
+          "price_text": "$166.98",
+          "price": 166.98,
+          "rating": 4.3,
+          "reviews": 291,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:1879155515552991316,productid:6369500991816520439,headlineOfferDocid:18147536355631560308,imageDocid:9143717849491395543,rds:PC_6322430191251380703|PROD_PC_6322430191251380703,gpcid:6322430191251380703,mid:576462304645266383,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQPn6FjITc90CORBZVb8DLeXWpn0om-Eq8i3dYpa8tLM7r_HcE_JTx2H3tu7h8Vd-EY9q5DjFnQ"
+        },
+        {
+          "seller": "Petdirect.co.nz",
+          "title": "Kurgo Rover Booster Seat",
+          "price_text": "$130.29",
+          "price": 130.29,
+          "rating": 4.6,
+          "reviews": 197,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:12742711700627053432,productid:11068499257287479963,headlineOfferDocid:3380325153135084265,imageDocid:3127752390086696117,rds:PC_3027200635774471775|PROD_PC_3027200635774471775,gpcid:3027200635774471775,mid:576462859078990962,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhDhz1YMIXcaUIOGpe-GNECzsO1RLYEcleSZHS8C9FjWh7QByFprvl--IgEokhLLQxPPuZav9F"
+        },
+        {
+          "seller": "Groomica",
+          "title": "PetSafe Happy Ride Booster Seat",
+          "price_text": "$116.00",
+          "price": 116.0,
+          "rating": 4.6,
+          "reviews": 183,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:13711701799708464380,productid:16652997073760673748,headlineOfferDocid:13405113847373210215,imageDocid:4593123054934363472,rds:PC_3295928299038939633|PROD_PC_3295928299038939633,gpcid:3295928299038939633,mid:576462886179715692,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSmJ_Gb7q0EeqsmqG-0tWWfKkp-Gpo_di0pGoiqO7H-IY__OMFYk7ej2TQPm2CHFQdHMRFPup4"
+        },
+        {
+          "seller": "Amazon AU",
+          "title": "Petsafe Happy Ride Booster Seat Quilted",
+          "price_text": "$143.23",
+          "price": 143.23,
+          "rating": 4.8,
+          "reviews": 166,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:14252030067992488292,productid:7590015308353221868,headlineOfferDocid:16180271684634312345,imageDocid:88904506588724923,rds:PC_12581240100502823038|PROD_PC_12581240100502823038,gpcid:12581240100502823038,mid:576462793958805624,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSf7VBJ_tWYQuhpJ_HV6_F9T2MRFMvhQZR5m-CH1btEJUSu_7TH5hi6eXbVu8hz8vARGhRCzzc"
+        },
+        {
+          "seller": "Amazon AU",
+          "title": "Petsafe Happy Ride Dog Safety Seat",
+          "price_text": "$130.20",
+          "price": 130.2,
+          "rating": 4.8,
+          "reviews": 132,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:7042245685416528569,productid:6370851004022274440,headlineOfferDocid:17029548224097698848,imageDocid:10167993972252417849,rds:PC_3037363390000264040|PROD_PC_3037363390000264040,gpcid:3037363390000264040,mid:576462561886192206,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTISCG-Mb7hYzRBPJRYV0zx0gFLt_E2p1pnu1Ev6M4e3PRzwXciYFjnfXd3ZpJ4NaaEw6_Fn5w"
+        },
+        {
+          "seller": "Baby Bunting NZ",
+          "title": "Edwards & Co Maxi-Cosi FamilyFix S Base",
+          "price_text": "$249.50",
+          "price": 249.5,
+          "rating": 4.8,
+          "reviews": 132,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:10848930947312925876,productid:1531986150032392591,headlineOfferDocid:3128312411734751788,imageDocid:7111823179754339115,rds:PC_13577633887560583484|PROD_PC_13577633887560583484,gpcid:13577633887560583484,mid:576462774759409090,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStxeZw03VATYkunG_wm2vMD3hjkPqYoWsBrFBMtHmcfnjfdZOslUyKrrm6GsWBTvW4swMnGo4B"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "The Warehouse",
+          "title": "Pet HQ Carseat",
+          "price_text": "$49.99",
+          "price": 49.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:4284012768968367787,productid:7901706132467522904,headlineOfferDocid:16452559566867531821,imageDocid:7573575776256628962,gpcid:12547145997191952490,mid:576462912379586824,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSd4zz441bdU1d6Q-jd_JsKuHmTCJl5de3SS_BPElwDPdSBnTQ8BZGXYwwPojwxH2x9jgGJCks"
+        },
+        {
+          "seller": "Kmart New Zealand",
+          "title": "Anko Dog Car Booster Seat",
+          "price_text": "$29.00",
+          "price": 29.0,
+          "rating": 3.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=isofix dog car seat&prds=catalogid:3865709702361100956,productid:3965286026728357301,headlineOfferDocid:4679092064156419913,imageDocid:6705082492295716610,rds:PC_13588944875408848187|PROD_PC_13588944875408848187,gpcid:13588944875408848187,mid:576462854069065219,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSdhu45IaQT1YUX0QtAbo_YqAC6nmar-COfidmJ10doXtLk9k9Ge56J_d_AxswuXbCxkzx91lo"
+        }
+      ],
+      "thin_market": false
+    }
+  ]
+}

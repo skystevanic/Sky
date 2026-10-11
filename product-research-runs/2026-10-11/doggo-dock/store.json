@@ -1,0 +1,149 @@
+{
+  "input_url": "https://waggingrightsshop.com/products/doggo-dock",
+  "store_root": "https://waggingrightsshop.com",
+  "platform": "shopify",
+  "title": "Dog Dock V2 New & Improved ISO Fix",
+  "vendor": "My Store",
+  "product_type": "",
+  "created_at": "2026-07-30T14:57:32-05:00",
+  "updated_at": "2026-10-11T07:10:59-05:00",
+  "price_min": 140.0,
+  "price_max": 180.0,
+  "was_price": "280.00",
+  "n_variants": 8,
+  "variants": [
+    {
+      "title": "Medium / Navy",
+      "price": "140.00",
+      "was": "280.00",
+      "available": null
+    },
+    {
+      "title": "Medium / Black",
+      "price": "140.00",
+      "was": "280.00",
+      "available": null
+    },
+    {
+      "title": "Medium / Green",
+      "price": "140.00",
+      "was": "280.00",
+      "available": null
+    },
+    {
+      "title": "Medium / Grey",
+      "price": "140.00",
+      "was": "280.00",
+      "available": null
+    },
+    {
+      "title": "Extra Large / Navy",
+      "price": "180.00",
+      "was": "360.00",
+      "available": null
+    },
+    {
+      "title": "Extra Large / Black",
+      "price": "180.00",
+      "was": "360.00",
+      "available": null
+    },
+    {
+      "title": "Extra Large / Green",
+      "price": "180.00",
+      "was": "360.00",
+      "available": null
+    },
+    {
+      "title": "Extra Large / Grey",
+      "price": "180.00",
+      "was": "360.00",
+      "available": null
+    }
+  ],
+  "description": "The Dog Dock anchors directly to your seat using ISOFIX clips (2 on Medium, 4 on XL) , along with two reinforced straps that wrap around the seat for added stability. Inside, dual harness straps keep your dog safely positioned without restricting comfort. This multi-point anchoring system helps reduce movement during braking, turns, and long drives — creating a defined space where your dog can settle naturally. Every year, thousands of dogs are injured in cars due to poor restraint. The Dog Dock is designed to change that — giving you a safer, more controlled way to travel, and the peace of mind that your dog is secure on every journey.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/wagging_new_tp.jpg?v=1788967570",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2nd_new.jpg?v=1788967570",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/1_318_Reviews_1.jpg?v=1788967569",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/44CM_1.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_a3fa7562-5e0f-4462-b38b-b803c63b9862.png?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/44CM_2.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_8.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_4.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_1.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_7.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_5.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_6.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Add_a_heading_534091d9-00f0-4cc1-94fc-312c525f73f5.png?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Add_a_heading_4.png?v=1785441467",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_9.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_2.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2_CAR_SEAT_STRAPS_2_ISO_METAL_CLASPS_3.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_6_1ab28ecd-da0e-400e-9bc6-712be01c9693.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_4_551ef2d1-2ec4-4f22-b1e4-814fe9594ec2.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_1_6d78559d-7287-48d1-aa9d-4137e8ed3a0d.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/20251122_Wagging_Rights173983.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_3.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/20251122_Wagging_Rights174043.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_6.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_5.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/44CM_7e40b650-d707-4652-a0fc-641c451075cd.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/44CM_6.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/44CM_5.jpg?v=1785441465",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_6b6d0db3-a04b-4406-99bf-ebd47ce920ce.jpg?v=1785441466",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Screenshot_2026-05-18_at_18.20.53.png?v=1785441467",
+    "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Screenshot_2026-05-18_at_18.21.02.png?v=1785441467"
+  ],
+  "tags": "bed, dog, dog bed",
+  "store": {
+    "n_products": 3,
+    "first_product_created": "2026-07-30T14:57:32-05:00",
+    "newest": [
+      {
+        "title": "Wagging Rights Lead",
+        "created_at": "2026-10-01",
+        "price": "20.00"
+      },
+      {
+        "title": "Harness",
+        "created_at": "2026-10-01",
+        "price": "30.00"
+      },
+      {
+        "title": "Dog Dock V2 New & Improved ISO Fix",
+        "created_at": "2026-07-30",
+        "price": "140.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "GBP",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/doggo-dock/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/wagging_new_tp.jpg?v=1788967570"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/doggo-dock/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/2nd_new.jpg?v=1788967570"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/doggo-dock/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/1_318_Reviews_1.jpg?v=1788967569"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/doggo-dock/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/44CM_1.jpg?v=1785441465"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/doggo-dock/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/Untitled_design_a3fa7562-5e0f-4462-b38b-b803c63b9862.png?v=1785441466"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/doggo-dock/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1001/4212/1334/files/44CM_2.jpg?v=1785441465"
+    }
+  ]
+}

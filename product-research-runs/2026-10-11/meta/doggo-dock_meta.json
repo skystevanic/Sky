@@ -1,0 +1,684 @@
+{
+ "slug": "doggo-dock",
+ "phrase": "dog car seat",
+ "checked": "2026-10-11",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22dog%20car%20seat%22",
+ "ads_loaded": 250,
+ "capped": true,
+ "stopped_by": "stopped at 250 ads (there are more)",
+ "n_advertisers": 70,
+ "advertisers_with_3_plus_ads": 21,
+ "biggest_advertiser_share": 0.28,
+ "brands_new_in_last_2_months": 43,
+ "brands_advertising_3_plus_months": 18,
+ "ads_started_last_2_months": 172,
+ "ads_older_than_6_months": 17,
+ "pattern": "crowded",
+ "plain": "At least 70 brands advertise it; 18 have kept ads running 3+ months, 43 are new in the last two months. We stopped counting at 250 ads, so the real numbers are higher. Of the 8 biggest shops we could date, 7 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2024-08": 1,
+  "2024-11": 5,
+  "2025-05": 4,
+  "2025-07": 1,
+  "2025-08": 1,
+  "2025-11": 2,
+  "2026-01": 1,
+  "2026-02": 1,
+  "2026-04": 1,
+  "2026-05": 12,
+  "2026-06": 6,
+  "2026-07": 24,
+  "2026-08": 19,
+  "2026-09": 144,
+  "2026-10": 28
+ },
+ "brand_months": {
+  "2024-08": 1,
+  "2024-11": 1,
+  "2025-07": 1,
+  "2025-11": 2,
+  "2026-01": 1,
+  "2026-04": 1,
+  "2026-05": 4,
+  "2026-06": 4,
+  "2026-07": 10,
+  "2026-08": 8,
+  "2026-09": 32,
+  "2026-10": 5
+ },
+ "top_advertisers": [
+  {
+   "name": "Temu Australia",
+   "pages": 1,
+   "page_names": [
+    "Temu Australia"
+   ],
+   "ads": 70,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 219647,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/au/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=116718724643539",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu",
+   "pages": 1,
+   "page_names": [
+    "Temu"
+   ],
+   "ads": 11,
+   "oldest_live_ad": "2026-09-17",
+   "page_likes": 12155079,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/au/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101886952638461",
+   "shop_open_since": null
+  },
+  {
+   "name": "Shoptemu Australia",
+   "pages": 1,
+   "page_names": [
+    "Shoptemu Australia"
+   ],
+   "ads": 11,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 4181,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/au/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=924870050716170",
+   "shop_open_since": null
+  },
+  {
+   "name": "FUNNYFUZZY",
+   "pages": 1,
+   "page_names": [
+    "FUNNYFUZZY"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-08-27",
+   "page_likes": 283503,
+   "headline": "Portable Leisure Outing Pet Booster Dog Car Seat Bed",
+   "shop": "funnyfuzzy.co.uk",
+   "product_page": "https://funnyfuzzy.co.uk/products/portable-leisure-outing-pet-booster-dog-car-seat-bed",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=115072971511384",
+   "shop_open_since": "2024-12-10"
+  },
+  {
+   "name": "DOOG - Dog Owners Outdoor Gear",
+   "pages": 1,
+   "page_names": [
+    "DOOG - Dog Owners Outdoor Gear"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-01-26",
+   "page_likes": 22529,
+   "headline": "Award-Winning Dog Car Seat Designed for Real Adventures",
+   "shop": "doog.com.au",
+   "product_page": "https://www.doog.com.au/collections/travel",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=236957033043152",
+   "shop_open_since": "2015-05-12"
+  },
+  {
+   "name": "Temu New Zealand",
+   "pages": 1,
+   "page_names": [
+    "Temu New Zealand"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 30872,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/au/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100124369799915",
+   "shop_open_since": null
+  },
+  {
+   "name": "Companion&Co",
+   "pages": 1,
+   "page_names": [
+    "Companion&Co"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2025-07-24",
+   "page_likes": 3326,
+   "headline": "Sale Ends Soon!",
+   "shop": "companionandco.shop",
+   "product_page": "https://companionandco.shop/products/companionandco-dog-seat",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=506700645857196",
+   "shop_open_since": "2024-10-15"
+  },
+  {
+   "name": "Ruff N Roam",
+   "pages": 1,
+   "page_names": [
+    "Ruff N Roam"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-05-27",
+   "page_likes": 2386,
+   "headline": "Built Tough. Lifetime Warranty",
+   "shop": "ruffnroam.com.au",
+   "product_page": "https://ruffnroam.com.au/collections/all-products/products/comfy-cruiser",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=169539006249395",
+   "shop_open_since": "2024-08-30"
+  },
+  {
+   "name": "Jacko & Co",
+   "pages": 1,
+   "page_names": [
+    "Jacko & Co"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-07-18",
+   "page_likes": 134,
+   "headline": "Jacko & Co - Premium Dog Car Seats",
+   "shop": "shopjackoco.com",
+   "product_page": "https://shopjackoco.com/products/v2-premium-dog-car-seat-booster-seat-for-small-medium-pets-firm-under-40lbs-puppies-cats-travel-carrier-bed-bag-clip-on-leash-storage-pockets-water-resistant",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108637081588728",
+   "shop_open_since": "2022-03-03"
+  },
+  {
+   "name": "Pawly",
+   "pages": 1,
+   "page_names": [
+    "Pawly"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-07-22",
+   "page_likes": 16,
+   "headline": "🇦🇺 Australia's Premium Hard-Bottom Dog Seat Cover",
+   "shop": "pawly.com.au",
+   "product_page": "https://pawly.com.au/products/pawly-travel-seat",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1077087515491822",
+   "shop_open_since": "2026-02-18"
+  },
+  {
+   "name": "Pets Dreams UK",
+   "pages": 1,
+   "page_names": [
+    "Pets Dreams UK"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2024-08-12",
+   "page_likes": 13170,
+   "headline": "#1 Dog Car Seat 🚗",
+   "shop": "pets-dreams.uk",
+   "product_page": "https://pets-dreams.uk/products/hard-bottom-car-seat-extender-for-dogs",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=122099419748000769",
+   "shop_open_since": "2023-10-05"
+  },
+  {
+   "name": "MrBarks.Shop",
+   "pages": 1,
+   "page_names": [
+    "MrBarks.Shop"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-09-20",
+   "page_likes": 2010,
+   "headline": "Grab yours now 👉",
+   "shop": "mrbarks.shop",
+   "product_page": "https://mrbarks.shop/products/mrbarks-dog-seat-cover",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=365958806598523",
+   "shop_open_since": "2024-07-17"
+  },
+  {
+   "name": "Top Picks Find",
+   "pages": 1,
+   "page_names": [
+    "Top Picks Find"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2024-11-19",
+   "page_likes": 10,
+   "headline": "🚚 Free Shipping & COD Available Across India! 🐾",
+   "shop": "poshure.xyz",
+   "product_page": "https://poshure.xyz/products/dog-car-seat",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=439823635883899",
+   "shop_open_since": null
+  },
+  {
+   "name": "Jenfedoa",
+   "pages": 1,
+   "page_names": [
+    "Jenfedoa"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-07",
+   "page_likes": 95,
+   "headline": "🐾 Waterproof Pet Car Seat Cover – 100% waterproof, split zipper & seatbelt openings – Clea",
+   "shop": "jenfedoa.com",
+   "product_page": "https://jenfedoa.com/products/foldable-dog-car-seat-1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1096446876883296",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pet Supplies",
+   "pages": 1,
+   "page_names": [
+    "Pet Supplies"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-06-28",
+   "page_likes": 1,
+   "headline": "The Artisan Throne: Luxury Car Seat",
+   "shop": "openclawpets.com",
+   "product_page": "https://openclawpets.com/products/smart-wifi-automatic-pet-feeder-app-control-scheduled-feeding",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1107121472492349",
+   "shop_open_since": null
+  },
+  {
+   "name": "Obtenirie shop",
+   "pages": 1,
+   "page_names": [
+    "Obtenirie shop"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-08",
+   "page_likes": 9363,
+   "headline": "🔥 Sweat-Inducing Fitness Vest",
+   "shop": "obtenirie.com",
+   "product_page": "https://obtenirie.com/products/foldable-dog-car-seat-1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102268012610847",
+   "shop_open_since": null
+  },
+  {
+   "name": "Luther Bennett",
+   "pages": 1,
+   "page_names": [
+    "Luther Bennett"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-07-03",
+   "page_likes": 2482,
+   "headline": "{{product.name}}",
+   "shop": "lutherbennett.com",
+   "product_page": "https://www.lutherbennett.com/products/travel-dog-pod-2-0",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106212090986457",
+   "shop_open_since": null
+  },
+  {
+   "name": "DogsMart",
+   "pages": 1,
+   "page_names": [
+    "DogsMart"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-07-18",
+   "page_likes": 3067,
+   "headline": "Waterproof Dog Car Seat Cover Hammock Back Seat Extender For Dogs Durable Anti Scratch Non",
+   "shop": "thedogsmart.com",
+   "product_page": "https://thedogsmart.com/Waterproof-Dog-Car-Seat-Cover-Hammock-Back-Seat-Extender-/catalogue/-9vSOmt7/5e8Eh8gB",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1097971133559544",
+   "shop_open_since": null
+  },
+  {
+   "name": "My pup deals",
+   "pages": 1,
+   "page_names": [
+    "My pup deals"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-08-22",
+   "page_likes": 19,
+   "headline": "Save $180 on the Complete Setup",
+   "shop": "mypupdeals.com",
+   "product_page": "https://mypupdeals.com/products/hard-bottom-back-seat-extender-free-dog-bed",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=823113294217366",
+   "shop_open_since": null
+  },
+  {
+   "name": "Urban Pup Gears",
+   "pages": 1,
+   "page_names": [
+    "Urban Pup Gears"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-02",
+   "page_likes": 9,
+   "headline": "Save $180 and Complete Your Ride Today. 🐶✨",
+   "shop": "urbanpupgears.com",
+   "product_page": "https://urbanpupgears.com/products/hard-bottom-dog-car-seat-cover",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=762057806997926",
+   "shop_open_since": null
+  },
+  {
+   "name": "DOOG USA",
+   "pages": 1,
+   "page_names": [
+    "DOOG USA"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-15",
+   "page_likes": 1306,
+   "headline": "Award-Winning Dog Car Seats, Now in the USA",
+   "shop": "doogusa.com",
+   "product_page": "https://www.doogusa.com/collections/car-seats-covers",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108312767790726",
+   "shop_open_since": null
+  },
+  {
+   "name": "Moonbeamt shop",
+   "pages": 1,
+   "page_names": [
+    "Moonbeamt shop"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-10",
+   "page_likes": 1140,
+   "headline": "🐶 2‑IN‑1 DOG CAR SEAT COVER – BACK SEAT HAMMOCK + BOOT LINER, ALL IN ONE! 🐶\n\nMuddy paws, w",
+   "shop": "moonbeamt.com",
+   "product_page": "https://moonbeamt.com/products/car-boot-liner-waterproof-pet-travel-mat",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=698278323374437",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pets Gear",
+   "pages": 1,
+   "page_names": [
+    "Pets Gear"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-03",
+   "page_likes": 1631,
+   "headline": "Dog Car Seat Cover with Hard Bottom | Back Seat Protector for Small & Large Dogs",
+   "shop": "petsgear.com.au",
+   "product_page": "https://petsgear.com.au/products/dog-car-seat-cover-with-hard-bottom",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105324889150046",
+   "shop_open_since": null
+  },
+  {
+   "name": "Doggydreams",
+   "pages": 1,
+   "page_names": [
+    "Doggydreams"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-29",
+   "page_likes": 8785,
+   "headline": "{{product.name}}",
+   "shop": "doggy-dreams.com",
+   "product_page": "https://doggy-dreams.com/de/collections/beds-carriers",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=561215690406703",
+   "shop_open_since": null
+  },
+  {
+   "name": "Alibaba.com",
+   "pages": 1,
+   "page_names": [
+    "Alibaba.com"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-05-11",
+   "page_likes": 28911670,
+   "headline": "{{product.name}}",
+   "shop": "m.alibaba.com",
+   "product_page": "https://m.alibaba.com/lp/group",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=22437985072",
+   "shop_open_since": null
+  },
+  {
+   "name": "WapaW",
+   "pages": 1,
+   "page_names": [
+    "WapaW"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-27",
+   "page_likes": 968,
+   "headline": "Premium Dog Car Seat Covers",
+   "shop": "wapaw.in",
+   "product_page": "https://wapaw.in/PET-CAR-ACCESSORIES/collection/4VePHgM8",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=678045122055734",
+   "shop_open_since": null
+  },
+  {
+   "name": "Brandon Murphy",
+   "pages": 2,
+   "page_names": [
+    "Brandon Murphy",
+    "GuangZhou Furris Pet Products CO., LTD"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-15",
+   "page_likes": 41,
+   "headline": "Your Reliable Pet Goods Partner Worldwide",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1058845383985910",
+   "shop_open_since": null
+  },
+  {
+   "name": "4 Home Malta",
+   "pages": 1,
+   "page_names": [
+    "4 Home Malta"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-05",
+   "page_likes": 23491,
+   "headline": "{{product.name}}",
+   "shop": "4home.mt",
+   "product_page": "https://4home.mt/products/portable-steam-iron",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=181924485010245",
+   "shop_open_since": null
+  },
+  {
+   "name": "Bubbly Bark",
+   "pages": 1,
+   "page_names": [
+    "Bubbly Bark"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-01",
+   "page_likes": 63,
+   "headline": "55% OFF – Get Road-Trip Ready",
+   "shop": "bubblybark.com",
+   "product_page": "https://bubblybark.com/products/6-in-1-dog-car-seat-cover-for-back-seat-waterproof-dog-car-hammock-with-mesh-window-non-slip-pet-backseat-protector-for-cars-trucks-and-suvs",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=751538044700208",
+   "shop_open_since": null
+  },
+  {
+   "name": "Paw Some Corner",
+   "pages": 1,
+   "page_names": [
+    "Paw Some Corner"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-22",
+   "page_likes": 13,
+   "headline": "Save Your Seats From Mud, Fur & Mess",
+   "shop": "pawsomecorner.com",
+   "product_page": "https://pawsomecorner.com/products/6-in-1-dog-car-seat-cover-for-back-seat-waterproof-dog-car-hammock-with-mesh-window-non-slip-pet-backseat-protector-for-cars-trucks-and-suvs",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=942842775576840",
+   "shop_open_since": null
+  },
+  {
+   "name": "Joybuy Deutschland",
+   "pages": 1,
+   "page_names": [
+    "Joybuy Deutschland"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 8493,
+   "headline": "{{product.current_price strip_zeros}}|{{product.name}}",
+   "shop": "joybuy.de",
+   "product_page": "https://www.joybuy.de/campaign/active/2Qdj6FLZfFwbTEMYsBY8LSr8NT84",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=749814001545880",
+   "shop_open_since": null
+  },
+  {
+   "name": "4Knines",
+   "pages": 1,
+   "page_names": [
+    "4Knines"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-10",
+   "page_likes": 47859,
+   "headline": "4Knines",
+   "shop": "4knines.com",
+   "product_page": "https://4knines.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=453327721441647",
+   "shop_open_since": null
+  },
+  {
+   "name": "Helsinkifog",
+   "pages": 1,
+   "page_names": [
+    "Helsinkifog"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-04",
+   "page_likes": 1476,
+   "headline": "Foldable dog car seat",
+   "shop": "helsinkifog.com",
+   "product_page": "https://helsinkifog.com/products/foldable-dog-car-seat",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=121459351046129",
+   "shop_open_since": null
+  },
+  {
+   "name": "Stylish Hound",
+   "pages": 1,
+   "page_names": [
+    "Stylish Hound"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-26",
+   "page_likes": 24277,
+   "headline": "LAST CHANCE TO PRE-ORDER",
+   "shop": "stylish-hound.com",
+   "product_page": "https://stylish-hound.com/pages/first-class-lounge",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=668743280178795",
+   "shop_open_since": null
+  },
+  {
+   "name": "Vinben-D",
+   "pages": 1,
+   "page_names": [
+    "Vinben-D"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-03",
+   "page_likes": 7,
+   "headline": "Dangerous car rides with your pup? 🚗🐶\nSudden stops = scary jolts & flying pups.\nOur elasti",
+   "shop": "vinben.com",
+   "product_page": "https://www.vinben.com/products/seatbelt",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1166147876581157",
+   "shop_open_since": null
+  },
+  {
+   "name": "Rusteuing shop",
+   "pages": 1,
+   "page_names": [
+    "Rusteuing shop"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-18",
+   "page_likes": 264,
+   "headline": "🐶 Bilens baksäte är täckt av hår och smuts? Då behöver du inte längre oroa dig för lera, h",
+   "shop": "rusteuing.com",
+   "product_page": "https://rusteuing.com/products/foldable-dog-car-seat",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1081541711706166",
+   "shop_open_since": null
+  },
+  {
+   "name": "RuffRover",
+   "pages": 1,
+   "page_names": [
+    "RuffRover"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 14112,
+   "headline": "Summer Sale 56% Off Today!",
+   "shop": "ruffrover.com",
+   "product_page": "https://ruffrover.com/products/ruffrover-2-0%E2%84%A2-hard-bottom-back-seat-extender-free-dog-bed",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=288243917712403",
+   "shop_open_since": null
+  },
+  {
+   "name": "Get A Deal",
+   "pages": 1,
+   "page_names": [
+    "Get A Deal"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-29",
+   "page_likes": 8880,
+   "headline": "🇿🇦SAY GOODBYE TO MUDDY PAW PRINTS ALL OVER YOUR CAR SEATS! 🐶🚗\n\nWaterproof, easy to install",
+   "shop": "getadeal.co.za",
+   "product_page": "https://www.getadeal.co.za/product-page/heavy-duty-waterproof-dog-car-seat-cover-hammock",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=893525753845121",
+   "shop_open_since": null
+  },
+  {
+   "name": "BETTERS Official 베럴즈",
+   "pages": 1,
+   "page_names": [
+    "BETTERS Official 베럴즈"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-04-10",
+   "page_likes": 16,
+   "headline": "베럴즈 강아지 카 시트 세트 (카키 / 블랙 / 아이보리 / 블루 / 오렌지 ) : 베럴즈 스토어",
+   "shop": "smartstore.naver.com",
+   "product_page": "https://smartstore.naver.com/betterskorea/products/2123714720",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1702231789868310",
+   "shop_open_since": null
+  },
+  {
+   "name": "Charnent",
+   "pages": 1,
+   "page_names": [
+    "Charnent"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-20",
+   "page_likes": 1513,
+   "headline": "🐾 Every Dog Parent Needs\n\nYour dog loves going with you — but your car doesn’t love the me",
+   "shop": "charnent.com",
+   "product_page": "https://charnent.com/products/waterproof-quick-drying-freckle-pen",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108151565425609",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "temu.com": 102,
+  "funnyfuzzy.co.uk": 10,
+  "doog.com.au": 9,
+  "companionandco.shop": 6,
+  "ruffnroam.com.au": 6,
+  "shopjackoco.com": 6,
+  "pawly.com.au": 6,
+  "pets-dreams.uk": 5,
+  "mrbarks.shop": 5,
+  "poshure.xyz": 5,
+  "jenfedoa.com": 4,
+  "openclawpets.com": 4,
+  "obtenirie.com": 4,
+  "lutherbennett.com": 3,
+  "thedogsmart.com": 3,
+  "mypupdeals.com": 3,
+  "urbanpupgears.com": 3,
+  "doogusa.com": 3,
+  "moonbeamt.com": 2,
+  "petsgear.com.au": 2,
+  "doggy-dreams.com": 2,
+  "m.alibaba.com": 2,
+  "wapaw.in": 2,
+  "api.whatsapp.com": 2,
+  "4home.mt": 2
+ },
+ "cost_usd": 1.09,
+ "shops_checked": 8,
+ "shops_over_a_year_old": 7,
+ "shops_under_4_months_old": 0
+}

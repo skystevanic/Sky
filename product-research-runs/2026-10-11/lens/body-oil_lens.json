@@ -18,13 +18,13 @@
   {
    "cc": "au",
    "status": "crowded",
-   "why": "amazon.com.au at $29.90: Amazon result 5 for the product words. 7 other copies",
+   "why": "Amazon AU - Amazon.com.au-Seller at $21.99: Google Shopping result 3 for the product words. 10 other copies",
    "prices": {
     "brand": 55.0,
     "cheapest_copy": 19.99,
-    "typical_copy": 29.9,
+    "typical_copy": 29.99,
     "cheapest_real_copy": 19.99,
-    "priced_copies": 7
+    "priced_copies": 10
    },
    "findability_checked": true,
    "same_object_listings": [
@@ -37,6 +37,21 @@
      "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/body-oil_thumb_86.jpg",
      "strength": "weak",
      "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon AU - Amazon.com.au-Seller",
+     "title": "Multi-Peptide Shower Body Oil for Crepey Skin | Fast-Absorbing, Non-Greasy, Post-Shower Ma",
+     "link": "https://www.google.com/search?q=%22Multi-Peptide+Shower+Body+Oil+for+Crepey+Skin+%7C+Fast-Absorbing%2C+Non-Greasy%2C+Post-Shower+Massage+Oil%2C+for+Thigh%22+Amazon+AU",
+     "price_text": "$21.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_060.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 3,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 3 for the product words"
     },
     {
      "source": "amazon.com.au",
@@ -82,6 +97,21 @@
      "bought": null,
      "strength": "weak",
      "strength_why": "about the brand's price, few reviews"
+    },
+    {
+     "source": "Amazon AU - Amazon.com.au-Seller",
+     "title": "Multi Peptide Body Oil, Anti Cellulite Oil, Firming Body Oils for Crepey Skin, Reduce Fine",
+     "link": "https://www.google.com/search?q=%22Multi+Peptide+Body+Oil%2C+Anti+Cellulite+Oil%2C+Firming+Body+Oils+for+Crepey+Skin%2C+Reduce+Fine+Lines%2C+Lift+Sagging%22+Amazon+AU",
+     "price_text": "$30.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_082.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 7,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 7 for the product words"
     },
     {
      "source": "amazon.com.au",
@@ -142,6 +172,21 @@
      "bought": null,
      "strength": "strong",
      "strength_why": "Amazon result 12 for the product words"
+    },
+    {
+     "source": "Amazon AU - Amazon.com.au-Seller",
+     "title": "Multi-peptide body oil, Firming & Nourishing skin Care, 240ml Multi-peptide body oil helps",
+     "link": "https://www.google.com/search?q=%22Multi-peptide+body+oil%2C+Firming+%26+Nourishing+skin+Care%2C+240ml+Multi-peptide+body+oil+helps+nourish+and+smoothi%22+Amazon+AU",
+     "price_text": "$46.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/body-oil_vis_thumb_109.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 12,
+     "reviews": null,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "about the brand's price, few reviews"
     }
    ],
    "picture_matches": 60

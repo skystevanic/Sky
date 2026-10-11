@@ -1,0 +1,118 @@
+{
+ "slug": "doggo-dock",
+ "same": [
+  50,
+  59,
+  67,
+  84,
+  93,
+  111
+ ],
+ "top": 12,
+ "countries": {
+  "ca": [
+   {
+    "where": "Google Shopping",
+    "source": "FunnyFuzzy",
+    "title": "Lace Stripe Travel Safety Waterproof Dog Car Seat Booster",
+    "link": "https://www.google.com/search?q=%22Lace+Stripe+Travel+Safety+Waterproof+Dog+Car+Seat+Booster%22+FunnyFuzzy",
+    "asin": null,
+    "rank": 1,
+    "price_text": "$98.99",
+    "reviews": 397,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_050.jpg"
+   },
+   {
+    "where": "Google Shopping",
+    "source": "FunnyFuzzy",
+    "title": "Funnyfuzzy Waterproof Dog Car Seat Bed",
+    "link": "https://www.google.com/search?q=%22Funnyfuzzy+Waterproof+Dog+Car+Seat+Bed%22+FunnyFuzzy",
+    "asin": null,
+    "rank": 4,
+    "price_text": "$128.99",
+    "reviews": 399,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_067.jpg"
+   },
+   {
+    "where": "Google Shopping",
+    "source": "FunnyFuzzy",
+    "title": "Dog Car Seat Bed",
+    "link": "https://www.google.com/search?q=%22Dog+Car+Seat+Bed%22+FunnyFuzzy",
+    "asin": null,
+    "rank": 7,
+    "price_text": "$99.99",
+    "reviews": 399,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_084.jpg"
+   },
+   {
+    "where": "Google Shopping",
+    "source": "FunnyFuzzy",
+    "title": "Travel Bolster Full Durable Washable Dog Car Back Seat Bed",
+    "link": "https://www.google.com/search?q=%22Travel+Bolster+Full+Durable+Washable+Dog+Car+Back+Seat+Bed%22+FunnyFuzzy",
+    "asin": null,
+    "rank": 12,
+    "price_text": "$89.99",
+    "reviews": null,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_111.jpg"
+   }
+  ],
+  "au": [
+   {
+    "where": "Google Shopping",
+    "source": "FunnyFuzzy",
+    "title": "Waterproof Isofix Dog Car Seat Bed with Isofix System",
+    "link": "https://www.google.com/search?q=%22Waterproof+Isofix+Dog+Car+Seat+Bed+with+Isofix+System%22+FunnyFuzzy",
+    "asin": null,
+    "rank": 3,
+    "price_text": "$137.99",
+    "reviews": null,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_059.jpg"
+   },
+   {
+    "where": "Google Shopping",
+    "source": "Lila Co Aus",
+    "title": "Lila Co. Premium Dog Car Seat Australia",
+    "link": "https://www.google.com/search?q=%22Lila+Co.+Premium+Dog+Car+Seat+Australia%22+Lila+Co+Aus",
+    "asin": null,
+    "rank": 9,
+    "price_text": "$120.00",
+    "reviews": null,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_093.jpg"
+   }
+  ],
+  "nz": [
+   {
+    "where": "Google Shopping",
+    "source": "Lila Co Aus",
+    "title": "Lila Co. Premium Dog Car Seat Australia",
+    "link": "https://www.google.com/search?q=%22Lila+Co.+Premium+Dog+Car+Seat+Australia%22+Lila+Co+Aus",
+    "asin": null,
+    "rank": 11,
+    "price_text": "$149.48",
+    "reviews": null,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_093.jpg"
+   }
+  ]
+ }
+}

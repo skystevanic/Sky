@@ -533,9 +533,9 @@
    "prices": {
     "brand": 39.81,
     "cheapest_copy": 15.0,
-    "typical_copy": 19.0,
+    "typical_copy": 25.0,
     "cheapest_real_copy": 18.0,
-    "priced_copies": 5
+    "priced_copies": 6
    },
    "findability_checked": true,
    "same_object_listings": [
@@ -629,6 +629,19 @@
      "price_text": null,
      "kind": "marketplace",
      "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_58.jpg"
+    },
+    {
+     "source": "Sephora",
+     "title": "Tarte CC Colored Clay Undereye Corrector",
+     "link": "https://www.google.com/search?q=%22Tarte+CC+Colored+Clay+Undereye+Corrector%22+Sephora",
+     "price_text": "$45.65",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/cc-cream_vis_thumb_098.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 9,
+     "reviews": 3200,
+     "bought": null
     }
    ],
    "picture_matches": 59

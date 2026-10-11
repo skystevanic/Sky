@@ -6,17 +6,69 @@
  "countries": [
   {
    "cc": "au",
-   "status": "crowded",
-   "why": "amazon.com.au at $24.99: Amazon result 5 for the product words, with 1,200 reviews. 5 other copies",
+   "status": "blocked",
+   "why": "The same object is sold by BIG W at $12.05",
    "prices": {
     "brand": 21.9,
-    "cheapest_copy": 12.99,
-    "typical_copy": 18.99,
-    "cheapest_real_copy": 12.99,
-    "priced_copies": 6
+    "cheapest_copy": 9.9,
+    "typical_copy": 16.99,
+    "cheapest_real_copy": 12.05,
+    "priced_copies": 17
    },
    "findability_checked": true,
    "same_object_listings": [
+    {
+     "source": "Petso Online",
+     "title": "Kojima Pet Paw Cleaning Foam 150ml",
+     "link": "https://www.google.com/search?q=%22Kojima+Pet+Paw+Cleaning+Foam+150ml%22+Petso+Online",
+     "price_text": "$13.40",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_048.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 1,
+     "reviews": 526,
+     "bought": null
+    },
+    {
+     "source": "BIG W",
+     "title": "M-Pets Dog/Cat Cleaning/Grooming Hygiene Paw Soap Wash Foam w/Brush/Comb150ml",
+     "link": "https://www.google.com/search?q=%22M-Pets+Dog%2FCat+Cleaning%2FGrooming+Hygiene+Paw+Soap+Wash+Foam+w%2FBrush%2FComb150ml%22+BIG+W",
+     "price_text": "$12.05",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_054.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 2,
+     "reviews": 61,
+     "bought": null
+    },
+    {
+     "source": "Amazon AU - Amazon.com.au-Seller",
+     "title": "Paw Cleaner for Dogs & Cats No-Rinse Foaming Pet Foot Washer with Built-in Scrubber Brush ",
+     "link": "https://www.google.com/search?q=%22Paw+Cleaner+for+Dogs+%26+Cats+No-Rinse+Foaming+Pet+Foot+Washer+with+Built-in+Scrubber+Brush+for+Dirty%22+Amazon+AU",
+     "price_text": "$16.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_060.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 3,
+     "reviews": null,
+     "bought": null
+    },
+    {
+     "source": "The Groomi",
+     "title": "Foaming Paw Wash",
+     "link": "https://www.google.com/search?q=%22Foaming+Paw+Wash%22+The+Groomi",
+     "price_text": "$29.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_066.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 4,
+     "reviews": null,
+     "bought": null
+    },
     {
      "source": "amazon.com.au",
      "title": "Dog Paw Cleaner Foam 200ml, No-Rinse with Silicone Brush & Towel",
@@ -28,9 +80,20 @@
      "where": "Amazon",
      "rank": 5,
      "reviews": 1200,
-     "bought": null,
-     "strength": "strong",
-     "strength_why": "Amazon result 5 for the product words, with 1,200 reviews"
+     "bought": null
+    },
+    {
+     "source": "Amazon AU - Amazon.com.au-Seller",
+     "title": "Tinioey Dog Paw Cleaner Foam 200ml No-Rinse with Silicone Brush & Towel",
+     "link": "https://www.google.com/search?q=%22Tinioey+Dog+Paw+Cleaner+Foam+200ml+No-Rinse+with+Silicone+Brush+%26+Towel%22+Amazon+AU",
+     "price_text": "$17.49",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_072.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 5,
+     "reviews": null,
+     "bought": null
     },
     {
      "source": "amazon.com.au",
@@ -43,9 +106,20 @@
      "where": "Amazon",
      "rank": 6,
      "reviews": 52,
-     "bought": "50+ bought in past month",
-     "strength": "weak",
-     "strength_why": "about the brand's price, few reviews"
+     "bought": "50+ bought in past month"
+    },
+    {
+     "source": "BIG W",
+     "title": "Velocity Dog Feet Foam Cleaner 100ML",
+     "link": "https://www.google.com/search?q=%22Velocity+Dog+Feet+Foam+Cleaner+100ML%22+BIG+W",
+     "price_text": "$33.91",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_078.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 6,
+     "reviews": null,
+     "bought": null
     },
     {
      "source": "amazon.com.au",
@@ -58,9 +132,20 @@
      "where": "Amazon",
      "rank": 7,
      "reviews": null,
-     "bought": null,
-     "strength": "strong",
-     "strength_why": "Amazon result 7 for the product words"
+     "bought": null
+    },
+    {
+     "source": "Petso Online",
+     "title": "CATURE Waterless Paws Pet Cleaning Foam 150ml Long Shelf Life",
+     "link": "https://www.google.com/search?q=%22CATURE+Waterless+Paws+Pet+Cleaning+Foam+150ml+Long+Shelf+Life%22+Petso+Online",
+     "price_text": "$9.90",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_084.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 7,
+     "reviews": null,
+     "bought": null
     },
     {
      "source": "amazon.com.au",
@@ -73,9 +158,7 @@
      "where": "Amazon",
      "rank": 8,
      "reviews": 27,
-     "bought": null,
-     "strength": "weak",
-     "strength_why": "about the brand's price, few reviews"
+     "bought": null
     },
     {
      "source": "amazon.com.au",
@@ -88,9 +171,20 @@
      "where": "Amazon",
      "rank": 9,
      "reviews": 1600,
-     "bought": null,
-     "strength": "strong",
-     "strength_why": "Amazon result 9 for the product words, with 1,600 reviews"
+     "bought": null
+    },
+    {
+     "source": "Groomica",
+     "title": "Bugalugs Dog Paw Cleaner No Rinse Foam Cat & Dog shampoo with Silicone Brush Head",
+     "link": "https://www.google.com/search?q=%22Bugalugs+Dog+Paw+Cleaner+No+Rinse+Foam+Cat+%26+Dog+shampoo+with+Silicone+Brush+Head%22+Groomica",
+     "price_text": "$28.00",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_096.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 9,
+     "reviews": 59,
+     "bought": null
     },
     {
      "source": "amazon.com.au",
@@ -103,9 +197,46 @@
      "where": "Amazon",
      "rank": 10,
      "reviews": 38,
-     "bought": null,
-     "strength": "weak",
-     "strength_why": "about the brand's price, few reviews"
+     "bought": null
+    },
+    {
+     "source": "Amazon AU - Amazon.com.au-Seller",
+     "title": "AOPETSCI Waterless Paw Cleaner Foam - No-Rinse Cat and Dog Paw Wash; Waterless Pet Foot Wa",
+     "link": "https://www.google.com/search?q=%22AOPETSCI+Waterless+Paw+Cleaner+Foam+-+No-Rinse+Cat+and+Dog+Paw+Wash%3B+Waterless+Pet+Foot+Washer+with+Large+Sili%22+Amazon+AU",
+     "price_text": "$16.95",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_101.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 10,
+     "reviews": null,
+     "bought": null
+    },
+    {
+     "source": "Nordic Australia Collections",
+     "title": "Rinse Free Paw and Body Cleaner Foam",
+     "link": "https://www.google.com/search?q=%22Rinse+Free+Paw+and+Body+Cleaner+Foam%22+Nordic+Australia+Collections",
+     "price_text": "$21.65",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_107.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 11,
+     "reviews": null,
+     "bought": null
+    },
+    {
+     "source": "Pet Supplies Empire",
+     "title": "Cature Waterless Paw Cleaning Foam 150ml | Dog & Cat Pet Grooming Supplies",
+     "link": "https://www.google.com/search?q=%22Cature+Waterless+Paw+Cleaning+Foam+150ml+%7C+Dog+%26+Cat+Pet+Grooming+Supplies%22+Pet+Supplies+Empire",
+     "price_text": "$14.95",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/paw-wash_vis_thumb_113.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 12,
+     "reviews": 57,
+     "bought": null
     }
    ],
    "picture_matches": 59

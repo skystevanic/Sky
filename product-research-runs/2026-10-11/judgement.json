@@ -531,8 +531,8 @@
    "gates": [
     {
      "name": "Chain gate",
-     "result": "flag",
-     "why": "Target, BIG W and Pets at Home sell foam paw cleaners; Dandylion's own bottle is in Target and Petco"
+     "result": "fail",
+     "why": "BIG W sells the same foam-and-brush format at A$12.05; Target and Pets at Home sell similar bottles"
     },
     {
      "name": "Copies gate",
@@ -664,6 +664,92 @@
    "category_notes": {
     "au": "The chain listings are other brands (Nad's, Veet), not this bottle.",
     "us": "Target sells Veet and Nair, not this bottle."
+   }
+  },
+  {
+   "slug": "doggo-dock",
+   "name": "ISOFIX Dog Car Seat (Wagging Rights)",
+   "brand": "Wagging Rights",
+   "url": "https://waggingrightsshop.com/products/doggo-dock",
+   "category": "Pet travel: dog car seat",
+   "price": "£140-180 (shown as reduced from £280)",
+   "store_platform": "Shopify",
+   "store_launched": "2026-07",
+   "store_products": "3 products: this seat, a lead and a harness",
+   "one_liner": "Kmart and BIG W sell the same seat design for A$55, FunnyFuzzy owns the look, Temu advertises dog car seats heavily, and the XL seat is 100 cm long and costly to ship.",
+   "verdict": "Avoid",
+   "overall": 50,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 8,
+    "margin": 5,
+    "viral": 6,
+    "pain": 6,
+    "differentiation": 4
+   },
+   "why": [
+    "Kmart and BIG W sell the same seat design at A$55; The Warehouse and Harvey Norman stock it too",
+    "70+ brands advertise \"dog car seat\", led by Temu (about 100 ads) and FunnyFuzzy",
+    "The XL is 100 cm long: big parcels make shipping and returns expensive"
+   ],
+   "risk": "A bulky item at £140+ invites returns, and the shop's claimed 25,000 sales and 1,318 reviews predate the 3-month-old store.",
+   "next": [
+    "Skip it. If pet travel appeals, look for a small, light accessory instead"
+   ],
+   "best_region": "None. Even the clearer countries have FunnyFuzzy at the top of Google Shopping.",
+   "snapshot": {
+    "icp": "Dog owners who drive with small or medium dogs, often UK families",
+    "job": "Keep the dog safe and settled in the car",
+    "cogs": "About £20-30 landed for a padded seat, plus heavy shipping (estimate)",
+    "margin": "About 70-80% at £140 before shipping and returns (estimate)",
+    "claims": "ISOFIX anchoring, waterproof vegan leather, dual harness straps",
+    "demoable": "Yes: dog settles calmly in the car"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Kmart and BIG W sell the same design at A$55"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "FunnyFuzzy's version tops Google Shopping in Canada; copies on Zooplus and Amazon"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded rather than a swarm: 43 of 70+ brands are new, but the biggest shops are old"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "fail",
+     "why": "The XL is 100 cm long: margin capped"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Avoid crash-safety claims unless the seat is crash-tested"
+    }
+   ],
+   "angles": [
+    "Senior dogs with stiff joints",
+    "Anxious dogs: a calm den in the car",
+    "Dog-friendly holiday road trips",
+    "Hairy-car cleanup: protects seats",
+    "TAKEN: \"Thousands of dogs are injured in cars\" safety message (Wagging Rights)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 6,
+    "match_name": "Kmart Australia (A$55)",
+    "verdict": "identical",
+    "confidence": "Medium",
+    "note": "The same padded seat with pillow back and fold-out front, in other colours."
+   },
+   "advertiser_takeaway": "Crowded and getting louder: 70+ brands, with Temu running about 100 dog car seat ads since mid-September. FunnyFuzzy and DOOG have advertised for months. Wagging Rights is not among the top advertisers.",
+   "category_notes": {
+    "uk": "The photo search returned no results in the UK, Wagging Rights' home market."
    }
   }
  ]

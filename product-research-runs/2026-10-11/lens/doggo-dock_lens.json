@@ -1,0 +1,295 @@
+{
+ "slug": "doggo-dock",
+ "same": [
+  6,
+  7,
+  13,
+  21,
+  59,
+  69,
+  70,
+  73,
+  74,
+  79,
+  80,
+  82
+ ],
+ "brand_price": 140.0,
+ "brand_currency": "gbp",
+ "countries": [
+  {
+   "cc": "au",
+   "status": "blocked",
+   "why": "The same object is sold by Kmart at A$55",
+   "prices": {
+    "brand": 280.0,
+    "cheapest_copy": 55.0,
+    "typical_copy": 86.0,
+    "cheapest_real_copy": 55.0,
+    "priced_copies": 6
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Kmart",
+     "title": "Pawz Washable Dog Car Seat Booster - Green - Green - Kmart",
+     "link": "https://www.kmart.com.au/product/pawz-washable-dog-car-seat-booster-green-green-110080159/",
+     "price_text": "A$55",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_06.jpg"
+    },
+    {
+     "source": "BIG W",
+     "title": "Pawz Dog Car Seat Booster Belt Pet Portable Travel Bed Hand ...",
+     "link": "https://www.bigw.com.au/product/pawz-dog-car-seat-booster-belt-pet-portable-travel-bed-hand-carry-washable/p/9900062487",
+     "price_text": "A$55",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_07.jpg"
+    },
+    {
+     "source": "Pet Circle",
+     "title": "Paws for Life Dog Waterproof Travel Car Seat Bed Navy | Top ...",
+     "link": "https://www.petcircle.com.au/product/paws-for-life-dog-waterproof-travel-car-seat-bed-navy",
+     "price_text": "A$60",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_13.jpg"
+    },
+    {
+     "source": "Lolopaws",
+     "title": "3-in-1 Faux Leather Dog Car Seat Bed Grey | LoloPaws ...",
+     "link": "https://www.lolopaws.com.au/products/faux-leather-dog-car-seat-bed-grey",
+     "price_text": "A$86",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_21.jpg"
+    },
+    {
+     "source": "Harvey Norman",
+     "title": "Pawz Hand-carry Washable Dog Booster Belt Car Seat - Green ...",
+     "link": "https://www.harveynorman.com.au/pawz-hand-carry-washable-dog-booster-belt-car-seat-green.html",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_73.jpg"
+    },
+    {
+     "source": "Amazon.com.au",
+     "title": "Sabachki Dog Bed Car Seat | Waterproof Dog Booster Seat for ...",
+     "link": "https://www.amazon.com.au/Sabachki-Waterproof-Booster-Handles-Carrier/dp/B0C3WLFRR8",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_74.jpg",
+     "looked_up": true,
+     "reviews": 51,
+     "bought": null
+    },
+    {
+     "source": "FunnyFuzzy",
+     "title": "Waterproof Isofix Dog Car Seat Bed with Isofix System",
+     "link": "https://www.google.com/search?q=%22Waterproof+Isofix+Dog+Car+Seat+Bed+with+Isofix+System%22+FunnyFuzzy",
+     "price_text": "$137.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_059.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 3,
+     "reviews": null,
+     "bought": null
+    },
+    {
+     "source": "Lila Co Aus",
+     "title": "Lila Co. Premium Dog Car Seat Australia",
+     "link": "https://www.google.com/search?q=%22Lila+Co.+Premium+Dog+Car+Seat+Australia%22+Lila+Co+Aus",
+     "price_text": "$120.00",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_093.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 9,
+     "reviews": null,
+     "bought": null
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "us",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 186.67,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "ca",
+   "status": "crowded",
+   "why": "FunnyFuzzy at $98.99: Google Shopping result 1 for the product words. 3 other copies",
+   "prices": {
+    "brand": 255.73,
+    "cheapest_copy": 89.99,
+    "typical_copy": 99.99,
+    "cheapest_real_copy": 89.99,
+    "priced_copies": 4
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "FunnyFuzzy",
+     "title": "Lace Stripe Travel Safety Waterproof Dog Car Seat Booster",
+     "link": "https://www.google.com/search?q=%22Lace+Stripe+Travel+Safety+Waterproof+Dog+Car+Seat+Booster%22+FunnyFuzzy",
+     "price_text": "$98.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_050.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 1,
+     "reviews": 397,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 1 for the product words"
+    },
+    {
+     "source": "FunnyFuzzy",
+     "title": "Funnyfuzzy Waterproof Dog Car Seat Bed",
+     "link": "https://www.google.com/search?q=%22Funnyfuzzy+Waterproof+Dog+Car+Seat+Bed%22+FunnyFuzzy",
+     "price_text": "$128.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_067.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 4,
+     "reviews": 399,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 4 for the product words"
+    },
+    {
+     "source": "FunnyFuzzy",
+     "title": "Dog Car Seat Bed",
+     "link": "https://www.google.com/search?q=%22Dog+Car+Seat+Bed%22+FunnyFuzzy",
+     "price_text": "$99.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_084.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 7,
+     "reviews": 399,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 7 for the product words"
+    },
+    {
+     "source": "FunnyFuzzy",
+     "title": "Travel Bolster Full Durable Washable Dog Car Back Seat Bed",
+     "link": "https://www.google.com/search?q=%22Travel+Bolster+Full+Durable+Washable+Dog+Car+Back+Seat+Bed%22+FunnyFuzzy",
+     "price_text": "$89.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_111.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 12,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 12 for the product words"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "de",
+   "status": "weak",
+   "why": "3 copies, all hard to find. Cheapest: Zooplus at €78 (found only by photo)",
+   "prices": {
+    "brand": 160.53,
+    "cheapest_copy": 78.0,
+    "typical_copy": 78.0,
+    "cheapest_real_copy": null,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Zooplus",
+     "title": "Ferplast Reisebett Cruiser ▻ jetzt kaufen ✓",
+     "link": "https://www.zooplus.de/shop/hunde/hundebett/betten/polyester/2178222",
+     "price_text": "€78",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_59.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.de",
+     "title": "Sabachki Car Seat and Dog Bed, Waterproof Booster Seat for ...",
+     "link": "https://www.amazon.de/-/en/Sabachki-Waterproof-Booster-Handles-Storage/dp/B0C3WLFRR8",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_79.jpg",
+     "looked_up": true,
+     "reviews": 51,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 51 reviews"
+    },
+    {
+     "source": "Idealo",
+     "title": "Ferplast Reisebett Cruiser 52 x 46 x 35 cm ab 41,40 ...",
+     "link": "https://www.idealo.de/preisvergleich/OffersOfProduct/206271508_-reisebett-cruiser-52-x-46-x-35-cm-ferplast.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_80.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "nz",
+   "status": "crowded",
+   "why": "Lila Co Aus at $149.48: Google Shopping result 11 for the product words. 1 other copy",
+   "prices": {
+    "brand": 313.6,
+    "cheapest_copy": 149.48,
+    "typical_copy": 149.48,
+    "cheapest_real_copy": 149.48,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "The Warehouse",
+     "title": "Pawz Dog Car Seat Booster Belt Pet Portable Travel Bed Hand ...",
+     "link": "https://www.thewarehouse.co.nz/p/pawz-dog-car-seat-booster-belt-pet-portable-travel-bed-hand-carry-washable/M36955387.html",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/doggo-dock_thumb_82.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Lila Co Aus",
+     "title": "Lila Co. Premium Dog Car Seat Australia",
+     "link": "https://www.google.com/search?q=%22Lila+Co.+Premium+Dog+Car+Seat+Australia%22+Lila+Co+Aus",
+     "price_text": "$149.48",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_093.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 11,
+     "reviews": null,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 11 for the product words"
+    }
+   ],
+   "picture_matches": 60
+  }
+ ]
+}

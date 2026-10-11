@@ -1,0 +1,2354 @@
+{
+ "slug": "doggo-dock",
+ "top": 12,
+ "candidates": [
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Dog Car Seat for Small Medium Dogs, Booster Seat with Thick Memory Foam",
+   "thumbnail": "https://m.media-amazon.com/images/I/71iDqldOFvL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/dp/B0HD78CFQN/",
+   "asin": "B0HD78CFQN",
+   "seen_in": {
+    "au": {
+     "rank": 1,
+     "price_text": "$99.99",
+     "reviews": 371,
+     "rating": 4.7,
+     "bought": null
+    },
+    "nz": {
+     "rank": 1,
+     "price_text": "$99.99",
+     "reviews": 371,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_000.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "KONG Ultimate Pet Safety Car Seat and Tether, for Medium Dogs",
+   "thumbnail": "https://m.media-amazon.com/images/I/810bb9k2LhL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/KONG-Ultimate-Safety-Seat-Tether/dp/B0FXGTW14V/",
+   "asin": "B0FXGTW14V",
+   "seen_in": {
+    "au": {
+     "rank": 5,
+     "price_text": "$189.99",
+     "reviews": 49,
+     "rating": 4.5,
+     "bought": null
+    },
+    "uk": {
+     "rank": 1,
+     "price_text": "EUR 88.65",
+     "reviews": 37,
+     "rating": 4.5,
+     "bought": "100+ bought in past month"
+    },
+    "nz": {
+     "rank": 5,
+     "price_text": "$189.99",
+     "reviews": 49,
+     "rating": 4.5,
+     "bought": null
+    }
+   },
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_001.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Dog Car Seat for Medium Large Dogs, 4\" Elevated Dog Booster Seat with ISOFIX Safety Fixation, Washable Cover & High Density Memory Foam, Portable for Car Front/Rear/Trunk Home Outdoor Use (Navy Blue)",
+   "thumbnail": "https://m.media-amazon.com/images/I/815a+Nfj8YL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/Elevated-Booster-Fixation-Washable-Portable/dp/B0FR8R8QKK/",
+   "asin": "B0FR8R8QKK",
+   "seen_in": {
+    "us": {
+     "rank": 1,
+     "price_text": "$89.99",
+     "reviews": 75,
+     "rating": 4.3,
+     "bought": null
+    },
+    "ca": {
+     "rank": 10,
+     "price_text": "$141.14",
+     "reviews": 46,
+     "rating": 4.1,
+     "bought": null
+    }
+   },
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_002.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "PETSFIT Dog Car Seat with Patented Safety System, 5\" Elevated Cushion",
+   "thumbnail": "https://m.media-amazon.com/images/I/81T-7cwW2fL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/PETSFIT-Seat-Small-Medium-Dogs/dp/B0FVM54PM7/",
+   "asin": "B0FVM54PM7",
+   "seen_in": {
+    "us": {
+     "rank": 10,
+     "price_text": "$58.97",
+     "reviews": 635,
+     "rating": 4.7,
+     "bought": "700+ bought in past month"
+    },
+    "ca": {
+     "rank": 1,
+     "price_text": "$78.82",
+     "reviews": 627,
+     "rating": 4.6,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_003.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "GL GLENSLAVE Dog Seat for Large/Medium Dogs, Dog Raiser Seat Under 55 lbs or 2 Small Dogs, Removable and Washable Dog Seat with Thick Cushions and Storage Bags",
+   "thumbnail": "https://m.media-amazon.com/images/I/71jTn-b5UpL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0FG16DL9G/",
+   "asin": "B0FG16DL9G",
+   "seen_in": {
+    "de": {
+     "rank": 1,
+     "price_text": "€71.98",
+     "reviews": 251,
+     "rating": 4.6,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_004.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Dog Car Seat Cover for Back Seat – Waterproof Car Accessories for Dogs, Hard Bottom Hammock Protector, Non-Slip Mat, Car Seat Covers Interior, Pet Travel Bench – PawLiner (132 x 160 cm)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71iLA11qwGL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/dp/B0FS8PPTXD/",
+   "asin": "B0FS8PPTXD",
+   "seen_in": {
+    "au": {
+     "rank": 2,
+     "price_text": "$78.88",
+     "reviews": 13,
+     "rating": 4.6,
+     "bought": null
+    },
+    "nz": {
+     "rank": 2,
+     "price_text": "$78.88",
+     "reviews": 13,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_005.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Dog Car Seat with Y-SAFE Seatbelt - For Small/Medium Dogs & Puppies",
+   "thumbnail": "https://m.media-amazon.com/images/I/71aI1y104BL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/WUFFO-Dog-Seat-Y-SAFE-Seatbelt/dp/B0GYZK9XNF/",
+   "asin": "B0GYZK9XNF",
+   "seen_in": {
+    "au": {
+     "rank": 12,
+     "price_text": "$94.38",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "uk": {
+     "rank": 2,
+     "price_text": "EUR 41.37",
+     "reviews": 1,
+     "rating": 5.0,
+     "bought": "200+ bought in past month"
+    },
+    "nz": {
+     "rank": 12,
+     "price_text": "$94.38",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_006.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "PETSFIT Dog Car Seat with Patented Safety System, 5\" Elevated Cushion",
+   "thumbnail": "https://m.media-amazon.com/images/I/81J9OgEP0YL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/PETSFIT-Booster-Seat-Small-Medium/dp/B0FVLXGNRZ/",
+   "asin": "B0FVLXGNRZ",
+   "seen_in": {
+    "us": {
+     "rank": 2,
+     "price_text": "$58.97",
+     "reviews": 635,
+     "rating": 4.7,
+     "bought": "1K+ bought in past month"
+    },
+    "ca": {
+     "rank": 5,
+     "price_text": "$79.97",
+     "reviews": 627,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_007.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "HEGGCOOE Small Dog Car Seat, Memory Foam Dog Booster Seats with Thick Cushion for Medium Dogs Under 35lbs, Detachable Washable Pet Car Seat with Storage Pockets,2 Safety Belts",
+   "thumbnail": "https://m.media-amazon.com/images/I/81H4wT90jzL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/HEGGCOOE-Booster-Cushion-Detachable-Washable/dp/B0D2D2T38B/",
+   "asin": "B0D2D2T38B",
+   "seen_in": {
+    "uk": {
+     "rank": 11,
+     "price_text": "EUR 65.80",
+     "reviews": 2600,
+     "rating": 4.7,
+     "bought": "50+ bought in past month"
+    },
+    "ca": {
+     "rank": 2,
+     "price_text": "$88.98",
+     "reviews": 2600,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_008.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Lealchum Dog Car Seat for Medium Dogs, Easy to Install with Adjustable Straps, Non-Slip Base, Fully Removable and Washable Pet Travel Car Bed, Cosy",
+   "thumbnail": "https://m.media-amazon.com/images/I/71Z2wkXej8L._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0D7SC7PJQ/",
+   "asin": "B0D7SC7PJQ",
+   "seen_in": {
+    "de": {
+     "rank": 2,
+     "price_text": "€61.73",
+     "reviews": 579,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_009.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Dog Car Seat for Large Dogs Up to Standard Large Breeds,Memory Foam Soft Fabric Pet Car Bed,2 Clip-On Safety Leashes & Storage Pockets,Removable Washable Pet Booster Seat(Black/Brown,Large)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71LiDHqrc4L._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/dp/B0GW52DQJ2/",
+   "asin": "B0GW52DQJ2",
+   "seen_in": {
+    "au": {
+     "rank": 3,
+     "price_text": "$109.99",
+     "reviews": 5,
+     "rating": 5.0,
+     "bought": null
+    },
+    "nz": {
+     "rank": 3,
+     "price_text": "$109.99",
+     "reviews": 5,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_010.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "MIXJOY Large Dog Car Seat for Dogs, Waterproof Car Back Seat, Up to 68kg",
+   "thumbnail": "https://m.media-amazon.com/images/I/8178OT3T42L._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/MIXJOY-Waterproof-Booster-Extender-Storage/dp/B0F3J9YZ2J/",
+   "asin": "B0F3J9YZ2J",
+   "seen_in": {
+    "uk": {
+     "rank": 3,
+     "price_text": "EUR 59.09",
+     "reviews": 196,
+     "rating": 4.3,
+     "bought": "200+ bought in past month"
+    }
+   },
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_011.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Dog Car Seats for Small Medium Dogs, Portable Detachable Washable Puppy Car Seat for Dog Up to 35lbs, Pet Booster Seat with Storage Pockets and Safety Belt (Black/Brown, Medium)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71xKdZAiSrL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/dp/B0D97VJK5W/",
+   "asin": "B0D97VJK5W",
+   "seen_in": {
+    "ca": {
+     "rank": 3,
+     "price_text": "$79.88",
+     "reviews": 972,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_012.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "GL GLENSLAVE Dog Seat for Car for Large and Medium Dogs up to 25 kg - Made of Soft Fabric, Car Dog Bed with Memory Foam Filling, Removable & Washable, Includes 2 Safety Leads (Black/Grey)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71SpTJWLdFL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0GTVB3VTC/",
+   "asin": "B0GTVB3VTC",
+   "seen_in": {
+    "de": {
+     "rank": 3,
+     "price_text": "€84.98",
+     "reviews": 52,
+     "rating": 4.4,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_013.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "PETICON Large Dog Car Seat, Back Seat Extender for Dogs with Hard Bottom",
+   "thumbnail": "https://m.media-amazon.com/images/I/81m0q-kCJKL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/dp/B0DPMMPJQP/",
+   "asin": "B0DPMMPJQP",
+   "seen_in": {
+    "au": {
+     "rank": 4,
+     "price_text": "$69.99",
+     "reviews": 419,
+     "rating": 4.1,
+     "bought": "100+ bought in past month"
+    },
+    "nz": {
+     "rank": 4,
+     "price_text": "$69.99",
+     "reviews": 419,
+     "rating": 4.1,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_014.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "JOEJOY Elevated Dog Car Seat for Small/Medium Dogs up to 35 lbs, Memory Foam Booster Seat with Detachable Washable Cover, Travel-Safe Car Bed with Safety Belts & Storage Pockets, Grey",
+   "thumbnail": "https://m.media-amazon.com/images/I/717W10A1J5L._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/JOEJOY-Elevated-Detachable-Washable-Travel-Safe/dp/B0DS5WHTX4/",
+   "asin": "B0DS5WHTX4",
+   "seen_in": {
+    "us": {
+     "rank": 4,
+     "price_text": "$41.39",
+     "reviews": 1600,
+     "rating": 4.4,
+     "bought": "2K+ bought in past month"
+    }
+   },
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_015.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Lealchum Large Dog Car Seat,Memory Foam Cushion Car Seat for 2 Small Dogs,Comfy Vehicle Dog Bed with Side Pocket and 2 Clip-On Safety Leashes,Easy to Install Car Seat for Dogs(Black, Large)",
+   "thumbnail": "https://m.media-amazon.com/images/I/710Za5mEGYL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/Lealchum-Memory-Cushion-Leashes-Install/dp/B0D293FSZC/",
+   "asin": "B0D293FSZC",
+   "seen_in": {
+    "uk": {
+     "rank": 4,
+     "price_text": "EUR 96.90",
+     "reviews": 1200,
+     "rating": 4.4,
+     "bought": "50+ bought in past month"
+    },
+    "ca": {
+     "rank": 4,
+     "price_text": "$126.88",
+     "reviews": 1200,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_016.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Lealchum Dog Car Seat, Comfortable Pet Car Seat with Clip On Safety Leashes, Washable Travel Car Bed with Non-Slip Base (Black/Grey, Small)",
+   "thumbnail": "https://m.media-amazon.com/images/I/81O7Ep-8SgL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0D45TNW79/",
+   "asin": "B0D45TNW79",
+   "seen_in": {
+    "de": {
+     "rank": 4,
+     "price_text": "€47.38",
+     "reviews": 1200,
+     "rating": 4.7,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_017.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "KONG Ultimate Pet Safety Car Seat and Tether, for Small Dogs",
+   "thumbnail": "https://m.media-amazon.com/images/I/81klHLeSxoL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/KONG-Ultimate-Safety-Seat-Tether/dp/B0FH5CY8H7/",
+   "asin": "B0FH5CY8H7",
+   "seen_in": {
+    "au": {
+     "rank": 6,
+     "price_text": "$129.99",
+     "reviews": 49,
+     "rating": 4.5,
+     "bought": null
+    },
+    "uk": {
+     "rank": 5,
+     "price_text": "EUR 76.83",
+     "reviews": 13,
+     "rating": 4.5,
+     "bought": null
+    },
+    "nz": {
+     "rank": 6,
+     "price_text": "$129.99",
+     "reviews": 49,
+     "rating": 4.5,
+     "bought": null
+    }
+   },
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_018.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Saferide Dog Seat with Isofix for Car and Travel with Pet",
+   "thumbnail": "https://m.media-amazon.com/images/I/81D3iF27GGL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/EQUICANI%C2%AE-Saferide-Seat-Isofix-Travel/dp/B0H3FLYJQF/",
+   "asin": "B0H3FLYJQF",
+   "seen_in": {
+    "au": {
+     "rank": 11,
+     "price_text": "$139.46",
+     "reviews": 2,
+     "rating": 4.0,
+     "bought": null
+    },
+    "de": {
+     "rank": 5,
+     "price_text": "€69.90",
+     "reviews": 4,
+     "rating": 4.3,
+     "bought": null
+    },
+    "nz": {
+     "rank": 11,
+     "price_text": "$139.46",
+     "reviews": 2,
+     "rating": 4.0,
+     "bought": null
+    }
+   },
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_019.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "ANOSOSPECIAL Dog Car Seat Cover for Back Seat,Car Seat Protector for Dogs Nonslip Water Proof Universal Fit Dog Car Seat Cover for ISOFIX Truck SUV(Large,Black)",
+   "thumbnail": "https://m.media-amazon.com/images/I/81T2AhYeDwL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/ISOFIX-Protector-Nonslip-Durable-Universal/dp/B09VNMCFX5/",
+   "asin": "B09VNMCFX5",
+   "seen_in": {
+    "us": {
+     "rank": 5,
+     "price_text": "$32.86",
+     "reviews": 11600,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    },
+    "ca": {
+     "rank": 6,
+     "price_text": "$42.86",
+     "reviews": 11500,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_020.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "EzyDog Click ISOFIX Standard - Dog Seat Belt Car Restraint - 17in - 26in",
+   "thumbnail": "https://m.media-amazon.com/images/I/51kUO+f2MIL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/EzyDog-Click-ISOFIX-Standard-Attachment/dp/B07KY7GN36/",
+   "asin": "B07KY7GN36",
+   "seen_in": {
+    "us": {
+     "rank": 6,
+     "price_text": "$22.00",
+     "reviews": 2,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_021.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "PETSFIT Dog Car Seat for Small/Medium Dogs Up to 35 lbs – Patented Safety System, 5\" Memory Foam Pet Booster Car Seat, Fully Detachable and Washable Dog Carseat with 2 Storage Pockets (Black)",
+   "thumbnail": "https://m.media-amazon.com/images/I/81J9OgEP0YL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/PETSFIT-Seat-Small-Medium-Dogs/dp/B0FVWM2XTH/",
+   "asin": "B0FVWM2XTH",
+   "seen_in": {
+    "uk": {
+     "rank": 6,
+     "price_text": "EUR 58.65",
+     "reviews": 253,
+     "rating": 4.8,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_022.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Wuglo Dog Car Seat Back Seat Extra Stable for Medium Dogs up to 18 kg",
+   "thumbnail": "https://m.media-amazon.com/images/I/717FVdf3JRL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/Wuglo-Seat-Extra-Stable-Medium/dp/B097Y4142D/",
+   "asin": "B097Y4142D",
+   "seen_in": {
+    "de": {
+     "rank": 6,
+     "price_text": "€38.22",
+     "reviews": 9600,
+     "rating": 4.4,
+     "bought": "200+ bought in past month"
+    }
+   },
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_023.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "[4-Way Secure Restraint] Dog Car Seat for Small & Medium Dog up to 18kg",
+   "thumbnail": "https://m.media-amazon.com/images/I/81RjKm0xrzL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/4-Way-Secure-Restraint-Small-Medium/dp/B0GLJ2R4FJ/",
+   "asin": "B0GLJ2R4FJ",
+   "seen_in": {
+    "au": {
+     "rank": 7,
+     "price_text": "$84.99",
+     "reviews": 28,
+     "rating": 4.6,
+     "bought": null
+    },
+    "nz": {
+     "rank": 7,
+     "price_text": "$84.99",
+     "reviews": 28,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_024.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "JOEJOY Dog Car Seat for Medium/Large Dogs - Reversible Dual-Sided Travel Dog Car Bed with Memory Foam, Washable Pet Booster Seat for Do gs up to 55 lbs or 2 Small Dogs, 2 Safety Leashes, Grey",
+   "thumbnail": "https://m.media-amazon.com/images/I/71tW2VEnDhL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/JOEJOY-Seat-Medium-Large-Dogs/dp/B0FCF1D54R/",
+   "asin": "B0FCF1D54R",
+   "seen_in": {
+    "us": {
+     "rank": 7,
+     "price_text": "$53.97",
+     "reviews": 1600,
+     "rating": 4.4,
+     "bought": "800+ bought in past month"
+    }
+   },
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_025.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "JACKO & CO - Premium Dog Car Seat for Small Dogs 1-25lbs (Grey Small)",
+   "thumbnail": "https://m.media-amazon.com/images/I/61jGBHX++rL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/JACKO-CO-Premium-Clip-Resistant/dp/B0F9HWY13D/",
+   "asin": "B0F9HWY13D",
+   "seen_in": {
+    "uk": {
+     "rank": 7,
+     "price_text": "EUR 94.55",
+     "reviews": 638,
+     "rating": 4.4,
+     "bought": null
+    }
+   },
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_026.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "PETSFIT Small Dog Car Seat – Patented Safety Buckles – Safety Tether – Foldable Travel Dog Booster Car Seat Reduces Anxiety & Road Trips – Stable Frame, Soft Cushion, Fits Front/Back Seat",
+   "thumbnail": "https://m.media-amazon.com/images/I/91LqrODW2HL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/PETSFIT-Portable-Patent-Buckles-Suitable/dp/B0B8VGBRH7/",
+   "asin": "B0B8VGBRH7",
+   "seen_in": {
+    "ca": {
+     "rank": 7,
+     "price_text": "$50.97",
+     "reviews": 4400,
+     "rating": 4.6,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_027.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Wuglo Dog Car Seat Back Seat Extra Stable for Large Dogs up to 26 kg",
+   "thumbnail": "https://m.media-amazon.com/images/I/81bRASWxb3L._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/Wuglo-Seat-Extra-Stable-Large/dp/B097Y2BD8K/",
+   "asin": "B097Y2BD8K",
+   "seen_in": {
+    "de": {
+     "rank": 7,
+     "price_text": "€41.62",
+     "reviews": 9600,
+     "rating": 4.4,
+     "bought": "200+ bought in past month"
+    }
+   },
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_028.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Gimars Upgrade Dog Car Seat with Reversible Long & Short Plush Seat Cushion for Small/Medium/Large Dogs Up to 27kg, Detachable Washable Anti-Slip Dog Booster Seat with 13cm 28D Egg-Crate Foam, L",
+   "thumbnail": "https://m.media-amazon.com/images/I/71DtwQTIjdL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/Gimars-Reversible-Detachable-Anti-Slip-Egg-Crate/dp/B0FVFF7DVT/",
+   "asin": "B0FVFF7DVT",
+   "seen_in": {
+    "au": {
+     "rank": 8,
+     "price_text": "$125.21",
+     "reviews": 190,
+     "rating": 4.4,
+     "bought": "50+ bought in past month"
+    },
+    "nz": {
+     "rank": 8,
+     "price_text": "$125.21",
+     "reviews": 190,
+     "rating": 4.4,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_029.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Dog Car Seat for Large Medium Dogs, Hard Bottom Back Seat Extender",
+   "thumbnail": "https://m.media-amazon.com/images/I/81dNCq-L+oL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/Smatto-Extender-Support-Waterproof-Windows/dp/B0FSDJKVJ9/",
+   "asin": "B0FSDJKVJ9",
+   "seen_in": {
+    "us": {
+     "rank": 8,
+     "price_text": "$51.99",
+     "reviews": 146,
+     "rating": 4.3,
+     "bought": "700+ bought in past month"
+    }
+   },
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_030.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Small Dog Car Seat, Memory Foam Dog Booster Car Seats with Thick Cushion for Medium Dogs Under 35lbs, Detachable Washable Pet Seat with Storage Pockets,2 Safety Belts(Black, Medium)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71ik2-6u4LL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/INDYBUD-Booster-Medium-Leashes-Washable/dp/B0D97VCSDF/",
+   "asin": "B0D97VCSDF",
+   "seen_in": {
+    "uk": {
+     "rank": 8,
+     "price_text": "EUR 69.60",
+     "reviews": 939,
+     "rating": 4.7,
+     "bought": "100+ bought in past month"
+    },
+    "ca": {
+     "rank": 8,
+     "price_text": "$72.09",
+     "reviews": 972,
+     "rating": 4.6,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_031.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "KYG Car Seat Dog Medium / Large Dogs up to 55 lb, Waterproof Dog Seat Car with Two Cushions, Washable Dog Basket, Car Back Seat, Removable for Easy Cleaning, Can Be Used All Year Round",
+   "thumbnail": "https://m.media-amazon.com/images/I/718xz7MT13L._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/KYG-Waterproof-Cushions-Washable-Removable/dp/B0GJ4H6V6N/",
+   "asin": "B0GJ4H6V6N",
+   "seen_in": {
+    "de": {
+     "rank": 8,
+     "price_text": "€68.99",
+     "reviews": 126,
+     "rating": 4.8,
+     "bought": "50+ bought in past month"
+    }
+   },
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_032.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Dog Booster Car Seat for Small Dogs up to 30 lbs – Elevated Pet Travel Seat, Safety Belt, Storage & Tether, for Front & Back Seats, Detachable & Washable (Black/Grey, Standard)",
+   "thumbnail": "https://m.media-amazon.com/images/I/51TmYorjDsL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/KSUCTE-Booster-Seat-Small-Dogs/dp/B0FJLBJ19H/",
+   "asin": "B0FJLBJ19H",
+   "seen_in": {
+    "au": {
+     "rank": 9,
+     "price_text": "$59.50",
+     "reviews": 87,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    },
+    "nz": {
+     "rank": 9,
+     "price_text": "$59.50",
+     "reviews": 87,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_033.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Harnesses Belts Straps for Fixing Securing Pet Dog Seat Car Luggage Cargo with Hook Lock Isofix Interface Anchor Connector,Adjustable Length 10-60\"(1 Pack)",
+   "thumbnail": "https://m.media-amazon.com/images/I/41zjw8SbziL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/Harnesses-Securing-Interface-Connector-Adjustable/dp/B0FS7M5B9Q/",
+   "asin": "B0FS7M5B9Q",
+   "seen_in": {
+    "us": {
+     "rank": 9,
+     "price_text": "$21.50",
+     "reviews": 47,
+     "rating": 4.4,
+     "bought": null
+    }
+   },
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_034.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "MIXJOY Dog Car Seat with Thick Cushion for Dogs&Cats Under 40lbs(Grey)",
+   "thumbnail": "https://m.media-amazon.com/images/I/81AqXGE5xSL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/MIXJOY-Thick-Cushion-Under-40lbs/dp/B0F89ZZZ9Z/",
+   "asin": "B0F89ZZZ9Z",
+   "seen_in": {
+    "uk": {
+     "rank": 9,
+     "price_text": "EUR 22.17",
+     "reviews": 273,
+     "rating": 4.5,
+     "bought": "200+ bought in past month"
+    }
+   },
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_035.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "Dog Car Seat Cover for Back Seat Cover for Kids ISOFIX Car Seat Protector for Dogs Nonslip Water Proof Durable Universal Fit Dog Car Seat Cover for Truck SUV(Large,Grey)",
+   "thumbnail": "https://m.media-amazon.com/images/I/81eeu4fROFL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/ISOFIX-Protector-Nonslip-Durable-Universal/dp/B0CDCNBCYG/",
+   "asin": "B0CDCNBCYG",
+   "seen_in": {
+    "ca": {
+     "rank": 9,
+     "price_text": "$42.86",
+     "reviews": 11500,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_036.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com.au",
+   "title": "Dog Booster Car Seat for Small Dogs up to 30 lbs – Elevated Pet Travel Seat, Safety Belt, Storage & Tether, for Front & Back Seats, Detachable & Washable",
+   "thumbnail": "https://m.media-amazon.com/images/I/51Z5otBQ9HL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com.au/KSUCTE-Booster-Seat-Small-Dogs/dp/B0FJLHVKZG/",
+   "asin": "B0FJLHVKZG",
+   "seen_in": {
+    "au": {
+     "rank": 10,
+     "price_text": "$59.50",
+     "reviews": 87,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    },
+    "nz": {
+     "rank": 10,
+     "price_text": "$59.50",
+     "reviews": 87,
+     "rating": 4.6,
+     "bought": "100+ bought in past month"
+    }
+   },
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_037.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "Lesure Waterproof Small Dog Booster Car Seat, 54.5x49.5x38cm, Dark Grey",
+   "thumbnail": "https://m.media-amazon.com/images/I/81aG5nxSELL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/Lesure-Small-Dog-Seat-Clip/dp/B0CR1LK95B/",
+   "asin": "B0CR1LK95B",
+   "seen_in": {
+    "uk": {
+     "rank": 10,
+     "price_text": "EUR 38.99",
+     "reviews": 1000,
+     "rating": 4.7,
+     "bought": "600+ bought in past month"
+    }
+   },
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_038.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Dog Car Seat for Small to Medium Dogs up to 15 kg",
+   "thumbnail": "https://m.media-amazon.com/images/I/81bc1ZvMKkL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/SIVEIS-Seat-Small-Medium-Dogs/dp/B0DXKRMKSG/",
+   "asin": "B0DXKRMKSG",
+   "seen_in": {
+    "de": {
+     "rank": 10,
+     "price_text": "€49.99",
+     "reviews": 97,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_039.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "JOEJOY Dog Car Seats for Small Medium Dogs Under 35lbs, Dog Booster Seat with Detachable Washable Cover and Cushion, Memory Foam Pet Car Seat with Safety Belt and Storage Pockets (Black)",
+   "thumbnail": "https://m.media-amazon.com/images/I/711wdl4uqwL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/JOEJOY-Booster-Detachable-Washable-Cushion/dp/B0FFMMPR98/",
+   "asin": "B0FFMMPR98",
+   "seen_in": {
+    "us": {
+     "rank": 11,
+     "price_text": "$44.99",
+     "reviews": 1000,
+     "rating": 4.5,
+     "bought": "2K+ bought in past month"
+    }
+   },
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_040.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "GL GLENSLAVE Dog Car Seat for Small/Medium Dogs, Dog Booster Car Seats with Thick Cushion for Dogs Under 35lbs, Detachable Washable Pet Bed with Storage Pockets, 2 Safety Belts (Black/Grey)",
+   "thumbnail": "https://m.media-amazon.com/images/I/71KNJrvEthL._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/GL-GLENSLAVE-Booster-Detachable-Washable/dp/B0DRT6ZR9Z/",
+   "asin": "B0DRT6ZR9Z",
+   "seen_in": {
+    "ca": {
+     "rank": 11,
+     "price_text": "$89.99",
+     "reviews": 1400,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_041.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Dog Car Seat Back Seat for Small Medium Dogs Car Seat for Dogs Backrest for Small to Medium Dogs",
+   "thumbnail": "https://m.media-amazon.com/images/I/71M4vE1SbkL._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/dp/B0GSZSPS6D/",
+   "asin": "B0GSZSPS6D",
+   "seen_in": {
+    "de": {
+     "rank": 11,
+     "price_text": "€44.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_042.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.com",
+   "title": "Lealchum Dog Booster Car Seat for Small/Medium Dogs Up to 35lbs,Elevated Cushion Fits in Front/Back Seat,Fully Detachable and Washable,2 Storage Pockets & Dog Leashes,Easy to Install(Black,Medium)",
+   "thumbnail": "https://m.media-amazon.com/images/I/61acCArD0fL._AC_UL320_.jpg",
+   "link": "https://www.amazon.com/dp/B0D2DTQ31C/",
+   "asin": "B0D2DTQ31C",
+   "seen_in": {
+    "us": {
+     "rank": 12,
+     "price_text": "$56.02",
+     "reviews": 2800,
+     "rating": 4.7,
+     "bought": "1K+ bought in past month"
+    }
+   },
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_043.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.co.uk",
+   "title": "KONG Ultimate Safety Tether and Booster Seat",
+   "thumbnail": "https://m.media-amazon.com/images/I/919MyjlPHPL._AC_UL320_.jpg",
+   "link": "https://www.amazon.co.uk/KONG-Ultimate-Safety-Tether-Booster/dp/B0FX2D33Y2/",
+   "asin": "B0FX2D33Y2",
+   "seen_in": {
+    "uk": {
+     "rank": 12,
+     "price_text": "EUR 76.83",
+     "reviews": 1,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_044.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.ca",
+   "title": "SlowTon Console Dog Car Seat, Pet Booster Seat for Small Dog Cat Travel",
+   "thumbnail": "https://m.media-amazon.com/images/I/815ExM7mL0L._AC_UL320_.jpg",
+   "link": "https://www.amazon.ca/SlowTon-Console-Booster-Small-Travel/dp/B0CBV73CK4/",
+   "asin": "B0CBV73CK4",
+   "seen_in": {
+    "ca": {
+     "rank": 12,
+     "price_text": "$49.99",
+     "reviews": 338,
+     "rating": 4.4,
+     "bought": null
+    }
+   },
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_045.jpg"
+  },
+  {
+   "where": "Amazon",
+   "source": "amazon.de",
+   "title": "Car Seat Dog Extra Back Seat Stable Dog Car Seat Medium / Large Dogs",
+   "thumbnail": "https://m.media-amazon.com/images/I/8178OT3T42L._AC_UL320_.jpg",
+   "link": "https://www.amazon.de/-/en/Seat-Extra-Stable-Medium-Large/dp/B0F3JC4P2J/",
+   "asin": "B0F3JC4P2J",
+   "seen_in": {
+    "de": {
+     "rank": 12,
+     "price_text": "€66.99",
+     "reviews": 528,
+     "rating": 4.2,
+     "bought": "200+ bought in past month"
+    }
+   },
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_046.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "PetPost Australia",
+   "title": "EzyDog Click ISOFIX Dog Car Restraint",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS7QxXuz1Ru4TqoM8uXNVQ9FJsZxS1ThCEV7eD3q6HccaTCt_9RwoSD_mSD4HrPx35liEtvU8WKEdB606nhbvlB62EUguEMCA",
+   "link": "https://www.google.com/search?q=%22EzyDog+Click+ISOFIX+Dog+Car+Restraint%22+PetPost+Australia",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 1,
+     "price_text": "$18.99",
+     "reviews": 43,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_047.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay",
+   "title": "K&h Pet Products Travel Safety Carrier For Pets Dog Crate For Car /",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSneYA39CoML1B7JfrpAgwTOjT5Qk-5c01eQggZHOrVf2nfMptWkYYT3sJOYjfil4AE0s6GA4JnjbE0x6HCJc-p7_U-sXX_9or6OkrlAKYobydUJ6a061LB",
+   "link": "https://www.google.com/search?q=%22K%26h+Pet+Products+Travel+Safety+Carrier+For+Pets+Dog+Crate+For+Car+%2F%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 1,
+     "price_text": "$42.00",
+     "reviews": 461,
+     "rating": 4.0,
+     "bought": null
+    }
+   },
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_048.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+   "title": "KONG Ultimate Safety Seat & Tether",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpW-L7KIz87VCChZDRdjVrDzEtBTB8wUEL4Q3mU-obqvY5VJ8B2_OjXmf27SzF7ttTIl3L4L0JRxeRpAYny--uNdlhiIO7JRg3jkv7DigWFbgpzuSJeaPk",
+   "link": "https://www.google.com/search?q=%22KONG+Ultimate+Safety+Seat+%26+Tether%22+Amazon.co.uk",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 1,
+     "price_text": "£65.00",
+     "reviews": 66,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_049.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "FunnyFuzzy",
+   "title": "Lace Stripe Travel Safety Waterproof Dog Car Seat Booster",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTOEfDKQvGJcFIishz47zJwGFs7hGUmS-CFP96Q2ZZwVC0gt6cqqH8Nb3aEWkXNGLcsD0ya05cD-7fKE_AD3tssTi5WzzhLR0XWbwLDmRNpuDRi3Bj_T_lS",
+   "link": "https://www.google.com/search?q=%22Lace+Stripe+Travel+Safety+Waterproof+Dog+Car+Seat+Booster%22+FunnyFuzzy",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 1,
+     "price_text": "$98.99",
+     "reviews": 397,
+     "rating": 4.9,
+     "bought": null
+    }
+   },
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_050.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Luxus Kollektion",
+   "title": "Hundesitz Für Auto Sitzerhöhung Für Hunde Bis 25kg",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBT6LcM-7w6-Jfb2dFcwkaPgkdWwjgy85fG3psiHb0e35pKwur6DjE4D5MXzDUsrO11IxKJ3c1r5n_2H1j_6y1ftj7eYWoXp3F39gRnoqqmMAIvxYNML-uxg",
+   "link": "https://www.google.com/search?q=%22Hundesitz+F%C3%BCr+Auto+Sitzerh%C3%B6hung+F%C3%BCr+Hunde+Bis+25kg%22+Luxus+Kollektion",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 1,
+     "price_text": "187,95 €",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 51,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_051.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Petdirect.co.nz",
+   "title": "Ezydog Click Dog Seat Belt Isofix",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQsWmChUvW96c8Aswnta6-jaX6TJpG71oeT7J3UNDRoWYchKd30-2J69glRomMY-YYJmG6KHfw5",
+   "link": "https://www.google.com/search?q=%22Ezydog+Click+Dog+Seat+Belt+Isofix%22+Petdirect.co.nz",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 1,
+     "price_text": "$33.43",
+     "reviews": 43,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 52,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_052.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "FunnyFuzzy",
+   "title": "ISOFIX Dog Car Seat Bed with LATCH System",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTe0ujVwKFll3b4MRzwrRwqPJe91QdFOMhxmoexlvkfmJ7INPirDUsQYrfUj06I5MP7Fne0JVJPlPdgnpUKnRBjgqlpIsjQtsi94U26IEE",
+   "link": "https://www.google.com/search?q=%22ISOFIX+Dog+Car+Seat+Bed+with+LATCH+System%22+FunnyFuzzy",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 2,
+     "price_text": "$94.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 53,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_053.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon",
+   "title": "Dog Car Seat for Small Medium Dogs 6\" Elevated Booster Seat with ISOFIX Safety Fixation",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSTbs24Eu9b99MulRpTBVAI63Bvp6OGoAK2Lgt8jmdZApBqojluL02h4Q4w2loGnEQAS1sRgkGFgF6uV0nM2fnSNcA609n3wAy250SZ3uG1Ob-lVE3Jmr4",
+   "link": "https://www.google.com/search?q=%22Dog+Car+Seat+for+Small+Medium+Dogs+6%22+Elevated+Booster+Seat+with+ISOFIX+Safety+Fixation%22+Amazon",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 11,
+     "price_text": "$113.11",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "ca": {
+     "rank": 2,
+     "price_text": "$85.33",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 54,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_054.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Etsy - Seller",
+   "title": "Faux Leather Dog Car Seat & Door Guard: Scratch-Resistant Travel Set",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQFvY2b5_9RhUDSGGufaewg9lBqq6uzhmHdzGr4T4mYdDwVCB9-Y_wH_zYvRAPJmfTxUWh48U4X4cvdH_IqR56rwqv8_U477SUcpQh_pRK5",
+   "link": "https://www.google.com/search?q=%22Faux+Leather+Dog+Car+Seat+%26+Door+Guard%3A+Scratch-Resistant+Travel+Set%22+Etsy",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 2,
+     "price_text": "$230.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 55,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_055.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+   "title": "OSDUE Dog Seat Belt, 3-in-1 Adjustable Reflective Dog Car Harness, Pet Safety Belt with Clip Hook Latch & Seatbelt Buckle, Anti Shock Elastic Nylon",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRda6iMDKjP0ug6EVquYA-vQlXoiMJ0t_vf7qgBzxXjaGj9WzuausCiLiW-nFSyyLGj68D1_QUltyoAsHYV-Hl1PvoEj7fTQhoteJOJwxhoLeEdLTdRzMMvKg",
+   "link": "https://www.google.com/search?q=%22OSDUE+Dog+Seat+Belt%2C+3-in-1+Adjustable+Reflective+Dog+Car+Harness%2C+Pet+Safety+Belt+with+Clip+Hook+Latch+%26+Seat%22+Amazon.co.uk",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 2,
+     "price_text": "£5.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 56,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_056.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "CHECK24",
+   "title": "Hundeautositz Bis 9kg mit Stahlrahmen & Sicherheitsleine",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ8PL9g66gxL5iWUeG2t_vGqf0Y0yz2W2e6o3woHOkZJxPQ2WTvufRtkOW-OvYveg8MVXtr-3PMqxNi-4geSHCZ8r2QLhcZe12Ve7pk770",
+   "link": "https://www.google.com/search?q=%22Hundeautositz+Bis+9kg+mit+Stahlrahmen+%26+Sicherheitsleine%22+CHECK24",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 2,
+     "price_text": "59,99 €",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 57,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_057.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "The Warehouse",
+   "title": "Pet HQ Carseat",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSd4zz441bdU1d6Q-jd_JsKuHmTCJl5de3SS_BPElwDPdSBnTQ8BZGXYwwPojwxH2x9jgGJCks",
+   "link": "https://www.google.com/search?q=%22Pet+HQ+Carseat%22+The+Warehouse",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 2,
+     "price_text": "$49.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 58,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_058.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "FunnyFuzzy",
+   "title": "Waterproof Isofix Dog Car Seat Bed with Isofix System",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRsAr_-wql7BxSz0-7qu3ME30ZrA2q4YNtPqanVz_MvR4Zv5_GZMpMwOHCvxmR7DqSx33fKrNq8-kHuTAGneqPUQ_ibPteKaOarYFacKzrafgtK-E858XDK",
+   "link": "https://www.google.com/search?q=%22Waterproof+Isofix+Dog+Car+Seat+Bed+with+Isofix+System%22+FunnyFuzzy",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 3,
+     "price_text": "$137.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 59,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_059.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Cat Harness Australia",
+   "title": "Anne ISOFIX Pet Car Seat",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSBdp75zdO61iyo8CwPH4iDhY3wPILz03AkFuTY12RVi99efMN3lLHsaMWQrS0tF5PTcJjDkVX6vxqmkkKo_TSRLyt5SHHKMo9j7bzIVO6ves-lfA2EMFz2",
+   "link": "https://www.google.com/search?q=%22Anne+ISOFIX+Pet+Car+Seat%22+Cat+Harness+Australia",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 4,
+     "price_text": "$235.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 3,
+     "price_text": "$271.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 60,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_060.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Mercari",
+   "title": "K&H NEW IN SEALED BOX DOG CARRIER - New Pet Supplies | Size: l",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhNP2QyYvx9Fn5DlgK-qtjbIYHrZhXve4A21NP4hO4rcZ4Whc0m6C3MQEzWV0NTVGFdrIilk1LYYBfnHhSRq6sDk1X_LCIlluMBlJ1UiQ",
+   "link": "https://www.google.com/search?q=%22K%26H+NEW+IN+SEALED+BOX+DOG+CARRIER+-+New+Pet+Supplies+%7C+Size%3A+l%22+Mercari",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 3,
+     "price_text": "$32.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 61,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_061.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Just For Pets",
+   "title": "KONG Ultimate Safety Seat & Tether",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpW-L7KIz87VCChZDRdjVrDzEtBTB8wUEL4Q3mU-obqvY5VJ8B2_OjXmf27SzF7ttTIl3L4L0JRxeRpAYny--uNdlhiIO7JRg3jkv7DigWFbgpzuSJeaPk",
+   "link": "https://www.google.com/search?q=%22KONG+Ultimate+Safety+Seat+%26+Tether%22+Just+For+Pets",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 3,
+     "price_text": "£64.99",
+     "reviews": 66,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 62,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_062.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Gallery Canada",
+   "title": "Detachable Dog Booster Car Seat Fits Front and Back Seat丨costway",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWVzI-mYtqEznqsjMxgq1AhdQVzthJ2dY4wMf0SmlJqRZ8BcEJ889E9DpNcfMDedGVKWubK21IFGMi5ZHj3BHVUQBBcHvq3pmZS9qM7AzYpDfz8Svyum67",
+   "link": "https://www.google.com/search?q=%22Detachable+Dog+Booster+Car+Seat+Fits+Front+and+Back+Seat%E4%B8%A8costway%22+Gallery+Canada",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 3,
+     "price_text": "$53.19",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 63,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_063.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "PETSFIT Hundesitz Mittelkonsole Auto, tragbarer Autositz Hund Mittelkonsole mit sicheren Schutzhaken, luxuriöser Hunde Autositz mit verbesserten",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSqQ8BleKoZbWv3hk8UzZ8Hyy-Pa5bN30pPV0UYwHvadpP7os2xmHCWJSyIqq09zYIDNvtBQ6RlUrSVzYZzoQq32rJ3Ma2SdSxjwe1MBKA",
+   "link": "https://www.google.com/search?q=%22PETSFIT+Hundesitz+Mittelkonsole+Auto%2C+tragbarer+Autositz+Hund+Mittelkonsole+mit+sicheren+Schutzhaken%2C+luxuri%C3%B6s%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 3,
+     "price_text": "53,17 €",
+     "reviews": 1,
+     "rating": 4.5,
+     "bought": null
+    }
+   },
+   "n": 64,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_064.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay - cento_shop_usa",
+   "title": "K&h Dog Car Seat, Travel Safety Carrier For Pets, Small, Gray/black |",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQAcYpWmC08xcVSP3CBSNmtj05Xi7d4aYwpFGUfXV5jitgXe0hWDy5ooNBoaXA8gYYXn2-8mzb7uScs4fmiHgYyDtJZOasq54vcKcq9w1tep5mAfrJ6kzZ0",
+   "link": "https://www.google.com/search?q=%22K%26h+Dog+Car+Seat%2C+Travel+Safety+Carrier+For+Pets%2C+Small%2C+Gray%2Fblack+%7C%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 4,
+     "price_text": "$92.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 65,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_065.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+   "title": "PETCOOZ Dog Seat Belt, Adjustable Reflective Car Harness, Shock Absorbing | Elastic Pet Safety Seat Belt For Car Safety Belt Buckle, ISOFIX, LATCH,",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTr7CG8KqPT8IrlzrYO_YgQeWlZPhg1dWSahQGOjGkGRtXSjLfzT_0Ajf9d7-hpaqQBtXX1iuIpRCnqUkK6Ni0D1it-oQ8xVWr8Nj9ddxY",
+   "link": "https://www.google.com/search?q=%22PETCOOZ+Dog+Seat+Belt%2C+Adjustable+Reflective+Car+Harness%2C+Shock+Absorbing+%7C+Elastic+Pet+Safety+Seat+Belt+For+C%22+Amazon.co.uk",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 4,
+     "price_text": "£8.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 66,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_066.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "FunnyFuzzy",
+   "title": "Funnyfuzzy Waterproof Dog Car Seat Bed",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwNjItAPPIvrGqfedFv9MN9gTq6Seryc0orIMFKKbUIu70duXpu1LCFJL_Z6QaecOUV3urzctL4FgKCYsVOOqwrlZ-3-qaGhSWn7apLUnk",
+   "link": "https://www.google.com/search?q=%22Funnyfuzzy+Waterproof+Dog+Car+Seat+Bed%22+FunnyFuzzy",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 4,
+     "price_text": "$128.99",
+     "reviews": 399,
+     "rating": 4.9,
+     "bought": null
+    }
+   },
+   "n": 67,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_067.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "GL GLENSLAVE Hundesitz für große/mittlere Hund, Hundeerhöhungssitz unter 55Lbs oder 2 kleine Hunde, abnehmbar und waschbar Hundesitz mit dicken Kissen",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQniYd8sdVNW7smhFPtf9gCuF8ZPt6BShtgFN6FNETp0YxDvpKYUxVCkCTmcH8kJx-ccoWPrIgML4A_m7Q0UMjvkCGurvc3QQsn0A_IC7GCJ5ioizDyV1CeXg",
+   "link": "https://www.google.com/search?q=%22GL+GLENSLAVE+Hundesitz+f%C3%BCr+gro%C3%9Fe%2Fmittlere+Hund%2C+Hundeerh%C3%B6hungssitz+unter+55Lbs+oder+2+kleine+Hunde%2C+abnehmbar+%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 4,
+     "price_text": "71,98 €",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 68,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_068.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "EzyDog NZ",
+   "title": "EzyDog Drive Booster Seat Charcoal",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQO-B6Nu9QPm8LbaJ6SrqlaHwMkKivMTasA_ervBhl5rPZxWgFXvodSum4Ej9F4DXiBDAnc2U24",
+   "link": "https://www.google.com/search?q=%22EzyDog+Drive+Booster+Seat+Charcoal%22+EzyDog+NZ",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 4,
+     "price_text": "$199.99",
+     "reviews": 42,
+     "rating": 4.4,
+     "bought": null
+    }
+   },
+   "n": 69,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_069.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "4petsproducts",
+   "title": "Caree Smoked Pearl Standard seatbelt",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTCOmdD-TGTaEoG8r4KDdyomhsTy59wKSASGmPdsw2QzYeM_eroPQbCYXkMRQtN1x2dplXW7rwIdSrxG75x8a-p_Rv53RHDzEtInG2lNRMns7ZUTaDePnwGA",
+   "link": "https://www.google.com/search?q=%22Caree+Smoked+Pearl+Standard+seatbelt%22+4petsproducts",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 5,
+     "price_text": "$665.00",
+     "reviews": 146,
+     "rating": 4.5,
+     "bought": null
+    }
+   },
+   "n": 70,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_070.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Lowe's",
+   "title": "PetSafe Deluxe Booster Seat",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVOUfUQIIW6vgddQv51xsXAGER44bsl1WhUwDi53WqtfVKMEp7PkLpTjyckQiqy-MkqtPzXMzMmKz3V2v8LgVC0_ZlgdMOpg60jPWGGdEfkNTVqUmzKZSdXFE",
+   "link": "https://www.google.com/search?q=%22PetSafe+Deluxe+Booster+Seat%22+Lowe%27s",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 5,
+     "price_text": "$54.95",
+     "reviews": 806,
+     "rating": 3.9,
+     "bought": null
+    }
+   },
+   "n": 71,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_071.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "funnyfuzzy",
+   "title": "Deluxe Faux Leather Dog Car Seat Booster Bed",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIHecz-liZnDZMIEcH0MIuSsNl5L98TD1DIE1xSaew4Qxbzx8NnO25uWtDvbha3TDQp56I8jq7xwUl1y7sOSkJNXy8CSvCBm_xgX-CYsg",
+   "link": "https://www.google.com/search?q=%22Deluxe+Faux+Leather+Dog+Car+Seat+Booster+Bed%22+funnyfuzzy",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 5,
+     "price_text": "£79.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 72,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_072.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Ginger and Bear",
+   "title": "Tavo Maeve ISO Wind Fawn: Crash-Tested Pet Car Seat | Baseless ISOFIX ISO 6X Wind",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTz1lfa103TZHhezYYDy_RiZ0UUXgh-ixgar3EpyhU3ab3A38KhYkvTPvgh3-cDX5Lcqy-efEQQUuU0Om4K-MFIdg18fP0Bo2Ky_wfesNhmfoMgGqgFOuZOAVf8",
+   "link": "https://www.google.com/search?q=%22Tavo+Maeve+ISO+Wind+Fawn%3A+Crash-Tested+Pet+Car+Seat+%7C+Baseless+ISOFIX+ISO+6X+Wind%22+Ginger+and+Bear",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 5,
+     "price_text": "$795.00",
+     "reviews": 27,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 73,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_073.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "Hunde Autositz für kleine bis mittlere Hunde, Waschbarer hundesitz Auto mit Aufbewahrungstaschen, Ansteckbare Leine,verdickter Hundeautositz",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQY14e7qqPB86EAk0tanhIjiYPVL5hXOq2cXvya4Rq4-_XuTQXKF1YG8FHTHDo0sJiOl740JHhOT0fuINF_ZjojfGJsS-ujNIF9IYsiJk8",
+   "link": "https://www.google.com/search?q=%22Hunde+Autositz+f%C3%BCr+kleine+bis+mittlere+Hunde%2C+Waschbarer+hundesitz+Auto+mit+Aufbewahrungstaschen%2C+Ansteckbare+%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 5,
+     "price_text": "59,48 €",
+     "reviews": 1,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 74,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_074.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Petdirect.co.nz",
+   "title": "Kurgo Rover Booster Seat",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQhDhz1YMIXcaUIOGpe-GNECzsO1RLYEcleSZHS8C9FjWh7QByFprvl--IgEokhLLQxPPuZav9F",
+   "link": "https://www.google.com/search?q=%22Kurgo+Rover+Booster+Seat%22+Petdirect.co.nz",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 5,
+     "price_text": "$130.29",
+     "reviews": 197,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 75,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_075.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Petbarn",
+   "title": "Tavo Maeve Pet Car Seat Carrier",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1kb0_pOlS3QqMvvQW45Iu7nZzSO_BPMUHM5Vr_Rg8CFqgaqtcl7o3No0-Rd5gW-fkrSXJ4vkW9YiCGr-_RYPKyxkleQhdp3snpvQtsiCaXzbO25Sl0dLM7Q",
+   "link": "https://www.google.com/search?q=%22Tavo+Maeve+Pet+Car+Seat+Carrier%22+Petbarn",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 6,
+     "price_text": "$749.00",
+     "reviews": 62,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 76,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_076.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay - stefanotanca",
+   "title": "K&h Dog Car Seat, Travel Safety Carrier For Pets, Medium, Gray/black",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrJLRbuzznTPoOo3jOOguFv-sEbEq82aXTi5VDQd6mbLLPInj2y6ULTjbuCLI97Wtkcwa2NMrnSE0puHPTB0xg2rCw-98unqaXRVfyRDwX",
+   "link": "https://www.google.com/search?q=%22K%26h+Dog+Car+Seat%2C+Travel+Safety+Carrier+For+Pets%2C+Medium%2C+Gray%2Fblack%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 6,
+     "price_text": "$75.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 77,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_077.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Petvita",
+   "title": "Lealchum Large Dog Car Seat,Memory Foam Cushion Car Seat for 2 Small Dogs,Comfy Vehicle Dog Bed with Side Pocket and 2 Clip-On Safety Leashes,Easy to",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMuAtX57SEcCCnmdyR-Q3VRLm-pUcYM8sIAti_PPPRw1YHh8HugexWDlmLuX8GSJDXXMRAvforujZO7VG0_9BX6bIlIAAs7Ysy8mUcbtupOxDrLSXxoawL",
+   "link": "https://www.google.com/search?q=%22Lealchum+Large+Dog+Car+Seat%2CMemory+Foam+Cushion+Car+Seat+for+2+Small+Dogs%2CComfy+Vehicle+Dog+Bed+with+Side+Pock%22+Petvita",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 6,
+     "price_text": "£119.09",
+     "reviews": 8,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 78,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_078.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon CA",
+   "title": "EzyDog Click ISOFIX Standard Dog Seat Belt Car Harness Attachment For Dogs",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSzbSyHwYu9UvLwVudWUDv_yuA-tNAHl49UdrV80-uwYVHWeIkNslZf5L8EQBemiBa5wDlGOXmmpg_fzQoQlO-zQZH_iZVnEbRG8pRBVZmNupi0nM9e3zKR",
+   "link": "https://www.google.com/search?q=%22EzyDog+Click+ISOFIX+Standard+Dog+Seat+Belt+Car+Harness+Attachment+For+Dogs%22+Amazon+CA",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 6,
+     "price_text": "$29.70",
+     "reviews": 1,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 79,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_079.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "EzyDog - EU",
+   "title": "EzyDog Drive Sitzerhöhung",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvT4H8ecIekB4ZfLwqsvmen_uU-EocC2efDEqoDiCUkgEz1LOa_xmjyuZIjZ47WyyAaG9lFrbyDxQWgoar4TH929_vLAn5BpgNyDQ6qWFiA1TOkr0xYjzQ1A",
+   "link": "https://www.google.com/search?q=%22EzyDog+Drive+Sitzerh%C3%B6hung%22+EzyDog",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 6,
+     "price_text": "80,46 €",
+     "reviews": 60,
+     "rating": 4.4,
+     "bought": null
+    }
+   },
+   "n": 80,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_080.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Louis and Phoebe Pet Boutique",
+   "title": "Henry Wag Pet Car Booster Seat",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxAVsAzJb-Zi29sOm5-V0Gwa_x_NpEcVebajVxQHzCPNvU2OtFdTZywKQM3QWf1Cu9G_o1QDE",
+   "link": "https://www.google.com/search?q=%22Henry+Wag+Pet+Car+Booster+Seat%22+Louis+and+Phoebe+Pet+Boutique",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 6,
+     "price_text": "$139.95",
+     "reviews": 28,
+     "rating": 3.9,
+     "bought": null
+    }
+   },
+   "n": 81,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_081.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon AU - Amazon.com.au-Seller",
+   "title": "DOOG Dog Car Seat",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiUoDPaXovbBABWNSg10cvFcM__SYzbs5j8brnSwDiTL-qxonbQcTSWRZfqFL_GV1hBgCRKXnulfAKLzjuGRzMxWxEIx2nn5lswhvvBAIXAvs9zgSz1Fkt",
+   "link": "https://www.google.com/search?q=%22DOOG+Dog+Car+Seat%22+Amazon+AU",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 7,
+     "price_text": "$159.99",
+     "reviews": 83,
+     "rating": 4.8,
+     "bought": null
+    }
+   },
+   "n": 82,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_082.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+   "title": "Lealchum Dog Booster Car Seat for S/M Dogs Up to 35lbs Soft 6in Elevated Cushion",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwWUs90pEIr3ARw9-90UZz5d1JYQu8zPGHMGbpsxPuyqPNSRNkIThBfsPsibbiXEQE1xrkbV24al8mwhegf2GmwutR3XVTZzdXZbpYkmAUmyj6G2wVLm4DDw",
+   "link": "https://www.google.com/search?q=%22Lealchum+Dog+Booster+Car+Seat+for+S%2FM+Dogs+Up+to+35lbs+Soft+6in+Elevated+Cushion%22+Amazon.co.uk",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 7,
+     "price_text": "£66.38",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 83,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_083.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "FunnyFuzzy",
+   "title": "Dog Car Seat Bed",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWcyghGA2sOfikomL_1ezB_Lj02KZlrIrF2VJGZ3RN1vAcDxBgn-1BT2dvV-hLQlm_yFWAtPjL2HtIgiIT5O1m0KWRRcQgRhM-GqpMHkQxH9YwDNYvoTuS",
+   "link": "https://www.google.com/search?q=%22Dog+Car+Seat+Bed%22+FunnyFuzzy",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 7,
+     "price_text": "$99.99",
+     "reviews": 399,
+     "rating": 4.9,
+     "bought": null
+    }
+   },
+   "n": 84,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_084.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "GL GLENSLAVE Hunde-Autositze für kleine bis mittelgroße Hunde, Erhöhter Hunde-Booster-Sitz mit Memory-Schaum, Abnehmbarer & waschbarer Autositz für",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQRDCsaYSaS9SOsaQLc1usKxdFzXL3DaOLCj4lmJv9eo8otq4IIMKIGj7VVF6cMw0EHBELxR36LjzgVZqU-Eft6GJ2uco987KrkQogN2EiDRIQN1S_H_AWO",
+   "link": "https://www.google.com/search?q=%22GL+GLENSLAVE+Hunde-Autositze+f%C3%BCr+kleine+bis+mittelgro%C3%9Fe+Hunde%2C+Erh%C3%B6hter+Hunde-Booster-Sitz+mit+Memory-Schaum%2C+%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 7,
+     "price_text": "59,48 €",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 85,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_085.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Kmart New Zealand",
+   "title": "Anko Dog Car Booster Seat",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSdhu45IaQT1YUX0QtAbo_YqAC6nmar-COfidmJ10doXtLk9k9Ge56J_d_AxswuXbCxkzx91lo",
+   "link": "https://www.google.com/search?q=%22Anko+Dog+Car+Booster+Seat%22+Kmart+New+Zealand",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 7,
+     "price_text": "$29.00",
+     "reviews": 1,
+     "rating": 3.0,
+     "bought": null
+    }
+   },
+   "n": 86,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_086.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "EzyDog Australia",
+   "title": "EzyDog Drive Booster Seat",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRE5zoW-We3sa2Lyi_vktxQI-odHc40sC6hW3D5gStV7YUJ1c2SHKJcKDm5gR4-QsIUD40mH7jRpd9acxROgWezdYAhxi3gGuxPsRqtQ78-Pnc1hdqcGOnRrbM",
+   "link": "https://www.google.com/search?q=%22EzyDog+Drive+Booster+Seat%22+EzyDog+Australia",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 8,
+     "price_text": "$183.49",
+     "reviews": 42,
+     "rating": 4.4,
+     "bought": null
+    }
+   },
+   "n": 87,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_087.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Kohl's",
+   "title": "Dog Car Seat for Small Dogs Pet Booster Seat with Safety Leash, Adjustable Straps, & Storage Pocket, Green",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSgm92_raOF9JcI8USvk7ycR_1bZZ6nWrULxtQ5kskB9IkgJM8KZd0suDOEaFlWWw-kbThcRf-gnsIThzxZeC0mGF4J0znFWUKX5rhBa62W5pbrxavM-_3w",
+   "link": "https://www.google.com/search?q=%22Dog+Car+Seat+for+Small+Dogs+Pet+Booster+Seat+with+Safety+Leash%2C+Adjustable+Straps%2C+%26+Storage+Pocket%2C+Green%22+Kohl%27s",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 8,
+     "price_text": "$36.99",
+     "reviews": 58,
+     "rating": 3.5,
+     "bought": null
+    }
+   },
+   "n": 88,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_088.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "KONG Travel",
+   "title": "KONG Ultimate Safety Seat & Tether - Pet Car Seat - Seat Belt For Dogs - Dog Gear",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdyFBWhbez0SxCrnljwnEUxYQfP4ffBhNsaPf5SN2zChFQ7I6q43zlVvFTjpVTakNyGLaT_VWePpGZesYV0eaOHO7-ffEAvySxbHXlGe0mhsjSk0YM-hQW",
+   "link": "https://www.google.com/search?q=%22KONG+Ultimate+Safety+Seat+%26+Tether+-+Pet+Car+Seat+-+Seat+Belt+For+Dogs+-+Dog+Gear%22+KONG+Travel",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 8,
+     "price_text": "£65.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 89,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_089.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Jacko & Co",
+   "title": "JACKO & CO Premium Dog Car Seat Dogs",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRBck7kA8bOGNhTnYRvHBfZfQL7WQKVekr7gCVyFN_APTFmNVWztizDyL3jxRz00I4HjHqREQprvnEKseR4_0PXzV09pqWQA501juq6mls",
+   "link": "https://www.google.com/search?q=%22JACKO+%26+CO+Premium+Dog+Car+Seat+Dogs%22+Jacko+%26+Co",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 8,
+     "price_text": "$149.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 90,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_090.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "Looxmeer Autositz für Hunde",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHvuIBMTIqKM44S9IqRWxlrR9qyM423FXHhT_DNDLIgCWeN30UzljALxhwV70w0FcW7C4qITTS6JskC7ni7d_9sBbNSGBG-TXt6f5dBX4",
+   "link": "https://www.google.com/search?q=%22Looxmeer+Autositz+f%C3%BCr+Hunde%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 8,
+     "price_text": "35,99 €",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 91,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_091.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Groomica",
+   "title": "PetSafe Happy Ride Booster Seat",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSmJ_Gb7q0EeqsmqG-0tWWfKkp-Gpo_di0pGoiqO7H-IY__OMFYk7ej2TQPm2CHFQdHMRFPup4",
+   "link": "https://www.google.com/search?q=%22PetSafe+Happy+Ride+Booster+Seat%22+Groomica",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 8,
+     "price_text": "$116.00",
+     "reviews": 183,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 92,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_092.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Lila Co Aus",
+   "title": "Lila Co. Premium Dog Car Seat Australia",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyw61Akm16U7uE14W6TBxhu9QRSs7f0q_AGtOD8zGpAuxcydSaQmRFlrjJ5oixR6D97r5YzJlkWBamvdJamhF3_k21LouYPcx_0iQpMZc",
+   "link": "https://www.google.com/search?q=%22Lila+Co.+Premium+Dog+Car+Seat+Australia%22+Lila+Co+Aus",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 9,
+     "price_text": "$120.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    },
+    "nz": {
+     "rank": 11,
+     "price_text": "$149.48",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 93,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_093.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay - esnorashops",
+   "title": "K&h Dog Car Seat, Travel Safety Carrier For Pets, Medium, Gray/black |",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrJLRbuzznTPoOo3jOOguFv-sEbEq82aXTi5VDQd6mbLLPInj2y6ULTjbuCLI97Wtkcwa2NMrnSE0puHPTB0xg2rCw-98unqaXRVfyRDwX",
+   "link": "https://www.google.com/search?q=%22K%26h+Dog+Car+Seat%2C+Travel+Safety+Carrier+For+Pets%2C+Medium%2C+Gray%2Fblack+%7C%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 9,
+     "price_text": "$65.99",
+     "reviews": 399,
+     "rating": 3.0,
+     "bought": null
+    }
+   },
+   "n": 94,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_094.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Pet Valu",
+   "title": "Kurgo Rover Booster Seat",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQG_PsQJTbEu8tx6BXT0dTF6p2_d4kgPDV7kZBAPD67NaOGTHsIVY_wB79-MyLpNI_XGtflpa18p5auCj2y7NykIKKWB4yAyeNGgW5bF7Ve",
+   "link": "https://www.google.com/search?q=%22Kurgo+Rover+Booster+Seat%22+Pet+Valu",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 9,
+     "price_text": "$89.99",
+     "reviews": 197,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 95,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_095.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "KYG Autositz Hund Mittlere/Große Hunde bis zu 55 lb Wasserdichter Hundesitz Auto mit Zwei Kissen Waschbarer Hundekorb Auto Rücksitz",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS0PcHO5H3SYcS48QHG62I6ojX6NDct6IIWe9WoPL_8EPXGHAMNk510v1PJ4dh1cjK4CTvdxiFW25i2sevCRPdi5rxaPTcyqo_f4Pe9hKCOsALVCOOHADMK",
+   "link": "https://www.google.com/search?q=%22KYG+Autositz+Hund+Mittlere%2FGro%C3%9Fe+Hunde+bis+zu+55+lb+Wasserdichter+Hundesitz+Auto+mit+Zwei+Kissen+Waschbarer+Hu%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 9,
+     "price_text": "68,99 €",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 96,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_096.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Kiwi Canine",
+   "title": "Doog Car Seat",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmG4-Mmzqy8iBYAKfwHUulJaD0tysVyO8HLMuxwWgYBu9wz41XKSuwcvBf2Zo7GG94f9L0t6c",
+   "link": "https://www.google.com/search?q=%22Doog+Car+Seat%22+Kiwi+Canine",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 9,
+     "price_text": "$135.00",
+     "reviews": 60,
+     "rating": 4.7,
+     "bought": null
+    }
+   },
+   "n": 97,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_097.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "FunnyFuzzy",
+   "title": "Urban Voyager ISOFIX Dog Car Seat",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTL3il_bgINsFok8FA9Nht4pg311ULXLhPh3HEF8UqGPj4Uvg36KAbpCZtz5mo5Cvezke4X7pbAXxKEt-N4eNjhkZFL61cLY-67DV6valTiCtBtsXyk-bipPg",
+   "link": "https://www.google.com/search?q=%22Urban+Voyager+ISOFIX+Dog+Car+Seat%22+FunnyFuzzy",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 10,
+     "price_text": "$159.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 98,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_098.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Big Frenchies",
+   "title": "Snoozer Lookout I Car Seat - Dog Car Seats for Small Dogs, Puppy Booster Bed for Small & Medium Sized Pets Up to 25 Lbs, Elevated, Washable - Medium,",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHyLz3vJkW9s5tOmIubfUT5b-zZEM3iAc2KUYmq-urPwRwEpOh05ear0e2l1aH7toZAo_5ClH_FhtniB9DBZdPlUYgfuL3wZN5680z9_0",
+   "link": "https://www.google.com/search?q=%22Snoozer+Lookout+I+Car+Seat+-+Dog+Car+Seats+for+Small+Dogs%2C+Puppy+Booster+Bed+for+Small+%26+Medium+Sized+Pets+Up+%22+Big+Frenchies",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 10,
+     "price_text": "$329.89",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 99,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_099.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay - kudas2495770",
+   "title": "Heggcooe Small Dog Car Seat, Memory Foam Dog Booster Seats With Thick",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSE9GPR5iraPYVG30dI7eFFxXxMvZQLzs0aDLk5CmxeqeIV5BDfhU88qkTd7OwwX4I0yl0XQkZjXN8n8Truyr575oGRE0cJXJMj7R0rnMwQ",
+   "link": "https://www.google.com/search?q=%22Heggcooe+Small+Dog+Car+Seat%2C+Memory+Foam+Dog+Booster+Seats+With+Thick%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 10,
+     "price_text": "£93.26",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 100,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_100.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon CA",
+   "title": "EzyDog Click ISOFIX Cargo Dog Seat Belt Car Restraint",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJKphcxkMgAe9mI1VuupT6dnChde5zUyNXnDyZ0Q-rx6ZJFVCpoKAG81TkLCaSaIy3G_dapg-DI3P1zs0iE0xVcZKzkCLp6-cwzR4Xxi4RuxYIUw9woQFt",
+   "link": "https://www.google.com/search?q=%22EzyDog+Click+ISOFIX+Cargo+Dog+Seat+Belt+Car+Restraint%22+Amazon+CA",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 10,
+     "price_text": "$33.75",
+     "reviews": 5,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 101,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_101.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "PETSFIT Hundesitz für Auto bis 15 kg – 13cm Memory Foam Booster für kleine & mittelgroße Hunde, Sicherheitsgurt-System, Abnehmbarer & waschbarer Bezug",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSaAZtOMl29maDRov-5pgBwYM97FDLCQg9bRsFdFx1-WmTbp3vbjWA6BACgOBlj_4VuZCfoqiSW-LUkrZGBbiHvJ9_6C1N7PKWNWdtXiB4",
+   "link": "https://www.google.com/search?q=%22PETSFIT+Hundesitz+f%C3%BCr+Auto+bis+15+kg+%E2%80%93+13cm+Memory+Foam+Booster+f%C3%BCr+kleine+%26+mittelgro%C3%9Fe+Hunde%2C+Sicherheitsgur%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 10,
+     "price_text": "69,99 €",
+     "reviews": 109,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 102,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_102.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Ginger and Bear",
+   "title": "Tavo Maeve ISO Wind Sakura: Crash-Tested Pet Car Seat | Baseless ISOFIX",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1PsPmWryeWYSK-12kUAkdrR9C_Rz47fD4IuWkZwtdLpInAkzfmIA-1J-l-8oPkXQtHxpC7mA",
+   "link": "https://www.google.com/search?q=%22Tavo+Maeve+ISO+Wind+Sakura%3A+Crash-Tested+Pet+Car+Seat+%7C+Baseless+ISOFIX%22+Ginger+and+Bear",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 10,
+     "price_text": "$995.00",
+     "reviews": 27,
+     "rating": 4.6,
+     "bought": null
+    }
+   },
+   "n": 103,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_103.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Big Frenchies",
+   "title": "Snoozer Lookout Car Seat",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROMbQz4ll4q0cUa6oVVRQG-YL7ckf0x1Ug9STvSbuVTN-FJRCBXriGROoyLBm6IBrB92grnNuV86TTDRKmgeXA9ziSb09rCaT84fFLZB3L33wNElr3TAWFMw",
+   "link": "https://www.google.com/search?q=%22Snoozer+Lookout+Car+Seat%22+Big+Frenchies",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 11,
+     "price_text": "$196.04",
+     "reviews": 1200,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 104,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_104.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+   "title": "YJTJP Dog Car Seat Waterproof Faux Leather 3-in-1 Travel Dog Bed for Medium Small Dogs",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFkyjlHuZ4kQZvPaT_2fItdfBSjkn9TZECCstinl4pNoPXtBIgrO1clG2EIiiM3SX-NFkPio3QLNc4cCx90dzl6FL42KWSn1kmpSjOM95K",
+   "link": "https://www.google.com/search?q=%22YJTJP+Dog+Car+Seat+Waterproof+Faux+Leather+3-in-1+Travel+Dog+Bed+for+Medium+Small+Dogs%22+Amazon.co.uk",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 11,
+     "price_text": "£51.79",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 105,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_105.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Gallery Canada",
+   "title": "Dog Car Seat Foam Dog Booster Seat for Medium and Large Dogs丨costway",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJ7HCJnDMGPAoHGJOTgk3Fey510EAionQkXT_ymCa7nx928vllUkV_AJRc2RS183n5w_vCmqwZ_81051hffQcqX1tc8PoTI_MH04f-zyu2X3J9OLaCLVpS",
+   "link": "https://www.google.com/search?q=%22Dog+Car+Seat+Foam+Dog+Booster+Seat+for+Medium+and+Large+Dogs%E4%B8%A8costway%22+Gallery+Canada",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 11,
+     "price_text": "$74.09",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 106,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_106.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "GL GLENSLAVE Hunde Autositze für mittlere/große, Hundesitz für Hunde unter 22Kgs oder 2 kleine, Abnehmbarer und waschbarer Autositz für Haustiere,",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHFWsQPIq-7B77-M4Fvpdy-x26EXEymo5kFooIMzNwPr2yVzmDiGqOSGBnRn1FRLOP9yMo6YbgGktV65hudWNQUdrBmkE0xr_z6mItyX5-Y2tzqsu5frLP",
+   "link": "https://www.google.com/search?q=%22GL+GLENSLAVE+Hunde+Autositze+f%C3%BCr+mittlere%2Fgro%C3%9Fe%2C+Hundesitz+f%C3%BCr+Hunde+unter+22Kgs+oder+2+kleine%2C+Abnehmbarer+un%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 11,
+     "price_text": "79,48 €",
+     "reviews": 1,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 107,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_107.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Kmart",
+   "title": "Anko Dog Car Booster Seat",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIxn9QLoktZPeHR_IfiTqwJvB98TxZLyWcHeUai8eVtsBNS-85tv2ZbTSCJmJlOeuyx10wf_Q2Rk-3-Jcdqzr8S_Y2qU5zZvn5lWQ28hR1kPsMpbzxGnY4",
+   "link": "https://www.google.com/search?q=%22Anko+Dog+Car+Booster+Seat%22+Kmart",
+   "asin": null,
+   "seen_in": {
+    "au": {
+     "rank": 12,
+     "price_text": "$20.00",
+     "reviews": 1,
+     "rating": 3.0,
+     "bought": null
+    }
+   },
+   "n": 108,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_108.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay - hilenka",
+   "title": "HDP Car Deluxe Lookout Booster Car Seat",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXNBTvDumZwpFp_EcsmUVCT5Zea6boMtUyp28iXE5pohTJpwGeAjyApX-_ARiLEn3RjCzHj5CXdDbb1dEnpxCD4yyC0umc5U7jMj_QOic",
+   "link": "https://www.google.com/search?q=%22HDP+Car+Deluxe+Lookout+Booster+Car+Seat%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "us": {
+     "rank": 12,
+     "price_text": "$35.99",
+     "reviews": 443,
+     "rating": 3.2,
+     "bought": null
+    }
+   },
+   "n": 109,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_109.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "eBay - sirendipity2009",
+   "title": "Heggcooe Small Dog Car Seat Memory Foam Dog Booster Travel Seatbelt",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkvOOp2ZhV31gMpePSEMHz9SYktlLj8EOXboIAd8nWm9zzcjpEjm3_QEl_DPAtJvLyZUwaXrY5raKed7HXDivDTdR8JxDEpTQFVG0CyYw",
+   "link": "https://www.google.com/search?q=%22Heggcooe+Small+Dog+Car+Seat+Memory+Foam+Dog+Booster+Travel+Seatbelt%22+eBay",
+   "asin": null,
+   "seen_in": {
+    "uk": {
+     "rank": 12,
+     "price_text": "£52.70",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 110,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_110.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "FunnyFuzzy",
+   "title": "Travel Bolster Full Durable Washable Dog Car Back Seat Bed",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQkxvSVxhu1fdHNfhgo3Sytj81ehDpZS5OwODO29punjAY7c9jiTy8rgduRiCLjdJiAcGYVUZlB1RRuE-aG_Q--HXhcuuGKcpP70QjV--F-Xk5U4Kc8RNiK",
+   "link": "https://www.google.com/search?q=%22Travel+Bolster+Full+Durable+Washable+Dog+Car+Back+Seat+Bed%22+FunnyFuzzy",
+   "asin": null,
+   "seen_in": {
+    "ca": {
+     "rank": 12,
+     "price_text": "$89.99",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 111,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_111.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "Amazon.de - Amazon.de-Seller",
+   "title": "GL GLENSLAVE Hunde Autositz für mittlere/große, Hundesitz für Hunde unter 22Kg oder 2 kleine Hunde, Abnehmbarer und waschbarer Autositz für Haustiere,",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpltnASjWWEpStpGuvD9TnB2WplE6mkobn2ekkTNTSAAUXteLqYKqcGqxXvykwbjv2zRwn5zEnc5ag5Dp-yaZpcyXpA34NNyw4tgGJZ7afcR639ZzK-sEfHw",
+   "link": "https://www.google.com/search?q=%22GL+GLENSLAVE+Hunde+Autositz+f%C3%BCr+mittlere%2Fgro%C3%9Fe%2C+Hundesitz+f%C3%BCr+Hunde+unter+22Kg+oder+2+kleine+Hunde%2C+Abnehmbare%22+Amazon.de",
+   "asin": null,
+   "seen_in": {
+    "de": {
+     "rank": 12,
+     "price_text": "64,49 €",
+     "reviews": 62,
+     "rating": 5.0,
+     "bought": null
+    }
+   },
+   "n": 112,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_112.jpg"
+  },
+  {
+   "where": "Google Shopping",
+   "source": "kavriona.com",
+   "title": "Kavriona ISOFIX Dog Seat Belt Heavy Duty Anti-Shock Bungee",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSuS5Ct293HgXJLjgKZPUcBYBBV8y9FSCn_0-YJvnR2lgqlm8jgGpHJ8EVR2D-PgqmyCdB0IMg",
+   "link": "https://www.google.com/search?q=%22Kavriona+ISOFIX+Dog+Seat+Belt+Heavy+Duty+Anti-Shock+Bungee%22+kavriona.com",
+   "asin": null,
+   "seen_in": {
+    "nz": {
+     "rank": 12,
+     "price_text": "$18.00",
+     "reviews": null,
+     "rating": null,
+     "bought": null
+    }
+   },
+   "n": 113,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/doggo-dock_vis_thumb_113.jpg"
+  }
+ ]
+}

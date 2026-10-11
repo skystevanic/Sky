@@ -1,1 +1,30 @@
-{}
+{
+ "amazon.com.au/B0H831GNJR": {
+  "price_text": "$24.99",
+  "reviews": 1270,
+  "rating": 4.6,
+  "bought": null,
+  "title": "Dog Paw Cleaner Foam 200ml, No-Rinse with Silicone Brush & Towel"
+ },
+ "amazon.com/B09NPQYXSY": {
+  "price_text": "$13.95",
+  "reviews": 1131,
+  "rating": 4.5,
+  "bought": "400+ bought in past month",
+  "title": "Gentle Creatures Magic Foam Dog Paw Cleaner with Scrubber Brush, No Rinse"
+ },
+ "amazon.co.uk/B0H6KCBS4D": {
+  "price_text": "EUR17.72",
+  "reviews": 2,
+  "rating": 4.5,
+  "bought": null,
+  "title": "Waterless Foam Paw Cleaner for Dogs & Cats, 150ml No Rinse Paw Wash with Built-In Silicone"
+ },
+ "amazon.com/B0CGT6DG1B": {
+  "price_text": "$12.99",
+  "reviews": 1896,
+  "rating": 4.4,
+  "bought": "900+ bought in past month",
+  "title": "Dog Paw Cleaner for Dogs & Cats, No-Rinse Foam Cleanser with Brush"
+ }
+}
