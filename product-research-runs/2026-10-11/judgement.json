@@ -18,8 +18,97 @@
    "Lash adhesive is a cosmetic used near the eye: selling in the EU or UK needs a safety assessment and product registration"
   ]
  },
- "headline": "Neither product is ready to test. The tennis swing trainer is the closer call: huge margin and only one advertiser, but cheap copies already sit in Amazon's top results everywhere.",
+ "headline": "No product is ready to test today. The under-eye CC cream has the strongest proof: one Italian shop has advertised it alone for over six months. But it copies Tarte's best-seller and needs EU cosmetics paperwork first.",
  "products": [
+  {
+   "slug": "cc-cream",
+   "name": "Under-Eye CC Cream Compact (DermoCosmetic)",
+   "brand": "DermoCosmetic",
+   "url": "https://dermocosmetic.it/products/correttore-occhiaie-cc-cream",
+   "category": "Makeup: under-eye concealer",
+   "price": "€24.99 (shown as reduced from €39)",
+   "ad_days": "Oldest live ad 2026-03-30",
+   "store_platform": "Shopify",
+   "store_launched": "2026-03",
+   "store_products": "2 products: this compact and a brush",
+   "one_liner": "One Italian shop has advertised this alone for six months, which is strong proof. But it copies Tarte's best-seller, which Sephora and Ulta sell, and look-alikes cost £6 on Amazon UK.",
+   "verdict": "Backlog",
+   "overall": 63,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 7,
+    "margin": 8,
+    "viral": 8,
+    "pain": 7,
+    "differentiation": 3
+   },
+   "why": [
+    "DermoCosmetic runs all 61 Italian ads for \"correttore occhiaie\" and its oldest has run since 30 March",
+    "It is a look-alike of Tarte's Colored Clay CC Undereye Corrector, sold by Sephora, Ulta, Kohl's and Macy's at US$32",
+    "Look-alikes are easy to find: £5.99 on Amazon UK and on Temu in Australia"
+   ],
+   "risk": "Copying a famous brand's look invites ad takedowns, and EU cosmetics need a safety report and registration before the first sale.",
+   "next": [
+    "Get a quote for an EU cosmetic safety report and registration from a Responsible Person service",
+    "If it is affordable, test a market DermoCosmetic is not in (Spain or Portugal) with your own branding"
+   ],
+   "best_region": "None of the six. The proof is in Italy, which these checks do not cover; Spain or Portugal would copy that playbook.",
+   "snapshot": {
+    "icp": "Women 35-60 with dark circles or mature under-eye skin who want quick coverage",
+    "job": "Hide dark circles in 30 seconds without creasing",
+    "cogs": "About €2-4 landed for a generic compact (estimate: look-alikes retail at £6)",
+    "margin": "About 85% at €24.99 (estimate)",
+    "claims": "High coverage, does not crease after 8 hours, 3 shades, built-in mirror",
+    "demoable": "Yes: before and after under one eye is instant and visual"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Ulta, Sephora and Kohl's sell Tarte's original in the US; Walmart Canada lists a look-alike at CA$18"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "Look-alikes from £5.99 on Amazon UK and on Temu; Italy and Spain were not checked"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand owns the Italian ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A cosmetic: the EU needs a Responsible Person, a safety report and registration before selling"
+    }
+   ],
+   "angles": [
+    "Spanish or Portuguese version of the same before-and-after ads",
+    "Men's under-eye concealer: tired eyes after work",
+    "New mums: hide sleepless nights in 30 seconds",
+    "Glasses wearers: coverage that does not crease under frames",
+    "TAKEN: \"Does not crease, even after 8 hours\" for mature skin (DermoCosmetic's main message)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 0,
+    "match_name": "Tarte at Sephora (US$32)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same rose-gold square compact with a mirror: Tarte's original, and many look-alikes."
+   },
+   "advertiser_takeaway": "In Italy DermoCosmetic is alone: all 61 ads for \"correttore occhiaie\" are theirs, the oldest from 30 March, and 23 started this month. Six months of spend means it pays. The ads are Italian, so this proves Italy, not the six countries on the map.",
+   "category_notes": {
+    "us": "Sephora and Ulta sell many CC creams; the exact compact is Tarte's original.",
+    "de": "dm and Douglas sell other CC creams (tubes and sticks), not this compact. The photo search returned no results in Germany."
+   }
+  },
   {
    "slug": "swingpro",
    "name": "Magnetic Tennis Swing Trainer (SwngPro)",

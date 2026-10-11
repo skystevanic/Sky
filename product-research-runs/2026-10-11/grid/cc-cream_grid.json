@@ -1,0 +1,1043 @@
+{
+  "slug": "cc-cream",
+  "query": "cc cream concealer",
+  "mode": "full",
+  "brand_price": 24.99,
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "currency": "A$",
+      "status": "blocked",
+      "why": "Priceline sells it at $22.00",
+      "results": 40,
+      "distinct_sellers": 25,
+      "chains_present": [
+        "BIG W",
+        "Priceline"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "eBay",
+        "eBay - mzygt-h7",
+        "eBay - warmever",
+        "eBay - xpress_online_store"
+      ],
+      "cheapest": 12.06,
+      "typical": 24.29,
+      "most_reviewed": {
+        "seller": "Colorcity Cosmetics",
+        "title": "Missha M Perfect Cover BB Cream",
+        "reviews": 70000,
+        "price_text": "$14.99"
+      },
+      "top_rows": [
+        {
+          "seller": "Colorcity Cosmetics",
+          "title": "Missha M Perfect Cover BB Cream",
+          "price_text": "$14.99",
+          "price": 14.99,
+          "rating": 3.4,
+          "reviews": 70000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:2026358669422395643,productid:14114699087917030067,headlineOfferDocid:3975833144775091504,imageDocid:7794433723305253851,rds:PC_5618244448414055779|PROD_PC_5618244448414055779,gpcid:5618244448414055779,mid:576462669602870189,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQI5sjxqXT_QEg00jeiZ7WaqtzbHRTQgMsyR_BCVNZZ5L_aNtoOh4k4ubOYbOMf7HnU0Ib-lgG-sW_FwI3mDpownPdzROj3KYrgcRjAdVS2G9Cv44G7biHV"
+        },
+        {
+          "seller": "?",
+          "title": "Lumene CC Color Correcting Cream SPF20 30ml - Light",
+          "price_text": "GBP 15+",
+          "price": 15.0,
+          "rating": 3.6,
+          "reviews": 7100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": null,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR-2MFKXhzoGijJj0VW7cTTRqbrxQrmxolSKESB14OkLR7tkEFTjeP-KBZgQgURl55Oi2qLLzfmpNvpmWOxSkoUcA5YnBcyACLI5Rw0KnRM0prgkdmN-dyuFw"
+        },
+        {
+          "seller": "Kanvas Beauty",
+          "title": "Purito - Cica Clearing BB Cream SPF 38 PA+++ - 30ml (7 Colors), 15 Rose Ivory",
+          "price_text": "$16.80",
+          "price": 16.8,
+          "rating": 3.4,
+          "reviews": 2000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:10551588004137725757,headlineOfferDocid:10551588004137725757,imageDocid:179880472929953694,rds:PC_13890211802568228179|PROD_PC_13890211802568228179,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtGuDj6f73gnP59ZZUG67CKq5ca-c6VYOk7fx56_eOTOLKWr13ko1YGQZziXKgMPO7tT4FvcPI9G67v_5ZVA19kd4rN9mJogiJco5S6bOLeYTlU5TsLMLV"
+        },
+        {
+          "seller": "Kanvas Beauty",
+          "title": "Purito - Cica Clearing BB Cream SPF 38 PA+++ - 30ml (7 Colors) 31 Deep Warm",
+          "price_text": "$16.80",
+          "price": 16.8,
+          "rating": 4.4,
+          "reviews": 2000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:7209181739175673870,headlineOfferDocid:7209181739175673870,imageDocid:14578392587143492784,rds:PC_13890211802568228179|PROD_PC_13890211802568228179,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBfP4yb3PxdEq9EG6R2tNtIZ8AHDsMDc8NjDh5xE36-jHYMzwV9wQ3kSq7EnvDpFbTBXRDIaRXaSEXllwPVT4F1JhqaqE3GCc4E1J3C-gB4Noi5HzLhZfE"
+        },
+        {
+          "seller": "Kanvas Beauty",
+          "title": "Purito - Cica Clearing BB Cream SPF 38 PA+++ - 30ml (7 Colors) 15 Rose Ivory",
+          "price_text": "$16.80",
+          "price": 16.8,
+          "rating": 5.0,
+          "reviews": 1900,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:13466308275300417060,headlineOfferDocid:13466308275300417060,imageDocid:179880472929953694,rds:PC_13890211802568228179|PROD_PC_13890211802568228179,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtGuDj6f73gnP59ZZUG67CKq5ca-c6VYOk7fx56_eOTOLKWr13ko1YGQZziXKgMPO7tT4FvcPI9G67v_5ZVA19kd4rN9mJogiJco5S6bOLeYTlU5TsLMLV"
+        },
+        {
+          "seller": "Kanvas Beauty",
+          "title": "Purito - Cica Clearing BB Cream SPF 38 PA+++ - 30ml (7 Colors), 31 Deep Warm",
+          "price_text": "$16.80",
+          "price": 16.8,
+          "rating": 4.1,
+          "reviews": 1900,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:11281241623888522693,headlineOfferDocid:11281241623888522693,imageDocid:14578392587143492784,rds:PC_13890211802568228179|PROD_PC_13890211802568228179,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBfP4yb3PxdEq9EG6R2tNtIZ8AHDsMDc8NjDh5xE36-jHYMzwV9wQ3kSq7EnvDpFbTBXRDIaRXaSEXllwPVT4F1JhqaqE3GCc4E1J3C-gB4Noi5HzLhZfE"
+        },
+        {
+          "seller": "eBay",
+          "title": "Jane Iredale Bb Cream Spf 25 1.35 Fl Oz Broad Spectrum But No Cap",
+          "price_text": "$24.26",
+          "price": 24.26,
+          "rating": 1.2,
+          "reviews": 1500,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:16076616345597296803,headlineOfferDocid:16076616345597296803,imageDocid:17929602874824624302,rds:PC_8709603105942232914|PROD_PC_8709603105942232914,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxHXN2au7aLhwlwlYLM5yD7rvHaEaX-nFIX1OizGdvK5fQh8LGr7Cxnf2fob2WoEdCGRi12TCVUGupidgIiCM9bXZNCpe8Nh-oHhSyj4kUTA9-FSXcAk9PaA"
+        },
+        {
+          "seller": "eBay - xpress_online_store",
+          "title": "Lakme 9 to 5 Complexion Care Cream",
+          "price_text": "$19.58",
+          "price": 19.58,
+          "rating": 5.0,
+          "reviews": 1200,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:8888644546197061861,productid:14116839548583027851,headlineOfferDocid:1210406720330616503,imageDocid:9775564281545074872,rds:PC_13104535500505134070|PROD_PC_13104535500505134070,gpcid:13104535500505134070,mid:576462563897207688,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQek1lff7MfX4tl76GQZeXoF83XYNnAHnTLn9mzSrD4TyHFBS3SrFeHF0-lSodjZSWMhjSTYJ22zGix7-9qypPRk6mN5YmhSdPrp4RqJyIkwQRNMxUS0u0NlQ"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "BIG W",
+          "title": "Napoleon Perdis The One Concealer",
+          "price_text": "$46.00",
+          "price": 46.0,
+          "rating": 5.0,
+          "reviews": 167,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:2746658686782604184,productid:2848442625247898589,headlineOfferDocid:3355894946070526459,imageDocid:8915079375803632216,rds:PC_7693441522339807103|PROD_PC_7693441522339807103,gpcid:7693441522339807103,mid:576462326713989788,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTbdqSVEIe_DTQcwU-VCkaBoohkQhY6EdXFqQ7r9iL2v7DaHf6FgJYvqzGzPudpveyS9pnoFDnSO_kHPveWhABjchuNMSjkXTPWhj9-whNXIhG4FBriyBxS0w"
+        },
+        {
+          "seller": "Priceline",
+          "title": "Revolution Pro CC Perfecting Skin Tint",
+          "price_text": "$22.00",
+          "price": 22.0,
+          "rating": 2.6,
+          "reviews": 620,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:13043464353194176745,productid:8973246133070638481,headlineOfferDocid:14483193515061945899,imageDocid:8824977053532131491,rds:PC_14930095976300358848|PROD_PC_14930095976300358848,gpcid:14930095976300358848,mid:576462610073006865,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcReKijKebwhSvMFXDQ86JdtlUci55YvhcZRjcp_PpbzlssRX5IkLlb0orhINlIoe0QZgWtQTZAPA9cYQU7dHADlCTf_4FCKjIrgapcam1XUiId8rXpVKfNX"
+        },
+        {
+          "seller": "Priceline",
+          "title": "Revolution Pro CC Perfecting Glow Enhancer",
+          "price_text": "$20.00",
+          "price": 20.0,
+          "rating": 2.8,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:15955125784703863386,productid:5161477966480356542,headlineOfferDocid:13763124440684022569,imageDocid:12094434547987726883,rds:PC_1560413165988261492|PROD_PC_1560413165988261492,gpcid:1560413165988261492,mid:576462563308419073,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqx5Drs5skCp-A9WFJ7TcGz6yrTGl07S8Z9HEuPjKg9XROZLUbG6__gYcC_nNmx4uchA6_TMBEsV8NQGTx--vlVMWyeKIFJd8sfKWXb2NZHYBTyc2z9fVhRQ"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "currency": "US$",
+      "status": "blocked",
+      "why": "Sephora sells it at $19.00",
+      "results": 40,
+      "distinct_sellers": 19,
+      "chains_present": [
+        "CVS Pharmacy",
+        "Kohl's",
+        "Macy's",
+        "Nordstrom",
+        "Sephora",
+        "Target",
+        "Ulta Beauty",
+        "Walmart"
+      ],
+      "marketplaces_present": [
+        "eBay"
+      ],
+      "cheapest": 11.91,
+      "typical": 24.0,
+      "most_reviewed": {
+        "seller": "Ulta Beauty",
+        "title": "It Cosmetics CC+ Cream with SPF 50+",
+        "reviews": 75000,
+        "price_text": "$19.00"
+      },
+      "top_rows": [
+        {
+          "seller": "Ulta Beauty",
+          "title": "It Cosmetics CC+ Cream with SPF 50+",
+          "price_text": "$19.00",
+          "price": 19.0,
+          "rating": 4.3,
+          "reviews": 75000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:9711012323812059322,productid:7551261056615987183,headlineOfferDocid:13620810028645397525,imageDocid:3461510185549148459,rds:PC_6103478585744067530|PROD_PC_6103478585744067530,gpcid:6103478585744067530,mid:576462224855696289,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQbMN_PBlZZzfbVsHyceryHzjjypwvS80lUS3MstwK3F_0tdsHtWSPvYA315lTU8GBwjDylRjXX2b_2xsnRyjwTWxbxaB9jQl15PoOvXjBuImJsWPzcQqsSug"
+        },
+        {
+          "seller": "Kohl's",
+          "title": "IT Cosmetics CC+ Cream Full Coverage Color Correcting Foundation with SPF 50+, Size: 1.08 ",
+          "price_text": "$39.00",
+          "price": 39.0,
+          "rating": 4.3,
+          "reviews": 75000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:169051300863257381,headlineOfferDocid:169051300863257381,imageDocid:1581792880348494864,rds:PC_6103478585744067530|PROD_PC_6103478585744067530,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRW82j6awbOOVKcGFPdm7dPgO4HuUeztKGH_n2GMoPizKrtydVXNjzk260AEIshi2ccFdUbvIPjK6xrROfWe1Y_F0G1oMv3PWJxKpt64kn0E5MPo5hr-gBV"
+        },
+        {
+          "seller": "Sephora",
+          "title": "It Cosmetics Your Skin But Better Cc+ Cream SPF 50+",
+          "price_text": "$19.00",
+          "price": 19.0,
+          "rating": 4.4,
+          "reviews": 50000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:9963114065723788438,productid:7699104575990673301,headlineOfferDocid:16670423093769184337,imageDocid:11030542077717118332,rds:PC_6272351542904129999|PROD_PC_6272351542904129999,gpcid:10312742487481636664,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTw_9QpIFtW-jEQ8TqPMuLygxC9NF1DauseLl6UjYLn3A7VsPZZHECOp290BApuKHhyZ0wf-seZmMYDJKQUX23-vi7FHDfBnqvef77sesDLfyRD2de_ogNh1Q"
+        },
+        {
+          "seller": "Sephora",
+          "title": "It Cosmetics Makeup It Cosmetics Cc+ Cream Light Medium 12ml Travel Size Spf 50",
+          "price_text": "$19.00",
+          "price": 19.0,
+          "rating": 4.3,
+          "reviews": 17000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:16619834318941071742,productid:13907760810683184737,headlineOfferDocid:1071606195260442846,imageDocid:5291949626987546590,rds:PC_13033433747704959482|PROD_PC_13033433747704959482,gpcid:13033433747704959482,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWGXxLhwZ9O3iNEiHFKL1x3-441CdRnGQ15tf7l2dghrm-95ySc52y-EG6jDPgK_qsaCP2Lw4fFJGJyL6Z0QOu9nB5ZwrtpaXnWn9oswILlKL3GSJ6SzmP"
+        },
+        {
+          "seller": "IT Cosmetics US",
+          "title": "It Cosmetics CC+ Cream Illumination SPF 50+",
+          "price_text": "$39.00",
+          "price": 39.0,
+          "rating": 4.3,
+          "reviews": 15000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:6444969733412603695,productid:2545379980826824648,headlineOfferDocid:18426080753865174580,imageDocid:3092174796284617771,rds:PC_13140199797694645964|PROD_PC_13140199797694645964,gpcid:13140199797694645964,mid:576462510612018241,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ65XQfzSywi7Z9frhw0CvZa_sDj1shLRPbNIuH0a1y8fUhtNqScPSiP-Pd4CB37v56VKoAnPNM1_Kp5JsWlaCPN5gU-GSK4BZ25sLMLrciEa-kH_XHzQxW"
+        },
+        {
+          "seller": "Ulta Beauty",
+          "title": "IT Cosmetics CC+ Cream Illumination with SPF 50+",
+          "price_text": "$39.00",
+          "price": 39.0,
+          "rating": 4.3,
+          "reviews": 10000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:6028973506276257465,productid:12339594467791567873,headlineOfferDocid:11384733368516136143,imageDocid:15500325865146321681,rds:PC_11378938394569983675|PROD_PC_11378938394569983675,gpcid:11378938394569983675,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSom-bnu0pD0Z8cFPEi3FkKuv9Q7zHXWA5liSx76a7hHR4PJr1exn7v9VBM0J1u0H2utSh85MV8O1IvvH8ViaassPRC8GijZ5x888IExVvMQSZ7kenH_ivWsQ"
+        },
+        {
+          "seller": "Sephora",
+          "title": "Erborian CC Red Correct",
+          "price_text": "$26.00",
+          "price": 26.0,
+          "rating": 4.6,
+          "reviews": 7900,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:2174213690544869703,productid:5093221514277096994,headlineOfferDocid:8070681322833555125,imageDocid:7036317176041481507,rds:PC_14046953157095120942|PROD_PC_14046953157095120942,gpcid:14046953157095120942,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSl6RTN3e6trux8KiqoQxwxO02l-ES33gbi3UYDmvbC0Hb17-eWFhAmA5NpcAbhw26RuelmzshqEeb8RKSdJFYtavejYtCP8rPJiZx1EAsj17sDcY9Q5AI4"
+        },
+        {
+          "seller": "Nordstrom",
+          "title": "Clinique Moisture Surge CC Cream Hydrating Colour Corrector SPF 30",
+          "price_text": "$45.00",
+          "price": 45.0,
+          "rating": 4.3,
+          "reviews": 7400,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:13778879311606663147,productid:12356108209804805887,headlineOfferDocid:13628395251572123770,imageDocid:195257908223771935,rds:PC_5741241243189768015|PROD_PC_5741241243189768015,gpcid:7118441819274778104,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRn5HWqvq0y05dGOiWkwt61P1EZKT7eTDuDrT1-vWSGb1DqBzNKKPKfTOwfw-67upMOyVNKjjCI0UYuUcjREvBKLrusanjjeJpipiHNeTg_"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Sephora",
+          "title": "It Cosmetics Your Skin But Better Cc+ Cream SPF 50+",
+          "price_text": "$19.00",
+          "price": 19.0,
+          "rating": 4.4,
+          "reviews": 50000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:9963114065723788438,productid:7699104575990673301,headlineOfferDocid:16670423093769184337,imageDocid:11030542077717118332,rds:PC_6272351542904129999|PROD_PC_6272351542904129999,gpcid:10312742487481636664,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTw_9QpIFtW-jEQ8TqPMuLygxC9NF1DauseLl6UjYLn3A7VsPZZHECOp290BApuKHhyZ0wf-seZmMYDJKQUX23-vi7FHDfBnqvef77sesDLfyRD2de_ogNh1Q"
+        },
+        {
+          "seller": "Ulta Beauty",
+          "title": "Erborian CC Cream",
+          "price_text": "$46.00",
+          "price": 46.0,
+          "rating": 4.8,
+          "reviews": 698,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:7899364946027328878,productid:10905144921161243275,headlineOfferDocid:9238354855837282977,imageDocid:11045290010825360329,rds:PC_15146308112482574954|PROD_PC_15146308112482574954,gpcid:3297383417210713928,mid:576462839475698726,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLn95R8fyL3sAYplNwPTAiGOCDciYt4lCzbPx7Kj9G7d0LW0cpa7LcG2HyB5bGvHs7P4rsdTbaBHNZxu1QRhTFcqd0tM8c_Zj7tGv_1IP9LN32NloeNrrj"
+        },
+        {
+          "seller": "Walmart",
+          "title": "e.l.f Camo CC Cream",
+          "price_text": "$16.00",
+          "price": 16.0,
+          "rating": 3.9,
+          "reviews": 4300,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:15501325208157122323,productid:14180004469989049342,headlineOfferDocid:3108418352355587476,imageDocid:7453442226739699459,rds:PC_3175666708440139322|PROD_PC_3175666708440139322,gpcid:3175666708440139322,mid:576462631102925489,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9omj9aKUTRG0tUhSCMqRZCeajNutq8bVTY9PGDee7AuJMQs9UWH8WOqJD0Sle2eCq79guhginibk-IrMzztPDql7eXMOhK-CFAHnpu_KFKQUxQHrNeHre"
+        },
+        {
+          "seller": "Kohl's",
+          "title": "Tarte Colored Clay CC Undereye Corrector",
+          "price_text": "$32.00",
+          "price": 32.0,
+          "rating": 4.2,
+          "reviews": 3300,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:14378521170491546094,productid:1720682197011473854,headlineOfferDocid:4136010098562584185,imageDocid:812975092703066323,rds:PC_7441900342736502906|PROD_PC_7441900342736502906,gpcid:7441900342736502906,mid:576462249607508345,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfcq7-e8JC8z-wSrlCk0-R0WgzT7pXz_3-0XCCxy9x3CNj11AC4fOMEolMuHGjLw5FCGUl3u1AI0Hru2B7NDFblAFSixJdlf5n0OIW_yf1AsiBFAE-ZShg"
+        },
+        {
+          "seller": "Ulta Beauty",
+          "title": "tarte CC Color-Correcting Tinted Serum",
+          "price_text": "$42.00",
+          "price": 42.0,
+          "rating": 4.2,
+          "reviews": 402,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:16534375143135875290,productid:13690789135250188316,headlineOfferDocid:15819811645674046002,imageDocid:12238629303902065545,rds:PC_15478343829529616703|PROD_PC_15478343829529616703,gpcid:15478343829529616703,mid:576462562944055714,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHs_81Xo_7Z0u3ri5QrpaoppA3svlBEw-3BWoxgJr_-hbBRrxc6seEk0G-LifH4S5hoBOtYabIMQmWsACXAMlpOV-LlF0lYbZuJqSnWrHDuok5T-zOr7bi3g"
+        },
+        {
+          "seller": "Sephora",
+          "title": "It Cosmetics Makeup It Cosmetics Cc+ Cream Light Medium 12ml Travel Size Spf 50",
+          "price_text": "$19.00",
+          "price": 19.0,
+          "rating": 4.3,
+          "reviews": 17000,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:16619834318941071742,productid:13907760810683184737,headlineOfferDocid:1071606195260442846,imageDocid:5291949626987546590,rds:PC_13033433747704959482|PROD_PC_13033433747704959482,gpcid:13033433747704959482,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWGXxLhwZ9O3iNEiHFKL1x3-441CdRnGQ15tf7l2dghrm-95ySc52y-EG6jDPgK_qsaCP2Lw4fFJGJyL6Z0QOu9nB5ZwrtpaXnWn9oswILlKL3GSJ6SzmP"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "currency": "£",
+      "status": "crowded",
+      "why": "John Lewis sells a pricier version (£38.50)",
+      "results": 40,
+      "distinct_sellers": 21,
+      "chains_present": [
+        "John Lewis"
+      ],
+      "marketplaces_present": [
+        "Amazon.co.uk",
+        "Amazon.co.uk - Amazon.co.uk-Seller",
+        "OnBuy.com",
+        "eBay - bondu_29",
+        "eBay - click_an_shops",
+        "eBay - jack_and_jills",
+        "eBay - mega_mart",
+        "eBay - sheinstir"
+      ],
+      "cheapest": 3.99,
+      "typical": 14.33,
+      "most_reviewed": {
+        "seller": "?",
+        "title": "IT Cosmetics CC+ Cream with SPF 50+ - Deep",
+        "reviews": 75000,
+        "price_text": "US$19+"
+      },
+      "top_rows": [
+        {
+          "seller": "?",
+          "title": "IT Cosmetics CC+ Cream with SPF 50+ - Deep",
+          "price_text": "US$19+",
+          "price": 19.0,
+          "rating": 4.9,
+          "reviews": 75000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": null,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_T1fnAxHE8ErsplP5-sA2I6zICHk4gbrmWHKyfMHXg9Qu1ESEwam7znJ5QC1h35Av4EvdU2Cm_40UZIudjJ2sCHUHOkEV3NZrWyV5c0Q"
+        },
+        {
+          "seller": "MyOrigines",
+          "title": "IT Cosmetics Your Skin But Better CC+ Nude Glow",
+          "price_text": "£32.11",
+          "price": 32.11,
+          "rating": 4.4,
+          "reviews": 8700,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:12048574693315564820,productid:14643151684567788317,headlineOfferDocid:12109694239854880282,imageDocid:17345299002489531124,rds:PC_15416852863367439969|PROD_PC_15416852863367439969,gpcid:15416852863367439969,mid:576462769906724169,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBEme33u0qd4GxDoNYkSpbTSp12IRwleW0kOzpgLK2IR8YVFePLFM0QMWUjmdALMsJVtz1cPHr6seqOIGFZ8LHUlU2n14ryJA2M_ZcuCKJBlRUnzHHZaH8jg"
+        },
+        {
+          "seller": "Sephora UK",
+          "title": "IT Cosmetics Your Skin But Better CC+ Natural Matte Foundation SPF 40",
+          "price_text": "£39.00",
+          "price": 39.0,
+          "rating": 5.0,
+          "reviews": 8200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:12717852406362384095,productid:165181627485154172,headlineOfferDocid:16577049545954591796,imageDocid:17786114529286774836,rds:PC_1190731146165449223|PROD_PC_1190731146165449223,gpcid:1190731146165449223,mid:576462898569773594,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTRxDIBwTID6znBojICf6iVwI6A3kD-6CmWtyPOFKqXsqEKlagBeXz8EiApDejcEKISmb0tA5RKQt8_GGVS-kKHW_OD8B2whNUwB-K1e6C4L3l2bQo4F4yhDA"
+        },
+        {
+          "seller": "Sephora UK",
+          "title": "IT Cosmetics Your Skin But Better CC+ Natural Matte Foundation SPF 40",
+          "price_text": "£39.00",
+          "price": 39.0,
+          "rating": 5.0,
+          "reviews": 8200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:12717852406362384095,productid:165181627485154172,headlineOfferDocid:15009088068285530975,imageDocid:17786114529286774836,rds:PC_1190731146165449223|PROD_PC_1190731146165449223,gpcid:1190731146165449223,mid:576462898569773594,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTRxDIBwTID6znBojICf6iVwI6A3kD-6CmWtyPOFKqXsqEKlagBeXz8EiApDejcEKISmb0tA5RKQt8_GGVS-kKHW_OD8B2whNUwB-K1e6C4L3l2bQo4F4yhDA"
+        },
+        {
+          "seller": "ASOS",
+          "title": "e.l.f. Hydrating Camo CC Cream",
+          "price_text": "£16.00",
+          "price": 16.0,
+          "rating": 3.1,
+          "reviews": 5700,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:934996370216357014,productid:9660934893650409825,headlineOfferDocid:15061942217132922114,imageDocid:16981179444734908994,rds:PC_274032821309596204|PROD_PC_274032821309596204,gpcid:274032821309596204,mid:576462592172700298,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQ3qojkoeH9Pg_b1TkFz4OAFb4hRWWZGSTxxeLoSkmXycBq8w_CK0SF6k7dR4n-Cjn3rA-MKWQv2LKnGX4Vc_PkiUHkFB-EfgqZ0YC1-2KjGWo2L5zwVqGkQ"
+        },
+        {
+          "seller": "Amazon.co.uk",
+          "title": "Dr Jart+ Cicapair Soothing Color Correcting Treatment",
+          "price_text": "£14.62",
+          "price": 14.62,
+          "rating": 3.0,
+          "reviews": 4900,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:9044600233594091810,productid:6993226188200101863,headlineOfferDocid:7494880364480505933,imageDocid:1851989842790247181,rds:PC_2092354311869206155|PROD_PC_2092354311869206155,gpcid:3160113166383899477,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS8Ynojno_z69cfCxxRJ2NcCcylV5sDeWTko1uyO3xzqOlNOfFQiRk44xVuSRNgehgrlWQNYBzDFq3hUEbgpAUSFyQ3Eoe5oSBjerGfUJKG-2KrW_nN9yLc-Es"
+        },
+        {
+          "seller": "JD Williams",
+          "title": "Erborian CC Water Clair 15 ml",
+          "price_text": "£20.00",
+          "price": 20.0,
+          "rating": 4.7,
+          "reviews": 3100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:11414709454003341674,headlineOfferDocid:11414709454003341674,imageDocid:5051922060725016406,rds:PC_10983752751005875318|PROD_PC_10983752751005875318,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwSZFW_G-HjYtZlPBV1jYWg5opo50UxkIxch3f21r5UMN61crZrYNPOZCEkGKk31M1XURPu37G6ZhveHKnJOlTZWi9QkazMtYunGdRi8Ln_fRb_OnAI__5rw"
+        },
+        {
+          "seller": "John Lewis",
+          "title": "ERBORIAN CC Water",
+          "price_text": "£38.50",
+          "price": 38.5,
+          "rating": 3.6,
+          "reviews": 3100,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:13511476174003671251,productid:15386985144919962799,headlineOfferDocid:15118800065260135813,imageDocid:7095278290031957518,rds:PC_10983752751005875318|PROD_PC_10983752751005875318,gpcid:10983752751005875318,mid:576462775708584964,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT6gVMKt_XDh-yHJHXuWSQ4tU6uPFJUlELGHLOfVypDW4XuyCGsWxrmmggyO41xRoDb0JI_e4EQ06lyRKpdYsSN76K-qi-WzH41MJ2e-HA9Hq6BaXVCKokMAuY1"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "John Lewis",
+          "title": "ERBORIAN CC Water",
+          "price_text": "£38.50",
+          "price": 38.5,
+          "rating": 3.6,
+          "reviews": 3100,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:13511476174003671251,productid:15386985144919962799,headlineOfferDocid:15118800065260135813,imageDocid:7095278290031957518,rds:PC_10983752751005875318|PROD_PC_10983752751005875318,gpcid:10983752751005875318,mid:576462775708584964,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT6gVMKt_XDh-yHJHXuWSQ4tU6uPFJUlELGHLOfVypDW4XuyCGsWxrmmggyO41xRoDb0JI_e4EQ06lyRKpdYsSN76K-qi-WzH41MJ2e-HA9Hq6BaXVCKokMAuY1"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "currency": "C$",
+      "status": "crowded",
+      "why": "Shoppers Drug Mart sells a pricier version ($31.49)",
+      "results": 40,
+      "distinct_sellers": 17,
+      "chains_present": [
+        "Shoppers Drug Mart",
+        "Walmart.ca"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon CA",
+        "eBay",
+        "eBay - micus-qzpysktqo",
+        "eBay - wholesaletansforu"
+      ],
+      "cheapest": 7.99,
+      "typical": 43.5,
+      "most_reviewed": {
+        "seller": "Desertcart.ae",
+        "title": "IT Cosmetics Mini CC+ Cream with SPF 50+ Full Coverage Natural Foundation",
+        "reviews": 75000,
+        "price_text": "$43.50"
+      },
+      "top_rows": [
+        {
+          "seller": "Desertcart.ae",
+          "title": "IT Cosmetics Mini CC+ Cream with SPF 50+ Full Coverage Natural Foundation",
+          "price_text": "$43.50",
+          "price": 43.5,
+          "rating": 2.4,
+          "reviews": 75000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:15580570871405264698,headlineOfferDocid:15580570871405264698,imageDocid:12946828982802393837,rds:PC_6103478585744067530|PROD_PC_6103478585744067530,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvB3SRarSGHSlTUq0ka3b7yb3rMd-FjEBuhq7Vj7UnbdMkXKC35B4n1gtmA7rVlNbu0VITI2Z0XcbE1KngTUGRvC3_P5r7U6XWYF1z4Nue_sArq9DDBCYWbg"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "IT Cosmetics Mini CC+ Cream with SPF 50+ Full Coverage Natural Foundation",
+          "price_text": "$38.06",
+          "price": 38.06,
+          "rating": 2.4,
+          "reviews": 75000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:6401020690728521312,headlineOfferDocid:6401020690728521312,imageDocid:8082115701673292743,rds:PC_6103478585744067530|PROD_PC_6103478585744067530,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4v40ZNbufmrKefMB_ZPNJcPa5ptvJBC_sRKFz_jpDOPqx9obnDX4huw58ZF6b92J6h4ejajFG-AP9JZJpqetNKtRZfISh0uKp0rz1EMe1m7ATqOUUyITfsQ"
+        },
+        {
+          "seller": "?",
+          "title": "IT Cosmetics CC+ Cream with SPF 50+ - Fair Ivory",
+          "price_text": "US$19+",
+          "price": 19.0,
+          "rating": 5.0,
+          "reviews": 75000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": null,
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQlAzMKa4W906SMfQ76CnObxm37k5KwqdbNkFFHdHaop8ZDf52-b2x8V2zlzo02BMl8yVlU4-CDfPfzqkvfRWEwTUtmfNsl79hWhzx7YbCU"
+        },
+        {
+          "seller": "?",
+          "title": "IT Cosmetics CC+ Cream with SPF 50+ Neutral Medium",
+          "price_text": "US$19+",
+          "price": 19.0,
+          "rating": 5.0,
+          "reviews": 75000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": null,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYrufhZ03PLfnGiSuO_vqo9YgN_7QuftqEezWs_An7TRO3TIp37tRGGK98RWTDD-OSL1ybO4fqttFxp-d9e_KFbBVnuj0pKTDzi_HCtnmayblkEs9FqJcm6A"
+        },
+        {
+          "seller": "?",
+          "title": "IT Cosmetics CC+ Cream with SPF 50+ Fair Light",
+          "price_text": "US$19+",
+          "price": 19.0,
+          "rating": 4.0,
+          "reviews": 75000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": null,
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQC733EBMMEEvov4UdjiFp1ePtHA4xJHrscotwyULbkNAXt1v20mF1I42q7OWs5gNqY3dW-IlOf6jL2nh9zWJR_n1W5GXmyaEaODH-bjZMR"
+        },
+        {
+          "seller": "Sephora",
+          "title": "IT Cosmetics 50+ Your Skin But Better CC+ Illumination Cream with SPF",
+          "price_text": "$53.00",
+          "price": 53.0,
+          "rating": 5.0,
+          "reviews": 15000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:4596048964783754693,productid:16311457975273102072,headlineOfferDocid:5429717314446541646,imageDocid:17575950411098617426,rds:PC_13140199797694645964|PROD_PC_13140199797694645964,gpcid:13140199797694645964,mid:576462510612018241,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0TY56P2l2BJIWl6J2NMPl2I1BJT08pwnsNnnyw3vAHKgxLVgeeVbTLM1cwqPyeHlSq__xMUCF8O2nykqKsOZ-Uy_yRSsPUDvNgXY9023SxsN6930tV6bE"
+        },
+        {
+          "seller": "Sephora",
+          "title": "IT Cosmetics 50+ Your Skin But Better CC+ Illumination Cream with SPF",
+          "price_text": "$53.00",
+          "price": 53.0,
+          "rating": 5.0,
+          "reviews": 15000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:4596048964783754693,productid:16311457975273102072,headlineOfferDocid:9151867824975456458,imageDocid:17575950411098617426,rds:PC_13140199797694645964|PROD_PC_13140199797694645964,gpcid:13140199797694645964,mid:576462510612018241,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0TY56P2l2BJIWl6J2NMPl2I1BJT08pwnsNnnyw3vAHKgxLVgeeVbTLM1cwqPyeHlSq__xMUCF8O2nykqKsOZ-Uy_yRSsPUDvNgXY9023SxsN6930tV6bE"
+        },
+        {
+          "seller": "Sephora",
+          "title": "IT Cosmetics 50+ Your Skin But Better CC+ Illumination Cream with SPF",
+          "price_text": "$55.63",
+          "price": 55.63,
+          "rating": 5.0,
+          "reviews": 15000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:4596048964783754693,productid:16311457975273102072,headlineOfferDocid:6877416387185786826,imageDocid:17575950411098617426,rds:PC_13140199797694645964|PROD_PC_13140199797694645964,gpcid:13140199797694645964,mid:576462510612018241,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0TY56P2l2BJIWl6J2NMPl2I1BJT08pwnsNnnyw3vAHKgxLVgeeVbTLM1cwqPyeHlSq__xMUCF8O2nykqKsOZ-Uy_yRSsPUDvNgXY9023SxsN6930tV6bE"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Shoppers Drug Mart",
+          "title": "Marcelle BB Cream Beauty Balm",
+          "price_text": "$31.49",
+          "price": 31.49,
+          "rating": 4.1,
+          "reviews": 135,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:2622197940742165840,productid:11345085096393204045,headlineOfferDocid:2775709636391712042,imageDocid:17579902297247922394,rds:PC_11890432830587481121|PROD_PC_11890432830587481121,gpcid:11890432830587481121,mid:576462375937298789,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9F0_oV-Nm_lmRFu1Klh_rAdIYc0scfYpUMg-3Ca8r7wc6bdaT0a_sWaoEIplBfZfbD6N3uTfPzEclSoX8gnHWC9csHSWdp5y1MuhJf2FHUMyNJZG0IlyBbA"
+        },
+        {
+          "seller": "Shoppers Drug Mart",
+          "title": "IT Cosmetics CC+ Cream Natural Matte Poreless Full Coverage Foundation With SPF 40",
+          "price_text": "$53.00",
+          "price": 53.0,
+          "rating": 3.1,
+          "reviews": 7300,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:7577805958279793839,productid:13444120961441695472,headlineOfferDocid:3483831898628337146,imageDocid:4585188519722852392,rds:PC_7882580577430185050|PROD_PC_7882580577430185050,gpcid:7882580577430185050,mid:576462892664383216,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQjBlB_1c26uEjuIVonODFfOQSgY6nGR1J-2bJ4isTOTlbl2Fm-ppBm_dPeG1uYtOjVuxm3vChHQItUkIQitPcUsI_1Uauzswpi7tKNhgfE"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Nouba Divinouba CC Cream",
+          "price_text": "$59.50",
+          "price": 59.5,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:9822791391693415021,productid:2185396992883196262,headlineOfferDocid:10491403981802514822,imageDocid:3993475691236277499,gpcid:1862881347442070309,mid:576462788211576503,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRBr94c5Bg1agtbLerz5aMZ8WFHj5_gWim1dQ3LLtiCfzlHXWlzRtJ7U5XPtblCm1KUVxzVS2awFCQSZUZxon4VTtqFGi_0o36dcH1ql9J0"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "currency": "€",
+      "status": "blocked",
+      "why": "dm-drogerie markt sells it at 9,45 €",
+      "results": 40,
+      "distinct_sellers": 13,
+      "chains_present": [
+        "Douglas.de",
+        "dm-drogerie markt"
+      ],
+      "marketplaces_present": [
+        "Amazon.de",
+        "Amazon.de - Amazon.de-Seller"
+      ],
+      "cheapest": 2.95,
+      "typical": 11.33,
+      "most_reviewed": {
+        "seller": "flaconi.de",
+        "title": "IT Cosmetics Your Skin But Better CC+ Cream SPF 50",
+        "reviews": 49921,
+        "price_text": "31,99 €"
+      },
+      "top_rows": [
+        {
+          "seller": "flaconi.de",
+          "title": "IT Cosmetics Your Skin But Better CC+ Cream SPF 50",
+          "price_text": "31,99 €",
+          "price": 31.99,
+          "rating": 4.4,
+          "reviews": 49921,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:8377971030374651796,productid:927135785428347991,headlineOfferDocid:8795747174244265325,imageDocid:15708938437082841172,rds:PC_6272351542904129999|PROD_PC_6272351542904129999,gpcid:6272351542904129999,mid:576462897325110250,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQ55DI2fcwChyJ4SV-SiZaUr7cV1G_TMeMulXl4dmCCnvjRI1oa1yTO986g5TWhwXeHlDx_dFYDJxKcj15PslyWifRmk5mwhi1rMFaA3uMZBNARQjmJ-tZMA"
+        },
+        {
+          "seller": "parfumdreams.DE",
+          "title": "IT Cosmetics Your Skin But Better CC+ Cream SPF50+ Rich",
+          "price_text": "13,64 €",
+          "price": 13.64,
+          "rating": 4.4,
+          "reviews": 49921,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:5883887165275443855,productid:18307973552247323,headlineOfferDocid:10867423881838048479,imageDocid:12032637214578618308,rds:PC_6272351542904129999|PROD_PC_6272351542904129999,gpcid:12449168454273988765,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQifYrCnRCNGHyKY6OZaTunwqXOrLyX0zp9YY7RV8v8IO4AnqLbefeojwfy2kTBti63R9CNZNRQqPfZxFYIxYuD2tp58Ml8z0yZTibgQfikBCJLJezhL8OX"
+        },
+        {
+          "seller": "Douglas.de",
+          "title": "Erborian CC",
+          "price_text": "26,99 €",
+          "price": 26.99,
+          "rating": 4.6,
+          "reviews": 23123,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:10549648314693134053,productid:5900669605221649102,headlineOfferDocid:12675530580315367365,imageDocid:14057731524554789703,rds:PC_3297383417210713928|PROD_PC_3297383417210713928,gpcid:3297383417210713928,mid:576462839475698726,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwHP0Y3tVpAzK5fmA7agfNOjvsudbIk2LmRyR9MaYFVHi1fgbHPhbSqeuvZieFU-sfE0KnZBVorcRHeGEsnvka2r5rcnYLrE7NloUxHYT4JtT02zbrMfmKfg"
+        },
+        {
+          "seller": "parfumdreams.DE",
+          "title": "Erborian CC Red Correct",
+          "price_text": "20,75 €",
+          "price": 20.75,
+          "rating": 4.6,
+          "reviews": 10080,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:842408200548318000,productid:6481579677435725189,headlineOfferDocid:5737493498448891974,imageDocid:12177961975919440410,rds:PC_7408520079990772703|PROD_PC_7408520079990772703,gpcid:7408520079990772703,mid:576462531123014200,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxl9CunA_unMnA09yQ8ouHJt-mTo9uUBd0P2MU-YTIo0vAZ4S6ZsEMsggvkcxiw5PQugY_8gzw5tcaQjrUJXMScWhJRii-xGnI5gnMPFNwLOqKGNQ5F8_t"
+        },
+        {
+          "seller": "flaconi.de",
+          "title": "IT Cosmetics CC+ Nude Glow SPF 40",
+          "price_text": "28,88 €",
+          "price": 28.88,
+          "rating": 4.4,
+          "reviews": 8839,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:10848920427113005221,productid:9874302933467816472,headlineOfferDocid:4418591110367551619,imageDocid:14101782296450665227,rds:PC_15416852863367439969|PROD_PC_15416852863367439969,gpcid:15416852863367439969,mid:576462769906724169,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRKqPRjegDBM-h7kv98kpGwYnDdFk4JjPOmLHfQiSglBZX5qzGBQ9BlRMkScVtkfF5HmImWYzX2-LvxVuD7BYS79BW5BlxNv3GCTtH9XJZh0LBD21gLKu-n"
+        },
+        {
+          "seller": "parfumdreams.DE",
+          "title": "IT Cosmetics Your Skin But Better CC+ Cream LSF",
+          "price_text": "28,54 €",
+          "price": 28.54,
+          "rating": 4.5,
+          "reviews": 7336,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:4631673595069633619,productid:16010262153857181377,headlineOfferDocid:232082568195944467,imageDocid:5963587589611816879,rds:PC_14934259869368043948|PROD_PC_14934259869368043948,gpcid:18291207871884698239,mid:576462914989462788,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZEkXMG6scKC84ZcApZaJWUpayqVWR3FdSE3uhdr1mqkjzMbwuy9iQz7K-5SqF6VG0H_cQgRRaN0cFxdy4PxaVwSHLSLaEz92P8wGvupOP9au46XZ5WCMV_g"
+        },
+        {
+          "seller": "flaconi.de",
+          "title": "Lumene CC Color Correcting Cream",
+          "price_text": "11,30 €",
+          "price": 11.3,
+          "rating": 4.6,
+          "reviews": 7137,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:3446582225203761080,productid:14066514151819810570,headlineOfferDocid:13012318938864473416,imageDocid:17861490612068419423,rds:PC_12854553425818897065|PROD_PC_12854553425818897065,gpcid:12854553425818897065,mid:576462303556685761,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrwtGlWO0EQmnhoT2QdTrI2JRS6UwwiMA_TXcEF4EZI5eBpGSFxNqMCDqL_LS1jgB8Ubse5lEKKm-UNv5P5IO2E9QW_Qd34A6MUiSc4lHn_hJzBd1GmWvzew"
+        },
+        {
+          "seller": "parfumdreams.DE",
+          "title": "Kess CC Cream SPF 30",
+          "price_text": "27,99 €",
+          "price": 27.99,
+          "rating": 4.5,
+          "reviews": 4992,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:12315599051891921556,productid:17988737648628717374,headlineOfferDocid:1688028486345967602,imageDocid:10725272360906820376,rds:PC_8935266152368076126|PROD_PC_8935266152368076126,gpcid:8935266152368076126,mid:576462810214124572,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQY8FfiIH8whpHjkpnaoc1iCBMleHnT0QCy5Oje0wDC4nNn2UOy1vkV8Da4-RtIZE6-zBiCl1cwMO18FK4BDOcdam30v2L0N5UeLLIGIzXe9ubFhkW__768"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "dm-drogerie markt",
+          "title": "L'Oréal Paris CC C'est Magic",
+          "price_text": "9,45 €",
+          "price": 9.45,
+          "rating": 4.2,
+          "reviews": 3850,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:2696577034321291573,productid:4260213211777289458,headlineOfferDocid:10123740934392552203,imageDocid:1665352558016447680,rds:PC_17571178918433962096|PROD_PC_17571178918433962096,gpcid:3144695405032855669,mid:576462913637537593,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFoXTYm00WtD4GHZZdhKPYUHwLeSDMXPbK8gjSUMkt2ZAc4rvjHgrJmY8XR8wkwDS3BHX1wLjHQ9sYajXlF4VYK68qTPWu1lMlBA_Y_OV-6DOb9eCJ2g"
+        },
+        {
+          "seller": "Douglas.de",
+          "title": "Erborian CC",
+          "price_text": "26,99 €",
+          "price": 26.99,
+          "rating": 4.6,
+          "reviews": 23123,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:10549648314693134053,productid:5900669605221649102,headlineOfferDocid:12675530580315367365,imageDocid:14057731524554789703,rds:PC_3297383417210713928|PROD_PC_3297383417210713928,gpcid:3297383417210713928,mid:576462839475698726,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwHP0Y3tVpAzK5fmA7agfNOjvsudbIk2LmRyR9MaYFVHi1fgbHPhbSqeuvZieFU-sfE0KnZBVorcRHeGEsnvka2r5rcnYLrE7NloUxHYT4JtT02zbrMfmKfg"
+        },
+        {
+          "seller": "dm-drogerie markt",
+          "title": "trend !t up Concealer CC Skin Adapting",
+          "price_text": "2,95 €",
+          "price": 2.95,
+          "rating": 4.0,
+          "reviews": 116,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:3556922785505434449,productid:13079431071678343477,headlineOfferDocid:2786094765831381476,imageDocid:17490175943392189545,rds:PC_1649817455616398286|PROD_PC_1649817455616398286,gpcid:1649817455616398286,mid:576462835827672954,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT88HyyHLuCxUKnhnXPv1OPwoe46zRH3ZBGpr_1Rcu1cLT6yDDJuT7yidqS25xxBwkksnFDOR4JXYjuv23daDEMV4KgIuDWROXEKeN5tfCDbBErgMehqJZy-Q"
+        },
+        {
+          "seller": "dm-drogerie markt",
+          "title": "alverde NATURKOSMETIK CC Cream Color Correction",
+          "price_text": "3,95 €",
+          "price": 3.95,
+          "rating": 3.6,
+          "reviews": 391,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:7006410309438011813,productid:12802415361954884578,headlineOfferDocid:14051481671769397212,imageDocid:12778539934179215934,rds:PC_6239332189616157596|PROD_PC_6239332189616157596,gpcid:6239332189616157596,mid:576462898101032955,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQqZb2f4SU4AO0VDD5-cjX_4QHw8wMl_7TqED7UXRuDWE0Mq73NZUSrydL5mm_ClN_sHlaCr8_86utzoyKDCrHcOsjtGsaJcq1YeyXrIjPfdFBLuTtORz85"
+        },
+        {
+          "seller": "Douglas.de",
+          "title": "IsaDora The CC + Cream",
+          "price_text": "10,49 €",
+          "price": 10.49,
+          "rating": 3.6,
+          "reviews": 168,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:10387182981510675159,productid:133851800803499828,headlineOfferDocid:6965968712210138918,imageDocid:527345795187052042,rds:PC_1025079782238543684|PROD_PC_1025079782238543684,gpcid:1025079782238543684,mid:576462769203723938,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQejuj9l9C_n6qcqp0Lp1CpPQlGDBQAGEzXGmiYkvYMqj7tKYgSeR84q1-fsepPaJrs3MBEN8SQQfYDsb81RNfVW1Brct7qDBTZSk-uBHMBUiPc9-lQosZO"
+        },
+        {
+          "seller": "dm-drogerie markt",
+          "title": "Mineral Redness Control CC Cream Transparent Lab",
+          "price_text": "19,95 €",
+          "price": 19.95,
+          "rating": 3.3,
+          "reviews": 65,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:11304333920986216839,productid:4692790367574080544,headlineOfferDocid:6674936800611144986,imageDocid:15652967684026683977,rds:PC_5565998862350869359|PROD_PC_5565998862350869359,gpcid:5565998862350869359,mid:576462884951194368,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQX5RAXfmHTD3Rqt-YxBPxrBpm1FrhYRAgFFYmKDKR-VvlTzEvuumivs9SY-fR2j7WyiD2RizLKGBicpbl35_h3qeYP8YfNq3ITpYH2gPmCjhl5F1S2ryZJ"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "currency": "NZ$",
+      "status": "crowded",
+      "why": "Farmers Department Store sells a pricier version ($39.99)",
+      "results": 40,
+      "distinct_sellers": 30,
+      "chains_present": [
+        "Farmers Department Store"
+      ],
+      "marketplaces_present": [
+        "The Warehouse - Marketplace",
+        "eBay - makeupexpress4"
+      ],
+      "cheapest": 9.9,
+      "typical": 47.52,
+      "most_reviewed": {
+        "seller": "EmpressKorea",
+        "title": "the SAEM Cover Perfection Triple Pot Concealer 4.5g - 04. Tone Up Beige",
+        "reviews": 12000,
+        "price_text": "$52.62"
+      },
+      "top_rows": [
+        {
+          "seller": "EmpressKorea",
+          "title": "the SAEM Cover Perfection Triple Pot Concealer 4.5g - 04. Tone Up Beige",
+          "price_text": "$52.62",
+          "price": 52.62,
+          "rating": 5.0,
+          "reviews": 12000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:716778249858413823,headlineOfferDocid:716778249858413823,imageDocid:13587948657166987951,rds:PC_706853410908970658|PROD_PC_706853410908970658,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRV4f8ZcrRqjtDBYk9bxhcc_EWIaqC-AzivJRitYVqLusTTtZb37gQsHeDZakjSd8V6uU1U0d8rdjF3kxrg7JFgbJXHc2QWuEqn8J93pr2UFGAHrvBflcQG"
+        },
+        {
+          "seller": "EmpressKorea",
+          "title": "the SAEM Cover Perfection Triple Pot Concealer 4.5g - 02. Contour Beige",
+          "price_text": "$52.62",
+          "price": 52.62,
+          "rating": 5.0,
+          "reviews": 12000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:13058977323864459325,headlineOfferDocid:13058977323864459325,imageDocid:13587948657166987951,rds:PC_706853410908970658|PROD_PC_706853410908970658,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRV4f8ZcrRqjtDBYk9bxhcc_EWIaqC-AzivJRitYVqLusTTtZb37gQsHeDZakjSd8V6uU1U0d8rdjF3kxrg7JFgbJXHc2QWuEqn8J93pr2UFGAHrvBflcQG"
+        },
+        {
+          "seller": "skinabox.lt",
+          "title": "the Saem Cover Perfection Triple Pot Concealer",
+          "price_text": "$31.87",
+          "price": 31.87,
+          "rating": 5.0,
+          "reviews": 12000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:11733094403319165523,productid:7866120967646234882,headlineOfferDocid:13396153211409705627,imageDocid:1529690611647349062,rds:PC_706853410908970658|PROD_PC_706853410908970658,gpcid:706853410908970658,mid:576462452489116067,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwTTxBrGcxjSpkFA_bGI7863YcnDsIt5MqG36ZfOCAel1s9b9OJA0j5PO7dm0eVL0w-O9xoW0D9a08MeUTYtd2U_8FDzz8askQLbwMECpOVGrkfTho-Jbj"
+        },
+        {
+          "seller": "OoshTush",
+          "title": "THE SAEM Cover Perfection Triple Pot Concealer 13.5g #05 Dark Up Beige | Redness | Acne ma",
+          "price_text": "$23.01",
+          "price": 23.01,
+          "rating": 4.0,
+          "reviews": 12000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:721787572151909672,headlineOfferDocid:721787572151909672,imageDocid:15368366750816387842,rds:PC_706853410908970658|PROD_PC_706853410908970658,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXBe_bU4G-55jMeMAwNekGPWfZhOCVBxjQtQB8UAqrGGhpgEXTmwWNtbrBtkg1pUhv_jG1zwzydwzYO4B_K_9DcLV8lAkejOV50XInY69-FD8frerQM0-b"
+        },
+        {
+          "seller": "Elivera store",
+          "title": "LA ROCHE POSAY Toleriane Teint Fluid 13 / R 30 ml Corrective makeup fluid",
+          "price_text": "$101.53",
+          "price": 101.53,
+          "rating": 2.7,
+          "reviews": 4200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:8746875564351102908,headlineOfferDocid:8746875564351102908,imageDocid:2446115384715090957,rds:PC_17242300110740332223|PROD_PC_17242300110740332223,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRZVxuOwdj2r7OX5jUE2OH7UqiWhCqYTYO9LRRWnGE3-E_0WoAOTkKPbgPJjT8zyPgY3Y-t1ZrFUIdheKgIlM0O58BNHgCn"
+        },
+        {
+          "seller": "Elivera store",
+          "title": "La ROCHE-POSAY Toleriane Teint Fluid 11 R 30 ml",
+          "price_text": "$101.32",
+          "price": 101.32,
+          "rating": 2.3,
+          "reviews": 4100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=productid:14949761723341818232,headlineOfferDocid:14949761723341818232,imageDocid:10424100275207951517,rds:PC_17242300110740332223|PROD_PC_17242300110740332223,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRX_frgcUrU7hx7Nn5B_h_ijeP05-JE01zdGx7gOJFaTc4uJSmvB_2aa73m_uUkWCmZxcQV0TvaBisBOIcguVj5oS48SPV-"
+        },
+        {
+          "seller": "Pharma Florence",
+          "title": "Caudalie Vinocrush Skin Tint",
+          "price_text": "$63.74",
+          "price": 63.74,
+          "rating": 5.0,
+          "reviews": 3900,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:16426445733038420551,productid:6808792791346749410,headlineOfferDocid:8002090859813119920,imageDocid:11361736022105469223,rds:PC_3293342000052709424|PROD_PC_3293342000052709424,gpcid:3293342000052709424,mid:576462763587551276,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4DLWVR8qPNF7gPq7M5x9ksl-fiwjPgVIq7cMBJEu6VtI2iaOli1WoJuoNCMznNbGpUKHu2glEMEOlNbZW1NkQpqgpqJRZvBuerRE947rUxchHfYVT7WD4"
+        },
+        {
+          "seller": "Skin Color",
+          "title": "Caudalie Vinocrush Skin Tint",
+          "price_text": "$71.33",
+          "price": 71.33,
+          "rating": 5.0,
+          "reviews": 3900,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:16426445733038420551,productid:6808792791346749410,headlineOfferDocid:17159990529604677628,imageDocid:11361736022105469223,rds:PC_3293342000052709424|PROD_PC_3293342000052709424,gpcid:3293342000052709424,mid:576462763587551276,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4DLWVR8qPNF7gPq7M5x9ksl-fiwjPgVIq7cMBJEu6VtI2iaOli1WoJuoNCMznNbGpUKHu2glEMEOlNbZW1NkQpqgpqJRZvBuerRE947rUxchHfYVT7WD4"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Farmers Department Store",
+          "title": "Thin Lizzy Concealer Creme 15ml",
+          "price_text": "$39.99",
+          "price": 39.99,
+          "rating": 5.0,
+          "reviews": 1800,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:16180011842782671637,productid:3324124846890162541,headlineOfferDocid:17534638034698095319,imageDocid:18106243885396418971,rds:PC_10142157212257915730|PROD_PC_10142157212257915730,gpcid:10142157212257915730,mid:576462573745078527,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0o0_DVqNOqeSzHluXEQPqs5SEjhncG1Rx9kGJxiqI6jITNwmPjCCU1ULOq-MmXbDg0xI-GJzi-FpAbYm5u_9JsTs7yE3cov85I1dj5WK37mRSlZrMub6h"
+        },
+        {
+          "seller": "Farmers Department Store",
+          "title": "Thin Lizzy Concealer Creme 15ml",
+          "price_text": "$39.99",
+          "price": 39.99,
+          "rating": 5.0,
+          "reviews": 1800,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:16180011842782671637,productid:3324124846890162541,headlineOfferDocid:1122831356102599528,imageDocid:18106243885396418971,rds:PC_10142157212257915730|PROD_PC_10142157212257915730,gpcid:10142157212257915730,mid:576462573745078527,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0o0_DVqNOqeSzHluXEQPqs5SEjhncG1Rx9kGJxiqI6jITNwmPjCCU1ULOq-MmXbDg0xI-GJzi-FpAbYm5u_9JsTs7yE3cov85I1dj5WK37mRSlZrMub6h"
+        },
+        {
+          "seller": "Farmers Department Store",
+          "title": "Thin Lizzy Concealer Creme 15ml",
+          "price_text": "$39.99",
+          "price": 39.99,
+          "rating": 5.0,
+          "reviews": 1800,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=cc cream concealer&prds=catalogid:16180011842782671637,productid:3324124846890162541,headlineOfferDocid:5444676376099979426,imageDocid:18106243885396418971,rds:PC_10142157212257915730|PROD_PC_10142157212257915730,gpcid:10142157212257915730,mid:576462573745078527,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0o0_DVqNOqeSzHluXEQPqs5SEjhncG1Rx9kGJxiqI6jITNwmPjCCU1ULOq-MmXbDg0xI-GJzi-FpAbYm5u_9JsTs7yE3cov85I1dj5WK37mRSlZrMub6h"
+        }
+      ],
+      "thin_market": false
+    }
+  ]
+}

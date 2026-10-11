@@ -1,0 +1,91 @@
+{
+  "input_url": "https://dermocosmetic.it/products/correttore-occhiaie-cc-cream",
+  "store_root": "https://dermocosmetic.it",
+  "platform": "shopify",
+  "title": "Correttore Occhiaie CC Cream",
+  "vendor": "DermoCosmetic",
+  "product_type": "",
+  "created_at": "2026-03-21T15:09:40+01:00",
+  "updated_at": "2026-10-11T13:29:56+02:00",
+  "price_min": 24.99,
+  "price_max": 24.99,
+  "was_price": "39.00",
+  "n_variants": 3,
+  "variants": [
+    {
+      "title": "Chiara",
+      "price": "24.99",
+      "was": "39.00",
+      "available": null
+    },
+    {
+      "title": "Rosata",
+      "price": "24.99",
+      "was": "39.00",
+      "available": null
+    },
+    {
+      "title": "Scura",
+      "price": "24.99",
+      "was": "39.00",
+      "available": null
+    }
+  ],
+  "description": "Correttore occhiaie CC Cream ad alta coprenza, studiato per uniformare il contorno occhi e coprire occhiaie e discromie con una piccola quantità di prodotto. La texture cremosa si applica facilmente con il dito o con il pennello e permette di ottenere una copertura uniforme dall’effetto naturale, senza creare strati pesanti. Adatto anche alla pelle matura e al contorno occhi segnato. Disponibile in tre tonalità — Chiara, Rosata e Scura — per adattarsi a diversi incarnati e sottotoni. Compatto con specchietto integrato, pratico anche per i ritocchi.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/imm1v3_13ec3fe6-4341-496b-a5f8-33b3cde74eeb.jpg?v=1774224378",
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Avviso-v3.jpg?v=1775503012",
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Guida-tonalita-v2.jpg?v=1775503012",
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Occhiaie-v3.jpg?v=1787740753",
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/come-si-usa-v1.jpg?v=1775502948",
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Correttori-v1.jpg?v=1775502948",
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Costo-v3.jpg?v=1775502948",
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/imm1-v2-rosata.jpg?v=1774996575",
+    "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/imm1-v6-scura.jpg?v=1774996575"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 2,
+    "first_product_created": "2026-03-21T15:09:40+01:00",
+    "newest": [
+      {
+        "title": "Pennello Precisione Contorno Occhi",
+        "created_at": "2026-03-21",
+        "price": "5.90"
+      },
+      {
+        "title": "Correttore Occhiaie CC Cream",
+        "created_at": "2026-03-21",
+        "price": "24.99"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "EUR",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/cc-cream/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/imm1v3_13ec3fe6-4341-496b-a5f8-33b3cde74eeb.jpg?v=1774224378"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/cc-cream/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Avviso-v3.jpg?v=1775503012"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/cc-cream/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Guida-tonalita-v2.jpg?v=1775503012"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/cc-cream/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Occhiaie-v3.jpg?v=1787740753"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/cc-cream/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/come-si-usa-v1.jpg?v=1775502948"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/cc-cream/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/Correttori-v1.jpg?v=1775502948"
+    }
+  ]
+}

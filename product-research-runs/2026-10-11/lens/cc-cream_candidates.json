@@ -1,0 +1,1143 @@
+{
+ "slug": "cc-cream",
+ "image_url": "https://cdn.shopify.com/s/files/1/1032/6405/9737/files/imm1v3_13ec3fe6-4341-496b-a5f8-33b3cde74eeb.jpg?v=1774224378",
+ "brand_domain": "dermocosmetic.it",
+ "matches_per_country": {
+  "au": 60,
+  "us": 59,
+  "uk": 59,
+  "ca": 59,
+  "de": 0,
+  "nz": 59
+ },
+ "candidates": [
+  {
+   "source": "Sephora",
+   "title": "Colored Clay CC Undereye Corrector - tarte | Sephora",
+   "link": "https://www.sephora.com/product/colored-clay-cc-undereye-corrector-P387175",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQlilndaSuueH76A9EjdwInbrc8huIDjnOhAOvm3HBq9F14At",
+   "price_text": "$32*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_00.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Buy Tarte Colored Clay CC Undereye Corrector - Light-Medium ...",
+   "link": "https://www.ebay.com/itm/397119790692",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHmBm6BU08U1IhiLkfm89s4HAqt41HftOj3eaNI_naZM879ans",
+   "price_text": "$64*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$64*"
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_01.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "tarte colored clay cc undereye corrector – Full Coverage ...",
+   "link": "https://www.ebay.com/itm/377095454516",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHu4t1XhNLmbKfJXefoegnVVAbiVxQHWfGxYoI36OkExl8XvkO",
+   "price_text": "$47*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$47*"
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_02.jpg"
+  },
+  {
+   "source": "eBay Australia",
+   "title": "Colored Clay C-C Undereye Corrector Under Eye Concealer Eye ...",
+   "link": "https://www.ebay.com.au/itm/388035935940",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvXvb43ss2Od5Dle2tLeUPuGzP-iEJVFFsnG-B5lk5Hgd3DtNG",
+   "price_text": "A$9*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$9*"
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_03.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Colored Clay Cc Undereye Corrector,Color Corrector For Dark ...",
+   "link": "https://www.amazon.com.au/Undereye-Corrector-Brighten-Hydrating-Concealer/dp/B0F138BL12",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCKeHzC2tb4gmyEViXotCMrxTcSzEjB8ckFm9GBGwSceOVY5NJ",
+   "price_text": "A$27*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$27*"
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_04.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Generic Colored Clay CC Undereye Corrector with Brush ...",
+   "link": "https://www.amazon.com.au/Generic-Undereye-Corrector-Moisturizing-Concealer/dp/B0DZ328Y68",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaAMM5mINhBgsd6zM3XI1EaCI4HDUAUJpOxG7robvMgi34kQrj",
+   "price_text": "A$21*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$21*"
+    }
+   },
+   "priced": true,
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_05.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Colored Clay Undereye Corrector, CC Undereye Corrector for ...",
+   "link": "https://www.amazon.com.au/Undereye-Corrector-Hydrating-Concealer-Light-Medium/dp/B0FPCGLP4V",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ3O_XaaJ20Ttl7TIf_pbKwatlqLITidv_zuId_75zl3W3qhdw",
+   "price_text": "A$20*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$20*"
+    }
+   },
+   "priced": true,
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_06.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "tarte colored clay CC undereye corrector - medium-tan ...",
+   "link": "https://www.amazon.com.au/TARTE-Colored-undereye-corrector-MEDIUM/dp/B00LNC3KHE",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQh4CKWdccez8meD2SmivQbeMEsjEmvmC7h3jkykp0edZYqeQlP",
+   "price_text": "A$54*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$54*"
+    }
+   },
+   "priced": true,
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_07.jpg"
+  },
+  {
+   "source": "Ulta Beauty",
+   "title": "Tarte - Light-Medium CC Undereye Corrector | Ulta Beauty",
+   "link": "https://www.ulta.com/p/cc-undereye-corrector-xlsImpprod10821078?sku=2276028",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGTgriKqB45n-OpBrmKiA5KE_c92GXr7XOuFLpNJggXWgaGqsk",
+   "price_text": "$32*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$32*"
+    }
+   },
+   "priced": true,
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_08.jpg"
+  },
+  {
+   "source": "Macy's",
+   "title": "tarte™ Colored Clay CC Undereye Corrector - Macy's",
+   "link": "https://www.macys.com/shop/product/tarte-colored-clay-cc-undereye-corrector?ID=1538939",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR56i7JgERZZllghI-01FiUTLaeDaxQzHpQKMzr7QCZeln0Q80s",
+   "price_text": "$32*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$32*"
+    }
+   },
+   "priced": true,
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_09.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Colored Clay CC Undereye Corrector, Color Corrector for Dark ...",
+   "link": "https://www.ebay.com/itm/156931093105",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtksQn7Cw-oQL9tWT9EUmBK7i7k2dK6jggE6pXmB992TqNhDO6",
+   "price_text": "$15*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$15*"
+    }
+   },
+   "priced": true,
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_10.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Under Eye Colour Corrector, Hydrating Colour Corrector Dark ...",
+   "link": "https://www.amazon.co.uk/Corrector-Hydrating-Brightener-Undereye-Concealer/dp/B0F1D343W9",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Rk7mM4rLMU4emL_0OCW6M446O2TuxCNLseheHX1EYV9ok_Yx",
+   "price_text": "£8*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£8*"
+    }
+   },
+   "priced": true,
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_11.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Undereye Color Corrector For Dark Circles, Cc Cream ...",
+   "link": "https://www.amazon.co.uk/Corrector-Foundation-Hydrating-Waterproof-Light-MediumPeach/dp/B0FKT6KY9Y",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2UPwNvoMSX1LEePFhiNEW_tsehwUvhB3QIWt37f1otkvsuNje",
+   "price_text": "£8*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£8*"
+    }
+   },
+   "priced": true,
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_12.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Coloured Clay CC Undereye Corrector - Brightening Under Eye ...",
+   "link": "https://www.amazon.co.uk/Coloured-Clay-Undereye-Corrector-Brightening/dp/B0G8YJBWHC",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4gHCxIhp3s_E_F4n0OgTGe4hzU2hnY9kwNgQxbQfs59Vnnyuv",
+   "price_text": "£7*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£7*"
+    }
+   },
+   "priced": true,
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_13.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Colored Clay Cc Undereye Corrector, Under Eye Concealer ...",
+   "link": "https://www.amazon.ca/Colored-Undereye-Corrector-Concealer-Circles/dp/B0DRSCN7YQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlDUPuG1Be9PztwVFKTOAqoeIc1mInlZwZcoxw0FlLYE1Rv8GW",
+   "price_text": "CA$25*",
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": "CA$25*"
+    }
+   },
+   "priced": true,
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_14.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Under Eye Brightener Corrector, Long-Lasting Waterproof ...",
+   "link": "https://www.walmart.ca/en/ip/Under-Eye-Brightener-Corrector-Long-Lasting-Waterproof-Creaseproof-Formula-Lightweight-Natural-Matte-Finish-Undereyes-Correcter-Conceal-Imperfections/1SNFUFBJQJKF",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKRniyzj9ubb23S1iFfvndXU4Ie58KYn80_b1UZP2FKo_t1FK",
+   "price_text": "CA$18*",
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$18*"
+    }
+   },
+   "priced": true,
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_15.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Colored Clay Cc Undereye Corrector,Under Eye Brightener with ...",
+   "link": "https://www.walmart.ca/en/ip/Colored-Clay-Cc-Undereye-Corrector-Under-Eye-Brightener-Brush-Eye-Concealer-Undereye-Color-Corrector-Dark-Circles-Clay-Neutralizing-Makeup-Under-Hydr/4ET9H6W1LLSS",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1LHx68fcPuP3SLdQBpR8gj-tplO2Tkqrc1hb2FpfW4_hAfbrD",
+   "price_text": "CA$19*",
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$19*"
+    }
+   },
+   "priced": true,
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_16.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Colored Clay CC Undereye Corrector – Under Eye Concealer ...",
+   "link": "https://www.amazon.ca/Colored-Clay-Undereye-Corrector-Discoloration/dp/B0FXLC7FRG",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmTIEpGLDBGhVmCvGkIiasTlwfVaDgnTZUlh0ETs2t8Bec03DZ",
+   "price_text": "CA$15*",
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": "CA$15*"
+    }
+   },
+   "priced": true,
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_17.jpg"
+  },
+  {
+   "source": "Tarte",
+   "title": "CC undereye & dark circle defense™ corrector brush duo – Tarte™",
+   "link": "https://tartecosmetics.com/products/cc-undereye-dark-circle-defense-brush-duo",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAm8aGI_22xoHGMvruWBN8uACumpwxC7GAVbtOIZ2KU58McZ3z",
+   "price_text": "$32*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$32*"
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$47*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_18.jpg"
+  },
+  {
+   "source": "Desertcart Australia",
+   "title": "Tarte Colored Clay Cc Undereye Corrector Full Coverage ...",
+   "link": "https://www.desertcart.com.au/products/7577965-tarte-colored-clay-cc-undereye-corrector-full-coverage-concealer-vegan",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuv8uugmPCUTKQ2UtET-zKPmH9pzXlKOhDyQBahrP2EpEyGaJa",
+   "price_text": "A$71*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$71*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_19.jpg"
+  },
+  {
+   "source": "Sephora UK",
+   "title": "Tarte Colored Clay CC Undereye Corrector | SEPHORA UK",
+   "link": "https://www.sephora.co.uk/p/tarte-colored-clay-cc-undereye-corrector",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR329vcpyVmZt_58gK-LPWn2_Uv0gVhM7CT5mS7nhD1bD-rqtS1",
+   "price_text": "£25*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£25*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_20.jpg"
+  },
+  {
+   "source": "Tarte",
+   "title": "Colored Clay CC Undereye Corrector — Waterproof Dark ...",
+   "link": "https://tartecosmetics.com/products/cc-undereye-corrector",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4iogE_ZxEZ09r-l8KxJgZ_YUi7HhD7a5aLzt9uYb_bIJN9Z0l",
+   "price_text": "$32*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$32*"
+    }
+   },
+   "priced": true,
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_21.jpg"
+  },
+  {
+   "source": "Dermstore",
+   "title": "tarte Colored Clay CC Full Coverage Undereye Corrector ...",
+   "link": "https://www.dermstore.com/p/tarte-colored-clay-cc-undereye-corrector-0.08-oz./12905370/?variation=12905371&bvstate=pg:3/ct:r",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpHrfcJ3feMys-pW6Sn7f-b-ucVub8yFVM0u9klAjoAkaebqW_",
+   "price_text": "$32*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_22.jpg"
+  },
+  {
+   "source": "HSN",
+   "title": "tarte Undereye Corrector & Brush | HSN",
+   "link": "https://www.hsn.com/products/tarte-undereye-corrector-and-brush/23652739",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz-a_VZw3DHSIwQVRUiIKbiO1BAtLH8QfwrQccTaGc5HmRb0ZZ",
+   "price_text": "$32*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$32*"
+    }
+   },
+   "priced": true,
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_23.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Colored Clay CC Undereye Corrector, Hydrating Concealer with ...",
+   "link": "https://www.walmart.com/ip/Colored-Clay-CC-Undereye-Corrector-Hydrating-Concealer-with-Brush-for-Dark-Circles-Blemishes-Mature-Skin-light-skin-tone/20268321866",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPn0BJLv3_Ta424-hXdcZW77BV3RUx3aBFA5At3hPvXvL_zQX7",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_24.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: FREEORR Under Eye Brightener with Brush, Colored ...",
+   "link": "https://www.amazon.com/clp/B0FP548ZPW",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDhVMELyHDbIXz8KJbqJ9hS0V08vTvuyTq4vlllk666q00ScMR",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_25.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Under Eye Colour Corrector Concealer, Full Coverage ...",
+   "link": "https://www.amazon.co.uk/Corrector-Concealer-Waterproof-Long-Lasting-Brightener/dp/B0F48NBCYW",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF2sshf6Zar6hHAmhF6KLKm47tSrQrElPd2yrm8A0V5rK-Ie3u",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£6*"
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_26.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Colored Clay CC Undereye Corrector with Brush ...",
+   "link": "https://www.amazon.com/clp/B0FBS4MY5H",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcdFGDOgJZ6gYgjCXzMX4m44S-xBgxtxqPJ-2wGh7lbJJvznzB",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_27.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "tarte colored clay cc undereye corrector – Full ... - Amazon.com",
+   "link": "https://www.amazon.com/clp/B00LNC3JD4",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-hF88c0FtnsJ-Y1VZZYtGNtffS0fr2KcDWqTp7EFH3fd3mbw",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_28.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Colored Clay CC Undereye Corrector, Under Eye ...",
+   "link": "https://www.amazon.com/clp/B0DSFQWWDX",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-rFBxIuCfOqUAAc0SrbQjNnJx0mx66YpWgHyYasz7AXye8bNd",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_29.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com : Colored Clay CC Undereye Corrector - Color ...",
+   "link": "https://www.amazon.com/Colored-Clay-Undereye-Corrector-Brightening/dp/B0GK8WJ7WZ",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR165x1oeA9E8mmcs1Dru5mJHYja05LSbcm_ylmRAesqCd6XvYO",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_30.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Luhaka Colored Clay Cc Undereye Corrector, Under ...",
+   "link": "https://www.amazon.com/Luhaka-Undereye-Corrector-Concealer-Blemishes/dp/B0GWMQ2BH5",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfTLw7PwUb_QABpqSsMo9xbv26IXnU0GGUOhncLW51_CJ7zWiZ",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_31.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com : Colored Clay CC Undereye Corrector, Under Eye ...",
+   "link": "https://www.amazon.com/Colored-Undereye-Corrector-Concealer-Light-Medium/dp/B0DSPM87VP",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeweEOmQX590SDzxeSWp6mGDCj6kl8w2qjabzTMsyx8UWLmS_l",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_32.jpg"
+  },
+  {
+   "source": "www.amazon.sa",
+   "title": "Colored Clay CC Undereye Corrector with Brush, Hydrating ...",
+   "link": "https://www.amazon.sa/-/en/Undereye-Corrector-Hydrating-Lightweight-Concealer/dp/B0F1KC8XLD",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ_127GDKiQFkb2H_i1fJoHAmWetphMnc1QXLdjbF0uLqRFeSH",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_33.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "TARTE TARTE CC Colored clay undereye corrector in LIGHT ...",
+   "link": "https://www.amazon.com.au/TARTE-Colored-undereye-corrector-MEDIUM/dp/B00LNC3JD4",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0lBbmKfI92d5NRga1cqv31_s2GD6YJQtXeozbz2V4kLGFuCLV",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_34.jpg"
+  },
+  {
+   "source": "Temu",
+   "title": "soft matte concealer full coverage - Temu Mauritius",
+   "link": "https://www.temu.com/mu/-soft-matte-concealer-full-coverage--g-601102733633439.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCKhs6PinyWw1UUO7a0OL6b_sYsmPm66_lsbx4zghGa7s2cdyb",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_35.jpg"
+  },
+  {
+   "source": "eBay Australia",
+   "title": "Colored Clay CC Undereye Color Corrector Dark Circles Eye ...",
+   "link": "https://www.ebay.com.au/itm/286398040308",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSP7TmsFDME2txujTt6c1T6JbBuiMeyQxDPTN2sK3qePf6gc41c",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_36.jpg"
+  },
+  {
+   "source": "eBay Australia",
+   "title": "Colored Clay CC Undereye Corrector Under Eye Concealer Eye ...",
+   "link": "https://www.ebay.com.au/itm/318372589570",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-13fZr2UVysW8W6_-IPTqhjUi-hJ5kSZQXLQ54JphY7_Jj1Td",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_37.jpg"
+  },
+  {
+   "source": "Amazon.ie",
+   "title": "Colored Clay CC Undereye Corrector, Under Eye Concealer with ...",
+   "link": "https://www.amazon.ie/Colored-Undereye-Corrector-Concealer-Light-Medium/dp/B0FVLRR4ZY",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsouK_1TGwmcTYxZDwhEYDW9z-nNlMA8-h9lYLe9S4N906Y_IJ",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_38.jpg"
+  },
+  {
+   "source": "www.amazon.sa",
+   "title": "Colored Clay CC Undereye Corrector with Brush - Color ...",
+   "link": "https://www.amazon.sa/-/en/Colored-Clay-Undereye-Corrector-Brush/dp/B0FBS4MY5H",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSoOMyCWWWNkNZ2IIAnuoTZ-QQ0c9VjMbTpJ0YXaaTmvuFiYvi",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_39.jpg"
+  },
+  {
+   "source": "Alibaba",
+   "title": "Wholesale new tarte concealer-Buy Best new tarte concealer ...",
+   "link": "https://www.alibaba.com/wholesale/new-tarte-concealer.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlAmEScIbBtElNTSPeyMVFpkSTpHDeWjPwsKmuX7QLhyTVhLDH",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_40.jpg"
+  },
+  {
+   "source": "Amazon.co.za",
+   "title": "Colored Clay CC Undereye Corrector, Color Corrector for Dark ...",
+   "link": "https://www.amazon.co.za/Undereye-Corrector-Concealer-Brighten-Hydrating/dp/B0DRD22H5N",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCT45C1lPI8OqnPIa2Zuy7Xz8NQgTULVKmP_u0kV5UmUFWqyrg",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_41.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Colored Clay CC Undereye Corrector, Under Eye Concealer,CC ...",
+   "link": "https://www.walmart.com/ip/Colored-Clay-CC-Undereye-Corrector-Eye-Concealer-CC-Undereye-Corrector-Color-Corrector-Dark-Circles-Under-Eye-Hydrating-Concealer-Women-CC-Undereye-C/14889563593",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-QnaOk6TwwBrqblh0VAjAEGhXMo0Ujy-BzMeEU6QfkonJjo6V",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_42.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "L.A. COLORS Conceal It Concealer Light 0.42 fl oz for ...",
+   "link": "https://www.walmart.com/ip/L-A-COLORS-Concealer-Conceal-It-Light-0-42-fl-oz/760966847",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnu32TDJlD35uEppUDlIiDru_4BQOUjVJRg2PO_NNv4Gb6rvTb",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_43.jpg"
+  },
+  {
+   "source": "Sephora Singapore",
+   "title": "Buy tarte Colored Clay CC Undereye Corrector | Sephora Singapore",
+   "link": "https://www.sephora.sg/products/tarte-colored-clay-cc-undereye-corrector",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQk_Jw7CsBx_FnDYCdRbtsZoGp5wzxXAxAhI6Tgnu4AWGskhWFF",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_44.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Concealer, Natural Finish Under Eye Concealer with Brush ...",
+   "link": "https://www.amazon.co.uk/Concealer-Natural-Corrector-Brightener-Undereye/dp/B0FVSPCSQ5",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAw8JAZgE0A5zEELHR9UbkMr6w9JtpxtH7UACUsm7l4xZK3WxI",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_45.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "Pink Concealers for sale | eBay UK",
+   "link": "https://www.ebay.co.uk/b/bn_10307886",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSluD6qyYFZHMDFSJKhwDRLFneJD5wzqoOsUtadq4mQNlnoeQjK",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_46.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Concealer, Under Eye Brightener with Brush, Peach Colour ...",
+   "link": "https://www.amazon.co.uk/Concealer-Brightener-Corrector-Lightweight-Application/dp/B0FPL755RC",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGCdTn6SWUJ0oplxo8NxihCqv4A-ggzVA7gAu3NrYsj3ZQtKAY",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_47.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Colour under Eye Corrector Cream,Colored CC Undereye ...",
+   "link": "https://www.amazon.co.uk/Corrector-Undereye-Brightener-Concealer-Coverage/dp/B0DZTTPDW9",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWXRnCFlgFx8r04vDNUOXf6BhpMhwljJkj2z9g_tiDLbLe7KWq",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_48.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Under Eye Concealer, Lightweight Magic Under Eye Corrector ...",
+   "link": "https://www.amazon.co.uk/Concealer-Lightweight-Corrector-Undereye-Crease-Proof/dp/B0FRDZNPSY",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1aYoEtI6853sXNmBy4q-WtDomsUXf0IQ_dXuaHgHrgrs0jE2d",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_49.jpg"
+  },
+  {
+   "source": "Amazon.ie",
+   "title": "Coloured Clay CC Undereye Corrector with Brush, Under Eye ...",
+   "link": "https://www.amazon.ie/Coloured-Corrector-Concealer-Hydrating-Foundation/dp/B0DRYT66JD",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLqYP01JQjCultbnWw3CKkj1Hqv8fTzrCq23AA76qfkdFM6Sns",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_50.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Undereye Corrector Concealer, Colored Clay CC Undereye ...",
+   "link": "https://www.amazon.ca/Undereye-Corrector-Concealer-Correct-Hydrating/dp/B0FD3WGWZ9",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnGtMuHTGBdMhhdc3x-0W-JgaRT9GrnXi7pSOF2_gK3hO62xkV",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 51,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_51.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "2025 Colored Clay CC Undereye Corrector, Under Eye Concealer ...",
+   "link": "https://www.amazon.ca/Corrector-Concealer-Waterproof-Hydrating-Light-Medium/dp/B0FHPS4QRX",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2TscVjfa2LDPCng3fWtpCWK4Do4XPdXzlXH5XOVP8rHvEUjQL",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 52,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_52.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Colored Clay Under Eye Concealer,CC Undereye Color Corrector ...",
+   "link": "https://www.amazon.ca/Concealer-Undereye-Corrector-Hydrating-Light-Medium/dp/B0DW3ZMK1K",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfTLw7PwUb_QABpqSsMo9xbv26IXnU0GGUOhncLW51_CJ7zWiZ",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 53,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_53.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Buy Tarte Colored Clay CC Undereye Corrector - Light ...",
+   "link": "https://www.ebay.com/itm/397119790692",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLKg7dkfxlj0WRf8dNzjh9iRlMYcHpy81avwlVKlte7h-3kS_",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 54,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_54.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Colored Clay Undereye Corrector, Under Eye Concealer ...",
+   "link": "https://www.walmart.ca/en/ip/Colored-Clay-Undereye-Corrector-Under-Eye-Concealer-Undereye-Corrector-and-Brush-Under-Eye-Color-Corrector-for-Dark-Circles/6636AMGR7CDE",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWTe59bZAN1-Djnf5TSYMXS0AzX8-s9UxuFc_M7pgncVGAozhG",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 55,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_55.jpg"
+  },
+  {
+   "source": "Amazon.ae",
+   "title": "Colored Clay CC Undereye Corrector with Brush, Hydrating ...",
+   "link": "https://www.amazon.ae/Undereye-Corrector-Hydrating-Lightweight-Concealer/dp/B0F1KCD9C4",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqE7yn5QUP8qbESls1PdByHCxzipOrqfB5iXRlTZRp6lLr5wU_",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 56,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_56.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Tarte Colored Clay Cc Undereye Corrector, Medium-tan, 0.08 ...",
+   "link": "https://www.walmart.ca/en/ip/Tarte-Colored-Clay-Cc-Undereye-Corrector-Medium-tan-0-08-Oz/244S0V2E37TJ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm7Ahelb9RhMWwiXmCNALE5yE6cfAC-Mo0fBmmQ2Yq---lG7D",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 57,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_57.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Tarte colored Clay Cc Undereye Corrector - Light Medium ...",
+   "link": "https://www.amazon.ca/Tarte-colored-Clay-Undereye-Corrector/dp/B00LNC3JD4",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjnSO6WtHx1ZPvkROdGmFxVLaCzLkych57vYzWaWd_mms7j3Pd",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 58,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_58.jpg"
+  },
+  {
+   "source": "Amazon.com.au",
+   "title": "Colored Clay CC Undereye Corrector, Under Eye Concealer ...",
+   "link": "https://www.amazon.com.au/Colored-Undereye-Corrector-Concealer-Hydrating/dp/B0FSD7M48X",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKsSDia1zRzrAhivrAvZQKJgFBVVfU5PtxjybPT6QrJiy84bAI",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 59,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_59.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Colored Clay Undereye Corrector, Under Eye Concealer ...",
+   "link": "https://www.amazon.co.uk/Corrector-Concealer-Brightener-Foundation-Concealer（2/dp/B0FDGH1V8Y",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsYeknCLJOSF6JtuNv7okB2avDY-ofwvUpITzBSbJpXKkHy0as",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 60,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_60.jpg"
+  },
+  {
+   "source": "Amazon.it",
+   "title": "CC Cream Dermocosmetici, Correttore Occhiaie, Formula ...",
+   "link": "https://www.amazon.it/Dermocosmetici-Correttore-Occhiaie-Formula-Idratante/dp/B0HH9LLKNK",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_vwFsg8LNJ7Tr2gZVd7esdkBcHHsw8hRYuuWQVJlc9E1nnZq",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 61,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_61.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Concealer, Colored Clay Undereye Corrector, Full Coverage ...",
+   "link": "https://www.amazon.com.au/Concealer-Undereye-Corrector-Coverage-Moisturizing/dp/B0DZ2HXZ3T",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2Ug5FU2qa2qG1TzHkw2c_xHwYDJg0Q9031QzsZifF9fJ-IIBo",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 62,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/cc-cream_thumb_62.jpg"
+  }
+ ]
+}

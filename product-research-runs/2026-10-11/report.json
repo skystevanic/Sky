@@ -19,8 +19,1935 @@
   ],
   "mode": "full"
  },
- "headline": "Neither product is ready to test. The tennis swing trainer is the closer call: huge margin and only one advertiser, but cheap copies already sit in Amazon's top results everywhere.",
+ "headline": "No product is ready to test today. The under-eye CC cream has the strongest proof: one Italian shop has advertised it alone for over six months. But it copies Tarte's best-seller and needs EU cosmetics paperwork first.",
  "products": [
+  {
+   "slug": "cc-cream",
+   "name": "Under-Eye CC Cream Compact (DermoCosmetic)",
+   "one_liner": "One Italian shop has advertised this alone for six months, which is strong proof. But it copies Tarte's best-seller, which Sephora and Ulta sell, and look-alikes cost £6 on Amazon UK.",
+   "url": "https://dermocosmetic.it/products/correttore-occhiaie-cc-cream",
+   "brand": "DermoCosmetic",
+   "category": "Makeup: under-eye concealer",
+   "price": "€24.99 (shown as reduced from €39)",
+   "ad_days": "Oldest live ad 2026-03-30",
+   "store_platform": "Shopify",
+   "store_launched": "2026-03",
+   "store_products": "2 products: this compact and a brush",
+   "snapshot": {
+    "icp": "Women 35-60 with dark circles or mature under-eye skin who want quick coverage",
+    "job": "Hide dark circles in 30 seconds without creasing",
+    "cogs": "About €2-4 landed for a generic compact (estimate: look-alikes retail at £6)",
+    "margin": "About 85% at €24.99 (estimate)",
+    "claims": "High coverage, does not crease after 8 hours, 3 shades, built-in mirror",
+    "demoable": "Yes: before and after under one eye is instant and visual"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Ulta, Sephora and Kohl's sell Tarte's original in the US; Walmart Canada lists a look-alike at CA$18"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "Look-alikes from £5.99 on Amazon UK and on Temu; Italy and Spain were not checked"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand owns the Italian ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A cosmetic: the EU needs a Responsible Person, a safety report and registration before selling"
+    }
+   ],
+   "scores": {
+    "saturated": 7,
+    "margin": 8,
+    "viral": 8,
+    "pain": 7,
+    "differentiation": 3
+   },
+   "overall": 63,
+   "confidence": "Medium",
+   "best_region": "None of the six. The proof is in Italy, which these checks do not cover; Spain or Portugal would copy that playbook.",
+   "angles": [
+    "Spanish or Portuguese version of the same before-and-after ads",
+    "Men's under-eye concealer: tired eyes after work",
+    "New mums: hide sleepless nights in 30 seconds",
+    "Glasses wearers: coverage that does not crease under frames",
+    "TAKEN: \"Does not crease, even after 8 hours\" for mature skin (DermoCosmetic's main message)"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Backlog",
+    "why": [
+     "DermoCosmetic runs all 61 Italian ads for \"correttore occhiaie\" and its oldest has run since 30 March",
+     "It is a look-alike of Tarte's Colored Clay CC Undereye Corrector, sold by Sephora, Ulta, Kohl's and Macy's at US$32",
+     "Look-alikes are easy to find: £5.99 on Amazon UK and on Temu in Australia"
+    ],
+    "risk": "Copying a famous brand's look invites ad takedowns, and EU cosmetics need a safety report and registration before the first sale.",
+    "fastest_test": [
+     "Get a quote for an EU cosmetic safety report and registration from a Responsible Person service",
+     "If it is affordable, test a market DermoCosmetic is not in (Spain or Portugal) with your own branding"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "Priceline sells it at $22.00",
+     "sellers": 25,
+     "cheapest": "A$12",
+     "typical": "A$24",
+     "top": "Colorcity Cosmetics (70000)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "Sephora and Ulta sell many CC creams; the exact compact is Tarte's original.",
+     "sellers": 19,
+     "cheapest": "US$12",
+     "typical": "US$24",
+     "top": "Ulta Beauty (75000)"
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "John Lewis sells a pricier version (£38.50)",
+     "sellers": 21,
+     "cheapest": "£4",
+     "typical": "£14",
+     "top": "? (75000)"
+    },
+    {
+     "cc": "ca",
+     "status": "crowded",
+     "why": "Shoppers Drug Mart sells a pricier version ($31.49)",
+     "sellers": 17,
+     "cheapest": "C$8",
+     "typical": "C$44",
+     "top": "Desertcart.ae (75000)"
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "dm and Douglas sell other CC creams (tubes and sticks), not this compact. The photo search returned no results in Germany.",
+     "sellers": 13,
+     "cheapest": "€3",
+     "typical": "€11",
+     "top": "flaconi.de (49921)"
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "Farmers Department Store sells a pricier version ($39.99)",
+     "sellers": 30,
+     "cheapest": "NZ$10",
+     "typical": "NZ$48",
+     "top": "EmpressKorea (12000)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 147 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 147,
+     "n_1000_plus": 0,
+     "cheapest": "A$10",
+     "typical": "A$18",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Erinde Color Correcting CC Cream with Centella, Women Lightweight CC Cream Foundation Make",
+       "price_text": "$17.99",
+       "price": 17.99,
+       "rating": 3.6,
+       "reviews": 147,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Erinde-Correcting-Centella-Lightweight-Foundation/dp/B0DH1SLH56/",
+       "thumbnail": "https://m.media-amazon.com/images/I/719ohqzQVNL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Korean Color Changing CC Cream, Rich in Centella Asiatica CC Cream Multi-Function Color Ch",
+       "price_text": "$18.59",
+       "price": 18.59,
+       "rating": 3.7,
+       "reviews": 13,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Multi-Function-Moisturizing-Foundation-Waterproof-Long-Lasting/dp/B0F8B8M6JY/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51wr3w0SjML._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Multi-Purpose CC Cream with SPF 25 - Full Coverage Hydrating Foundation, Color Corrector &",
+       "price_text": "$19.99",
+       "price": 19.99,
+       "rating": 3.4,
+       "reviews": 10,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Multi-Purpose-Cream-SPF-Foundation-Moisturizing/dp/B0F1Z4DKQQ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61c+S4dA8aL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 83,800 reviews; 16 of the first 20 have 1,000+; at least 100,200 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 83800,
+     "n_1000_plus": 16,
+     "cheapest": "US$5",
+     "typical": "US$19",
+     "bought_last_month_min": 100200,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Maybelline New York Fit Me Liquid Concealer Makeup, Natural Coverage, Lightweight, Conceal",
+       "price_text": "$8.97",
+       "price": 8.97,
+       "rating": 4.4,
+       "reviews": 83800,
+       "bought_text": "2K+ bought in past month",
+       "bought": 2000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Maybelline-New-York-Concealer-Coverage/dp/B07H14D6CR/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61sc9lUjXKL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "IT Cosmetics CC+ Cream with SPF 50+ Full Coverage Foundation Natural Finish",
+       "price_text": "$39.00",
+       "price": 39.0,
+       "rating": 4.5,
+       "reviews": 34400,
+       "bought_text": "10K+ bought in past month",
+       "bought": 10000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Cosmetics-Your-Better-Cream-Medium/dp/B01LMMZY6O/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51oK80Z2H6L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "IT Cosmetics CC+ Cream with SPF 50+ Full Coverage Foundation Natural Finish",
+       "price_text": "$39.00",
+       "price": 39.0,
+       "rating": 4.5,
+       "reviews": 34400,
+       "bought_text": "9K+ bought in past month",
+       "bought": 9000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Cosmetics-Neutral-Medium-Coverage-Ounces/dp/B07HYJZLZ7/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61vcdYi9XKL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 7,200 reviews; 8 of the first 20 have 1,000+; at least 14,300 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 7200,
+     "n_1000_plus": 8,
+     "cheapest": "£4",
+     "typical": "£15",
+     "bought_last_month_min": 14300,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "e.l.f. Camo CC Cream, Color Correcting Medium-To-Full Coverage Foundation with SPF 30, Lig",
+       "price_text": "£15.00",
+       "price": 15.0,
+       "rating": 3.8,
+       "reviews": 7200,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B08TQMG68Q/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61eQvMtQXNL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "L'Oréal Paris Magic CC Cream Transforming Formula for Anti-Redness 30 ml",
+       "price_text": "£8.47",
+       "price": 8.47,
+       "rating": 4.3,
+       "reviews": 6900,
+       "bought_text": "5K+ bought in past month",
+       "bought": 5000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/LOreal-Cest-Magic-Cream-Anti-Redness/dp/B07QZ8JRB8/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61O5shVcEqL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Erborian - CC Cream with Centella Asiatica - Color Correcting Cream with Healthy Glow Effe",
+       "price_text": "£19.00",
+       "price": 19.0,
+       "rating": 4.5,
+       "reviews": 5500,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0FHBRTYQT/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61H8FI2f6jL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 225,900 reviews; 8 of the first 20 have 1,000+; at least 5,150 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 225900,
+     "n_1000_plus": 8,
+     "cheapest": "C$6",
+     "typical": "C$18",
+     "bought_last_month_min": 5150,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Maybelline New York Multi-Use Concealer and Contour Product, Under Eye Dark Circles Treatm",
+       "price_text": "$12.38",
+       "price": 12.38,
+       "rating": 4.3,
+       "reviews": 225900,
+       "bought_text": "2K+ bought in past month",
+       "bought": 2000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Maybelline-New-York-Treatment-Concealer/dp/B004Y9GTYE/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51aHd8ejqmL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Maybelline New York Instant Age Rewind Eraser Multi-Use Concealer, Under Eye Dark Circles ",
+       "price_text": "$12.38",
+       "price": 12.38,
+       "rating": 4.3,
+       "reviews": 225900,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Maybelline-New-York-Concealer-Milliliters/dp/B07Q9V4KMJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51C9RbCgznL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "IT Cosmetics Your Skin But Better CC+",
+       "price_text": "$53.00",
+       "price": 53.0,
+       "rating": 4.2,
+       "reviews": 14800,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Cosmetics-Cream-Medium-Coverage-Ounces/dp/B07HLD2HC4/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61A6hswMS9L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 13,300 reviews; 11 of the first 20 have 1,000+; at least 6,750 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 13300,
+     "n_1000_plus": 11,
+     "cheapest": "€3",
+     "typical": "€15",
+     "bought_last_month_min": 6750,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Maybelline New York Instant Anti-Age Effect Eraser Concealer Against Dark Circles & Wrinkl",
+       "price_text": "€6.82",
+       "price": 6.82,
+       "rating": 4.4,
+       "reviews": 13300,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0743T3WGY/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61zfoXqL+gL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Erborian CC Red Correct - Cream against Redness with Centella Asiatica - Korean Face Care ",
+       "price_text": "€23.32",
+       "price": 23.32,
+       "rating": 4.4,
+       "reviews": 9200,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0GF9MLZ9H/",
+       "thumbnail": "https://m.media-amazon.com/images/I/41ai0G-jmqL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Erborian CC Red Correct - Cream against Redness with Centella Asiatica - Korean Face Care ",
+       "price_text": "€15.95",
+       "price": 15.95,
+       "rating": 4.4,
+       "reviews": 9200,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Erborian-Red-Correct-Naturally-Complexion/dp/B07LGCGG6R/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61iCBCcaTyL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "low",
+     "why": "top listing 147 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 147,
+     "n_1000_plus": 0,
+     "cheapest": "A$10",
+     "typical": "A$18",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Erinde Color Correcting CC Cream with Centella, Women Lightweight CC Cream Foundation Make",
+       "price_text": "$17.99",
+       "price": 17.99,
+       "rating": 3.6,
+       "reviews": 147,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Erinde-Correcting-Centella-Lightweight-Foundation/dp/B0DH1SLH56/",
+       "thumbnail": "https://m.media-amazon.com/images/I/719ohqzQVNL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Korean Color Changing CC Cream, Rich in Centella Asiatica CC Cream Multi-Function Color Ch",
+       "price_text": "$18.59",
+       "price": 18.59,
+       "rating": 3.7,
+       "reviews": 13,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Multi-Function-Moisturizing-Foundation-Waterproof-Long-Lasting/dp/B0F8B8M6JY/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51wr3w0SjML._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Multi-Purpose CC Cream with SPF 25 - Full Coverage Hydrating Foundation, Color Corrector &",
+       "price_text": "$19.99",
+       "price": 19.99,
+       "rating": 3.4,
+       "reviews": 10,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Multi-Purpose-Cream-SPF-Foundation-Moisturizing/dp/B0F1Z4DKQQ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61c+S4dA8aL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "steady",
+     "growth_pct": 12,
+     "seasonal": false,
+     "peak_months": [
+      "Feb",
+      "Apr",
+      "Nov"
+     ],
+     "months_to_peak": null,
+     "now_vs_high": 39,
+     "avg_last_year": 50.4,
+     "spike": false,
+     "zero_share": 0.0,
+     "why": "A typical week in the last 12 months is +12% on the year before",
+     "line": [
+      38,
+      40,
+      46,
+      50,
+      41,
+      44,
+      44,
+      36,
+      37,
+      41,
+      40,
+      53,
+      50,
+      44,
+      56,
+      46,
+      38,
+      32,
+      38,
+      36,
+      26,
+      41,
+      43,
+      37,
+      58,
+      52,
+      47,
+      44,
+      51,
+      62,
+      34,
+      43,
+      50,
+      40,
+      75,
+      62,
+      50,
+      52,
+      88,
+      82,
+      58,
+      61,
+      47,
+      48,
+      34,
+      41,
+      36,
+      42,
+      44,
+      50,
+      42,
+      35,
+      39
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein. 9 other copies",
+     "prices": {
+      "brand": 43.59,
+      "cheapest_copy": 9.0,
+      "typical_copy": 27.0,
+      "cheapest_real_copy": null,
+      "priced_copies": 6
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "eBay Australia",
+       "title": "Colored Clay C-C Undereye Corrector Under Eye Concealer Eye ...",
+       "link": "https://www.ebay.com.au/itm/388035935940",
+       "price_text": "A$9",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_03.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon",
+       "title": "Colored Clay Cc Undereye Corrector,Color Corrector For Dark ...",
+       "link": "https://www.amazon.com.au/Undereye-Corrector-Brighten-Hydrating-Concealer/dp/B0F138BL12",
+       "price_text": "A$27",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_04.jpg",
+       "looked_up": true,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 0 reviews"
+      },
+      {
+       "source": "Amazon",
+       "title": "Generic Colored Clay CC Undereye Corrector with Brush ...",
+       "link": "https://www.amazon.com.au/Generic-Undereye-Corrector-Moisturizing-Concealer/dp/B0DZ328Y68",
+       "price_text": "A$21",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_05.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon",
+       "title": "Colored Clay Undereye Corrector, CC Undereye Corrector for ...",
+       "link": "https://www.amazon.com.au/Undereye-Corrector-Hydrating-Concealer-Light-Medium/dp/B0FPCGLP4V",
+       "price_text": "A$20",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_06.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon",
+       "title": "tarte colored clay CC undereye corrector - medium-tan ...",
+       "link": "https://www.amazon.com.au/TARTE-Colored-undereye-corrector-MEDIUM/dp/B00LNC3KHE",
+       "price_text": "A$54",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_07.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Desertcart Australia",
+       "title": "Tarte Colored Clay Cc Undereye Corrector Full Coverage ...",
+       "link": "https://www.desertcart.com.au/products/7577965-tarte-colored-clay-cc-undereye-corrector-full-coverage-concealer-vegan",
+       "price_text": "A$71",
+       "kind": "other store",
+       "thumb_file": "lens/cc-cream_thumb_19.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon",
+       "title": "TARTE TARTE CC Colored clay undereye corrector in LIGHT ...",
+       "link": "https://www.amazon.com.au/TARTE-Colored-undereye-corrector-MEDIUM/dp/B00LNC3JD4",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_34.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "soft matte concealer full coverage - Temu Mauritius",
+       "link": "https://www.temu.com/mu/-soft-matte-concealer-full-coverage--g-601102733633439.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_35.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "eBay Australia",
+       "title": "Colored Clay CC Undereye Color Corrector Dark Circles Eye ...",
+       "link": "https://www.ebay.com.au/itm/286398040308",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_36.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay Australia",
+       "title": "Colored Clay CC Undereye Corrector Under Eye Concealer Eye ...",
+       "link": "https://www.ebay.com.au/itm/318372589570",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_37.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "The same object is sold by Ulta Beauty at $32",
+     "prices": {
+      "brand": 29.06,
+      "cheapest_copy": 7.99,
+      "typical_copy": 32.0,
+      "cheapest_real_copy": 32.0,
+      "priced_copies": 12
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "eBay",
+       "title": "Buy Tarte Colored Clay CC Undereye Corrector - Light-Medium ...",
+       "link": "https://www.ebay.com/itm/397119790692",
+       "price_text": "$64",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_01.jpg"
+      },
+      {
+       "source": "eBay",
+       "title": "tarte colored clay cc undereye corrector – Full Coverage ...",
+       "link": "https://www.ebay.com/itm/377095454516",
+       "price_text": "$47",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_02.jpg"
+      },
+      {
+       "source": "Ulta Beauty",
+       "title": "Tarte - Light-Medium CC Undereye Corrector | Ulta Beauty",
+       "link": "https://www.ulta.com/p/cc-undereye-corrector-xlsImpprod10821078?sku=2276028",
+       "price_text": "$32",
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_08.jpg"
+      },
+      {
+       "source": "Macy's",
+       "title": "tarte™ Colored Clay CC Undereye Corrector - Macy's",
+       "link": "https://www.macys.com/shop/product/tarte-colored-clay-cc-undereye-corrector?ID=1538939",
+       "price_text": "$32",
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_09.jpg"
+      },
+      {
+       "source": "eBay",
+       "title": "Colored Clay CC Undereye Corrector, Color Corrector for Dark ...",
+       "link": "https://www.ebay.com/itm/156931093105",
+       "price_text": "$15",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_10.jpg"
+      },
+      {
+       "source": "Tarte",
+       "title": "CC undereye & dark circle defense™ corrector brush duo – Tarte™",
+       "link": "https://tartecosmetics.com/products/cc-undereye-dark-circle-defense-brush-duo",
+       "price_text": "$32",
+       "kind": "other store",
+       "thumb_file": "lens/cc-cream_thumb_18.jpg"
+      },
+      {
+       "source": "Tarte",
+       "title": "Colored Clay CC Undereye Corrector — Waterproof Dark ...",
+       "link": "https://tartecosmetics.com/products/cc-undereye-corrector",
+       "price_text": "$32",
+       "kind": "other store",
+       "thumb_file": "lens/cc-cream_thumb_21.jpg"
+      },
+      {
+       "source": "HSN",
+       "title": "tarte Undereye Corrector & Brush | HSN",
+       "link": "https://www.hsn.com/products/tarte-undereye-corrector-and-brush/23652739",
+       "price_text": "$32",
+       "kind": "other store",
+       "thumb_file": "lens/cc-cream_thumb_23.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Colored Clay CC Undereye Corrector, Hydrating Concealer with ...",
+       "link": "https://www.walmart.com/ip/Colored-Clay-CC-Undereye-Corrector-Hydrating-Concealer-with-Brush-for-Dark-Circles-Blemishes-Mature-Skin-light-skin-tone/20268321866",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_24.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: FREEORR Under Eye Brightener with Brush, Colored ...",
+       "link": "https://www.amazon.com/clp/B0FP548ZPW",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_25.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Colored Clay CC Undereye Corrector with Brush ...",
+       "link": "https://www.amazon.com/clp/B0FBS4MY5H",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_27.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "tarte colored clay cc undereye corrector – Full ... - Amazon.com",
+       "link": "https://www.amazon.com/clp/B00LNC3JD4",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_28.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Colored Clay CC Undereye Corrector, Under Eye ...",
+       "link": "https://www.amazon.com/clp/B0DSFQWWDX",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_29.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com : Colored Clay CC Undereye Corrector - Color ...",
+       "link": "https://www.amazon.com/Colored-Clay-Undereye-Corrector-Brightening/dp/B0GK8WJ7WZ",
+       "price_text": "$9.99",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_30.jpg",
+       "looked_up": true,
+       "reviews": 3,
+       "bought": null
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Luhaka Colored Clay Cc Undereye Corrector, Under ...",
+       "link": "https://www.amazon.com/Luhaka-Undereye-Corrector-Concealer-Blemishes/dp/B0GWMQ2BH5",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_31.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com : Colored Clay CC Undereye Corrector, Under Eye ...",
+       "link": "https://www.amazon.com/Colored-Undereye-Corrector-Concealer-Light-Medium/dp/B0DSPM87VP",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_32.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Colored Clay CC Undereye Corrector, Under Eye Concealer,CC ...",
+       "link": "https://www.walmart.com/ip/Colored-Clay-CC-Undereye-Corrector-Eye-Concealer-CC-Undereye-Corrector-Color-Corrector-Dark-Circles-Under-Eye-Hydrating-Concealer-Women-CC-Undereye-C/14889563593",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_42.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "L.A. COLORS Conceal It Concealer Light 0.42 fl oz for ...",
+       "link": "https://www.walmart.com/ip/L-A-COLORS-Concealer-Conceal-It-Light-0-42-fl-oz/760966847",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_43.jpg"
+      },
+      {
+       "source": "amazon.com",
+       "title": "tarte colored clay cc undereye corrector – Full-Coverage Concealer with Vegan Squalane & C",
+       "link": "https://www.amazon.com/TARTE-Colored-undereye-corrector-MEDIUM/dp/B00LNC3JD4/",
+       "price_text": "$32.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/cc-cream_vis_thumb_009.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 2800,
+       "bought": "30K+ bought in past month"
+      },
+      {
+       "source": "Kohl's",
+       "title": "Tarte Colored Clay CC Undereye Corrector",
+       "link": "https://www.google.com/search?q=%22Tarte+Colored+Clay+CC+Undereye+Corrector%22+Kohl%27s",
+       "price_text": "$32.00",
+       "kind": "big chain",
+       "thumb_file": "visible/cc-cream_vis_thumb_069.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 4,
+       "reviews": 3300,
+       "bought": null
+      },
+      {
+       "source": "amazon.com",
+       "title": "Under Eye Brightener with Brush, Colored Clay CC Undereye Corrector for Dark Circles, Conc",
+       "link": "https://www.amazon.com/FREEORR-Brightener-Corrector-Hydrating-Correcting/dp/B0FP548ZPW/",
+       "price_text": "$7.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/cc-cream_vis_thumb_032.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 316,
+       "bought": "500+ bought in past month"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "Amazon.co.uk - Amazon.co.uk-Seller at £5.99: Google Shopping result 3 for the product words. 10 other copies",
+     "prices": {
+      "brand": 21.79,
+      "cheapest_copy": 5.99,
+      "typical_copy": 7.0,
+      "cheapest_real_copy": 5.99,
+      "priced_copies": 6
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon UK",
+       "title": "Under Eye Colour Corrector, Hydrating Colour Corrector Dark ...",
+       "link": "https://www.amazon.co.uk/Corrector-Hydrating-Brightener-Undereye-Concealer/dp/B0F1D343W9",
+       "price_text": "£8",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_11.jpg",
+       "looked_up": true,
+       "reviews": 42,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 42 reviews"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Undereye Color Corrector For Dark Circles, Cc Cream ...",
+       "link": "https://www.amazon.co.uk/Corrector-Foundation-Hydrating-Waterproof-Light-MediumPeach/dp/B0FKT6KY9Y",
+       "price_text": "£8",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_12.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Coloured Clay CC Undereye Corrector - Brightening Under Eye ...",
+       "link": "https://www.amazon.co.uk/Coloured-Clay-Undereye-Corrector-Brightening/dp/B0G8YJBWHC",
+       "price_text": "£7",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_13.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Under Eye Colour Corrector Concealer, Full Coverage ...",
+       "link": "https://www.amazon.co.uk/Corrector-Concealer-Waterproof-Long-Lasting-Brightener/dp/B0F48NBCYW",
+       "price_text": "£6",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_26.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Concealer, Natural Finish Under Eye Concealer with Brush ...",
+       "link": "https://www.amazon.co.uk/Concealer-Natural-Corrector-Brightener-Undereye/dp/B0FVSPCSQ5",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_45.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay UK",
+       "title": "Pink Concealers for sale | eBay UK",
+       "link": "https://www.ebay.co.uk/b/bn_10307886",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_46.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Concealer, Under Eye Brightener with Brush, Peach Colour ...",
+       "link": "https://www.amazon.co.uk/Concealer-Brightener-Corrector-Lightweight-Application/dp/B0FPL755RC",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_47.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Colour under Eye Corrector Cream,Colored CC Undereye ...",
+       "link": "https://www.amazon.co.uk/Corrector-Undereye-Brightener-Concealer-Coverage/dp/B0DZTTPDW9",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_48.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Under Eye Concealer, Lightweight Magic Under Eye Corrector ...",
+       "link": "https://www.amazon.co.uk/Concealer-Lightweight-Corrector-Undereye-Crease-Proof/dp/B0FRDZNPSY",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_49.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+       "title": "Colored Clay CC Under Eye Corrector & Brightener - Full Coverage Dark Circle Concealer, Lo",
+       "link": "https://www.google.com/search?q=%22Colored+Clay+CC+Under+Eye+Corrector+%26+Brightener+-+Full+Coverage+Dark+Circle+Concealer%2C+Long-Lasting+Waterproo%22+Amazon.co.uk",
+       "price_text": "£5.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/cc-cream_vis_thumb_064.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 3,
+       "reviews": 104,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 3 for the product words"
+      },
+      {
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+       "title": "Coloured Clay CC Under-Eye Concealer, Full Coverage, Light-Medium Peach | Colour-correctin",
+       "link": "https://www.google.com/search?q=%22Coloured+Clay+CC+Under-Eye+Concealer%2C+Full+Coverage%2C+Light-Medium+Peach+%7C+Colour-correcting+cream+neutralises+%22+Amazon.co.uk",
+       "price_text": "£6.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/cc-cream_vis_thumb_111.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 12 for the product words"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "The same object is sold by Walmart at CA$18",
+     "prices": {
+      "brand": 39.81,
+      "cheapest_copy": 15.0,
+      "typical_copy": 19.0,
+      "cheapest_real_copy": 18.0,
+      "priced_copies": 5
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.ca",
+       "title": "Colored Clay Cc Undereye Corrector, Under Eye Concealer ...",
+       "link": "https://www.amazon.ca/Colored-Undereye-Corrector-Concealer-Circles/dp/B0DRSCN7YQ",
+       "price_text": "CA$25",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_14.jpg",
+       "looked_up": true,
+       "reviews": null,
+       "bought": null
+      },
+      {
+       "source": "Walmart",
+       "title": "Under Eye Brightener Corrector, Long-Lasting Waterproof ...",
+       "link": "https://www.walmart.ca/en/ip/Under-Eye-Brightener-Corrector-Long-Lasting-Waterproof-Creaseproof-Formula-Lightweight-Natural-Matte-Finish-Undereyes-Correcter-Conceal-Imperfections/1SNFUFBJQJKF",
+       "price_text": "CA$18",
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_15.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Colored Clay Cc Undereye Corrector,Under Eye Brightener with ...",
+       "link": "https://www.walmart.ca/en/ip/Colored-Clay-Cc-Undereye-Corrector-Under-Eye-Brightener-Brush-Eye-Concealer-Undereye-Color-Corrector-Dark-Circles-Clay-Neutralizing-Makeup-Under-Hydr/4ET9H6W1LLSS",
+       "price_text": "CA$19",
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_16.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Colored Clay CC Undereye Corrector – Under Eye Concealer ...",
+       "link": "https://www.amazon.ca/Colored-Clay-Undereye-Corrector-Discoloration/dp/B0FXLC7FRG",
+       "price_text": "CA$15",
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_17.jpg"
+      },
+      {
+       "source": "Tarte",
+       "title": "CC undereye & dark circle defense™ corrector brush duo – Tarte™",
+       "link": "https://tartecosmetics.com/products/cc-undereye-dark-circle-defense-brush-duo",
+       "price_text": "CA$47",
+       "kind": "other store",
+       "thumb_file": "lens/cc-cream_thumb_18.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Undereye Corrector Concealer, Colored Clay CC Undereye ...",
+       "link": "https://www.amazon.ca/Undereye-Corrector-Concealer-Correct-Hydrating/dp/B0FD3WGWZ9",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_51.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "2025 Colored Clay CC Undereye Corrector, Under Eye Concealer ...",
+       "link": "https://www.amazon.ca/Corrector-Concealer-Waterproof-Hydrating-Light-Medium/dp/B0FHPS4QRX",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_52.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Colored Clay Under Eye Concealer,CC Undereye Color Corrector ...",
+       "link": "https://www.amazon.ca/Concealer-Undereye-Corrector-Hydrating-Light-Medium/dp/B0DW3ZMK1K",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_53.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Colored Clay Undereye Corrector, Under Eye Concealer ...",
+       "link": "https://www.walmart.ca/en/ip/Colored-Clay-Undereye-Corrector-Under-Eye-Concealer-Undereye-Corrector-and-Brush-Under-Eye-Color-Corrector-for-Dark-Circles/6636AMGR7CDE",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_55.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Tarte Colored Clay Cc Undereye Corrector, Medium-tan, 0.08 ...",
+       "link": "https://www.walmart.ca/en/ip/Tarte-Colored-Clay-Cc-Undereye-Corrector-Medium-tan-0-08-Oz/244S0V2E37TJ",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/cc-cream_thumb_57.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Tarte colored Clay Cc Undereye Corrector - Light Medium ...",
+       "link": "https://www.amazon.ca/Tarte-colored-Clay-Undereye-Corrector/dp/B00LNC3JD4",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_58.jpg"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "nz",
+     "status": "weak",
+     "why": "3 copies, all hard to find. Cheapest: Amazon (not in the top results, 0 reviews)",
+     "prices": {
+      "brand": 48.82,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon",
+       "title": "Colored Clay Cc Undereye Corrector,Color Corrector For Dark ...",
+       "link": "https://www.amazon.com.au/Undereye-Corrector-Brighten-Hydrating-Concealer/dp/B0F138BL12",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_04.jpg",
+       "looked_up": true,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 0 reviews"
+      },
+      {
+       "source": "Amazon.com.au",
+       "title": "Colored Clay CC Undereye Corrector, Under Eye Concealer ...",
+       "link": "https://www.amazon.com.au/Colored-Undereye-Corrector-Concealer-Hydrating/dp/B0FSD7M48X",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_59.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon",
+       "title": "Concealer, Colored Clay Undereye Corrector, Full Coverage ...",
+       "link": "https://www.amazon.com.au/Concealer-Undereye-Corrector-Coverage-Moisturizing/dp/B0DZ2HXZ3T",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/cc-cream_thumb_62.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 59
+    }
+   ],
+   "lens_sheet": "lens/cc-cream_sheet.jpg",
+   "supplier": {
+    "slug": "cc-cream",
+    "brand_price": 24.99,
+    "brand_currency": "eur",
+    "words": "cc cream concealer compact",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-cc-cream-concealer-compact.html",
+    "listings": [],
+    "summary": {
+     "found": 0,
+     "priced": 0,
+     "brand_price_usd": 29.06,
+     "status": "none found",
+     "plain": "The photo search did not turn up a supplier listing for this exact object. That does not prove there isn't one: search AliExpress for it by name or picture before you decide."
+    }
+   },
+   "meta": {
+    "slug": "cc-cream",
+    "phrase": "correttore occhiaie",
+    "checked": "2026-10-11",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22correttore%20occhiaie%22",
+    "ads_loaded": 61,
+    "capped": false,
+    "stopped_by": "read every live ad",
+    "n_advertisers": 1,
+    "advertisers_with_3_plus_ads": 1,
+    "biggest_advertiser_share": 1.0,
+    "brands_new_in_last_2_months": 0,
+    "brands_advertising_3_plus_months": 1,
+    "ads_started_last_2_months": 33,
+    "ads_older_than_6_months": 3,
+    "pattern": "one brand owns it",
+    "plain": "1 brands, but dermocosmetic.it runs 61 of the 61 ads.",
+    "months": {
+     "2026-03": 1,
+     "2026-04": 2,
+     "2026-05": 6,
+     "2026-06": 12,
+     "2026-07": 1,
+     "2026-08": 6,
+     "2026-09": 10,
+     "2026-10": 23
+    },
+    "brand_months": {
+     "2026-03": 1
+    },
+    "top_advertisers": [
+     {
+      "name": "DermoCosmetic Italia",
+      "pages": 1,
+      "page_names": [
+       "DermoCosmetic Italia"
+      ],
+      "ads": 61,
+      "oldest_live_ad": "2026-03-30",
+      "page_likes": 12194,
+      "headline": "😊 CC Cream - Copre le Occhiaie e Non Secca",
+      "shop": "dermocosmetic.it",
+      "product_page": "https://dermocosmetic.it/products/correttore-occhiaie-cc-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=896692296870146",
+      "shop_open_since": "2026-03-21"
+     }
+    ],
+    "domains": {
+     "dermocosmetic.it": 61
+    },
+    "cost_usd": 0.35,
+    "shops_checked": 1,
+    "shops_over_a_year_old": 0,
+    "shops_under_4_months_old": 0,
+    "takeaway": "In Italy DermoCosmetic is alone: all 61 ads for \"correttore occhiaie\" are theirs, the oldest from 30 March, and 23 started this month. Six months of spend means it pays. The ads are Italian, so this proves Italy, not the six countries on the map."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "cc cream concealer",
+     "image": "asis/cc-cream_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "BB & CC Cream Face Makeup | L'Oréal Paris Australia & NZ",
+       "link": "https://www.lorealparis.com.au/face-makeup/bb-cream",
+       "domain": "lorealparis.com.au",
+       "kind": "store / brand",
+       "snippet": "Foundations and BB / CC creams are like a white paper that prepares the makeup of your eyes and lips. They are incomplete without the concealer,"
+      },
+      {
+       "position": 2,
+       "title": "Buy Cc Cream For Dark Skin",
+       "link": "https://www.sephora.com.au/buy/cc-cream-for-dark-skin?srsltid=AU7gw4WhWw1jSRuO3m1xVE7HFxglYfs2q_jMjbrT2TFundpTqhFIfcrd",
+       "domain": "sephora.com.au",
+       "kind": "store / brand",
+       "snippet": "An all-in-one full coverage foundation, hydrating anti-aging concealer and daily SPF. Colour-correction meets skin-loving hydration and protection in this CC .."
+      },
+      {
+       "position": 4,
+       "title": "The Best 8 CC Creams of 2026, Tested and Reviewed",
+       "link": "https://www.byrdie.com/best-cc-creams-4707579",
+       "domain": "byrdie.com",
+       "kind": "article",
+       "snippet": "Top Picks ; Best Overall: Lumene CC Color Correcting Cream at Amazon $22 ; Best for Redness: Erborian CC Cream at Amazon $46 ; Best for Oily Skin:."
+      },
+      {
+       "position": 5,
+       "title": "Air Cushion CC Cream Foundation",
+       "link": "https://www.desertcart.com.au/products/824414485-foundation-for-older-women-air-cushion-cc-cream-foundation-makeup-bb-cream-concealer-full-coverage-moisturizing-concealer-brighten-long-lasting-buff-beige?srsltid=AU7gw4VeCIhCKp7ITL0mmWVWTozHgfl3EqnvyNteNulP_JZ71wL0xfm0",
+       "domain": "desertcart.com.au",
+       "kind": "store / brand",
+       "snippet": "SKIN NOURISHING FORMULA - Enriched with Centella asiatica, Tremella, and Vitamin E to hydrate, control oil, and reduce fine lines while you wear it."
+      },
+      {
+       "position": 6,
+       "title": "BB & CC Cream | Buy Face Cream Online Australia",
+       "link": "https://www.theiconic.com.au/beauty-make-up-face-bb-cc-cream/",
+       "domain": "theiconic.com.au",
+       "kind": "store / brand",
+       "snippet": "CC cream, also known as colour correcting cream, is specifically designed to even out skin tone in target areas. favourite concealer to customise your ..."
+      }
+     ],
+     "paa": [
+      "Is CC cream any good?",
+      "Is CC cream clean makeup?",
+      "What's better, CC cream or foundation?",
+      "Should I apply concealer or CC cream first?"
+     ],
+     "popular_products": [
+      {
+       "title": "Korean Color Changing CC Cream, Rich in Centella Asiatica CC",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "L'Oreal Paris C'est Magic CC Cream Anti-Redness",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "Natio Pure Mineral Dream Skin CC Cream SPF 50",
+       "price": null,
+       "source": "Priceline"
+      },
+      {
+       "title": "IT Cosmetics Your Skin But Better CC+ Cream",
+       "price": null,
+       "source": "Sephora.com.au"
+      },
+      {
+       "title": "MCoBeauty Illuminating CC Cream Medium 45ml",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "e.l.f. Camo CC Cream",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "tarte CC Color-Correcting Tinted Serum",
+       "price": null,
+       "source": "Sephora.com.au"
+      },
+      {
+       "title": "Embryolisse Complexion Correcting Care CC Cream 30ml",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "Erborian CC",
+       "price": null,
+       "source": "REVOLVE"
+      },
+      {
+       "title": "Mushroom Head Air Cushion CC Cream Foundation, Moisturizing ",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: lorealparis.com.au (store / brand). In the product strip: Amazon AU - Amazon.com.au-Seller, Chemist Warehouse, Priceline, REVOLVE, Sephora.com.au. Amazon here is quiet."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "cc cream concealer",
+     "image": "asis/cc-cream_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Best CC Creams: Color Correcting Foundation",
+       "link": "https://www.itcosmetics.com/makeup/face-makeup/cc-cream?srsltid=AU7gw4XO7O_I-cHWn5ny3ljnZFaN9lyQRI40rWgPLtciLGNl7P534189",
+       "domain": "itcosmetics.com",
+       "kind": "store / brand",
+       "snippet": "CC cream (short for color-correcting cream) is a multitasking color-correcting foundation that helps neutralize redness, discoloration, and uneven skin tone"
+      },
+      {
+       "position": 3,
+       "title": "CC Cream + Concealer Set",
+       "link": "https://thrivecausemetics.com/products/cc-cream-concealer-set",
+       "domain": "thrivecausemetics.com",
+       "kind": "store / brand",
+       "snippet": "Create flawless coverage with our CC Cream, then brighten with our lightweight Concealer. 16 inclusive shades … vegan + cruelty-free!"
+      },
+      {
+       "position": 4,
+       "title": "BB & CC Cream",
+       "link": "https://www.sephora.com/shop/bb-cream-cc-cream",
+       "domain": "sephora.com",
+       "kind": "big chain",
+       "snippet": "CC Creams provide you with more coverage like that of a foundation, along with the added benefit of allowing you to skip the extra step of ..."
+      },
+      {
+       "position": 5,
+       "title": "What is CC Cream and How do I Wear it?",
+       "link": "https://www.palladiobeauty.com/blogs/palladio-beauty-blog/what-is-cc-cream-and-how-do-i-wear-it?srsltid=AU7gw4W6pGt7q7XLPsTs3Lp0RmCEniveZnfXKFYeQ9-6MjACLCSDr-qU",
+       "domain": "palladiobeauty.com",
+       "kind": "article",
+       "snippet": "Do you need concealer with CC cream? Not always. Many people find they can skip concealer because CC cream helps even the look of redness and discoloration."
+      },
+      {
+       "position": 6,
+       "title": "Color Correcting CC Cream With Centella Asiatica,Multi- ...",
+       "link": "https://www.amazon.com/clp/B0CG1RF47Y",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "CC Cream Concealer Full Coverage,SPF. Moisturizing Coverage, Natural Shade, Primer and Concealer. Suitable for All Skin Types, 50ml/1.69 Fl.Oz"
+      }
+     ],
+     "paa": [
+      "Can CC cream be used as concealer?",
+      "Should I use CC cream or concealer?",
+      "What is better for older skin, BB or CC cream?",
+      "What goes first, concealer or CC cream?"
+     ],
+     "popular_products": [
+      {
+       "title": "Tarte Colored Clay CC Undereye Corrector",
+       "price": "$32.00",
+       "source": "tarte cosmetics"
+      },
+      {
+       "title": "tarte CC Color-Correcting Tinted Serum",
+       "price": "$42.00",
+       "source": "Ulta Beauty"
+      },
+      {
+       "title": "Erborian CC Cream",
+       "price": "$46.00",
+       "source": "Sephora"
+      },
+      {
+       "title": "Clinique Moisture Surge CC Cream SPF 30 Hydrating Colour Cor",
+       "price": "$45.00",
+       "source": "Nordstrom"
+      },
+      {
+       "title": "e.l.f. Cosmetics Hydrating Camo CC Cream",
+       "price": "$16.00",
+       "source": "Ulta Beauty"
+      },
+      {
+       "title": "It Cosmetics CC+ Cream with SPF 50+",
+       "price": "$19.00",
+       "source": "Sephora"
+      },
+      {
+       "title": "Clinique Moisture Surge CC Cream Hydrating Colour Corrector ",
+       "price": "$45.00",
+       "source": "Nordstrom"
+      },
+      {
+       "title": "e.l.f. Camo CC Cream",
+       "price": "$15.00",
+       "source": "Target"
+      },
+      {
+       "title": "e.l.f Camo CC Cream",
+       "price": "$16.00",
+       "source": "e.l.f. Cosmetics"
+      },
+      {
+       "title": "It Cosmetics CC+ Cream Illumination SPF 50+",
+       "price": "$39.00",
+       "source": "Nordstrom"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "CC cream (color-correcting cream) is a multitasking face product that combines a hydrating skincare serum, broad-spectrum sunscreen, and medium-to-full coverage foundation into one step.",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in the US: itcosmetics.com (store / brand). In the product strip: Nordstrom, Sephora, Target, Ulta Beauty, e.l.f. Cosmetics. Amazon here is crowded."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "cc cream concealer",
+     "image": "asis/cc-cream_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Cc Cream",
+       "link": "https://www.ebay.co.uk/shop/cc-cream?_nkw=cc+cream",
+       "domain": "ebay.co.uk",
+       "kind": "marketplace",
+       "snippet": "Explore a wide range of our Cc Cream selection. CC Cream C'est Magic Infused with B5 … £8.99 to £9.99(£9.99/Unit) Brand new £6.96. Concealer Moisturizing. ..."
+      },
+      {
+       "position": 2,
+       "title": "2026 Best Sellers CC Cream",
+       "link": "https://totalaigroup.co.uk/product-category/face-makeup/bb-and-cc-creams/cc-cream",
+       "domain": "totalaigroup.co.uk",
+       "kind": "store / brand",
+       "snippet": "Air Cushion BB CC Cream Mushroom Stick Whitening Oil Control Concealer Lasting Moisturizing Foundation Facial Makeup Cosmetic. Rated 5 out of 5 based on 1 ..."
+      },
+      {
+       "position": 3,
+       "title": "The Best 8 CC Creams of 2026, Tested and Reviewed",
+       "link": "https://www.byrdie.com/best-cc-creams-4707579",
+       "domain": "byrdie.com",
+       "kind": "article",
+       "snippet": "Top Picks ; Best Overall: Lumene CC Color Correcting Cream at Amazon $22 ; Best for Redness: Erborian CC Cream at Amazon $46 ; Best for Oily Skin:."
+      },
+      {
+       "position": 4,
+       "title": "CC Color Correcting Cream SPF20 - Lumene UK",
+       "link": "https://uk.lumene.com/products/8349000",
+       "domain": "uk.lumene.com",
+       "kind": "store / brand",
+       "snippet": "CC Color Correcting Cream is a lightweight, medium coverage fluid foundation that reduces redness and perfects skin for an even, naturally glowing complexion."
+      },
+      {
+       "position": 5,
+       "title": "What Is CC Cream? | Colour Correcting",
+       "link": "https://www.lookfantastic.com/blog/advice/what-is-cc-cream-everything-you-need-to-know-about-colour-correcting-creams/?srsltid=AU7gw4U2lvzt1Euz4h-w_Esy0jh72uopCl8w4mu2ewGZ9R6HN_12UCak",
+       "domain": "lookfantastic.com",
+       "kind": "article",
+       "snippet": "CC creams remove the need for multiple products as they are a great all-rounder for concealing redness, hyperpigmentation and dark undereye circles."
+      }
+     ],
+     "paa": [
+      "Is CC cream any good?",
+      "What is the best redness corrector in the UK?",
+      "What is the best concealer for very fair skin?",
+      "Is CC cream clean makeup?"
+     ],
+     "popular_products": [
+      {
+       "title": "Max Factor CC Colour Correcting Cream",
+       "price": "£4.29",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "e.l.f Camo CC Cream",
+       "price": "£15.00",
+       "source": "Amazon.co.uk"
+      },
+      {
+       "title": "Air Cushion Cc Cream Concealer Mushroom Head Brush Makeup Fo",
+       "price": "£7.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "L'Oréal Paris L'Oreal Paris C'est Magic CC Cream Anti-Rednes",
+       "price": "£8.79",
+       "source": "Boots.com"
+      },
+      {
+       "title": "Catrice Cosmetics CC Skin Perfector",
+       "price": "£5.91",
+       "source": "idealo compare prices"
+      },
+      {
+       "title": "Clinique Moisture Surge CC Cream",
+       "price": "£27.00",
+       "source": "PriceRunner"
+      },
+      {
+       "title": "Tarte CC Color-Correcting Tinted Serum",
+       "price": "£34.00",
+       "source": "Sephora UK"
+      },
+      {
+       "title": "Erborian CC Red Correct",
+       "price": "£36.58",
+       "source": "LOOKFANTASTIC"
+      },
+      {
+       "title": "Clinique Moisture Surge CC Cream SPF 30 Hydrating Colour Cor",
+       "price": "£27.00",
+       "source": "Boots.com"
+      },
+      {
+       "title": "e.l.f. Camo CC Cream",
+       "price": "£12.99",
+       "source": "Bigshopper"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the UK: ebay.co.uk (marketplace). In the product strip: Amazon.co.uk, Amazon.co.uk - Amazon.co.uk-Seller, Bigshopper, Boots.com, LOOKFANTASTIC. Amazon here is crowded."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "cc cream concealer",
+     "image": "asis/cc-cream_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "BB Creams & CC Creams - Tinted Moisturizer",
+       "link": "https://www.clinique.ca/products/11480/makeup/foundations/bb-and-cc-cream?srsltid=AU7gw4WIXY_vjByYByGmt5GAfGzRdDb5t2a5ASt9Nz1DAdEAAoGUEzjY",
+       "domain": "clinique.ca",
+       "kind": "store / brand",
+       "snippet": "Moisture Surge™ CC Cream Hydrating Colour Corrector Broad Spectrum SPF 30 · One simple step for glowing skin. Moisturizes, perfects, and protects with SPF."
+      },
+      {
+       "position": 2,
+       "title": "What is CC Cream?",
+       "link": "https://www.makeup.com/en-ca/product-and-reviews/all-products-and-reviews/what-is-cc-cream-canada",
+       "domain": "makeup.com",
+       "kind": "store / brand",
+       "snippet": "A CC Cream, or colour correcting cream, acts as a lightweight foundation that has a light, whipped feeling on the skin. They are designed to ..."
+      },
+      {
+       "position": 3,
+       "title": "What is CC Cream and How do I Wear it?",
+       "link": "https://www.palladiobeauty.com/blogs/palladio-beauty-blog/what-is-cc-cream-and-how-do-i-wear-it?srsltid=AU7gw4Xv7IcJvOqkLCuZCcQSC0msdohyIuvlQe9UvCoQ7dNtGT5tgNom",
+       "domain": "palladiobeauty.com",
+       "kind": "article",
+       "snippet": "Do you need concealer with CC cream? Not always. Many people find they can skip concealer because CC cream helps even the look of redness and discoloration."
+      },
+      {
+       "position": 4,
+       "title": "BB & CC Creams Canada - Nourish, Protect, and Perfect",
+       "link": "https://bskinenvie.ca/collections/bb-cc-creams",
+       "domain": "bskinenvie.ca",
+       "kind": "store / brand",
+       "snippet": "The primary focus of a CC Cream is to address issues like redness, sallowness, or uneven skin tone, and it generally provides a bit more coverage than a BB ..."
+      },
+      {
+       "position": 5,
+       "title": "CC cream or CC tinted serum? The color-correcting debate ...",
+       "link": "https://tartecosmetics.com/en-ca/blogs/tarte-talk/cc-cream-or-cc-tinted-serum-the-color-correcting-debate-is-over?srsltid=AU7gw4WWD8VdWDt2POXYWGMz4M_GQB0OgnN2Nytn63E1z2ELGkLPAqxG",
+       "domain": "tartecosmetics.com",
+       "kind": "article",
+       "snippet": "CC color-correcting tinted serum provides buildable, lightweight coverage that helps even out the look of skin while still letting your natural ..."
+      }
+     ],
+     "paa": [
+      "Is CC cream any good?",
+      "Is CC cream clean makeup?",
+      "What's better, CC cream or foundation?",
+      "Can I use CC cream as concealer?"
+     ],
+     "popular_products": [
+      {
+       "title": "Clinique Moisture Surge CC Cream SPF 30 Hydrating Colour Cor",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "IT Cosmetics Your Skin But Better CC+ Cream",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Clinique Moisture Surge CC Cream SPF 30",
+       "price": null,
+       "source": "Sephora"
+      },
+      {
+       "title": "CC Cream Sérum correcteur de couleur uniforme – Fond de tein",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Marcelle CC Concealer + Corrector",
+       "price": null,
+       "source": "Walmart.ca"
+      },
+      {
+       "title": "Crème Bb Crème Cc Correcteur de Maquillage Crème Cc À Coussi",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "IT Cosmetics 50+ Your Skin But Better CC+ Illumination Cream",
+       "price": null,
+       "source": "Sephora"
+      },
+      {
+       "title": "Color Correcting CC Cream for Redness, Light Coverage (Green",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Marcelle CC Cream SPF 35",
+       "price": null,
+       "source": "London Drugs"
+      },
+      {
+       "title": "Watier CC Creme Colour Corrector Multi-Perfecting Moisturize",
+       "price": null,
+       "source": "Amazon CA"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in Canada: clinique.ca (store / brand). In the product strip: Amazon CA, London Drugs, Sephora, Walmart.ca. Amazon here is crowded."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "cc cream concealer",
+     "image": "asis/cc-cream_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "CC Creme online kaufen",
+       "link": "https://www.parfuemerie-wiedemann.de/hautpflege-cc-cream",
+       "domain": "parfuemerie-wiedemann.de",
+       "kind": "store / brand",
+       "snippet": "Erborian CC Crème. Erborian · 28,90 € ; Filorga Oxygen-Glow CC [Cream]. Filorga · 45,90 € ; Erborian CC Eye. Erborian · 40,90 € ; Declaré Hydro Balance CC Cream"
+      },
+      {
+       "position": 2,
+       "title": "BB & CC Cremes von Make-up",
+       "link": "https://www.parfuemerie-becker.de/make-up/teint/bb-cc-cremes/",
+       "domain": "parfuemerie-becker.de",
+       "kind": "store / brand",
+       "snippet": "BB & CC Cremes - online einkaufen ✓ Kostenloser Versand ab 39€ ✓ Gratisproben ✓ Kostenlose Geschenkverpackung."
+      },
+      {
+       "position": 3,
+       "title": "So unterscheiden sich BB-Cream und CC-Cream | L'Oréal ...",
+       "link": "https://www.loreal-paris.de/tipps-und-trends/make-up/bb-cream-fuer-ein-natuerliches-make-up",
+       "domain": "loreal-paris.de",
+       "kind": "store / brand",
+       "snippet": "Sie sorgen für einen makellosen Teint und versorgen die Haut mit wertvollen Pflegestoffen – erfahren Sie, welche BB-Cream und CC-Cream zu Ihrer Haut passt!"
+      },
+      {
+       "position": 4,
+       "title": "CC Cream – die 10 besten für einen frischen Glow",
+       "link": "https://www.vogue.de/artikel/cc-cream-fur-einen-frischen-glow",
+       "domain": "vogue.de",
+       "kind": "store / brand",
+       "snippet": "Eine CC Cream legt den Schwerpunkt auf eine pflegende Farbkorrektur des Hauttons und sorgt so für einen sichtbar ebenmäßigen Teint. Im Vergleich ..."
+      },
+      {
+       "position": 5,
+       "title": "Ersetzt cc cream foundation oder Concealer?",
+       "link": "https://www.gutefrage.net/frage/ersetzt-cc-cream-foundation-oder-concealer",
+       "domain": "gutefrage.net",
+       "kind": "store / brand",
+       "snippet": "Oder beides?"
+      }
+     ],
+     "paa": [
+      "Was ist besser, BB Cream oder CC-Creme?",
+      "Was ist der Unterschied zwischen Make-up und Concealer?",
+      "Was genau ist eine CC-Cream?",
+      "Kann man Concealer auch als Make-up benutzen?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "related_questions",
+      "organic_results",
+      "filters",
+      "related_searches"
+     ],
+     "takeaway": "First result in Germany: parfuemerie-wiedemann.de (store / brand). Amazon here is crowded."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "cc cream concealer",
+     "image": "asis/cc-cream_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Best CC Creams: Color Correcting Foundation",
+       "link": "https://www.itcosmetics.com/makeup/face-makeup/cc-cream?srsltid=AU7gw4Uc55uUz1lVd5SfupWLGu6PEi3C_n1hFPWRDaAzkyPtg12Eku0W",
+       "domain": "itcosmetics.com",
+       "kind": "store / brand",
+       "snippet": "CC cream (short for color-correcting cream) is a multitasking color-correcting foundation that helps neutralize redness, discoloration, and uneven skin tone"
+      },
+      {
+       "position": 2,
+       "title": "BB & CC Cream",
+       "link": "https://www.sephora.nz/categories/makeup/face/bb-and-cc-cream?srsltid=AU7gw4X07xKjE4RAMUhac5DLD7Q7pOi8lpsAXA6EMCOVVubDOUGBQq9F",
+       "domain": "sephora.nz",
+       "kind": "store / brand",
+       "snippet": "Buy BB and CC creams from Sephora now. Find ultimate multi-taskers from top brands that prime, hydrate and protect skin while providing seamless coverage."
+      },
+      {
+       "position": 3,
+       "title": "Concealers, BB and CC Cream - Naturitas",
+       "link": "https://www.naturitas.nz/c/cosmetics-and-hygiene/makeup/concealers-bb-and-cc-cream?srsltid=AU7gw4XAIUfBh_ySsihs-Z0BaheB0GFdSx1Ei2wr1TJ9swRtQR_-8dKo",
+       "domain": "naturitas.nz",
+       "kind": "store / brand",
+       "snippet": "A CC Cream, on the other hand, is a tinted moisturiser that provides greater coverage for mature skin. It is more geared towards correcting imperfections,"
+      },
+      {
+       "position": 4,
+       "title": "The Best 8 CC Creams of 2026, Tested and Reviewed",
+       "link": "https://www.byrdie.com/best-cc-creams-4707579",
+       "domain": "byrdie.com",
+       "kind": "article",
+       "snippet": "A CC cream provides more coverage and color corrects, making it a better option if you're looking to conceal or blur specific areas,” explains ..."
+      },
+      {
+       "position": 5,
+       "title": "Achieve Luminous Skin: 9 Makeup Must-Haves - Life Pharmacy",
+       "link": "https://www.lifepharmacy.co.nz/blogs/health-hq/your-luminous-skin-starts-with-these-9-iconic-makeup-must-haves?srsltid=AU7gw4VAkZ6vMKsEWbc-6FoMmjuV5Q_AdPRcbgC30IPhW42hpT7FB4Cc",
+       "domain": "lifepharmacy.co.nz",
+       "kind": "article",
+       "snippet": "CC cream conceals skin concerns including blemishes, pigmentation, dark spots, redness and sallow skin while smoothing fine lines and wrinkles."
+      }
+     ],
+     "paa": [
+      "Can CC cream be used as concealer?",
+      "Should I use CC cream or concealer?",
+      "What is better for older skin, BB or CC cream?",
+      "What is the best CC cream in New Zealand?"
+     ],
+     "popular_products": [
+      {
+       "title": "IT Cosmetics Your Skin But Better CC+ Cream",
+       "price": "$50.00",
+       "source": "Sephora.nz"
+      },
+      {
+       "title": "MECCA MAX Life Proof Cream Concealer",
+       "price": "$27.00",
+       "source": "MECCA"
+      },
+      {
+       "title": "L'Oréal Paris Magic CC Cream 30ml",
+       "price": "$29.86",
+       "source": "Care to Beauty"
+      },
+      {
+       "title": "Erborian CC Red Correct",
+       "price": "$80.26",
+       "source": "cosmetis.com"
+      },
+      {
+       "title": "Korean Color Changing CC Cream - Centella Asiatica Rich Mult",
+       "price": "$24.17",
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "NARS Mini Radiant Creamy Concealer",
+       "price": "$34.00",
+       "source": "MECCA"
+      },
+      {
+       "title": "OLEHENRIKSEN Ole Henriksen Banana Bright+ Vitamin CC Stick",
+       "price": "$58.00",
+       "source": "Sephora.nz"
+      },
+      {
+       "title": "MECCA MAX Life Proof Camo Colour Corrector",
+       "price": "$27.00",
+       "source": "MECCA"
+      },
+      {
+       "title": "Estée Lauder Estee Lauder Revitalizing Supreme Global Anti-A",
+       "price": "$89.06",
+       "source": "PerfumesClub NZ"
+      },
+      {
+       "title": "Mushroom Head Air Cushion CC Cream Foundation - Moisturizing",
+       "price": "$16.07",
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: itcosmetics.com (store / brand). In the product strip: Amazon AU - Amazon.com.au-Seller, Care to Beauty, MECCA, PerfumesClub NZ, Sephora.nz. Amazon here is quiet."
+    }
+   ],
+   "compare": {
+    "match_name": "Tarte at Sephora (US$32)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same rose-gold square compact with a mirror: Tarte's original, and many look-alikes.",
+    "brand_image": "cc-cream/img_1.jpg",
+    "match_image": "lens/cc-cream_thumb_00.jpg"
+   }
+  },
   {
    "slug": "swingpro",
    "name": "Magnetic Tennis Swing Trainer (SwngPro)",
@@ -3534,6 +5461,7 @@
   }
  ],
  "ranking": [
+  "cc-cream",
   "swingpro",
   "lola-kit"
  ]

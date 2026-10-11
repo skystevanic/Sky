@@ -1,0 +1,104 @@
+{
+ "slug": "cc-cream",
+ "same": [
+  9,
+  32,
+  64,
+  69,
+  98,
+  111
+ ],
+ "top": 12,
+ "countries": {
+  "us": [
+   {
+    "where": "Amazon",
+    "source": "amazon.com",
+    "title": "tarte colored clay cc undereye corrector – Full-Coverage Concealer with Vegan Squalane & C",
+    "link": "https://www.amazon.com/TARTE-Colored-undereye-corrector-MEDIUM/dp/B00LNC3JD4/",
+    "asin": "B00LNC3JD4",
+    "rank": 3,
+    "price_text": "$32.00",
+    "reviews": 2800,
+    "bought": "30K+ bought in past month",
+    "bought_number": 30000,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/cc-cream_vis_thumb_009.jpg"
+   },
+   {
+    "where": "Google Shopping",
+    "source": "Kohl's",
+    "title": "Tarte Colored Clay CC Undereye Corrector",
+    "link": "https://www.google.com/search?q=%22Tarte+Colored+Clay+CC+Undereye+Corrector%22+Kohl%27s",
+    "asin": null,
+    "rank": 4,
+    "price_text": "$32.00",
+    "reviews": 3300,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": true,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/cc-cream_vis_thumb_069.jpg"
+   },
+   {
+    "where": "Amazon",
+    "source": "amazon.com",
+    "title": "Under Eye Brightener with Brush, Colored Clay CC Undereye Corrector for Dark Circles, Conc",
+    "link": "https://www.amazon.com/FREEORR-Brightener-Corrector-Hydrating-Correcting/dp/B0FP548ZPW/",
+    "asin": "B0FP548ZPW",
+    "rank": 8,
+    "price_text": "$7.99",
+    "reviews": 316,
+    "bought": "500+ bought in past month",
+    "bought_number": 500,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/cc-cream_vis_thumb_032.jpg"
+   }
+  ],
+  "uk": [
+   {
+    "where": "Google Shopping",
+    "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+    "title": "Colored Clay CC Under Eye Corrector & Brightener - Full Coverage Dark Circle Concealer, Lo",
+    "link": "https://www.google.com/search?q=%22Colored+Clay+CC+Under+Eye+Corrector+%26+Brightener+-+Full+Coverage+Dark+Circle+Concealer%2C+Long-Lasting+Waterproo%22+Amazon.co.uk",
+    "asin": null,
+    "rank": 3,
+    "price_text": "£5.99",
+    "reviews": 104,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/cc-cream_vis_thumb_064.jpg"
+   },
+   {
+    "where": "Google Shopping",
+    "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+    "title": "Coloured Clay CC Under-Eye Concealer, Full Coverage, Light-Medium Peach | Colour-correctin",
+    "link": "https://www.google.com/search?q=%22Coloured+Clay+CC+Under-Eye+Concealer%2C+Full+Coverage%2C+Light-Medium+Peach+%7C+Colour-correcting+cream+neutralises+%22+Amazon.co.uk",
+    "asin": null,
+    "rank": 12,
+    "price_text": "£6.99",
+    "reviews": null,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/cc-cream_vis_thumb_111.jpg"
+   }
+  ],
+  "ca": [
+   {
+    "where": "Google Shopping",
+    "source": "Sephora",
+    "title": "Tarte CC Colored Clay Undereye Corrector",
+    "link": "https://www.google.com/search?q=%22Tarte+CC+Colored+Clay+Undereye+Corrector%22+Sephora",
+    "asin": null,
+    "rank": 9,
+    "price_text": "$45.65",
+    "reviews": 3200,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/cc-cream_vis_thumb_098.jpg"
+   }
+  ]
+ }
+}
