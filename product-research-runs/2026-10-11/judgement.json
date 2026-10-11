@@ -751,6 +751,89 @@
    "category_notes": {
     "uk": "The photo search returned no results in the UK, Wagging Rights' home market."
    }
+  },
+  {
+   "slug": "ayat-bracelet",
+   "name": "Ayat al-Kursi Cuff Bracelet (Création Orientale)",
+   "brand": "Création Orientale",
+   "url": "https://creationorientale.com/products/bracelet-ayat-al-kursi-homme",
+   "category": "Jewellery: Islamic engraved cuff",
+   "price": "€24.90",
+   "store_platform": "Shopify",
+   "store_launched": "2022-11",
+   "store_products": "74 products, Islamic and name jewellery",
+   "one_liner": "The same engraved steel cuff is Amazon's first result in nearly every country, from £1.99 to US$13, and searches are down 18% on last year.",
+   "verdict": "Avoid",
+   "overall": 43,
+   "confidence": "High",
+   "scores": {
+    "saturated": 9,
+    "margin": 7,
+    "viral": 4,
+    "pain": 4,
+    "differentiation": 3
+   },
+   "why": [
+    "The same cuff is Amazon's or Google Shopping's first result in 5 of 6 countries, from £1.99 in the UK",
+    "AliExpress, DHgate and Alibaba sell it by the hundred, in every colour",
+    "Searches for it are down 18% on the year before"
+   ],
+   "risk": "At about €25, there is little room to pay for ads against copies selling for a tenth of the price.",
+   "next": [
+    "Skip it. Faith jewellery can work, but only with a design no factory already sells"
+   ],
+   "best_region": "None. Every country checked has the copy at the top of the results.",
+   "snapshot": {
+    "icp": "Muslim men and women, often buying as a gift",
+    "job": "Wear a verse of protection every day",
+    "cogs": "About €1-3 landed from AliExpress (estimate)",
+    "margin": "About 85-90% at €24.90, before ads (estimate)",
+    "claims": "Stainless steel, hypoallergenic, adjustable",
+    "demoable": "Weak: a static piece of jewellery"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No big chain sells this cuff; Walmart Canada lists a similar one"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "The same cuff tops Amazon and Google Shopping in almost every country, from £1.99"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Only 10 small shops advertise it, 6 of them new"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Tiny and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Avoid health or protection guarantees in ads"
+    }
+   ],
+   "angles": [
+    "Ramadan and Eid gift boxes",
+    "Couple set: his and hers",
+    "Personalised name on the inside",
+    "New-baby gift for parents",
+    "TAKEN: \"The most powerful verse for daily protection\" (Création Orientale)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 10,
+    "match_name": "Amazon UK (£8)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same engraved stainless steel cuff, in silver, gold, black and rose gold."
+   },
+   "advertiser_takeaway": "Quiet but scattered: 10 small shops advertise \"bracelet ayat al kursi\" in French, 6 of them new, and none dominates. Création Orientale itself is not among them, so the demand you see in the ads is not proof that this shop's cuff sells."
   }
  ]
 }

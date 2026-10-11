@@ -1,0 +1,209 @@
+{
+ "slug": "ayat-bracelet",
+ "phrase": "bracelet ayat al kursi",
+ "checked": "2026-10-11",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22bracelet%20ayat%20al%20kursi%22",
+ "ads_loaded": 53,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 10,
+ "advertisers_with_3_plus_ads": 6,
+ "biggest_advertiser_share": 0.21,
+ "brands_new_in_last_2_months": 6,
+ "brands_advertising_3_plus_months": 4,
+ "ads_started_last_2_months": 29,
+ "ads_older_than_6_months": 16,
+ "pattern": "crowded",
+ "plain": "10 brands advertise it; 4 have kept ads running 3+ months, 6 are new in the last two months. Of the 6 biggest shops we could date, 3 are over a year old and 3 opened in the last four months.",
+ "months": {
+  "2025-10": 2,
+  "2026-02": 8,
+  "2026-04": 6,
+  "2026-07": 5,
+  "2026-08": 3,
+  "2026-09": 10,
+  "2026-10": 19
+ },
+ "brand_months": {
+  "2025-10": 1,
+  "2026-02": 1,
+  "2026-04": 1,
+  "2026-07": 1,
+  "2026-08": 1,
+  "2026-09": 2,
+  "2026-10": 3
+ },
+ "top_advertisers": [
+  {
+   "name": "ShopAmaada",
+   "pages": 1,
+   "page_names": [
+    "ShopAmaada"
+   ],
+   "ads": 11,
+   "oldest_live_ad": "2026-02-18",
+   "page_likes": 1914,
+   "headline": "Bracelets Ayat el kursi (Hommes et Femmes ) : Protection et Élégance",
+   "shop": "buyshopa.com",
+   "product_page": "https://buyshopa.com/products/pack-2-bracelets-ayat-el-kursi-hommes-et-femmes-protection-et-elegance",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=488479817685625",
+   "shop_open_since": "2025-01-19"
+  },
+  {
+   "name": "Jawaya",
+   "pages": 1,
+   "page_names": [
+    "Jawaya"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2025-10-26",
+   "page_likes": 1150,
+   "headline": "1 Acheté = 1 OFFERT Aujourd'hui !",
+   "shop": "jawaya.fr",
+   "product_page": "https://jawaya.fr/products/bracelet-ayat-al-kursi",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=165544226650039",
+   "shop_open_since": "2023-12-06"
+  },
+  {
+   "name": "K. Store Boutique",
+   "pages": 7,
+   "page_names": [
+    "K. Store Boutique",
+    "ODG Service",
+    "Legacy Store Morocco ",
+    "ODG Multi-service Ouaga ",
+    "E-Barika",
+    "Bon PRIX"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-04-22",
+   "page_likes": 116,
+   "headline": "Legacy Store Morocco ",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=321055911100777",
+   "shop_open_since": null
+  },
+  {
+   "name": "Vital Reset",
+   "pages": 1,
+   "page_names": [
+    "Vital Reset"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 7,
+   "headline": "Bracelet Ayat Al Kursi : Élégance, Foi et Protection au Quotidien",
+   "shop": "africmarkt.izistore.app",
+   "product_page": "https://africmarkt.izistore.app/product/-bracelet-ayat-al-kursi-",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=603802612814782",
+   "shop_open_since": null
+  },
+  {
+   "name": "Citée Des Graces",
+   "pages": 1,
+   "page_names": [
+    "Citée Des Graces"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-08-28",
+   "page_likes": 247,
+   "headline": "Livraison gratuite",
+   "shop": "cn1rms-bd.myshopify.com",
+   "product_page": "https://cn1rms-bd.myshopify.com/products/bracelet-ayatalkursi",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=998703463335096",
+   "shop_open_since": "2026-06-24"
+  },
+  {
+   "name": "Essence de lune ",
+   "pages": 1,
+   "page_names": [
+    "Essence de lune "
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 2829,
+   "headline": "Collier • Bague • Bracelet Ayat Al Kursi✨",
+   "shop": "lunnarastore.shop",
+   "product_page": "https://lunnarastore.shop/products/collier-coranique-ayat-al-kursi-le-coffret-original-copie-oo",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=687716754429112",
+   "shop_open_since": "2026-09-03"
+  },
+  {
+   "name": "Legacy Store Morocco ",
+   "pages": 1,
+   "page_names": [
+    "Legacy Store Morocco "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-19",
+   "page_likes": 116,
+   "headline": "✨ سوار آية الكرسي – توصيل لجميع المدن",
+   "shop": "fb.com",
+   "product_page": "https://fb.com/messenger_doc/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=321055911100777",
+   "shop_open_since": null
+  },
+  {
+   "name": "Bracelet Ayat Al-Kursi",
+   "pages": 1,
+   "page_names": [
+    "Bracelet Ayat Al-Kursi"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-03",
+   "page_likes": 26,
+   "headline": "Bracelets et bagues Ayat Al-Kursi, un verset très puissant et protecteur pour les musulman",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1239265149266265",
+   "shop_open_since": null
+  },
+  {
+   "name": "Entreprise Dadié ",
+   "pages": 1,
+   "page_names": [
+    "Entreprise Dadié "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-27",
+   "page_likes": 698,
+   "headline": "En savoir plus",
+   "shop": "u7j3um-mb.myshopify.com",
+   "product_page": "https://u7j3um-mb.myshopify.com/products/bracelet-ayat-al-kursi",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=526518293879573",
+   "shop_open_since": "2026-08-03"
+  },
+  {
+   "name": "Création Orientale ",
+   "pages": 1,
+   "page_names": [
+    "Création Orientale "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 6770,
+   "headline": "Bracelet Ayat Al Kursi",
+   "shop": "creationorientale.com",
+   "product_page": "https://creationorientale.com/collections/nos-bracelets/products/bracelet-ayat-al-kursi-homme",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106848532255818",
+   "shop_open_since": "2022-11-06"
+  }
+ ],
+ "domains": {
+  "buyshopa.com": 11,
+  "jawaya.fr": 10,
+  "api.whatsapp.com": 9,
+  "africmarkt.izistore.app": 9,
+  "cn1rms-bd.myshopify.com": 5,
+  "lunnarastore.shop": 5,
+  "fb.com": 1,
+  "u7j3um-mb.myshopify.com": 1,
+  "creationorientale.com": 1
+ },
+ "cost_usd": 0.27,
+ "shops_checked": 6,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 3
+}

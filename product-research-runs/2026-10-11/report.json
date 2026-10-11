@@ -16928,6 +16928,3271 @@
     "brand_image": "doggo-dock/img_1.jpg",
     "match_image": "lens/doggo-dock_thumb_06.jpg"
    }
+  },
+  {
+   "slug": "ayat-bracelet",
+   "name": "Ayat al-Kursi Cuff Bracelet (Création Orientale)",
+   "one_liner": "The same engraved steel cuff is Amazon's first result in nearly every country, from £1.99 to US$13, and searches are down 18% on last year.",
+   "url": "https://creationorientale.com/products/bracelet-ayat-al-kursi-homme",
+   "brand": "Création Orientale",
+   "category": "Jewellery: Islamic engraved cuff",
+   "price": "€24.90",
+   "ad_days": null,
+   "store_platform": "Shopify",
+   "store_launched": "2022-11",
+   "store_products": "74 products, Islamic and name jewellery",
+   "snapshot": {
+    "icp": "Muslim men and women, often buying as a gift",
+    "job": "Wear a verse of protection every day",
+    "cogs": "About €1-3 landed from AliExpress (estimate)",
+    "margin": "About 85-90% at €24.90, before ads (estimate)",
+    "claims": "Stainless steel, hypoallergenic, adjustable",
+    "demoable": "Weak: a static piece of jewellery"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No big chain sells this cuff; Walmart Canada lists a similar one"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "The same cuff tops Amazon and Google Shopping in almost every country, from £1.99"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Only 10 small shops advertise it, 6 of them new"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Tiny and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Avoid health or protection guarantees in ads"
+    }
+   ],
+   "scores": {
+    "saturated": 9,
+    "margin": 7,
+    "viral": 4,
+    "pain": 4,
+    "differentiation": 3
+   },
+   "overall": 43,
+   "confidence": "High",
+   "best_region": "None. Every country checked has the copy at the top of the results.",
+   "angles": [
+    "Ramadan and Eid gift boxes",
+    "Couple set: his and hers",
+    "Personalised name on the inside",
+    "New-baby gift for parents",
+    "TAKEN: \"The most powerful verse for daily protection\" (Création Orientale)"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "The same cuff is Amazon's or Google Shopping's first result in 5 of 6 countries, from £1.99 in the UK",
+     "AliExpress, DHgate and Alibaba sell it by the hundred, in every colour",
+     "Searches for it are down 18% on the year before"
+    ],
+    "risk": "At about €25, there is little room to pay for ads against copies selling for a tenth of the price.",
+    "fastest_test": [
+     "Skip it. Faith jewellery can work, but only with a design no factory already sells"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "crowded",
+     "why": "knock-offs from 1.85 vs typical 29.99",
+     "sellers": 16,
+     "cheapest": "A$2",
+     "typical": "A$30",
+     "top": "Al Huda Jewellery (274)"
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "22 different sellers",
+     "sellers": 22,
+     "cheapest": "US$3",
+     "typical": "US$46",
+     "top": "Nominal (697)"
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "knock-offs from 1.99 vs typical 9.59",
+     "sellers": 14,
+     "cheapest": "£2",
+     "typical": "£10",
+     "top": "Al Huda Jewellery (274)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "Walmart.ca sells it at $9.49",
+     "sellers": 13,
+     "cheapest": "C$2",
+     "typical": "C$30",
+     "top": "AliExpress - AliExpress-6000024136 (160)"
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "only marketplaces (Amazon.de - Amazon.de-Seller) carry it",
+     "sellers": 13,
+     "cheapest": "€7",
+     "typical": "€16",
+     "top": "Al Huda Jewellery (274)"
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "knock-offs from 12.39 vs typical 78.0",
+     "sellers": 14,
+     "cheapest": "NZ$12",
+     "typical": "NZ$78",
+     "top": "Evry Jewels (593)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 438 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 438,
+     "n_1000_plus": 0,
+     "cheapest": "A$8",
+     "typical": "A$17",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "$16.99",
+       "price": 16.99,
+       "rating": 4.6,
+       "reviews": 438,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61klPMOSXxL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "$29.99",
+       "price": 29.99,
+       "rating": 4.6,
+       "reviews": 438,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CWL5QKYJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61xruBLZmmL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "$16.99",
+       "price": 16.99,
+       "rating": 4.6,
+       "reviews": 438,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRW558Z/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51ASU7BF7GL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 438 reviews; 0 of the first 20 have 1,000+; at least 150 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 438,
+     "n_1000_plus": 0,
+     "cheapest": "US$8",
+     "typical": "US$13",
+     "bought_last_month_min": 150,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "$9.98",
+       "price": 9.98,
+       "rating": 4.6,
+       "reviews": 438,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRW558Z/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51ASU7BF7GL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Islamic Jewelry Gifts for Women Allah Gold Bangles Bracelets Ayatul Kursi Arabic Cuff Brac",
+       "price_text": "$12.99",
+       "price": 12.99,
+       "rating": 4.7,
+       "reviews": 322,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Islamic-Jewelry-Gifts-Women-%EF%BC%88Gold-Thick/dp/B099RSP42X/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61-N+L8ldwL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Islamic Ayatul Kursi Rings for Women Muslim Quran Allah Openable Rings Allah Ring Ayatul K",
+       "price_text": "$8.68",
+       "price": 8.68,
+       "rating": 4.5,
+       "reviews": 155,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Dreamtimes-Islamic-Openable-Calligraphy-Ramadan/dp/B0D3F92LQQ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61kMy9OtXfL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 440 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 440,
+     "n_1000_plus": 0,
+     "cheapest": "£5",
+     "typical": "£9",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "£7.19",
+       "price": 7.19,
+       "rating": 4.7,
+       "reviews": 440,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0CNRTHQHS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61klPMOSXxL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "£7.19",
+       "price": 7.19,
+       "rating": 4.7,
+       "reviews": 440,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"ayatul kursi bracelet\""
+       ],
+       "link": "https://www.amazon.co.uk/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRW558Z/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51ASU7BF7GL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "£7.19",
+       "price": 7.19,
+       "rating": 4.7,
+       "reviews": 440,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61klPMOSXxL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 812 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 812,
+     "n_1000_plus": 0,
+     "cheapest": "C$9",
+     "typical": "C$17",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Islamic Jewelry Gifts for Women - Qitian Allah Gold Bangles Bracelets Ayatul Kursi Arabic ",
+       "price_text": "$23.77",
+       "price": 23.77,
+       "rating": 4.2,
+       "reviews": 812,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Islamic-Jewelry-Gifts-Women-Bracelets/dp/B0BHW9C9KZ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61uSWRRIrLL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelet Muslim Stainless Steel Quran Allah Bracelet Openable Bangles for Wom",
+       "price_text": "$12.98",
+       "price": 12.98,
+       "rating": 4.6,
+       "reviews": 439,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.ca/dp/B0CNRTHQHS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61klPMOSXxL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelet Muslim Stainless Steel Quran Allah Bracelet Openable Bangles for Wom",
+       "price_text": "$12.98",
+       "price": 12.98,
+       "rating": 4.6,
+       "reviews": 439,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61klPMOSXxL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 441 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 441,
+     "n_1000_plus": 0,
+     "cheapest": "€7",
+     "typical": "€11",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Open Bracelet Arabic Calligraphy Cu",
+       "price_text": "€8.79",
+       "price": 8.79,
+       "rating": 4.3,
+       "reviews": 441,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0CNRTHQHS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61klPMOSXxL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Adjustable Islamic Ayatul Kursi Ring/Bracelet for Women Men Muslim Allah Quran Rings Arabi",
+       "price_text": "€7.40",
+       "price": 7.4,
+       "rating": 4.6,
+       "reviews": 100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0D6R61FHK/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61-SZVHiZrL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelets, Muslim Quran Allah Bracelets, Exquisite Arabic Calligraphy for Wom",
+       "price_text": "€6.99",
+       "price": 6.99,
+       "rating": 4.6,
+       "reviews": 99,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0CSDK94PJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61YKl5l5AAL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "low",
+     "why": "top listing 438 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 438,
+     "n_1000_plus": 0,
+     "cheapest": "A$8",
+     "typical": "A$17",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "$16.99",
+       "price": 16.99,
+       "rating": 4.6,
+       "reviews": 438,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61klPMOSXxL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "$29.99",
+       "price": 29.99,
+       "rating": 4.6,
+       "reviews": 438,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CWL5QKYJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61xruBLZmmL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "price_text": "$16.99",
+       "price": 16.99,
+       "rating": 4.6,
+       "reviews": 438,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRW558Z/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51ASU7BF7GL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "steady",
+     "growth_pct": -18,
+     "seasonal": false,
+     "peak_months": [
+      "Feb",
+      "Mar",
+      "Aug"
+     ],
+     "months_to_peak": null,
+     "now_vs_high": 0,
+     "avg_last_year": 42.3,
+     "spike": false,
+     "zero_share": 0.05,
+     "why": "A typical week in the last 12 months is -18% on the year before",
+     "line": [
+      52,
+      43,
+      79,
+      42,
+      40,
+      60,
+      46,
+      48,
+      78,
+      58,
+      88,
+      72,
+      62,
+      54,
+      72,
+      56,
+      42,
+      57,
+      41,
+      49,
+      42,
+      85,
+      74,
+      56,
+      44,
+      54,
+      46,
+      49,
+      44,
+      42,
+      57,
+      51,
+      44,
+      50,
+      62,
+      50,
+      68,
+      50,
+      42,
+      42,
+      23,
+      48,
+      22,
+      41,
+      52,
+      40,
+      26,
+      39,
+      36,
+      46,
+      24,
+      34,
+      0
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "crowded",
+     "why": "amazon.com.au at $11.09: Amazon result 1 for the product words. 28 other copies",
+     "prices": {
+      "brand": 43.43,
+      "cheapest_copy": 8.0,
+      "typical_copy": 25.0,
+      "cheapest_real_copy": 11.0,
+      "priced_copies": 27
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon",
+       "title": "UNIFT Islamic Ayatul Kursi Bracelet for Women Men Stainless ...",
+       "link": "https://www.amazon.com.au/UNIFT-Bracelet-Stainless-Calligraphy-Openable/dp/B0DP6SZWWF",
+       "price_text": "A$15",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_02.jpg",
+       "looked_up": true,
+       "reviews": 1,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 1 reviews"
+      },
+      {
+       "source": "Etsy",
+       "title": "Ayatul Kursi Bracelet | Adjustable Quran Bangle | Luxury ...",
+       "link": "https://www.etsy.com/au/listing/4388037971/ayatul-kursi-bracelet-adjustable-quran",
+       "price_text": "A$39",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_03.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay Australia",
+       "title": "AYATUL KURSI Islamic Jewelry Kada Stainless Steel Openable ...",
+       "link": "https://www.ebay.com.au/itm/405510236981",
+       "price_text": "A$32",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_04.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Fajr Noor",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://fajrnoor.com/products/ayatul-kursi-cuff",
+       "price_text": "A$50",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_16.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "House of Belief",
+       "title": "Ayatul Kursi Cuff Bracelet (Baby & Toddler Size) – House of ...",
+       "link": "https://www.houseofbelief.com/products/ayatul-kursi-cuff-kids-size",
+       "price_text": "A$50",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_17.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Baharaful Store",
+       "title": "Adult Ayatul Kursi Cuff – Baharaful Store",
+       "link": "https://baharaful.store/products/ayatul-kursi-cuff-elegant-islamic-protection-bracelet",
+       "price_text": "A$28",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_18.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Zahaa Islamic Jewellery",
+       "title": "Ayatul Kursi Bracelet – Zahaa Islamic Jewellery",
+       "link": "https://zahaa.com.au/products/ayat-al-kursi-bracelet",
+       "price_text": "A$60",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_19.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "House of Belief",
+       "title": "Ayatul Kursi Cuff Bracelet (Adults Size) – House of Belief",
+       "link": "https://www.houseofbelief.com/products/ayatul-kursi-cuff-bracelet",
+       "price_text": "A$55",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_21.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Sixth Jannah",
+       "title": "Ayatul Kursi Cuff – Sixth Jannah",
+       "link": "https://www.sixthjannah.com.au/products/personalized-ayat-ul-kursi-set-necklace-bracelet",
+       "price_text": "A$50",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_25.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Princess Highway",
+       "title": "Etched Bracelet – Princess Highway",
+       "link": "https://princesshighway.com.au/products/etched-bracelet",
+       "price_text": "A$8",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_26.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "1pc ayatul kursi cuff bracelet stainless steel jewelry - Temu",
+       "link": "https://www.temu.com/ayatul-kursi--cuff-bracelet-stainless-steel-jewelry-islamic--calligraphy-arabic-god-messenger-bracelet-gift-g-601099519326055.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_45.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Temu",
+       "title": "1pc ayatul kursi cuff bracelet stainless steel jewelry ...",
+       "link": "https://www.temu.com/au/1pc-ayatul-kursi-cuff-bracelet-stainless-steel-jewelry--arabic-god-bracelet-gift-g-601099519326055.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_51.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "[Heiat] Ayatul Kursi Scripture Cuff Bracelet Stainless Steel Jewelry Personality Islamic C",
+       "link": "https://www.amazon.com.au/dp/B0D181KYW8/",
+       "price_text": "$11.09",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_000.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 1 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Sutra Cuff Stainless Steel Jewelry Personality Calligraphy Arabic God Messeng",
+       "link": "https://www.amazon.com.au/dp/B0HC5VMRHV/",
+       "price_text": "$14.87",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_002.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words"
+      },
+      {
+       "source": "Zahaa Islamic Jewellery",
+       "title": "Ayatul Kursi Bracelet",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Bracelet%22+Zahaa+Islamic+Jewellery",
+       "price_text": "$59.90",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_050.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 2,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "Amazon AU - Amazon.com.au-Seller",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Bracelet+for+Women+Men+Muslim+Quran+Allah+Openable+Bangles+Arabic+Calligraphy+Cuff+Bracelet+Islam%22+Amazon+AU",
+       "price_text": "$29.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_056.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 3,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 3 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "[Ziizwfa] Stainless Steel Ayatul Kursi Cross Cuff Personalized Calligraphy Arabic Festival",
+       "link": "https://www.amazon.com.au/dp/B0GS257DH6/",
+       "price_text": "$11.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_010.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 4 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Necklace & Bracelet Set – 18K Gold Plated Arabic Calligraphy Jewelry – Symbol",
+       "link": "https://www.amazon.com.au/OUMAY-Ayatul-Kursi-Necklace-Bracelet/dp/B0D5BWLH7M/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_015.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 36,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "Amazon AU - Amazon.com.au-Seller",
+       "title": "Islamic Gifts Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Ayat",
+       "link": "https://www.google.com/search?q=%22Islamic+Gifts+Ayatul+Kursi+Bracelet+for+Women+Men+Muslim+Quran+Allah+Openable+Bangles+Ayatul+Kursi+Arabic+Call%22+Amazon+AU",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_066.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 5 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Woman Men Ayatul Kursi Bracelet Muslim Quran Allah 6MM Black Stainless Steel Designe Amule",
+       "link": "https://www.amazon.com.au/Bracelet-Stainless-Designe-Openable-Presents/dp/B0HHH7385G/",
+       "price_text": "$29.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_019.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "Al Huda Jewellery",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Cuff%22+Al+Huda+Jewellery",
+       "price_text": "$68.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_058.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 6,
+       "reviews": 274,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 6 for the product words, with 274 reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Islamic Gifts Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Ayat",
+       "link": "https://www.amazon.com.au/VASSAGO-Islamic-Bracelet-Openable-Calligraphy/dp/B0D98N6JX1/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_024.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 60,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_007.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 438,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Adjustable Islamic Ayatul Kursi Ring/Bracelet for Women Men",
+       "link": "https://www.amazon.com.au/VASSAGO-Adjustable-Calligraphy-Stainless-Gemstone/dp/B0D6R6CC8G/",
+       "price_text": "$19.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_030.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 191,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "Amazon",
+       "title": "UNIFT Islamic Ayatul Kursi Bracelet for Women Men Stainless Steel Muslim Islamic Allah Ara",
+       "link": "https://www.google.com/search?q=%22UNIFT+Islamic+Ayatul+Kursi+Bracelet+for+Women+Men+Stainless+Steel+Muslim+Islamic+Allah+Arabic+Calligraphy+Open%22+Amazon",
+       "price_text": "$14.98",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_086.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 9,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 9 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CWL5QKYJ/",
+       "price_text": "$29.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_020.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 438,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRW558Z/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_021.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": 438,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      },
+      {
+       "source": "Amazon",
+       "title": "Ayatul Kursi Bracelet for Women Men Islamic Gifts Muslim Allah Quran Openable Bangles Arab",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Bracelet+for+Women+Men+Islamic+Gifts+Muslim+Allah+Quran+Openable+Bangles+Arabic+Calligraphy+Lotus%22+Amazon",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_097.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 11,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 11 for the product words"
+      },
+      {
+       "source": "Hayaljewels",
+       "title": "Ayatul Kursi Adjustable Bracelet & Ring Set",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Adjustable+Bracelet+%26+Ring+Set%22+Hayaljewels",
+       "price_text": "$25.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_103.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "amazon.com at $12.99: Amazon result 1 for the product words. 17 other copies",
+     "prices": {
+      "brand": 28.95,
+      "cheapest_copy": 3.47,
+      "typical_copy": 14.0,
+      "cheapest_real_copy": 3.47,
+      "priced_copies": 15
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Etsy",
+       "title": "Handmade Sterling Silver Ayatul Kursi Cuff Bracelet ...",
+       "link": "https://www.etsy.com/listing/1635742744/handmade-sterling-silver-ayatul-kursi",
+       "price_text": "$160",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_00.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Etsy",
+       "title": "Ayat Al-kursi Cuff Bangle: 925 Sterling Silver Islamic ...",
+       "link": "https://www.etsy.com/listing/1202825883/ayat-al-kursi-cuff-bangle-925-sterling",
+       "price_text": "$231",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_05.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah ...",
+       "link": "https://www.ebay.com/itm/389906349411",
+       "price_text": "$21",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_07.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Etsy",
+       "title": "Ayatul Kursi Silver Cuff Bangle: Islamic Calligraphy ...",
+       "link": "https://www.etsy.com/listing/4469051437/ayatul-kursi-silver-cuff-bangle-islamic",
+       "price_text": "$14",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_08.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Fajr Noor",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://fajrnoor.com/products/ayatul-kursi-cuff",
+       "price_text": "$40",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_16.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay",
+       "title": "Islamic bracelet Unisex Ayat al-Kursi silver-plated ...",
+       "link": "https://www.ebay.com/itm/336532743034",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_38.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Leaocean AYATUL KURSI CUFF | WOMEN Serenity ...",
+       "link": "https://www.amazon.com/Serenity-Personalised-Bracelet-Stainless-Ramadan/dp/B0CRGGHGW2",
+       "price_text": "$11.98",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_39.jpg",
+       "looked_up": true,
+       "reviews": 62,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 62 reviews"
+      },
+      {
+       "source": "Temu",
+       "title": "1pc ayatul kursi cuff bracelet stainless steel jewelry - Temu",
+       "link": "https://www.temu.com/ayatul-kursi--cuff-bracelet-stainless-steel-jewelry-islamic--calligraphy-arabic-god-messenger-bracelet-gift-g-601099519326055.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_45.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: mysilverworld 925 Sterling Silver Turkish ...",
+       "link": "https://www.amazon.com/Sterling-Turkish-Handmade-Adjustable-Bracelet/dp/B0DJZRLXSP",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_47.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Islamic Jewelry Gifts for Women Allah Gold Bangles Bracelets Ayatul Kursi Arabic Cuff Brac",
+       "link": "https://www.amazon.com/Islamic-Jewelry-Gifts-Women-%EF%BC%88Gold-Thick/dp/B099RSP42X/",
+       "price_text": "$12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_001.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 1,
+       "reviews": 322,
+       "bought": "100+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 1 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Islamic Jewelry Gifts for Women Allah Gold Bangles Bracelets Ayatul Kursi Arabic Cuff Brac",
+       "link": "https://www.amazon.com/Qitian-Islamic-Bracelets-Bracelet-%EF%BC%88Gold-New%EF%BC%89/dp/B0BHW9C9KZ/",
+       "price_text": "$19.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_003.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": 52,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words"
+      },
+      {
+       "source": "Nominal",
+       "title": "Ayatul Kursi Bracelet | Islamic Jewelry For Men - Black Cuff Bracelet",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Bracelet+%7C+Islamic+Jewelry+For+Men+-+Black+Cuff+Bracelet%22+Nominal",
+       "price_text": "$60.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_051.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 2,
+       "reviews": 697,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 2 for the product words, with 697 reviews"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Islamic Jewelry Gifts for Women Allah Gold Bangles Bracelets Ayatul Kursi Arabic Cuff Brac",
+       "link": "https://www.amazon.com/Islamic-Jewelry-Gifts-Women-%EF%BC%88Silver-Thick/dp/B099RQT1ZQ/",
+       "price_text": "$9.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_008.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 84,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 3 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Ayatul Kursi Cuff Bracelet for Women Islam Eid Islamic Jewelry Gifts Stainless Steel Musli",
+       "link": "https://www.amazon.com/Pregeckit-Bracelet-Islamic-Stainless-Bracelets/dp/B0F4XHTHLP/",
+       "price_text": "$7.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_011.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": 7,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 4 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Islamic Jewelry Gifts for Women Allah Gold Bangles Bracelets Ayatul Kursi Arabic Cuff Brac",
+       "link": "https://www.amazon.com/Qitian-Islamic-Bracelets-Bracelet-%EF%BC%88Silver-Thick/dp/B0CQZD4LWQ/",
+       "price_text": "$17.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_027.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 74,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "TikTok Shop",
+       "title": "Stainless Steel Quran Arabic Adjustable Open Bangle Bracelet for Women Men Islamic Muslim ",
+       "link": "https://www.google.com/search?q=%22Stainless+Steel+Quran+Arabic+Adjustable+Open+Bangle+Bracelet+for+Women+Men+Islamic+Muslim+Islam+God+Allah+Gold%22+TikTok+Shop",
+       "price_text": "$3.47",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_092.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 10,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 10 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "AYATUL KURSI Islamic Jewelry Bracelets Stainless Steel Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com/Leaocean-Bracelets-Stainless-Openable-Calligraphy/dp/B0F2SYRP47/",
+       "price_text": "$13.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_037.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": 24,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Islamic Jewelry Gifts for Women Allah Gold Bangles Bracelets Ayatul Kursi Arabic Cuff Brac",
+       "link": "https://www.amazon.com/Islamic-Jewelry-Gifts-Women-gold-Thick/dp/B099RQ59RX/",
+       "price_text": "$9.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_041.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": 62,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "Amazon.co.uk - Amazon.co.uk-Seller at £1.99: Google Shopping result 1 for the product words. 24 other copies",
+     "prices": {
+      "brand": 21.72,
+      "cheapest_copy": 1.99,
+      "typical_copy": 9.0,
+      "cheapest_real_copy": 1.99,
+      "priced_copies": 22
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "eBay UK",
+       "title": "Ayatul Kursi Cuff Bracelet Allah Islam Muslim Arab Bracelet ...",
+       "link": "https://www.ebay.co.uk/itm/315832540203",
+       "price_text": "£6",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_09.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "MASHI Ayatul Kursi Engraved Islamic Quranic Bracelet ...",
+       "link": "https://www.amazon.co.uk/MASHI-Engraved-Islamic-Bracelet-Stainless/dp/B0CM7TL76K",
+       "price_text": "£8",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_10.jpg",
+       "looked_up": true,
+       "reviews": 9,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 9 reviews"
+      },
+      {
+       "source": "eBay UK",
+       "title": "NEW* High Quality Stainless Steel Engraved Islamic Ayatul ...",
+       "link": "https://www.ebay.co.uk/itm/326060626400",
+       "price_text": "£9",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_11.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Fajr Noor",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://fajrnoor.com/products/ayatul-kursi-cuff",
+       "price_text": "£30",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_16.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Arabicjewlz",
+       "title": "Ayatul Kursi Bracelet – Arabicjewlz",
+       "link": "https://arabicjewlz.com/products/ayatul-kursi-bracelet-men-copy",
+       "price_text": "£25",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_20.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Arabicjewlz",
+       "title": "Ayatul Kursi Bracelet | Men – Arabicjewlz",
+       "link": "https://arabicjewlz.com/products/ayatul-kursi-bracelet-men",
+       "price_text": "£25",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_22.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "HULYAH",
+       "title": "Ayatul Kursi Necklace, Islam Jewelry, Gift For Muslim, Allah ...",
+       "link": "https://www.hulyah.com/tr/products/ayatul-kursi-cuff-exclusive",
+       "price_text": "£180",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_23.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "NAYABI",
+       "title": "Ayatul Kursi Cuff Bangle – NAYABI",
+       "link": "https://nayabi.com/products/ayatul-kursi-cuff-bangle",
+       "price_text": "£35",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_24.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "islamic ayatul kursi quran verse open bangle bangle bracelet ...",
+       "link": "https://www.temu.com/cy-en/islamic-ayatul-kursi-quran-verse-open-bangle-bangle-bracelet--stainless-steel-mens-cuff-bangle-bangle-bracelet-arabic-calligraphy-allah-allah-jewelry-g-601099700119456.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_58.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "GAUEIOUR Ayatul Kursi Bracelet,Muslim Quran Allah Open ...",
+       "link": "https://www.amazon.co.uk/GAUEIOUR-Bracelet-Double-Sided-Stainless-Calligraphy/dp/B0CXNT2MYY",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_60.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay UK",
+       "title": "AYATUL KURSI Islamic Jewelry Kada Stainless Steel Openable ...",
+       "link": "https://www.ebay.co.uk/itm/405510236981",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_62.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+       "title": "Ayatul Kursi Bracelet Islamic Quranic Surah Bracelet Bangle for Women Islamic Gift for her",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Bracelet+Islamic+Quranic+Surah+Bracelet+Bangle+for+Women+Islamic+Gift+for+her%22+Amazon.co.uk",
+       "price_text": "£1.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_046.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 1 for the product words"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Ayatul Kursi Bracelet Islamic Quranic Surah Bracelet Bangle for Women Islamic Gift for her",
+       "link": "https://www.amazon.co.uk/dp/B0C9VMZT2Y/",
+       "price_text": "£4.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_004.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": 16,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words"
+      },
+      {
+       "source": "Arabicjewlz",
+       "title": "Ayatul Kursi Bracelet Men",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Bracelet+Men%22+Arabicjewlz",
+       "price_text": "£24.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_052.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 2,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+       "title": "VASSAGO Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Cal",
+       "link": "https://www.google.com/search?q=%22VASSAGO+Ayatul+Kursi+Bracelet+for+Women+Men+Muslim+Quran+Allah+Openable+Bangles+Arabic+Calligraphy+Cuff+Bracel%22+Amazon.co.uk",
+       "price_text": "£7.19",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_062.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 4,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 4 for the product words"
+      },
+      {
+       "source": "Al Huda Jewellery",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Cuff%22+Al+Huda+Jewellery",
+       "price_text": "£35.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_058.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 5,
+       "reviews": 274,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 5 for the product words, with 274 reviews"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRW558Z/",
+       "price_text": "£7.19",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_021.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 440,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "Arabicjewlz",
+       "title": "Ayatul Kursi Bracelet with Adjustable Chain",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Bracelet+with+Adjustable+Chain%22+Arabicjewlz",
+       "price_text": "£24.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_072.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 6,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "price_text": "£7.19",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_007.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 440,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+       "title": "MASHI Ayatul Kursi Engraved Islamic Quranic Bracelet Stainless Steel Bangle Islamic Gift",
+       "link": "https://www.google.com/search?q=%22MASHI+Ayatul+Kursi+Engraved+Islamic+Quranic+Bracelet+Stainless+Steel+Bangle+Islamic+Gift%22+Amazon.co.uk",
+       "price_text": "£7.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_078.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 7,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 7 for the product words"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CWL5QKYJ/",
+       "price_text": "£16.13",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_020.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 440,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words, with 440 reviews"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Woman Men Ayatul Kursi Bracelet Muslim Quran Allah 6MM Black Stainless Steel Designe Amule",
+       "link": "https://www.amazon.co.uk/dp/B0D1QHFYJX/",
+       "price_text": "£4.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_035.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 32,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words"
+      },
+      {
+       "source": "Al Huda Jewellery",
+       "title": "Ayatul Kursi Cuff, 18K Gold Plated",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Cuff%2C+18K+Gold+Plated%22+Al+Huda+Jewellery",
+       "price_text": "£35.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_099.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 11,
+       "reviews": 274,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 11 for the product words, with 274 reviews"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Ayatul Kursi Bracelet,Muslim Quran Allah Open Bracelet",
+       "link": "https://www.amazon.co.uk/dp/B0CXNT2MYY/",
+       "price_text": "£5.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_042.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": 37,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 12 for the product words"
+      },
+      {
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller",
+       "title": "Ayatul Kursi Cuff Bracelet - Arabic Islamic Jewelry - Ramadan Eid Gifts",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Cuff+Bracelet+-+Arabic+Islamic+Jewelry+-+Ramadan+Eid+Gifts%22+Amazon.co.uk",
+       "price_text": "£6.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_105.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "ca",
+     "status": "crowded",
+     "why": "amazon.ca at $10.98: Amazon result 2 for the product words. 13 other copies",
+     "prices": {
+      "brand": 39.67,
+      "cheapest_copy": 8.78,
+      "typical_copy": 20.98,
+      "cheapest_real_copy": 8.78,
+      "priced_copies": 14
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Etsy",
+       "title": "Handmade Sterling Silver Ayatul Kursi Cuff Bracelet ...",
+       "link": "https://www.etsy.com/listing/1635742744/handmade-sterling-silver-ayatul-kursi",
+       "price_text": "CA$238",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_00.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Etsy",
+       "title": "Ayatul Kursi Silver Cuff Bangle: Islamic Calligraphy Bracelet ...",
+       "link": "https://www.etsy.com/ca/listing/4469051437/ayatul-kursi-silver-cuff-bangle-islamic",
+       "price_text": "CA$81",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_12.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Etsy",
+       "title": "Silver Ayatul Kursi Bracelet: Stainless Steel Islamic Bangle ...",
+       "link": "https://www.etsy.com/ca/listing/1633552136/silver-ayatul-kursi-bracelet-stainless",
+       "price_text": "CA$24",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_14.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Fajr Noor",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://fajrnoor.com/products/ayatul-kursi-cuff",
+       "price_text": "CA$56",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_16.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Olive Tree Jewelry",
+       "title": "Ayatul Kursi Bracelet (Adjustable) – Olive Tree Jewelry",
+       "link": "https://olivetreejewelry.ca/products/ayatul-kursi-bracelet-adjustable",
+       "price_text": "CA$56",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_34.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Ayatul Kursi Sutra Cuff Bracelet Stainless Steel Jewelry Personality Islamic Calligraphy A",
+       "link": "https://www.amazon.ca/dp/B0F98KQ7T6/",
+       "price_text": "$10.98",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_005.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Stainless Steel Ayatul Kursi Sutra Cuff Bracelet Personalized Islamic Calligraphy Arabic S",
+       "link": "https://www.amazon.ca/dp/B0DDTFZPNJ/",
+       "price_text": "$10.15",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_013.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 4 for the product words"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "price_text": "$12.98",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_007.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 439,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CWL5QKYJ/",
+       "price_text": "$20.98",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_020.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 439,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Islamic Cuff Bracelet - Stainless Steel Ayatul Kursi Arabic Calligraphy Design Gold MCAlim",
+       "link": "https://www.amazon.ca/Cupimatch-Islamic-Cuff-Bracelet-Calligraphy/dp/B0FG2WJDC5/",
+       "price_text": "$11.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_028.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 7,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Ayatul Kursi Ring for Women Men Adjustable Muslim Allah Quran Bracelet Arabic Calligraphy ",
+       "link": "https://www.amazon.ca/VASSAGO-Adjustable-Bracelet-Calligraphy-Stainless/dp/B0D6R5YPQP/",
+       "price_text": "$19.86",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_032.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 19,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRW558Z/",
+       "price_text": "$12.98",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_021.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 439,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words"
+      },
+      {
+       "source": "Etsy - HKSJewelleryByBhavna",
+       "title": "Arabic Cuff Bracelet, Islamic Jewelry Ramadan Eid Gifts, Personalised Name Bracelet, Musli",
+       "link": "https://www.google.com/search?q=%22Arabic+Cuff+Bracelet%2C+Islamic+Jewelry+Ramadan+Eid+Gifts%2C+Personalised+Name+Bracelet%2C+Muslim+Gift%2C+Bismillah+Pe%22+Etsy",
+       "price_text": "$39.50",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_094.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 10,
+       "reviews": 1,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Ayatul Kursi Sutra Cuff Bracelet Stainless Steel Jewelry Personality Islamic Calligraphy A",
+       "link": "https://www.amazon.ca/HOHOKANG-Stainless-Personality-Calligraphy-Messenger/dp/B0CPLWJSDC/",
+       "price_text": "$8.78",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_043.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": 10,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "Amazon.de - Amazon.de-Seller at 10,99 €: Google Shopping result 1 for the product words. 19 other copies",
+     "prices": {
+      "brand": 24.9,
+      "cheapest_copy": 6.99,
+      "typical_copy": 10.99,
+      "cheapest_real_copy": 6.99,
+      "priced_copies": 20
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.de",
+       "title": "HZAOPZE 1 pcs Armband für Frauen Männer Muslim Koran ...",
+       "link": "https://www.amazon.de/HZAOPZE-Armreifen-Kalligraphie-Manschette-Islamischer/dp/B0CTX5C29X",
+       "price_text": "€9",
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_15.jpg",
+       "looked_up": true,
+       "reviews": 35,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 35 reviews"
+      },
+      {
+       "source": "Fajr Noor",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://fajrnoor.com/products/ayatul-kursi-cuff",
+       "price_text": "€35",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_16.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Bislamic",
+       "title": "Ayatul Kursi Armband (Silber) | Islamischer Schmuck – Bislamic",
+       "link": "https://www.bislamic.com/de/products/ayatul-kursi-bracelet-silver",
+       "price_text": "€29",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_35.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "Ayatul Kursi Armband 2 Stück Ayetel Kürsi Offenes Armband für Damen und Herren",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Armband+2+St%C3%BCck+Ayetel+K%C3%BCrsi+Offenes+Armband+f%C3%BCr+Damen+und+Herren%22+Amazon.de",
+       "price_text": "10,99 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_048.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 1 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "price_text": "€8.79",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_007.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 441,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 3 for the product words"
+      },
+      {
+       "source": "Al Huda Jewellery",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Cuff%22+Al+Huda+Jewellery",
+       "price_text": "42,95 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_058.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 3,
+       "reviews": 274,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 3 for the product words, with 274 reviews"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "VASSAGO Ayatul Kursi Armband für Frauen Männer Muslim Koran Allah Offene Bracelet Arabisch",
+       "link": "https://www.google.com/search?q=%22VASSAGO+Ayatul+Kursi+Armband+f%C3%BCr+Frauen+M%C3%A4nner+Muslim+Koran+Allah+Offene+Bracelet+Arabische+Kalligraphie+Mansc%22+Amazon.de",
+       "price_text": "7,91 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_064.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 4,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 4 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Islamic Gifts Bracelet Ayatul Kursi for Women Men Muslim Quran Allah Open Bangles Ayatul K",
+       "link": "https://www.amazon.de/dp/B0D9GF3YF6/",
+       "price_text": "€9.48",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_018.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 52,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Ayatul Kursi Bracelets, Muslim Quran Allah Bracelets, Exquisite Arabic Calligraphy for Wom",
+       "link": "https://www.amazon.de/-/en/Hpbaggy-Ayatul-Bracelets-Muslim-Exquisite/dp/B0CSDHG67W/",
+       "price_text": "€6.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_023.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 99,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "soufeel-de",
+       "title": "Ayatul Kursi Manschetten-islamisches Armband Muslimischer Schmuck",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Manschetten-islamisches+Armband+Muslimischer+Schmuck%22+soufeel-de",
+       "price_text": "15,95 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_074.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 6,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 6 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Ayatul Kursi 18K Gold Plated Stainless Steel Bracelet & Necklace - Spiritual Protection & ",
+       "link": "https://www.amazon.de/-/en/OUMAY-Ayatul-Stainless-Bracelet-Necklace/dp/B0D5BRG2VG/",
+       "price_text": "€29.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_026.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 39,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "Ayatul Kursi Armbänder,Muslim Koran Allah Armbänder Exquisite Arabische Kalligraphie für F",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Armb%C3%A4nder%2CMuslim+Koran+Allah+Armb%C3%A4nder+Exquisite+Arabische+Kalligraphie+f%C3%BCr+Frauen+und+M%C3%A4nner+im+%22+Amazon.de",
+       "price_text": "6,99 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_079.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 7,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 7 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Ayatul Kursi Bracelets, Muslim Quran Allah Bracelets, Exquisite Arabic Calligraphy for Wom",
+       "link": "https://www.amazon.de/dp/B0CSDK94PJ/",
+       "price_text": "€6.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_029.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 99,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "SIXDUTON Ayatul Kursi Armbänder für Damen, Muslim Koran Allah Armbänder Exquisite Arabisch",
+       "link": "https://www.google.com/search?q=%22SIXDUTON+Ayatul+Kursi+Armb%C3%A4nder+f%C3%BCr+Damen%2C+Muslim+Koran+Allah+Armb%C3%A4nder+Exquisite+Arabische+Kalligraphie+im+Is%22+Amazon.de",
+       "price_text": "12,99 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_084.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 8,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 8 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "2 Pieces Ayatul Kursi Muslim Open Bracelet for Islamic",
+       "link": "https://www.amazon.de/dp/B0HFCDYY5Z/",
+       "price_text": "€9.59",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_033.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "Ayatul Kursi Armband 2 Stück Ayetel Kürsi für Damen Muslimisches Offenes Armband für Islam",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Armband+2+St%C3%BCck+Ayetel+K%C3%BCrsi+f%C3%BCr+Damen+Muslimisches+Offenes+Armband+f%C3%BCr+Islamische+Frauen+und+M%C3%A4n%22+Amazon.de",
+       "price_text": "9,99 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_089.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 9,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 9 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Ayatul Kursi Bracelets for Women, Muslim Quran Allah Bracelets Exquisite Arabic Calligraph",
+       "link": "https://www.amazon.de/-/en/SIXDUTON-Bracelet-Bracelets-Calligraphy-Jewellery/dp/B0FHVG4F9B/",
+       "price_text": "€12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_036.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 65,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words"
+      },
+      {
+       "source": "Purechain",
+       "title": "Ayatul Kursi Armband I mit Gravur I Armreifen I 18K Vergoldung Armband / Schwarz",
+       "link": "https://www.google.com/search?q=%22Ayatul+Kursi+Armband+I+mit+Gravur+I+Armreifen+I+18K+Vergoldung+Armband+%2F+Schwarz%22+Purechain",
+       "price_text": "28,00 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_095.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 10,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Ayatul Kursi Bracelet Pack of 2 - Ayetel Kürsi Open Bracelet for Men and Women - Muslim Je",
+       "link": "https://www.amazon.de/dp/B0CZ3QX5GK/",
+       "price_text": "€10.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_040.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": 47,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      },
+      {
+       "source": "Amazon.de - Amazon.de-Seller",
+       "title": "LEEQBCR 2 pcs Ayatul Kursi Armband für Frauen Männer Muslim Koran Allah Offene Armreifen A",
+       "link": "https://www.google.com/search?q=%22LEEQBCR+2+pcs+Ayatul+Kursi+Armband+f%C3%BCr+Frauen+M%C3%A4nner+Muslim+Koran+Allah+Offene+Armreifen+Arabische+Kalligraphi%22+Amazon.de",
+       "price_text": "7,49 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_107.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "amazon.com.au at $11.09: Amazon result 1 for the product words. 13 other copies",
+     "prices": {
+      "brand": 48.64,
+      "cheapest_copy": 11.0,
+      "typical_copy": 16.99,
+      "cheapest_real_copy": 11.0,
+      "priced_copies": 13
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Fajr Noor",
+       "title": "Ayatul Kursi Cuff",
+       "link": "https://fajrnoor.com/products/ayatul-kursi-cuff",
+       "price_text": "NZ$71",
+       "kind": "other store",
+       "thumb_file": "lens/ayat-bracelet_thumb_16.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "1pc ayatul kursi cuff bracelet stainless steel jewelry - Temu",
+       "link": "https://www.temu.com/ayatul-kursi--cuff-bracelet-stainless-steel-jewelry-islamic--calligraphy-arabic-god-messenger-bracelet-gift-g-601099519326055.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/ayat-bracelet_thumb_45.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "[Heiat] Ayatul Kursi Scripture Cuff Bracelet Stainless Steel Jewelry Personality Islamic C",
+       "link": "https://www.amazon.com.au/dp/B0D181KYW8/",
+       "price_text": "$11.09",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_000.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 1 for the product words"
+      },
+      {
+       "source": "Fajr Noor",
+       "title": "Arabic Kun Fa Ya Kun Cuff",
+       "link": "https://www.google.com/search?q=%22Arabic+Kun+Fa+Ya+Kun+Cuff%22+Fajr+Noor",
+       "price_text": "$85.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_049.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 1,
+       "reviews": 108,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 1 for the product words, with 108 reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Sutra Cuff Stainless Steel Jewelry Personality Calligraphy Arabic God Messeng",
+       "link": "https://www.amazon.com.au/dp/B0HC5VMRHV/",
+       "price_text": "$14.87",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_002.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "[Ziizwfa] Stainless Steel Ayatul Kursi Cross Cuff Personalized Calligraphy Arabic Festival",
+       "link": "https://www.amazon.com.au/dp/B0GS257DH6/",
+       "price_text": "$11.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_010.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 4 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Necklace & Bracelet Set – 18K Gold Plated Arabic Calligraphy Jewelry – Symbol",
+       "link": "https://www.amazon.com.au/OUMAY-Ayatul-Kursi-Necklace-Bracelet/dp/B0D5BWLH7M/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_015.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 36,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "Desertcart.ae",
+       "title": "Unisex Italian Charm Bracelet: Stainless Steel with Detachable Modules Hand-Painted Vintag",
+       "link": "https://www.google.com/search?q=%22Unisex+Italian+Charm+Bracelet%3A+Stainless+Steel+with+Detachable+Modules+Hand-Painted+Vintage+Base%22+Desertcart.ae",
+       "price_text": "$27.20",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_070.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 5 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Woman Men Ayatul Kursi Bracelet Muslim Quran Allah 6MM Black Stainless Steel Designe Amule",
+       "link": "https://www.amazon.com.au/Bracelet-Stainless-Designe-Openable-Presents/dp/B0HHH7385G/",
+       "price_text": "$29.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_019.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Islamic Gifts Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Ayat",
+       "link": "https://www.amazon.com.au/VASSAGO-Islamic-Bracelet-Openable-Calligraphy/dp/B0D98N6JX1/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_024.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 60,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRTHQHS/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_007.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 438,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Adjustable Islamic Ayatul Kursi Ring/Bracelet for Women Men",
+       "link": "https://www.amazon.com.au/VASSAGO-Adjustable-Calligraphy-Stainless-Gemstone/dp/B0D6R6CC8G/",
+       "price_text": "$19.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_030.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 191,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CWL5QKYJ/",
+       "price_text": "$29.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_020.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 438,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Openable Bangles Arabic Calligraphy",
+       "link": "https://www.amazon.com.au/VASSAGO-Bracelet-Openable-Bangles-Calligraphy/dp/B0CNRW558Z/",
+       "price_text": "$16.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ayat-bracelet_vis_thumb_021.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": 438,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    }
+   ],
+   "lens_sheet": "lens/ayat-bracelet_sheet.jpg",
+   "supplier": {
+    "slug": "ayat-bracelet",
+    "brand_price": 24.9,
+    "brand_currency": "eur",
+    "words": "ayatul kursi bracelet",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-ayatul-kursi-bracelet.html",
+    "listings": [
+     {
+      "n": 1,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Dawapara Ayatul Kursi Quran Bangle Gold Stainless Steel",
+      "link": "https://www.aliexpress.com/item/1005007379395060.html",
+      "thumb_file": "lens/ayat-bracelet_thumb_41.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 2,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Dawapara Ayatul Kursi Armband Edelstahl muslimisch",
+      "link": "https://de.aliexpress.com/item/1005007379395060.html",
+      "thumb_file": "lens/ayat-bracelet_thumb_67.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 3,
+      "site": "DHgate",
+      "order_type": "small orders",
+      "title": "Chain Personalized Ayatul Kursi Cuff Bangles For... From ...",
+      "link": "https://www.dhgate.com/product/chain-personalized-ayatul-kursi-cuff-bangles/880638985.html",
+      "thumb_file": "lens/ayat-bracelet_thumb_48.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 4,
+      "site": "DHgate",
+      "order_type": "small orders",
+      "title": "Jelly Ayatul Kursi Stainless Steel Cuff Bracelet for Men ...",
+      "link": "https://www.dhgate.com/goods/914570120.html",
+      "thumb_file": "lens/ayat-bracelet_thumb_54.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 5,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Wholesale 18K Gold Plated Stainless Steel 6mm Religious ...",
+      "link": "https://www.alibaba.com/product-detail/Wholesale-18K-Gold-Plated-Stainless-Steel_1601371309307.html",
+      "thumb_file": "lens/ayat-bracelet_thumb_06.jpg",
+      "price_seen_in_search": "$21*",
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 6,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Ayat Al Allah Men's Ayatul Kursi Stainless Steel Bracelet ...",
+      "link": "https://www.alibaba.com/product-detail/Ayat-Al-Allah-Fashion-Arabic-Muslim_1600991001014.html",
+      "thumb_file": "lens/ayat-bracelet_thumb_43.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 7,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Muslim Ayat Al Kursi Calligraphy Bracelet for Men ...",
+      "link": "https://www.alibaba.com/product-detail/Muslim-Religious-Ayat-Al-Ayatul-Kursi_1601006191970.html",
+      "thumb_file": "lens/ayat-bracelet_thumb_53.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 8,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Ayatul Kursi Stainless Steel Cuff Bangle - Trendy Islamic ...",
+      "link": "https://www.alibaba.com/product-detail/Ayatul-Kursi-Muslim-Arabic-Cuff-Bangle_1601291399683.html",
+      "thumb_file": "lens/ayat-bracelet_thumb_55.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     }
+    ],
+    "summary": {
+     "found": 8,
+     "priced": 0,
+     "brand_price_usd": 28.95,
+     "status": "found, price not read",
+     "plain": "8 supplier listings found. Open them to read the price: supplier sites do not show prices to search engines."
+    }
+   },
+   "meta": {
+    "slug": "ayat-bracelet",
+    "phrase": "bracelet ayat al kursi",
+    "checked": "2026-10-11",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22bracelet%20ayat%20al%20kursi%22",
+    "ads_loaded": 53,
+    "capped": false,
+    "stopped_by": "read every live ad",
+    "n_advertisers": 10,
+    "advertisers_with_3_plus_ads": 6,
+    "biggest_advertiser_share": 0.21,
+    "brands_new_in_last_2_months": 6,
+    "brands_advertising_3_plus_months": 4,
+    "ads_started_last_2_months": 29,
+    "ads_older_than_6_months": 16,
+    "pattern": "crowded",
+    "plain": "10 brands advertise it; 4 have kept ads running 3+ months, 6 are new in the last two months. Of the 6 biggest shops we could date, 3 are over a year old and 3 opened in the last four months.",
+    "months": {
+     "2025-10": 2,
+     "2026-02": 8,
+     "2026-04": 6,
+     "2026-07": 5,
+     "2026-08": 3,
+     "2026-09": 10,
+     "2026-10": 19
+    },
+    "brand_months": {
+     "2025-10": 1,
+     "2026-02": 1,
+     "2026-04": 1,
+     "2026-07": 1,
+     "2026-08": 1,
+     "2026-09": 2,
+     "2026-10": 3
+    },
+    "top_advertisers": [
+     {
+      "name": "ShopAmaada",
+      "pages": 1,
+      "page_names": [
+       "ShopAmaada"
+      ],
+      "ads": 11,
+      "oldest_live_ad": "2026-02-18",
+      "page_likes": 1914,
+      "headline": "Bracelets Ayat el kursi (Hommes et Femmes ) : Protection et Élégance",
+      "shop": "buyshopa.com",
+      "product_page": "https://buyshopa.com/products/pack-2-bracelets-ayat-el-kursi-hommes-et-femmes-protection-et-elegance",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=488479817685625",
+      "shop_open_since": "2025-01-19"
+     },
+     {
+      "name": "Jawaya",
+      "pages": 1,
+      "page_names": [
+       "Jawaya"
+      ],
+      "ads": 10,
+      "oldest_live_ad": "2025-10-26",
+      "page_likes": 1150,
+      "headline": "1 Acheté = 1 OFFERT Aujourd'hui !",
+      "shop": "jawaya.fr",
+      "product_page": "https://jawaya.fr/products/bracelet-ayat-al-kursi",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=165544226650039",
+      "shop_open_since": "2023-12-06"
+     },
+     {
+      "name": "K. Store Boutique",
+      "pages": 7,
+      "page_names": [
+       "K. Store Boutique",
+       "ODG Service",
+       "Legacy Store Morocco ",
+       "ODG Multi-service Ouaga ",
+       "E-Barika",
+       "Bon PRIX"
+      ],
+      "ads": 9,
+      "oldest_live_ad": "2026-04-22",
+      "page_likes": 116,
+      "headline": "Legacy Store Morocco ",
+      "shop": "api.whatsapp.com",
+      "product_page": "https://api.whatsapp.com/send",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=321055911100777",
+      "shop_open_since": null
+     },
+     {
+      "name": "Vital Reset",
+      "pages": 1,
+      "page_names": [
+       "Vital Reset"
+      ],
+      "ads": 9,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 7,
+      "headline": "Bracelet Ayat Al Kursi : Élégance, Foi et Protection au Quotidien",
+      "shop": "africmarkt.izistore.app",
+      "product_page": "https://africmarkt.izistore.app/product/-bracelet-ayat-al-kursi-",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=603802612814782",
+      "shop_open_since": null
+     },
+     {
+      "name": "Citée Des Graces",
+      "pages": 1,
+      "page_names": [
+       "Citée Des Graces"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-08-28",
+      "page_likes": 247,
+      "headline": "Livraison gratuite",
+      "shop": "cn1rms-bd.myshopify.com",
+      "product_page": "https://cn1rms-bd.myshopify.com/products/bracelet-ayatalkursi",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=998703463335096",
+      "shop_open_since": "2026-06-24"
+     },
+     {
+      "name": "Essence de lune ",
+      "pages": 1,
+      "page_names": [
+       "Essence de lune "
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 2829,
+      "headline": "Collier • Bague • Bracelet Ayat Al Kursi✨",
+      "shop": "lunnarastore.shop",
+      "product_page": "https://lunnarastore.shop/products/collier-coranique-ayat-al-kursi-le-coffret-original-copie-oo",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=687716754429112",
+      "shop_open_since": "2026-09-03"
+     },
+     {
+      "name": "Legacy Store Morocco ",
+      "pages": 1,
+      "page_names": [
+       "Legacy Store Morocco "
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-19",
+      "page_likes": 116,
+      "headline": "✨ سوار آية الكرسي – توصيل لجميع المدن",
+      "shop": "fb.com",
+      "product_page": "https://fb.com/messenger_doc/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=321055911100777",
+      "shop_open_since": null
+     },
+     {
+      "name": "Bracelet Ayat Al-Kursi",
+      "pages": 1,
+      "page_names": [
+       "Bracelet Ayat Al-Kursi"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-03",
+      "page_likes": 26,
+      "headline": "Bracelets et bagues Ayat Al-Kursi, un verset très puissant et protecteur pour les musulman",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1239265149266265",
+      "shop_open_since": null
+     },
+     {
+      "name": "Entreprise Dadié ",
+      "pages": 1,
+      "page_names": [
+       "Entreprise Dadié "
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-27",
+      "page_likes": 698,
+      "headline": "En savoir plus",
+      "shop": "u7j3um-mb.myshopify.com",
+      "product_page": "https://u7j3um-mb.myshopify.com/products/bracelet-ayat-al-kursi",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=526518293879573",
+      "shop_open_since": "2026-08-03"
+     },
+     {
+      "name": "Création Orientale ",
+      "pages": 1,
+      "page_names": [
+       "Création Orientale "
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-01",
+      "page_likes": 6770,
+      "headline": "Bracelet Ayat Al Kursi",
+      "shop": "creationorientale.com",
+      "product_page": "https://creationorientale.com/collections/nos-bracelets/products/bracelet-ayat-al-kursi-homme",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106848532255818",
+      "shop_open_since": "2022-11-06"
+     }
+    ],
+    "domains": {
+     "buyshopa.com": 11,
+     "jawaya.fr": 10,
+     "api.whatsapp.com": 9,
+     "africmarkt.izistore.app": 9,
+     "cn1rms-bd.myshopify.com": 5,
+     "lunnarastore.shop": 5,
+     "fb.com": 1,
+     "u7j3um-mb.myshopify.com": 1,
+     "creationorientale.com": 1
+    },
+    "cost_usd": 0.27,
+    "shops_checked": 6,
+    "shops_over_a_year_old": 3,
+    "shops_under_4_months_old": 3,
+    "takeaway": "Quiet but scattered: 10 small shops advertise \"bracelet ayat al kursi\" in French, 6 of them new, and none dominates. Création Orientale itself is not among them, so the demand you see in the ads is not proof that this shop's cuff sells."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "ayatul kursi bracelet",
+     "image": "asis/ayat-bracelet_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 2,
+       "title": "Ayatul Kursi Bracelet",
+       "link": "https://www.aliexpress.com/w/wholesale-ayatul-kursi-bracelet.html",
+       "domain": "aliexpress.com",
+       "kind": "store / brand",
+       "snippet": "Elegant Ayatul Kursi bracelet with gold-plated pendant, perfect for Islamic jewelry lovers. Stylish, meaningful, and ideal as a thoughtful gift for men or ..."
+      },
+      {
+       "position": 3,
+       "title": "Silver Ayatul Kursi Bracelet: Stainless Steel Islamic Bangle",
+       "link": "https://www.etsy.com/au/listing/4390822200/silver-ayatul-kursi-bracelet-stainless",
+       "domain": "etsy.com",
+       "kind": "store / brand",
+       "snippet": "Key features: - Fully adjustable bracelet, fit for any size wrist! - Made from TOP GRADE High Quality Stainless Steel metal! - The engraving shows Ayatul Kursi "
+      },
+      {
+       "position": 5,
+       "title": "1pc ayatul kursi cuff bracelet stainless steel jewelry",
+       "link": "https://www.temu.com/au/1pc-ayatul-kursi--cuff-bracelet-stainless-steel-jewelry-islamic--calligraphy-arabic-god--bracelet-gift-g-601099519326055.html",
+       "domain": "temu.com",
+       "kind": "marketplace",
+       "snippet": "1pc Ayatul Kursi Cuff Bracelet Stainless Steel Jewelry Arabic God Bracelet Gift · Silvery · Black · Rose Golden. 96% of customers say these fit true to size."
+      },
+      {
+       "position": 6,
+       "title": "18K Gold Plated Ayatul Kursi Bracelet, Ayat-ul- ...",
+       "link": "https://www.etsy.com/au/listing/1633551562/18k-gold-plated-ayatul-kursi-bracelet",
+       "domain": "etsy.com",
+       "kind": "store / brand",
+       "snippet": "Ablagh-ul-kalaam Islamic Ayatul Kursi Engraved Bracelets for both men and women. Our adjustable bracelets are made from High Quality stainless steel so you do ."
+      },
+      {
+       "position": 7,
+       "title": "Ayatul Kursi Mens Bracelet",
+       "link": "https://www.etsy.com/market/ayatul_kursi_mens_bracelet",
+       "domain": "etsy.com",
+       "kind": "store / brand",
+       "snippet": "Discover meaningful Ayatul Kursi bracelets, perfect for Muslim men and as thoughtful Islamic gifts. Explore protective, engraved, and elegant designs in ..."
+      }
+     ],
+     "paa": [
+      "Can I wear my Ayatul Kursi bracelet in the bathroom?",
+      "Is Ayatul Kursi a surah or ayat?",
+      "What if I recite Ayatul Kursi 100 times?",
+      "What are 10 benefits of reciting Ayatul Kursi?"
+     ],
+     "popular_products": [
+      {
+       "title": "Ayatul Kursi Exquisite Stainless Steel Bracelet Islamic Musl",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Islamic Gifts Ayatul Kursi Bracelet for Women Men Muslim Qur",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Ayatul Kursi Adjustable Bracelet & Ring Set",
+       "price": null,
+       "source": "Hayaljewels"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet for Women Men Muslim Quran Allah Opena",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "The Sabr Ayatul Kursi Cuff",
+       "price": null,
+       "source": "Sabr Watches"
+      },
+      {
+       "title": "Exquisite Quran Verses Ayatul Kursi Bracelet Islamic Muslim ",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Ayatul Kursi Cuff",
+       "price": null,
+       "source": "Al Huda Jewellery"
+      },
+      {
+       "title": "GAUEIOUR Ayatul Kursi Bracelet,Muslim Quran Allah Double-Sid",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Ayatul Kursi Set Necklace & Bracelet",
+       "price": null,
+       "source": "Regina Jewelry Shop"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet",
+       "price": null,
+       "source": "Zahaa Islamic Jewellery"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "An Ayatul Kursi bracelet is a piece of faith-inspired Islamic jewelry engraved with Ayat al-Kursi (the Verse of the Throne) from the Quran, worn as a daily reminder of protection and spiritual strength. If you'd like, let me know: I can recommend a specific option or store for you.",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: aliexpress.com (store / brand). In the product strip: Al Huda Jewellery, Amazon, Amazon AU - Amazon.com.au-Seller, Hayaljewels, Regina Jewelry Shop. Amazon here is quiet."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "ayatul kursi bracelet",
+     "image": "asis/ayat-bracelet_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Ayatul Kursi Bracelet",
+       "link": "https://elmawardyjewelry.com/products/el-mawardy-jewelry-ayatul-kursi-bracelet-in-18k-yellow-gold",
+       "domain": "elmawardyjewelry.com",
+       "kind": "store / brand",
+       "snippet": "This beautifully crafted bangle is made with 18K gold. It features the Ayatul Kursi, a powerful Islamic statement of faith. It's a stunning addition to any ..."
+      },
+      {
+       "position": 3,
+       "title": "Handmade Sterling Silver Ayatul Kursi Cuff Bracelet - Jewelry",
+       "link": "https://www.etsy.com/listing/1635742744/handmade-sterling-silver-ayatul-kursi",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "A silver bangle bracelet with a black enamel band featuring Arabic calligraphy. NowPrice:$159.60 Original Price: $266.00 Loading 40% off"
+      },
+      {
+       "position": 4,
+       "title": "Mini Ayatul Kursi Cuff - Kid Size",
+       "link": "https://zudo.co/products/mini-ayatul-kursi-cuff?srsltid=AU7gw4Watw2NwAURgBKTYHSWGsdPQF7DWRPlG8tq7uXojcby4wzfgl8L",
+       "domain": "zudo.co",
+       "kind": "store / brand",
+       "snippet": "Ayatul Kursi is often regarded as the most powerful verse in the Quran. Mini Ayatul Kursi Cuff - Kid Size $45 $35Save 22% Free Shipping Available* Now in a ..."
+      },
+      {
+       "position": 6,
+       "title": "Ayatul Kursi Cuff Bracelet Bangle",
+       "link": "https://vvsjewelry.com/products/islamic-cuff-bracelet-bangle",
+       "domain": "vvsjewelry.com",
+       "kind": "store / brand",
+       "snippet": "This Ayatul Kursi bangle features intricate calligraphy and geometric patterns that beautifully express the Islamic faith and style."
+      },
+      {
+       "position": 7,
+       "title": "Ayatul Kursi Unisex Silver Cuff Bracelet",
+       "link": "https://www.boutiqueottoman.com/product/ayatul-kursi-unisex-silver-cuff-bracelet/?srsltid=AU7gw4UQVMwlfab00t5qxrzq03JmphZ3h4uLb94Lh2SUKFI3iENOURJW",
+       "domain": "boutiqueottoman.com",
+       "kind": "store / brand",
+       "snippet": "Current price is: $260. Ayatul Kursi Unisex Silver Cuff Bracelet is a 100% handmade product and limited quantity. Made of flexible 925 sterling silver to ..."
+      }
+     ],
+     "paa": [
+      "Can I wear my Ayatul Kursi bracelet in the bathroom?",
+      "Is Ayatul Kursi a surah or ayat?",
+      "What if I recite Ayatul Kursi 100 times?",
+      "What are 10 benefits of reciting Ayatul Kursi?"
+     ],
+     "popular_products": [
+      {
+       "title": "Ayatul Kursi Cuff Women",
+       "price": "$60.00",
+       "source": "Nominal"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet Gold 1",
+       "price": "$19.99",
+       "source": "Berserk Jewels"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet | Islamic Jewelry For Men - Black Cuff",
+       "price": "$60.00",
+       "source": "Nominal"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet - Black (Type 2, Contrast Engraving)",
+       "price": "$12.99",
+       "source": "kufeyeh"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet | Arabic Islamic Jewelry For Men - Bla",
+       "price": "$60.00",
+       "source": "Nominal"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet | WOMEN - 18k gold plated",
+       "price": "$33.00",
+       "source": "kmtsboutique.com"
+      },
+      {
+       "title": "Ayatul Kursi Cuff",
+       "price": "$60.00",
+       "source": "Nominal"
+      },
+      {
+       "title": "Ayatul Kursi Cuff Islamic Bracelet Muslim Jewelry Islamic Je",
+       "price": "$15.95",
+       "source": "Soufeel"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet - Gold",
+       "price": "$34.95",
+       "source": "Barakah Jewelry"
+      },
+      {
+       "title": "Arabic Cuff Bracelet | Ayatul Kursi Cuff | Womens Islamic Je",
+       "price": "$60.00",
+       "source": "Nominal"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "An Ayatul Kursi bracelet is a piece of Islamic and Arabic jewelry engraved with Ayatul Kursi (the Throne Verse, Surah Al-Baqarah 2:255 from the Qur'an). Believers often wear it as a daily reminder of faith, patience, and spiritual connection. If you'd like, let me know:",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in the US: elmawardyjewelry.com (store / brand). In the product strip: Barakah Jewelry, Berserk Jewels, Nominal, Soufeel, kmtsboutique.com. Amazon here is quiet."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "ayatul kursi bracelet",
+     "image": "asis/ayat-bracelet_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Silver Ayatul Kursi Bracelet: Stainless Steel Islamic Bangle",
+       "link": "https://www.etsy.com/uk/listing/4390822200/silver-ayatul-kursi-bracelet-stainless",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "Key features: - Fully adjustable bracelet, fit for any size wrist! - Made from TOP GRADE High Quality Stainless Steel metal! - The engraving shows Ayatul Kursi "
+      },
+      {
+       "position": 2,
+       "title": "BUY 2 GET 1 FREE Ayatul Kursi Bracelet ...",
+       "link": "https://www.etsy.com/uk/listing/4378640253/ayatul-kursi-bracelet-18k-gold-plated",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "A gold-coloured open cuff bracelet featuring engraved Arabic script. COMPLETELY FREE OF CHARGE. Material: Stainless Steel Resistant to rust. Hypoallergenic ..."
+      },
+      {
+       "position": 3,
+       "title": "Ayatul Kursi Bracelet for Him",
+       "link": "https://www.etsy.com/uk/market/ayatul_kursi_bracelet_for_him",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "Fordé Lux Ayatul Kursi Arabic Cuff Bracelet – Stainless Steel Bangle in Gold, Silver or Black | Islamic Calligraphy Gift for Him & Her."
+      },
+      {
+       "position": 4,
+       "title": "Islamic Ayatul Kursi Stainless Steel Cuff Bracelet, Arabic ...",
+       "link": "https://www.etsy.com/uk/listing/4518444173/islamic-ayatul-kursi-stainless-steel",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "Carry a meaningful reminder of faith with this elegant Islamic cuff bracelet, beautifully engraved with Ayatul Kursi (Verse 255 of Surah Al- ..."
+      },
+      {
+       "position": 5,
+       "title": "Ayatul Kursi Cuff Bracelet Unisex Quranic Surah Gold ...",
+       "link": "https://www.ebay.co.uk/itm/235923736882",
+       "domain": "ebay.co.uk",
+       "kind": "marketplace",
+       "snippet": "Ayatul Kursi Cuff Bracelet Unisex Quranic Surah Gold Islamic Jewelry Gift … £6.96 Condition New without tags"
+      }
+     ],
+     "paa": [
+      "Can I wear my Ayatul Kursi bracelet in the bathroom?",
+      "Which brand is famous for bracelets?",
+      "What is Ayatul Kursi in Islam?",
+      "What are the 7 benefits of reciting Ayatul Kursi?"
+     ],
+     "popular_products": [
+      {
+       "title": "Ayatul Kursi Cuff Bracelet - Arabic Islamic Jewelry - Ramada",
+       "price": "£5.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet Islamic Quranic Surah Bracelet Bangle ",
+       "price": "£1.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet Men",
+       "price": "£24.99",
+       "source": "Arabicjewlz"
+      },
+      {
+       "title": "Ayatul Kursi Cuff Bracelet - Arabic Islamic Jewelry - womens",
+       "price": "£6.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Ayatul Kursi Cuff Bracelet - Arabic Islamic Jewelry - womens",
+       "price": "£6.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet",
+       "price": "£24.99",
+       "source": "Arabicjewlz"
+      },
+      {
+       "title": "VASSAGO Ayatul Kursi Bracelet for Women Men Muslim Quran All",
+       "price": "£16.13",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet with Adjustable Chain",
+       "price": "£24.99",
+       "source": "Arabicjewlz"
+      },
+      {
+       "title": "MASHI Ayatul Kursi Engraved Islamic Quranic Bracelet Stainle",
+       "price": "£7.99",
+       "source": "BargainBrit"
+      },
+      {
+       "title": "Ayatul Kursi Cuff",
+       "price": "£30.00",
+       "source": "Fajr Noor"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "An Ayatul Kursi bracelet is a piece of Islamic jewelry engraved with Verse 255 of Surah Al-Baqarah, featuring Arabic calligraphy symbolizing divine protection and faith. If you'd like to narrow down your options, tell me:",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results"
+     ],
+     "takeaway": "First result in the UK: etsy.com (marketplace). In the product strip: Amazon.co.uk - Amazon.co.uk-Seller, Arabicjewlz, BargainBrit, Fajr Noor. Amazon here is quiet."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "ayatul kursi bracelet",
+     "image": "asis/ayat-bracelet_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Ayatul Kursi Cuff Bracelet",
+       "link": "https://omnyahs.com/products/ayatul-kursi-cuff-bracelet?srsltid=AU7gw4W98_LOqcuVz7gLPm0K8LhHwWXhez5XFWkhSsvPJtFHJObliKWr",
+       "domain": "omnyahs.com",
+       "kind": "store / brand",
+       "snippet": "The perfect everyday accessory. Omnyah offers jewellery made from pure stainless steel, plated with real 18-karat gold, guaranteed never to tarnish, rust or ..."
+      },
+      {
+       "position": 2,
+       "title": "Ayatul Kursi Cuff | Women",
+       "link": "https://nominalx.com/products/ayatul-kursi-cuff?srsltid=AU7gw4UhhStDLh4SWF3UaZ2Przi8u61KlvF51ORWuc4jPi4NtEKEo55E",
+       "domain": "nominalx.com",
+       "kind": "store / brand",
+       "snippet": "A silver, open-cuff bangle bracelet with an intricate, repeating pattern of Arabic. Ayatul Kursi Cuff | Women - Nominal."
+      },
+      {
+       "position": 3,
+       "title": "Ayatul Kursi Bracelet — Gold & Silver Plated | CAIRO",
+       "link": "https://cairojewellery.store/products/ayatul-kursi-bracelet?srsltid=AU7gw4WCgj64aXRcu0GoUOYKuQId6PiMHTL4G4QPnLKMoRATdIX-CLNY",
+       "domain": "cairojewellery.store",
+       "kind": "store / brand",
+       "snippet": "Ayat al-Kursi engraved on a gold or silver-plated bracelet. Daily protection and meaning, crafted by CAIRO. €34.99."
+      },
+      {
+       "position": 4,
+       "title": "Ayatul Kursi Bracelet",
+       "link": "https://www.amazon.ca/ayatul-kursi-bracelet/s?k=ayatul+kursi+bracelet",
+       "domain": "amazon.ca",
+       "kind": "marketplace",
+       "snippet": "Islamic bracelets featuring Ayatul Kursi inscriptions in various materials. Ideal for gifting during Eid and Ramadan."
+      },
+      {
+       "position": 6,
+       "title": "Ayatul Kursi Cuff - MIDRA",
+       "link": "https://shopmidra.com/products/ayatul-kursi-cuff?srsltid=AU7gw4XZ2ZV2MtRZuWE2h-CioHyOt-ISAZndqN1_Z8RuD84hGLz7NZsZ",
+       "domain": "shopmidra.com",
+       "kind": "store / brand",
+       "snippet": "Our newly designed Ayatul Kursi Bracelet, regarded as the most powerful verse in the Qur'an, Ayatul Kursi is known to provide protection and safety."
+      }
+     ],
+     "paa": [
+      "Is it good to wear Ayatul Kursi bracelet?",
+      "What is the best Ayatul Kursi bracelet?",
+      "What is the meaning behind an Ayatul Kursi bracelet?",
+      "Is having an Ayatul Kursi necklace haram?"
+     ],
+     "popular_products": [
+      {
+       "title": "HOHOKANG Ayatul Kursi Sutra Cuff Bracelet Stainless Steel Je",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Stainless Steel Ayatul Kursi Sutra Cuff Personalized Calligr",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "VASSAGO Ayatul Kursi Bracelet Muslim Stainless Steel Quran A",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Ayatul Kursi Set",
+       "price": null,
+       "source": "Regina Jewelry Shop"
+      },
+      {
+       "title": "Ayatul Kursi Islamic Cuff Bracelet – Scripture Opening Retro",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Nobrand Ayatul Kursi Exquisite Stainless Steel Bracelet Isla",
+       "price": null,
+       "source": "Walmart.ca"
+      },
+      {
+       "title": "Ayatul Kursi Bracelet for Men Women Adjustable Braided Rope ",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Ayatul Kursi Bangle - Silver, Other Colors Available Gold / ",
+       "price": null,
+       "source": "The Sparkles"
+      },
+      {
+       "title": "hejhncii Ayatul Kursi Sutra Cuff Stainless Steel Jewelry Per",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "hejhncii Bracelet Ayatul Kursi Sutra en acier inoxydable, bi",
+       "price": null,
+       "source": "Amazon CA"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: omnyahs.com (store / brand). In the product strip: Amazon, Amazon CA, Regina Jewelry Shop, The Sparkles, Walmart.ca. Amazon here is quiet."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "ayatul kursi bracelet",
+     "image": "asis/ayat-bracelet_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Ayat kursi bracelet",
+       "link": "https://www.etsy.com/at/market/ayat_kursi_bracelet",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "Ayatul Kursi Bangle Bracelet | Islamic Stainless Steel Cuff | Muslim Gift | Gold & Silver | Unisex I Armreif. (157). € 18,90. Nur noch 2 übrig. Zu Favoriten ..."
+      },
+      {
+       "position": 2,
+       "title": "Bracelet ayat al kursi",
+       "link": "https://www.etsy.com/de/market/bracelet_ayat_al_kursi",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "Ayatul Kursi Bracelet –Islamic Jewelry, Quranic Verse, Unique Muslim Gift Idea Arabic Calligraphy Jewelry, each sale=donation for Palestine. (3). 29,99 ..."
+      },
+      {
+       "position": 5,
+       "title": "Ayatul Kursi Bracelet - Vibes Vanity",
+       "link": "https://vibe-vanity.shop/products/ayatul-kursi-bracelet",
+       "domain": "vibe-vanity.shop",
+       "kind": "store / brand",
+       "snippet": "Für diese Seite sind keine Informationen verfügbar."
+      },
+      {
+       "position": 6,
+       "title": "Ayatul Kursi Bangles",
+       "link": "https://www.etsy.com/market/ayatul_kursi_bangles",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "Ayatul Kursi Cuff Bracelet, Islamic Gift Bracelet with Engraved Arabic Ayatul Kursi. $47.32. FREE shipping. Add to Favorites. May include: Four bangle bracelets"
+      },
+      {
+       "position": 7,
+       "title": "Ayatul Kursi Bracelet - Dubai Mart",
+       "link": "https://dubaimartx.store/products/ayatul-kursi-bracelet",
+       "domain": "dubaimartx.store",
+       "kind": "store / brand",
+       "snippet": "Für diese Seite sind keine Informationen verfügbar."
+      }
+     ],
+     "paa": [
+      "Can I wear my Ayatul Kursi bracelet in the bathroom?",
+      "How to find Ayatul Kursi in Quran?",
+      "What are 10 benefits of reciting Ayatul Kursi?",
+      "Are Ayatul Kursi bracelets haram?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "related_questions",
+      "organic_results",
+      "filters"
+     ],
+     "takeaway": "First result in Germany: etsy.com (marketplace). Amazon here is quiet."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "ayatul kursi bracelet",
+     "image": "asis/ayat-bracelet_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Bracelets, Bangles & Anklets | Zoë & Morgan NZ",
+       "link": "https://zoeandmorgan.com/collections/bracelets?srsltid=AU7gw4U6YTsnYCwCUWB7M4MTQUO_0DXU3lrLEQrAzRJi_J0ZdnOol3ZY",
+       "domain": "zoeandmorgan.com",
+       "kind": "store / brand",
+       "snippet": "Ayllu Bracelet Choose options. Ayllu Bracelet22k Gold Vermeil | White Zircon Sale price$479.00. Stone - Chrome Diopside ..."
+      },
+      {
+       "position": 2,
+       "title": "Bracelets for Women",
+       "link": "https://nz.pandora.net/en/bracelets/",
+       "domain": "nz.pandora.net",
+       "kind": "store / brand",
+       "snippet": "Choose from 14k gold, 14k rose gold-plated, 14k gold-plated and sterling silver bracelets. Available in 4 colors $199.00"
+      },
+      {
+       "position": 3,
+       "title": "Bracelets",
+       "link": "https://www.karenwalker.com/collections/bracelets?srsltid=AU7gw4XGkiYlv2DznnCY3EljiEONfAzg0ye1lEzqZ3lFhZUls6GEiNm_",
+       "domain": "karenwalker.com",
+       "kind": "store / brand",
+       "snippet": "Bracelets (46) Colour Gold (23) Rose Gold (2) Silver (21) Size 18 cm. Heart Thrills Bracelet Silver Regular price NZD $469.00. Regular price NZD $959.00"
+      },
+      {
+       "position": 4,
+       "title": "Bracelets NZ Gold, Silver & Diamond Styles",
+       "link": "https://walkerandhall.co.nz/collections/bracelets?srsltid=AU7gw4WIdnDhng_Jfu6JvDEvRTIft7yOz6JLPmrmrJNQ5DqQ6dmaTvd8",
+       "domain": "walkerandhall.co.nz",
+       "kind": "store / brand",
+       "snippet": "Shop bracelets in NZ including gold, silver and diamond styles. Discover timeless designs crafted for everyday wear or gifting..."
+      },
+      {
+       "position": 6,
+       "title": "Shop Bracelets For Men & Women | Diamond & More",
+       "link": "https://www.pascoes.co.nz/jewellery/bracelets?srsltid=AU7gw4UXZhrRwruMqewm0QmKM-nqzKY4IEnGt9rWxjP2UNNSyVbkn7rT",
+       "domain": "pascoes.co.nz",
+       "kind": "store / brand",
+       "snippet": "The pieces you'll reach for every day. Explore bracelets in gold, silver and diamond designs, made to wear easily and style your way."
+      }
+     ],
+     "paa": [
+      "Is it good to wear Ayatul Kursi bracelet?",
+      "What is the meaning behind an Ayatul Kursi bracelet?",
+      "What is the best Ayatul Kursi bracelet?",
+      "Are bracelets haram to wear?"
+     ],
+     "popular_products": [
+      {
+       "title": "Ayatul Kursi Set Necklace & Bracelet",
+       "price": "$34.64",
+       "source": "Regina Jewelry Shop"
+      },
+      {
+       "title": "Ayatul Kursi Stainless Steel Bracelet",
+       "price": "$53.49",
+       "source": "Modest Hijab"
+      },
+      {
+       "title": "Ayatul Kursi Cuff Silver",
+       "price": "$23.17",
+       "source": "MyDina"
+      },
+      {
+       "title": "The Sabr Ayatul Kursi Cuff",
+       "price": "$51.73",
+       "source": "Sabr Watches"
+      },
+      {
+       "title": "Ayatul Kursi Stainless Steel Cuff Bracelet | REYLVA Silver",
+       "price": "$18.41",
+       "source": "Reylva"
+      },
+      {
+       "title": "Ayatul Kursi Cuff Black",
+       "price": "$23.17",
+       "source": "MyDina"
+      },
+      {
+       "title": "Ayatul Kursi Unisex Silver Cuff Bracelet",
+       "price": "$463.75",
+       "source": "Boutique Ottoman"
+      },
+      {
+       "title": "Ayatul Kursi Stainless Steel Cuff Bracelet | REYLVA Black",
+       "price": "$18.41",
+       "source": "Reylva"
+      },
+      {
+       "title": "Ayatul Kursi Cuff for Men | Islamic Bracelet – RIMAL Jewelry",
+       "price": "$135.00",
+       "source": "rimaljewelry.com"
+      },
+      {
+       "title": "Ayatul Kursi Bangle / Bracelet Pakistan Online",
+       "price": "$28.04",
+       "source": "Manha Accessories"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: zoeandmorgan.com (store / brand). In the product strip: Boutique Ottoman, Manha Accessories, Modest Hijab, MyDina, Regina Jewelry Shop. Amazon here is quiet."
+    }
+   ],
+   "compare": {
+    "match_name": "Amazon UK (£8)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same engraved stainless steel cuff, in silver, gold, black and rose gold.",
+    "brand_image": "ayat-bracelet/img_1.jpg",
+    "match_image": "lens/ayat-bracelet_thumb_10.jpg"
+   }
   }
  ],
  "ranking": [
@@ -16938,6 +20203,7 @@
   "neck-cream",
   "lola-kit",
   "paw-wash",
-  "doggo-dock"
+  "doggo-dock",
+  "ayat-bracelet"
  ]
 }
