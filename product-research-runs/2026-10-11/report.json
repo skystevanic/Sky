@@ -3571,6 +3571,2010 @@
    }
   },
   {
+   "slug": "neck-cream",
+   "name": "Neck Firming Cream (Mudganics)",
+   "one_liner": "The map is green only because this is Mudganics' own formula. Neck creams are a swarm: 40 advertisers, 38 new in two months, and 431,000+ bought on Amazon US last month.",
+   "url": "https://mudorganics.com.au/products/neck-firming-cream",
+   "brand": "Mudganics (Mud Organics)",
+   "category": "Skincare: neck and décolletage cream",
+   "price": "A$89.95",
+   "ad_days": "Oldest live ad 2026-09-28",
+   "store_platform": "Shopify",
+   "store_launched": "2021-09",
+   "store_products": "42 products, Australian skincare, also sold wholesale",
+   "snapshot": {
+    "icp": "Women 45-65 bothered by a crepey or sagging neck",
+    "job": "Firm and smooth the neck and chest skin that face creams skip",
+    "cogs": "About A$6-12 for a private-label cream with packaging (estimate)",
+    "margin": "About 85-90% at A$89.95 (estimate)",
+    "claims": "Sea buckthorn and peptides; 67% saw visible results in a 4-week trial",
+    "demoable": "Yes: neck before and after, but it takes weeks to show"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells this exact cream; chains sell many other neck creams"
+    },
+    {
+     "name": "Copies gate",
+     "result": "pass",
+     "why": "Nobody copies Mudganics' formula, but the category is full"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "fail",
+     "why": "40 brands advertise, 38 of them new in the last two months"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A cosmetic with firming claims: needs safety paperwork and proof for the claims"
+    }
+   ],
+   "scores": {
+    "saturated": 10,
+    "margin": 7,
+    "viral": 7,
+    "pain": 7,
+    "differentiation": 3
+   },
+   "overall": 55,
+   "confidence": "Medium",
+   "best_region": "None. Chains such as Kmart, Walmart, John Lewis and Douglas sell neck creams in every country checked.",
+   "angles": [
+    "Men's neck and jawline cream",
+    "\"Tech neck\" for under-40s who look down at phones all day",
+    "Post-weight-loss loose skin",
+    "Neck cream plus gua sha tool bundle",
+    "TAKEN: \"Don't stop your skincare at your jawline\" (Mudganics' main message)"
+   ],
+   "tile_notes": {
+    "Same": {
+     "head": "Own formula",
+     "detail": "Nobody else sells Mudganics' cream. The real competition is hundreds of other neck creams.",
+     "colour": "green"
+    }
+   },
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "40 brands advertise \"neck firming cream\" and 38 of them started in the last two months: a swarm",
+     "Amazon is enormous: 431,550+ bought last month in the US, top listings with 19,000-37,900 reviews",
+     "You cannot buy this formula: you would need your own private-label cream against StriVectin, Olay and dozens of Amazon brands"
+    ],
+    "risk": "Firming and anti-ageing claims on a cosmetic need evidence and safety paperwork, and Meta reviews before-and-after ads strictly.",
+    "fastest_test": [
+     "Skip it. Demand is real, but sellers are flooding in faster than it grows"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "Kmart sells it at $28.99",
+     "sellers": 22,
+     "cheapest": "A$3",
+     "typical": "A$47",
+     "top": "Kmart (5300)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "Walmart sells it at $11.97",
+     "sellers": 27,
+     "cheapest": "US$8",
+     "typical": "US$54",
+     "top": "Target (5700)"
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "John Lewis sells it at £45.00",
+     "sellers": 21,
+     "cheapest": "£4",
+     "typical": "£15",
+     "top": "eBay - lovedandafter (36000)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "Walmart.ca sells it at $89.99",
+     "sellers": 24,
+     "cheapest": "C$14",
+     "typical": "C$64",
+     "top": "eBay - babybrowns (23000)"
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "The photo search returned no results in Germany; Douglas and Amazon Germany sell many neck creams.",
+     "sellers": 19,
+     "cheapest": "€5",
+     "typical": "€28",
+     "top": "Douglas.de (7128)"
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "28 different sellers",
+     "sellers": 28,
+     "cheapest": "NZ$11",
+     "typical": "NZ$95",
+     "top": "Skinkura (18000)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 34,600 reviews; 4 of the first 20 have 1,000+; at least 2,050 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 34600,
+     "n_1000_plus": 4,
+     "cheapest": "A$6",
+     "typical": "A$30",
+     "bought_last_month_min": 2050,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "SimplyVital Collagen, Retinol & Hyaluronic Acid Cream - Anti-Aging Face Moisturizer for Fa",
+       "price_text": "$49.99",
+       "price": 49.99,
+       "rating": 4.4,
+       "reviews": 34600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/SimplyVital-Collagen-Retinol-Hyaluronic-Cream/dp/B0BBSP2JNQ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/712+7WkOyWL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Gold Bond Neck & Chest Firming Cream, 0.09 Kilograms",
+       "price_text": "$27.54",
+       "price": 27.54,
+       "rating": 4.4,
+       "reviews": 19200,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/60ml-Ultimate-Chest-Firming-Cream/dp/B01B5D3VOC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717jzIuGmTL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Neck Firming Cream with Peptides & Retinol - Anti Aging Skin Tightening Cream to Reduce Wr",
+       "price_text": "$50.00",
+       "price": 50.0,
+       "rating": 4.2,
+       "reviews": 3500,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Firming-Peptides-Retinol-Wrinkles-Treatment/dp/B08TLRBF5T/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81dorLEzTGL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 37,900 reviews; 13 of the first 20 have 1,000+; at least 431,550 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 37900,
+     "n_1000_plus": 13,
+     "cheapest": "US$9",
+     "typical": "US$28",
+     "bought_last_month_min": 431550,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "SimplyVital Face Moisturizer Retinol Collagen Hyaluronic Acid Cream 1.7 oz",
+       "price_text": "$23.97",
+       "price": 23.97,
+       "rating": 4.4,
+       "reviews": 37900,
+       "bought_text": "50K+ bought in past month",
+       "bought": 50000,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com/dp/B0BBSP2JNQ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/712+7WkOyWL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "SimplyVital Face Moisturizer Retinol Collagen Hyaluronic Acid Cream 1.7 oz",
+       "price_text": "$23.97",
+       "price": 23.97,
+       "rating": 4.4,
+       "reviews": 37900,
+       "bought_text": "50K+ bought in past month",
+       "bought": 50000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Face-Moisturizer-Collagen-Cream-Moisturizing/dp/B0BBSP2JNQ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/712+7WkOyWL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Gold Bond Age Renew Neck & Chest Firming Age Renew Cream, 2 oz",
+       "price_text": "$11.97",
+       "price": 11.97,
+       "rating": 4.4,
+       "reviews": 20900,
+       "bought_text": "30K+ bought in past month",
+       "bought": 30000,
+       "sponsored": false,
+       "badges": [
+        "Overall Pick"
+       ],
+       "link": "https://www.amazon.com/Gold-Bond-Moisturizing-Salicylic-Hydration/dp/B01B5D3VOC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717jzIuGmTL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 19,200 reviews; 8 of the first 20 have 1,000+; at least 62,950 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 19200,
+     "n_1000_plus": 8,
+     "cheapest": "£4",
+     "typical": "£17",
+     "bought_last_month_min": 62950,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Gold Bond Ultimate Neck & Chest Firming Cream 2 Ounce Moisturizing Lotion With Salicylic A",
+       "price_text": "£15.00",
+       "price": 15.0,
+       "rating": 4.2,
+       "reviews": 19200,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Gold-Bond-Moisturizing-Salicylic-Hydration/dp/B01B5D3VOC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717jzIuGmTL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "StriVectin Tighten & Lift Advanced Neck Cream PLUS with Alpha-3 Peptides™ for Neck & Décol",
+       "price_text": "£40.80",
+       "price": 40.8,
+       "rating": 3.6,
+       "reviews": 4100,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0C5FD2G3V/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61epgvVmQ4L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Neck Firming Cream for Crepey Skin with Retinol & Peptide, 1.69 fl oz",
+       "price_text": "£17.99",
+       "price": 17.99,
+       "rating": 4.3,
+       "reviews": 3700,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0811DRT92/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61vav1cI5YL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 19,200 reviews; 13 of the first 20 have 1,000+; at least 17,450 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 19200,
+     "n_1000_plus": 13,
+     "cheapest": "C$11",
+     "typical": "C$28",
+     "bought_last_month_min": 17450,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Gold Bond Ultimate Neck & Chest Firming Cream",
+       "price_text": "$25.43",
+       "price": 25.43,
+       "rating": 4.4,
+       "reviews": 19200,
+       "bought_text": "700+ bought in past month",
+       "bought": 700,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Gold-Bond-Ultimate-Chest-Firming/dp/B01B5D3VOC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717jzIuGmTL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and L",
+       "price_text": "$59.99",
+       "price": 59.99,
+       "rating": 3.9,
+       "reviews": 12100,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.ca/dp/B0CGB215HR/",
+       "thumbnail": "https://m.media-amazon.com/images/I/613gXRGC9XL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and L",
+       "price_text": "$59.99",
+       "price": 59.99,
+       "rating": 3.9,
+       "reviews": 12100,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/goPure-Beauty-Neck-Firming-Cream/dp/B0CGB215HR/",
+       "thumbnail": "https://m.media-amazon.com/images/I/613gXRGC9XL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 19,200 reviews; 5 of the first 20 have 1,000+; at least 1,750 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 19200,
+     "n_1000_plus": 5,
+     "cheapest": "€6",
+     "typical": "€20",
+     "bought_last_month_min": 1750,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Gold Bond Ultimate Firming Neck & Chest Cream, Fragrance Free 2 oz by Gold Bond",
+       "price_text": "€22.89",
+       "price": 22.89,
+       "rating": 4.4,
+       "reviews": 19200,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Gold-Bond-Ultimate-Firming-Fragrance/dp/B01B5D3VOC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717jzIuGmTL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "YEOUTH Firming Neck Cream with Vitamin C, Neck Cream for Cleavage and Double Chin, Moistur",
+       "price_text": "€17.99",
+       "price": 17.99,
+       "rating": 3.9,
+       "reviews": 3900,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/YEOUTH-Firming-Vitamin-Cleavage-Moisturising/dp/B01NBWW1H2/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51S-kRh80UL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Neck and Cleavage Cream with Peptides and Retinol - Neck Firming Cream to",
+       "price_text": "€26.97",
+       "price": 26.97,
+       "rating": 4.2,
+       "reviews": 3500,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B08TLRBF5T/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61lya5diABL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "high",
+     "why": "top listing 34,600 reviews; 4 of the first 20 have 1,000+; at least 2,050 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 34600,
+     "n_1000_plus": 4,
+     "cheapest": "A$6",
+     "typical": "A$30",
+     "bought_last_month_min": 2050,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "SimplyVital Collagen, Retinol & Hyaluronic Acid Cream - Anti-Aging Face Moisturizer for Fa",
+       "price_text": "$49.99",
+       "price": 49.99,
+       "rating": 4.4,
+       "reviews": 34600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/SimplyVital-Collagen-Retinol-Hyaluronic-Cream/dp/B0BBSP2JNQ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/712+7WkOyWL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Gold Bond Neck & Chest Firming Cream, 0.09 Kilograms",
+       "price_text": "$27.54",
+       "price": 27.54,
+       "rating": 4.4,
+       "reviews": 19200,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/60ml-Ultimate-Chest-Firming-Cream/dp/B01B5D3VOC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717jzIuGmTL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Neck Firming Cream with Peptides & Retinol - Anti Aging Skin Tightening Cream to Reduce Wr",
+       "price_text": "$50.00",
+       "price": 50.0,
+       "rating": 4.2,
+       "reviews": 3500,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Firming-Peptides-Retinol-Wrinkles-Treatment/dp/B08TLRBF5T/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81dorLEzTGL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "rising",
+     "growth_pct": 77,
+     "seasonal": true,
+     "peak_months": [
+      "Apr",
+      "May",
+      "Sep"
+     ],
+     "months_to_peak": 6,
+     "now_vs_high": 16,
+     "avg_last_year": 34.5,
+     "spike": true,
+     "zero_share": 0.0,
+     "why": "A typical week in the last 12 months is +77% on the year before; includes a spike around Apr 2026 — check it isn't a one-off; seasonal, busiest months Apr, May, Sep",
+     "line": [
+      12,
+      12,
+      14,
+      14,
+      12,
+      12,
+      13,
+      12,
+      12,
+      13,
+      14,
+      14,
+      14,
+      13,
+      14,
+      14,
+      14,
+      13,
+      13,
+      14,
+      15,
+      17,
+      19,
+      20,
+      16,
+      20,
+      18,
+      21,
+      20,
+      18,
+      16,
+      16,
+      16,
+      18,
+      23,
+      30,
+      20,
+      35,
+      88,
+      88,
+      68,
+      76,
+      49,
+      42,
+      31,
+      20,
+      22,
+      23,
+      29,
+      49,
+      40,
+      18,
+      16
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 89.95,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 59.97,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 60
+    },
+    {
+     "cc": "uk",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 44.98,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 59
+    },
+    {
+     "cc": "ca",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 82.15,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 59
+    },
+    {
+     "cc": "nz",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 100.74,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 60
+    }
+   ],
+   "lens_sheet": "lens/neck-cream_sheet.jpg",
+   "supplier": {
+    "slug": "neck-cream",
+    "brand_price": 89.95,
+    "brand_currency": "aud",
+    "words": "neck firming cream",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-neck-firming-cream.html",
+    "listings": [],
+    "summary": {
+     "found": 0,
+     "priced": 0,
+     "brand_price_usd": 59.97,
+     "status": "none found",
+     "plain": "The photo search did not turn up a supplier listing for this exact object. That does not prove there isn't one: search AliExpress for it by name or picture before you decide."
+    }
+   },
+   "meta": {
+    "slug": "neck-cream",
+    "phrase": "neck firming cream",
+    "checked": "2026-10-11",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22neck%20firming%20cream%22",
+    "ads_loaded": 175,
+    "capped": false,
+    "stopped_by": "read every live ad",
+    "n_advertisers": 40,
+    "advertisers_with_3_plus_ads": 20,
+    "biggest_advertiser_share": 0.13,
+    "brands_new_in_last_2_months": 38,
+    "brands_advertising_3_plus_months": 1,
+    "ads_started_last_2_months": 161,
+    "ads_older_than_6_months": 0,
+    "pattern": "crowded",
+    "plain": "40 brands. Their live ads are recent, but 3 of the 4 biggest shops we could date are more than a year old: an established market, not a new rush.",
+    "months": {
+     "2026-06": 2,
+     "2026-07": 1,
+     "2026-08": 11,
+     "2026-09": 46,
+     "2026-10": 115
+    },
+    "brand_months": {
+     "2026-06": 1,
+     "2026-08": 6,
+     "2026-09": 16,
+     "2026-10": 17
+    },
+    "top_advertisers": [
+     {
+      "name": "Egoryspecies.YS03",
+      "pages": 4,
+      "page_names": [
+       "Egoryspecies.YS03",
+       "Garmentlace.GU07",
+       "Copicemicros_HH",
+       "Etercitenal.NA34"
+      ],
+      "ads": 23,
+      "oldest_live_ad": "2026-09-24",
+      "page_likes": 288,
+      "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+      "shop": "novthra.com",
+      "product_page": "https://www.novthra.com/products/magec-collagen-fullerene-neck-cream-2-6-2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=139093505944632",
+      "shop_open_since": null
+     },
+     {
+      "name": "Shiftaken.com",
+      "pages": 2,
+      "page_names": [
+       "Shiftaken.com",
+       "Shiftaken.shop"
+      ],
+      "ads": 19,
+      "oldest_live_ad": "2026-10-04",
+      "page_likes": 647,
+      "headline": "🔥2,649 sold in last 24 hours🔥",
+      "shop": "shiftaken.com",
+      "product_page": "https://www.shiftaken.com/products/reduces-wrinkles-and-double-chin-five-rollers-for-all-around-massage-neck-firming-cream-collagen-neck-cream-relieves-edema-suitable-for-wrinkled-skin-with-hyaluronic-acid-vitaminc-e-2-2-2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=112345131786099",
+      "shop_open_since": null
+     },
+     {
+      "name": "terez and honor",
+      "pages": 1,
+      "page_names": [
+       "terez and honor"
+      ],
+      "ads": 13,
+      "oldest_live_ad": "2026-08-25",
+      "page_likes": 905,
+      "headline": "Neck Cream + Gua Sha in One",
+      "shop": "terezandhonor.com",
+      "product_page": "https://terezandhonor.com/products/gua-sha-neck-firming-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=376819908854137",
+      "shop_open_since": "2020-07-14"
+     },
+     {
+      "name": "Bisnftwrem/D",
+      "pages": 3,
+      "page_names": [
+       "Bisnftwrem/D",
+       "Bisnftwrem/8",
+       "Bisnftwrem.BF04"
+      ],
+      "ads": 12,
+      "oldest_live_ad": "2026-09-01",
+      "page_likes": 587,
+      "headline": "Roller Massage Neck Cream 🧴 Collagen & Hyaluronic Acid | Firms Neck, Reduces Wrinkles & Do",
+      "shop": "bisnftwrem.com",
+      "product_page": "https://bisnftwrem.com/products/roller-massage-neck-cream-collagen-hyaluronic-acid-firms-neck-reduces-wrinkles-double-chin-5",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=270944276101182",
+      "shop_open_since": "2026-09-16"
+     },
+     {
+      "name": "Mud. Organics",
+      "pages": 1,
+      "page_names": [
+       "Mud. Organics"
+      ],
+      "ads": 11,
+      "oldest_live_ad": "2026-09-28",
+      "page_likes": 14388,
+      "headline": "NEW: The Neck Firming Cream ✨",
+      "shop": "mudorganics.com.au",
+      "product_page": "https://mudorganics.com.au/products/neck-firming-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101523652231511",
+      "shop_open_since": "2021-09-08"
+     },
+     {
+      "name": "Slimdescent",
+      "pages": 1,
+      "page_names": [
+       "Slimdescent"
+      ],
+      "ads": 10,
+      "oldest_live_ad": "2026-10-08",
+      "page_likes": 1140,
+      "headline": "🔥2,649 sold in last 24 hours🔥",
+      "shop": "slimdescent.com",
+      "product_page": "https://www.slimdescent.com/products/reduces-wrinkles-and-double-chin-five-rollers-for-all-around-massage-neck-firming-cream-collagen-neck-cream-relieves-edema-suitable-for-wrinkled-skin-with-hyaluronic-acid-vitaminc-e-2-2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=116347114813001",
+      "shop_open_since": null
+     },
+     {
+      "name": "Shopee",
+      "pages": 1,
+      "page_names": [
+       "Shopee"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-09-06",
+      "page_likes": 5084,
+      "headline": "Buy Here👉 https://s.shopee.ph/5VTzBsz6rz\n\nIdagdag mo sa skincare routine mo ang Rtopr Mang",
+      "shop": "s.shopee.ph",
+      "product_page": "https://s.shopee.ph/5VTzBsz6rz",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1405090646463166",
+      "shop_open_since": null
+     },
+     {
+      "name": "SENTÉ",
+      "pages": 1,
+      "page_names": [
+       "SENTÉ"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-10-01",
+      "page_likes": 10864,
+      "headline": "{{product.name}}",
+      "shop": "sentelabs.com",
+      "product_page": "https://sentelabs.com/collections/dehydrated-skin",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=144807445617470",
+      "shop_open_since": "2020-05-12"
+     },
+     {
+      "name": "Morelife Indonesia",
+      "pages": 1,
+      "page_names": [
+       "Morelife Indonesia"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-06-27",
+      "page_likes": 99,
+      "headline": "Leher Tampak Lebih Cerah, Halus & Kencang",
+      "shop": "morelife-indonesia.myscalev.com",
+      "product_page": "https://morelife-indonesia.myscalev.com/lp-neck-firming-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1164900086708703",
+      "shop_open_since": null
+     },
+     {
+      "name": "GoPure Skin Care",
+      "pages": 1,
+      "page_names": [
+       "GoPure Skin Care"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-10-02",
+      "page_likes": 4524,
+      "headline": "I wanted to see if it actually worked!😍",
+      "shop": "deals.gopure.com",
+      "product_page": "http://deals.gopure.com/nc10-featured-article",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1532309590375841",
+      "shop_open_since": null
+     },
+     {
+      "name": "50 Plus and Fabulous",
+      "pages": 1,
+      "page_names": [
+       "50 Plus and Fabulous"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 98,
+      "headline": "I lost 51 pounds and my neck stayed behind",
+      "shop": "try.olavita.co",
+      "product_page": "https://try.olavita.co/tlpc/glp/tight-skin-over-65",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=980604121800437",
+      "shop_open_since": null
+     },
+     {
+      "name": "My Healthy Skin",
+      "pages": 1,
+      "page_names": [
+       "My Healthy Skin"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-10-09",
+      "page_likes": 15,
+      "headline": "Don't Stop Caring at Your Jawline",
+      "shop": "trvl.shopcelmor.com",
+      "product_page": "https://trvl.shopcelmor.com/62659e11-0e1f-4d41-bf24-1792f5241664",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=956347550898385",
+      "shop_open_since": null
+     },
+     {
+      "name": "Mitchellusa.co.in",
+      "pages": 1,
+      "page_names": [
+       "Mitchellusa.co.in"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-08-25",
+      "page_likes": 180614,
+      "headline": "Tighten & Smooth Your Neck in Just 4 Weeks!",
+      "shop": "mitchellusa.co.in",
+      "product_page": "https://www.mitchellusa.co.in/collections/anti-aging/products/neck-therapy-refining-cream-50g",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=204916246654215",
+      "shop_open_since": null
+     },
+     {
+      "name": "Mindsparkl.33",
+      "pages": 2,
+      "page_names": [
+       "Mindsparkl.33",
+       "Mindsparkl"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-08-03",
+      "page_likes": 753,
+      "headline": "Roller Massage Neck Cream 🧴 Collagen & Hyaluronic Acid | Firms Neck, Reduces Wrinkles & Do",
+      "shop": "mindsparkl.com",
+      "product_page": "https://mindsparkl.com/products/roller-massage-neck-cream-collagen-hyaluronic-acid-firms-neck-reduces-wrinkles-double-chin-5",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1184091564789600",
+      "shop_open_since": null
+     },
+     {
+      "name": "PremierGuide Turnway",
+      "pages": 1,
+      "page_names": [
+       "PremierGuide Turnway"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-09-30",
+      "page_likes": 29,
+      "headline": "Best Neck Firming Cream",
+      "shop": "rmn.akamaized.net",
+      "product_page": "https://rmn.akamaized.net/r/662DC74",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=842144025651318",
+      "shop_open_since": null
+     },
+     {
+      "name": "Eight Saints",
+      "pages": 1,
+      "page_names": [
+       "Eight Saints"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-28",
+      "page_likes": 18329,
+      "headline": "5 Reasons to Try This Firming Neck Cream",
+      "shop": "eightsaintsskincare.com",
+      "product_page": "https://eightsaintsskincare.com/pages/5-reasons-this-award-winning-neck-cream-is-getting-so-much-attention-in-2026",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=571382113286344",
+      "shop_open_since": null
+     },
+     {
+      "name": "Aaron Young",
+      "pages": 1,
+      "page_names": [
+       "Aaron Young"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-25",
+      "page_likes": 3,
+      "headline": "✨ The 5-Ball Neck Cream Your Routine Is Missing",
+      "shop": "purivique.com",
+      "product_page": "https://purivique.com/products/qz",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1256993750830571",
+      "shop_open_since": null
+     },
+     {
+      "name": "SUPER MURAH",
+      "pages": 1,
+      "page_names": [
+       "SUPER MURAH"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-10-05",
+      "page_likes": 39,
+      "headline": "4,9/5 ⭐⭐⭐⭐⭐ – Sudah 10.638 orang membeli",
+      "shop": "serbadiskonid.form.id",
+      "product_page": "https://serbadiskonid.form.id/m1-rtopr-leher-firming-a20",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1057953267409876",
+      "shop_open_since": null
+     },
+     {
+      "name": "Mud. Organics",
+      "pages": 1,
+      "page_names": [
+       "Mud. Organics"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-10-08",
+      "page_likes": 14388,
+      "headline": "NEW: The Neck Firming Cream ✨",
+      "shop": "mudorganics.com",
+      "product_page": "http://www.mudorganics.com/neck-firming-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101523652231511",
+      "shop_open_since": null
+     },
+     {
+      "name": "Londonukn+J",
+      "pages": 3,
+      "page_names": [
+       "Londonukn+J",
+       "Cambridgu+V",
+       "Britshoplm"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-12",
+      "page_likes": 149,
+      "headline": "Neck Firming & Wrinkle Cream with 5 Rollers",
+      "shop": "nookwarmvibe.com",
+      "product_page": "https://www.nookwarmvibe.com/funnel/news-neck-firming-wrinkle-cream-with-5-rollers-y",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=355776787617754",
+      "shop_open_since": null
+     },
+     {
+      "name": "Cocomo beauty",
+      "pages": 1,
+      "page_names": [
+       "Cocomo beauty"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-09-30",
+      "page_likes": 15014,
+      "headline": "🗓️ 14 days! No filters. No editing. Just results. ✨\n\n🤍The Collagen Lifting Neck Cream is y",
+      "shop": "cocomo.sg",
+      "product_page": "https://www.cocomo.sg/products/lagom-collagen-lifting-neck-cream-50ml",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=651858848275651",
+      "shop_open_since": null
+     },
+     {
+      "name": "Karinanyc Skin Clinics",
+      "pages": 1,
+      "page_names": [
+       "Karinanyc Skin Clinics"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-08-21",
+      "page_likes": 2459,
+      "headline": "Day & Night Moisturizer for Women Age 40+",
+      "shop": "karinanyc.com",
+      "product_page": "https://www.karinanyc.com/products/creme-pto-metamorphique",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=189877451032841",
+      "shop_open_since": null
+     },
+     {
+      "name": "Zyren",
+      "pages": 1,
+      "page_names": [
+       "Zyren"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-02",
+      "page_likes": 1921,
+      "headline": "Amazon Is Selling Fake Zyren Under Our Name👆",
+      "shop": "zyrenofficial.com",
+      "product_page": "https://zyrenofficial.com/products/tighten-lift-neck-cream-1",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=850163961502738",
+      "shop_open_since": null
+     },
+     {
+      "name": "Emboadlie.bi05",
+      "pages": 2,
+      "page_names": [
+       "Emboadlie.bi05",
+       "Benighty.NI02"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-04",
+      "page_likes": 1716,
+      "headline": "🔥2,649 sold in last 24 hours🔥",
+      "shop": "wordmindglow.com",
+      "product_page": "https://www.wordmindglow.com/products/magec-collagen-fullerene-neck-cream-80",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=128782720319494",
+      "shop_open_since": null
+     },
+     {
+      "name": "Féline Skincare",
+      "pages": 1,
+      "page_names": [
+       "Féline Skincare"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-14",
+      "page_likes": 2657,
+      "headline": "The Crepey Skin Myth: The Real Reason contributing to aging skin.",
+      "shop": "felineskinscience.com",
+      "product_page": "https://www.felineskinscience.com/products/advanced-crepe-fix",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=422968940900577",
+      "shop_open_since": null
+     },
+     {
+      "name": "Remedy Skin",
+      "pages": 1,
+      "page_names": [
+       "Remedy Skin"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-29",
+      "page_likes": 9422,
+      "headline": "93% saw smoother-looking neck skin after 4 weeks",
+      "shop": "remedyskin.com",
+      "product_page": "https://remedyskin.com/products/face-neck-firming-stick-retinaldehyde",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=193761463826127",
+      "shop_open_since": null
+     },
+     {
+      "name": "Be Clinical ",
+      "pages": 1,
+      "page_names": [
+       "Be Clinical "
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-09",
+      "page_likes": 2167,
+      "headline": "31.8% Reduction in Neck Lines",
+      "shop": "be-clinical.com",
+      "product_page": "https://be-clinical.com/collections/all/products/neck-firming-cream-for-sagging-skin",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=567123489828030",
+      "shop_open_since": null
+     },
+     {
+      "name": "Gentlume05",
+      "pages": 1,
+      "page_names": [
+       "Gentlume05"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-03",
+      "page_likes": 32,
+      "headline": "Roller Massage Neck Cream 🧴 Collagen & Hyaluronic Acid | Firms Neck, Reduces Wrinkles & Do",
+      "shop": "gentlume.com",
+      "product_page": "https://gentlume.com/products/roller-massage-neck-cream-collagen-hyaluronic-acid-firms-neck-reduces-wrinkles-double-chin",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1260939573761223",
+      "shop_open_since": null
+     },
+     {
+      "name": "DefenAge",
+      "pages": 1,
+      "page_names": [
+       "DefenAge"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-16",
+      "page_likes": 5557,
+      "headline": "Made for the Neck",
+      "shop": "defenage.com",
+      "product_page": "https://defenage.com/body/10-luxe-hand-and-body-cream-anti-aging-firming-lotion.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1679246505658171",
+      "shop_open_since": null
+     },
+     {
+      "name": "Perpetualing.PR02",
+      "pages": 1,
+      "page_names": [
+       "Perpetualing.PR02"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-18",
+      "page_likes": 86,
+      "headline": "Roller Massage Neck Cream 🧴 Collagen & Hyaluronic Acid | Firms Neck, Reduces Wrinkles & Do",
+      "shop": "perpetualing.com",
+      "product_page": "https://perpetualing.com/products/roller-massage-neck-cream-collagen-hyaluronic-acid-firms-neck-reduces-wrinkles-double-chin-2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1223756974151600",
+      "shop_open_since": null
+     },
+     {
+      "name": "Nowadaysi 8",
+      "pages": 1,
+      "page_names": [
+       "Nowadaysi 8"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-26",
+      "page_likes": 404,
+      "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+      "shop": "glowthinkday.com",
+      "product_page": "https://www.glowthinkday.com/products/magec-collagen-fullerene-neck-cream-2-41",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=110618245342397",
+      "shop_open_since": null
+     },
+     {
+      "name": "Amazon.com",
+      "pages": 1,
+      "page_names": [
+       "Amazon.com"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-03",
+      "page_likes": 5741,
+      "headline": "Neck firming cream. \n\n #Neck #beauty #beautytips #amazonfind #eightsaints",
+      "shop": "amazon.com",
+      "product_page": "https://www.amazon.com/Eight-Saints-Intentions-Reducing-Wrinkles/dp/B0F2J966QL",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=9465008123",
+      "shop_open_since": null
+     },
+     {
+      "name": "Feelamused.LE25",
+      "pages": 1,
+      "page_names": [
+       "Feelamused.LE25"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-21",
+      "page_likes": 98,
+      "headline": "🔥2,649 sold in last 24 hours🔥",
+      "shop": "techsoftvibe.com",
+      "product_page": "https://www.techsoftvibe.com/products/magec-collagen-fullerene-neck-cream-13",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=382637288266997",
+      "shop_open_since": null
+     },
+     {
+      "name": "Enhancew55",
+      "pages": 1,
+      "page_names": [
+       "Enhancew55"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-01",
+      "page_likes": 290,
+      "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+      "shop": "nookvely.com",
+      "product_page": "https://www.nookvely.com/products/magec-collagen-fullerene-neck-cream-2-2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=451840371354427",
+      "shop_open_since": null
+     },
+     {
+      "name": "Zealedrise",
+      "pages": 1,
+      "page_names": [
+       "Zealedrise"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-05",
+      "page_likes": 68,
+      "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+      "shop": "devmindglow.com",
+      "product_page": "https://www.devmindglow.com/products/magec-collagen-fullerene-neck-cream-2-35",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=520131677843071",
+      "shop_open_since": null
+     },
+     {
+      "name": "Hailnrothwad",
+      "pages": 1,
+      "page_names": [
+       "Hailnrothwad"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-21",
+      "page_likes": 1359,
+      "headline": "🔥2,649 sold in last 24 hours🔥",
+      "shop": "hailnrothwad.com",
+      "product_page": "https://www.hailnrothwad.com/products/magec-collagen-fullerene-neck-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101905529605353",
+      "shop_open_since": null
+     },
+     {
+      "name": "Blaciokamith",
+      "pages": 1,
+      "page_names": [
+       "Blaciokamith"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-10",
+      "page_likes": 415,
+      "headline": "Collagen Neck Firming Cream",
+      "shop": "blaciokamith.com",
+      "product_page": "https://www.blaciokamith.com/pages/news-collagen-neck-firming-cream-m",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101598142549165",
+      "shop_open_since": null
+     },
+     {
+      "name": "Chinology Community",
+      "pages": 1,
+      "page_names": [
+       "Chinology Community"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 179,
+      "headline": "\"I wish I bought this sooner!!\"",
+      "shop": "try-chinology.com",
+      "product_page": "https://www.try-chinology.com/pages/chino",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1271376706056504",
+      "shop_open_since": null
+     },
+     {
+      "name": "Culminatew+o",
+      "pages": 1,
+      "page_names": [
+       "Culminatew+o"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-10",
+      "page_likes": 1033,
+      "headline": "Collagen Neck Firming Cream",
+      "shop": "culminatew.com",
+      "product_page": "https://www.culminatew.com/pages/news-collagen-neck-firming-cream-m",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101288219648238",
+      "shop_open_since": null
+     },
+     {
+      "name": "Neattidyly.ED",
+      "pages": 1,
+      "page_names": [
+       "Neattidyly.ED"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-08",
+      "page_likes": 277,
+      "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+      "shop": "glownixel.com",
+      "product_page": "https://www.glownixel.com/products/magec-collagen-fullerene-neck-cream-2-18",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=442749052262622",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "novthra.com": 23,
+     "shiftaken.com": 19,
+     "terezandhonor.com": 13,
+     "bisnftwrem.com": 12,
+     "mudorganics.com.au": 11,
+     "slimdescent.com": 10,
+     "s.shopee.ph": 6,
+     "sentelabs.com": 6,
+     "morelife-indonesia.myscalev.com": 6,
+     "deals.gopure.com": 6,
+     "try.olavita.co": 6,
+     "trvl.shopcelmor.com": 6,
+     "mitchellusa.co.in": 4,
+     "mindsparkl.com": 4,
+     "rmn.akamaized.net": 4,
+     "eightsaintsskincare.com": 3,
+     "purivique.com": 3,
+     "serbadiskonid.form.id": 3,
+     "mudorganics.com": 3,
+     "nookwarmvibe.com": 3,
+     "cocomo.sg": 2,
+     "karinanyc.com": 2,
+     "zyrenofficial.com": 2,
+     "wordmindglow.com": 2,
+     "felineskinscience.com": 1
+    },
+    "cost_usd": 1.01,
+    "shops_checked": 4,
+    "shops_over_a_year_old": 3,
+    "shops_under_4_months_old": 1,
+    "takeaway": "This is a swarm: 40 brands, 38 of them with ads started in the last two months, including several brand-new shop names. Mudganics itself only started advertising on 28 September. Lots of people are piling in, and nobody has proven staying power yet."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "neck firming cream",
+     "image": "asis/neck-cream_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Neck + Décolleté Firming Cream - Day and Night",
+       "link": "https://lycon.com.au/products/neck-decollete-firming-cream?srsltid=AU7gw4UM6PQp8XsmtSwa4vH_FTha-Lx1l2nm8Vd1_874b_aLNPtXZZWP",
+       "domain": "lycon.com.au",
+       "kind": "store / brand",
+       "snippet": "A luxurious firming neck and décolleté cream, rich in nourishing botanicals to improve skin tone and texture. Suitable for all skin types."
+      },
+      {
+       "position": 2,
+       "title": "Particle Neck Cream for Australian Men",
+       "link": "https://www.particleformen.com/au/product/particle-neck-cream/?srsltid=AU7gw4UFOS58L9PwZrJOyx2i4m04VtsBABPEGwPlMTlU2dtydamb0NZP",
+       "domain": "particleformen.com",
+       "kind": "store / brand",
+       "snippet": "Particle's advanced triple-action Neck Cream, formulated with collagen, hyaluronic acid and retinol to tighten skin and reduce signs of aging."
+      },
+      {
+       "position": 3,
+       "title": "Best Neck Firming Cream Australia: A Buyer's Guide After 45",
+       "link": "https://genovaskincare.com.au/blogs/skincare/best-face-and-neck-firming-cream-top-picks-for-tighter-skin-1221-92?srsltid=AU7gw4WZrdy7P-BLADvl-WixqRtFhCQpaq6mnfQHryCa1gsnz4aBP7pC",
+       "domain": "genovaskincare.com.au",
+       "kind": "article",
+       "snippet": "Genova Firming Cream is a cosmetic product designed to support the appearance of firmness in the skin of the face and neck,"
+      },
+      {
+       "position": 4,
+       "title": "The 10 Best Neck Creams of 2026, Tested and Reviewed",
+       "link": "https://www.byrdie.com/best-neck-creams-4582903",
+       "domain": "byrdie.com",
+       "kind": "article",
+       "snippet": "The best neck creams help with firming and tightening delicate skin below the chin. Top Picks Best Overall: Clarins Extra-Firming Neck & Dé ..."
+      },
+      {
+       "position": 5,
+       "title": "Best Neck Skin Firming Cream To Tighten, Lift And Smooth",
+       "link": "https://www.vogue.co.uk/article/best-neck-firming-creams",
+       "domain": "vogue.co.uk",
+       "kind": "article",
+       "snippet": "Packed with pure retinol, this anti-ageing cream has been clinically proven to restore firmness and elasticity to the skin of the neck over ..."
+      }
+     ],
+     "paa": [
+      "What neck firming cream is best?",
+      "Is there a face cream that really works for wrinkles?",
+      "Is Clinique neck cream good?",
+      "What is the best neck cream for mature skin in Australia?"
+     ],
+     "popular_products": [
+      {
+       "title": "Skin Doctors Super Neck Lift 80g",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "Freezeframe Neck Lift 50ml",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "Nivea Q10 Firming + Anti-Wrinkle Neck & Chest Cream 200ml",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "Boost Lab Edelweiss Neck Firming Serum 30mL",
+       "price": null,
+       "source": "Priceline"
+      },
+      {
+       "title": "Dr. LeWinn's Plump + Lift Firming Neck Cream 50ml",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "JABLIX Magec Neck Firming Cream,Magic Collagen Fullerene Nec",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Boost Lab Pro-Lift Neck & Décolletage Cream 50mL",
+       "price": null,
+       "source": "Priceline"
+      },
+      {
+       "title": "Neck Firming Cream (2 PCS, 240g (Pack of 2))",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Natio Aromatherapy Multi Action Neck and Decolletage Sculpti",
+       "price": null,
+       "source": "Direct Chemist Outlet"
+      },
+      {
+       "title": "Clarins Extra-Firming Neck & Décolleté",
+       "price": null,
+       "source": "Myer"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: lycon.com.au (store / brand). In the product strip: Amazon AU - Amazon.com.au-Seller, Chemist Warehouse, Direct Chemist Outlet, Myer, Priceline. Amazon here is crowded."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "neck firming cream",
+     "image": "asis/neck-cream_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Neck-Tightening Cream | Shop Senté Neck Firming Cream",
+       "link": "https://sentelabs.com/products/sente-neck-firming-cream?srsltid=AU7gw4WukzVnSiXp6oUzCRe71fTX5rCmISRB8LsHhuMaAJOzRS8iT4SS",
+       "domain": "sentelabs.com",
+       "kind": "store / brand",
+       "snippet": "Firming neck cream improves the appearance of crepey skin, horizontal neck lines, and the décolléte area. Helps firm and brighten the skin Reduces visible ..."
+      },
+      {
+       "position": 2,
+       "title": "Shop Neck Creams for Firming and Lifting",
+       "link": "https://www.walmart.com/c/kp/neck-creams",
+       "domain": "walmart.com",
+       "kind": "big chain",
+       "snippet": "Explore neck creams designed to tighten, firm, and reduce wrinkles for smoother, youthful skin. current price $31.97"
+      },
+      {
+       "position": 3,
+       "title": "The 11 Best Neck Creams of 2026, Tested and Reviewed",
+       "link": "https://www.instyle.com/best-neck-creams-8737176",
+       "domain": "instyle.com",
+       "kind": "article",
+       "snippet": "The best neck creams tighten, firm, and plump tech neck, fine lines, and sagging skin. Shop our list of expert-approved, tested formulas."
+      },
+      {
+       "position": 4,
+       "title": "Neck Tightening Cream & Gua Sha Tool",
+       "link": "https://www.drbrandtskincare.com/products/neck-tightening-cream-2-0?srsltid=AU7gw4Wj1As96WFq6SCQ7zpS7D27bN3bv7AM6iGlCH25cQj_yzVV9wRi",
+       "domain": "drbrandtskincare.com",
+       "kind": "store / brand",
+       "snippet": "Neck Tightening Cream is a firming cream that decreases the look of volume below the chin, tightens and improves the look of firmness in the neck area."
+      },
+      {
+       "position": 5,
+       "title": "7 Best Neck Creams to Improve Lines, Laxity, and Texture",
+       "link": "https://www.allure.com/gallery/best-neck-creams",
+       "domain": "allure.com",
+       "kind": "article",
+       "snippet": "Best Overall: SkinMedica Neck Correct Cream, $135 ; Best for Sensitive Skin: Alastin Skincare Restorative Neck Complex, $158 ; Best for Dry Skin: ..."
+      }
+     ],
+     "paa": [
+      "What neck firming cream is best?",
+      "What is the fastest way to tighten your neck?",
+      "What is a good Korean neck tightening cream?",
+      "What is the best neck cream at Walmart?"
+     ],
+     "popular_products": [
+      {
+       "title": "DRMTLGY Advanced Neck Cream",
+       "price": "$54.00",
+       "source": "Ulta Beauty"
+      },
+      {
+       "title": "Gold Bond Ultimate Neck & Chest Firming Cream",
+       "price": "$11.97",
+       "source": "Walmart"
+      },
+      {
+       "title": "Olay Regenerist Face & Neck Lifting Treatment",
+       "price": "$34.99",
+       "source": "Target"
+      },
+      {
+       "title": "StriVectin TL Advanced Tightening Neck Cream PLUS",
+       "price": "$15.00",
+       "source": "Sephora"
+      },
+      {
+       "title": "Clarins Extra-Firming Anti-Aging Neck & Décolleté Cream",
+       "price": "$100.00",
+       "source": "Clarins USA"
+      },
+      {
+       "title": "StriVectin TL Advanced Tightening Neck Cream Plus",
+       "price": "$15.00",
+       "source": "Kohl's"
+      },
+      {
+       "title": "Nivea Skin Firming & Anti-Wrinkle Neck & Chest Cream",
+       "price": "$15.97",
+       "source": "H-E-B"
+      },
+      {
+       "title": "Perricone MD Cold Plasma Plus+ Neck & Chest SPF 25",
+       "price": "$47.50",
+       "source": "Ulta Beauty"
+      },
+      {
+       "title": "Cetaphil Hydrating & Firming Skin Activator Cream",
+       "price": "$9.99",
+       "source": "Target"
+      },
+      {
+       "title": "Yeouth Neck Firming Cream",
+       "price": "$15.99",
+       "source": "vitacost.com"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search",
+      "things_to_know"
+     ],
+     "takeaway": "First result in the US: sentelabs.com (store / brand). In the product strip: Clarins USA, H-E-B, Kohl's, Sephora, Target. Amazon here is crowded."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "neck firming cream",
+     "image": "asis/neck-cream_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Neck & Décolleté Firming Cream 50ml",
+       "link": "https://uk.alumiermd.com/products/neck-and-decollete-firming-cream?srsltid=AU7gw4VtSycHFYunMtmnU3KVeQj-8RaLY3D7YTfTd5057OZNkbsqgyAF",
+       "domain": "uk.alumiermd.com",
+       "kind": "store / brand",
+       "snippet": "Target fine lines and enhance skin firmness with our Neck & Décolleté Firming Cream, enriched with microencapsulated retinol for smoother, brighter skin."
+      },
+      {
+       "position": 2,
+       "title": "Best neck creams and serums for softening and tightening ...",
+       "link": "https://www.goodhousekeeping.com/uk/product-reviews/fashion-and-beauty/g63356997/best-neck-creams/",
+       "domain": "goodhousekeeping.com",
+       "kind": "article",
+       "snippet": "If you're looking for a neck cream that genuinely firms, tightens and plumps, our top pick, Clinique's Clinical Repair Face and Neck Cream, ..."
+      },
+      {
+       "position": 3,
+       "title": "Smart Clinical Repair™ Lifting Face + Neck Cream",
+       "link": "https://www.clinique.co.uk/products/clinique-smart-clinical-repair-lifting-face-neck-cream",
+       "domain": "clinique.co.uk",
+       "kind": "store / brand",
+       "snippet": "Lifting moisturiser for face and neck helps reduce the look of lines and smooth the look of neck crepiness. Multi-peptides help boost skin's strength. Product ."
+      },
+      {
+       "position": 4,
+       "title": "Best neck creams of 2026, per dermatologists",
+       "link": "https://www.cnn.com/cnn-underscored/beauty/best-neck-cream",
+       "domain": "cnn.com",
+       "kind": "article",
+       "snippet": "Firming neck creams · Alastin Restorative Neck Complex With TriHex Technology · Dr. Loretta Tightening Detox Mask · Dr. Brandt Skincare Neck Tightening Cream."
+      },
+      {
+       "position": 5,
+       "title": "The Best Neck Firming Cream, Tested by PEOPLE",
+       "link": "https://people.com/best-neck-firming-cream-11687049",
+       "domain": "people.com",
+       "kind": "article",
+       "snippet": "To find the best neck firming cream, we compared 14 top-rated formulas from Clarins, Clinique, GoPure, and more. Our testers saw noticeable ..."
+      }
+     ],
+     "paa": [
+      "What neck firming cream is best?",
+      "What is the best firming face cream in the UK?",
+      "What is the best cream for removing neck lines?",
+      "What are some good medical-grade neck creams?"
+     ],
+     "popular_products": [
+      {
+       "title": "RoC Multi Correxion Firm & Lift Anti-Sagging Firming Cream",
+       "price": "£21.59",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Clarins Extra Firming Neck & Decollete",
+       "price": "£62.00",
+       "source": "John Lewis"
+      },
+      {
+       "title": "Peptide Fix Décolleté, Neck and Face Lifting Moisturiser 10%",
+       "price": "£31.79",
+       "source": "Amazon.co.uk"
+      },
+      {
+       "title": "Clarins Extra-Firming Neck & Décolleté",
+       "price": "£68.00",
+       "source": "John Lewis"
+      },
+      {
+       "title": "Tighten & Lift Neck Cream, Neck Firming Cream, Tighten & Lif",
+       "price": "£5.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "NIVEA Q10 Firming Neck & Chest Cream",
+       "price": "£13.49",
+       "source": "Boots.com"
+      },
+      {
+       "title": "This Works Perfect Cleavage Neck Serum",
+       "price": "£44.15",
+       "source": "PriceRunner"
+      },
+      {
+       "title": "NeoStrata Skin Active Triple Firming Neck Cream",
+       "price": "£52.81",
+       "source": "Dealvip.co.uk"
+      },
+      {
+       "title": "B Skincare B. Firming Face and Neck Cream",
+       "price": "£6.66",
+       "source": "Superdrug.com"
+      },
+      {
+       "title": "Collagen Face & Neck Tightening Cream Neck Firming Cream for",
+       "price": "£9.49",
+       "source": "Royal Deals"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the UK: uk.alumiermd.com (store / brand). In the product strip: Amazon.co.uk, Amazon.co.uk - Amazon.co.uk-Seller, Boots.com, Dealvip.co.uk, John Lewis. Amazon here is crowded."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "neck firming cream",
+     "image": "asis/neck-cream_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Best Neck-Firming Creams 2026",
+       "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-neck-firming-creams/",
+       "domain": "forbes.com",
+       "kind": "article",
+       "snippet": "Neck creams are formulated to boost elasticity, repair damage and minimize the appearance of lines. Overall: Alastin Restorative Neck Complex ..."
+      },
+      {
+       "position": 2,
+       "title": "Clinique Smart Clinical Repair Lifting Face & Neck Cream",
+       "link": "https://www.clinique.ca/product/1687/118379/skincare/moisturizers/clinique-smart-clinical-repairtm-lifting-face-neck-cream?srsltid=AU7gw4U6ydk5f0pVr8HvFwlKGBEwc7DuYo07L7TrDg4d-dlWYMe686wh",
+       "domain": "clinique.ca",
+       "kind": "store / brand",
+       "snippet": "Powerful face and neck cream visibly lifts and reduces the look of lines and wrinkles. 100% show a more lifted-looking face and neck.* Dermatologist tested."
+      },
+      {
+       "position": 3,
+       "title": "Decollete & Neck Creams",
+       "link": "https://www.sephora.com/ca/en/shop/neck-cream-decollete",
+       "domain": "sephora.com",
+       "kind": "store / brand",
+       "snippet": "Looking for neck cream? We're here to help. Our neck and décolleté creams firm and smooth the appearance of skin for a more youthful look."
+      },
+      {
+       "position": 4,
+       "title": "Tripeptide-R Neck Repair Anti-Aging Cream",
+       "link": "https://www.skinceuticals.ca/en_CA/skincare/shop-by-category/retinol-creams/tripeptide-r-neck-repair-anti-aging-cream-S82.html?srsltid=AU7gw4Wgb1KU6pHdtcBuKq0LJtynAQr5U9NuXkr8tFEVs7ssS0mg-v3n",
+       "domain": "skinceuticals.ca",
+       "kind": "store / brand",
+       "snippet": "Tripeptide-R Neck Repair is a firming neck cream that targets early to advanced signs of neck aging, including fine lines and wrinkles."
+      },
+      {
+       "position": 5,
+       "title": "12 Best Neck Firming Creams, According to Lab Testing",
+       "link": "https://www.goodhousekeeping.com/what-to-buy/g3874/neck-firming-cream/",
+       "domain": "goodhousekeeping.com",
+       "kind": "store / brand",
+       "snippet": "Best Overall: No7 Restore & Renew Face & Neck Multi. Firming Corset Cream Best for Wrinkles: NeoStrata Triple Firming Neck Cream … ing, ..."
+      }
+     ],
+     "paa": [
+      "Is there a neck firming cream that actually works?",
+      "What is the best neck tightening cream?",
+      "What is the best cream for neck sagging?",
+      "What is the best neck firming cream in Canada?"
+     ],
+     "popular_products": [
+      {
+       "title": "Gold Bond Ultimate Firming Neck & Chest Cream",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Olay Regenerist Neck and Face Roller",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "DRMTLGY Advanced Neck Firming Cream Lifting & Tightening Nec",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Clinique Smart Clinical Repair Lifting Face + Neck Cream",
+       "price": null,
+       "source": "Clinique CA"
+      },
+      {
+       "title": "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Vis",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Estée Lauder Resilience Multi-Effect Tri-Peptide Face and Ne",
+       "price": null,
+       "source": "Sephora"
+      },
+      {
+       "title": "Ycz Ah-8 Firming Lifting Neck Cream --120G/4.23Oz",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Cult51 Neck and Decollete Firming Cream",
+       "price": null,
+       "source": "Walmart.ca"
+      },
+      {
+       "title": "AH-8 Firming Neck Cream, Collagen Neck Cream for Tightening ",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Neck Firming Cream -Tighten and Lift Neck Cream,Visibly Redu",
+       "price": null,
+       "source": "Amazon CA"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: forbes.com (article). In the product strip: Amazon CA, Clinique CA, Sephora, Walmart.ca. Amazon here is crowded."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "neck firming cream",
+     "image": "asis/neck-cream_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Firming Neck Cream,Hals und Dekollete Creme mit ...",
+       "link": "https://www.amazon.de/Hexapeptide-Straffende-Halsstraffende-Halsstraffungscreme-Hautstraffung/dp/B0F5BLVXDK",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "◈【Straffende Anti-Aging-Wirkung】Mit hochwirksamen Inhaltsstoffen wie Hexapeptid-8 und Ceramid NP zielt die Formel gezielt auf schlaffe Haut ab, reduziert ..."
+      },
+      {
+       "position": 2,
+       "title": "The Best Neck Firming Cream, Tested by PEOPLE",
+       "link": "https://people.com/best-neck-firming-cream-11687049",
+       "domain": "people.com",
+       "kind": "article",
+       "snippet": "To find the best neck firming cream, we compared 14 top-rated formulas from Clarins, Clinique, GoPure, and more. Our testers saw noticeable ..."
+      },
+      {
+       "position": 3,
+       "title": "Ah-8 Firming Neck Cream, Firming ...",
+       "link": "https://www.amazon.de/Ah-8-Firming-Cream-Roller-Lotion/dp/B0FLHPLZ54?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A17JJGGJZBR40B?source=ps-sl-shoppingads-lpcontext&psc=1",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Die Halscreme ist reich an natürlichen feuchtigkeitsspendenden Inhaltsstoffen, spendet tiefgehende Feuchtigkeit und verbessert die Hautelastizität. Sie hilft, ."
+      },
+      {
+       "position": 4,
+       "title": "The 11 Best Neck Creams of 2026, Tested and Reviewed",
+       "link": "https://www.instyle.com/best-neck-creams-8737176",
+       "domain": "instyle.com",
+       "kind": "article",
+       "snippet": "The best neck creams tighten, firm, and plump tech neck, fine lines, and sagging skin. Shop our list of expert-approved, tested formulas."
+      },
+      {
+       "position": 5,
+       "title": "Collagen Face & Neck Tightening Cream, Neck Firming ...",
+       "link": "https://www.amazon.de/-/en/Collagen-Tightening-Firming-Lifting-Moisturiser/dp/B0CF5JXXBH",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Collagen firming cream contains a nourishing skin formula that nourishes neck skin by toning and firming, helping to restore elasticity, helping to reduce the ."
+      }
+     ],
+     "paa": [],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "organic_results",
+      "filters"
+     ],
+     "takeaway": "First result in Germany: amazon.de (marketplace). Amazon here is crowded."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "neck firming cream",
+     "image": "asis/neck-cream_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Firming Neck Cream - Manuka Oil & Hyaluronic Acid",
+       "link": "https://manukarx.co.nz/products/firming-neck-cream",
+       "domain": "manukarx.co.nz",
+       "kind": "store / brand",
+       "snippet": "ManukaRx's Firming Neck Cream targets wrinkles and sagging for a smoother, firmer décolletage. Enriched with Manuka Oil, Hyaluronic Acid, and Paracress."
+      },
+      {
+       "position": 2,
+       "title": "Neck Firming Cream and Decollete Cream",
+       "link": "https://www.sephora.nz/categories/skincare/moisturiser/neck-and-decollete-cream?srsltid=AU7gw4XmnBH6T0oqXI_UHSvKabMPlvSXh64L-Z690dNuFG8tfmuUF6b-",
+       "domain": "sephora.nz",
+       "kind": "store / brand",
+       "snippet": "Buy neck and decollete cream from Sephora now. Get firming lotions, neck firming creams and more, formulated to help restore firmness for a youthful look."
+      },
+      {
+       "position": 3,
+       "title": "Neck and Décolleté Cream",
+       "link": "https://www.clarinsnewzealand.co.nz/skincare-face-lip-neck-care-neck-decollete/254/?srsltid=AU7gw4UKvhxtUuP5aA9UfXKxP9bzHpnLpe8cMPAI6Il7QrMPsp1IdBim",
+       "domain": "clarinsnewzealand.co.nz",
+       "kind": "store / brand",
+       "snippet": "The anti-wrinkle and anti-aging formula firms, regenerates, evens and perfects skin texture from the chin down to the breastbone. This magic cocktail draws on ."
+      },
+      {
+       "position": 4,
+       "title": "Neck & Décolletage Firming Cream - Elastense ...",
+       "link": "https://synergieskin.co.nz/products/elastense?srsltid=AU7gw4WkoLkhoNx699EbaJwar5pH6oRVKbZCV5EDfGlEVOq_5wc48o-o",
+       "domain": "synergieskin.co.nz",
+       "kind": "store / brand",
+       "snippet": "A luxurious treatment dedicated to defining, lifting and firming the neck and décolletage. Fortified with vitamin B3, marine and peptide technology, this deeply"
+      },
+      {
+       "position": 5,
+       "title": "12 Best Neck Firming Creams, According to Lab Testing",
+       "link": "https://www.goodhousekeeping.com/what-to-buy/g3874/neck-firming-cream/",
+       "domain": "goodhousekeeping.com",
+       "kind": "store / brand",
+       "snippet": "Best Overall: No7 Restore & Renew Face & Neck. Firming Corset Cream Best for Wrinkles: NeoStrata Triple Firming Neck Cream"
+      }
+     ],
+     "paa": [
+      "Is there a neck firming cream that actually works?",
+      "What is the best neck tightening cream?",
+      "What is the best cream for neck sagging?",
+      "What is the best neck cream in New Zealand?"
+     ],
+     "popular_products": [
+      {
+       "title": "Dr.Lewinn's Plump + Lift Firming Neck Cream",
+       "price": "$65.99",
+       "source": "Chemist Warehouse NZ"
+      },
+      {
+       "title": "Nivea Q10 Firming Anti-Wrinkle Neck and Chest Cream 200ml",
+       "price": "$7.81",
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Boost Lab Edelweiss Neck Firming Serum",
+       "price": "$39.80",
+       "source": "Chemist Direct"
+      },
+      {
+       "title": "Clarins Extra-Firming Neck & Décolleté 75ml",
+       "price": "$139.75",
+       "source": "Onceit"
+      },
+      {
+       "title": "ManukaRX Firming Neck Cream",
+       "price": "$56.00",
+       "source": "ManukaRx"
+      },
+      {
+       "title": "Gold Bond Ultimate Neck & Chest Firming Cream",
+       "price": "$24.95",
+       "source": "Fishpond.co.nz"
+      },
+      {
+       "title": "Neck Tightening Cream",
+       "price": "$140.00",
+       "source": "Cellexia"
+      },
+      {
+       "title": "Nivea Q10 Firming Anti-Wrinkle Cream for Neck and Décolleté ",
+       "price": "$23.92",
+       "source": "cosmetis.com"
+      },
+      {
+       "title": "Clinique Smart Clinical Repair Lifting Face + Neck Cream",
+       "price": "$214.00",
+       "source": "Farmers Department Store"
+      },
+      {
+       "title": "Kleem Organics Neck & Décolleté Firming Cream",
+       "price": "$65.11",
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: manukarx.co.nz (store / brand). In the product strip: Amazon AU, Amazon AU - Amazon.com.au-Seller, Cellexia, Chemist Direct, Chemist Warehouse NZ. Amazon here is crowded."
+    }
+   ],
+   "compare": {
+    "match_name": "Skin Physics neck cream at Priceline (A$80), a different brand",
+    "verdict": "different",
+    "confidence": "High",
+    "note": "Every match was another brand's neck cream. Mudganics' formula is sold only by Mudganics.",
+    "brand_image": "neck-cream/img_1.jpg",
+    "match_image": "lens/neck-cream_thumb_00.jpg"
+   }
+  },
+  {
    "slug": "lola-kit",
    "name": "Pre-Glued Lash Starter Kit (Lola's Lashes)",
    "one_liner": "Nobody else sells this exact kit, so the map is green. But the category is full: big brands in every chain, 28+ advertisers and Amazon kits with thousands of reviews.",
@@ -5463,6 +7467,7 @@
  "ranking": [
   "cc-cream",
   "swingpro",
+  "neck-cream",
   "lola-kit"
  ]
 }

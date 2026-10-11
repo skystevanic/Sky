@@ -1,0 +1,112 @@
+{
+  "input_url": "https://mudorganics.com.au/products/neck-firming-cream",
+  "store_root": "https://mudorganics.com.au",
+  "platform": "shopify",
+  "title": "Neck Firming Cream",
+  "vendor": "Mudganics",
+  "product_type": "",
+  "created_at": "2026-09-15T10:49:32+08:00",
+  "updated_at": "2026-10-11T19:36:14+08:00",
+  "price_min": 89.95,
+  "price_max": 89.95,
+  "was_price": null,
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "89.95",
+      "was": "",
+      "available": null
+    }
+  ],
+  "description": "Don't Stop Your Skincare at Your Jawline. A targeted daily treatment formulated with Sea Buckthorn and Peptides to visibly firm, hydrate and smooth the neck and décolletage. ✓ 67% of trial participants saw visible results in their neck and décolletage over 4 weeks ✓ 93% said they'd recommend Neck Firming Cream to a friend ✓ 67% said they'd repurchase (a further 33% said \"maybe\") ✓ 47% saw improvement in firmness and sagging ✓ 53% saw improvement in fine lines Helps improve skin firmness and elasticity while smoothing the appearance of fine lines",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/34_56ad42c4-0116-4e58-afe6-b7921fce49ba.png?v=1789435139",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/42_417e882e-4435-4233-86d2-e88a758d4086.png?v=1789435140",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/Websiteimages_3_e9fe39a8-e059-4ba6-824a-2d1d426b7e3c.png?v=1789624327",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/44_5eb1d1bc-01a5-4d57-bd40-24410c4edd92.png?v=1789620773",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/35_d2b6150e-21c0-4a7b-acef-10e6f721e6b8.png?v=1789435140",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/43_7f80f61a-d54e-4ec7-b708-18b510728f3c.png?v=1789620774",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/38_b1772790-5b6b-472b-9a2e-e0ed878670e2.png?v=1789435140",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/45_7da2808a-49bd-447d-97ca-85b99b5388e4.png?v=1789620773",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/36_cd22b3d7-5fba-4baa-83cd-9e3221fa76d9.png?v=1789435140",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/37_a787b44e-b193-4b79-804f-a8c96b0f1e1c.png?v=1789435139",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/39.png?v=1789435140",
+    "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/41_93e362bc-e3e4-4166-8927-e9d0a9955cd4.png?v=1789435139"
+  ],
+  "tags": "hidden, retail-only",
+  "store": {
+    "n_products": 42,
+    "first_product_created": "2021-09-08T11:31:43+08:00",
+    "newest": [
+      {
+        "title": "Wholesale Firming Booster",
+        "created_at": "2026-10-08",
+        "price": "24.98"
+      },
+      {
+        "title": "Wholesale Hydration Booster",
+        "created_at": "2026-10-08",
+        "price": "24.98"
+      },
+      {
+        "title": "Wholesale Clear Skin Booster",
+        "created_at": "2026-10-08",
+        "price": "24.98"
+      },
+      {
+        "title": "Wholesale Neck Firming Cream",
+        "created_at": "2026-10-08",
+        "price": "44.98"
+      },
+      {
+        "title": "Neck Firming Cream",
+        "created_at": "2026-09-15",
+        "price": "89.95"
+      },
+      {
+        "title": "🎁 Body Lotion (100% off)",
+        "created_at": "2026-09-09",
+        "price": "0.00"
+      },
+      {
+        "title": "The Full-Body Anti-Ageing Bundle",
+        "created_at": "2026-08-13",
+        "price": "323.87"
+      },
+      {
+        "title": "The Full-Body Anti-Ageing Bundle — Mini",
+        "created_at": "2026-08-12",
+        "price": "206.87"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "AUD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/neck-cream/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/34_56ad42c4-0116-4e58-afe6-b7921fce49ba.png?v=1789435139"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/neck-cream/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/42_417e882e-4435-4233-86d2-e88a758d4086.png?v=1789435140"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/neck-cream/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/Websiteimages_3_e9fe39a8-e059-4ba6-824a-2d1d426b7e3c.png?v=1789624327"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/neck-cream/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/44_5eb1d1bc-01a5-4d57-bd40-24410c4edd92.png?v=1789620773"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/neck-cream/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/35_d2b6150e-21c0-4a7b-acef-10e6f721e6b8.png?v=1789435140"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/neck-cream/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0593/4868/0853/files/43_7f80f61a-d54e-4ec7-b708-18b510728f3c.png?v=1789620774"
+    }
+  ]
+}

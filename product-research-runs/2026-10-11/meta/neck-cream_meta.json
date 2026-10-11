@@ -1,0 +1,675 @@
+{
+ "slug": "neck-cream",
+ "phrase": "neck firming cream",
+ "checked": "2026-10-11",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22neck%20firming%20cream%22",
+ "ads_loaded": 175,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 40,
+ "advertisers_with_3_plus_ads": 20,
+ "biggest_advertiser_share": 0.13,
+ "brands_new_in_last_2_months": 38,
+ "brands_advertising_3_plus_months": 1,
+ "ads_started_last_2_months": 161,
+ "ads_older_than_6_months": 0,
+ "pattern": "crowded",
+ "plain": "40 brands. Their live ads are recent, but 3 of the 4 biggest shops we could date are more than a year old: an established market, not a new rush.",
+ "months": {
+  "2026-06": 2,
+  "2026-07": 1,
+  "2026-08": 11,
+  "2026-09": 46,
+  "2026-10": 115
+ },
+ "brand_months": {
+  "2026-06": 1,
+  "2026-08": 6,
+  "2026-09": 16,
+  "2026-10": 17
+ },
+ "top_advertisers": [
+  {
+   "name": "Egoryspecies.YS03",
+   "pages": 4,
+   "page_names": [
+    "Egoryspecies.YS03",
+    "Garmentlace.GU07",
+    "Copicemicros_HH",
+    "Etercitenal.NA34"
+   ],
+   "ads": 23,
+   "oldest_live_ad": "2026-09-24",
+   "page_likes": 288,
+   "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+   "shop": "novthra.com",
+   "product_page": "https://www.novthra.com/products/magec-collagen-fullerene-neck-cream-2-6-2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=139093505944632",
+   "shop_open_since": null
+  },
+  {
+   "name": "Shiftaken.com",
+   "pages": 2,
+   "page_names": [
+    "Shiftaken.com",
+    "Shiftaken.shop"
+   ],
+   "ads": 19,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 647,
+   "headline": "🔥2,649 sold in last 24 hours🔥",
+   "shop": "shiftaken.com",
+   "product_page": "https://www.shiftaken.com/products/reduces-wrinkles-and-double-chin-five-rollers-for-all-around-massage-neck-firming-cream-collagen-neck-cream-relieves-edema-suitable-for-wrinkled-skin-with-hyaluronic-acid-vitaminc-e-2-2-2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=112345131786099",
+   "shop_open_since": null
+  },
+  {
+   "name": "terez and honor",
+   "pages": 1,
+   "page_names": [
+    "terez and honor"
+   ],
+   "ads": 13,
+   "oldest_live_ad": "2026-08-25",
+   "page_likes": 905,
+   "headline": "Neck Cream + Gua Sha in One",
+   "shop": "terezandhonor.com",
+   "product_page": "https://terezandhonor.com/products/gua-sha-neck-firming-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=376819908854137",
+   "shop_open_since": "2020-07-14"
+  },
+  {
+   "name": "Bisnftwrem/D",
+   "pages": 3,
+   "page_names": [
+    "Bisnftwrem/D",
+    "Bisnftwrem/8",
+    "Bisnftwrem.BF04"
+   ],
+   "ads": 12,
+   "oldest_live_ad": "2026-09-01",
+   "page_likes": 587,
+   "headline": "Roller Massage Neck Cream 🧴 Collagen & Hyaluronic Acid | Firms Neck, Reduces Wrinkles & Do",
+   "shop": "bisnftwrem.com",
+   "product_page": "https://bisnftwrem.com/products/roller-massage-neck-cream-collagen-hyaluronic-acid-firms-neck-reduces-wrinkles-double-chin-5",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=270944276101182",
+   "shop_open_since": "2026-09-16"
+  },
+  {
+   "name": "Mud. Organics",
+   "pages": 1,
+   "page_names": [
+    "Mud. Organics"
+   ],
+   "ads": 11,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 14388,
+   "headline": "NEW: The Neck Firming Cream ✨",
+   "shop": "mudorganics.com.au",
+   "product_page": "https://mudorganics.com.au/products/neck-firming-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101523652231511",
+   "shop_open_since": "2021-09-08"
+  },
+  {
+   "name": "Slimdescent",
+   "pages": 1,
+   "page_names": [
+    "Slimdescent"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 1140,
+   "headline": "🔥2,649 sold in last 24 hours🔥",
+   "shop": "slimdescent.com",
+   "product_page": "https://www.slimdescent.com/products/reduces-wrinkles-and-double-chin-five-rollers-for-all-around-massage-neck-firming-cream-collagen-neck-cream-relieves-edema-suitable-for-wrinkled-skin-with-hyaluronic-acid-vitaminc-e-2-2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=116347114813001",
+   "shop_open_since": null
+  },
+  {
+   "name": "Shopee",
+   "pages": 1,
+   "page_names": [
+    "Shopee"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-09-06",
+   "page_likes": 5084,
+   "headline": "Buy Here👉 https://s.shopee.ph/5VTzBsz6rz\n\nIdagdag mo sa skincare routine mo ang Rtopr Mang",
+   "shop": "s.shopee.ph",
+   "product_page": "https://s.shopee.ph/5VTzBsz6rz",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1405090646463166",
+   "shop_open_since": null
+  },
+  {
+   "name": "SENTÉ",
+   "pages": 1,
+   "page_names": [
+    "SENTÉ"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 10864,
+   "headline": "{{product.name}}",
+   "shop": "sentelabs.com",
+   "product_page": "https://sentelabs.com/collections/dehydrated-skin",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=144807445617470",
+   "shop_open_since": "2020-05-12"
+  },
+  {
+   "name": "Morelife Indonesia",
+   "pages": 1,
+   "page_names": [
+    "Morelife Indonesia"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-06-27",
+   "page_likes": 99,
+   "headline": "Leher Tampak Lebih Cerah, Halus & Kencang",
+   "shop": "morelife-indonesia.myscalev.com",
+   "product_page": "https://morelife-indonesia.myscalev.com/lp-neck-firming-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1164900086708703",
+   "shop_open_since": null
+  },
+  {
+   "name": "GoPure Skin Care",
+   "pages": 1,
+   "page_names": [
+    "GoPure Skin Care"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-10-02",
+   "page_likes": 4524,
+   "headline": "I wanted to see if it actually worked!😍",
+   "shop": "deals.gopure.com",
+   "product_page": "http://deals.gopure.com/nc10-featured-article",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1532309590375841",
+   "shop_open_since": null
+  },
+  {
+   "name": "50 Plus and Fabulous",
+   "pages": 1,
+   "page_names": [
+    "50 Plus and Fabulous"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 98,
+   "headline": "I lost 51 pounds and my neck stayed behind",
+   "shop": "try.olavita.co",
+   "product_page": "https://try.olavita.co/tlpc/glp/tight-skin-over-65",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=980604121800437",
+   "shop_open_since": null
+  },
+  {
+   "name": "My Healthy Skin",
+   "pages": 1,
+   "page_names": [
+    "My Healthy Skin"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 15,
+   "headline": "Don't Stop Caring at Your Jawline",
+   "shop": "trvl.shopcelmor.com",
+   "product_page": "https://trvl.shopcelmor.com/62659e11-0e1f-4d41-bf24-1792f5241664",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=956347550898385",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mitchellusa.co.in",
+   "pages": 1,
+   "page_names": [
+    "Mitchellusa.co.in"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-08-25",
+   "page_likes": 180614,
+   "headline": "Tighten & Smooth Your Neck in Just 4 Weeks!",
+   "shop": "mitchellusa.co.in",
+   "product_page": "https://www.mitchellusa.co.in/collections/anti-aging/products/neck-therapy-refining-cream-50g",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=204916246654215",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mindsparkl.33",
+   "pages": 2,
+   "page_names": [
+    "Mindsparkl.33",
+    "Mindsparkl"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-08-03",
+   "page_likes": 753,
+   "headline": "Roller Massage Neck Cream 🧴 Collagen & Hyaluronic Acid | Firms Neck, Reduces Wrinkles & Do",
+   "shop": "mindsparkl.com",
+   "product_page": "https://mindsparkl.com/products/roller-massage-neck-cream-collagen-hyaluronic-acid-firms-neck-reduces-wrinkles-double-chin-5",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1184091564789600",
+   "shop_open_since": null
+  },
+  {
+   "name": "PremierGuide Turnway",
+   "pages": 1,
+   "page_names": [
+    "PremierGuide Turnway"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-30",
+   "page_likes": 29,
+   "headline": "Best Neck Firming Cream",
+   "shop": "rmn.akamaized.net",
+   "product_page": "https://rmn.akamaized.net/r/662DC74",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=842144025651318",
+   "shop_open_since": null
+  },
+  {
+   "name": "Eight Saints",
+   "pages": 1,
+   "page_names": [
+    "Eight Saints"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 18329,
+   "headline": "5 Reasons to Try This Firming Neck Cream",
+   "shop": "eightsaintsskincare.com",
+   "product_page": "https://eightsaintsskincare.com/pages/5-reasons-this-award-winning-neck-cream-is-getting-so-much-attention-in-2026",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=571382113286344",
+   "shop_open_since": null
+  },
+  {
+   "name": "Aaron Young",
+   "pages": 1,
+   "page_names": [
+    "Aaron Young"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-25",
+   "page_likes": 3,
+   "headline": "✨ The 5-Ball Neck Cream Your Routine Is Missing",
+   "shop": "purivique.com",
+   "product_page": "https://purivique.com/products/qz",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1256993750830571",
+   "shop_open_since": null
+  },
+  {
+   "name": "SUPER MURAH",
+   "pages": 1,
+   "page_names": [
+    "SUPER MURAH"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": 39,
+   "headline": "4,9/5 ⭐⭐⭐⭐⭐ – Sudah 10.638 orang membeli",
+   "shop": "serbadiskonid.form.id",
+   "product_page": "https://serbadiskonid.form.id/m1-rtopr-leher-firming-a20",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1057953267409876",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mud. Organics",
+   "pages": 1,
+   "page_names": [
+    "Mud. Organics"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 14388,
+   "headline": "NEW: The Neck Firming Cream ✨",
+   "shop": "mudorganics.com",
+   "product_page": "http://www.mudorganics.com/neck-firming-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101523652231511",
+   "shop_open_since": null
+  },
+  {
+   "name": "Londonukn+J",
+   "pages": 3,
+   "page_names": [
+    "Londonukn+J",
+    "Cambridgu+V",
+    "Britshoplm"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-12",
+   "page_likes": 149,
+   "headline": "Neck Firming & Wrinkle Cream with 5 Rollers",
+   "shop": "nookwarmvibe.com",
+   "product_page": "https://www.nookwarmvibe.com/funnel/news-neck-firming-wrinkle-cream-with-5-rollers-y",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=355776787617754",
+   "shop_open_since": null
+  },
+  {
+   "name": "Cocomo beauty",
+   "pages": 1,
+   "page_names": [
+    "Cocomo beauty"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-30",
+   "page_likes": 15014,
+   "headline": "🗓️ 14 days! No filters. No editing. Just results. ✨\n\n🤍The Collagen Lifting Neck Cream is y",
+   "shop": "cocomo.sg",
+   "product_page": "https://www.cocomo.sg/products/lagom-collagen-lifting-neck-cream-50ml",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=651858848275651",
+   "shop_open_since": null
+  },
+  {
+   "name": "Karinanyc Skin Clinics",
+   "pages": 1,
+   "page_names": [
+    "Karinanyc Skin Clinics"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-21",
+   "page_likes": 2459,
+   "headline": "Day & Night Moisturizer for Women Age 40+",
+   "shop": "karinanyc.com",
+   "product_page": "https://www.karinanyc.com/products/creme-pto-metamorphique",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=189877451032841",
+   "shop_open_since": null
+  },
+  {
+   "name": "Zyren",
+   "pages": 1,
+   "page_names": [
+    "Zyren"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-02",
+   "page_likes": 1921,
+   "headline": "Amazon Is Selling Fake Zyren Under Our Name👆",
+   "shop": "zyrenofficial.com",
+   "product_page": "https://zyrenofficial.com/products/tighten-lift-neck-cream-1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=850163961502738",
+   "shop_open_since": null
+  },
+  {
+   "name": "Emboadlie.bi05",
+   "pages": 2,
+   "page_names": [
+    "Emboadlie.bi05",
+    "Benighty.NI02"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 1716,
+   "headline": "🔥2,649 sold in last 24 hours🔥",
+   "shop": "wordmindglow.com",
+   "product_page": "https://www.wordmindglow.com/products/magec-collagen-fullerene-neck-cream-80",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=128782720319494",
+   "shop_open_since": null
+  },
+  {
+   "name": "Féline Skincare",
+   "pages": 1,
+   "page_names": [
+    "Féline Skincare"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-14",
+   "page_likes": 2657,
+   "headline": "The Crepey Skin Myth: The Real Reason contributing to aging skin.",
+   "shop": "felineskinscience.com",
+   "product_page": "https://www.felineskinscience.com/products/advanced-crepe-fix",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=422968940900577",
+   "shop_open_since": null
+  },
+  {
+   "name": "Remedy Skin",
+   "pages": 1,
+   "page_names": [
+    "Remedy Skin"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-29",
+   "page_likes": 9422,
+   "headline": "93% saw smoother-looking neck skin after 4 weeks",
+   "shop": "remedyskin.com",
+   "product_page": "https://remedyskin.com/products/face-neck-firming-stick-retinaldehyde",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=193761463826127",
+   "shop_open_since": null
+  },
+  {
+   "name": "Be Clinical ",
+   "pages": 1,
+   "page_names": [
+    "Be Clinical "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 2167,
+   "headline": "31.8% Reduction in Neck Lines",
+   "shop": "be-clinical.com",
+   "product_page": "https://be-clinical.com/collections/all/products/neck-firming-cream-for-sagging-skin",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=567123489828030",
+   "shop_open_since": null
+  },
+  {
+   "name": "Gentlume05",
+   "pages": 1,
+   "page_names": [
+    "Gentlume05"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-03",
+   "page_likes": 32,
+   "headline": "Roller Massage Neck Cream 🧴 Collagen & Hyaluronic Acid | Firms Neck, Reduces Wrinkles & Do",
+   "shop": "gentlume.com",
+   "product_page": "https://gentlume.com/products/roller-massage-neck-cream-collagen-hyaluronic-acid-firms-neck-reduces-wrinkles-double-chin",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1260939573761223",
+   "shop_open_since": null
+  },
+  {
+   "name": "DefenAge",
+   "pages": 1,
+   "page_names": [
+    "DefenAge"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 5557,
+   "headline": "Made for the Neck",
+   "shop": "defenage.com",
+   "product_page": "https://defenage.com/body/10-luxe-hand-and-body-cream-anti-aging-firming-lotion.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1679246505658171",
+   "shop_open_since": null
+  },
+  {
+   "name": "Perpetualing.PR02",
+   "pages": 1,
+   "page_names": [
+    "Perpetualing.PR02"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-18",
+   "page_likes": 86,
+   "headline": "Roller Massage Neck Cream 🧴 Collagen & Hyaluronic Acid | Firms Neck, Reduces Wrinkles & Do",
+   "shop": "perpetualing.com",
+   "product_page": "https://perpetualing.com/products/roller-massage-neck-cream-collagen-hyaluronic-acid-firms-neck-reduces-wrinkles-double-chin-2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1223756974151600",
+   "shop_open_since": null
+  },
+  {
+   "name": "Nowadaysi 8",
+   "pages": 1,
+   "page_names": [
+    "Nowadaysi 8"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-26",
+   "page_likes": 404,
+   "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+   "shop": "glowthinkday.com",
+   "product_page": "https://www.glowthinkday.com/products/magec-collagen-fullerene-neck-cream-2-41",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=110618245342397",
+   "shop_open_since": null
+  },
+  {
+   "name": "Amazon.com",
+   "pages": 1,
+   "page_names": [
+    "Amazon.com"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-03",
+   "page_likes": 5741,
+   "headline": "Neck firming cream. \n\n #Neck #beauty #beautytips #amazonfind #eightsaints",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Eight-Saints-Intentions-Reducing-Wrinkles/dp/B0F2J966QL",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=9465008123",
+   "shop_open_since": null
+  },
+  {
+   "name": "Feelamused.LE25",
+   "pages": 1,
+   "page_names": [
+    "Feelamused.LE25"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 98,
+   "headline": "🔥2,649 sold in last 24 hours🔥",
+   "shop": "techsoftvibe.com",
+   "product_page": "https://www.techsoftvibe.com/products/magec-collagen-fullerene-neck-cream-13",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=382637288266997",
+   "shop_open_since": null
+  },
+  {
+   "name": "Enhancew55",
+   "pages": 1,
+   "page_names": [
+    "Enhancew55"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-01",
+   "page_likes": 290,
+   "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+   "shop": "nookvely.com",
+   "product_page": "https://www.nookvely.com/products/magec-collagen-fullerene-neck-cream-2-2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=451840371354427",
+   "shop_open_since": null
+  },
+  {
+   "name": "Zealedrise",
+   "pages": 1,
+   "page_names": [
+    "Zealedrise"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-05",
+   "page_likes": 68,
+   "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+   "shop": "devmindglow.com",
+   "product_page": "https://www.devmindglow.com/products/magec-collagen-fullerene-neck-cream-2-35",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=520131677843071",
+   "shop_open_since": null
+  },
+  {
+   "name": "Hailnrothwad",
+   "pages": 1,
+   "page_names": [
+    "Hailnrothwad"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 1359,
+   "headline": "🔥2,649 sold in last 24 hours🔥",
+   "shop": "hailnrothwad.com",
+   "product_page": "https://www.hailnrothwad.com/products/magec-collagen-fullerene-neck-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101905529605353",
+   "shop_open_since": null
+  },
+  {
+   "name": "Blaciokamith",
+   "pages": 1,
+   "page_names": [
+    "Blaciokamith"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 415,
+   "headline": "Collagen Neck Firming Cream",
+   "shop": "blaciokamith.com",
+   "product_page": "https://www.blaciokamith.com/pages/news-collagen-neck-firming-cream-m",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101598142549165",
+   "shop_open_since": null
+  },
+  {
+   "name": "Chinology Community",
+   "pages": 1,
+   "page_names": [
+    "Chinology Community"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 179,
+   "headline": "\"I wish I bought this sooner!!\"",
+   "shop": "try-chinology.com",
+   "product_page": "https://www.try-chinology.com/pages/chino",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1271376706056504",
+   "shop_open_since": null
+  },
+  {
+   "name": "Culminatew+o",
+   "pages": 1,
+   "page_names": [
+    "Culminatew+o"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 1033,
+   "headline": "Collagen Neck Firming Cream",
+   "shop": "culminatew.com",
+   "product_page": "https://www.culminatew.com/pages/news-collagen-neck-firming-cream-m",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101288219648238",
+   "shop_open_since": null
+  },
+  {
+   "name": "Neattidyly.ED",
+   "pages": 1,
+   "page_names": [
+    "Neattidyly.ED"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 277,
+   "headline": "Reduces Wrinkles and Double Chin,Five Rollers for All Around Massage,Neck Firming Cream",
+   "shop": "glownixel.com",
+   "product_page": "https://www.glownixel.com/products/magec-collagen-fullerene-neck-cream-2-18",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=442749052262622",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "novthra.com": 23,
+  "shiftaken.com": 19,
+  "terezandhonor.com": 13,
+  "bisnftwrem.com": 12,
+  "mudorganics.com.au": 11,
+  "slimdescent.com": 10,
+  "s.shopee.ph": 6,
+  "sentelabs.com": 6,
+  "morelife-indonesia.myscalev.com": 6,
+  "deals.gopure.com": 6,
+  "try.olavita.co": 6,
+  "trvl.shopcelmor.com": 6,
+  "mitchellusa.co.in": 4,
+  "mindsparkl.com": 4,
+  "rmn.akamaized.net": 4,
+  "eightsaintsskincare.com": 3,
+  "purivique.com": 3,
+  "serbadiskonid.form.id": 3,
+  "mudorganics.com": 3,
+  "nookwarmvibe.com": 3,
+  "cocomo.sg": 2,
+  "karinanyc.com": 2,
+  "zyrenofficial.com": 2,
+  "wordmindglow.com": 2,
+  "felineskinscience.com": 1
+ },
+ "cost_usd": 1.01,
+ "shops_checked": 4,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 1
+}

@@ -305,6 +305,100 @@
      "colour": "green"
     }
    }
+  },
+  {
+   "slug": "neck-cream",
+   "name": "Neck Firming Cream (Mudganics)",
+   "brand": "Mudganics (Mud Organics)",
+   "url": "https://mudorganics.com.au/products/neck-firming-cream",
+   "category": "Skincare: neck and décolletage cream",
+   "price": "A$89.95",
+   "ad_days": "Oldest live ad 2026-09-28",
+   "store_platform": "Shopify",
+   "store_launched": "2021-09",
+   "store_products": "42 products, Australian skincare, also sold wholesale",
+   "one_liner": "The map is green only because this is Mudganics' own formula. Neck creams are a swarm: 40 advertisers, 38 new in two months, and 431,000+ bought on Amazon US last month.",
+   "verdict": "Avoid",
+   "overall": 55,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 10,
+    "margin": 7,
+    "viral": 7,
+    "pain": 7,
+    "differentiation": 3
+   },
+   "why": [
+    "40 brands advertise \"neck firming cream\" and 38 of them started in the last two months: a swarm",
+    "Amazon is enormous: 431,550+ bought last month in the US, top listings with 19,000-37,900 reviews",
+    "You cannot buy this formula: you would need your own private-label cream against StriVectin, Olay and dozens of Amazon brands"
+   ],
+   "risk": "Firming and anti-ageing claims on a cosmetic need evidence and safety paperwork, and Meta reviews before-and-after ads strictly.",
+   "next": [
+    "Skip it. Demand is real, but sellers are flooding in faster than it grows"
+   ],
+   "best_region": "None. Chains such as Kmart, Walmart, John Lewis and Douglas sell neck creams in every country checked.",
+   "snapshot": {
+    "icp": "Women 45-65 bothered by a crepey or sagging neck",
+    "job": "Firm and smooth the neck and chest skin that face creams skip",
+    "cogs": "About A$6-12 for a private-label cream with packaging (estimate)",
+    "margin": "About 85-90% at A$89.95 (estimate)",
+    "claims": "Sea buckthorn and peptides; 67% saw visible results in a 4-week trial",
+    "demoable": "Yes: neck before and after, but it takes weeks to show"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells this exact cream; chains sell many other neck creams"
+    },
+    {
+     "name": "Copies gate",
+     "result": "pass",
+     "why": "Nobody copies Mudganics' formula, but the category is full"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "fail",
+     "why": "40 brands advertise, 38 of them new in the last two months"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A cosmetic with firming claims: needs safety paperwork and proof for the claims"
+    }
+   ],
+   "angles": [
+    "Men's neck and jawline cream",
+    "\"Tech neck\" for under-40s who look down at phones all day",
+    "Post-weight-loss loose skin",
+    "Neck cream plus gua sha tool bundle",
+    "TAKEN: \"Don't stop your skincare at your jawline\" (Mudganics' main message)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 0,
+    "match_name": "Skin Physics neck cream at Priceline (A$80), a different brand",
+    "verdict": "different",
+    "confidence": "High",
+    "note": "Every match was another brand's neck cream. Mudganics' formula is sold only by Mudganics."
+   },
+   "advertiser_takeaway": "This is a swarm: 40 brands, 38 of them with ads started in the last two months, including several brand-new shop names. Mudganics itself only started advertising on 28 September. Lots of people are piling in, and nobody has proven staying power yet.",
+   "tile_notes": {
+    "Same": {
+     "head": "Own formula",
+     "detail": "Nobody else sells Mudganics' cream. The real competition is hundreds of other neck creams.",
+     "colour": "green"
+    }
+   },
+   "category_notes": {
+    "de": "The photo search returned no results in Germany; Douglas and Amazon Germany sell many neck creams."
+   }
   }
  ]
 }

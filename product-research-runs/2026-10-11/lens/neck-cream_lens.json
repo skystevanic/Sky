@@ -1,0 +1,83 @@
+{
+ "slug": "neck-cream",
+ "same": [],
+ "brand_price": 89.95,
+ "brand_currency": "aud",
+ "countries": [
+  {
+   "cc": "au",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 89.95,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "us",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 59.97,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "uk",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 44.98,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "ca",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 82.15,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "nz",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 100.74,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 60
+  }
+ ]
+}
