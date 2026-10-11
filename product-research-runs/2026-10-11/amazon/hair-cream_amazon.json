@@ -1,0 +1,379 @@
+{
+  "slug": "hair-cream",
+  "query": "mens hair removal cream",
+  "brand": "Botane",
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "amazon_site": "amazon.com.au",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 25,500 reviews; 12 of the first 20 have 1,000+; at least 2,750 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 25500,
+      "n_1000_plus": 12,
+      "cheapest": 7.39,
+      "typical": 18.78,
+      "bought_last_month_min": 2750,
+      "brand_present": true,
+      "top3": [
+        {
+          "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+          "price_text": "$7.39",
+          "price": 7.39,
+          "rating": 4.1,
+          "reviews": 25500,
+          "bought_text": "700+ bought in past month",
+          "bought": 700,
+          "sponsored": true,
+          "badges": [
+            "Amazon's Choice for \"mens hair removal cream\""
+          ],
+          "link": "https://www.amazon.com.au/dp/B003JFJF5E/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+          "price_text": "$7.39",
+          "price": 7.39,
+          "rating": 4.1,
+          "reviews": 25500,
+          "bought_text": "700+ bought in past month",
+          "bought": 700,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"mens hair removal cream\""
+          ],
+          "link": "https://www.amazon.com.au/Nads-Hair-Removal-Cream-200ml/dp/B003JFJF5E/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Nad's For Men Hair Removal Cream, Depilatory Cream, Hair Removal Cream for Men for Chest, ",
+          "price_text": "$14.78",
+          "price": 14.78,
+          "rating": 4.1,
+          "reviews": 25500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com.au/Nads-Men-Removal-Cream-Depilatory/dp/B0D14YLCF4/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71g8hZtwnpL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "amazon_site": "amazon.com",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 26,200 reviews; 10 of the first 20 have 1,000+; at least 46,500 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 26200,
+      "n_1000_plus": 10,
+      "cheapest": 9.78,
+      "typical": 19.49,
+      "bought_last_month_min": 46500,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 6.8oz",
+          "price_text": "$9.78",
+          "price": 9.78,
+          "rating": 3.9,
+          "reviews": 26200,
+          "bought_text": "1K+ bought in past month",
+          "bought": 1000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com/Nads-Men-Hair-Removal-Cream/dp/B003JFJF5E/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "No Hair Crew Intimate/Private At Home Hair Removal Cream for Men - Painless, Flawless, Soo",
+          "price_text": "$16.99",
+          "price": 16.99,
+          "rating": 4.0,
+          "reviews": 17800,
+          "bought_text": "10K+ bought in past month",
+          "bought": 10000,
+          "sponsored": true,
+          "badges": [
+            "Overall Pick"
+          ],
+          "link": "https://www.amazon.com/dp/B08D67MF73/",
+          "thumbnail": "https://m.media-amazon.com/images/I/813xo7q03iL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "No Hair Crew Intimate/Private At Home Hair Removal Cream for Men - Painless, Flawless, Soo",
+          "price_text": "$16.99",
+          "price": 16.99,
+          "rating": 4.0,
+          "reviews": 17800,
+          "bought_text": "10K+ bought in past month",
+          "bought": 10000,
+          "sponsored": false,
+          "badges": [
+            "Overall Pick"
+          ],
+          "link": "https://www.amazon.com/Hair-Intimate-Private-Removal-Cream/dp/B08D67MF73/",
+          "thumbnail": "https://m.media-amazon.com/images/I/813xo7q03iL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "amazon_site": "amazon.co.uk",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 29,400 reviews; 10 of the first 20 have 1,000+; at least 26,400 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 29400,
+      "n_1000_plus": 10,
+      "cheapest": 5.69,
+      "typical": 11.38,
+      "bought_last_month_min": 26400,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "NO HAIR CREW Intimate Hair Removal Cream for Men 100 ml – The Original",
+          "price_text": "£9.95",
+          "price": 9.95,
+          "rating": 4.0,
+          "reviews": 29400,
+          "bought_text": "7K+ bought in past month",
+          "bought": 7000,
+          "sponsored": true,
+          "badges": [
+            "Amazon's Choice for \"mens hair removal cream\""
+          ],
+          "link": "https://www.amazon.co.uk/dp/B07F84MRMV/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71AJ8SNjyBL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "NO HAIR CREW Intimate Hair Removal Cream for Men 100 ml – The Original",
+          "price_text": "£9.95",
+          "price": 9.95,
+          "rating": 4.0,
+          "reviews": 29400,
+          "bought_text": "7K+ bought in past month",
+          "bought": 7000,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"mens hair removal cream\""
+          ],
+          "link": "https://www.amazon.co.uk/NO-HAIR-CREW-Premium-Intimate/dp/B07F84MRMV/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71AJ8SNjyBL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+          "price_text": "£8.99",
+          "price": 8.99,
+          "rating": 4.0,
+          "reviews": 25600,
+          "bought_text": "800+ bought in past month",
+          "bought": 800,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/Nads-Hair-Removal-Cream-200ml/dp/B003JFJF5E/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "amazon_site": "amazon.ca",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 29,000 reviews; 14 of the first 20 have 1,000+; at least 6,300 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 29000,
+      "n_1000_plus": 14,
+      "cheapest": 10.48,
+      "typical": 22.99,
+      "bought_last_month_min": 6300,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "NO HAIR CREW Intimate Hair Removal Cream - Extra Gentle Depilatory Cream for Sensitive Are",
+          "price_text": "$23.90",
+          "price": 23.9,
+          "rating": 4.0,
+          "reviews": 29000,
+          "bought_text": "900+ bought in past month",
+          "bought": 900,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"mens hair removal cream\""
+          ],
+          "link": "https://www.amazon.ca/NO-HAIR-CREW-Depilatory-Intimate/dp/B07F84MRMV/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71AJ8SNjyBL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Nad's for Men Hair Removal Cream 6.8 oz",
+          "price_text": "$23.12",
+          "price": 23.12,
+          "rating": 3.6,
+          "reviews": 25500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.ca/Nads-Men-Hair-Removal-Cream/dp/B003JFJF5E/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "No Hair Crew Intimate/Private At Home Hair Removal Cream for Men - Painless, Flawless, Soo",
+          "price_text": "$29.99",
+          "price": 29.99,
+          "rating": 3.9,
+          "reviews": 15400,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.ca/Hair-Intimate-Private-Removal-Cream/dp/B08D67MF73/",
+          "thumbnail": "https://m.media-amazon.com/images/I/813xo7q03iL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "amazon_site": "amazon.de",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 29,400 reviews; 13 of the first 20 have 1,000+; at least 12,600 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 29400,
+      "n_1000_plus": 13,
+      "cheapest": 5.25,
+      "typical": 12.99,
+      "bought_last_month_min": 12600,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "NO HAIR CREW Intimbereich Enthaarungscreme für Männer 100 ml – Das Original",
+          "price_text": "€9.95",
+          "price": 9.95,
+          "rating": 3.7,
+          "reviews": 29400,
+          "bought_text": "3K+ bought in past month",
+          "bought": 3000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/NO-HAIR-CREW-SHAV014/dp/B07F84MRMV/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71AJ8SNjyBL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Veet Men Hair Removal Cream, 200 ml",
+          "price_text": "€9.95",
+          "price": 9.95,
+          "rating": 4.2,
+          "reviews": 6400,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/Veet-Men-Hair-Removal-Cream/dp/B00KX3PF22/",
+          "thumbnail": "https://m.media-amazon.com/images/I/514YldxOUrL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Veet Men Intimate Hair Removal Kit for Men with Nourishing Balm 150ml",
+          "price_text": "€8.79",
+          "price": 8.79,
+          "rating": 3.8,
+          "reviews": 5000,
+          "bought_text": "5K+ bought in past month",
+          "bought": 5000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/Veet-Intimate-Removal-Nourishing-150ml/dp/B09NQT7W3J/",
+          "thumbnail": "https://m.media-amazon.com/images/I/710uuTiqBXL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "amazon_site": "amazon.com.au",
+      "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+      "pressure": "high",
+      "why": "top listing 25,500 reviews; 12 of the first 20 have 1,000+; at least 2,750 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 25500,
+      "n_1000_plus": 12,
+      "cheapest": 7.39,
+      "typical": 18.78,
+      "bought_last_month_min": 2750,
+      "brand_present": true,
+      "top3": [
+        {
+          "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+          "price_text": "$7.39",
+          "price": 7.39,
+          "rating": 4.1,
+          "reviews": 25500,
+          "bought_text": "700+ bought in past month",
+          "bought": 700,
+          "sponsored": true,
+          "badges": [
+            "Amazon's Choice for \"mens hair removal cream\""
+          ],
+          "link": "https://www.amazon.com.au/dp/B003JFJF5E/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+          "price_text": "$7.39",
+          "price": 7.39,
+          "rating": 4.1,
+          "reviews": 25500,
+          "bought_text": "700+ bought in past month",
+          "bought": 700,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"mens hair removal cream\""
+          ],
+          "link": "https://www.amazon.com.au/Nads-Hair-Removal-Cream-200ml/dp/B003JFJF5E/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Nad's For Men Hair Removal Cream, Depilatory Cream, Hair Removal Cream for Men for Chest, ",
+          "price_text": "$14.78",
+          "price": 14.78,
+          "rating": 4.1,
+          "reviews": 25500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com.au/Nads-Men-Removal-Cream-Depilatory/dp/B0D14YLCF4/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71g8hZtwnpL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

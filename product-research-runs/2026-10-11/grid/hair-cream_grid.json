@@ -1,0 +1,1109 @@
+{
+  "slug": "hair-cream",
+  "query": "mens hair removal cream",
+  "mode": "full",
+  "brand_price": 65.0,
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "currency": "A$",
+      "status": "blocked",
+      "why": "Chemist Warehouse sells it at $5.49",
+      "results": 40,
+      "distinct_sellers": 31,
+      "chains_present": [
+        "Chemist Warehouse"
+      ],
+      "marketplaces_present": [
+        "AliExpress - AliExpress-235467479",
+        "AliExpress - AliExpress-2667816898",
+        "AliExpress - AliExpress-2681955145",
+        "AliExpress - AliExpress-6001977904",
+        "AliExpress - AliExpress-6003669777",
+        "AliExpress - AliExpress-6004154521",
+        "AliExpress - AliExpress-6004660864",
+        "Amazon AU",
+        "Amazon AU - Amazon.com.au-Seller",
+        "eBay",
+        "eBay - 1amstore",
+        "eBay - ecrumble",
+        "eBay - jingli9434",
+        "eBay - the682collectiveau"
+      ],
+      "cheapest": 3.65,
+      "typical": 25.0,
+      "most_reviewed": {
+        "seller": "khangroup.com.au",
+        "title": "Nair Facial Hair Removal Cream | Precision Applicator Tip | 20g",
+        "reviews": 4300,
+        "price_text": "$7.14"
+      },
+      "top_rows": [
+        {
+          "seller": "khangroup.com.au",
+          "title": "Nair Facial Hair Removal Cream | Precision Applicator Tip | 20g",
+          "price_text": "$7.14",
+          "price": 7.14,
+          "rating": 4.6,
+          "reviews": 4300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:755042933526876092,headlineOfferDocid:755042933526876092,imageDocid:3106526341476760875,rds:PC_2822799814966114920|PROD_PC_2822799814966114920,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrmD1h8xACJsWWrsleH9ElaHf5xXGJkR2EJ-KTdd9yzk0SotAlgECc0lhi74itSJLbNAovxi61dlBjsmymskd2bU-D8o7q"
+        },
+        {
+          "seller": "klose.com.au",
+          "title": "Nair Facial Hair Removal Cream | Precision Applicator Tip | 20g",
+          "price_text": "$7.35",
+          "price": 7.35,
+          "rating": 4.6,
+          "reviews": 4300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:14938352271183881539,headlineOfferDocid:14938352271183881539,imageDocid:3106526341476760875,rds:PC_2822799814966114920|PROD_PC_2822799814966114920,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrmD1h8xACJsWWrsleH9ElaHf5xXGJkR2EJ-KTdd9yzk0SotAlgECc0lhi74itSJLbNAovxi61dlBjsmymskd2bU-D8o7q"
+        },
+        {
+          "seller": "myfoodlink.com",
+          "title": "Nair Facial Hair Removal Cream | Precision Applicator Tip | 20g",
+          "price_text": "$6.80",
+          "price": 6.8,
+          "rating": 4.7,
+          "reviews": 1600,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:16441847056825782774,headlineOfferDocid:16441847056825782774,imageDocid:3106526341476760875,rds:PC_5917636118475131940|PROD_PC_5917636118475131940,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrmD1h8xACJsWWrsleH9ElaHf5xXGJkR2EJ-KTdd9yzk0SotAlgECc0lhi74itSJLbNAovxi61dlBjsmymskd2bU-D8o7q"
+        },
+        {
+          "seller": "mcgrocer.com",
+          "title": "WooWoo Tame It! Vegan In-Shower Hair Removal Cream",
+          "price_text": "$65.39",
+          "price": 65.39,
+          "rating": 1.7,
+          "reviews": 577,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:9718581655102276532,productid:10706377451043106898,headlineOfferDocid:11033406241561338678,imageDocid:17245633151726756799,rds:PC_16112383744367110177|PROD_PC_16112383744367110177,gpcid:16112383744367110177,mid:576462894470574154,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLR4AvLEUfT73oF3YCJMH_nT0Mm-QFgNC03uEJdhr_Azz3rud6aCHWw4a4GArf0ttkA38MCG4i_Qzc9Y609hra2UDM6LlJTPpVMcYyXAUIEcLT4d_faZB_Hg"
+        },
+        {
+          "seller": "eBay - the682collectiveau",
+          "title": "Woowoo Tame It Intimate Hair Removal Cream Sensitive Skin 100ml",
+          "price_text": "$52.99",
+          "price": 52.99,
+          "rating": 2.5,
+          "reviews": 534,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:6426321177897311537,headlineOfferDocid:6426321177897311537,imageDocid:14267953014659184791,rds:PC_16112383744367110177|PROD_PC_16112383744367110177,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTciHgxIERNyzSzqlsMhqkIg5OVdoTmxCLIO0P_B15NJNgoT54Y8Xiz741sAQxx1M37ZQJ7Ni9y6E9hl8madSourqQAmPLBW7MkbLIqrgg"
+        },
+        {
+          "seller": "GoSupps.com",
+          "title": "Nad's Hair Removal Cream For Men 6.8 fl oz (200 ml)",
+          "price_text": "$150.33",
+          "price": 150.33,
+          "rating": 2.9,
+          "reviews": 439,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:11856024739056719452,headlineOfferDocid:11856024739056719452,imageDocid:15609386562206472537,rds:PC_11272831976650395002|PROD_PC_11272831976650395002,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRq59aknks2K8D2nEoTvEwTXvQG3X35XcPizdjk2n86eqeK9xlv568eJ9jUeYSYeftZhzbq8tch7hmtIcvOEKg_KJhtqWJDoIR67ECyB0c"
+        },
+        {
+          "seller": "eBay",
+          "title": "Nad's For Men Intimate Hair Removal Cream For Men - Easy & Painless,",
+          "price_text": "$11.75",
+          "price": 11.75,
+          "rating": 3.4,
+          "reviews": 297,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:13562881919541330158,headlineOfferDocid:13562881919541330158,imageDocid:2102546409603089291,rds:PC_6789133274650285897|PROD_PC_6789133274650285897,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIrJ5YOkoxStS-dpELurYYSsbyGbc0Zw-ZBulbfXu5iR1YgK85B6WYjaNuwcQdfei6ESTrrN6-4T1Dv_iyGLW1H6JSAiHpz_THrUY7U8o"
+        },
+        {
+          "seller": "GoSupps Beauty",
+          "title": "Nad's for Men Hair Removal Cream 6.8 oz. (4)",
+          "price_text": "$128.85",
+          "price": 128.85,
+          "rating": 4.3,
+          "reviews": 295,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:13163290177653269787,headlineOfferDocid:13163290177653269787,imageDocid:11444455160662810593,rds:PC_11272831976650395002|PROD_PC_11272831976650395002,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTU27Akyc8QVL-ycNHigwn1gct8x26voCVLvNCcXEOvvCtIP2nds1TtEqNH1Sib5A9hsFyQUARhUHMLstj6-xLrlWUxF-M0aVsR-QchALZR409s__MCKgHJuQ"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Chemist Warehouse",
+          "title": "Veet Expert Legs Body Full Bikini Hair Removal Cream 100mL",
+          "price_text": "$5.49",
+          "price": 5.49,
+          "rating": 3.2,
+          "reviews": 75,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:10987663109159297575,productid:1688947195107254440,headlineOfferDocid:10842602408884603452,imageDocid:3969548040505422570,rds:PC_1400480487308455010|PROD_PC_1400480487308455010,gpcid:1400480487308455010,mid:576462847622554238,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQRVV8ELvXxn3BNmFNHg25wd4UUp-4recDxqkxTKqge_y8pgZ5fQcIzpgBM9jkLUhBYUcH8B7s3PMcHcIWt5M0tQA11P3UgZ4aXpo6J3P448zb4uWmZXoMMAA"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "currency": "US$",
+      "status": "blocked",
+      "why": "Target sells it at $9.99",
+      "results": 40,
+      "distinct_sellers": 32,
+      "chains_present": [
+        "Target",
+        "Walgreens.com",
+        "Walmart"
+      ],
+      "marketplaces_present": [
+        "Walmart - BEST COLLECTION",
+        "Walmart - CASEDAZZLE CORP",
+        "Walmart - Dnogom",
+        "Walmart - HUYONG-US",
+        "Walmart - PostBeauty",
+        "Walmart - PureRelief Co.",
+        "Walmart - RUD Products",
+        "Walmart - S S ENTERPRISES",
+        "Walmart - SHAONIANQIXING",
+        "Walmart - SITARAM HEALTHCARE",
+        "Walmart - Seller",
+        "Walmart - Visit the Shimmosaic Store",
+        "Walmart - Youhong Co., Ltd.",
+        "eBay",
+        "eBay - angelsjunk2022",
+        "eBay - dbjewelry",
+        "eBay - gtoju89",
+        "eBay - josephson3",
+        "eBay - miat5795",
+        "eBay - my2qts",
+        "eBay - thickmorri28"
+      ],
+      "cheapest": 2.69,
+      "typical": 14.99,
+      "most_reviewed": {
+        "seller": "harrys.com",
+        "title": "Harry's Foaming Shave Gel",
+        "reviews": 3900,
+        "price_text": "$3.00"
+      },
+      "top_rows": [
+        {
+          "seller": "harrys.com",
+          "title": "Harry's Foaming Shave Gel",
+          "price_text": "$3.00",
+          "price": 3.0,
+          "rating": 5.0,
+          "reviews": 3900,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:3934845322452867644,productid:16713568644201257246,headlineOfferDocid:11778651244983774232,imageDocid:14581877746544840825,rds:PC_17813379265455012981|PROD_PC_17813379265455012981,gpcid:17813379265455012981,mid:576462749203844950,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWym0BQoezMgAsA7ubV8D5Un0DbVoC2kgTPRTeqHWDU-bSSjDDh978QoBER7tQPq8hE53-m_akAJ07NtF2Iz2HfA1ITmlxoH_Xbt43A2Egi_BzmMmy7JUH"
+        },
+        {
+          "seller": "Target",
+          "title": "Veet Gel Hair Remover Cream Legs & Body",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 4.7,
+          "reviews": 3700,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:10383342514435775338,productid:14251366814292031596,headlineOfferDocid:1038024309086104386,imageDocid:18137790150082638139,rds:PC_6581935210373195526|PROD_PC_6581935210373195526,gpcid:6581935210373195526,mid:576462563334434423,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDPI5_1ldYa5M0N7g6pRmHPrgiAkKDVQevSxLt_i8KuBdBfW9ZZ_D2cWxN08oRUZ8cVXORemcHA-kNS6n3_NpDhfCgO-Ji"
+        },
+        {
+          "seller": "The Spa of Charleston",
+          "title": "Barbasol Shaving Cream Thick Rich",
+          "price_text": "$3.19",
+          "price": 3.19,
+          "rating": 5.0,
+          "reviews": 3700,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:11792881722112111297,productid:13088199776712104167,headlineOfferDocid:6772546665826820725,imageDocid:16300756635437274209,rds:PC_15407854936256563665|PROD_PC_15407854936256563665,gpcid:7057207566109899485,mid:576462777779272995,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8Et-jlHFXfXkeuMJTSPe3ZYx49MBI7IEZ-Hc4RD8nmOxejtXf2vo5scsDyMPFzPBfxdxHVz7UjpKfV5xbd51jK3SuEW9H"
+        },
+        {
+          "seller": "Walgreens.com",
+          "title": "Barbasol Shaving Cream Thick Rich",
+          "price_text": "$2.69",
+          "price": 2.69,
+          "rating": 5.0,
+          "reviews": 3700,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:11792881722112111297,productid:13088199776712104167,headlineOfferDocid:4974935911162368482,imageDocid:16300756635437274209,rds:PC_15407854936256563665|PROD_PC_15407854936256563665,gpcid:7057207566109899485,mid:576462777779272995,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8Et-jlHFXfXkeuMJTSPe3ZYx49MBI7IEZ-Hc4RD8nmOxejtXf2vo5scsDyMPFzPBfxdxHVz7UjpKfV5xbd51jK3SuEW9H"
+        },
+        {
+          "seller": "Walmart",
+          "title": "Completely Bare Facial Hair Removal Cream",
+          "price_text": "$9.75",
+          "price": 9.75,
+          "rating": 2.6,
+          "reviews": 2200,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:6996133498028614392,productid:6575896407702660958,headlineOfferDocid:12189682438771302457,imageDocid:15717548803398866235,rds:PC_5968125633330681233|PROD_PC_5968125633330681233,gpcid:5968125633330681233,mid:576462349088228488,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUvi3EdOBGHtt8zkL8xH2MsuaMbsa6TFs0zsEgP9aZ6FNqyDQ6HjnyUtZimRltiVA-jcbcVzFm7LICqryQtdcIfqrPodX_71kz4knUwWPB5Ja534y0ob4O1BT4"
+        },
+        {
+          "seller": "Completely Bare",
+          "title": "ctrl+hair+DEL Hair Removal Cream | Completely Bare 2-Pack",
+          "price_text": "$19.80",
+          "price": 19.8,
+          "rating": 2.6,
+          "reviews": 2100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:4942300597504291447,headlineOfferDocid:4942300597504291447,imageDocid:18017625126042495126,rds:PC_5968125633330681233|PROD_PC_5968125633330681233,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRCNBdyAxOSGyXgPpt-ZP4hUQAYT4GtBWd8cTZFm9jpjCt4theR62WAImApd-PVMcpSMkeJHtCcpIt88TdvVfnfmqWPfuFicCA8GIkrkvwfcBsQVQGUdcDLRuw3"
+        },
+        {
+          "seller": "eBay - my2qts",
+          "title": "Lot Of 5 Completely Bare Ctrl+hair+del Hair Removal Cream 0.5 Oz X5",
+          "price_text": "$16.99",
+          "price": 16.99,
+          "rating": 3.1,
+          "reviews": 2000,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:5920299192435277617,headlineOfferDocid:5920299192435277617,imageDocid:7579107673887380786,rds:PC_5968125633330681233|PROD_PC_5968125633330681233,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS3_wFGm0DYoh6P-NVL--ynRCqm7mE7vjOuek5VNw8nHC_hyhbaWMxHjbdIrrSGYRaX_MnAsB2zvuIv_QAP6BlShiHhVQmrZdWXFwPjotPe"
+        },
+        {
+          "seller": "Walmart",
+          "title": "Nair Shower Cream Hair Remover with Moroccan Argan Oil",
+          "price_text": "$9.97",
+          "price": 9.97,
+          "rating": 3.8,
+          "reviews": 1100,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:13453032242050306777,productid:12119219469933608773,headlineOfferDocid:8329303149551618018,imageDocid:17493457666324633754,rds:PC_18439837168152903780|PROD_PC_18439837168152903780,gpcid:18439837168152903780,mid:576462778096437016,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3jXJDDcgOwpqjmrLlNSDZdG9Kgnclc3vWI504DBsM65k_TodODfVL5sob2ZFRZzXheSBXBr9O0cMm1e_TdxJ95CcNL4J-iCXjNwuM1L8"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Target",
+          "title": "Veet Gel Hair Remover Cream Legs & Body",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 4.7,
+          "reviews": 3700,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:10383342514435775338,productid:14251366814292031596,headlineOfferDocid:1038024309086104386,imageDocid:18137790150082638139,rds:PC_6581935210373195526|PROD_PC_6581935210373195526,gpcid:6581935210373195526,mid:576462563334434423,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDPI5_1ldYa5M0N7g6pRmHPrgiAkKDVQevSxLt_i8KuBdBfW9ZZ_D2cWxN08oRUZ8cVXORemcHA-kNS6n3_NpDhfCgO-Ji"
+        },
+        {
+          "seller": "Walmart",
+          "title": "Nair Shower Cream Hair Remover with Moroccan Argan Oil",
+          "price_text": "$9.97",
+          "price": 9.97,
+          "rating": 3.8,
+          "reviews": 1100,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:13453032242050306777,productid:12119219469933608773,headlineOfferDocid:8329303149551618018,imageDocid:17493457666324633754,rds:PC_18439837168152903780|PROD_PC_18439837168152903780,gpcid:18439837168152903780,mid:576462778096437016,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3jXJDDcgOwpqjmrLlNSDZdG9Kgnclc3vWI504DBsM65k_TodODfVL5sob2ZFRZzXheSBXBr9O0cMm1e_TdxJ95CcNL4J-iCXjNwuM1L8"
+        },
+        {
+          "seller": "Walmart",
+          "title": "Completely Bare Facial Hair Removal Cream",
+          "price_text": "$9.75",
+          "price": 9.75,
+          "rating": 2.6,
+          "reviews": 2200,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:6996133498028614392,productid:6575896407702660958,headlineOfferDocid:12189682438771302457,imageDocid:15717548803398866235,rds:PC_5968125633330681233|PROD_PC_5968125633330681233,gpcid:5968125633330681233,mid:576462349088228488,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUvi3EdOBGHtt8zkL8xH2MsuaMbsa6TFs0zsEgP9aZ6FNqyDQ6HjnyUtZimRltiVA-jcbcVzFm7LICqryQtdcIfqrPodX_71kz4knUwWPB5Ja534y0ob4O1BT4"
+        },
+        {
+          "seller": "Walgreens.com",
+          "title": "Walgreens Sensitive Shower Hair Remover Cream",
+          "price_text": "$9.79",
+          "price": 9.79,
+          "rating": 3.3,
+          "reviews": 9,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:9463301469170823669,productid:9691058868512303745,headlineOfferDocid:3536598389238864020,imageDocid:11375025465656782241,rds:PC_2070588758991353837|PROD_PC_2070588758991353837,gpcid:2070588758991353837,mid:576462886507128373,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbCfHaUd7qTmQYgPQckKS0ChUVuuWMJoyMe9WHNEFLuyQ1za3jFZEAutaWgg_uDw_glaB4FJuPYK83SPwNVFidDZQ0Fony"
+        },
+        {
+          "seller": "Target",
+          "title": "Wakse Meltoway Hair Dissolving Cream",
+          "price_text": "$15.00",
+          "price": 15.0,
+          "rating": 1.3,
+          "reviews": 238,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:1429445412983373801,productid:4569946499661558465,headlineOfferDocid:6169613859208779320,imageDocid:2352537172624873404,rds:PC_1070924931884054360|PROD_PC_1070924931884054360,gpcid:1070924931884054360,mid:576462484283865406,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQu1snzVhGdVEotMOSFoMlZ2y2HGPJIiwOyEyyzLa4-ZmR7fcEeDqv3joZmUZoWsq-khne92e7Nr6uT3YB422AFWyQMNlGKiA"
+        },
+        {
+          "seller": "Walgreens.com",
+          "title": "Barbasol Shaving Cream Thick Rich",
+          "price_text": "$2.69",
+          "price": 2.69,
+          "rating": 5.0,
+          "reviews": 3700,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:11792881722112111297,productid:13088199776712104167,headlineOfferDocid:4974935911162368482,imageDocid:16300756635437274209,rds:PC_15407854936256563665|PROD_PC_15407854936256563665,gpcid:7057207566109899485,mid:576462777779272995,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8Et-jlHFXfXkeuMJTSPe3ZYx49MBI7IEZ-Hc4RD8nmOxejtXf2vo5scsDyMPFzPBfxdxHVz7UjpKfV5xbd51jK3SuEW9H"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "currency": "£",
+      "status": "blocked",
+      "why": "Superdrug.com sells it at £3.99",
+      "results": 40,
+      "distinct_sellers": 25,
+      "chains_present": [
+        "Boots.com",
+        "Superdrug.com"
+      ],
+      "marketplaces_present": [
+        "AliExpress - AliExpress-2679315322",
+        "Amazon.co.uk",
+        "Amazon.co.uk - Amazon.co.uk-Seller",
+        "OnBuy.com",
+        "eBay",
+        "eBay - 365essential",
+        "eBay - beautymall-66",
+        "eBay - debbys2004",
+        "eBay - etmacc",
+        "eBay - fashi-moe",
+        "eBay - indian_market",
+        "eBay - isma-shop",
+        "eBay - ourlivehome",
+        "eBay - pussybei",
+        "eBay - sabinasutton01",
+        "eBay - the-online-savings"
+      ],
+      "cheapest": 2.49,
+      "typical": 8.96,
+      "most_reviewed": {
+        "seller": "eBay - 365essential",
+        "title": "Sanfe Ubtan Facial Hair Removal Cream",
+        "reviews": 4200,
+        "price_text": "£8.70"
+      },
+      "top_rows": [
+        {
+          "seller": "eBay - 365essential",
+          "title": "Sanfe Ubtan Facial Hair Removal Cream",
+          "price_text": "£8.70",
+          "price": 8.7,
+          "rating": 5.0,
+          "reviews": 4200,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:1322149985751362678,productid:4348103769508481337,headlineOfferDocid:269272134785745027,imageDocid:3238659997272959630,rds:PC_15333025552484529474|PROD_PC_15333025552484529474,gpcid:15333025552484529474,mid:576462898002023355,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTcv06W3HX1uqhXQdo1F5G7AQyqfg3iZJnECothiypj-gxufVglHHbZam6nL4C8RJmcfEUW-rTH-sa5pEXXfpUj08Tfizrn3vgj6J40ANDFG6sAb6reykGn"
+        },
+        {
+          "seller": "eBay - the-online-savings",
+          "title": "Veet Gel Hair Remover Cream",
+          "price_text": "£19.49",
+          "price": 19.49,
+          "rating": 5.0,
+          "reviews": 3700,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:10383342514435775338,productid:10409729249117344989,headlineOfferDocid:15074112273235661719,imageDocid:17445260723670838771,rds:PC_6581935210373195526|PROD_PC_6581935210373195526,gpcid:6581935210373195526,mid:576462563334434423,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEAYXrQj2UHNk8xYjux-WnhtADAsXMYnVmiXoZhsMjgYQ8BaFi2uAjKtYribgsWw_w7gsuprhfm36pjS29saa5pZlW0G5Y_-q26u1soVbP"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "HeadBlade - HeadSlick Mentholated Shave Cream, Use it Anywhere You Shave - 8 fl oz",
+          "price_text": "£12.99",
+          "price": 12.99,
+          "rating": 3.3,
+          "reviews": 1100,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:16763301668549161409,headlineOfferDocid:16763301668549161409,imageDocid:8337664124831360045,rds:PC_8505395498472796686|PROD_PC_8505395498472796686,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQwG_CvL56cXGVfsZD2hJVjq7G-mPe7TxArRbUNLmKLJ15CcCvwApCWYELXTEgg_Bcc7rShbfVezHjCkYkdOc3oD_WcbpFniGzBSclikDT74wBUXcTFsAheSw"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "HeadBlade HeadSlick Shave Cream",
+          "price_text": "£13.99",
+          "price": 13.99,
+          "rating": 4.5,
+          "reviews": 1100,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:616523730465139333,productid:1872801426012715283,headlineOfferDocid:2366556300592578057,imageDocid:6049596917486880540,rds:PC_8505395498472796686|PROD_PC_8505395498472796686,gpcid:8505395498472796686,mid:576462783072611364,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR29dcZ3G3Kf851G4o5T0GhxkJvJIsHdX1U-8K025xcyrnSWUMOa5XNTnYPlhGIWTfXdOkN154SArK3hf4ccx0dZfjgVmBshtx_Hhe50kRLmiGJHb1C-wqByg"
+        },
+        {
+          "seller": "nutcare uk",
+          "title": "barenuts hair removal cream for men",
+          "price_text": "£16.99",
+          "price": 16.99,
+          "rating": 4.1,
+          "reviews": 589,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:435469740021135166,headlineOfferDocid:435469740021135166,imageDocid:17162420738455568102,rds:PC_12968915198953606204|PROD_PC_12968915198953606204,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTWCC70EhGQ3isuDFn34G-vVottQS9tbk5551zyMyQ8xcd4qvIojxrdHOECoskwnLrzRRPW0Nxaahs3Wp1eUXRrbXuqShvp2EyfA2DsO_FX"
+        },
+        {
+          "seller": "eBay",
+          "title": "3 X Nair Sensitive Cream Hair Removal, Argan Oil Aloe Vera Extract",
+          "price_text": "£13.99",
+          "price": 13.99,
+          "rating": 2.9,
+          "reviews": 200,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:18403092786025549858,headlineOfferDocid:18403092786025549858,imageDocid:17408603817609698269,rds:PC_2521747810109976390|PROD_PC_2521747810109976390,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbsyapkM4X9HBt3TvcMMRvW0eJbY99GkenbaU15E75LG6yBipI4OlNExVmP2YEAzFmsllCAnxakMndIw-cc9Xu51TEGovqnbLx2T8BWY8"
+        },
+        {
+          "seller": "Superdrug.com",
+          "title": "Nair Brush On Facial Hair Remover",
+          "price_text": "£3.99",
+          "price": 3.99,
+          "rating": 4.5,
+          "reviews": 196,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:16514138219248655888,productid:12770894006455750164,headlineOfferDocid:15132202816111189963,imageDocid:10370475180029707310,rds:PC_1168055299407917749|PROD_PC_1168055299407917749,gpcid:1168055299407917749,mid:576462380453692468,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREtW2MbKy2s83Kqcl2FJU8Jn-Z12z5Qi7HtB5lOmO9nHb7wVhnr9IaOWpgJQDbmSb8Zp5CfuAkMrcy4p1Weac--HvAyfkp5cZT6il8ELLNzm2_HwmKNPIQ"
+        },
+        {
+          "seller": "Boots.com",
+          "title": "Boots Smooth Care Facial Hair Removal Cream Sensitive Skin",
+          "price_text": "£3.50",
+          "price": 3.5,
+          "rating": 2.9,
+          "reviews": 196,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:11190202965530396193,productid:15128688514387827977,headlineOfferDocid:17320111184326125421,imageDocid:8082390834322748175,rds:PC_18424075768888264077|PROD_PC_18424075768888264077,gpcid:18424075768888264077,mid:576462524285843108,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRO1HNdTPLc0eWs0AwHa54z3yAALqqrYWeGZVbHm5jHhhgoRbZF-Bk0ouJqtf-W7B-Swh1d0qGm8_Bu_H0fHLQ-W87IyR5urQDZTCZNhLDPZjv5oqCRZ7yI"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Superdrug.com",
+          "title": "Nair Brush On Facial Hair Remover",
+          "price_text": "£3.99",
+          "price": 3.99,
+          "rating": 4.5,
+          "reviews": 196,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:16514138219248655888,productid:12770894006455750164,headlineOfferDocid:15132202816111189963,imageDocid:10370475180029707310,rds:PC_1168055299407917749|PROD_PC_1168055299407917749,gpcid:1168055299407917749,mid:576462380453692468,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREtW2MbKy2s83Kqcl2FJU8Jn-Z12z5Qi7HtB5lOmO9nHb7wVhnr9IaOWpgJQDbmSb8Zp5CfuAkMrcy4p1Weac--HvAyfkp5cZT6il8ELLNzm2_HwmKNPIQ"
+        },
+        {
+          "seller": "Boots.com",
+          "title": "Boots Smooth Care Facial Hair Removal Cream Sensitive Skin",
+          "price_text": "£3.50",
+          "price": 3.5,
+          "rating": 2.9,
+          "reviews": 196,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:11190202965530396193,productid:15128688514387827977,headlineOfferDocid:17320111184326125421,imageDocid:8082390834322748175,rds:PC_18424075768888264077|PROD_PC_18424075768888264077,gpcid:18424075768888264077,mid:576462524285843108,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRO1HNdTPLc0eWs0AwHa54z3yAALqqrYWeGZVbHm5jHhhgoRbZF-Bk0ouJqtf-W7B-Swh1d0qGm8_Bu_H0fHLQ-W87IyR5urQDZTCZNhLDPZjv5oqCRZ7yI"
+        },
+        {
+          "seller": "Superdrug.com",
+          "title": "Superdrug Facial Hair Removal Cream 20ml",
+          "price_text": "£4.00",
+          "price": 4.0,
+          "rating": 5.0,
+          "reviews": 74,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:4883325418257288009,productid:11017842283943242619,headlineOfferDocid:6367137121915772077,imageDocid:9670420110886153221,rds:PC_7061687129459944743|PROD_PC_7061687129459944743,gpcid:7061687129459944743,mid:576462567185894479,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmz6sP-mP_PNBkO4TQN_dn1un3l_MbGwB_D9h7tVno7K7Pov3IbG-VyCb_Ftp-uA_wK5naHOwc5cJ-d_Jv8m7p0h7ZmL2eMJkqxcLqd9vZ7ssUUl4OZoVY"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "currency": "C$",
+      "status": "blocked",
+      "why": "London Drugs sells it at $9.99",
+      "results": 40,
+      "distinct_sellers": 22,
+      "chains_present": [
+        "London Drugs"
+      ],
+      "marketplaces_present": [
+        "AliExpress - AliExpress-2679961096",
+        "AliExpress - AliExpress-6004653974",
+        "Amazon",
+        "Amazon CA",
+        "eBay - bnwtcloset",
+        "eBay - indoherbshop",
+        "eBay - maplemora",
+        "eBay - mount0851",
+        "eBay - saimbhi3464"
+      ],
+      "cheapest": 0.63,
+      "typical": 32.7,
+      "most_reviewed": {
+        "seller": "Desertcart.ae",
+        "title": "Hair Remover Moisturizing Face Cream with Sweet Almond Oil 2 oz (Pack of 5)",
+        "reviews": 4200,
+        "price_text": "$47.00"
+      },
+      "top_rows": [
+        {
+          "seller": "Desertcart.ae",
+          "title": "Hair Remover Moisturizing Face Cream with Sweet Almond Oil 2 oz (Pack of 5)",
+          "price_text": "$47.00",
+          "price": 47.0,
+          "rating": 3.6,
+          "reviews": 4200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:9062414434766520951,headlineOfferDocid:9062414434766520951,imageDocid:5372510658749093415,rds:PC_2822799814966114920|PROD_PC_2822799814966114920,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSuQnFjMmA3am9jBkpPDYKZe3uc-7EsXPJIpGs9THikSBXInoraGzm6lsAomAE4U76nb4rEQY-QYDNXQfLozVCXcsPok3W8m69W2csqslOr5sQooIlnS6Gv"
+        },
+        {
+          "seller": "GoSupps Beauty",
+          "title": "Aveeno Positively Smooth Moisturizing Shave Gel with Soy, Aloe, and Vitamin E to help Prev",
+          "price_text": "$42.78",
+          "price": 42.78,
+          "rating": 5.0,
+          "reviews": 2400,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:4592069637615293500,headlineOfferDocid:4592069637615293500,imageDocid:13858801034411982398,rds:PC_16846338872026148765|PROD_PC_16846338872026148765,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9TxoxHOsVEZDjavyLScr1B88xTELRoRrRXBFwY_7YuOGgCea9erLeL-Vdb9mc0_6qsac-rx4NQfz805HA75fgk_8qupn2PnFYNkVLQOnfDnkcTegsX3oMUQ"
+        },
+        {
+          "seller": "London Drugs",
+          "title": "Nivea Men Sensitive Skin Shaving Gel",
+          "price_text": "$5.99",
+          "price": 5.99,
+          "rating": 3.3,
+          "reviews": 935,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:6832409344522313846,productid:7663351535935957286,headlineOfferDocid:627107469141025260,imageDocid:15612736228421849537,rds:PC_3338372692199236855|PROD_PC_3338372692199236855,gpcid:3338372692199236855,mid:576462563315011732,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlqg9FzgU2ckF9VLPosRm2q8fK3A1C1_erhFzB45xyJaVPa39cG1qMqoDknNk5XfrhF-81U9m9GRuHMfpLQdBExZ2Nungx_TtS7MPVE48uXqJ7yKbzg2kI"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "FOR MEN Sensitive, Shaving Gel 7 Ounce (Pack of 10)",
+          "price_text": "$134.39",
+          "price": 134.39,
+          "rating": 2.8,
+          "reviews": 780,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:127347015506864572,headlineOfferDocid:127347015506864572,imageDocid:15799724458921845102,rds:PC_3338372692199236855|PROD_PC_3338372692199236855,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRpZPGo4cVQs94rnS5ybHMuwf7OKVuBk_2wg5w4mc1yWWJQRiPfleqdxgZ6WjG-lh-2dd_t9LFPvQ6K9cERbEsRfROC0euNe-o8KtxbmVwBOzbQK9MPcEyg"
+        },
+        {
+          "seller": "?",
+          "title": "No Hair Crew Intimate Hair Removal Cream",
+          "price_text": "US$20+",
+          "price": 20.0,
+          "rating": 3.8,
+          "reviews": 737,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": null,
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQd9swiy4OPDwUpupXAjnK9yBkBzE0ngECaU_mDvLhOuleJG1WWguygweq5yoLVs_GM3YdfgCvNLHqHNQJcCo7KYLr2Lu0AmcXrctXjJGVvEoMX3SziusWN"
+        },
+        {
+          "seller": "eBay - bnwtcloset",
+          "title": "Lot Of 3 Flamingo Foaming Shave Gel Conditions And Cushions With Aloe",
+          "price_text": "$35.66",
+          "price": 35.66,
+          "rating": 2.5,
+          "reviews": 453,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:6443739805922455402,headlineOfferDocid:6443739805922455402,imageDocid:916343226572351246,rds:PC_1963476461718701081|PROD_PC_1963476461718701081,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRznLnnbSJzHl-UVBhN9NF86skwcXO1XVYEMq7UhOGArHi8iXOgCJ57qnAIflvp9PhOcf7YzSxl3xJIVTILHWeruKBWtRDvSnTIqf0ChImXzwJQ5rTcsQA0uQ"
+        },
+        {
+          "seller": "GoSupps.com",
+          "title": "Nad's Hair Removal Cream For Men 6.8 fl oz (200 ml)",
+          "price_text": "$149.76",
+          "price": 149.76,
+          "rating": 2.9,
+          "reviews": 439,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:11856024739056719452,headlineOfferDocid:11856024739056719452,imageDocid:15609386562206472537,rds:PC_11272831976650395002|PROD_PC_11272831976650395002,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRq59aknks2K8D2nEoTvEwTXvQG3X35XcPizdjk2n86eqeK9xlv568eJ9jUeYSYeftZhzbq8tch7hmtIcvOEKg_KJhtqWJDoIR67ECyB0c"
+        },
+        {
+          "seller": "London Drugs",
+          "title": "Cremo Cooling Shave Cream",
+          "price_text": "$7.49",
+          "price": 7.49,
+          "rating": 4.3,
+          "reviews": 378,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:8721144510575771555,productid:5897794088839181140,headlineOfferDocid:14177352348053682805,imageDocid:8428310827022311184,rds:PC_1877943084555052297|PROD_PC_1877943084555052297,gpcid:1877943084555052297,mid:576462756701024515,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ_HAUzqrJ2v70iriJ3KdpK1UUvhsp99lfCFnO9eERHGTznNjkqSekqxl_epPqZBFUyh0TRJaWgZxwyYGw3h-WIc2dwoIRFIAn2u-D1EVyeifn6aBiO6mYi"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "London Drugs",
+          "title": "Pacific Shaving Company Caffeinated Shaving Cream",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 3.2,
+          "reviews": 22,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:2345875898839271473,productid:8797870430602417717,headlineOfferDocid:4191096747866543729,imageDocid:3184691700667648494,rds:PC_9499588870584628062|PROD_PC_9499588870584628062,gpcid:9499588870584628062,mid:576462776668520766,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQcYoONb_MUS2gZyHagKMEh7Das-hBJmAgqq6qPaeaI-u1fH1zM7IW3M70rfVzkin-92Fud0tZ95_Ep2QzGvfFjB30rGjXF-XykYvmvE1xUkNLunulyie5Vfg"
+        },
+        {
+          "seller": "London Drugs",
+          "title": "Cremo Cooling Shave Cream",
+          "price_text": "$7.49",
+          "price": 7.49,
+          "rating": 4.3,
+          "reviews": 378,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:8721144510575771555,productid:5897794088839181140,headlineOfferDocid:14177352348053682805,imageDocid:8428310827022311184,rds:PC_1877943084555052297|PROD_PC_1877943084555052297,gpcid:1877943084555052297,mid:576462756701024515,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ_HAUzqrJ2v70iriJ3KdpK1UUvhsp99lfCFnO9eERHGTznNjkqSekqxl_epPqZBFUyh0TRJaWgZxwyYGw3h-WIc2dwoIRFIAn2u-D1EVyeifn6aBiO6mYi"
+        },
+        {
+          "seller": "London Drugs",
+          "title": "Nivea Men Sensitive Skin Shaving Gel",
+          "price_text": "$5.99",
+          "price": 5.99,
+          "rating": 3.3,
+          "reviews": 935,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:6832409344522313846,productid:7663351535935957286,headlineOfferDocid:627107469141025260,imageDocid:15612736228421849537,rds:PC_3338372692199236855|PROD_PC_3338372692199236855,gpcid:3338372692199236855,mid:576462563315011732,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQlqg9FzgU2ckF9VLPosRm2q8fK3A1C1_erhFzB45xyJaVPa39cG1qMqoDknNk5XfrhF-81U9m9GRuHMfpLQdBExZ2Nungx_TtS7MPVE48uXqJ7yKbzg2kI"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "currency": "€",
+      "status": "blocked",
+      "why": "dm-drogerie markt sells it at 5,95 €",
+      "results": 40,
+      "distinct_sellers": 22,
+      "chains_present": [
+        "OTTO",
+        "Rossmann.de",
+        "dm-drogerie markt"
+      ],
+      "marketplaces_present": [
+        "Amazon.de",
+        "Amazon.de - Amazon.de-Seller",
+        "Kaufland.de - Katomix",
+        "Kaufland.de - Parfum-Eden"
+      ],
+      "cheapest": 1.15,
+      "typical": 9.95,
+      "most_reviewed": {
+        "seller": "Rossmann.de",
+        "title": "Veet Men Intim-Haarentfernungs-Set - 150 ml",
+        "reviews": 624,
+        "price_text": "10,99 €"
+      },
+      "top_rows": [
+        {
+          "seller": "Rossmann.de",
+          "title": "Veet Men Intim-Haarentfernungs-Set - 150 ml",
+          "price_text": "10,99 €",
+          "price": 10.99,
+          "rating": 4.3,
+          "reviews": 624,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:9887422651320758017,productid:17181959589370142685,headlineOfferDocid:7380231154243991127,imageDocid:9798796600947531351,rds:PC_8982541273695546786|PROD_PC_8982541273695546786,gpcid:8982541273695546786,mid:576462447225719035,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYylbSu96jkzg1f7kXrYPmGaazZoQ2KU5jASRpExCOkJCEIVWCsGj2yizXHOkeR7ymN2MR85w"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "Nair Men Hair Remover Body Cream, Quick and Easy Body Hair Removal Cream for Men, Aloe and",
+          "price_text": "18,25 €",
+          "price": 18.25,
+          "rating": 4.2,
+          "reviews": 488,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:2355589634265713117,headlineOfferDocid:2355589634265713117,imageDocid:16899243633746594547,rds:PC_14784265391505811939|PROD_PC_14784265391505811939,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWWxo4opoVyHsVwxr-cD92gC30NuBSkUB7JG5VvW9ymP2ujYfIpPjAJcBupbEhJmaUv1FxyqPS"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "Nad's for Men Hair Removal Cream - 200 ml",
+          "price_text": "36,89 €",
+          "price": 36.89,
+          "rating": 4.1,
+          "reviews": 355,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:10528516895304621829,productid:13837926964717779757,headlineOfferDocid:1528176743601842868,imageDocid:2862340084577600815,rds:PC_11272831976650395002|PROD_PC_11272831976650395002,gpcid:11272831976650395002,mid:576462509051040199,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT6TxSTj_l_IKBGxQpqdaTNrAMVwypU4RYX9cghvJppn4wYHPIJJqMDRBeV3fkTeS3ULbf9cD0"
+        },
+        {
+          "seller": "Kaufland.de - Parfum-Eden",
+          "title": "Reuzel Shave Cream",
+          "price_text": "5,55 €",
+          "price": 5.55,
+          "rating": 4.6,
+          "reviews": 324,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:15133232166091949398,productid:7784703628793143985,headlineOfferDocid:9745932403287392056,imageDocid:4016987670786187484,rds:PC_5414426390590366704|PROD_PC_5414426390590366704,gpcid:5414426390590366704,mid:576462401389806528,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTRWfHuWtzvEWoRPt6lhp7PlQKuVvFyiYoWHtVaU36vq0N-A6aox4g1mO9EwzQ"
+        },
+        {
+          "seller": "Rossmann.de",
+          "title": "Veet MEN Enthaarungscreme",
+          "price_text": "9,99 €",
+          "price": 9.99,
+          "rating": 4.2,
+          "reviews": 314,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:16657387478071009769,productid:2401244897121567258,headlineOfferDocid:5283407639975843895,imageDocid:18422963182393485362,rds:PC_12124216556649859850|PROD_PC_12124216556649859850,gpcid:12124216556649859850,mid:576462823161560492,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSyFu6v7nNyNPaI1iJgLgPDgBkeY7ZBQ26povC-eNdqOMURiMc2BP0A5R2qHr4J4k0byXbIUx0"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "Nair Men Hair Removal Body Cream 13 oz by Nair",
+          "price_text": "30,99 €",
+          "price": 30.99,
+          "rating": 4.2,
+          "reviews": 241,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:15646993722449982572,headlineOfferDocid:15646993722449982572,imageDocid:5022129168536025562,rds:PC_8461027325866130202|PROD_PC_8461027325866130202,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHr_A51l2RZ28bcMFAg_OA5rJgNJ-bjKVu4HG6kibItnE0PlnES9fOCtZeVm2KdZT2prcewiA"
+        },
+        {
+          "seller": "dm-drogerie markt",
+          "title": "Veet Expert Intim-Haarentfernungs-Set",
+          "price_text": "8,95 €",
+          "price": 8.95,
+          "rating": 3.2,
+          "reviews": 208,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:16592729446702212220,productid:13518160019128436948,headlineOfferDocid:18175450646707843327,imageDocid:4765113887574881719,rds:PC_4825977629100682443|PROD_PC_4825977629100682443,gpcid:4825977629100682443,mid:576462445978309130,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqWjvi9wLUe_ZzWadNXLTt1f7i1Sni4xnPlR_DEz2j6R0KCmNU-9X6AfYFTA"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "Mannlich Intimate/Private Hair Removal Cream for Men (100 ml) | Painless, Faster, Soothing",
+          "price_text": "18,34 €",
+          "price": 18.34,
+          "rating": 4.5,
+          "reviews": 163,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:1120106608966827221,headlineOfferDocid:1120106608966827221,imageDocid:13684654210674547006,rds:PC_8722445507421525696|PROD_PC_8722445507421525696,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSoIUzvwhsMq0LAPMIGlsbB150PjaLwweOudXksFpA5WymyxWnm76xrX9GqtYu7yZFAMx-3yqlg"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "dm-drogerie markt",
+          "title": "Veet Men Haarentfernungscreme Beine & Körper",
+          "price_text": "5,95 €",
+          "price": 5.95,
+          "rating": 2.9,
+          "reviews": 8,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:2000774619218457770,productid:1917748542718150782,headlineOfferDocid:6498006564999828482,imageDocid:14717500790209970927,rds:PC_8692584321888321157|PROD_PC_8692584321888321157,gpcid:8692584321888321157,mid:576462543145675781,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTQ3Iu5KPAUUfnEyidn9aTlMV9OvxBZwrJgFQCKXme5me_5O2RoVPwPbOoro3o6uNaPmbJlUnc"
+        },
+        {
+          "seller": "Rossmann.de",
+          "title": "Veet MEN Enthaarungscreme",
+          "price_text": "9,99 €",
+          "price": 9.99,
+          "rating": 4.2,
+          "reviews": 314,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:16657387478071009769,productid:2401244897121567258,headlineOfferDocid:5283407639975843895,imageDocid:18422963182393485362,rds:PC_12124216556649859850|PROD_PC_12124216556649859850,gpcid:12124216556649859850,mid:576462823161560492,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSyFu6v7nNyNPaI1iJgLgPDgBkeY7ZBQ26povC-eNdqOMURiMc2BP0A5R2qHr4J4k0byXbIUx0"
+        },
+        {
+          "seller": "dm-drogerie markt",
+          "title": "Balea Enthaarungscreme, 125 ml, neu&ovp",
+          "price_text": "1,15 €",
+          "price": 1.15,
+          "rating": 4.0,
+          "reviews": 84,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:13367534488109835592,productid:16057608496533269688,headlineOfferDocid:12979344526424410431,imageDocid:13386975872587109332,rds:PC_2633572447145391331|PROD_PC_2633572447145391331,gpcid:2633572447145391331,mid:576462898610960593,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrN8nJ1hWXQ9k_KS3AQXQJjkRCrQka8OoVDIZwCd82oSFGUghu0GFZhl61CVmmEWYDK_uIdTlz"
+        },
+        {
+          "seller": "Rossmann.de",
+          "title": "Veet Men Intim-Haarentfernungs-Set - 150 ml",
+          "price_text": "10,99 €",
+          "price": 10.99,
+          "rating": 4.3,
+          "reviews": 624,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:9887422651320758017,productid:17181959589370142685,headlineOfferDocid:7380231154243991127,imageDocid:9798796600947531351,rds:PC_8982541273695546786|PROD_PC_8982541273695546786,gpcid:8982541273695546786,mid:576462447225719035,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYylbSu96jkzg1f7kXrYPmGaazZoQ2KU5jASRpExCOkJCEIVWCsGj2yizXHOkeR7ymN2MR85w"
+        },
+        {
+          "seller": "Rossmann.de",
+          "title": "Veet Men Dusch Haarentfernungscreme",
+          "price_text": "7,99 €",
+          "price": 7.99,
+          "rating": 3.8,
+          "reviews": 60,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:1779163577140415058,productid:9743962386846720062,headlineOfferDocid:5734268366409309940,imageDocid:460826459289333665,rds:PC_17412998514271297357|PROD_PC_17412998514271297357,gpcid:17412998514271297357,mid:576462502591470798,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTcBkWk7piXzWp1bRJLUPtlcSy22EgzpY1adydj4172xfvHznfwWxGWGq5QI9yozglVbvdoVQzD"
+        },
+        {
+          "seller": "dm-drogerie markt",
+          "title": "Veet Expert Intim-Haarentfernungs-Set",
+          "price_text": "8,95 €",
+          "price": 8.95,
+          "rating": 3.2,
+          "reviews": 208,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:16592729446702212220,productid:13518160019128436948,headlineOfferDocid:18175450646707843327,imageDocid:4765113887574881719,rds:PC_4825977629100682443|PROD_PC_4825977629100682443,gpcid:4825977629100682443,mid:576462445978309130,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqWjvi9wLUe_ZzWadNXLTt1f7i1Sni4xnPlR_DEz2j6R0KCmNU-9X6AfYFTA"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "currency": "NZ$",
+      "status": "blocked",
+      "why": "Chemist Warehouse NZ sells it at $15.99",
+      "results": 40,
+      "distinct_sellers": 23,
+      "chains_present": [
+        "Chemist Warehouse NZ",
+        "Woolworths Supermarkets"
+      ],
+      "marketplaces_present": [
+        "Amazon AU",
+        "Amazon AU - Amazon.com.au-Seller",
+        "eBay - goodbuyingday",
+        "eBay - livingessentials_23",
+        "eBay - onlinebazar786"
+      ],
+      "cheapest": 4.32,
+      "typical": 20.83,
+      "most_reviewed": {
+        "seller": "Japan With Love",
+        "title": "Everskin Men's Hair Removal Cream Vio Area 300G Charcoal Blend Japan-made",
+        "reviews": 6200,
+        "price_text": "$30.00"
+      },
+      "top_rows": [
+        {
+          "seller": "Japan With Love",
+          "title": "Everskin Men's Hair Removal Cream Vio Area 300G Charcoal Blend Japan-made",
+          "price_text": "$30.00",
+          "price": 30.0,
+          "rating": 4.4,
+          "reviews": 6200,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:15267752551640706136,productid:13277697676892005426,headlineOfferDocid:15785717877074752052,imageDocid:9383407837357597051,rds:PC_15621454749130171921|PROD_PC_15621454749130171921,gpcid:15621454749130171921,mid:576462810920609420,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRl7dMLJMly9QMHA9hhO9I3uLSQSGbT0IqBrsXS35Hj7gly173H-koSRwyCWpfvF4g3rGkvHpT79akvUdwW1VjErmDCzi2vU_o3pmQsLHf0feRms17eVx1C"
+        },
+        {
+          "seller": "iHerb",
+          "title": "Nair Men Hair Remover Body Cream",
+          "price_text": "$32.18",
+          "price": 32.18,
+          "rating": 4.2,
+          "reviews": 491,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:8617043670219743580,productid:69286026046112791,headlineOfferDocid:359777555289974231,imageDocid:7589027847820646303,rds:PC_14784265391505811939|PROD_PC_14784265391505811939,gpcid:14784265391505811939,mid:576462317362718798,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0VrlNewN-elRlHPsSndYYR0ybMo17-iwgyOHvk5iSFUDWsPiwKGRjms-CJMrDaMEKdmdDzT7iok_ySvqBzbJYypxMSC6dljExcfPv3z_JjdF_FpP85ReUwg"
+        },
+        {
+          "seller": "Amazon AU",
+          "title": "Nair Sensitive Hair Removal Cream",
+          "price_text": "$7.71",
+          "price": 7.71,
+          "rating": 4.8,
+          "reviews": 395,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:6782742516169054539,productid:10477270456839559327,headlineOfferDocid:15879336303662126861,imageDocid:1356849121306383804,rds:PC_2329456898613645037|PROD_PC_2329456898613645037,gpcid:2329456898613645037,mid:576462549175854521,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTwrzXoWGZ2rkSYbtEwlwvU5khFK1bI-K6oeUSo1fH2LCDIXtxWgKmj0WI7Eut91nAeDeoI0duUhyarRQI0AmMZRyOj1nANLapg-tdAIknYUsPrXwCfq1TQ"
+        },
+        {
+          "seller": "Woolworths Supermarkets",
+          "title": "Nivea For Men Sensitive Shave Gel 200ml",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 4.7,
+          "reviews": 361,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:6163848187666228584,productid:17575076656142461392,headlineOfferDocid:5244845940310166757,imageDocid:6990786746095761055,rds:PC_8296720909317012453|PROD_PC_8296720909317012453,gpcid:8296720909317012453,mid:576462898016486606,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVg4EWbSHihvZXJ-MErdxBITb7N4Duxpb7fSUMi2q7ZioWv5khPzPwRWWx1IZVFuDAUWQJXf1YhV_wojREK8gfN8H_h1THMBuwYLE2IzGvJFeESy3tqtoSRw"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Nad's Nads For Men Hair Removal Cream 200ml",
+          "price_text": "$13.99",
+          "price": 13.99,
+          "rating": 4.1,
+          "reviews": 359,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:10528516895304621829,productid:5465903100708848960,headlineOfferDocid:15641839102062902409,imageDocid:10655475194771380679,rds:PC_11272831976650395002|PROD_PC_11272831976650395002,gpcid:11272831976650395002,mid:576462509051040199,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTAW-CNElY3mlEe0WyC_-rY7DcZ-Sy8n_UB4NV8r85s8x6O4m136NK7im_N5c_NrNAdyPpSa2A-yOXsp_EIQhuJMGGzk3LOOEJhcthiqykFPT1qZK0ieQoKGg"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Nad's for Men Down Under Hair Removal Cream 150ml",
+          "price_text": "$15.99",
+          "price": 15.99,
+          "rating": 3.5,
+          "reviews": 343,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:14529337991034318033,productid:2129475405331681021,headlineOfferDocid:1666446004605588069,imageDocid:16489697964366843439,rds:PC_6789133274650285897|PROD_PC_6789133274650285897,gpcid:6789133274650285897,mid:576462524876483753,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSin8Ki90IwCT8pWsrpte4YkHfdXWaEw9CBJWqeKymunOb2lezzxAsapAe5KACISDVI5Av2Lg9p2weVSDXZNGaD39ZxGbeE9Z6TG6iWgIkqwGajk718TvIseA"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Nad's For Men Down Under Hair Removal Cream 150ml",
+          "price_text": "$15.99",
+          "price": 15.99,
+          "rating": 3.5,
+          "reviews": 343,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:7120116749795009397,headlineOfferDocid:7120116749795009397,imageDocid:14883821149478057459,rds:PC_6789133274650285897|PROD_PC_6789133274650285897,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAVDCZyfQXPVuKPf-zT1rtgxMmTLizd6JUOYFmwIO-FT34iA7eF3mpcrSkjdOZgVRow1HNsi_Q6qWZYtZej5Mz9yjxCYWS"
+        },
+        {
+          "seller": "PerfumesClub NZ",
+          "title": "Veet for Men Hair Removal Gel Cream 200mL",
+          "price_text": "$9.58",
+          "price": 9.58,
+          "rating": 4.2,
+          "reviews": 314,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:16657387478071009769,productid:485881319045454397,headlineOfferDocid:8603812335982878558,imageDocid:3769954551512112603,rds:PC_12124216556649859850|PROD_PC_12124216556649859850,gpcid:12124216556649859850,mid:576462823161560492,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRO0l9ILumGaG4YnJ2F1f-A_U96QE_Vm3pLyYjMw6hEdnIzQsAF0JNR0sv90O98CQWLCOR0yBVoE0OcbKx16LYSZSQ5YelnJMTiguRLsl8Nbdsrv7u2Nmq0IQ"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Nad's for Men Down Under Hair Removal Cream 150ml",
+          "price_text": "$15.99",
+          "price": 15.99,
+          "rating": 3.5,
+          "reviews": 343,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:14529337991034318033,productid:2129475405331681021,headlineOfferDocid:1666446004605588069,imageDocid:16489697964366843439,rds:PC_6789133274650285897|PROD_PC_6789133274650285897,gpcid:6789133274650285897,mid:576462524876483753,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSin8Ki90IwCT8pWsrpte4YkHfdXWaEw9CBJWqeKymunOb2lezzxAsapAe5KACISDVI5Av2Lg9p2weVSDXZNGaD39ZxGbeE9Z6TG6iWgIkqwGajk718TvIseA"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Nad's Down Under Hair Removal Cream 150ml",
+          "price_text": "$14.99",
+          "price": 14.99,
+          "rating": 4.0,
+          "reviews": 182,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:12628423966389617176,productid:10385136732467027964,headlineOfferDocid:7632471778161355273,imageDocid:1666145134204246794,rds:PC_4864724116591905690|PROD_PC_4864724116591905690,gpcid:4864724116591905690,mid:576462790049056018,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRf-Ocnce345qXiqqDxKxNpyEcNjPLEptgqLEOKBm7hkBt24C46314l0Z1BxoPeZ_sankgcYcRLS8zgievrAtpiJjIAc-2SuVaQKgiV-Doq5laLBiIhhKdm"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Nad's Nads For Men Hair Removal Cream 200ml",
+          "price_text": "$13.99",
+          "price": 13.99,
+          "rating": 4.1,
+          "reviews": 359,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:10528516895304621829,productid:5465903100708848960,headlineOfferDocid:15641839102062902409,imageDocid:10655475194771380679,rds:PC_11272831976650395002|PROD_PC_11272831976650395002,gpcid:11272831976650395002,mid:576462509051040199,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTAW-CNElY3mlEe0WyC_-rY7DcZ-Sy8n_UB4NV8r85s8x6O4m136NK7im_N5c_NrNAdyPpSa2A-yOXsp_EIQhuJMGGzk3LOOEJhcthiqykFPT1qZK0ieQoKGg"
+        },
+        {
+          "seller": "Chemist Warehouse NZ",
+          "title": "Nad's For Men Down Under Hair Removal Cream 150ml",
+          "price_text": "$15.99",
+          "price": 15.99,
+          "rating": 3.5,
+          "reviews": 343,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=productid:7120116749795009397,headlineOfferDocid:7120116749795009397,imageDocid:14883821149478057459,rds:PC_6789133274650285897|PROD_PC_6789133274650285897,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRAVDCZyfQXPVuKPf-zT1rtgxMmTLizd6JUOYFmwIO-FT34iA7eF3mpcrSkjdOZgVRow1HNsi_Q6qWZYtZej5Mz9yjxCYWS"
+        },
+        {
+          "seller": "Woolworths Supermarkets",
+          "title": "Nivea For Men Sensitive Shave Gel 200ml",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 4.7,
+          "reviews": 361,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=mens hair removal cream&prds=catalogid:6163848187666228584,productid:17575076656142461392,headlineOfferDocid:5244845940310166757,imageDocid:6990786746095761055,rds:PC_8296720909317012453|PROD_PC_8296720909317012453,gpcid:8296720909317012453,mid:576462898016486606,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVg4EWbSHihvZXJ-MErdxBITb7N4Duxpb7fSUMi2q7ZioWv5khPzPwRWWx1IZVFuDAUWQJXf1YhV_wojREK8gfN8H_h1THMBuwYLE2IzGvJFeESy3tqtoSRw"
+        }
+      ],
+      "thin_market": false
+    }
+  ]
+}

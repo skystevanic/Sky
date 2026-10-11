@@ -577,6 +577,94 @@
    "category_notes": {
     "ca": "The photo search returned no results in Canada; Dandylion is Canadian and sold at Pet Valu."
    }
+  },
+  {
+   "slug": "hair-cream",
+   "name": "Men's Hair Removal Cream (Botane Man)",
+   "brand": "Botane Labs",
+   "url": "https://botanelabs.com/products/hair-removal-cream-botane-man",
+   "category": "Men's grooming: hair removal cream",
+   "price": "US$65",
+   "ad_days": "Oldest live ad 2026-09-08",
+   "store_platform": "Shopify",
+   "store_launched": "2026-05",
+   "store_products": "7 products: hair removal creams and a serum",
+   "one_liner": "A generic AliExpress cream (about US$5, same \"Botane Man\" label) resold at US$65, in a category where Veet, Nair and Nad's sell from US$5 and 109+ brands advertise.",
+   "verdict": "Avoid",
+   "overall": 57,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 9,
+    "margin": 9,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 2
+   },
+   "why": [
+    "Shoppers typing the product words see Veet, Nair, Nad's and No Hair Crew from about US$5 to US$25",
+    "At least 109 brands advertise \"hair removal cream\", 54 of them for 3+ months",
+    "The exact bottle, with the same Botane Man name, is on AliExpress for about US$5 and on Temu in 3 countries"
+   ],
+   "risk": "Depilatory creams can burn skin, and \"safe for intimate areas\" claims invite complaints, refunds and ad rejections.",
+   "next": [
+    "Skip it. The margin is large, but big brands own the shelf and the same bottle is on Temu"
+   ],
+   "best_region": "None. Even where copies are hidden, Veet, Nair and Nad's fill every shelf.",
+   "snapshot": {
+    "icp": "Men 25-50 who want smooth chest, back or groin without razor cuts",
+    "job": "Remove body hair in 5 minutes without shaving",
+    "cogs": "About US$5 before shipping (AliExpress)",
+    "margin": "About 90% at US$65, before ads",
+    "claims": "Safe for intimate areas, dermatologist tested, aloe vera, 5-minute rinse-off",
+    "demoable": "Yes: hairy chest before, smooth after"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells this exact bottle; chains sell Veet, Nair and Nad's"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "The same bottle is on Temu in Canada, Germany and New Zealand, and on AliExpress for about US$5"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded rather than a swarm: half the 109 brands have advertised for months"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A depilatory cosmetic: EU safety report and registration needed, and burn risk on intimate skin"
+    }
+   ],
+   "angles": [
+    "Swimmers and cyclists",
+    "Back hair you can't reach",
+    "Pre-holiday beach prep",
+    "Bodybuilding stage prep",
+    "TAKEN: \"No burn, no cuts, safe for balls\" (Botane's main message)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 1,
+    "match_name": "AliExpress (about A$8)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same green pump bottle with the same Botane Man label, sold by dozens of sellers."
+   },
+   "advertiser_takeaway": "The phrase is crowded: 109+ brands, 54 of them advertising for 3+ months, including men's specialists No Hair Crew and Männlich. Botane's own ads, run through a coach's page, only started on 8 September.",
+   "category_notes": {
+    "au": "The chain listings are other brands (Nad's, Veet), not this bottle.",
+    "us": "Target sells Veet and Nair, not this bottle."
+   }
   }
  ]
 }

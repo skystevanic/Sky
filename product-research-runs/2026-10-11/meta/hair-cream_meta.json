@@ -1,0 +1,704 @@
+{
+ "slug": "hair-cream",
+ "phrase": "hair removal cream",
+ "checked": "2026-10-11",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22hair%20removal%20cream%22",
+ "ads_loaded": 250,
+ "capped": true,
+ "stopped_by": "stopped at 250 ads (there are more)",
+ "n_advertisers": 109,
+ "advertisers_with_3_plus_ads": 29,
+ "biggest_advertiser_share": 0.08,
+ "brands_new_in_last_2_months": 39,
+ "brands_advertising_3_plus_months": 54,
+ "ads_started_last_2_months": 68,
+ "ads_older_than_6_months": 53,
+ "pattern": "crowded",
+ "plain": "At least 109 brands advertise it; 54 have kept ads running 3+ months, 39 are new in the last two months. We stopped counting at 250 ads, so the real numbers are higher. Of the 11 biggest shops we could date, 10 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2025-01": 1,
+  "2025-02": 1,
+  "2025-06": 4,
+  "2025-07": 7,
+  "2025-08": 2,
+  "2025-09": 1,
+  "2025-10": 1,
+  "2025-11": 2,
+  "2025-12": 2,
+  "2026-01": 7,
+  "2026-02": 3,
+  "2026-03": 7,
+  "2026-04": 15,
+  "2026-05": 15,
+  "2026-06": 29,
+  "2026-07": 43,
+  "2026-08": 42,
+  "2026-09": 58,
+  "2026-10": 10
+ },
+ "brand_months": {
+  "2025-01": 1,
+  "2025-02": 1,
+  "2025-06": 2,
+  "2025-07": 3,
+  "2025-08": 1,
+  "2025-11": 2,
+  "2025-12": 1,
+  "2026-01": 6,
+  "2026-02": 3,
+  "2026-03": 3,
+  "2026-04": 7,
+  "2026-05": 6,
+  "2026-06": 14,
+  "2026-07": 16,
+  "2026-08": 14,
+  "2026-09": 25,
+  "2026-10": 4
+ },
+ "top_advertisers": [
+  {
+   "name": "Mannlich",
+   "pages": 1,
+   "page_names": [
+    "Mannlich"
+   ],
+   "ads": 21,
+   "oldest_live_ad": "2026-07-03",
+   "page_likes": 371,
+   "headline": "Worried about cuts and nicks down there!?\nMannlich Intimate Hair Removal Cream chemically ",
+   "shop": "mannlich.co",
+   "product_page": "https://mannlich.co/products/mannlich-intimate-private-intimate-hair-removal-cream-men",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=697290393465176",
+   "shop_open_since": "2024-09-26"
+  },
+  {
+   "name": "Sanfe India",
+   "pages": 3,
+   "page_names": [
+    "Sanfe India",
+    "Sanfe",
+    "Sahlaa"
+   ],
+   "ads": 12,
+   "oldest_live_ad": "2026-07-29",
+   "page_likes": 3143,
+   "headline": "Facial Hair Painlessly Gone In Minutes",
+   "shop": "sanfe.in",
+   "product_page": "https://sanfe.in/products/ubtan-facial-hair-removal-cream-pack-of-3",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=975776718956180",
+   "shop_open_since": "2020-09-18"
+  },
+  {
+   "name": "NO HAIR CREW Europe",
+   "pages": 2,
+   "page_names": [
+    "NO HAIR CREW Europe",
+    "NO HAIR CREW"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2025-07-03",
+   "page_likes": 288,
+   "headline": "{{product.name}}",
+   "shop": "manor.ch",
+   "product_page": "https://www.manor.ch/de/shop/beauty/b/no-hair-crew/perfume",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=522581920931859",
+   "shop_open_since": null
+  },
+  {
+   "name": "Sterling Naturals",
+   "pages": 1,
+   "page_names": [
+    "Sterling Naturals"
+   ],
+   "ads": 8,
+   "oldest_live_ad": "2026-05-07",
+   "page_likes": 4148,
+   "headline": "Real Experience. Gentle Results.",
+   "shop": "sterlingnaturals.in",
+   "product_page": "https://sterlingnaturals.in/collections/hair-removal-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100419581509796",
+   "shop_open_since": "2024-07-12"
+  },
+  {
+   "name": "NO HAIR CREW",
+   "pages": 2,
+   "page_names": [
+    "NO HAIR CREW",
+    "NO HAIR CREW Europe"
+   ],
+   "ads": 8,
+   "oldest_live_ad": "2025-12-12",
+   "page_likes": 12184,
+   "headline": "NO HAIR CREW hair removal creams for sensitive areas.",
+   "shop": "nohaircrew.com",
+   "product_page": "https://nohaircrew.com/en-gb/collections/all",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=753855118292825",
+   "shop_open_since": "2022-10-21"
+  },
+  {
+   "name": "NO HAIR CREW",
+   "pages": 1,
+   "page_names": [
+    "NO HAIR CREW"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-07-21",
+   "page_likes": 12184,
+   "headline": "Get Smooth NOW",
+   "shop": "nohaircrew.us",
+   "product_page": "http://nohaircrew.us/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=753855118292825",
+   "shop_open_since": "2021-01-08"
+  },
+  {
+   "name": "Coach Frederic Luclos",
+   "pages": 2,
+   "page_names": [
+    "Coach Frederic Luclos",
+    "Coach Marc Laurent"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-09-08",
+   "page_likes": 1963,
+   "headline": "5 Reasons Men Are Throwing Away Their Drugstore Creams",
+   "shop": "botanelabs.com",
+   "product_page": "https://botanelabs.com/products/hair-removal-cream-botane-man",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=797062513487228",
+   "shop_open_since": "2026-05-25"
+  },
+  {
+   "name": "UrbanGabru Body Care",
+   "pages": 1,
+   "page_names": [
+    "UrbanGabru Body Care"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2025-06-15",
+   "page_likes": 782,
+   "headline": "The Choice of Modern Men!",
+   "shop": "urbangabru.in",
+   "product_page": "https://www.urbangabru.in/products/urbangabru-hair-removal-cream-spray-200ml",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106667515437042",
+   "shop_open_since": "2020-02-11"
+  },
+  {
+   "name": "Faiza Cosmetics",
+   "pages": 1,
+   "page_names": [
+    "Faiza Cosmetics"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-05-12",
+   "page_likes": 1493548,
+   "headline": "{{product.name}}",
+   "shop": "faizabeautycream.com",
+   "product_page": "https://faizabeautycream.com/collections/shop-by-problems",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=207233392642748",
+   "shop_open_since": "2025-09-18"
+  },
+  {
+   "name": "whiteningessence",
+   "pages": 2,
+   "page_names": [
+    "whiteningessence",
+    "ru_bab26"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-07-14",
+   "page_likes": 1,
+   "headline": "Say goodbye to painful hair removal! ✨🤍\n\nI’ve been using Whitening Essence Painless Hair R",
+   "shop": "whiteningessence.com",
+   "product_page": "https://whiteningessence.com/products/painless-cream-wax-1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101167215294091",
+   "shop_open_since": "2023-04-08"
+  },
+  {
+   "name": "Shop.Luuma",
+   "pages": 1,
+   "page_names": [
+    "Shop.Luuma"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2025-06-25",
+   "page_likes": 515,
+   "headline": "UP TO 50% OFF",
+   "shop": "shopluuma.com",
+   "product_page": "https://shopluuma.com/products/painless-facial-hair-removal-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=253695941171248",
+   "shop_open_since": "2025-02-02"
+  },
+  {
+   "name": "Barbara",
+   "pages": 3,
+   "page_names": [
+    "Barbara",
+    "Megan",
+    "Margaret"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-04-20",
+   "page_likes": 108,
+   "headline": "65-Year Old Ladys With Hairy Legs Read This!",
+   "shop": "simplesnatched.com",
+   "product_page": "https://simplesnatched.com/apps/pagefly/preview",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=864085113463289",
+   "shop_open_since": "2025-08-14"
+  },
+  {
+   "name": "Namyaa Care",
+   "pages": 1,
+   "page_names": [
+    "Namyaa Care"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-04-23",
+   "page_likes": 1841,
+   "headline": "{{product.name}}",
+   "shop": "zeptonow.com",
+   "product_page": "http://www.zeptonow.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=118581391136317",
+   "shop_open_since": null
+  },
+  {
+   "name": "Namyaa Care",
+   "pages": 1,
+   "page_names": [
+    "Namyaa Care"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-06-25",
+   "page_likes": 1841,
+   "headline": "{{product.name}}",
+   "shop": "blinkit.com",
+   "product_page": "https://blinkit.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=118581391136317",
+   "shop_open_since": null
+  },
+  {
+   "name": "NO HAIR CREW",
+   "pages": 1,
+   "page_names": [
+    "NO HAIR CREW"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2025-02-18",
+   "page_likes": 12184,
+   "headline": "{{product.name}}",
+   "shop": "dm.at",
+   "product_page": "https://www.dm.at/search",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=753855118292825",
+   "shop_open_since": null
+  },
+  {
+   "name": "NO HAIR CREW Europe",
+   "pages": 2,
+   "page_names": [
+    "NO HAIR CREW Europe",
+    "NO HAIR CREW"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-04-04",
+   "page_likes": 288,
+   "headline": "{{product.name}}",
+   "shop": "dm.de",
+   "product_page": "https://www.dm.de/search",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=522581920931859",
+   "shop_open_since": null
+  },
+  {
+   "name": "Patricia Lyn",
+   "pages": 1,
+   "page_names": [
+    "Patricia Lyn"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-06-27",
+   "page_likes": 102,
+   "headline": "{{product.name}}",
+   "shop": "shopee.co.id",
+   "product_page": "http://shopee.co.id/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1137736959430032",
+   "shop_open_since": null
+  },
+  {
+   "name": "Flamingo",
+   "pages": 1,
+   "page_names": [
+    "Flamingo"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-08-27",
+   "page_likes": 36138,
+   "headline": "Shop Flamingo",
+   "shop": "shopflamingo.com",
+   "product_page": "https://www.shopflamingo.com/products/facial-hair-removal-cream/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=203619540206883",
+   "shop_open_since": null
+  },
+  {
+   "name": "Milk recipe  shop",
+   "pages": 1,
+   "page_names": [
+    "Milk recipe  shop"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-08-31",
+   "page_likes": 13,
+   "headline": "{{product.name}}",
+   "shop": "shopee.co.id",
+   "product_page": "https://shopee.co.id/shop/759264919",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111661865283084",
+   "shop_open_since": null
+  },
+  {
+   "name": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+   "pages": 1,
+   "page_names": [
+    "Dr. Amy Spence M.D I Board Certified Dermatologist"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-06-21",
+   "page_likes": 109,
+   "headline": "Stop shaving your face (and skip the $1,000 laser) 🛑",
+   "shop": "meravae.co",
+   "product_page": "https://meravae.co/pages/smoothv2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1022502870936914",
+   "shop_open_since": null
+  },
+  {
+   "name": "Boots UK",
+   "pages": 1,
+   "page_names": [
+    "Boots UK"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-15",
+   "page_likes": 1411068,
+   "headline": "{{product.name}}",
+   "shop": "boots.com",
+   "product_page": "https://www.boots.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=137917343831",
+   "shop_open_since": null
+  },
+  {
+   "name": "NO HAIR CREW Europe",
+   "pages": 1,
+   "page_names": [
+    "NO HAIR CREW Europe"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2025-07-03",
+   "page_likes": 288,
+   "headline": "{{product.name}}",
+   "shop": "brack.ch",
+   "product_page": "https://www.brack.ch/search",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=522581920931859",
+   "shop_open_since": null
+  },
+  {
+   "name": "Rossmann Polska",
+   "pages": 1,
+   "page_names": [
+    "Rossmann Polska"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 718881,
+   "headline": "Rossmann Polska",
+   "shop": "rossmann.pl",
+   "product_page": "https://www.rossmann.pl/produkty",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=491061721053365",
+   "shop_open_since": null
+  },
+  {
+   "name": "Shopee",
+   "pages": 1,
+   "page_names": [
+    "Shopee"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-07-19",
+   "page_likes": 13101,
+   "headline": "Shopee: https://s.shopee.ph/30lHpT8hpM \n\nAng kati na kaya mag\ntanggal natayo ng vulv0l 🤣😅\n",
+   "shop": "s.shopee.ph",
+   "product_page": "https://s.shopee.ph/30lHpT8hpM",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1405090646463166",
+   "shop_open_since": null
+  },
+  {
+   "name": "SYB Show Your Beauty",
+   "pages": 1,
+   "page_names": [
+    "SYB Show Your Beauty"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-06-18",
+   "page_likes": 950,
+   "headline": "Lanjut Checkout Hair Removal Cream",
+   "shop": "fb.com",
+   "product_page": "https://fb.com/canvas_doc/1331792224958258",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=124835984057259",
+   "shop_open_since": null
+  },
+  {
+   "name": "23hero",
+   "pages": 1,
+   "page_names": [
+    "23hero"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-06-24",
+   "page_likes": 835,
+   "headline": "Grooming just got effortless.",
+   "shop": "23hero.com",
+   "product_page": "https://www.23hero.com/products/hair-removal",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=544376008767417",
+   "shop_open_since": null
+  },
+  {
+   "name": "DimSun Cosmetics ",
+   "pages": 3,
+   "page_names": [
+    "DimSun Cosmetics ",
+    "NailedTea",
+    "Maridadi Skincare Kenya "
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-04-28",
+   "page_likes": 548,
+   "headline": "Message Us for Your Order and More Info on\nWhatsApp 0521891836\nDelivery Available All over",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=548900531640079",
+   "shop_open_since": null
+  },
+  {
+   "name": "Namyaa",
+   "pages": 2,
+   "page_names": [
+    "Namyaa",
+    "Namyaa Care"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-08-26",
+   "page_likes": 1841,
+   "headline": "3 Easy Steps to Bikini Perfection",
+   "shop": "namyaa.in",
+   "product_page": "https://namyaa.in/products/namyaa-hair-removal-cream-spray",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=118581391136317",
+   "shop_open_since": null
+  },
+  {
+   "name": "womn",
+   "pages": 1,
+   "page_names": [
+    "womn"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-07-18",
+   "page_likes": 1429,
+   "headline": "{{product.name}}",
+   "shop": "amazon.co.uk",
+   "product_page": "https://www.amazon.co.uk/dp/B0C59YG76X",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109227098764284",
+   "shop_open_since": null
+  },
+  {
+   "name": "Getkekka",
+   "pages": 1,
+   "page_names": [
+    "Getkekka"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-21",
+   "page_likes": 2269,
+   "headline": "{{product.name}}",
+   "shop": "getkekka.com",
+   "product_page": "https://getkekka.com/products/raze-stik",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=908964382301520",
+   "shop_open_since": null
+  },
+  {
+   "name": "Beauty Care",
+   "pages": 1,
+   "page_names": [
+    "Beauty Care"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-05-30",
+   "page_likes": 12876,
+   "headline": "💞 হোম ডেলিভারি চার্জ সম্পূর্ণ ফ্রি",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=275331045674755",
+   "shop_open_since": null
+  },
+  {
+   "name": "Cosmic Thailand",
+   "pages": 1,
+   "page_names": [
+    "Cosmic Thailand"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-23",
+   "page_likes": 207421,
+   "headline": "Cosmic Thailand",
+   "shop": "s.shopee.co.th",
+   "product_page": "https://s.shopee.co.th/111ZJXvAOS",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103246064987963",
+   "shop_open_since": null
+  },
+  {
+   "name": "Golden Pearl Cosmetics",
+   "pages": 1,
+   "page_names": [
+    "Golden Pearl Cosmetics"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-22",
+   "page_likes": 1504075,
+   "headline": "{{product.name}}",
+   "shop": "goldenpearl.com.pk",
+   "product_page": "https://goldenpearl.com.pk/collections/bundles-products",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=274482209294259",
+   "shop_open_since": null
+  },
+  {
+   "name": "Nisa Naturals",
+   "pages": 1,
+   "page_names": [
+    "Nisa Naturals"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-11",
+   "page_likes": 15832,
+   "headline": "{{product.name}}",
+   "shop": "nisanaturals.pk",
+   "product_page": "https://nisanaturals.pk/collections/best-seller",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=215695968301665",
+   "shop_open_since": null
+  },
+  {
+   "name": "Elmore Beauty",
+   "pages": 1,
+   "page_names": [
+    "Elmore Beauty"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-22",
+   "page_likes": 149178,
+   "headline": "{{product.name}}",
+   "shop": "shopelmore.com",
+   "product_page": "https://shopelmore.com/collections/bundles",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=332602753523967",
+   "shop_open_since": null
+  },
+  {
+   "name": "Manchestore",
+   "pages": 1,
+   "page_names": [
+    "Manchestore"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-09",
+   "page_likes": 16585,
+   "headline": "🌿🪒 Razor burn leaving you red? Waxing rips and stings? Gentle hair removal cream – apply, ",
+   "shop": "manchestore.com",
+   "product_page": "https://manchestore.com/products/gentle-hair-removal-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=628222010382538",
+   "shop_open_since": null
+  },
+  {
+   "name": "Madeformen.cz",
+   "pages": 1,
+   "page_names": [
+    "Madeformen.cz"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-12",
+   "page_likes": 470,
+   "headline": "Madeformen.cz",
+   "shop": "madeformen.cz",
+   "product_page": "https://www.madeformen.cz/depilace-tela/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=317319634793098",
+   "shop_open_since": null
+  },
+  {
+   "name": "Britneed uk",
+   "pages": 1,
+   "page_names": [
+    "Britneed uk"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-01-09",
+   "page_likes": 485,
+   "headline": "Painless Hair Removal — Cool, Smooth & Radiant Skin! 🧊✨\n\nSay goodbye to painful hair remov",
+   "shop": "britneed.com",
+   "product_page": "https://britneed.com/products/ice-cooling-hair",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=619242757947917",
+   "shop_open_since": null
+  },
+  {
+   "name": "NO HAIR CREW",
+   "pages": 1,
+   "page_names": [
+    "NO HAIR CREW"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-11",
+   "page_likes": 12184,
+   "headline": "{{product.name}}",
+   "shop": "amazon.de",
+   "product_page": "https://www.amazon.de/dp/B07F84MRMV",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=753855118292825",
+   "shop_open_since": null
+  },
+  {
+   "name": "Boomforing",
+   "pages": 1,
+   "page_names": [
+    "Boomforing"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-04-20",
+   "page_likes": 4763,
+   "headline": "Smooth skin in 5–10 minutes—no razor, no pain! ✨🧴\n Our gentle herbal hair removal cream di",
+   "shop": "boomforing.com",
+   "product_page": "https://boomforing.com/products/hair-removal-cream-3",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111695234694578",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "mannlich.co": 21,
+  "sanfe.in": 12,
+  "shopee.co.id": 12,
+  "manor.ch": 10,
+  "sterlingnaturals.in": 8,
+  "nohaircrew.com": 8,
+  "nohaircrew.us": 7,
+  "botanelabs.com": 7,
+  "urbangabru.in": 6,
+  "fb.com": 5,
+  "faizabeautycream.com": 5,
+  "whiteningessence.com": 5,
+  "shopluuma.com": 5,
+  "simplesnatched.com": 5,
+  "zeptonow.com": 4,
+  "blinkit.com": 4,
+  "dm.at": 4,
+  "dm.de": 4,
+  "shopflamingo.com": 4,
+  "meravae.co": 4,
+  "boots.com": 3,
+  "brack.ch": 3,
+  "rossmann.pl": 3,
+  "s.shopee.ph": 3,
+  "23hero.com": 3
+ },
+ "cost_usd": 1.21,
+ "shops_checked": 11,
+ "shops_over_a_year_old": 10,
+ "shops_under_4_months_old": 0
+}

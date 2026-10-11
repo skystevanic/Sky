@@ -5469,6 +5469,2389 @@
    }
   },
   {
+   "slug": "hair-cream",
+   "name": "Men's Hair Removal Cream (Botane Man)",
+   "one_liner": "A generic AliExpress cream (about US$5, same \"Botane Man\" label) resold at US$65, in a category where Veet, Nair and Nad's sell from US$5 and 109+ brands advertise.",
+   "url": "https://botanelabs.com/products/hair-removal-cream-botane-man",
+   "brand": "Botane Labs",
+   "category": "Men's grooming: hair removal cream",
+   "price": "US$65",
+   "ad_days": "Oldest live ad 2026-09-08",
+   "store_platform": "Shopify",
+   "store_launched": "2026-05",
+   "store_products": "7 products: hair removal creams and a serum",
+   "snapshot": {
+    "icp": "Men 25-50 who want smooth chest, back or groin without razor cuts",
+    "job": "Remove body hair in 5 minutes without shaving",
+    "cogs": "About US$5 before shipping (AliExpress)",
+    "margin": "About 90% at US$65, before ads",
+    "claims": "Safe for intimate areas, dermatologist tested, aloe vera, 5-minute rinse-off",
+    "demoable": "Yes: hairy chest before, smooth after"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells this exact bottle; chains sell Veet, Nair and Nad's"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "The same bottle is on Temu in Canada, Germany and New Zealand, and on AliExpress for about US$5"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded rather than a swarm: half the 109 brands have advertised for months"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "A depilatory cosmetic: EU safety report and registration needed, and burn risk on intimate skin"
+    }
+   ],
+   "scores": {
+    "saturated": 9,
+    "margin": 9,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 2
+   },
+   "overall": 57,
+   "confidence": "Medium",
+   "best_region": "None. Even where copies are hidden, Veet, Nair and Nad's fill every shelf.",
+   "angles": [
+    "Swimmers and cyclists",
+    "Back hair you can't reach",
+    "Pre-holiday beach prep",
+    "Bodybuilding stage prep",
+    "TAKEN: \"No burn, no cuts, safe for balls\" (Botane's main message)"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "Shoppers typing the product words see Veet, Nair, Nad's and No Hair Crew from about US$5 to US$25",
+     "At least 109 brands advertise \"hair removal cream\", 54 of them for 3+ months",
+     "The exact bottle, with the same Botane Man name, is on AliExpress for about US$5 and on Temu in 3 countries"
+    ],
+    "risk": "Depilatory creams can burn skin, and \"safe for intimate areas\" claims invite complaints, refunds and ad rejections.",
+    "fastest_test": [
+     "Skip it. The margin is large, but big brands own the shelf and the same bottle is on Temu"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "The chain listings are other brands (Nad's, Veet), not this bottle.",
+     "sellers": 31,
+     "cheapest": "A$4",
+     "typical": "A$25",
+     "top": "khangroup.com.au (4300)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "Target sells Veet and Nair, not this bottle.",
+     "sellers": 32,
+     "cheapest": "US$3",
+     "typical": "US$15",
+     "top": "harrys.com (3900)"
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "Superdrug.com sells it at £3.99",
+     "sellers": 25,
+     "cheapest": "£2",
+     "typical": "£9",
+     "top": "eBay - 365essential (4200)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "London Drugs sells it at $9.99",
+     "sellers": 22,
+     "cheapest": "C$1",
+     "typical": "C$33",
+     "top": "Desertcart.ae (4200)"
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "dm-drogerie markt sells it at 5,95 €",
+     "sellers": 22,
+     "cheapest": "€1",
+     "typical": "€10",
+     "top": "Rossmann.de (624)"
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "Chemist Warehouse NZ sells it at $15.99",
+     "sellers": 23,
+     "cheapest": "NZ$4",
+     "typical": "NZ$21",
+     "top": "Japan With Love (6200)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 25,500 reviews; 12 of the first 20 have 1,000+; at least 2,750 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 25500,
+     "n_1000_plus": 12,
+     "cheapest": "A$7",
+     "typical": "A$19",
+     "bought_last_month_min": 2750,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+       "price_text": "$7.39",
+       "price": 7.39,
+       "rating": 4.1,
+       "reviews": 25500,
+       "bought_text": "700+ bought in past month",
+       "bought": 700,
+       "sponsored": true,
+       "badges": [
+        "Amazon's Choice for \"mens hair removal cream\""
+       ],
+       "link": "https://www.amazon.com.au/dp/B003JFJF5E/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+       "price_text": "$7.39",
+       "price": 7.39,
+       "rating": 4.1,
+       "reviews": 25500,
+       "bought_text": "700+ bought in past month",
+       "bought": 700,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"mens hair removal cream\""
+       ],
+       "link": "https://www.amazon.com.au/Nads-Hair-Removal-Cream-200ml/dp/B003JFJF5E/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Nad's For Men Hair Removal Cream, Depilatory Cream, Hair Removal Cream for Men for Chest, ",
+       "price_text": "$14.78",
+       "price": 14.78,
+       "rating": 4.1,
+       "reviews": 25500,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Nads-Men-Removal-Cream-Depilatory/dp/B0D14YLCF4/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71g8hZtwnpL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 26,200 reviews; 10 of the first 20 have 1,000+; at least 46,500 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 26200,
+     "n_1000_plus": 10,
+     "cheapest": "US$10",
+     "typical": "US$19",
+     "bought_last_month_min": 46500,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 6.8oz",
+       "price_text": "$9.78",
+       "price": 9.78,
+       "rating": 3.9,
+       "reviews": 26200,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Nads-Men-Hair-Removal-Cream/dp/B003JFJF5E/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "No Hair Crew Intimate/Private At Home Hair Removal Cream for Men - Painless, Flawless, Soo",
+       "price_text": "$16.99",
+       "price": 16.99,
+       "rating": 4.0,
+       "reviews": 17800,
+       "bought_text": "10K+ bought in past month",
+       "bought": 10000,
+       "sponsored": true,
+       "badges": [
+        "Overall Pick"
+       ],
+       "link": "https://www.amazon.com/dp/B08D67MF73/",
+       "thumbnail": "https://m.media-amazon.com/images/I/813xo7q03iL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "No Hair Crew Intimate/Private At Home Hair Removal Cream for Men - Painless, Flawless, Soo",
+       "price_text": "$16.99",
+       "price": 16.99,
+       "rating": 4.0,
+       "reviews": 17800,
+       "bought_text": "10K+ bought in past month",
+       "bought": 10000,
+       "sponsored": false,
+       "badges": [
+        "Overall Pick"
+       ],
+       "link": "https://www.amazon.com/Hair-Intimate-Private-Removal-Cream/dp/B08D67MF73/",
+       "thumbnail": "https://m.media-amazon.com/images/I/813xo7q03iL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 29,400 reviews; 10 of the first 20 have 1,000+; at least 26,400 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 29400,
+     "n_1000_plus": 10,
+     "cheapest": "£6",
+     "typical": "£11",
+     "bought_last_month_min": 26400,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "NO HAIR CREW Intimate Hair Removal Cream for Men 100 ml – The Original",
+       "price_text": "£9.95",
+       "price": 9.95,
+       "rating": 4.0,
+       "reviews": 29400,
+       "bought_text": "7K+ bought in past month",
+       "bought": 7000,
+       "sponsored": true,
+       "badges": [
+        "Amazon's Choice for \"mens hair removal cream\""
+       ],
+       "link": "https://www.amazon.co.uk/dp/B07F84MRMV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71AJ8SNjyBL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "NO HAIR CREW Intimate Hair Removal Cream for Men 100 ml – The Original",
+       "price_text": "£9.95",
+       "price": 9.95,
+       "rating": 4.0,
+       "reviews": 29400,
+       "bought_text": "7K+ bought in past month",
+       "bought": 7000,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"mens hair removal cream\""
+       ],
+       "link": "https://www.amazon.co.uk/NO-HAIR-CREW-Premium-Intimate/dp/B07F84MRMV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71AJ8SNjyBL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+       "price_text": "£8.99",
+       "price": 8.99,
+       "rating": 4.0,
+       "reviews": 25600,
+       "bought_text": "800+ bought in past month",
+       "bought": 800,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Nads-Hair-Removal-Cream-200ml/dp/B003JFJF5E/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 29,000 reviews; 14 of the first 20 have 1,000+; at least 6,300 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 29000,
+     "n_1000_plus": 14,
+     "cheapest": "C$10",
+     "typical": "C$23",
+     "bought_last_month_min": 6300,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "NO HAIR CREW Intimate Hair Removal Cream - Extra Gentle Depilatory Cream for Sensitive Are",
+       "price_text": "$23.90",
+       "price": 23.9,
+       "rating": 4.0,
+       "reviews": 29000,
+       "bought_text": "900+ bought in past month",
+       "bought": 900,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"mens hair removal cream\""
+       ],
+       "link": "https://www.amazon.ca/NO-HAIR-CREW-Depilatory-Intimate/dp/B07F84MRMV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71AJ8SNjyBL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Nad's for Men Hair Removal Cream 6.8 oz",
+       "price_text": "$23.12",
+       "price": 23.12,
+       "rating": 3.6,
+       "reviews": 25500,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Nads-Men-Hair-Removal-Cream/dp/B003JFJF5E/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "No Hair Crew Intimate/Private At Home Hair Removal Cream for Men - Painless, Flawless, Soo",
+       "price_text": "$29.99",
+       "price": 29.99,
+       "rating": 3.9,
+       "reviews": 15400,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Hair-Intimate-Private-Removal-Cream/dp/B08D67MF73/",
+       "thumbnail": "https://m.media-amazon.com/images/I/813xo7q03iL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 29,400 reviews; 13 of the first 20 have 1,000+; at least 12,600 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 29400,
+     "n_1000_plus": 13,
+     "cheapest": "€5",
+     "typical": "€13",
+     "bought_last_month_min": 12600,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "NO HAIR CREW Intimbereich Enthaarungscreme für Männer 100 ml – Das Original",
+       "price_text": "€9.95",
+       "price": 9.95,
+       "rating": 3.7,
+       "reviews": 29400,
+       "bought_text": "3K+ bought in past month",
+       "bought": 3000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/NO-HAIR-CREW-SHAV014/dp/B07F84MRMV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71AJ8SNjyBL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Veet Men Hair Removal Cream, 200 ml",
+       "price_text": "€9.95",
+       "price": 9.95,
+       "rating": 4.2,
+       "reviews": 6400,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Veet-Men-Hair-Removal-Cream/dp/B00KX3PF22/",
+       "thumbnail": "https://m.media-amazon.com/images/I/514YldxOUrL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Veet Men Intimate Hair Removal Kit for Men with Nourishing Balm 150ml",
+       "price_text": "€8.79",
+       "price": 8.79,
+       "rating": 3.8,
+       "reviews": 5000,
+       "bought_text": "5K+ bought in past month",
+       "bought": 5000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Veet-Intimate-Removal-Nourishing-150ml/dp/B09NQT7W3J/",
+       "thumbnail": "https://m.media-amazon.com/images/I/710uuTiqBXL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "high",
+     "why": "top listing 25,500 reviews; 12 of the first 20 have 1,000+; at least 2,750 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 25500,
+     "n_1000_plus": 12,
+     "cheapest": "A$7",
+     "typical": "A$19",
+     "bought_last_month_min": 2750,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+       "price_text": "$7.39",
+       "price": 7.39,
+       "rating": 4.1,
+       "reviews": 25500,
+       "bought_text": "700+ bought in past month",
+       "bought": 700,
+       "sponsored": true,
+       "badges": [
+        "Amazon's Choice for \"mens hair removal cream\""
+       ],
+       "link": "https://www.amazon.com.au/dp/B003JFJF5E/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Nad's For Men Hair Removal Cream, Body Depilatory for Coarse Hair, 200ml",
+       "price_text": "$7.39",
+       "price": 7.39,
+       "rating": 4.1,
+       "reviews": 25500,
+       "bought_text": "700+ bought in past month",
+       "bought": 700,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"mens hair removal cream\""
+       ],
+       "link": "https://www.amazon.com.au/Nads-Hair-Removal-Cream-200ml/dp/B003JFJF5E/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p+MbEAacL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Nad's For Men Hair Removal Cream, Depilatory Cream, Hair Removal Cream for Men for Chest, ",
+       "price_text": "$14.78",
+       "price": 14.78,
+       "rating": 4.1,
+       "reviews": 25500,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Nads-Men-Removal-Cream-Depilatory/dp/B0D14YLCF4/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71g8hZtwnpL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "rising",
+     "growth_pct": 88,
+     "seasonal": false,
+     "peak_months": [
+      "Apr",
+      "Aug",
+      "Sep"
+     ],
+     "months_to_peak": null,
+     "now_vs_high": 34,
+     "avg_last_year": 55.1,
+     "spike": false,
+     "zero_share": 0.0,
+     "why": "A typical week in the last 12 months is +88% on the year before",
+     "line": [
+      20,
+      17,
+      21,
+      20,
+      21,
+      26,
+      22,
+      24,
+      20,
+      22,
+      20,
+      25,
+      24,
+      25,
+      32,
+      24,
+      34,
+      28,
+      33,
+      34,
+      38,
+      40,
+      43,
+      48,
+      40,
+      41,
+      46,
+      48,
+      36,
+      36,
+      36,
+      34,
+      32,
+      32,
+      38,
+      41,
+      46,
+      54,
+      94,
+      86,
+      68,
+      83,
+      67,
+      72,
+      57,
+      49,
+      46,
+      56,
+      76,
+      88,
+      76,
+      38,
+      34
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "weak",
+     "why": "2 copies, all hard to find. Cheapest: eBay Australia at A$10 (found only by photo)",
+     "prices": {
+      "brand": 97.5,
+      "cheapest_copy": 10.0,
+      "typical_copy": 12.0,
+      "cheapest_real_copy": null,
+      "priced_copies": 2
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "eBay Australia",
+       "title": "Botane Man Hair Removal Cream 60ml Natural Intimate Hair ...",
+       "link": "https://www.ebay.com.au/itm/187578377239",
+       "price_text": "A$10",
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_00.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay Australia",
+       "title": "Botane Man Hair Removal Cream 60ml Natural Aloe Intimate ...",
+       "link": "https://www.ebay.com.au/itm/136482002088",
+       "price_text": "A$12",
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_02.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "us",
+     "status": "weak",
+     "why": "8 copies, all hard to find. Cheapest: Amazon.com (found only by photo)",
+     "prices": {
+      "brand": 65.0,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: 2Pcs Botane Man Hair Removal, Botane Hair ...",
+       "link": "https://www.amazon.com/clp/B0FV83SB7Z",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_07.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Botane Man Hair Removal, 3.38 Fl Oz Hair Removal ...",
+       "link": "https://www.amazon.com/clp/B0FQBX63LV",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_08.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Man Hair Removal Cream with Natural Aloe Vera ...",
+       "link": "https://www.amazon.com/clp/B0FPQJ176R",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_16.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Walmart",
+       "title": "COCDLAN Hair Care in Beauty - Walmart.com",
+       "link": "https://www.walmart.com/browse/beauty/hair-care/cocdlan/1085666_3147628/YnJhbmQ6Q09DRExBTgieie",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/hair-cream_thumb_20.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Wenrny Men's Beard Hair Removal Cream,2 Pcs 1.8 ...",
+       "link": "https://www.amazon.com/clp/B0DXZ44373",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_23.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay",
+       "title": "25+ Liquid Hair Removal Creams & Sprays for sale | Updated ...",
+       "link": "https://www.ebay.com/b/Liquid-Hair-Removal-Creams-Sprays/47925/bn_114821926",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_24.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: SUZUKI HERB LABORATORY Hair Removal Cream, 8.1 ...",
+       "link": "https://www.amazon.com/clp/B0C65QD4K8",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_29.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Superior Mane Hair Removal Spray for Men ...",
+       "link": "https://www.amazon.com/clp/B0FGCT29VM",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_31.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "uk",
+     "status": "weak",
+     "why": "7 copies, all hard to find. Cheapest: eBay UK at £8 (found only by photo)",
+     "prices": {
+      "brand": 48.75,
+      "cheapest_copy": 8.0,
+      "typical_copy": 11.0,
+      "cheapest_real_copy": null,
+      "priced_copies": 3
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "eBay UK",
+       "title": "1/2/3/5PC Botane Man Hair Removal Cream Natural Aloe Vera ...",
+       "link": "https://www.ebay.co.uk/itm/187804094259?_skw=Hair+Removal+Creams+&+Sprays&var=695565162809&hash=item2bb9ff0f33:g:R98AAeSwPelpMQG4&mkevt=1&mkcid=1&mkrid=710-53481-19255-0&campid=5337607145&customid=123&toolid=10049",
+       "price_text": "£8",
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_03.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Fruugo",
+       "title": "1-3X Botane Man Aloe Vera Depilatory Cream for Fast Hair ...",
+       "link": "https://www.fruugo.co.uk/1-3x-botane-man-aloe-vera-depilatory-cream-for-fast-hair-removal-face-body-sensitive/p-429049247",
+       "price_text": null,
+       "kind": "other store",
+       "thumb_file": "lens/hair-cream_thumb_05.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay UK",
+       "title": "Unbranded Hair Removal Creams & Sprays for sale | eBay UK",
+       "link": "https://www.ebay.co.uk/b/bn_7025298357",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_09.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Botane Man Hair Removal Cream, Men's Hair Removal Cream ...",
+       "link": "https://www.amazon.co.uk/Botane-Removal-Cream-Natural-Intimate/dp/B0FV2YBHJW",
+       "price_text": "£11",
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_13.jpg",
+       "looked_up": true,
+       "reviews": 8,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 8 reviews"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Botane Man Hair Removal Cream, Intimate Hair Removal Cream ...",
+       "link": "https://www.amazon.co.uk/Intimate-Fast-Acting-Moisturizing-Non-Sticky-Pain-Free/dp/B0FVY5MS5J",
+       "price_text": "£17",
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_14.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Men Intimate Hair Removal Cream Hydrating Depilatory ...",
+       "link": "https://www.amazon.co.uk/Intimate-Removal-Cream-Hydrating-Depilatory/dp/B0GX5N6856",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_21.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay UK",
+       "title": "Hair Removal Creams for sale | eBay UK",
+       "link": "https://www.ebay.co.uk/b/bn_557302",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_32.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "ca",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein. 3 other copies",
+     "prices": {
+      "brand": 89.05,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.ca",
+       "title": "Botane Man Hair Removal Cream, Quick & Gentle No-Shave Hair ...",
+       "link": "https://www.amazon.ca/No-Shave-Intimate-Fast-Acting-Moisturizing-Non-Sticky/dp/B0FQ5VN5D5",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_17.jpg",
+       "looked_up": true,
+       "reviews": 9,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 9 reviews"
+      },
+      {
+       "source": "Temu",
+       "title": "60ml mousse long lasting hydration - Temu Mongolia",
+       "link": "https://www.temu.com/mn-en/60ml--mousse-long-lasting-hydration-and-moisture-nourishes-the-skin--removes-hair-mild-and-non-irritating-suitable-for--men-and--as-a-birthday-gift-g-605956549238817.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_18.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Quick & Gentle No-Shave Hair Removal Spray for Face, Botane ...",
+       "link": "https://www.amazon.ca/No-Shave-Intimate-Fast-Acting-Moisturizing-Non-Sticky/dp/B0H2FJQJ57",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_34.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Botane Man Crème dépilatoire rapide et douce sans rasage ...",
+       "link": "https://www.amazon.ca/-/fr/Botane-dépilatoire-intimes-hydratante-collante/dp/B0FQ5XFKBX",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_36.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein. 1 other copy",
+     "prices": {
+      "brand": 55.9,
+      "cheapest_copy": 15.0,
+      "typical_copy": 15.0,
+      "cheapest_real_copy": null,
+      "priced_copies": 1
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.de",
+       "title": "Botane Man Hair Removal Cream,Botane Hair Removal Cream for ...",
+       "link": "https://www.amazon.de/Removal-Enthaarungscreme-intimbereich-haarentfernungscreme-empfindliche/dp/B0FQPH6N3H",
+       "price_text": "€15",
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_04.jpg",
+       "looked_up": true,
+       "reviews": 1,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 1 reviews"
+      },
+      {
+       "source": "Temu",
+       "title": "60ml mousse long lasting hydration - Temu Mongolia",
+       "link": "https://www.temu.com/mn-en/60ml--mousse-long-lasting-hydration-and-moisture-nourishes-the-skin--removes-hair-mild-and-non-irritating-suitable-for--men-and--as-a-birthday-gift-g-605956549238817.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_18.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein",
+     "prices": {
+      "brand": 109.2,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Temu",
+       "title": "60ml mousse long lasting hydration - Temu Mongolia",
+       "link": "https://www.temu.com/mn-en/60ml--mousse-long-lasting-hydration-and-moisture-nourishes-the-skin--removes-hair-mild-and-non-irritating-suitable-for--men-and--as-a-birthday-gift-g-605956549238817.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/hair-cream_thumb_18.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      }
+     ],
+     "picture_matches": 59
+    }
+   ],
+   "lens_sheet": "lens/hair-cream_sheet.jpg",
+   "supplier": {
+    "slug": "hair-cream",
+    "brand_price": 65.0,
+    "brand_currency": "usd",
+    "words": "botane man hair removal cream",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-botane-man-hair-removal-cream.html",
+    "listings": [
+     {
+      "n": 1,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Botane Man Gentle Hair Removal Mousse Aloe Vera Painless ...",
+      "link": "https://www.aliexpress.com/item/1005012822453541.html",
+      "thumb_file": "lens/hair-cream_thumb_01.jpg",
+      "price_seen_in_search": "A$8*",
+      "price": 8.0,
+      "currency": "aud",
+      "shipping": null,
+      "note": "Price shown in the picture search; shipping not included",
+      "delivered_cost_usd": 5.33
+     }
+    ],
+    "summary": {
+     "found": 1,
+     "priced": 1,
+     "brand_price_usd": 65.0,
+     "status": "priced",
+     "cost_usd": 5.33,
+     "cost_site": "AliExpress",
+     "cost_includes_shipping": false,
+     "margin_pct": 92,
+     "room_per_sale_usd": 59.67,
+     "plain": "AliExpress sells it for about US$5 before shipping. At the brand's price of about US$65 that leaves about US$60 a sale (92%) to cover ads, payment fees and profit."
+    }
+   },
+   "meta": {
+    "slug": "hair-cream",
+    "phrase": "hair removal cream",
+    "checked": "2026-10-11",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22hair%20removal%20cream%22",
+    "ads_loaded": 250,
+    "capped": true,
+    "stopped_by": "stopped at 250 ads (there are more)",
+    "n_advertisers": 109,
+    "advertisers_with_3_plus_ads": 29,
+    "biggest_advertiser_share": 0.08,
+    "brands_new_in_last_2_months": 39,
+    "brands_advertising_3_plus_months": 54,
+    "ads_started_last_2_months": 68,
+    "ads_older_than_6_months": 53,
+    "pattern": "crowded",
+    "plain": "At least 109 brands advertise it; 54 have kept ads running 3+ months, 39 are new in the last two months. We stopped counting at 250 ads, so the real numbers are higher. Of the 11 biggest shops we could date, 10 are over a year old and 0 opened in the last four months.",
+    "months": {
+     "2025-01": 1,
+     "2025-02": 1,
+     "2025-06": 4,
+     "2025-07": 7,
+     "2025-08": 2,
+     "2025-09": 1,
+     "2025-10": 1,
+     "2025-11": 2,
+     "2025-12": 2,
+     "2026-01": 7,
+     "2026-02": 3,
+     "2026-03": 7,
+     "2026-04": 15,
+     "2026-05": 15,
+     "2026-06": 29,
+     "2026-07": 43,
+     "2026-08": 42,
+     "2026-09": 58,
+     "2026-10": 10
+    },
+    "brand_months": {
+     "2025-01": 1,
+     "2025-02": 1,
+     "2025-06": 2,
+     "2025-07": 3,
+     "2025-08": 1,
+     "2025-11": 2,
+     "2025-12": 1,
+     "2026-01": 6,
+     "2026-02": 3,
+     "2026-03": 3,
+     "2026-04": 7,
+     "2026-05": 6,
+     "2026-06": 14,
+     "2026-07": 16,
+     "2026-08": 14,
+     "2026-09": 25,
+     "2026-10": 4
+    },
+    "top_advertisers": [
+     {
+      "name": "Mannlich",
+      "pages": 1,
+      "page_names": [
+       "Mannlich"
+      ],
+      "ads": 21,
+      "oldest_live_ad": "2026-07-03",
+      "page_likes": 371,
+      "headline": "Worried about cuts and nicks down there!?\nMannlich Intimate Hair Removal Cream chemically ",
+      "shop": "mannlich.co",
+      "product_page": "https://mannlich.co/products/mannlich-intimate-private-intimate-hair-removal-cream-men",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=697290393465176",
+      "shop_open_since": "2024-09-26"
+     },
+     {
+      "name": "Sanfe India",
+      "pages": 3,
+      "page_names": [
+       "Sanfe India",
+       "Sanfe",
+       "Sahlaa"
+      ],
+      "ads": 12,
+      "oldest_live_ad": "2026-07-29",
+      "page_likes": 3143,
+      "headline": "Facial Hair Painlessly Gone In Minutes",
+      "shop": "sanfe.in",
+      "product_page": "https://sanfe.in/products/ubtan-facial-hair-removal-cream-pack-of-3",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=975776718956180",
+      "shop_open_since": "2020-09-18"
+     },
+     {
+      "name": "NO HAIR CREW Europe",
+      "pages": 2,
+      "page_names": [
+       "NO HAIR CREW Europe",
+       "NO HAIR CREW"
+      ],
+      "ads": 10,
+      "oldest_live_ad": "2025-07-03",
+      "page_likes": 288,
+      "headline": "{{product.name}}",
+      "shop": "manor.ch",
+      "product_page": "https://www.manor.ch/de/shop/beauty/b/no-hair-crew/perfume",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=522581920931859",
+      "shop_open_since": null
+     },
+     {
+      "name": "Sterling Naturals",
+      "pages": 1,
+      "page_names": [
+       "Sterling Naturals"
+      ],
+      "ads": 8,
+      "oldest_live_ad": "2026-05-07",
+      "page_likes": 4148,
+      "headline": "Real Experience. Gentle Results.",
+      "shop": "sterlingnaturals.in",
+      "product_page": "https://sterlingnaturals.in/collections/hair-removal-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100419581509796",
+      "shop_open_since": "2024-07-12"
+     },
+     {
+      "name": "NO HAIR CREW",
+      "pages": 2,
+      "page_names": [
+       "NO HAIR CREW",
+       "NO HAIR CREW Europe"
+      ],
+      "ads": 8,
+      "oldest_live_ad": "2025-12-12",
+      "page_likes": 12184,
+      "headline": "NO HAIR CREW hair removal creams for sensitive areas.",
+      "shop": "nohaircrew.com",
+      "product_page": "https://nohaircrew.com/en-gb/collections/all",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=753855118292825",
+      "shop_open_since": "2022-10-21"
+     },
+     {
+      "name": "NO HAIR CREW",
+      "pages": 1,
+      "page_names": [
+       "NO HAIR CREW"
+      ],
+      "ads": 7,
+      "oldest_live_ad": "2026-07-21",
+      "page_likes": 12184,
+      "headline": "Get Smooth NOW",
+      "shop": "nohaircrew.us",
+      "product_page": "http://nohaircrew.us/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=753855118292825",
+      "shop_open_since": "2021-01-08"
+     },
+     {
+      "name": "Coach Frederic Luclos",
+      "pages": 2,
+      "page_names": [
+       "Coach Frederic Luclos",
+       "Coach Marc Laurent"
+      ],
+      "ads": 7,
+      "oldest_live_ad": "2026-09-08",
+      "page_likes": 1963,
+      "headline": "5 Reasons Men Are Throwing Away Their Drugstore Creams",
+      "shop": "botanelabs.com",
+      "product_page": "https://botanelabs.com/products/hair-removal-cream-botane-man",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=797062513487228",
+      "shop_open_since": "2026-05-25"
+     },
+     {
+      "name": "UrbanGabru Body Care",
+      "pages": 1,
+      "page_names": [
+       "UrbanGabru Body Care"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2025-06-15",
+      "page_likes": 782,
+      "headline": "The Choice of Modern Men!",
+      "shop": "urbangabru.in",
+      "product_page": "https://www.urbangabru.in/products/urbangabru-hair-removal-cream-spray-200ml",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106667515437042",
+      "shop_open_since": "2020-02-11"
+     },
+     {
+      "name": "Faiza Cosmetics",
+      "pages": 1,
+      "page_names": [
+       "Faiza Cosmetics"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-05-12",
+      "page_likes": 1493548,
+      "headline": "{{product.name}}",
+      "shop": "faizabeautycream.com",
+      "product_page": "https://faizabeautycream.com/collections/shop-by-problems",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=207233392642748",
+      "shop_open_since": "2025-09-18"
+     },
+     {
+      "name": "whiteningessence",
+      "pages": 2,
+      "page_names": [
+       "whiteningessence",
+       "ru_bab26"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-07-14",
+      "page_likes": 1,
+      "headline": "Say goodbye to painful hair removal! ✨🤍\n\nI’ve been using Whitening Essence Painless Hair R",
+      "shop": "whiteningessence.com",
+      "product_page": "https://whiteningessence.com/products/painless-cream-wax-1",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101167215294091",
+      "shop_open_since": "2023-04-08"
+     },
+     {
+      "name": "Shop.Luuma",
+      "pages": 1,
+      "page_names": [
+       "Shop.Luuma"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2025-06-25",
+      "page_likes": 515,
+      "headline": "UP TO 50% OFF",
+      "shop": "shopluuma.com",
+      "product_page": "https://shopluuma.com/products/painless-facial-hair-removal-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=253695941171248",
+      "shop_open_since": "2025-02-02"
+     },
+     {
+      "name": "Barbara",
+      "pages": 3,
+      "page_names": [
+       "Barbara",
+       "Megan",
+       "Margaret"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-04-20",
+      "page_likes": 108,
+      "headline": "65-Year Old Ladys With Hairy Legs Read This!",
+      "shop": "simplesnatched.com",
+      "product_page": "https://simplesnatched.com/apps/pagefly/preview",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=864085113463289",
+      "shop_open_since": "2025-08-14"
+     },
+     {
+      "name": "Namyaa Care",
+      "pages": 1,
+      "page_names": [
+       "Namyaa Care"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-04-23",
+      "page_likes": 1841,
+      "headline": "{{product.name}}",
+      "shop": "zeptonow.com",
+      "product_page": "http://www.zeptonow.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=118581391136317",
+      "shop_open_since": null
+     },
+     {
+      "name": "Namyaa Care",
+      "pages": 1,
+      "page_names": [
+       "Namyaa Care"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-06-25",
+      "page_likes": 1841,
+      "headline": "{{product.name}}",
+      "shop": "blinkit.com",
+      "product_page": "https://blinkit.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=118581391136317",
+      "shop_open_since": null
+     },
+     {
+      "name": "NO HAIR CREW",
+      "pages": 1,
+      "page_names": [
+       "NO HAIR CREW"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2025-02-18",
+      "page_likes": 12184,
+      "headline": "{{product.name}}",
+      "shop": "dm.at",
+      "product_page": "https://www.dm.at/search",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=753855118292825",
+      "shop_open_since": null
+     },
+     {
+      "name": "NO HAIR CREW Europe",
+      "pages": 2,
+      "page_names": [
+       "NO HAIR CREW Europe",
+       "NO HAIR CREW"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-04-04",
+      "page_likes": 288,
+      "headline": "{{product.name}}",
+      "shop": "dm.de",
+      "product_page": "https://www.dm.de/search",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=522581920931859",
+      "shop_open_since": null
+     },
+     {
+      "name": "Patricia Lyn",
+      "pages": 1,
+      "page_names": [
+       "Patricia Lyn"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-06-27",
+      "page_likes": 102,
+      "headline": "{{product.name}}",
+      "shop": "shopee.co.id",
+      "product_page": "http://shopee.co.id/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1137736959430032",
+      "shop_open_since": null
+     },
+     {
+      "name": "Flamingo",
+      "pages": 1,
+      "page_names": [
+       "Flamingo"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-08-27",
+      "page_likes": 36138,
+      "headline": "Shop Flamingo",
+      "shop": "shopflamingo.com",
+      "product_page": "https://www.shopflamingo.com/products/facial-hair-removal-cream/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=203619540206883",
+      "shop_open_since": null
+     },
+     {
+      "name": "Milk recipe  shop",
+      "pages": 1,
+      "page_names": [
+       "Milk recipe  shop"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-08-31",
+      "page_likes": 13,
+      "headline": "{{product.name}}",
+      "shop": "shopee.co.id",
+      "product_page": "https://shopee.co.id/shop/759264919",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111661865283084",
+      "shop_open_since": null
+     },
+     {
+      "name": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+      "pages": 1,
+      "page_names": [
+       "Dr. Amy Spence M.D I Board Certified Dermatologist"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-06-21",
+      "page_likes": 109,
+      "headline": "Stop shaving your face (and skip the $1,000 laser) 🛑",
+      "shop": "meravae.co",
+      "product_page": "https://meravae.co/pages/smoothv2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1022502870936914",
+      "shop_open_since": null
+     },
+     {
+      "name": "Boots UK",
+      "pages": 1,
+      "page_names": [
+       "Boots UK"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-15",
+      "page_likes": 1411068,
+      "headline": "{{product.name}}",
+      "shop": "boots.com",
+      "product_page": "https://www.boots.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=137917343831",
+      "shop_open_since": null
+     },
+     {
+      "name": "NO HAIR CREW Europe",
+      "pages": 1,
+      "page_names": [
+       "NO HAIR CREW Europe"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2025-07-03",
+      "page_likes": 288,
+      "headline": "{{product.name}}",
+      "shop": "brack.ch",
+      "product_page": "https://www.brack.ch/search",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=522581920931859",
+      "shop_open_since": null
+     },
+     {
+      "name": "Rossmann Polska",
+      "pages": 1,
+      "page_names": [
+       "Rossmann Polska"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-10-08",
+      "page_likes": 718881,
+      "headline": "Rossmann Polska",
+      "shop": "rossmann.pl",
+      "product_page": "https://www.rossmann.pl/produkty",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=491061721053365",
+      "shop_open_since": null
+     },
+     {
+      "name": "Shopee",
+      "pages": 1,
+      "page_names": [
+       "Shopee"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-07-19",
+      "page_likes": 13101,
+      "headline": "Shopee: https://s.shopee.ph/30lHpT8hpM \n\nAng kati na kaya mag\ntanggal natayo ng vulv0l 🤣😅\n",
+      "shop": "s.shopee.ph",
+      "product_page": "https://s.shopee.ph/30lHpT8hpM",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1405090646463166",
+      "shop_open_since": null
+     },
+     {
+      "name": "SYB Show Your Beauty",
+      "pages": 1,
+      "page_names": [
+       "SYB Show Your Beauty"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-06-18",
+      "page_likes": 950,
+      "headline": "Lanjut Checkout Hair Removal Cream",
+      "shop": "fb.com",
+      "product_page": "https://fb.com/canvas_doc/1331792224958258",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=124835984057259",
+      "shop_open_since": null
+     },
+     {
+      "name": "23hero",
+      "pages": 1,
+      "page_names": [
+       "23hero"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-06-24",
+      "page_likes": 835,
+      "headline": "Grooming just got effortless.",
+      "shop": "23hero.com",
+      "product_page": "https://www.23hero.com/products/hair-removal",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=544376008767417",
+      "shop_open_since": null
+     },
+     {
+      "name": "DimSun Cosmetics ",
+      "pages": 3,
+      "page_names": [
+       "DimSun Cosmetics ",
+       "NailedTea",
+       "Maridadi Skincare Kenya "
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-04-28",
+      "page_likes": 548,
+      "headline": "Message Us for Your Order and More Info on\nWhatsApp 0521891836\nDelivery Available All over",
+      "shop": "api.whatsapp.com",
+      "product_page": "https://api.whatsapp.com/send",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=548900531640079",
+      "shop_open_since": null
+     },
+     {
+      "name": "Namyaa",
+      "pages": 2,
+      "page_names": [
+       "Namyaa",
+       "Namyaa Care"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-08-26",
+      "page_likes": 1841,
+      "headline": "3 Easy Steps to Bikini Perfection",
+      "shop": "namyaa.in",
+      "product_page": "https://namyaa.in/products/namyaa-hair-removal-cream-spray",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=118581391136317",
+      "shop_open_since": null
+     },
+     {
+      "name": "womn",
+      "pages": 1,
+      "page_names": [
+       "womn"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-07-18",
+      "page_likes": 1429,
+      "headline": "{{product.name}}",
+      "shop": "amazon.co.uk",
+      "product_page": "https://www.amazon.co.uk/dp/B0C59YG76X",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109227098764284",
+      "shop_open_since": null
+     },
+     {
+      "name": "Getkekka",
+      "pages": 1,
+      "page_names": [
+       "Getkekka"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-07-21",
+      "page_likes": 2269,
+      "headline": "{{product.name}}",
+      "shop": "getkekka.com",
+      "product_page": "https://getkekka.com/products/raze-stik",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=908964382301520",
+      "shop_open_since": null
+     },
+     {
+      "name": "Beauty Care",
+      "pages": 1,
+      "page_names": [
+       "Beauty Care"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-05-30",
+      "page_likes": 12876,
+      "headline": "💞 হোম ডেলিভারি চার্জ সম্পূর্ণ ফ্রি",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=275331045674755",
+      "shop_open_since": null
+     },
+     {
+      "name": "Cosmic Thailand",
+      "pages": 1,
+      "page_names": [
+       "Cosmic Thailand"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-07-23",
+      "page_likes": 207421,
+      "headline": "Cosmic Thailand",
+      "shop": "s.shopee.co.th",
+      "product_page": "https://s.shopee.co.th/111ZJXvAOS",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103246064987963",
+      "shop_open_since": null
+     },
+     {
+      "name": "Golden Pearl Cosmetics",
+      "pages": 1,
+      "page_names": [
+       "Golden Pearl Cosmetics"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-06-22",
+      "page_likes": 1504075,
+      "headline": "{{product.name}}",
+      "shop": "goldenpearl.com.pk",
+      "product_page": "https://goldenpearl.com.pk/collections/bundles-products",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=274482209294259",
+      "shop_open_since": null
+     },
+     {
+      "name": "Nisa Naturals",
+      "pages": 1,
+      "page_names": [
+       "Nisa Naturals"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-09-11",
+      "page_likes": 15832,
+      "headline": "{{product.name}}",
+      "shop": "nisanaturals.pk",
+      "product_page": "https://nisanaturals.pk/collections/best-seller",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=215695968301665",
+      "shop_open_since": null
+     },
+     {
+      "name": "Elmore Beauty",
+      "pages": 1,
+      "page_names": [
+       "Elmore Beauty"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-06-22",
+      "page_likes": 149178,
+      "headline": "{{product.name}}",
+      "shop": "shopelmore.com",
+      "product_page": "https://shopelmore.com/collections/bundles",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=332602753523967",
+      "shop_open_since": null
+     },
+     {
+      "name": "Manchestore",
+      "pages": 1,
+      "page_names": [
+       "Manchestore"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-08-09",
+      "page_likes": 16585,
+      "headline": "🌿🪒 Razor burn leaving you red? Waxing rips and stings? Gentle hair removal cream – apply, ",
+      "shop": "manchestore.com",
+      "product_page": "https://manchestore.com/products/gentle-hair-removal-cream",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=628222010382538",
+      "shop_open_since": null
+     },
+     {
+      "name": "Madeformen.cz",
+      "pages": 1,
+      "page_names": [
+       "Madeformen.cz"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-06-12",
+      "page_likes": 470,
+      "headline": "Madeformen.cz",
+      "shop": "madeformen.cz",
+      "product_page": "https://www.madeformen.cz/depilace-tela/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=317319634793098",
+      "shop_open_since": null
+     },
+     {
+      "name": "Britneed uk",
+      "pages": 1,
+      "page_names": [
+       "Britneed uk"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-01-09",
+      "page_likes": 485,
+      "headline": "Painless Hair Removal — Cool, Smooth & Radiant Skin! 🧊✨\n\nSay goodbye to painful hair remov",
+      "shop": "britneed.com",
+      "product_page": "https://britneed.com/products/ice-cooling-hair",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=619242757947917",
+      "shop_open_since": null
+     },
+     {
+      "name": "NO HAIR CREW",
+      "pages": 1,
+      "page_names": [
+       "NO HAIR CREW"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-07-11",
+      "page_likes": 12184,
+      "headline": "{{product.name}}",
+      "shop": "amazon.de",
+      "product_page": "https://www.amazon.de/dp/B07F84MRMV",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=753855118292825",
+      "shop_open_since": null
+     },
+     {
+      "name": "Boomforing",
+      "pages": 1,
+      "page_names": [
+       "Boomforing"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-04-20",
+      "page_likes": 4763,
+      "headline": "Smooth skin in 5–10 minutes—no razor, no pain! ✨🧴\n Our gentle herbal hair removal cream di",
+      "shop": "boomforing.com",
+      "product_page": "https://boomforing.com/products/hair-removal-cream-3",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111695234694578",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "mannlich.co": 21,
+     "sanfe.in": 12,
+     "shopee.co.id": 12,
+     "manor.ch": 10,
+     "sterlingnaturals.in": 8,
+     "nohaircrew.com": 8,
+     "nohaircrew.us": 7,
+     "botanelabs.com": 7,
+     "urbangabru.in": 6,
+     "fb.com": 5,
+     "faizabeautycream.com": 5,
+     "whiteningessence.com": 5,
+     "shopluuma.com": 5,
+     "simplesnatched.com": 5,
+     "zeptonow.com": 4,
+     "blinkit.com": 4,
+     "dm.at": 4,
+     "dm.de": 4,
+     "shopflamingo.com": 4,
+     "meravae.co": 4,
+     "boots.com": 3,
+     "brack.ch": 3,
+     "rossmann.pl": 3,
+     "s.shopee.ph": 3,
+     "23hero.com": 3
+    },
+    "cost_usd": 1.21,
+    "shops_checked": 11,
+    "shops_over_a_year_old": 10,
+    "shops_under_4_months_old": 0,
+    "takeaway": "The phrase is crowded: 109+ brands, 54 of them advertising for 3+ months, including men's specialists No Hair Crew and Männlich. Botane's own ads, run through a coach's page, only started on 8 September."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "mens hair removal cream",
+     "image": "asis/hair-cream_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "barenuts - Hair Removal Cream For Men - nutcare",
+       "link": "https://nutcare.com.au/products/bare-nuts?srsltid=AU7gw4VdVKL2KcAe9diXOCw5YWW4CRQGiJtSFG625RnpYyfaSI9tc9Yo",
+       "domain": "nutcare.com.au",
+       "kind": "store / brand",
+       "snippet": "Hair Removal Cream For Men. Men Regular price $34.98 Regular. Apply to hair using your hand. applied as per instructions and waited 10-15 mins and then wash ..."
+      },
+      {
+       "position": 2,
+       "title": "Nads for Men Down Under Hair Removal Cream",
+       "link": "https://nadsformen.com/hair-removal-products/nads-for-men-down-under-hair-removal-cream",
+       "domain": "nadsformen.com",
+       "kind": "store / brand",
+       "snippet": "Designed specifically for the removal of male body hair in the genital or pubic area. Nad's For Men Down Under Hair Removal Cream with soothing Aloe, removes .."
+      },
+      {
+       "position": 3,
+       "title": "Nad's For Men Hair Removal Cream 200ml",
+       "link": "https://www.chemistwarehouse.com.au/buy/58283/nad-s-for-men-hair-removal-cream-200ml",
+       "domain": "chemistwarehouse.com.au",
+       "kind": "big chain",
+       "snippet": "Nad's for Men Hair Removal Cream delivers painless hair removal in as little as 3 minutes. The cream contains aloe vera to soothe the skin,"
+      },
+      {
+       "position": 4,
+       "title": "Nad's for Men Down Under Hair Removal Cream",
+       "link": "https://nads.com/hair-removal-products/nads-for-men-down-under-hair-removal-cream",
+       "domain": "nads.com",
+       "kind": "store / brand",
+       "snippet": "Nad's for Men Down Under Hair Removal Cream is specially designed for coarse hair in the male genital area, delivering smooth, hair-free results in as quickly ."
+      },
+      {
+       "position": 5,
+       "title": "10 Best Hair Removal Creams For Men 2024, Tested ...",
+       "link": "https://www.menshealth.com/grooming/g45341825/best-hair-removal-cream-for-men/",
+       "domain": "menshealth.com",
+       "kind": "article",
+       "snippet": "Nair Men Body Cream and Veet Sensitive Skin Hair Removal Cream come out on top in our testing. Our product picks are editor-tested, expert- ..."
+      }
+     ],
+     "paa": [
+      "Is it okay to use hair removal cream on private parts for men?",
+      "Do hair removal creams work on men?",
+      "Which hair removal cream is best for males?",
+      "Can I put Nair on my testicals?"
+     ],
+     "popular_products": [
+      {
+       "title": "Nad's For Men Down Under Hair Removal Cream 150 ml",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "The Man Company Hair Removal Cream For Men",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Veet Men Hair Removal Cream Skin 200ml",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "Mannlich Intimate Private Hair Removal Cream for Men",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Veet Hair Removal Cream for Men",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Veet Men Hair Removal Cream Normal Skin",
+       "price": null,
+       "source": "Amazon AU"
+      },
+      {
+       "title": "barenuts Hair Removal Cream For Men",
+       "price": null,
+       "source": "nutcare"
+      },
+      {
+       "title": "The Man Company Hair Removal Cream For Men Enriched with Cha",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Nad's Down Under Hair Removal Cream 150ml",
+       "price": null,
+       "source": "Chemist Warehouse"
+      },
+      {
+       "title": "NO Hair CREW Intimate Hair Removal Cream for Men Groin",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: nutcare.com.au (store / brand). In the product strip: Amazon, Amazon AU, Amazon AU - Amazon.com.au-Seller, Chemist Warehouse, nutcare. Amazon here is crowded."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "mens hair removal cream",
+     "image": "asis/hair-cream_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Mens Hair Removal Cream",
+       "link": "https://www.amazon.com/mens-hair-removal-cream/s?k=mens+hair+removal+cream",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Browse painless hair removal creams designed for men. Quick-acting formulas for smooth, long-lasting results."
+      },
+      {
+       "position": 2,
+       "title": "Men's Nair™ Body Cream | Hair Removal Cream for Men",
+       "link": "https://www.naircare.com/en/products/mens-body-cream",
+       "domain": "naircare.com",
+       "kind": "store / brand",
+       "snippet": "Men's Nair™ Body Cream works fast while you shower to wash away unwanted body hair below your skin's surface to give you a boost of confidence."
+      },
+      {
+       "position": 4,
+       "title": "INTIMATE Hair Removal Cream || Formulated for Men",
+       "link": "https://nohaircrew.us/products/intimate-hair-removal-cream?srsltid=AU7gw4UN5nBgjgO7fwl6uDAGs5z4HfV2OFwcgxZMyIrPS5hWRf-TGZlx",
+       "domain": "nohaircrew.us",
+       "kind": "store / brand",
+       "snippet": "The perfect, gentle alternative to hair removal below the waist. Made specifically for use on your lower abdomen, shaft, balls, groin, gooch, and butt."
+      },
+      {
+       "position": 5,
+       "title": "Veet® Men Sensitive Skin Hair Removal Cream",
+       "link": "https://www.veet.us/products/veet-men-sensitive-skin-hair-removal-cream",
+       "domain": "veet.us",
+       "kind": "store / brand",
+       "snippet": "Veet® Men Sensitive Skin Hair Removal Cream efficiently removes hair from the chest, back, underarms, and legs. In as little as 5 minutes, the formula works ..."
+      },
+      {
+       "position": 6,
+       "title": "10 Best Hair Removal Creams For Men 2024, Tested ...",
+       "link": "https://www.menshealth.com/grooming/g45341825/best-hair-removal-cream-for-men/",
+       "domain": "menshealth.com",
+       "kind": "article",
+       "snippet": "Nair Men Body Cream and Veet Sensitive Skin Hair Removal Cream come out on top in our testing. Our product picks are editor-tested, expert- ..."
+      }
+     ],
+     "paa": [
+      "Is it okay to use hair removal cream on private parts for men?",
+      "What is the best hair removal cream for men?",
+      "What is the best hair removing cream for men?",
+      "Can I put Nair on my testicals?"
+     ],
+     "popular_products": [
+      {
+       "title": "Nad's For Men Down Under Hair Removal Cream - 5.1oz",
+       "price": "$9.99",
+       "source": "Target"
+      },
+      {
+       "title": "The Man Company Hair Removal Cream For Men",
+       "price": "$16.29",
+       "source": "Walmart - iKonbi"
+      },
+      {
+       "title": "No Hair Crew \"Intimate\" Hair Removal Cream for Men",
+       "price": "$17.49",
+       "source": "CVS Pharmacy"
+      },
+      {
+       "title": "NO Hair CREW Intimate Hair Removal Cream",
+       "price": "$17.30",
+       "source": "TOF Paris Official"
+      },
+      {
+       "title": "Nair Men Body Cream Hair Remover",
+       "price": "$9.12",
+       "source": "H-E-B"
+      },
+      {
+       "title": "No Hair Crew Body Hair Removal Cream",
+       "price": "$17.49",
+       "source": "CVS Pharmacy"
+      },
+      {
+       "title": "Magic Cream Shave Razorless Extra Strength",
+       "price": "$5.57",
+       "source": "Walmart"
+      },
+      {
+       "title": "barenuts Hair Removal Cream For Men",
+       "price": "$24.99",
+       "source": "Nutcare Corp"
+      },
+      {
+       "title": "Nair For Men Hair Remover Body Cream",
+       "price": "$10.69",
+       "source": "Instacart"
+      },
+      {
+       "title": "Mens Below the Belt Hair Removal Cream Gentle, No Razor Burn",
+       "price": "$13.99",
+       "source": "Walmart - PureRelief Co."
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in the US: amazon.com (marketplace). In the product strip: CVS Pharmacy, H-E-B, Instacart, Nutcare Corp, TOF Paris Official. Amazon here is crowded."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "mens hair removal cream",
+     "image": "asis/hair-cream_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Body & Chest Hair Removal Cream for Sensitive Skin 400ml",
+       "link": "https://www.veet.co.uk/collections/all-products/products/body-chest-removal-cream-for-normal-skin-400ml-men/?srsltid=AU7gw4U5sApvz_pngD0rb-c5eCP1lDnoSpC779vgOd_7XRsooy4MoAdw",
+       "domain": "veet.co.uk",
+       "kind": "store / brand",
+       "snippet": "Experience smooth skin with Veet Men Hair Removal Cream with Silk & Fresh™ Technology."
+      },
+      {
+       "position": 2,
+       "title": "Veet Men",
+       "link": "https://www.veet.co.uk/collections/veet-men/?srsltid=AU7gw4XJGl62m2Je1nTa8f_wCgDOofReP_j12iTt-m-1TBDGIKMcqBBA",
+       "domain": "veet.co.uk",
+       "kind": "store / brand",
+       "snippet": "Veet Total Pro Precision Intimate Trimmer for Men · Body & Chest Hair Removal Cream for Normal Skin 200ml · In-Shower Hair Removal Cream for Normal Skin 150 ml."
+      },
+      {
+       "position": 3,
+       "title": "Veet for Men Hair Removal Gel Cream (200 ml)",
+       "link": "https://www.idealo.co.uk/compare/930388/veet-for-men-hair-removal-gel-cream-200-ml.html",
+       "domain": "idealo.co.uk",
+       "kind": "store / brand",
+       "snippet": "Veet for Men Hair Removal Gel Cream is super easy to apply, with results coming in just four minutes. It does not leave any unpleasant odours on the skin, and ."
+      },
+      {
+       "position": 4,
+       "title": "Men's Hair Removal Creams & Sprays for sale",
+       "link": "https://www.ebay.co.uk/b/bn_1841305",
+       "domain": "ebay.co.uk",
+       "kind": "marketplace",
+       "snippet": "Buy Men's Hair Removal Creams & Sprays and get the best deals at the lowest prices on eBay UK! Great Savings & Free Delivery / Collection on many items."
+      },
+      {
+       "position": 5,
+       "title": "Superdrug Male Body Hair Removal Cream 100ml",
+       "link": "https://www.superdrug.com/hair/hair-styling/mens-hair-creams/superdrug-male-body-hair-removal-cream-100ml/p/812334",
+       "domain": "superdrug.com",
+       "kind": "big chain",
+       "snippet": "Superdrug Male Body Hair Removal Cream 100ml with Sweet Almond Oil and Aloe Vera effectively removes unwanted hair, even short hair, for up to 7 days and in ..."
+      }
+     ],
+     "paa": [
+      "Which is the best hair removal cream for men?",
+      "Where can you buy hair removal cream?",
+      "Is it safe to put hair removal cream on private parts for men?",
+      "How to get rid of testicle hair?"
+     ],
+     "popular_products": [
+      {
+       "title": "Veet for Men Hair Removal Cream",
+       "price": "£5.69",
+       "source": "Amazon.co.uk"
+      },
+      {
+       "title": "Veet Men Intimate Hair Removal Kit",
+       "price": "£9.99",
+       "source": "idealo compare prices"
+      },
+      {
+       "title": "Superdrug Male Body Hair Removal Cream 100ml",
+       "price": "£4.00",
+       "source": "Superdrug.com"
+      },
+      {
+       "title": "Veet Men Hair Removal Cream Sensitive",
+       "price": "£14.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Nad's For Men Down Under Hair Removal Cream",
+       "price": "£10.99",
+       "source": "Boots.com"
+      },
+      {
+       "title": "Veet Men Hair removal Cream 200ml",
+       "price": "£8.29",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "No Hair Crew Body Hair Removal Cream",
+       "price": "£9.95",
+       "source": "PriceRunner"
+      },
+      {
+       "title": "Nair Sensitive Hair Removal Cream 100ml",
+       "price": "£1.99",
+       "source": "Superdrug.com"
+      },
+      {
+       "title": "Mens Hair Removal Cream,I/ntimate P/rivate Hair Removal Crea",
+       "price": "£6.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Dimples Hair Removal Cream Lemon Fresh",
+       "price": "£5.89",
+       "source": "DealDen"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "Men's hair removal creams (chemical depilatories) dissolve hair just below the skin surface by breaking down keratin proteins, offering a painless alternative to shaving that avoids razor nicks and reduces prickly stubble. If you'd like to narrow down the best choice, tell me:",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the UK: veet.co.uk (store / brand). In the product strip: Amazon.co.uk, Amazon.co.uk - Amazon.co.uk-Seller, Boots.com, DealDen, PriceRunner. Amazon here is crowded."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "mens hair removal cream",
+     "image": "asis/hair-cream_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Hair Removal Creams and Depilatories for Men",
+       "link": "https://www.naircare.com/en/men",
+       "domain": "naircare.com",
+       "kind": "store / brand",
+       "snippet": "Explore Nair™ products created specifically with men in mind. These hair removing sprays and creams have a masculine scent you'll love."
+      },
+      {
+       "position": 2,
+       "title": "Hair Removal Creams | Walmart Canada",
+       "link": "https://www.walmart.ca/en/browse/personal-care/womens-shave-hair-removal/hair-removal-cream/21021_6000195329263_6000195329267",
+       "domain": "walmart.ca",
+       "kind": "big chain",
+       "snippet": "Shop Hair Removal Cream online at Walmart.ca. Explore variety of depilatory creams for quick and easy hair removal from top brands."
+      },
+      {
+       "position": 4,
+       "title": "The 2 Best Depilatory Creams for Painless Hair Removal",
+       "link": "https://www.nytimes.com/wirecutter/reviews/best-hair-removal-creams/",
+       "domain": "nytimes.com",
+       "kind": "article",
+       "snippet": "Among Veet's lineup, the Men Sensitive Skin Hair Removal Cream and the Professional 2 Minute Cream were effective, but they required longer ..."
+      },
+      {
+       "position": 5,
+       "title": "Nair For Men Hair Remover Cream",
+       "link": "https://well.ca/products/nair-for-men-hair-remover-cream_187987.html?srsltid=AU7gw4W_O0CcGr4vpvhLwCndsqKKKb_-ukq-aE22__Ufsx2shw-23m4C",
+       "domain": "well.ca",
+       "kind": "store / brand",
+       "snippet": "This specially designed cream formula dissolves hair below your skin's surface so you get smooth skin for days without the hassle of shaving."
+      },
+      {
+       "position": 6,
+       "title": "Mens Hair Removal Creams/Gel for Body, Pubic ...",
+       "link": "https://www.veet.co.in/en/products/veet-for-men/",
+       "domain": "veet.co.in",
+       "kind": "store / brand",
+       "snippet": "This hair removal cream for men starts working in just 5 minutes and leaves behind a soft and stubble-free skin. What's more, you no longer have to deal with .."
+      }
+     ],
+     "paa": [
+      "Which is the best hair removal cream for men?",
+      "Is waxing or hair removal cream better?",
+      "How often can I use hair removal cream?",
+      "What is the best way for men to remove facial hair?"
+     ],
+     "popular_products": [
+      {
+       "title": "No Hair Crew Intimate Hair Removal Cream",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Nair for Men Hair Remover Cream",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Urbangabru Hair Removal cream spray For Men Painless Body Ha",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "No Hair Crew Body Hair Removal Cream",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Veet For Men Hair Removal Cream 200ml",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Urbangabru Hair Removal Cream Spray | Painless Body Hair Rem",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Intimate/Private Hair Removal Cream For Men For Unwanted Mal",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Veet Hair Removal Cream For Men",
+       "price": null,
+       "source": "Britstore"
+      },
+      {
+       "title": "Veet Men Body Hair Removal Cream",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "No Hair Crew Intimate/Private At Home Hair Removal Cream for",
+       "price": null,
+       "source": "Amazon CA"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "Men's hair removal (depilatory) creams dissolve hair just below the skin's surface for a smooth, blade-free finish without razor burn or nicks. If you'd like to narrow down the choices, tell me:",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: naircare.com (store / brand). In the product strip: Amazon CA, Britstore. Amazon here is crowded."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "mens hair removal cream",
+     "image": "asis/hair-cream_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Hair Removal Cream",
+       "link": "https://www.gents.de/hair-removal-cream",
+       "domain": "gents.de",
+       "kind": "store / brand",
+       "snippet": "Hair Removal Cream 100 ml 61 12,50 € (125 €. Men Hair Removal Cream 200 ml 23 11 € (55 € / l) Hair Removal Cream 150 ml 30 11 €"
+      },
+      {
+       "position": 2,
+       "title": "depilmen hair removal cream - Body Natur",
+       "link": "https://www.bodynatur.com/en/producto/depilmen-hair-removal-cream-inshower/",
+       "domain": "bodynatur.com",
+       "kind": "store / brand",
+       "snippet": "Hair Removal Cream. New, larger sponge. Effective in 3 minutes. Water resistant. Lasts longer than with a razor. Specially for male hair."
+      },
+      {
+       "position": 4,
+       "title": "Hair Removal Cream For Men Genitals",
+       "link": "https://www.amazon.co.uk/hair-removal-cream-men-genitals/s?k=hair+removal+cream+for+men+genitals",
+       "domain": "amazon.co.uk",
+       "kind": "marketplace",
+       "snippet": "Hair Removal Cream for Men 100 ml – The Original For groin, scrotum, buttocks and pubic area. Hair-free in 4-8 minutes, no cuts, no razor burn and softer ..."
+      },
+      {
+       "position": 5,
+       "title": "Best hair removal cream for men: Be a real smoothie with ...",
+       "link": "https://www.expertreviews.co.uk/beauty-wellness/hair-care-grooming/the-best-hair-removal-creams-for-men",
+       "domain": "expertreviews.co.uk",
+       "kind": "article",
+       "snippet": "1. Nad's For Men Hair Removal Cream: Best for removing hair in a hurry 2. Hoosh Hair Removal Cream: Best for vegans 3. Barenuts Pubic Hair Removal Cream For ..."
+      },
+      {
+       "position": 6,
+       "title": "Men's Intimate Hair Removal Cream (50g)",
+       "link": "https://www.nuutjob.com/products/nuutjob-intimate-hair-removal-cream-for-men-painless-hair-removal-for-groin-butt-and-shaft-gentle-fast-acting-cream-for-sensitive-skin?srsltid=AU7gw4V-GGwUiQCI0APhEImeesVO28iVFo_A0bOPYsMe3VGCmHX1X8Q-",
+       "domain": "nuutjob.com",
+       "kind": "store / brand",
+       "snippet": "The cream is a targeted, precise application for smaller intimate areas specifically. The foam spray covers larger surface areas faster. Both are painless and ."
+      }
+     ],
+     "paa": [
+      "Which is the best hair removal cream for men?",
+      "Is it safe to put hair removal cream on private parts for men?",
+      "How to get rid of testicle hair?",
+      "What is the best way for men to remove facial hair?"
+     ],
+     "popular_products": [
+      {
+       "title": "Veet Enthaarungscreme for Men",
+       "price": "14,39 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Enthaarungscreme für Männer Joanna Power Men Body Hair Remov",
+       "price": "3,00 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Veet Men Hair Removal Cream",
+       "price": "17,99 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Orien Men's Hair Removal Cream 100 ml",
+       "price": "14,63 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Veet for Men – Körper und Brusthaarentfernungscreme",
+       "price": "21,02 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Remove Men Hair Removal Cream For Men Sport 100 ml",
+       "price": "8,89 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Veet Men Hair Removal Cream Sensitive Skin",
+       "price": "8,73 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Magic Razorless Cream Shave 170g",
+       "price": "31,23 €",
+       "source": "Vergleichsportale"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "organic_results",
+      "filters",
+      "related_searches"
+     ],
+     "takeaway": "First result in Germany: gents.de (store / brand). In the product strip: Vergleichsportale. Amazon here is crowded."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "mens hair removal cream",
+     "image": "asis/hair-cream_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Nad's For Men Hair Removal Cream 200ml",
+       "link": "https://www.chemistwarehouse.co.nz/buy/58283/nad-s-for-men-hair-removal-cream-200ml",
+       "domain": "chemistwarehouse.co.nz",
+       "kind": "big chain",
+       "snippet": "Nad's for Men Hair Removal Cream delivers painless hair removal in as little as 3 minutes. The cream contains aloe vera to soothe the skin, whilst the active .."
+      },
+      {
+       "position": 2,
+       "title": "Nad's for Men Down Under Hair Removal Cream",
+       "link": "https://nads.com/hair-removal-products/nads-for-men-down-under-hair-removal-cream",
+       "domain": "nads.com",
+       "kind": "store / brand",
+       "snippet": "Nad's for Men Down Under Hair Removal Cream is specially designed for coarse hair in the male genital area, delivering smooth, hair-free results in as quickly ."
+      },
+      {
+       "position": 3,
+       "title": "Nad's For Men Down Under Hair Removal Cream 150mL",
+       "link": "https://www.woolworths.co.nz/shop/product-details/161644/nad-s-for-men-down-under-hair-removal-cream",
+       "domain": "woolworths.co.nz",
+       "kind": "big chain",
+       "snippet": "Made with soothing aloe vera, this depilatory cream is gentle on the delicate skin, while effectively removing thick, coarse pubic hair. Nad's for Men Down ..."
+      },
+      {
+       "position": 4,
+       "title": "10 Best Hair Removal Creams For Men 2024, Tested ...",
+       "link": "https://www.menshealth.com/grooming/g45341825/best-hair-removal-cream-for-men/",
+       "domain": "menshealth.com",
+       "kind": "article",
+       "snippet": "Nair Men Body Cream and Veet Sensitive Skin Hair Removal Cream come out on top in our testing. Our product picks are editor-tested, expert- ..."
+      },
+      {
+       "position": 5,
+       "title": "Hair removal cream for men",
+       "link": "https://www.veet.co.nz/hair-removal/for-men/",
+       "domain": "veet.co.nz",
+       "kind": "store / brand",
+       "snippet": "Veet For Men Hair Removal Gel Cream is designed to target hair on the back, chest, arms, legs and underarms. It delivers quick results and silky-smooth skin in "
+      }
+     ],
+     "paa": [
+      "Do hair removal creams work on men?",
+      "Is hair removal cream safe for men's private parts?",
+      "Can I put Nair on my testicals?",
+      "Which cream is best to remove private hair for men?"
+     ],
+     "popular_products": [
+      {
+       "title": "Nad's for Men Down Under Hair Removal Cream 150ml",
+       "price": "$15.99",
+       "source": "Chemist Warehouse NZ"
+      },
+      {
+       "title": "Nad's For Men Down Under Hair Removal Cream 150ml",
+       "price": "$15.99",
+       "source": "Chemist Warehouse NZ"
+      },
+      {
+       "title": "NO Hair CREW Intimate Hair Removal Cream for Men Tb",
+       "price": "$29.33",
+       "source": "TOF Paris Official"
+      },
+      {
+       "title": "Body Hair Removal Cream Man Duo Taky",
+       "price": "$10.54",
+       "source": "PerfumesClub NZ"
+      },
+      {
+       "title": "Veet Men Hair Removal Cream Skin 200ml",
+       "price": "$21.99",
+       "source": "Unichem Pharmacy"
+      },
+      {
+       "title": "Nair Men Hair Remover Body Cream",
+       "price": "$32.18",
+       "source": "iHerb"
+      },
+      {
+       "title": "Body Hair Remover for Men & Growth Inhibitor Gel 90 ml Visib",
+       "price": "$109.00",
+       "source": "No Grow NZ"
+      },
+      {
+       "title": "NO Hair CREW Premium Body Hair Removal Cream for Men",
+       "price": "$29.33",
+       "source": "TOF Paris Official"
+      },
+      {
+       "title": "Mannlich Intimate Private Hair Removal Cream for Men",
+       "price": "$23.23",
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Nad's Nads For Men Hair Removal Cream 200ml",
+       "price": "$12.39",
+       "source": "Chemist Direct"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "Men’s hair removal creams (depilatories) dissolve hair just below the skin's surface for a painless, smooth finish that lasts longer than shaving without razor nicks or itchy stubble. If you let me know which part of the body you are planning to treat or your skin sensitivity, I can help you pick the best formula.",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: chemistwarehouse.co.nz (big chain). In the product strip: Amazon AU - Amazon.com.au-Seller, Chemist Direct, Chemist Warehouse NZ, No Grow NZ, PerfumesClub NZ. Amazon here is crowded."
+    }
+   ],
+   "compare": {
+    "match_name": "AliExpress (about A$8)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same green pump bottle with the same Botane Man label, sold by dozens of sellers.",
+    "brand_image": "hair-cream/img_1.jpg",
+    "match_image": "lens/hair-cream_thumb_01.jpg"
+   }
+  },
+  {
    "slug": "neck-cream",
    "name": "Neck Firming Cream (Mudganics)",
    "one_liner": "The map is green only because this is Mudganics' own formula. Neck creams are a swarm: 40 advertisers, 38 new in two months, and 431,000+ bought on Amazon US last month.",
@@ -12109,6 +14492,7 @@
   "body-oil",
   "cc-cream",
   "swingpro",
+  "hair-cream",
   "neck-cream",
   "lola-kit",
   "paw-wash"

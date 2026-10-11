@@ -1,0 +1,397 @@
+{
+ "slug": "hair-cream",
+ "same": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  29,
+  31,
+  32,
+  33,
+  34,
+  36,
+  37,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47
+ ],
+ "brand_price": 65.0,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "au",
+   "status": "weak",
+   "why": "2 copies, all hard to find. Cheapest: eBay Australia at A$10 (found only by photo)",
+   "prices": {
+    "brand": 97.5,
+    "cheapest_copy": 10.0,
+    "typical_copy": 12.0,
+    "cheapest_real_copy": null,
+    "priced_copies": 2
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "eBay Australia",
+     "title": "Botane Man Hair Removal Cream 60ml Natural Intimate Hair ...",
+     "link": "https://www.ebay.com.au/itm/187578377239",
+     "price_text": "A$10",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_00.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "eBay Australia",
+     "title": "Botane Man Hair Removal Cream 60ml Natural Aloe Intimate ...",
+     "link": "https://www.ebay.com.au/itm/136482002088",
+     "price_text": "A$12",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_02.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "us",
+   "status": "weak",
+   "why": "8 copies, all hard to find. Cheapest: Amazon.com (found only by photo)",
+   "prices": {
+    "brand": 65.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: 2Pcs Botane Man Hair Removal, Botane Hair ...",
+     "link": "https://www.amazon.com/clp/B0FV83SB7Z",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_07.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Botane Man Hair Removal, 3.38 Fl Oz Hair Removal ...",
+     "link": "https://www.amazon.com/clp/B0FQBX63LV",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_08.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Man Hair Removal Cream with Natural Aloe Vera ...",
+     "link": "https://www.amazon.com/clp/B0FPQJ176R",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_16.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Walmart",
+     "title": "COCDLAN Hair Care in Beauty - Walmart.com",
+     "link": "https://www.walmart.com/browse/beauty/hair-care/cocdlan/1085666_3147628/YnJhbmQ6Q09DRExBTgieie",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_20.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Wenrny Men's Beard Hair Removal Cream,2 Pcs 1.8 ...",
+     "link": "https://www.amazon.com/clp/B0DXZ44373",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_23.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "eBay",
+     "title": "25+ Liquid Hair Removal Creams & Sprays for sale | Updated ...",
+     "link": "https://www.ebay.com/b/Liquid-Hair-Removal-Creams-Sprays/47925/bn_114821926",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_24.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: SUZUKI HERB LABORATORY Hair Removal Cream, 8.1 ...",
+     "link": "https://www.amazon.com/clp/B0C65QD4K8",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_29.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Superior Mane Hair Removal Spray for Men ...",
+     "link": "https://www.amazon.com/clp/B0FGCT29VM",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_31.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "uk",
+   "status": "weak",
+   "why": "7 copies, all hard to find. Cheapest: eBay UK at £8 (found only by photo)",
+   "prices": {
+    "brand": 48.75,
+    "cheapest_copy": 8.0,
+    "typical_copy": 11.0,
+    "cheapest_real_copy": null,
+    "priced_copies": 3
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "eBay UK",
+     "title": "1/2/3/5PC Botane Man Hair Removal Cream Natural Aloe Vera ...",
+     "link": "https://www.ebay.co.uk/itm/187804094259?_skw=Hair+Removal+Creams+&+Sprays&var=695565162809&hash=item2bb9ff0f33:g:R98AAeSwPelpMQG4&mkevt=1&mkcid=1&mkrid=710-53481-19255-0&campid=5337607145&customid=123&toolid=10049",
+     "price_text": "£8",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_03.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Fruugo",
+     "title": "1-3X Botane Man Aloe Vera Depilatory Cream for Fast Hair ...",
+     "link": "https://www.fruugo.co.uk/1-3x-botane-man-aloe-vera-depilatory-cream-for-fast-hair-removal-face-body-sensitive/p-429049247",
+     "price_text": null,
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_05.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "eBay UK",
+     "title": "Unbranded Hair Removal Creams & Sprays for sale | eBay UK",
+     "link": "https://www.ebay.co.uk/b/bn_7025298357",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_09.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Botane Man Hair Removal Cream, Men's Hair Removal Cream ...",
+     "link": "https://www.amazon.co.uk/Botane-Removal-Cream-Natural-Intimate/dp/B0FV2YBHJW",
+     "price_text": "£11",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_13.jpg",
+     "looked_up": true,
+     "reviews": 8,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 8 reviews"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Botane Man Hair Removal Cream, Intimate Hair Removal Cream ...",
+     "link": "https://www.amazon.co.uk/Intimate-Fast-Acting-Moisturizing-Non-Sticky-Pain-Free/dp/B0FVY5MS5J",
+     "price_text": "£17",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_14.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Men Intimate Hair Removal Cream Hydrating Depilatory ...",
+     "link": "https://www.amazon.co.uk/Intimate-Removal-Cream-Hydrating-Depilatory/dp/B0GX5N6856",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_21.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "eBay UK",
+     "title": "Hair Removal Creams for sale | eBay UK",
+     "link": "https://www.ebay.co.uk/b/bn_557302",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_32.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "ca",
+   "status": "crowded",
+   "why": "Temu: on Temu or Shein. 3 other copies",
+   "prices": {
+    "brand": 89.05,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon.ca",
+     "title": "Botane Man Hair Removal Cream, Quick & Gentle No-Shave Hair ...",
+     "link": "https://www.amazon.ca/No-Shave-Intimate-Fast-Acting-Moisturizing-Non-Sticky/dp/B0FQ5VN5D5",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_17.jpg",
+     "looked_up": true,
+     "reviews": 9,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 9 reviews"
+    },
+    {
+     "source": "Temu",
+     "title": "60ml mousse long lasting hydration - Temu Mongolia",
+     "link": "https://www.temu.com/mn-en/60ml--mousse-long-lasting-hydration-and-moisture-nourishes-the-skin--removes-hair-mild-and-non-irritating-suitable-for--men-and--as-a-birthday-gift-g-605956549238817.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_18.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    },
+    {
+     "source": "Amazon.ca",
+     "title": "Quick & Gentle No-Shave Hair Removal Spray for Face, Botane ...",
+     "link": "https://www.amazon.ca/No-Shave-Intimate-Fast-Acting-Moisturizing-Non-Sticky/dp/B0H2FJQJ57",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_34.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.ca",
+     "title": "Botane Man Crème dépilatoire rapide et douce sans rasage ...",
+     "link": "https://www.amazon.ca/-/fr/Botane-dépilatoire-intimes-hydratante-collante/dp/B0FQ5XFKBX",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_36.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "de",
+   "status": "crowded",
+   "why": "Temu: on Temu or Shein. 1 other copy",
+   "prices": {
+    "brand": 55.9,
+    "cheapest_copy": 15.0,
+    "typical_copy": 15.0,
+    "cheapest_real_copy": null,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon.de",
+     "title": "Botane Man Hair Removal Cream,Botane Hair Removal Cream for ...",
+     "link": "https://www.amazon.de/Removal-Enthaarungscreme-intimbereich-haarentfernungscreme-empfindliche/dp/B0FQPH6N3H",
+     "price_text": "€15",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_04.jpg",
+     "looked_up": true,
+     "reviews": 1,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 1 reviews"
+    },
+    {
+     "source": "Temu",
+     "title": "60ml mousse long lasting hydration - Temu Mongolia",
+     "link": "https://www.temu.com/mn-en/60ml--mousse-long-lasting-hydration-and-moisture-nourishes-the-skin--removes-hair-mild-and-non-irritating-suitable-for--men-and--as-a-birthday-gift-g-605956549238817.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_18.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "nz",
+   "status": "crowded",
+   "why": "Temu: on Temu or Shein",
+   "prices": {
+    "brand": 109.2,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Temu",
+     "title": "60ml mousse long lasting hydration - Temu Mongolia",
+     "link": "https://www.temu.com/mn-en/60ml--mousse-long-lasting-hydration-and-moisture-nourishes-the-skin--removes-hair-mild-and-non-irritating-suitable-for--men-and--as-a-birthday-gift-g-605956549238817.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_18.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    }
+   ],
+   "picture_matches": 59
+  }
+ ]
+}

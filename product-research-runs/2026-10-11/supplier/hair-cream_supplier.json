@@ -1,0 +1,35 @@
+{
+ "slug": "hair-cream",
+ "brand_price": 65.0,
+ "brand_currency": "usd",
+ "words": "botane man hair removal cream",
+ "aliexpress_search": "https://www.aliexpress.com/w/wholesale-botane-man-hair-removal-cream.html",
+ "listings": [
+  {
+   "n": 1,
+   "site": "AliExpress",
+   "order_type": "single orders",
+   "title": "Botane Man Gentle Hair Removal Mousse Aloe Vera Painless ...",
+   "link": "https://www.aliexpress.com/item/1005012822453541.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/hair-cream_thumb_01.jpg",
+   "price_seen_in_search": "A$8*",
+   "price": 8.0,
+   "currency": "aud",
+   "shipping": null,
+   "note": "Price shown in the picture search; shipping not included",
+   "delivered_cost_usd": 5.33
+  }
+ ],
+ "summary": {
+  "found": 1,
+  "priced": 1,
+  "brand_price_usd": 65.0,
+  "status": "priced",
+  "cost_usd": 5.33,
+  "cost_site": "AliExpress",
+  "cost_includes_shipping": false,
+  "margin_pct": 92,
+  "room_per_sale_usd": 59.67,
+  "plain": "AliExpress sells it for about US$5 before shipping. At the brand's price of about US$65 that leaves about US$60 a sale (92%) to cover ads, payment fees and profit."
+ }
+}
