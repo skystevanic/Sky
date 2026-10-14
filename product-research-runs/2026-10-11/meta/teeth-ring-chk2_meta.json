@@ -1,0 +1,43 @@
+{
+ "slug": "teeth-ring-chk2",
+ "phrase": "teeth cleaning ring",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22teeth%20cleaning%20ring%22",
+ "ads_loaded": 1,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 1,
+ "advertisers_with_3_plus_ads": 0,
+ "biggest_advertiser_share": 1.0,
+ "brands_new_in_last_2_months": 1,
+ "brands_advertising_3_plus_months": 0,
+ "ads_started_last_2_months": 0,
+ "ads_older_than_6_months": 0,
+ "pattern": "one brand owns it",
+ "plain": "1 brands, but ? runs 1 of the 1 ads.",
+ "months": {},
+ "brand_months": {},
+ "top_advertisers": [
+  {
+   "name": "?",
+   "pages": 1,
+   "page_names": [
+    "?"
+   ],
+   "ads": 1,
+   "oldest_live_ad": null,
+   "page_likes": null,
+   "headline": "",
+   "shop": null,
+   "product_page": null,
+   "their_ads": null,
+   "shop_open_since": null
+  }
+ ],
+ "domains": {},
+ "cost_usd": 0,
+ "shops_checked": 0,
+ "shops_over_a_year_old": 0,
+ "shops_under_4_months_old": 0
+}

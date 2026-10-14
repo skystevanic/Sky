@@ -834,6 +834,94 @@
     "note": "The same engraved stainless steel cuff, in silver, gold, black and rose gold."
    },
    "advertiser_takeaway": "Quiet but scattered: 10 small shops advertise \"bracelet ayat al kursi\" in French, 6 of them new, and none dominates. Création Orientale itself is not among them, so the demand you see in the ads is not proof that this shop's cuff sells."
+  },
+  {
+   "slug": "teeth-ring",
+   "name": "Braided Dog Chew Ring (The Mellow Dog)",
+   "brand": "The Mellow Dog",
+   "url": "https://themellowdog.com/products/teeth-cleaning-ring",
+   "category": "Pet toys: dental chew ring",
+   "price": "US$59.99 (shown as reduced from US$99.99)",
+   "ad_days": "Ring ads started late September 2026",
+   "store_platform": "Shopify",
+   "store_launched": "2019-06",
+   "store_products": "22 products, trending dog toys and gadgets",
+   "one_liner": "An existing toy (the Twisted Chews Infinity Ring) that The Range sells for £4 and Fressnapf for €7, priced here at US$59.99, with only 3 weeks of ads behind it.",
+   "verdict": "Avoid",
+   "overall": 51,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 7,
+    "margin": 6,
+    "viral": 6,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "why": [
+    "The Range sells the same ring for £4, Fressnapf and Zoo & Co for €7-8, and Petco stocks it",
+    "It is on Temu in the US, Canada and New Zealand",
+    "Only 5 of The Mellow Dog's 79+ ads are for the ring, all from the last 3 weeks: no proof yet"
+   ],
+   "risk": "A US$60 price on a toy shoppers can buy for €7 invites refunds, chargebacks and bad reviews once they find it.",
+   "next": [
+    "Skip it. Watch The Mellow Dog's ring ads: if they still run in January, the angle works even at that price"
+   ],
+   "best_region": "None. Even where copies are hidden from word searches, big pet chains stock them.",
+   "snapshot": {
+    "icp": "Dog owners worried about bad breath and vet dental bills",
+    "job": "Clean the dog's teeth while it chews",
+    "cogs": "About US$2-4 landed (estimate)",
+    "margin": "Large on paper at US$59.99, but a fair price is closer to €15-20 (estimate)",
+    "claims": "Cleans teeth as the dog chews; tough braided nylon",
+    "demoable": "Yes: dog happily chewing; the ads use a bad-breath hook"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "The Range (UK) sells the same ring at £4; Fressnapf and Petco stock it too"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "On Temu in the US, Canada and New Zealand"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Hardly anyone advertises it; The Mellow Dog is almost alone"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "A pet toy: avoid vet or health claims"
+    }
+   ],
+   "angles": [
+    "Bad-breath kisses fix (the hook The Mellow Dog uses)",
+    "Heavy chewers who destroy every toy",
+    "Puppy teething",
+    "Tug-of-war ring for two dogs",
+    "TAKEN: \"Her kisses smell like something died\" (The Mellow Dog)"
+   ],
+   "compare": {
+    "brand_photo": "img_4.jpg",
+    "match_number": 9,
+    "match_name": "Fressnapf Germany (€7)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same blue-and-yellow braided ring, sold as the Twisted Chews Giant Infinity Ring."
+   },
+   "advertiser_takeaway": "Almost nobody advertises a \"teeth cleaning ring\". The Mellow Dog runs 79+ ads since 2023, but mostly for a duck toy; only 5 are for this ring, all started in the last 3 weeks. It is a fresh test, not proof.",
+   "category_notes": {
+    "us": "PetSmart's listing is a different dental toy; Petco stocks the same ring.",
+    "nz": "The Warehouse's NZ$0.98 listing is a different toy."
+   }
   }
  ]
 }

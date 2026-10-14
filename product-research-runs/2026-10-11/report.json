@@ -14677,6 +14677,1555 @@
    }
   },
   {
+   "slug": "teeth-ring",
+   "name": "Braided Dog Chew Ring (The Mellow Dog)",
+   "one_liner": "An existing toy (the Twisted Chews Infinity Ring) that The Range sells for £4 and Fressnapf for €7, priced here at US$59.99, with only 3 weeks of ads behind it.",
+   "url": "https://themellowdog.com/products/teeth-cleaning-ring",
+   "brand": "The Mellow Dog",
+   "category": "Pet toys: dental chew ring",
+   "price": "US$59.99 (shown as reduced from US$99.99)",
+   "ad_days": "Ring ads started late September 2026",
+   "store_platform": "Shopify",
+   "store_launched": "2019-06",
+   "store_products": "22 products, trending dog toys and gadgets",
+   "snapshot": {
+    "icp": "Dog owners worried about bad breath and vet dental bills",
+    "job": "Clean the dog's teeth while it chews",
+    "cogs": "About US$2-4 landed (estimate)",
+    "margin": "Large on paper at US$59.99, but a fair price is closer to €15-20 (estimate)",
+    "claims": "Cleans teeth as the dog chews; tough braided nylon",
+    "demoable": "Yes: dog happily chewing; the ads use a bad-breath hook"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "The Range (UK) sells the same ring at £4; Fressnapf and Petco stock it too"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "On Temu in the US, Canada and New Zealand"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Hardly anyone advertises it; The Mellow Dog is almost alone"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "A pet toy: avoid vet or health claims"
+    }
+   ],
+   "scores": {
+    "saturated": 7,
+    "margin": 6,
+    "viral": 6,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "overall": 51,
+   "confidence": "Medium",
+   "best_region": "None. Even where copies are hidden from word searches, big pet chains stock them.",
+   "angles": [
+    "Bad-breath kisses fix (the hook The Mellow Dog uses)",
+    "Heavy chewers who destroy every toy",
+    "Puppy teething",
+    "Tug-of-war ring for two dogs",
+    "TAKEN: \"Her kisses smell like something died\" (The Mellow Dog)"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "The Range sells the same ring for £4, Fressnapf and Zoo & Co for €7-8, and Petco stocks it",
+     "It is on Temu in the US, Canada and New Zealand",
+     "Only 5 of The Mellow Dog's 79+ ads are for the ring, all from the last 3 weeks: no proof yet"
+    ],
+    "risk": "A US$60 price on a toy shoppers can buy for €7 invites refunds, chargebacks and bad reviews once they find it.",
+    "fastest_test": [
+     "Skip it. Watch The Mellow Dog's ring ads: if they still run in January, the angle works even at that price"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "Woolworths sells it at $26.95",
+     "sellers": 19,
+     "cheapest": "A$5",
+     "typical": "A$24",
+     "top": "Amazon AU (272)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "PetSmart's listing is a different dental toy; Petco stocks the same ring.",
+     "sellers": 27,
+     "cheapest": "US$2",
+     "typical": "US$12",
+     "top": "Chewy.com (556)"
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "The Range sells it at £5.99",
+     "sellers": 26,
+     "cheapest": "£2",
+     "typical": "£6",
+     "top": "eBay - slctogether (343)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "Canadian Tire sells it at $14.99",
+     "sellers": 17,
+     "cheapest": "C$2",
+     "typical": "C$13",
+     "top": "Sherbrooke Canin (1400)"
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "knock-offs from 3.46 vs typical 19.8",
+     "sellers": 15,
+     "cheapest": "€3",
+     "typical": "€20",
+     "top": "Pet Palette Distribution (1419)"
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "The Warehouse's NZ$0.98 listing is a different toy.",
+     "sellers": 27,
+     "cheapest": "NZ$1",
+     "typical": "NZ$30",
+     "top": "Petdirect.co.nz (83000)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 14,600 reviews; 3 of the first 20 have 1,000+; at least 50 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 14600,
+     "n_1000_plus": 3,
+     "cheapest": "A$7",
+     "typical": "A$12",
+     "bought_last_month_min": 50,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "KONG Ring Dog Chew Toy, Durable Natural Rubber, Medium/Large Dogs",
+       "price_text": "$23.55",
+       "price": 23.55,
+       "rating": 4.5,
+       "reviews": 14600,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/KONG-Durable-Natural-Rubber-Medium/dp/B073SZ6NT8/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p111i28wL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "PetSafe Busy Buddy Bristle Bone Dog Toy, Chew Toy with Treats",
+       "price_text": "$16.34",
+       "price": 16.34,
+       "rating": 4.2,
+       "reviews": 7100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Small-Petsafe-Busy-Buddy-Bristle/dp/B0046ZRXZA/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61mDbw8AnlL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "SCHITEC Squeaky Dog Chew Toy for Aggressive Chewers Large Breed, Tough Rubber Bone with To",
+       "price_text": "$17.99",
+       "price": 17.99,
+       "rating": 4.4,
+       "reviews": 4800,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/SCHITEC-Squeaky-Aggressive-Toothbrush-Cleaning/dp/B0FMF3777C/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61BPunpo2YL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 48,300 reviews; 8 of the first 20 have 1,000+; at least 24,950 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 48300,
+     "n_1000_plus": 8,
+     "cheapest": "US$4",
+     "typical": "US$9",
+     "bought_last_month_min": 24950,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Nylabone Textured Ring Power Chew Toy for Small Dogs Up to 25 lbs",
+       "price_text": "$6.29",
+       "price": 6.29,
+       "rating": 4.2,
+       "reviews": 48300,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Nylabone-Textured-Flavor-Medley-Regular/dp/B084LMXSP7/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81Jwo3eSN0L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "N-Bone Puppy Teething Rings, Chicken Flavor, Natural Puppy Teething Chews & Chew Treats, H",
+       "price_text": "$8.79",
+       "price": 8.79,
+       "rating": 4.5,
+       "reviews": 39900,
+       "bought_text": "10K+ bought in past month",
+       "bought": 10000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/N-Bone-Puppy-Teething-Chicken-Flavor/dp/B00X6THK82/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81GFnvR00sL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "ARM & HAMMER Nubbies Rubber Ring Dog Dental Chew Toy, Peanut Butter",
+       "price_text": "$6.50",
+       "price": 6.5,
+       "rating": 4.2,
+       "reviews": 14600,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": [
+        "Overall Pick"
+       ],
+       "link": "https://www.amazon.com/ARM-HAMMER-Nubbies-Rubber-Dental/dp/B0FZN5YB6W/",
+       "thumbnail": "https://m.media-amazon.com/images/I/710wb052I-L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 331 reviews; 0 of the first 20 have 1,000+; at least 1,350 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 331,
+     "n_1000_plus": 0,
+     "cheapest": "£4",
+     "typical": "£9",
+     "bought_last_month_min": 1350,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Petface (Seriously Strong by Petface) Dental Ring Dog Toy, Orange",
+       "price_text": "£4.42",
+       "price": 4.42,
+       "rating": 3.6,
+       "reviews": 331,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Seriously-Strong-Petface-Dental-Ring/dp/B00B4XMH8A/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51uCUBt02oL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Teeth Cleaning Finger Wipes for Dogs & Cats, Soft Pet Dental Finger Wipes for Dogs, Dispos",
+       "price_text": "£7.98",
+       "price": 7.98,
+       "rating": 4.3,
+       "reviews": 223,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0D3D8WHQG/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61i7CqQ0l9L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Dog Toy Rubber for Strong Chewers, Natural Rubber Chew Toy for Ring",
+       "price_text": "£8.99",
+       "price": 8.99,
+       "rating": 4.2,
+       "reviews": 85,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Feycig-Rubber-Strong-Chewers-Indestructible/dp/B0F53VRKWH/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71gCwGiRTnL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 10,200 reviews; 5 of the first 20 have 1,000+; at least 1,900 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 10200,
+     "n_1000_plus": 5,
+     "cheapest": "C$5",
+     "typical": "C$12",
+     "bought_last_month_min": 1900,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Pupstages Dental Links Dog Chew Toy, Textured Rings & Woven Rope, 8.5\"",
+       "price_text": "$12.21",
+       "price": 12.21,
+       "rating": 4.1,
+       "reviews": 10200,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.ca/dp/B0050BL6UW/",
+       "thumbnail": "https://m.media-amazon.com/images/I/710c3E1TsXL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "PetSafe Busy Buddy Bristle Bone - Treat-Holding Toy for Dogs - Treat Rings Included - Trea",
+       "price_text": "$13.13",
+       "price": 13.13,
+       "rating": 4.2,
+       "reviews": 7100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/PetSafe-Busy-Buddy-Bristle-Treats/dp/B0046ZRXZA/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61mDbw8AnlL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "HICC PET Teeth Cleaning Finger Wipes for Dogs & Cats, Unscented",
+       "price_text": "$25.99",
+       "price": 25.99,
+       "rating": 4.3,
+       "reviews": 2400,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/HICC-PET-Cleaning-Finger-Unscented/dp/B0G5WX9SN6/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71CUBJ7ZYDL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 18,900 reviews; 2 of the first 20 have 1,000+; at least 3,200 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 18900,
+     "n_1000_plus": 2,
+     "cheapest": "€5",
+     "typical": "€11",
+     "bought_last_month_min": 3200,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Vet’s Best Professional Eye & Ear Wipes for Dogs",
+       "price_text": "€4.99",
+       "price": 4.99,
+       "rating": 4.3,
+       "reviews": 18900,
+       "bought_text": "2K+ bought in past month",
+       "bought": 2000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Vets-Best-Professional-Wipes-Dogs/dp/B073V4SRBZ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71Hc+AvchfL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Ni-SHEN Dog Teeth Cleaning Kit, Ultrasonic Pet Teeth Cleaner, Dental Care for Dogs and Cat",
+       "price_text": "€29.99",
+       "price": 29.99,
+       "rating": 3.9,
+       "reviews": 2800,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": [
+        "Limited time deal"
+       ],
+       "link": "https://www.amazon.de/-/en/Ni-SHEN-Cleaning-Ultrasonic-Cleaner-Dental/dp/B0B188CT1V/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71EQXeN96nL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "HICC PET Dog Dental Care Finger Cots, Pack of 50, Unscented",
+       "price_text": "€15.98",
+       "price": 15.98,
+       "rating": 4.3,
+       "reviews": 887,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0GGHVLRDR/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61SjBmzuccL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "high",
+     "why": "top listing 14,600 reviews; 3 of the first 20 have 1,000+; at least 50 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 14600,
+     "n_1000_plus": 3,
+     "cheapest": "A$7",
+     "typical": "A$12",
+     "bought_last_month_min": 50,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "KONG Ring Dog Chew Toy, Durable Natural Rubber, Medium/Large Dogs",
+       "price_text": "$23.55",
+       "price": 23.55,
+       "rating": 4.5,
+       "reviews": 14600,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/KONG-Durable-Natural-Rubber-Medium/dp/B073SZ6NT8/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61p111i28wL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "PetSafe Busy Buddy Bristle Bone Dog Toy, Chew Toy with Treats",
+       "price_text": "$16.34",
+       "price": 16.34,
+       "rating": 4.2,
+       "reviews": 7100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Small-Petsafe-Busy-Buddy-Bristle/dp/B0046ZRXZA/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61mDbw8AnlL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "SCHITEC Squeaky Dog Chew Toy for Aggressive Chewers Large Breed, Tough Rubber Bone with To",
+       "price_text": "$17.99",
+       "price": 17.99,
+       "rating": 4.4,
+       "reviews": 4800,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/SCHITEC-Squeaky-Aggressive-Toothbrush-Cleaning/dp/B0FMF3777C/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61BPunpo2YL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "thin",
+     "growth_pct": null,
+     "zero_share": 0.84,
+     "why": "Too few searches here for Google to measure reliably (84% of weeks read zero). Use Amazon units and ad velocity instead.",
+     "line": [
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      44,
+      70,
+      0,
+      0,
+      6,
+      0,
+      0,
+      16,
+      0,
+      8,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      6,
+      2,
+      2
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "weak",
+     "why": "1 copy, all hard to find. Cheapest: Amazon (not in the top results, 1 reviews)",
+     "prices": {
+      "brand": 89.98,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon",
+       "title": "Flamingo Glowa Toy for Dog Tug Rope Ring Blue/Yellow S - 43 ...",
+       "link": "https://www.amazon.com.au/Flamingo-Glowa-Rope-Ring-Yellow/dp/B0D9WD675P",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_19.jpg",
+       "looked_up": true,
+       "reviews": 1,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 1 reviews"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein. 1 other copy",
+     "prices": {
+      "brand": 59.99,
+      "cheapest_copy": 29.34,
+      "typical_copy": 29.34,
+      "cheapest_real_copy": null,
+      "priced_copies": 1
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.com",
+       "title": "Pet Supplies : Petsports Dog Toys, Twisted Chews Giant ...",
+       "link": "https://www.amazon.com/Petsports-Twisted-Chews-Giant-Infinity/dp/B07VMRCLMD",
+       "price_text": "$29.34",
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_10.jpg",
+       "looked_up": true,
+       "reviews": 7,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 7 reviews"
+      },
+      {
+       "source": "Temu",
+       "title": "sashes - Cyprus",
+       "link": "https://www.temu.com/cy-en/sashes-s.html?page=5",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_22.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "The same object is sold by The Range at £4",
+     "prices": {
+      "brand": 44.99,
+      "cheapest_copy": 4.0,
+      "typical_copy": 25.01,
+      "cheapest_real_copy": 4.0,
+      "priced_copies": 2
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "The Range",
+       "title": "Woven 8 Dog Toy",
+       "link": "https://www.therange.co.uk/pets/dogs/dog-toys/dog-plush-and-rope/woven-8-dog-toy",
+       "price_text": "£4",
+       "kind": "big chain",
+       "thumb_file": "lens/teeth-ring_thumb_15.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "6pcs blue white graduation ribbon garland braided polyester ...",
+       "link": "https://www.temu.com/ph/6pcs-blue-white-graduation-ribbon-garland-braided-polyester--cords-with-golden-accents-durable-knitted--necklaces-for-2025--may--academic--gift-g-601099808826505.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_17.jpg"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "duvoplus, Supa` Nylon Hoop 13 x 13 cm Blue/Yellow, Toy, Blue ...",
+       "link": "https://www.amazon.co.uk/duvoplus-Supa`-Nylon-Hoop-Yellow/dp/B09LD637RT",
+       "price_text": "£25.01",
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_23.jpg",
+       "looked_up": true,
+       "reviews": null,
+       "bought": null
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Petsports Dog Toys, Twisted Chews Giant Infinity Ring 10 ...",
+       "link": "https://www.amazon.co.uk/Petsports-Twisted-Chews-Giant-Infinity/dp/B07VMRCLMD",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_24.jpg"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "duvoplus, Supa` Nylon Double Hoop 20 x 13 cm Blue/Yellow ...",
+       "link": "https://www.amazon.co.uk/duvoplus-Supa`-Nylon-Double-Yellow/dp/B0BMFVSSR6",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_26.jpg"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "ca",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein",
+     "prices": {
+      "brand": 82.19,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Temu",
+       "title": "‏5 قطع من الأشرطة التخرج لفصل التخرج، أشرطة الشرف لهدايا ...",
+       "link": "https://www.temu.com/om/5-قطع-من-الأشرطة-التخرج-لفصل-التخرج-أشرطة-الشرف-لهدايا-التخرج-لعام-2025-أشرطة-زخرفية-للتخرج-مناسبة-لطلاب-الماجستير-الدكتوراه-والبكالوريوس-متوفرة-بألوان-مختلفة-g-601099808829652.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_29.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "de",
+     "status": "weak",
+     "why": "8 copies, all hard to find. Cheapest: Fressnapf at €7 (found only by photo)",
+     "prices": {
+      "brand": 51.59,
+      "cheapest_copy": 7.0,
+      "typical_copy": 8.0,
+      "cheapest_real_copy": null,
+      "priced_copies": 5
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.de",
+       "title": "duvoplus, Supa` Nylon Double Hoop 20 x 13 cm Blue/Yellow ...",
+       "link": "https://www.amazon.de/-/en/duvoplus-Supa`-Nylon-Double-Yellow/dp/B0BMFVSSR6",
+       "price_text": "€12",
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_01.jpg",
+       "looked_up": true,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 0 reviews"
+      },
+      {
+       "source": "ZOO & Co.",
+       "title": "azoona Twist-Spielzeug Loop für Hunde ca. 16 cm | ZOO & Co.",
+       "link": "https://shop.zooundco.de/Themen/azoona-Hundezubehoer/azoona-Twist-Spielzeug-Loop-fuer-Hunde-ca-16-cm.html",
+       "price_text": "€8",
+       "kind": "other store",
+       "thumb_file": "lens/teeth-ring_thumb_08.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Fressnapf",
+       "title": "AniOne reflektierender Tau Ring | FRESSNAPF",
+       "link": "https://www.fressnapf.de/p/anione-reflektierender-tau-ring-2065370/",
+       "price_text": "€7",
+       "kind": "other store",
+       "thumb_file": "lens/teeth-ring_thumb_09.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "OTTO",
+       "title": "DUVO+ Outdoor-Spielzeug Hundespielzeug Nylon Hoop blau/gelb ...",
+       "link": "https://www.otto.de/p/duvoplus-outdoor-spielzeug-hundespielzeug-nylon-hoop-blau-gelb-S0W9U0ZR/",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/teeth-ring_thumb_13.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay.de",
+       "title": "Duvo+ Hundespielzeug Nylon Triple Hoop blau/gelb 28x13 cm ...",
+       "link": "https://www.ebay.de/itm/167920644345",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_30.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Kaufland.de",
+       "title": "Dog Fantasy USB LED Nylon Umschaltbare Leine leuchtend",
+       "link": "https://www.kaufland.de/product/520636395/",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_32.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Auenwalder Futter- und Gartenmarkt",
+       "title": "azoona Twist-Spielzeug Loop 16cm",
+       "link": "https://gartenundtierbedarf.de/azoona-Twist-Spielzeug-Loop-16cm",
+       "price_text": "€8",
+       "kind": "other store",
+       "thumb_file": "lens/teeth-ring_thumb_42.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "ZOO & Co.",
+       "title": "azoona Twist-Spielzeug Loop für Hunde ca. 13 cm | ZOO & Co.",
+       "link": "https://shop.zooundco.de/Warengruppen/H-Hund/H-Latex-Gummi-Viny/azoona-Twist-Spielzeug-Loop-fuer-Hunde-ca-13-cm.html",
+       "price_text": "€7",
+       "kind": "other store",
+       "thumb_file": "lens/teeth-ring_thumb_44.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein",
+     "prices": {
+      "brand": 100.78,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Temu",
+       "title": "6pcs blue white graduation ribbon garland braided polyester ...",
+       "link": "https://www.temu.com/ph/6pcs-blue-white-graduation-ribbon-garland-braided-polyester--cords-with-golden-accents-durable-knitted--necklaces-for-2025--may--academic--gift-g-601099808826505.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/teeth-ring_thumb_17.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      }
+     ],
+     "picture_matches": 60
+    }
+   ],
+   "lens_sheet": "lens/teeth-ring_sheet.jpg",
+   "supplier": {
+    "slug": "teeth-ring",
+    "brand_price": 59.99,
+    "brand_currency": "usd",
+    "words": "twisted infinity ring dog toy",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-twisted-infinity-ring-dog-toy.html",
+    "listings": [],
+    "summary": {
+     "found": 0,
+     "priced": 0,
+     "brand_price_usd": 59.99,
+     "status": "none found",
+     "plain": "The photo search did not turn up a supplier listing for this exact object. That does not prove there isn't one: search AliExpress for it by name or picture before you decide."
+    }
+   },
+   "meta": {
+    "slug": "tr-chk1",
+    "phrase": "mellow dog",
+    "checked": "2026-10-14",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22mellow%20dog%22",
+    "ads_loaded": 80,
+    "capped": true,
+    "stopped_by": "stopped at 80 ads (there are more)",
+    "n_advertisers": 2,
+    "advertisers_with_3_plus_ads": 1,
+    "biggest_advertiser_share": 0.99,
+    "brands_new_in_last_2_months": 0,
+    "brands_advertising_3_plus_months": 1,
+    "ads_started_last_2_months": 4,
+    "ads_older_than_6_months": 28,
+    "pattern": "one brand owns it",
+    "plain": "At least 2 brands, but themellowdog.com runs 79 of the 80 ads. We stopped counting at 80 ads, so the real numbers are higher.",
+    "months": {
+     "2023-12": 7,
+     "2024-01": 3,
+     "2024-02": 1,
+     "2024-03": 1,
+     "2025-03": 1,
+     "2025-08": 1,
+     "2025-09": 1,
+     "2025-10": 2,
+     "2025-11": 3,
+     "2025-12": 1,
+     "2026-01": 4,
+     "2026-02": 1,
+     "2026-03": 1,
+     "2026-04": 1,
+     "2026-05": 9,
+     "2026-06": 8,
+     "2026-07": 13,
+     "2026-08": 18,
+     "2026-09": 3,
+     "2026-10": 1
+    },
+    "brand_months": {
+     "2023-12": 1,
+     "2026-08": 1
+    },
+    "top_advertisers": [
+     {
+      "name": "The Mellow Dog",
+      "pages": 1,
+      "page_names": [
+       "The Mellow Dog"
+      ],
+      "ads": 79,
+      "oldest_live_ad": "2023-12-01",
+      "page_likes": 10723,
+      "headline": "Dogs' Emotional Support Duck",
+      "shop": "themellowdog.com",
+      "product_page": "https://themellowdog.com/products/calming-duck",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=319717832243842",
+      "shop_open_since": "2019-06-20"
+     },
+     {
+      "name": "Megelin",
+      "pages": 1,
+      "page_names": [
+       "Megelin"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-10",
+      "page_likes": 82161,
+      "headline": "I am always trying to take the most holistic approach I possibly can with my dog's health ",
+      "shop": "megelin.com",
+      "product_page": "https://megelin.com/products/megelin-laser-led-light-therapy-bag",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103614551428466",
+      "shop_open_since": "2023-05-16"
+     }
+    ],
+    "domains": {
+     "themellowdog.com": 79,
+     "megelin.com": 1
+    },
+    "cost_usd": 0.2,
+    "shops_checked": 2,
+    "shops_over_a_year_old": 2,
+    "shops_under_4_months_old": 0,
+    "takeaway": "Almost nobody advertises a \"teeth cleaning ring\". The Mellow Dog runs 79+ ads since 2023, but mostly for a duck toy; only 5 are for this ring, all started in the last 3 weeks. It is a fresh test, not proof."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "dog teeth cleaning ring",
+     "image": "asis/teeth-ring_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "SMILE Dog Dental Ring XSmall Red",
+       "link": "https://store4paws.com.au/products/smile-dog-dental-ring-xsmall-red?srsltid=AU7gw4XdSejpMzgCVY6xBNAQnY8KAcxelZHBlL_o0C7kAtDIgNLA2ma4",
+       "domain": "store4paws.com.au",
+       "kind": "store / brand",
+       "snippet": "This toy ring for dogs helps your friend clean their teeth thanks to the mechanical action of chewing. With the addition of bicarbonate crystals, it promotes .."
+      },
+      {
+       "position": 2,
+       "title": "Ring Soft Chew Toy Teeth Cleaning Dog Squeaky ...",
+       "link": "https://www.amazon.ca/Ring-Teeth-Cleaning-Squeaky-Light/dp/B075DHGVBN",
+       "domain": "amazon.ca",
+       "kind": "marketplace",
+       "snippet": "Cleaning the teeth of plaque before it forms tartar to promote healthy teeth and gums. Softer Material Designed For Small and medium sized dogs."
+      },
+      {
+       "position": 4,
+       "title": "Dog Flying Discs Toys Ring Spiky Circle Ring Dog Chew ...",
+       "link": "https://www.amazon.com.au/LOKLNEYK-Grinding-Cleaning-Interactive-Training/dp/B0FVPYBRL2",
+       "domain": "amazon.com.au",
+       "kind": "marketplace",
+       "snippet": "The spiky chew toy comes with soft burrs on the surface, dogs can clean their teeth and make their teeth and molar healthier during biting the toy."
+      },
+      {
+       "position": 5,
+       "title": "Amazon.com.au: Pet Teeth Cleaning",
+       "link": "https://www.amazon.com.au/pet-teeth-cleaning/s?k=pet+teeth+cleaning",
+       "domain": "amazon.com.au",
+       "kind": "marketplace",
+       "snippet": "Dog Dental Wipes, Dog Teeth Cleaning Wipes, Reduce Plaque & Tartar, Freshen Breath, Pre-Soaked Pet Dental Care Finger Wipes for Dogs & Cats, Portable Disposable"
+      },
+      {
+       "position": 6,
+       "title": "Dog Toys Rubber Bite Resistant Molar Tooth Cleaning ...",
+       "link": "https://www.ebay.com.au/itm/226278208790?srsltid=AU7gw4WEExGRC_ItTglh5CuYE0JEZpAhfz9LWtKVcQErxWes95D66LnY",
+       "domain": "ebay.com.au",
+       "kind": "marketplace",
+       "snippet": "Creative thread design to clean tartar when the dog is chewing. Function: Grinding teeth cleaning, interactive training, flexibility and bite resistance."
+      }
+     ],
+     "paa": [
+      "How do I remove plaque from dog teeth?",
+      "How much will it cost to get dogs' teeth cleaned?",
+      "What is dental cleaning for dogs?",
+      "Are you supposed to brush dogs' teeth?"
+     ],
+     "popular_products": [
+      {
+       "title": "Dog Pull Ring Bite-Resistant Interactive Teeth Cleaning",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Canine Clean Peppermint Dental Triple Ring Chew Dog Toy",
+       "price": null,
+       "source": "Petbarn"
+      },
+      {
+       "title": "Dog Pull Ring Bite-Resistant Interactive Teeth Cleaning Bore",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Dog Pull Ring Toy Bite-Resistant Interactive Teeth Cleaning",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Ferplast Smile Ring Dental Dog Toy",
+       "price": null,
+       "source": "PeekAPaw Pet Supplies"
+      },
+      {
+       "title": "NOLITOY Dog Chew Toy Teeth Cleaning Ring Interactive Molar B",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Dog Teething Ring Toy - Tooth Cleaning and Chewing Fun, Blue",
+       "price": null,
+       "source": "Aussie Pet"
+      },
+      {
+       "title": "Dog Molar Teeth Cleaning Cotton Rope Chew Ring for Big Dogs",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Velocity Bite Teeth Cleaning Ring for Large Dogs Chew Toy fo",
+       "price": null,
+       "source": "Woolworths"
+      },
+      {
+       "title": "BESPORTBLE Dog Teeth Cleaning Ring Puppy Plaything Biting Sm",
+       "price": null,
+       "source": "Amazon"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: store4paws.com.au (store / brand). In the product strip: Amazon, Aussie Pet, PeekAPaw Pet Supplies, Petbarn, Woolworths. Amazon here is crowded."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "dog teeth cleaning ring",
+     "image": "asis/teeth-ring_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Teeth Cleaning Kit",
+       "link": "https://www.amazon.com/clp/B09HN8N2Y6",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Dog dental powder with kelp, clinically studied to reduce plaque & tartar for 86% of dogs, freshens breath, easy food topper"
+      },
+      {
+       "position": 2,
+       "title": "Dental Tools Pet Dog Teeth Cleaner Tool Kit, Stainless ...",
+       "link": "https://www.ebay.com/itm/188585816950",
+       "domain": "ebay.com",
+       "kind": "marketplace",
+       "snippet": "4 styles of dental cleaning care tools include dental probe, tartar scraper, sickle scaler and round plaque remover. easily clean the mouth of stubborn stains, "
+      },
+      {
+       "position": 3,
+       "title": "Pet Teeth Cleaning Tools Pet Grooming Toothbrush ...",
+       "link": "https://luckydoggyrescue.org/products/pet-teeth-cleaning-tools-pet-grooming-toothbrush-cleaning-kit-tartar-remover-tartar-scraper-dog-dental-stain-cleaning-pen",
+       "domain": "luckydoggyrescue.org",
+       "kind": "store / brand",
+       "snippet": "Pet Teeth Cleaning Tools Pet Grooming Toothbrush Cleaning Kit r Scraper Dog Dental Stain. X X X $5.32 USD. Sale price $5.32 USD. Materials and care ..."
+      },
+      {
+       "position": 4,
+       "title": "Dog,Cat,Dental Cleaning Kit,Tartar Scrapping,Teeth ...",
+       "link": "https://www.ebay.com/itm/131844728097",
+       "domain": "ebay.com",
+       "kind": "marketplace",
+       "snippet": "Silver dental cleaning kit with five instruments, including a mirror, on a gray background Dog,Cat,Dental Cleaning Kit,Tartar Scrapping,Teeth Cleaning, ..."
+      },
+      {
+       "position": 5,
+       "title": "Veterinary Dental Cleaning and Oral Care Supplies",
+       "link": "https://www.smartpractice.com/shop/category?cn=Veterinary-Dental-Cleaning-and-Oral-Care-Supplies&id=508745&m=SPV&srsltid=AU7gw4WzBToLo0MGcC5ZRSegKvhY45lM1VcEoRucV5fQJbEgi1F0AhbZ",
+       "domain": "smartpractice.com",
+       "kind": "store / brand",
+       "snippet": "A full line of Veterinary Dental Supplies for cats, dogs, rodents and rabbits including prophy angles and paste, tools, and oral care sprays & gels."
+      }
+     ],
+     "paa": [
+      "How do I remove plaque from dog teeth?",
+      "What are some good products for cleaning my dog's teeth?",
+      "Does ultrasonic teeth cleaning for dogs work?",
+      "What is dental cleaning for dogs?"
+     ],
+     "popular_products": [
+      {
+       "title": "Rdausd 4.33 inch Ring Shape Pet Chew Toy Durable Nylon Rubbe",
+       "price": "$7.99",
+       "source": "Walmart - Seller"
+      },
+      {
+       "title": "Dental Ring Dog Toy",
+       "price": "$4.47",
+       "source": "Okidogi.store"
+      },
+      {
+       "title": "Arm & Hammer for Pets Nubbies Dog Dental Toys Rubber Ring To",
+       "price": "$6.50",
+       "source": "Chewy.com"
+      },
+      {
+       "title": "Rdausd Dog Chew Ring Toy, Durable TPR Cleaning Loop with Mas",
+       "price": "$8.99",
+       "source": "Walmart - Seller"
+      },
+      {
+       "title": "10-15 cm Trixie Denta Fun Mintfresh Ring Natural Rubber",
+       "price": "$12.20",
+       "source": "Shop Vivapets"
+      },
+      {
+       "title": "Rubb'n'Roll 100 % natural toy - Rubb'n'Treats Ring",
+       "price": "$7.25",
+       "source": "all4yourpets.com"
+      },
+      {
+       "title": "Nylon/TPR Dental Dog Chew Ring 4\" Diameter for Oral Care",
+       "price": "$12.99",
+       "source": "Target"
+      },
+      {
+       "title": "Wholehearted Smart Smiles Bacon Flavor Puppy Dental Ring",
+       "price": "$9.29",
+       "source": "Petco.com"
+      },
+      {
+       "title": "Multipet Canine Clean Peppermint 3 Rings",
+       "price": "$6.99",
+       "source": "PetSupplies4Less.com"
+      },
+      {
+       "title": "Yaozq Dog Toy Rubber Squeaky Ring and",
+       "price": "$4.79",
+       "source": "Walmart - LeMonXWL"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "local_map",
+      "local_results",
+      "knowledge_graph",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in the US: amazon.com (marketplace). In the product strip: Chewy.com, Okidogi.store, PetSupplies4Less.com, Petco.com, Shop Vivapets. Amazon here is crowded."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "dog teeth cleaning ring",
+     "image": "asis/teeth-ring_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Dental Ring | Dog Teeth Cleaning",
+       "link": "https://www.omegapaw.com/products/dental-ring.html",
+       "domain": "omegapaw.com",
+       "kind": "store / brand",
+       "snippet": "The DENTAL RINGTM has many layers of polishing paper that removes plaque, tartar and stain build-up. Let your dog brush its own teeth for a professional clean"
+      },
+      {
+       "position": 2,
+       "title": "Pet Hard Rubber Dental Teeth Cleaning Healthy Ring Toy ...",
+       "link": "https://www.ebay.co.uk/itm/296562468926",
+       "domain": "ebay.co.uk",
+       "kind": "marketplace",
+       "snippet": "This toy is specially designed to clean your dog's teeth and massage their gums, promoting oral health while keeping them entertained."
+      },
+      {
+       "position": 3,
+       "title": "Pennine Mighty Mouth Dental Ring Dog Toy",
+       "link": "https://www.elliotspetwarehouse.co.uk/pennine-mighty-mouth-dental-ring-dog-toy/?srsltid=AU7gw4X7jsJR6YROVJ3aM8Ua6b3uzJdU36Qis6lHeHvAk6Oxe7j7BFU-",
+       "domain": "elliotspetwarehouse.co.uk",
+       "kind": "store / brand",
+       "snippet": "This innovative toy is designed to satisfy your canine's natural urge to chew, effectively cleaning teeth and massaging gums."
+      },
+      {
+       "position": 4,
+       "title": "Interactive Training Pet Toy Ring Spiked Dog Teeth ...",
+       "link": "https://www.amazon.co.uk/Interactive-Training-Spiked-Cleaning-Supplies/dp/B0H19SNZCW",
+       "domain": "amazon.co.uk",
+       "kind": "marketplace",
+       "snippet": "Spiked design helps with dog teeth cleaning during chewing. · Serves as an interactive training tool for daily pet play. · Made of durable material, suitable fo"
+      },
+      {
+       "position": 5,
+       "title": "Dog Tooth Ring",
+       "link": "https://www.etsy.com/market/dog_tooth_ring",
+       "domain": "etsy.com",
+       "kind": "marketplace",
+       "snippet": "Discover unique rings, from genuine animal teeth to playful paw designs. The rings are Real K9 Dog Teeth Rings and Pendents (95) $30.00. Teeth Cleaning Pet Toy "
+      }
+     ],
+     "paa": [
+      "Can I scrape the tartar off my dog's teeth myself?",
+      "Do ultrasonic dog teeth cleaning really work?",
+      "What keeps tartar off dog's teeth?",
+      "What is the best dental cleaning device for dogs?"
+     ],
+     "popular_products": [
+      {
+       "title": "Dog Pets Teeth Cleaning Training Thorn Ring Shaped Bite Resi",
+       "price": "£1.90",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "EVERGOODS Dog Fitness Ring 28cm for Bite Training Heavy Duty",
+       "price": "£6.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Dental Treat Ring Dog Toy",
+       "price": "£1.79",
+       "source": "The Range"
+      },
+      {
+       "title": "Petface Seriously Strong Dental Ring Dog Toy",
+       "price": "£4.42",
+       "source": "VioVet"
+      },
+      {
+       "title": "Rosewood Cyber Rubber Ring Dog Toy",
+       "price": "£5.66",
+       "source": "Amazon.co.uk"
+      },
+      {
+       "title": "Trixie Denta Fun Ring",
+       "price": "£6.69",
+       "source": "PriceRunner"
+      },
+      {
+       "title": "Bugalugs Silicone Finger Toothbrush",
+       "price": "£1.39",
+       "source": "DrComparison"
+      },
+      {
+       "title": "Durable TPR Dog Chew Toy Spiky Ring for Aggressive Chewers I",
+       "price": "£2.09",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Pennine Dental Ring Dog Toy",
+       "price": "£2.39",
+       "source": "Strong’s Country Store"
+      },
+      {
+       "title": "Dog Dental Prop, Bear Roll Pet Bite Cleaning Tool | Handy Ca",
+       "price": "£8.49",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results"
+     ],
+     "takeaway": "First result in the UK: omegapaw.com (store / brand). In the product strip: Amazon.co.uk, Amazon.co.uk - Amazon.co.uk-Seller, DrComparison, PriceRunner, Strong’s Country Store. Amazon here is quiet."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "dog teeth cleaning ring",
+     "image": "asis/teeth-ring_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Teeth Cleaning Ring for Small Dogs TPR Chew Puppy ...",
+       "link": "https://www.amazon.ca/COSMEVIVI-Teething-Interactive-Puppies-Pacifier/dp/B0DHHMDQKS",
+       "domain": "amazon.ca",
+       "kind": "marketplace",
+       "snippet": "it helps dogs to clean teeth and freshen breath, great for large dog, medium dog and small puppy, it helps dogs to clean teeth and freshen breath, One-time ..."
+      },
+      {
+       "position": 2,
+       "title": "Dog Dental Cleaning Kit",
+       "link": "https://www.amazon.ca/dog-dental-cleaning-kit/s?k=dog+dental+cleaning+kit",
+       "domain": "amazon.ca",
+       "kind": "marketplace",
+       "snippet": "5 Cleaning Modes Dog Teeth Cleaner with LED Light,IPX6 Waterproof,Rechargeable Pet Tooth Brushing Kit with Dog Tartar Remover · 3.93.9 out of 5 stars (902)."
+      },
+      {
+       "position": 4,
+       "title": "Ashario Pets - Teeth Cleaning Ring - Small - Shoppa.ca",
+       "link": "https://shoppa.ca/products/ashario-pets-teeth-cleaning-ring-small?srsltid=AU7gw4VfsOtAUPD5os2V4-J1rgNlC_PNcI2Y_dXiXK5oO2hPk-MS9RpJ",
+       "domain": "shoppa.ca",
+       "kind": "store / brand",
+       "snippet": "Small is a textured rubber chew ring that supports dental care while your dog plays. Regular price $8.57 CAD"
+      },
+      {
+       "position": 5,
+       "title": "Omega Paw Clean Teeth Small Dental Ring (90 g)",
+       "link": "https://www.ubereats.com/ca/product/b/e026dee5-735d-5314-8aaf-e4d6867c4fc1?srsltid=AU7gw4Vtc2WqS7NoEkUE7_8WKbSfi6Sp7tZhwwo6ooYho1htYydSLNXF",
+       "domain": "ubereats.com",
+       "kind": "store / brand",
+       "snippet": "Ring is a dental hygiene product for dogs, featuring multiple layers of polishing paper that are designed to clean the dog's teeth while chewing."
+      },
+      {
+       "position": 6,
+       "title": "Supet Interactive Training Pet Toy Ring Spiked Ring Dog ...",
+       "link": "https://www.aliexpress.com/item/1005009710304656.html",
+       "domain": "aliexpress.com",
+       "kind": "store / brand",
+       "snippet": "Keep your dog's teeth clean with this interactive chew toy ring made of durable rubber. Available in blue, orange, and colorful options."
+      }
+     ],
+     "paa": [
+      "How do I remove plaque from dog teeth?",
+      "What are some good products for cleaning my dog's teeth?",
+      "How much will it cost to get dogs' teeth cleaned?",
+      "What is dental cleaning for dogs?"
+     ],
+     "popular_products": [
+      {
+       "title": "Dog Pets Teeth Cleaning Training Thorn Ring Shaped Bite Resi",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Dog Ring for Training and Teeth Cleaning, 7\" EVA Foam Dog Ch",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "UM Rubber Chew Ring for Pet Dog Teeth Training Toys thorn ri",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Dog Toy Ring for Chewing and Teeth Cleaning Sturdy Rubber | ",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Dog Ring for Training & Teeth Cleaning, 7-inch EVA Foam Dog ",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Ashario Pets - Teeth Cleaning Ring - Small | Ashario Pets",
+       "price": null,
+       "source": "Ashario Pets Store"
+      },
+      {
+       "title": "Dog Ring Toy for Training and Teeth Cleaning Rubber Dog Ring",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "2pcs Teeth Cleaning Ring for Dog Chew Ball Interactive Dog T",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "JUMP! Dental Ring Dog Toy",
+       "price": null,
+       "source": "Pet Valu"
+      },
+      {
+       "title": "Dog Ring for Training and Teeth Cleaning, 7\" EVA Foam Dog Ch",
+       "price": null,
+       "source": "Amazon CA"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: amazon.ca (marketplace). In the product strip: Amazon, Amazon CA, Ashario Pets Store, Pet Valu. Amazon here is crowded."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "dog teeth cleaning ring",
+     "image": "asis/teeth-ring_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "🌟 Dog's new favorite for happy training, three-ring elastic ...",
+       "link": "https://world.taobao.com/lang/en-us/goods/-1001034520425.htm",
+       "domain": "world.taobao.com",
+       "kind": "store / brand",
+       "snippet": "The core function of this three-ring bungee toy is teething.Tpr material is not only harmless to dogs' teeth, but also helps to clean tartar and ..."
+      },
+      {
+       "position": 3,
+       "title": "BGHK Dog Toothbrush, Fingerling ...",
+       "link": "https://www.amazon.de/-/en/BGHK-Toothbrush-Fingerling-Cleaning-Toothbrushes/dp/B0B7WD8P7W",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Dog Toothbrush, Fingerling, Toothbrush for Dogs, 360º Pets Teeth Cleaning Toothbrush, Apply Cat Dogs Dental Care Pack of 2 Silicone Finger Toothbrushes ..."
+      },
+      {
+       "position": 4,
+       "title": "Beeztees Welpe Dental Ring Kauspielzeug - PITUPITA-Shop",
+       "link": "https://www.pitupita-shop.de/Beeztees-Welpe-Dental-Ring-Kauspielzeug-fuer-die-Zaehne",
+       "domain": "pitupita-shop.de",
+       "kind": "store / brand",
+       "snippet": "www.pitupita-shop.de PituPita Hundezubehör und Hundekauartikel Welpen-Kauspielzeug mit Vanilleduft, das Schmerzen beim Zahnwechsel lindert und das ..."
+      },
+      {
+       "position": 5,
+       "title": "Popular dog interactive ring chew toys, anti bite and wear- ...",
+       "link": "https://www.aliexpress.com/item/1005011863591765.html",
+       "domain": "aliexpress.com",
+       "kind": "store / brand",
+       "snippet": "Teeth cleaning function The textured surface of the chew toy helps clean teeth during play, promoting better oral hygiene. Regular use can reduce plaque buildup"
+      },
+      {
+       "position": 7,
+       "title": "Omega Paw Dental Ring Solutions For Dogs Teeth 4 Pack ...",
+       "link": "https://www.amazon.nl/Omega-Paw-Dental-Solutions-Teeth/dp/B01G84FQ50",
+       "domain": "amazon.nl",
+       "kind": "marketplace",
+       "snippet": "The dental ring will clean your dogs teeth right up to the gum line. Helps prevent gum disease and tooth decay by removing plaque and tartar and strengthening ."
+      }
+     ],
+     "paa": [
+      "How do I remove plaque from dog teeth?",
+      "How much will it cost to get dogs' teeth cleaned?",
+      "Does ultrasonic teeth cleaning for dogs work?",
+      "What is dental cleaning for dogs?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "related_questions",
+      "organic_results"
+     ],
+     "takeaway": "First result in Germany: world.taobao.com (store / brand). Amazon here is crowded."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "dog teeth cleaning ring",
+     "image": "asis/teeth-ring_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Dental Ring | Dog Teeth Cleaning",
+       "link": "https://www.omegapaw.com/products/dental-ring.html",
+       "domain": "omegapaw.com",
+       "kind": "store / brand",
+       "snippet": "The DENTAL RINGTM has many layers of polishing paper that removes plaque, tartar and stain build-up. Let your dog brush its own teeth for a professional clean"
+      },
+      {
+       "position": 2,
+       "title": "Leftwei Dog Rubber Teeth Cleaning Ring for Medium and ...",
+       "link": "https://www.amazon.com.au/Leftwei-Rubber-Cleaning-Odorless-Donut-Loving/dp/B0GZ8TFNKX",
+       "domain": "amazon.com.au",
+       "kind": "marketplace",
+       "snippet": "Effectively cleans your dog's teeth and reduces tooth decay. [SUITABLE FOR MEDIUM TO LARGE DOGS] Perfect for Golden Retrievers, Border Collies, Huskies, and ..."
+      },
+      {
+       "position": 3,
+       "title": "The Ultimate Guide to Dog Teeth Cleaning",
+       "link": "https://nz.virbac.com/home/health-care/pagecontent/select-a-species/dog-dental-health/ultimate-guide-for-teeth-cleaning.html",
+       "domain": "nz.virbac.com",
+       "kind": "store / brand",
+       "snippet": "Learn the step-by-step method for brushing your dog's teeth at home. Find tips on dental chews, professional cleaning, and using Virbac C.E.T. ® toothpaste."
+      },
+      {
+       "position": 5,
+       "title": "Bite Ring Dog Toy - Tooth Cleaning Chewing Pleasure",
+       "link": "https://kiwiwags.nz/products/bite-ring-dog-toy-tooth-cleaning-chewing-pleasure?srsltid=AU7gw4V5vq9_6iMxHz1EBQcxo2oFWSh2hzS_vCFzR0arw_z7ywn_GD4t",
+       "domain": "kiwiwags.nz",
+       "kind": "store / brand",
+       "snippet": "Promotes dental health: The soft nubs clean the teeth, reduce tartar build-up and gently massage the gums. 🛡️ Robust & Durable: High-quality, bite- ..."
+      },
+      {
+       "position": 6,
+       "title": "How to Look After Your Dog's Teeth",
+       "link": "https://www.purina.co.nz/care-and-advice/dog/health/teeth-cleaning",
+       "domain": "purina.co.nz",
+       "kind": "store / brand",
+       "snippet": "If left untouched for 3-5 days, plaque combines with minerals in your dog's saliva to harden and turn to tartar. Keeping your dog's teeth clean can help scrape "
+      }
+     ],
+     "paa": [
+      "What is the best dental cleaning device for dogs?",
+      "What keeps tartar off dog's teeth?",
+      "Can you descale your dog's teeth yourself?",
+      "Do ultrasonic dog teeth cleaning really work?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "related_questions",
+      "ai_overview",
+      "organic_results"
+     ],
+     "takeaway": "First result in New Zealand: omegapaw.com (store / brand). Amazon here is crowded."
+    }
+   ],
+   "compare": {
+    "match_name": "Fressnapf Germany (€7)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same blue-and-yellow braided ring, sold as the Twisted Chews Giant Infinity Ring.",
+    "brand_image": "teeth-ring/img_4.jpg",
+    "match_image": "lens/teeth-ring_thumb_09.jpg"
+   }
+  },
+  {
    "slug": "doggo-dock",
    "name": "ISOFIX Dog Car Seat (Wagging Rights)",
    "one_liner": "Kmart and BIG W sell the same seat design for A$55, FunnyFuzzy owns the look, Temu advertises dog car seats heavily, and the XL seat is 100 cm long and costly to ship.",
@@ -20203,6 +21752,7 @@
   "neck-cream",
   "lola-kit",
   "paw-wash",
+  "teeth-ring",
   "doggo-dock",
   "ayat-bracelet"
  ]

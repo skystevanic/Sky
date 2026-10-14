@@ -1,0 +1,115 @@
+{
+  "input_url": "https://themellowdog.com/products/teeth-cleaning-ring",
+  "store_root": "https://themellowdog.com",
+  "platform": "shopify",
+  "title": "Teeth Cleaning Ring",
+  "vendor": "The Mellow Dog",
+  "product_type": "",
+  "created_at": "2026-09-22T19:19:36-04:00",
+  "updated_at": "2026-10-14T05:24:02-04:00",
+  "price_min": 59.99,
+  "price_max": 59.99,
+  "was_price": "99.99",
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "was": "99.99",
+      "available": null
+    }
+  ],
+  "description": "",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/09_extra_golden-asleep.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/13_extra_S1alt_husky-picks-ring.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/06_lab_chewing.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/ds.jpg?v=1790213650",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/16_large_yellow-lab.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/10_extra_dachshund-tug.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/14j_illustration_blue-only_A.jpg?v=1790213660",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/05_jackrussell_couch.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/07_aussie_fetch.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/02_S2_teeth_beagle_fixB.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/03_S3_no-brush_cavalier.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/02_S2_teeth_beagle_fixA.jpg?v=1790213356",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/04_S4_tug_shepherd.jpg?v=1790213307",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/11_extra_staffy-powerchew.jpg?v=1790213283",
+    "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/01_S1_red-toys_golden.jpg?v=1790213246"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 22,
+    "first_product_created": "2019-06-20T19:56:33-04:00",
+    "newest": [
+      {
+        "title": "Satisfying Candy",
+        "created_at": "2026-09-27",
+        "price": "39.99"
+      },
+      {
+        "title": "Teeth Cleaning Ring",
+        "created_at": "2026-09-22",
+        "price": "59.99"
+      },
+      {
+        "title": "Pig Pig",
+        "created_at": "2026-08-16",
+        "price": "59.99"
+      },
+      {
+        "title": "Calming Assistant",
+        "created_at": "2026-08-02",
+        "price": "39.99"
+      },
+      {
+        "title": "Motion Ball",
+        "created_at": "2026-06-29",
+        "price": "39.99"
+      },
+      {
+        "title": "Teasing UFO (Cats)",
+        "created_at": "2026-05-17",
+        "price": "59.99"
+      },
+      {
+        "title": "Teasing UFO",
+        "created_at": "2026-05-12",
+        "price": "59.99"
+      },
+      {
+        "title": "Shark Buddy",
+        "created_at": "2026-01-13",
+        "price": "29.99"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/teeth-ring/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/09_extra_golden-asleep.jpg?v=1790213356"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/teeth-ring/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/13_extra_S1alt_husky-picks-ring.jpg?v=1790213356"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/teeth-ring/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/06_lab_chewing.jpg?v=1790213356"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/teeth-ring/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/ds.jpg?v=1790213650"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/teeth-ring/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/16_large_yellow-lab.jpg?v=1790213356"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/teeth-ring/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0107/7526/5342/files/10_extra_dachshund-tug.jpg?v=1790213356"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "tr-chk3",
+ "phrase": "chew ring",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22chew%20ring%22",
+ "ads_loaded": 5,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 2,
+ "advertisers_with_3_plus_ads": 1,
+ "biggest_advertiser_share": 0.6,
+ "brands_new_in_last_2_months": 1,
+ "brands_advertising_3_plus_months": 1,
+ "ads_started_last_2_months": 3,
+ "ads_older_than_6_months": 1,
+ "pattern": "one brand owns it",
+ "plain": "2 brands, but shop.smallpetselect.com runs 3 of the 5 ads.",
+ "months": {
+  "2025-11": 1,
+  "2026-08": 1,
+  "2026-09": 1,
+  "2026-10": 2
+ },
+ "brand_months": {
+  "2025-11": 1,
+  "2026-10": 1
+ },
+ "top_advertisers": [
+  {
+   "name": "Small Pet Select",
+   "pages": 1,
+   "page_names": [
+    "Small Pet Select"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2025-11-03",
+   "page_likes": 105927,
+   "headline": "{{product.name}}",
+   "shop": "shop.smallpetselect.com",
+   "product_page": "https://shop.smallpetselect.com/collections/toys-and-chews",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=161299887248809",
+   "shop_open_since": "2015-03-31"
+  },
+  {
+   "name": "T&D Product",
+   "pages": 1,
+   "page_names": [
+    "T&D Product"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 5,
+   "headline": "Everyday Essentials. Extraordinary Living.",
+   "shop": "tdproduct.com",
+   "product_page": "https://tdproduct.com/collections/shop-all",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=260933493771333",
+   "shop_open_since": "2026-06-19"
+  }
+ ],
+ "domains": {
+  "shop.smallpetselect.com": 3,
+  "tdproduct.com": 2
+ },
+ "cost_usd": 0.03,
+ "shops_checked": 2,
+ "shops_over_a_year_old": 1,
+ "shops_under_4_months_old": 1
+}

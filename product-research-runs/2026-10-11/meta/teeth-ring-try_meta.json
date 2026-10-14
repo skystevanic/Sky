@@ -1,0 +1,209 @@
+{
+ "slug": "teeth-ring-try",
+ "phrase": "dog chew toy",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22dog%20chew%20toy%22",
+ "ads_loaded": 30,
+ "capped": true,
+ "stopped_by": "stopped at 30 ads (there are more)",
+ "n_advertisers": 11,
+ "advertisers_with_3_plus_ads": 5,
+ "biggest_advertiser_share": 0.2,
+ "brands_new_in_last_2_months": 8,
+ "brands_advertising_3_plus_months": 1,
+ "ads_started_last_2_months": 21,
+ "ads_older_than_6_months": 0,
+ "pattern": "a swarm, right now",
+ "plain": "At least 11 brands, and 8 of them only started advertising it in the last two months. We stopped counting at 30 ads, so the real numbers are higher.",
+ "months": {
+  "2026-05": 1,
+  "2026-07": 3,
+  "2026-08": 5,
+  "2026-09": 21
+ },
+ "brand_months": {
+  "2026-05": 1,
+  "2026-07": 1,
+  "2026-08": 2,
+  "2026-09": 7
+ },
+ "top_advertisers": [
+  {
+   "name": "Amazing chrysanthemum",
+   "pages": 1,
+   "page_names": [
+    "Amazing chrysanthemum"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-08-19",
+   "page_likes": 7980,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Best-Pet-Supplies-Interactive-Colorful/dp/B0CL3WC4MT/ref=sr_1_20",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=295458313648867",
+   "shop_open_since": null
+  },
+  {
+   "name": "Janar GYM 5",
+   "pages": 1,
+   "page_names": [
+    "Janar GYM 5"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-09-09",
+   "page_likes": 5324,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Best-Pet-Supplies-Interactive-Colorful/dp/B0CL3WC4MT/ref=sr_1_20",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1013406288523049",
+   "shop_open_since": null
+  },
+  {
+   "name": "Reylv 2",
+   "pages": 1,
+   "page_names": [
+    "Reylv 2"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-07-28",
+   "page_likes": 11972,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Best-Pet-Supplies-Interactive-Colorful/dp/B0CL3WC4MT/ref=sr_1_20",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=680047325200930",
+   "shop_open_since": null
+  },
+  {
+   "name": "วิภา วิทยา",
+   "pages": 1,
+   "page_names": [
+    "วิภา วิทยา"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-18",
+   "page_likes": 685,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Best-Pet-Supplies-Interactive-Colorful/dp/B0CL3WC4MT/ref=sr_1_20",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=139301385944049",
+   "shop_open_since": null
+  },
+  {
+   "name": "Catastrophic Industries",
+   "pages": 1,
+   "page_names": [
+    "Catastrophic Industries"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-09",
+   "page_likes": 36863,
+   "headline": "Potato Masher Solid Rubber Dog Chew Toy",
+   "shop": "catastrophicind.com",
+   "product_page": "https://catastrophicind.com/collections/dog-chew-toys",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=191321620721592",
+   "shop_open_since": "2025-05-14"
+  },
+  {
+   "name": "พัชรา สุรีย์",
+   "pages": 1,
+   "page_names": [
+    "พัชรา สุรีย์"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-02",
+   "page_likes": 660,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/66Best-Pet-Supplies-Interactive-Colorful/dp/B0CL3WC4MT/ref=sr_1_20",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=236355399550913",
+   "shop_open_since": null
+  },
+  {
+   "name": "Scrawny Ecstatic",
+   "pages": 1,
+   "page_names": [
+    "Scrawny Ecstatic"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-18",
+   "page_likes": 1085,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Best-Pet55-Supplies-Interactive-Colorful/dp/B0CL3WC4MT/ref=sr_1_20",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=329737033560368",
+   "shop_open_since": null
+  },
+  {
+   "name": "Enigma ideally 74",
+   "pages": 1,
+   "page_names": [
+    "Enigma ideally 74"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-14",
+   "page_likes": 3372,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/66Best-Pet-Supplies-Interactive-Colorful/dp/B0CL3WC4MT/ref=sr_1_20",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=298914393312780",
+   "shop_open_since": null
+  },
+  {
+   "name": "Scrawny Ecstatic",
+   "pages": 1,
+   "page_names": [
+    "Scrawny Ecstatic"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 1085,
+   "headline": "{{product.name}}",
+   "shop": "mountain.tamarindgrove.store",
+   "product_page": "https://mountain.tamarindgrove.store/6aa273de13915/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=329737033560368",
+   "shop_open_since": null
+  },
+  {
+   "name": "Chewy",
+   "pages": 1,
+   "page_names": [
+    "Chewy"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-12",
+   "page_likes": 1917448,
+   "headline": "{{product.name}}",
+   "shop": "chewy.com",
+   "product_page": "http://chewy.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=179450065439629",
+   "shop_open_since": null
+  },
+  {
+   "name": "Alibaba.com",
+   "pages": 1,
+   "page_names": [
+    "Alibaba.com"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-11",
+   "page_likes": 28865325,
+   "headline": "{{product.name}}",
+   "shop": "m.alibaba.com",
+   "product_page": "https://m.alibaba.com/lp/group",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=22437985072",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "amazon.com": 24,
+  "catastrophicind.com": 3,
+  "mountain.tamarindgrove.store": 1,
+  "chewy.com": 1,
+  "m.alibaba.com": 1
+ },
+ "cost_usd": 0.15,
+ "shops_checked": 1,
+ "shops_over_a_year_old": 1,
+ "shops_under_4_months_old": 0
+}

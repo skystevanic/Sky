@@ -1,0 +1,85 @@
+{
+ "slug": "tr-chk1",
+ "phrase": "mellow dog",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22mellow%20dog%22",
+ "ads_loaded": 80,
+ "capped": true,
+ "stopped_by": "stopped at 80 ads (there are more)",
+ "n_advertisers": 2,
+ "advertisers_with_3_plus_ads": 1,
+ "biggest_advertiser_share": 0.99,
+ "brands_new_in_last_2_months": 0,
+ "brands_advertising_3_plus_months": 1,
+ "ads_started_last_2_months": 4,
+ "ads_older_than_6_months": 28,
+ "pattern": "one brand owns it",
+ "plain": "At least 2 brands, but themellowdog.com runs 79 of the 80 ads. We stopped counting at 80 ads, so the real numbers are higher.",
+ "months": {
+  "2023-12": 7,
+  "2024-01": 3,
+  "2024-02": 1,
+  "2024-03": 1,
+  "2025-03": 1,
+  "2025-08": 1,
+  "2025-09": 1,
+  "2025-10": 2,
+  "2025-11": 3,
+  "2025-12": 1,
+  "2026-01": 4,
+  "2026-02": 1,
+  "2026-03": 1,
+  "2026-04": 1,
+  "2026-05": 9,
+  "2026-06": 8,
+  "2026-07": 13,
+  "2026-08": 18,
+  "2026-09": 3,
+  "2026-10": 1
+ },
+ "brand_months": {
+  "2023-12": 1,
+  "2026-08": 1
+ },
+ "top_advertisers": [
+  {
+   "name": "The Mellow Dog",
+   "pages": 1,
+   "page_names": [
+    "The Mellow Dog"
+   ],
+   "ads": 79,
+   "oldest_live_ad": "2023-12-01",
+   "page_likes": 10723,
+   "headline": "Dogs' Emotional Support Duck",
+   "shop": "themellowdog.com",
+   "product_page": "https://themellowdog.com/products/calming-duck",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=319717832243842",
+   "shop_open_since": "2019-06-20"
+  },
+  {
+   "name": "Megelin",
+   "pages": 1,
+   "page_names": [
+    "Megelin"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-10",
+   "page_likes": 82161,
+   "headline": "I am always trying to take the most holistic approach I possibly can with my dog's health ",
+   "shop": "megelin.com",
+   "product_page": "https://megelin.com/products/megelin-laser-led-light-therapy-bag",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103614551428466",
+   "shop_open_since": "2023-05-16"
+  }
+ ],
+ "domains": {
+  "themellowdog.com": 79,
+  "megelin.com": 1
+ },
+ "cost_usd": 0.2,
+ "shops_checked": 2,
+ "shops_over_a_year_old": 2,
+ "shops_under_4_months_old": 0
+}

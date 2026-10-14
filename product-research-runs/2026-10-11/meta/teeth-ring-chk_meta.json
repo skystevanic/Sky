@@ -1,0 +1,427 @@
+{
+ "slug": "teeth-ring-chk",
+ "phrase": "teeth cleaning ring",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22teeth%20cleaning%20ring%22",
+ "ads_loaded": 60,
+ "capped": true,
+ "stopped_by": "stopped at 60 ads (there are more)",
+ "n_advertisers": 24,
+ "advertisers_with_3_plus_ads": 6,
+ "biggest_advertiser_share": 0.17,
+ "brands_new_in_last_2_months": 11,
+ "brands_advertising_3_plus_months": 8,
+ "ads_started_last_2_months": 21,
+ "ads_older_than_6_months": 9,
+ "pattern": "crowded",
+ "plain": "At least 24 brands advertise it; 8 have kept ads running 3+ months, 11 are new in the last two months. We stopped counting at 60 ads, so the real numbers are higher. Of the 5 biggest shops we could date, 5 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2025-03": 1,
+  "2026-03": 5,
+  "2026-04": 3,
+  "2026-05": 7,
+  "2026-06": 6,
+  "2026-07": 5,
+  "2026-08": 12,
+  "2026-09": 11,
+  "2026-10": 10
+ },
+ "brand_months": {
+  "2025-03": 1,
+  "2026-03": 1,
+  "2026-04": 2,
+  "2026-05": 1,
+  "2026-06": 2,
+  "2026-07": 3,
+  "2026-08": 3,
+  "2026-09": 5,
+  "2026-10": 6
+ },
+ "top_advertisers": [
+  {
+   "name": "Paw Guardian",
+   "pages": 3,
+   "page_names": [
+    "Paw Guardian",
+    "Dog Health Tips",
+    "Fur Baby Hacks"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-05-26",
+   "page_likes": 576,
+   "headline": "How this dental spray works without brushing.",
+   "shop": "paw-guardian.com",
+   "product_page": "https://paw-guardian.com/products/anti-tartar-spray-dogs-cats",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=440580675813127",
+   "shop_open_since": "2025-03-12"
+  },
+  {
+   "name": "PetLab Co.",
+   "pages": 1,
+   "page_names": [
+    "PetLab Co."
+   ],
+   "ads": 8,
+   "oldest_live_ad": "2026-06-03",
+   "page_likes": 18709871,
+   "headline": "People Asked For Real Proof, So Here's What PetLab Did...",
+   "shop": "offers.thepetlabco.com",
+   "product_page": "https://offers.thepetlabco.com/probright-advanced/quiz/twostep_step1_offer",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=177930899801067",
+   "shop_open_since": null
+  },
+  {
+   "name": "PetLab Co.",
+   "pages": 1,
+   "page_names": [
+    "PetLab Co."
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-03-31",
+   "page_likes": 367051,
+   "headline": "Dog groomer reviews viral powder for bad dog breath 👀",
+   "shop": "campaigns.thepetlabco.ca",
+   "product_page": "https://campaigns.thepetlabco.ca/prb_quizw_ca",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=177930899801067",
+   "shop_open_since": null
+  },
+  {
+   "name": "Arterra Pet",
+   "pages": 1,
+   "page_names": [
+    "Arterra Pet"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-08-15",
+   "page_likes": 1560,
+   "headline": "Science for Dog Smiles",
+   "shop": "arterrapet.com",
+   "product_page": "https://arterrapet.com/pages/listicle-rw-arterra-vs-greenies",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108945082176037",
+   "shop_open_since": "2024-02-09"
+  },
+  {
+   "name": "Katie's Pet Heaven",
+   "pages": 1,
+   "page_names": [
+    "Katie's Pet Heaven"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-07-07",
+   "page_likes": 974,
+   "headline": "{{product.name}}",
+   "shop": "katiespetheavenblackwater.com",
+   "product_page": "https://katiespetheavenblackwater.com/ultrasonic-dental-cleaning/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1938103063086347",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu Australia",
+   "pages": 1,
+   "page_names": [
+    "Temu Australia"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-07-28",
+   "page_likes": 219848,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/au/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=116718724643539",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mighty Munch",
+   "pages": 1,
+   "page_names": [
+    "Mighty Munch"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-17",
+   "page_likes": 50440,
+   "headline": "The truth about small dog teeth",
+   "shop": "au.mightymunch.com",
+   "product_page": "https://au.mightymunch.com/pages/dental-sticks-omgnewpackage",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=181290129179755",
+   "shop_open_since": "2021-01-18"
+  },
+  {
+   "name": "PawBright",
+   "pages": 1,
+   "page_names": [
+    "PawBright"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-04-13",
+   "page_likes": 1537,
+   "headline": "No More Death Smell",
+   "shop": "paw-bright.com",
+   "product_page": "https://paw-bright.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=637947766067555",
+   "shop_open_since": "2025-08-10"
+  },
+  {
+   "name": "DogPlaybox",
+   "pages": 1,
+   "page_names": [
+    "DogPlaybox"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-10",
+   "page_likes": 9653,
+   "headline": "Dread brushing dog teeth?",
+   "shop": "dogplaybox.com",
+   "product_page": "https://dogplaybox.com/products/nano-sponge-pet-tooth-cleaner",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=449449694926176",
+   "shop_open_since": "2025-07-24"
+  },
+  {
+   "name": "BlanCanine",
+   "pages": 1,
+   "page_names": [
+    "BlanCanine"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-06",
+   "page_likes": 1549,
+   "headline": "{{product.name}}",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=678432352020604",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu New Zealand",
+   "pages": 1,
+   "page_names": [
+    "Temu New Zealand"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-26",
+   "page_likes": 31027,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/au/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100124369799915",
+   "shop_open_since": null
+  },
+  {
+   "name": "PetLab Co.",
+   "pages": 1,
+   "page_names": [
+    "PetLab Co."
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 4619782,
+   "headline": "Vet shares how she cleans dog teeth WITHOUT a toothbrush",
+   "shop": "campaigns.thepetlabco.com",
+   "product_page": "https://campaigns.thepetlabco.com/prb_quizw",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=177930899801067",
+   "shop_open_since": null
+  },
+  {
+   "name": "LuLu & Paws Pet Grooming - Durham",
+   "pages": 1,
+   "page_names": [
+    "LuLu & Paws Pet Grooming - Durham"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-04-14",
+   "page_likes": 2920,
+   "headline": "🦷 Professional Ultrasonic Dog Teeth Cleaning\n\nDental care is an important part of your dog",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105473457993831",
+   "shop_open_since": null
+  },
+  {
+   "name": "American Dog Community",
+   "pages": 1,
+   "page_names": [
+    "American Dog Community"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-29",
+   "page_likes": 15,
+   "headline": "Eliminate Doggie Breath 👉🏻",
+   "shop": "puplabs.com",
+   "product_page": "https://puplabs.com/pages/5-sec-morning-routine",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1240693589127398",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pet Store & Spa - Nhà Phô Mai",
+   "pages": 1,
+   "page_names": [
+    "Pet Store & Spa - Nhà Phô Mai"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-03-03",
+   "page_likes": 7420,
+   "headline": "💥 𝐂ả𝐧𝐡 𝐛á𝐨: Đừ𝐧𝐠 𝐛𝐚𝐨 𝐠𝐢ờ 𝐦𝐨𝐧𝐠 𝐫ă𝐧𝐠 𝐜ú𝐧 𝐭𝐫ắ𝐧𝐠 𝐬ạ𝐜𝐡 𝐭𝐫ừ 𝐤𝐡𝐢 𝐛ạ𝐧 đọ𝐜 𝐛à𝐢 𝐧à𝐲 💥\n𝖢ạ𝗈 𝗏ô𝗂 𝗋ă𝗇𝗀 𝗅",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1662605684042898",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ohnorman",
+   "pages": 1,
+   "page_names": [
+    "Ohnorman"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-26",
+   "page_likes": 15550,
+   "headline": "🍂 20% Off Sitewide — Code: FALL",
+   "shop": "ohnorman.com",
+   "product_page": "https://ohnorman.com/discount/FALL",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107853039021642",
+   "shop_open_since": null
+  },
+  {
+   "name": "Dan From Freezbone",
+   "pages": 1,
+   "page_names": [
+    "Dan From Freezbone"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 26,
+   "headline": "Dog Owners Are Obsessed →",
+   "shop": "freezbone.com",
+   "product_page": "https://www.freezbone.com/collections/all",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1290678710801393",
+   "shop_open_since": null
+  },
+  {
+   "name": "Fairfield Road Veterinary Hospital",
+   "pages": 1,
+   "page_names": [
+    "Fairfield Road Veterinary Hospital"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-09",
+   "page_likes": 1502,
+   "headline": "{{product.name}}",
+   "shop": "petsoutwest.com.au",
+   "product_page": "https://petsoutwest.com.au/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=478908852150804",
+   "shop_open_since": null
+  },
+  {
+   "name": "Cindy Baker",
+   "pages": 1,
+   "page_names": [
+    "Cindy Baker"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": 16,
+   "headline": "where do i get the finger wipes for dog teeth the vet tech used on my dog?? no toothbrush,",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1167613869760482",
+   "shop_open_since": null
+  },
+  {
+   "name": "Cesar Millan",
+   "pages": 1,
+   "page_names": [
+    "Cesar Millan"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 11904690,
+   "headline": "Cesar Millan: So you wanna be a dog whisperer?",
+   "shop": "rebrand.ly",
+   "product_page": "https://rebrand.ly/MRTYCM",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=42463089953",
+   "shop_open_since": null
+  },
+  {
+   "name": "Revita Vet Clinic",
+   "pages": 1,
+   "page_names": [
+    "Revita Vet Clinic"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 57,
+   "headline": "Dental scaling removes plaque and tartar above and below the gumline, keeping your pet's m",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1030502340139658",
+   "shop_open_since": null
+  },
+  {
+   "name": "K9 Pet Services 101",
+   "pages": 1,
+   "page_names": [
+    "K9 Pet Services 101"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-30",
+   "page_likes": 2404,
+   "headline": "Dog teeth cleaning day.",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103554568714926",
+   "shop_open_since": null
+  },
+  {
+   "name": "Fresh Breath Doggie Dental Melbourne ",
+   "pages": 1,
+   "page_names": [
+    "Fresh Breath Doggie Dental Melbourne "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 136,
+   "headline": "Anesthesia free dog teeth cleaning Melbourne Victoria",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1159300070607816",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ottawa Events",
+   "pages": 1,
+   "page_names": [
+    "Ottawa Events"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": 258,
+   "headline": "Welcome to The K9 Plaque Queen",
+   "shop": "waitwhile.com",
+   "product_page": "http://www.waitwhile.com/locations/kissablek9",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=114975171648579",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "paw-guardian.com": 10,
+  "offers.thepetlabco.com": 8,
+  "temu.com": 6,
+  "campaigns.thepetlabco.ca": 5,
+  "arterrapet.com": 5,
+  "katiespetheavenblackwater.com": 4,
+  "au.mightymunch.com": 2,
+  "paw-bright.com": 2,
+  "dogplaybox.com": 2,
+  "campaigns.thepetlabco.com": 2,
+  "puplabs.com": 1,
+  "ohnorman.com": 1,
+  "freezbone.com": 1,
+  "petsoutwest.com.au": 1,
+  "rebrand.ly": 1,
+  "waitwhile.com": 1
+ },
+ "cost_usd": 0.29,
+ "shops_checked": 5,
+ "shops_over_a_year_old": 5,
+ "shops_under_4_months_old": 0
+}

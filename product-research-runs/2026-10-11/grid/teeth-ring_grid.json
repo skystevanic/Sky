@@ -1,0 +1,1023 @@
+{
+  "slug": "teeth-ring",
+  "query": "dog teeth cleaning ring",
+  "mode": "full",
+  "brand_price": 59.99,
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "currency": "A$",
+      "status": "blocked",
+      "why": "Woolworths sells it at $26.95",
+      "results": 40,
+      "distinct_sellers": 19,
+      "chains_present": [
+        "Bunnings Warehouse",
+        "Harvey Norman Australia",
+        "Woolworths"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon AU",
+        "Amazon AU - Amazon.com.au-Seller",
+        "Dick Smith AU",
+        "Kogan.com",
+        "eBay - suni_ni"
+      ],
+      "cheapest": 5.0,
+      "typical": 23.99,
+      "most_reviewed": {
+        "seller": "Amazon AU",
+        "title": "Petosan Finger Cloth Oral Cleaner",
+        "reviews": 272,
+        "price_text": "$9.99"
+      },
+      "top_rows": [
+        {
+          "seller": "Amazon AU",
+          "title": "Petosan Finger Cloth Oral Cleaner",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 3.5,
+          "reviews": 272,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:11921479342398174822,productid:6493988267905571471,headlineOfferDocid:12893857086345569885,imageDocid:3296089821327026989,rds:PC_18287382219754888861|PROD_PC_18287382219754888861,gpcid:18287382219754888861,mid:576462433864246285,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT74Hi4GV2ZQBk4_IRm69-uwudqT-76jn8l3HB0S9QfHXyaE36kPFnUnMLTiqYTyraS2qrzh7pa98u09xPjmGCPjk8fplY2vE5kcBGSwwdjzkGQo9LDLkGhNw"
+        },
+        {
+          "seller": "PFH Shop",
+          "title": "KONG Dental Stick",
+          "price_text": "$16.99",
+          "price": 16.99,
+          "rating": 3.4,
+          "reviews": 228,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:8811503619090142612,productid:3592658948125566991,headlineOfferDocid:16457871855847038440,imageDocid:16384013354614161391,rds:PC_5766966730556436448|PROD_PC_5766966730556436448,gpcid:5766966730556436448,mid:576462788686158892,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfag72p6HMxXu_mkIWrGeqc-jDqXvjywuxV_PxjoVKdDUhgbtIjyqJb7_a7DApxkEhfi0DuTmvikMPhSowim-WyXcLfLkxqtvWH23j5HJjvN9H_E_uuVKB"
+        },
+        {
+          "seller": "Harvey Norman Australia",
+          "title": "2x Paws & Claws Fetch N' Play Ring + Rope Tugger Dog/Pet Toy Assorted 24x12x6cm",
+          "price_text": "$19.00",
+          "price": 19.0,
+          "rating": 4.5,
+          "reviews": 90,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:7144476617897150396,productid:15002860670264499647,headlineOfferDocid:9969375201921386460,imageDocid:5088147544184909196,rds:PC_1537035006686931720|PROD_PC_1537035006686931720,gpcid:1537035006686931720,mid:576462567186041333,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQDUE80FjTd-6Y0GxqCVCnHKnb8eLiEcAL3lZFtP6dDF9rldYwxmjLqBodh9jubJ1HsY_DqcNLSG_EHwzKfvkPlExWIXeUM5yYZRZE6bj2EvtRo7CTy7yt6FXI"
+        },
+        {
+          "seller": "Happy-Molly",
+          "title": "Happy-Molly Finger Toothbrush Pet Dental Cleaning Tool 3-Pack Blue Pink White Soft Silicon",
+          "price_text": "$19.90",
+          "price": 19.9,
+          "rating": 5.0,
+          "reviews": 74,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:17554117691301288192,headlineOfferDocid:17554117691301288192,imageDocid:6713691203318486165,rds:LO_17554117691301288192|PROD_LO_17554117691301288192,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRoxcLpQa3t7z8an_I5cyPOFneHqem-0OsTg7JK5wobtJw4QYWu40Vf1kxxPKW00wWwHrUNXxmqbMjzBUKZ7skMkeSk1TiXFXUDiPsY-HJjkU7Tv7PbBN9T-Q"
+        },
+        {
+          "seller": "Amazon",
+          "title": "Dog Training Ring Dog Chewing Ring Dog Chew Toy Dog Training Ring Dog Chew Plaything",
+          "price_text": "$14.79",
+          "price": 14.79,
+          "rating": 5.0,
+          "reviews": 37,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:2074318908104092326,productid:12615941833151008815,headlineOfferDocid:12781794147048045835,imageDocid:8080361801543637095,rds:PC_4487198047237401487|PROD_PC_4487198047237401487,gpcid:4487198047237401487,mid:576462881049528955,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRuGSW_dV4hl9TattlGK3CDsJG1019nnpWSgHijoa5sseSc45Rpw23E4OWNewyToROGe-MF3IbcYI5M7CkVyMqJyRnRw-47Mg"
+        },
+        {
+          "seller": "Amazon",
+          "title": "Canosept dental care finger pads for dogs 3 x 50 pieces dental dog",
+          "price_text": "$56.91",
+          "price": 56.91,
+          "rating": 3.3,
+          "reviews": 16,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:7578390152598320510,productid:49474777525420171,headlineOfferDocid:14217852991167576960,imageDocid:18284455916504136397,rds:PC_15367161732068380733|PROD_PC_15367161732068380733,gpcid:15367161732068380733,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS2pOATMG0EK2gQNQWPp_8jL-StYrhYXUkaWLSehYI3z8hXYjIuol_zzYpVkZK0v3JakS0TvtxqDMu37jvh8kOZhjSXPmkIw4-LC_tC49iRerxYRB6BYZo2Ew"
+        },
+        {
+          "seller": "Fetch Haus",
+          "title": "TropiClean Enticers Kong Dental Ball & Smoked Beef Brisket Gel Large",
+          "price_text": "$39.99",
+          "price": 39.99,
+          "rating": 4.4,
+          "reviews": 1,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:6751819757938471462,headlineOfferDocid:6751819757938471462,imageDocid:8277544171505770156,rds:PC_11005687739219711990|PROD_PC_11005687739219711990,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRS1MJoAoJhg-eVhG74CTMA5x3LbCgwdaEp5NEJHrzhf5j8wbH2IiLGO-FZcQXQBJUQHumsKbCh9Il86PN8kaqrdeDLMMml03XrfPA_YNL1wsGEiXex3AvtKA"
+        },
+        {
+          "seller": "Amazon",
+          "title": "Petosan Oral Cleaner Finger Cloth for Dogs, Vet (Single) (Pack of 2)",
+          "price_text": "$19.80",
+          "price": 19.8,
+          "rating": null,
+          "reviews": null,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:9335998369480443624,headlineOfferDocid:9335998369480443624,imageDocid:11203053768821053412,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHu78ndFqItM4FjMoZMDSpoKLDCf4LEPr1eogvZvRVNSkxJdtWgltZfwSU97VJ3y-Igm6vPbqBKtB1s9rRmaeB4IHpOUB9xw"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Woolworths",
+          "title": "6Pcs Dog Toothbrush 360¡ã Cleaning Finger Toothbrush Pet Silicone Clean Fingertips",
+          "price_text": "$26.95",
+          "price": 26.95,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:11584852718398201875,headlineOfferDocid:11584852718398201875,imageDocid:10335971072419490220,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcST_03skgjHpv2ajvA8WDqxoGUtnpMX103BE2DWGfdjkWSovYIG-Vp9XGsyZUPtM1s7__mZMNYEYhlVEhfd0VIvzJ72B3V5SU9JjoOo27oI"
+        },
+        {
+          "seller": "Woolworths",
+          "title": "Paws and Claws Paws & Claws Tug N PLAY TPR Animal Ring Tugger 16x12cm",
+          "price_text": "$53.55",
+          "price": 53.55,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:13348789535146581883,productid:7823289764834406954,headlineOfferDocid:7393841624086381983,imageDocid:12998095239201677493,gpcid:14341139419289433584,mid:576462887205573944,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPW-81XBJC_siFAhS1wH96f9gK4_yJwlXamld0xZntjggLnS4H5NN5Tir7r7qhA0rP9MsqrWPA1cfJTjkvjIjepeLaZpJq9EBPq7WgEHRdzAaEvkETZEVD-A"
+        },
+        {
+          "seller": "Harvey Norman Australia",
+          "title": "2x Paws & Claws Fetch N' Play Ring + Rope Tugger Dog/Pet Toy Assorted 24x12x6cm",
+          "price_text": "$19.00",
+          "price": 19.0,
+          "rating": 4.5,
+          "reviews": 90,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:7144476617897150396,productid:15002860670264499647,headlineOfferDocid:9969375201921386460,imageDocid:5088147544184909196,rds:PC_1537035006686931720|PROD_PC_1537035006686931720,gpcid:1537035006686931720,mid:576462567186041333,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQDUE80FjTd-6Y0GxqCVCnHKnb8eLiEcAL3lZFtP6dDF9rldYwxmjLqBodh9jubJ1HsY_DqcNLSG_EHwzKfvkPlExWIXeUM5yYZRZE6bj2EvtRo7CTy7yt6FXI"
+        },
+        {
+          "seller": "Bunnings Warehouse",
+          "title": "Paws & Claws 24.1x24.1x3.3cm All Terrain Dual Colour Dog/Pet Chew/Bite Toy ASST",
+          "price_text": "$13.05",
+          "price": 13.05,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:13729427336150056021,productid:1217919634595450448,headlineOfferDocid:3227397303706975288,imageDocid:17810755462103866985,gpcid:6152985016771873338,mid:576462898757767930,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQf2WwyShduy0uEud05Ap5kKoqdL8EbRwfw_5qd-nZBl09oqE3dC9E-x138lW0sS-R3jN_bAHbWpvHH3f7-qApXnJX1OXKCWuL-95ABjQjs2sLH4FCQ82wxUA"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "currency": "US$",
+      "status": "blocked",
+      "why": "PetSmart sells it at $9.99",
+      "results": 40,
+      "distinct_sellers": 27,
+      "chains_present": [
+        "PetSmart",
+        "Target",
+        "Tractor Supply Company"
+      ],
+      "marketplaces_present": [
+        "Walmart - Better and Easy Life",
+        "Walmart - HYongzeng",
+        "Walmart - LeMonXWL",
+        "Walmart - Mdesiwst",
+        "Walmart - Outward Hound Inc",
+        "Walmart - Seller",
+        "Walmart - The Treat Shack",
+        "Walmart - zhengui feng"
+      ],
+      "cheapest": 1.81,
+      "typical": 11.99,
+      "most_reviewed": {
+        "seller": "Chewy.com",
+        "title": "Frisco Flavored Ring Nylon Chew Dog Toy Chewers",
+        "reviews": 556,
+        "price_text": "$9.99"
+      },
+      "top_rows": [
+        {
+          "seller": "Chewy.com",
+          "title": "Frisco Flavored Ring Nylon Chew Dog Toy Chewers",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 3.7,
+          "reviews": 556,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:12438124222527828522,productid:3568546852162844064,headlineOfferDocid:14084513655801379408,imageDocid:3311016303623897837,rds:PC_1000277416783887798|PROD_PC_1000277416783887798,gpcid:1000277416783887798,mid:576462790831386414,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRfeOTCY3KDmYaM-GLv-mwP1U7ecqYf1N8VN5a8-m7OzCj1qkddaW7kf1wkIjAE_-bm64jZ1TU25R6lW35ET9LWx93N2Y_rQidu9UaRYCbTheXPIb5SewtA"
+        },
+        {
+          "seller": "Chewy.com",
+          "title": "Dog Toy KONG Extreme Ring",
+          "price_text": "$12.96",
+          "price": 12.96,
+          "rating": 3.8,
+          "reviews": 393,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:12866751584466858087,productid:15343179248123440396,headlineOfferDocid:10134864010882652701,imageDocid:8748698474013188597,rds:PC_7214106255969258043|PROD_PC_7214106255969258043,gpcid:7214106255969258043,mid:576462828053928468,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-ooBPK7ts1562XDI_z1POlMEuvTBhtsKV-cNexBGEgHpZqJifyAoGoaDuZTYIQNzCfI9sP5BHuBZAt_93R7m3Nq4M1gQ2CHkI1b-OYqU"
+        },
+        {
+          "seller": "Wet Nose",
+          "title": "Benebone Dog Chew Toy Bacon Ring",
+          "price_text": "$12.99",
+          "price": 12.99,
+          "rating": 4.6,
+          "reviews": 274,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:9111522451559512176,productid:12284506451237746647,headlineOfferDocid:14854794667635123883,imageDocid:3547261979144570049,rds:PC_6653599155195852120|PROD_PC_6653599155195852120,gpcid:6653599155195852120,mid:576462914700585169,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3St8NgsSVpXsa2BGpH-icsbTEvvkKl8q2ypPnuNUqGGQ_-U9McPDAhuYe6VVWmo-wh94ntHDb14CEgODDzAs7GIhXPvlszpf9Wg_6J3lI55N8g9Idhn4JuQ"
+        },
+        {
+          "seller": "Chewy.com",
+          "title": "N-Bone Adult Dental Rings Chicken Flavor",
+          "price_text": "$12.41",
+          "price": 12.41,
+          "rating": 4.5,
+          "reviews": 266,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:17304187649343251473,productid:2178875758167339872,headlineOfferDocid:15964892391686471154,imageDocid:16233093092594161032,rds:PC_1136045102317372768|PROD_PC_1136045102317372768,gpcid:1136045102317372768,mid:576462687522243956,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSuVknNQ52VZQkCfvaCXLMWCtAAxhFiDssOYL1degpxqsh_4Lg6LMnk3eZUsooAGIREKRhKmQCKKRg2a4IdNQ675i6xIOy0ri4dfyIp8Zo"
+        },
+        {
+          "seller": "Shop Vivapets",
+          "title": "10-15 cm Trixie Denta Fun Mintfresh Ring Natural Rubber",
+          "price_text": "$12.20",
+          "price": 12.2,
+          "rating": 4.1,
+          "reviews": 215,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:14376061646904322601,productid:2738019103472363723,headlineOfferDocid:10690900994729445117,imageDocid:12608596138211271710,rds:PC_10821618742079181853|PROD_PC_10821618742079181853,gpcid:10821618742079181853,mid:576462678285225907,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTgBAkLOkjmex2QOCq3gXmE55N9m4aH46XdVEUFg6l56TY0Xf9FzsRZFYOyxepXbq0lmpqMY9tvMy9XFPB2UNltSRLWZG_UVbONYvDjcJJuAdQqpghtPqx9"
+        },
+        {
+          "seller": "Great Call Athletics",
+          "title": "Dog Toys Pets Tension Ring Tooth Cleaning Toys, Green Small, Green Large, Red Small, Red L",
+          "price_text": "$1.81",
+          "price": 1.81,
+          "rating": 4.9,
+          "reviews": 173,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:11346121603633840419,headlineOfferDocid:11346121603633840419,imageDocid:15768349956554950094,rds:PC_13846322360692494420|PROD_PC_13846322360692494420,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcReVDl6DW4xqEwdZvbYkBydKDTgbNhveAVj9jVAOmq-d1yuHXoAcGzd-Bj-uw1ZFx4gngC-jfLOA4QXcMxBwAI9Y25KL1QTV9nPRQWJY7nvR-tCOZDwoYaUAw"
+        },
+        {
+          "seller": "PetSmart",
+          "title": "Nylabone Puppy Sensory Material Teething Ring",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 4.1,
+          "reviews": 155,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:18121403192987703389,productid:17384231979621349515,headlineOfferDocid:4651817523820486745,imageDocid:10710521999762437873,rds:PC_13855541483735267002|PROD_PC_13855541483735267002,gpcid:13855541483735267002,mid:576462808303052205,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT9VxBHwfiUApwadEoTI90CakKrCmJGpeBUxOuvFkBeV3lQ_eZjXCPiZ9-3SjUEAi53ELUIt56DW5oTnaZXeSl9uw125YYJEZlheui5RhBfuwgoGQ1VA5U6"
+        },
+        {
+          "seller": "Walmart - zhengui feng",
+          "title": "Spiky Circle Ring Dog Bite-Training Chew Molar Toy Cleaning Tooth Pet Supply",
+          "price_text": "$11.99",
+          "price": 11.99,
+          "rating": 4.2,
+          "reviews": 142,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:6554221300258941412,productid:1604160247560551570,headlineOfferDocid:8273413425891210315,imageDocid:7011220281092615179,rds:PC_15794064039629304581|PROD_PC_15794064039629304581,gpcid:15794064039629304581,mid:576462566983179149,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzaTsNdQ4J_muSBqmSU0VKi16Nl20f3sJFMU9Fn7d3ZIG50vQRQNrmErozbjhzs2_66fL8h1HLVwHINMaTB1YbtsgJvqRCS9LlA_go_CkiNepfpn88xE-sPw"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "PetSmart",
+          "title": "Nylabone Puppy Sensory Material Teething Ring",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": 4.1,
+          "reviews": 155,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:18121403192987703389,productid:17384231979621349515,headlineOfferDocid:4651817523820486745,imageDocid:10710521999762437873,rds:PC_13855541483735267002|PROD_PC_13855541483735267002,gpcid:13855541483735267002,mid:576462808303052205,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT9VxBHwfiUApwadEoTI90CakKrCmJGpeBUxOuvFkBeV3lQ_eZjXCPiZ9-3SjUEAi53ELUIt56DW5oTnaZXeSl9uw125YYJEZlheui5RhBfuwgoGQ1VA5U6"
+        },
+        {
+          "seller": "Target",
+          "title": "Nylon/TPR Dental Dog Chew Ring 4\" Diameter for Oral Care",
+          "price_text": "$12.99",
+          "price": 12.99,
+          "rating": 1.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:18058117749532911039,productid:2479299082299749955,headlineOfferDocid:5357915651518673855,imageDocid:15607367419268685102,rds:PC_3535043673159657964|PROD_PC_3535043673159657964,gpcid:3535043673159657964,mid:576462746276007974,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSA05oExxlkMjUihJWmIPPLnbUlluatFoMRPon1QR7ryiU6VY-s5KVULWUlOHhQBOIOfVZOHYhTkJR2KCR9swuoe4jokmBjM_ZrlJQ-LSGijWJcsa4skRGX"
+        },
+        {
+          "seller": "Tractor Supply Company",
+          "title": "Everfetch Natural Rubber Dental Ring Peanut Butter Scented Dog Chew Toy",
+          "price_text": "$8.99",
+          "price": 8.99,
+          "rating": 3.0,
+          "reviews": 2,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:7451097587819467503,productid:16022192485346277939,headlineOfferDocid:12437233355499660995,imageDocid:6705233875460786369,rds:PC_7834636305099196484|PROD_PC_7834636305099196484,gpcid:7834636305099196484,mid:576462523573469044,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR7lutHfs8P9fgwf_5scecM4G3EaYj-gcSQLo3hKXmAS4f6LQc5oqzZeH30LAQIneftOASdkRTN8-U4WJKhW9XgA0Suc3JsWhQDXWiMQkpytvqusc1Rx7sP"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "currency": "£",
+      "status": "blocked",
+      "why": "The Range sells it at £5.99",
+      "results": 40,
+      "distinct_sellers": 26,
+      "chains_present": [
+        "The Range"
+      ],
+      "marketplaces_present": [
+        "Amazon.co.uk",
+        "Amazon.co.uk - Amazon.co.uk-Seller",
+        "eBay",
+        "eBay - amart2010",
+        "eBay - daisy_petsupplies",
+        "eBay - deals2door-7",
+        "eBay - pawmits",
+        "eBay - shopprimeuk",
+        "eBay - slctogether",
+        "eBay - toudee",
+        "eBay - zq99_3"
+      ],
+      "cheapest": 1.59,
+      "typical": 6.17,
+      "most_reviewed": {
+        "seller": "eBay - slctogether",
+        "title": "Arm & Hammer Tartar Control Dental Kit For Dogs, Banana Mint White",
+        "reviews": 343,
+        "price_text": "£16.21"
+      },
+      "top_rows": [
+        {
+          "seller": "eBay - slctogether",
+          "title": "Arm & Hammer Tartar Control Dental Kit For Dogs, Banana Mint White",
+          "price_text": "£16.21",
+          "price": 16.21,
+          "rating": 4.2,
+          "reviews": 343,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:3887201413257882560,headlineOfferDocid:3887201413257882560,imageDocid:7899762904615094203,rds:PC_11174594913180447342|PROD_PC_11174594913180447342,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSsWxnT7hbC9WHhnvQjcx7vLHeTd4Dl9gZ1-heotNFE7_-1DDzbRic1UfY2PPPK90FbbL-pe_1yNqrv2yfnBZaioJEovRsyCjSRqlpCNqM-ALq9vOXrvOZO"
+        },
+        {
+          "seller": "eBay - daisy_petsupplies",
+          "title": "Classic Rubber Ring Sml Or Lrg : Dog Throw Fetch Solid Chew Toy Bp",
+          "price_text": "£5.49",
+          "price": 5.49,
+          "rating": 5.0,
+          "reviews": 117,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:431027446023667111,headlineOfferDocid:431027446023667111,imageDocid:13674495452272209651,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRr4vmVPb-br46R1Oz9Q-nu_PCHpTRhigr0udZz1vGyaVYc-ZtPe_NuQHzEGgpqOAYCRnvxRxK4aJrAIhrDI1KNoS-QoaoCmhRqATPUStvDfLjRpACaCGr5"
+        },
+        {
+          "seller": "eBay - pawmits",
+          "title": "Rubber Ring - (s / L) - Classic Solid Dog Toy Throw Fetch Play Bp",
+          "price_text": "£3.99",
+          "price": 3.99,
+          "rating": 5.0,
+          "reviews": 110,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:13652764944991336218,headlineOfferDocid:13652764944991336218,imageDocid:5310417539585208563,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTr6MGzZNkftzV8SHswypGgrG54TMZ9ivCybcsNcrVdtMLp3rxaLZfMMq8FuQjee2o-buVDzCXwm4gThZPVEoP6jmWTUheL0n-rOUyhVHGCe_--0SqT1nb5"
+        },
+        {
+          "seller": "u-buy.co.uk",
+          "title": "Choo Chums Mint Ring Small Dog Toy",
+          "price_text": "£38.00",
+          "price": 38.0,
+          "rating": 5.0,
+          "reviews": 98,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:3811121697993455386,headlineOfferDocid:3811121697993455386,imageDocid:4772541778915757099,rds:PC_13384156268783398291|PROD_PC_13384156268783398291,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLGgERjNNvYKIsxHL6r63uDUOxm5Ct5PJOScRysEtBw06olh2g3OJIIVJNl4K8Q2CGkLZGvrruLfp_xBJQtcmNHk_QKouegKgrjLmaf4pvZ4TkH5fu4zK1"
+        },
+        {
+          "seller": "Amazon.co.uk",
+          "title": "Rosewood Cyber Rubber Ring Dog Toy",
+          "price_text": "£5.66",
+          "price": 5.66,
+          "rating": 4.5,
+          "reviews": 90,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:5639250975014407576,productid:5088668962009044525,headlineOfferDocid:17967862754107038295,imageDocid:14306876472597866978,rds:PC_14243295895352954461|PROD_PC_14243295895352954461,gpcid:14243295895352954461,mid:576462304612985980,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTagTW2VpAy3n7go5C0KGPDnDMGRlFrmu8XPzUa6WRXyTS-FbYCU1WQ1bq7qBVmjj0WFWl59_hQYN4BTQggCKKW6Bw7vbZb4VbWkYbrFEbWlNKXqyCWzyHBrg"
+        },
+        {
+          "seller": "The Range",
+          "title": "Solid Rubber Ring Dog Toy - Yellow / 9cm",
+          "price_text": "£5.99",
+          "price": 5.99,
+          "rating": 4.6,
+          "reviews": 81,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:1807029330045779919,headlineOfferDocid:1807029330045779919,imageDocid:2182655067819731910,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrSVphzqpgDaDdBxVXaIKap6WG-fHeqzucdH4IKR3rSUSV1d7qpvvQ3tPtfd3lXlGCPESXJFMByvLKNZ7ElqOVKzoci_o1_em2sXWcyasTtPVwHWS-BBpI"
+        },
+        {
+          "seller": "North East Pet Shop",
+          "title": "Classic Rubber Solid Ring | North East Pet Shop 90mm / Case of 12",
+          "price_text": "£23.99",
+          "price": 23.99,
+          "rating": 3.0,
+          "reviews": 61,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:1336419225593361032,headlineOfferDocid:1336419225593361032,imageDocid:377560150937597191,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQM8gyJteyqfurPbvD46zV4FU_31rpFhVy5R-5DL0bzgAnF5R7Y_fxyGWLbeg4qwxXNms-o899joUpB22ur4R-aSnQbr0Cu8TkcFyC-FTqL2iEI8HdcgaKh"
+        },
+        {
+          "seller": "eBay - amart2010",
+          "title": "3 Pcs Pet Rubber Dental Chew Toy",
+          "price_text": "£8.05",
+          "price": 8.05,
+          "rating": 2.6,
+          "reviews": 56,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:1802935357370786133,productid:4768589932104640883,headlineOfferDocid:12901666359009754700,imageDocid:226926065914878387,rds:PC_1963751792862029347|PROD_PC_1963751792862029347,gpcid:1963751792862029347,mid:576462880777479365,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpwfUcSJDxdtDOQB_UajYBllexrlR6nkWzAV7KIrWHAEzaKwrvzv9H8bXYr1MkJAGa-0h0HwkF7ftkJoV-nITZErZE9JZJ9nlocVMvd6LLKcRMPUJdbimb"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "The Range",
+          "title": "Solid Rubber Ring Dog Toy - Yellow / 9cm",
+          "price_text": "£5.99",
+          "price": 5.99,
+          "rating": 4.6,
+          "reviews": 81,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:1807029330045779919,headlineOfferDocid:1807029330045779919,imageDocid:2182655067819731910,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrSVphzqpgDaDdBxVXaIKap6WG-fHeqzucdH4IKR3rSUSV1d7qpvvQ3tPtfd3lXlGCPESXJFMByvLKNZ7ElqOVKzoci_o1_em2sXWcyasTtPVwHWS-BBpI"
+        },
+        {
+          "seller": "The Range",
+          "title": "Solid Rubber Ring Dog Toy - Blue / 15cm",
+          "price_text": "£6.99",
+          "price": 6.99,
+          "rating": 4.1,
+          "reviews": 13,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:11949820417262661042,headlineOfferDocid:11949820417262661042,imageDocid:11915196986908155184,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7VV5Uoy3JtR8lEy_HwIg62znhA_PURs3g44xmTQ0Lre5lu5YS7k_cPrLVQEN2qk8noIwAUFmq3j1GlM8bpHMyBlK9uUtdbkd-8uA0FPsLUr4tVMOdsmFMEw"
+        },
+        {
+          "seller": "The Range",
+          "title": "Solid Rubber Ring Dog Toy - Blue / 9cm",
+          "price_text": "£5.99",
+          "price": 5.99,
+          "rating": 2.6,
+          "reviews": 31,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:8129386145336081800,headlineOfferDocid:8129386145336081800,imageDocid:2906658523011024283,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR2UPA7r_XtKxb0ot24BlCXBw-Amb8VTGgb_34Ph_EkOEEdIeT68mT2zZ8S2Zx4ANYQiK-X38unRpdXcuUlc_BaXi6B9azX6AYdXQwW2WqWEettiZaicyC4"
+        },
+        {
+          "seller": "The Range",
+          "title": "Solid Rubber Ring Dog Toy - Purple / 15cm",
+          "price_text": "£7.99",
+          "price": 7.99,
+          "rating": 5.0,
+          "reviews": 17,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:361524470905612882,headlineOfferDocid:361524470905612882,imageDocid:3897138984508025246,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQFvUYuedpvpLdr4ofrLW_ag2Zj12-ADAwJzTdI3XuYEp5bRfg2BZ0Ny9DqKZ5ybFp2yJaibtoUjuuX3AktmyZdHPL01AJ4__T5S0P4bNN1-RiNOmR-irmD"
+        },
+        {
+          "seller": "The Range",
+          "title": "Solid Rubber Ring Dog Toy - Purple / 9cm",
+          "price_text": "£5.99",
+          "price": 5.99,
+          "rating": 5.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:1249368729847965599,headlineOfferDocid:1249368729847965599,imageDocid:4323073673544538352,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjjpHO3rMqpzPoQFk63wkWvaPe0NvcHdXPsziIco6JNj8pjMBxvZ41XmJ5WNfkCXCqZ3GQDfGdyl1GI0xFG_ZXLzd3yOQOi5I7eHy7aEdlOez5HrEM4mqf"
+        },
+        {
+          "seller": "The Range",
+          "title": "Solid Rubber Ring Dog Toy - Red / 15cm",
+          "price_text": "£7.99",
+          "price": 7.99,
+          "rating": 2.6,
+          "reviews": 30,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:617915160038979787,headlineOfferDocid:617915160038979787,imageDocid:14403573459429015631,rds:PC_13512666247465320885|PROD_PC_13512666247465320885,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTANiBWmb_6i8P1WOtJggRObDZk3jB3qTQSB0jE1TJ548cikFb3uq49uv8em_7NfaxeXRZFGyB5W7ie-N_MkEUVmQyLyyMsi96YfzkHXq_phgJ4pYmfq1A"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "currency": "C$",
+      "status": "blocked",
+      "why": "Canadian Tire sells it at $14.99",
+      "results": 40,
+      "distinct_sellers": 17,
+      "chains_present": [
+        "Canadian Tire",
+        "Real Canadian Superstore",
+        "Walmart.ca"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon CA"
+      ],
+      "cheapest": 2.49,
+      "typical": 13.26,
+      "most_reviewed": {
+        "seller": "Sherbrooke Canin",
+        "title": "KONG Ring",
+        "reviews": 1400,
+        "price_text": "$13.99"
+      },
+      "top_rows": [
+        {
+          "seller": "Sherbrooke Canin",
+          "title": "KONG Ring",
+          "price_text": "$13.99",
+          "price": 13.99,
+          "rating": 4.2,
+          "reviews": 1400,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:12124006128646418182,productid:16047938719553400339,headlineOfferDocid:9942637100610417878,imageDocid:3957761740813644674,rds:PC_12873783876651373375|PROD_PC_12873783876651373375,gpcid:12873783876651373375,mid:576462723258596402,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSEpJvdELjHjohdXMK_GECCTRnkW13oneEvs2Br19VvDLTisvPUcR0k7Eq5TfsJPw6EHRzN66iaDvMoztyE4easQF7iSE0o-nB2ngjfLzJZhKEXB2wzITO5sw"
+        },
+        {
+          "seller": "Pet Planet Brunette",
+          "title": "Nylabone Puppy Teething Rings",
+          "price_text": "$16.99",
+          "price": 16.99,
+          "rating": 4.0,
+          "reviews": 1100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:12834310805388158120,productid:18372230428223303717,headlineOfferDocid:7559430042938631550,imageDocid:2854742444516802598,rds:PC_9645135676841750501|PROD_PC_9645135676841750501,gpcid:9645135676841750501,mid:576462433852382212,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7M582UYigv7-z81UWuHN7xGhBEhF7TCi-nWroQsuezL1tdoZphzibpcRnhUOfy7x1OkV6y_74U6_4yIFdRvzFv88E-jznoinDdI5HwQac"
+        },
+        {
+          "seller": "Sherbrooke Canin",
+          "title": "Trixie Denta Fun Natural Rubber Mint Fresh Ring for Dog",
+          "price_text": "$12.99",
+          "price": 12.99,
+          "rating": 4.1,
+          "reviews": 215,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:14376061646904322601,productid:2279082692922632341,headlineOfferDocid:15069606829225527889,imageDocid:9412370557289320827,rds:PC_10821618742079181853|PROD_PC_10821618742079181853,gpcid:10821618742079181853,mid:576462678285225907,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjLU4fiNFJJzS7yWcA3MpG9-GZy4ZA2J3kD0fZ7cgZNetVu8z6_wZeNZ1oU7pzFkgrcyI1rzRFuOL6TLkGsGNi0Un-tKfWTeJDzzgA2nyHOmkIr15r3MsD"
+        },
+        {
+          "seller": "PetSmart.ca",
+          "title": "Nylabone Sensory Puppy Teething Ring",
+          "price_text": "$18.99",
+          "price": 18.99,
+          "rating": 4.1,
+          "reviews": 155,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:18121403192987703389,productid:4540301147212141426,headlineOfferDocid:4483556387158585065,imageDocid:10710521999762437873,rds:PC_13855541483735267002|PROD_PC_13855541483735267002,gpcid:13855541483735267002,mid:576462808303052205,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT9VxBHwfiUApwadEoTI90CakKrCmJGpeBUxOuvFkBeV3lQ_eZjXCPiZ9-3SjUEAi53ELUIt56DW5oTnaZXeSl9uw125YYJEZlheui5RhBfuwgoGQ1VA5U6"
+        },
+        {
+          "seller": "Chewy CA",
+          "title": "Omega Paw Dental Ring",
+          "price_text": "$8.99",
+          "price": 8.99,
+          "rating": 2.2,
+          "reviews": 109,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:5325242075489574660,productid:15022142113185963916,headlineOfferDocid:9510149005471385126,imageDocid:6298914286517118442,rds:PC_18131248380211450065|PROD_PC_18131248380211450065,gpcid:18131248380211450065,mid:576462816119852487,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQG3FulD4jP8PHPLgbu-YxYApugO2YKZwMKNAkJDtBG685MygWiJy84NRCNlb3O5S7AwAfnNBSlNEBQVSmPsBKboPeS_mM7tvbqy0PGVBcD"
+        },
+        {
+          "seller": "Homes Alive Pets",
+          "title": "Pupstages Grow-with-Me Ring Dental Dog Chew Toy",
+          "price_text": "$8.39",
+          "price": 8.39,
+          "rating": 4.2,
+          "reviews": 106,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:8578056675677707467,productid:2564283880445382167,headlineOfferDocid:9282569839056219045,imageDocid:11885254431909136972,rds:PC_1499358191177614813|PROD_PC_1499358191177614813,gpcid:1499358191177614813,mid:576462698915185870,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-6MT3FyEdKGjiIhFVSta8w36YK8Yctrv51Sh51HfCx2nyw31mWxsPCGv3K2iI3_jWzjm87zTatwGuKCLHg5p6H1JVcVQ3g_qjxloMPHXBGb1gadNLKqafzA"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "Hartz Chew ‘n Clean Chicken Ring Dog Toy",
+          "price_text": "$30.74",
+          "price": 30.74,
+          "rating": 4.3,
+          "reviews": 45,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:9073928924192872619,productid:15560647509456058021,headlineOfferDocid:10930441218929907239,imageDocid:8995348627007584950,rds:PC_15926017452516792815|PROD_PC_15926017452516792815,gpcid:15926017452516792815,mid:576462732865987518,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTlwSK4yg2rFMA9M9IzdtuIM9W2BSbYZeqlq5MEeavZ1mwRlQHq9mTxoYA82TnOUoCrKUOe6320BiE-5V0P8zGzLWAXQ9b7tGdCmFzhjj5etDRxfEakBYJiUQ"
+        },
+        {
+          "seller": "DK Hardware",
+          "title": "Multipet Canine Clean 3 Rings 11",
+          "price_text": "$21.69",
+          "price": 21.69,
+          "rating": 2.5,
+          "reviews": 40,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:9487951721558281353,productid:7492092301108831507,headlineOfferDocid:18375487469856885571,imageDocid:4980555435725383499,rds:PC_16340137778329944325|PROD_PC_16340137778329944325,gpcid:16340137778329944325,mid:576462687233479496,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTw8Mp6Zt4ZjBFTfHZEdPUkStzljGn74GucHDBpxHMiDPGfY9i3otM3Mf95DXk2CHO5AQNeaFG5DgwuPzuhxaXsyJWkYT6gIfeXt2eRSkeCV2qsEoCgiGYyAQ"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Canadian Tire",
+          "title": "Petco Nylon Ring Dental Dog Chew Toy, Medium",
+          "price_text": "$14.99",
+          "price": 14.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:10390572545237943000,headlineOfferDocid:10390572545237943000,imageDocid:16184900254702658221,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeoL0yEspsouZT_zxk-eg__gtDBnjeXy4e8od2tIUOpXlhUiS4REjbfoa-OSL_DkMVdOq6nSYej-Ji5CmzOs7RBlhqnIGJtwXdIxvxOEc0RtSg8UpAfnnggw"
+        },
+        {
+          "seller": "Real Canadian Superstore",
+          "title": "Spunky Pup Gnaw Guard",
+          "price_text": "$16.99",
+          "price": 16.99,
+          "rating": 2.6,
+          "reviews": 25,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:3869596634924712885,productid:5757313359760964250,headlineOfferDocid:10078192780226968872,imageDocid:15020930204779785221,rds:PC_11257055353573449835|PROD_PC_11257055353573449835,gpcid:11257055353573449835,mid:576462893756619902,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTDSbJ3n4tW61M8J0E2wy2pxoWlkyDBm5b4Xqe1Xfv4Q79s1ltXStElW9RB7L90OGumCP7O2WTk4F4XsCjz81h0cvfaLTN8dhIdiITTSjt04gk74uRfavhM"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Bite Teeth Cleaning Ring for Large Dogs Chew Toy for Puppies Dog Teething Toys for Oral Ca",
+          "price_text": "$9.99",
+          "price": 9.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:13657699926003377659,productid:8953724659848927567,headlineOfferDocid:4687835608975192542,imageDocid:7346551875234901516,gpcid:8467922680271379252,mid:576462891243660919,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSIVOKx6TG2Or3gvOBg7EoEF7C5GFwfciGnSLaCfetY20hBeWxWdwmHlmFXtFpaUihfLQa_2do7bh7Dxvcuq3ZBGNUvZOBgdrMtCM4Xz3bL0fduMzGZl-T9Tw"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Homesphere Tough Tpr Rubber Dog Chew Ring Teeth Cleaning Portable Interactive Toy For Medi",
+          "price_text": "$4.99",
+          "price": 4.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:266720848448633996,headlineOfferDocid:266720848448633996,imageDocid:7934842444512387169,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ6Cx2eMWI-o90UnBhVfVCFwkHUkiOON_W3t3Cfi9a3MwnesXsQ58qGkMkhSuutes3YmdLT_xfT6roCPWt0nNsqbnhtwnC3fKQHnksx58-c_meMJHBQAoE9"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Dly Durable And Natural Rubber Dog Biting Toy Ring Pet Chew Clean Teeth Toy (Orange)",
+          "price_text": "$10.99",
+          "price": 10.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:15433889024470666527,headlineOfferDocid:15433889024470666527,imageDocid:1552650712862317052,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT5IEXkwRvIPgUq7MEasvkWzmHkX4MUJgsV8TtcbiOPUg7zhscYKELN15zQshXcRVlsAYNH90yQygP3z0Fyn75LzRp6Mk8XWmIpukPNKoPboLZXkNhxrfmb7g"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Puppy Chewing Accessory Dogs Interactive Toy Teeth Cleaning Ring Pet",
+          "price_text": "$37.69",
+          "price": 37.69,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:8627164677127876092,productid:17041147363146610276,headlineOfferDocid:3702201910149834276,imageDocid:17858400529166557262,gpcid:2747204077541783465,mid:576462881047136235,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTbmFXZ1E9QU54T22CTRlmRVvZITrwZQTmrz5MRdRrf3UMP-POiFouIJHDl5KQmteUcKA6s2QzpWTbs232riTUtNdgCfRC8NGxw2-363wzrfN9NZc1NyqkSzQ"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "currency": "€",
+      "status": "crowded",
+      "why": "knock-offs from 3.46 vs typical 19.8",
+      "results": 20,
+      "distinct_sellers": 15,
+      "chains_present": [],
+      "marketplaces_present": [],
+      "cheapest": 3.46,
+      "typical": 19.8,
+      "most_reviewed": {
+        "seller": "Pet Palette Distribution",
+        "title": "KONG Ring",
+        "reviews": 1419,
+        "price_text": "6,24 €"
+      },
+      "top_rows": [
+        {
+          "seller": "Pet Palette Distribution",
+          "title": "KONG Ring",
+          "price_text": "6,24 €",
+          "price": 6.24,
+          "rating": 4.2,
+          "reviews": 1419,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:14691244826512397815,productid:11350497228423943261,headlineOfferDocid:2632982688280175553,imageDocid:11012329019436564489,rds:PC_12873783876651373375|PROD_PC_12873783876651373375,gpcid:12873783876651373375,mid:576462723258596402,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR0fTVEEGdVo8Tm6b3GT8lLW7gcxiUUdrzl9ALt_hWYmwO7i7YXMnPKuEUr0ROmVlRkFeW5kET9TbSe81m6ZobnMMA-wuGgft8WtoS6A0HfuDMhMv4ZWR5Aow"
+        },
+        {
+          "seller": "Beauty Care Bag",
+          "title": "Trixie Denta Fun Ring",
+          "price_text": "30,04 €",
+          "price": 30.04,
+          "rating": 4.1,
+          "reviews": 215,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:14376061646904322601,productid:14854696482649891108,headlineOfferDocid:9135793677664910748,imageDocid:10231780925700016445,rds:PC_10821618742079181853|PROD_PC_10821618742079181853,gpcid:10821618742079181853,mid:576462678285225907,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTLEU9nU28aotCMtAbhyVdzzUqufky4xS-wFGhilPmR4ySlWX1ot-AsykNREYbT1eIjetK0aH57bnXtHCfE77tnUeT9hVaHdtS88iYZCzkg4bmyVbbTaVIo"
+        },
+        {
+          "seller": "Pet Palette Distribution",
+          "title": "Tuffy's Junior Hundespielzeug Ring",
+          "price_text": "12,48 €",
+          "price": 12.48,
+          "rating": 3.8,
+          "reviews": 125,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:11965610193533497646,productid:1717204707347013184,headlineOfferDocid:10027260330016510718,imageDocid:12167334541261069142,rds:PC_5511726676203563494|PROD_PC_5511726676203563494,gpcid:5511726676203563494,mid:576462801467483951,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsN2pw0Ys1_pd-QFy7GoC3u310riWYkbF7XJBdWHikn_fVaWA7AqK73mPYTPVCqtnmJcQar2K1eF2XyG_Ucof-66g9OKaLBrMMac7lhKrocUZwqJGhVPm_"
+        },
+        {
+          "seller": "AliExpress",
+          "title": "Curvy Moon T6 Ultrasonic Zahnreiniger für Hunde & Katzen",
+          "price_text": "21,39 €",
+          "price": 21.39,
+          "rating": 4.7,
+          "reviews": 64,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:18036833918817030555,productid:2488294672940657210,headlineOfferDocid:1099361007834527612,imageDocid:8718861890530864544,rds:PC_3985256669198964413|PROD_PC_3985256669198964413,gpcid:3985256669198964413,mid:576462556616983765,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTRE5ZDtfaZ_bucW2hkSVGAxa1cr-h4suEvrrChe4sUgReYdLJu3Yp2DobGuzdQNEaTWPlC1L-uPS10omhCxJ9RDH8yW1HnPK57EEgKOOxl8k8-npZ3UGzE"
+        },
+        {
+          "seller": "Beauty Care Bag",
+          "title": "Vet's Best Fingerzahnbürsten",
+          "price_text": "20,14 €",
+          "price": 20.14,
+          "rating": 4.0,
+          "reviews": 22,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:6716893321271859325,productid:1908995678144736878,headlineOfferDocid:4734343655881724109,imageDocid:16863589591541352910,rds:PC_6829726892456017291|PROD_PC_6829726892456017291,gpcid:6829726892456017291,mid:576462728250997052,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThehj2fWsX1iMCb7Rtq8BJ8-JE-3zeWwNYCxNM-tXlhl7oeeiswNeMz2u7vYLCRGN88I1f_QSJSKJs5QCZIVB0drQOPafNjFN-9DYlh5m3mWNmv3etGtTL"
+        },
+        {
+          "seller": "McGrocer",
+          "title": "Zeus Hundespielzeug Nitro Ring",
+          "price_text": "25,85 €",
+          "price": 25.85,
+          "rating": 4.6,
+          "reviews": 8,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:7410759575198116634,productid:13041872700060859284,headlineOfferDocid:11022544280012551065,imageDocid:11255423560696304957,rds:PC_14200202273891740053|PROD_PC_14200202273891740053,gpcid:14200202273891740053,mid:576462518595544473,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwzCcl39dKYaMHsQP35JoPzJ6R8Cdm5wNji-syvDBefplbexxmnBvL0jwTNer4ZBbCYMsXzM24Y5JjZZDAZ6bUgBLVQOa99iDm7evHuzJxIagRdSUMrY9MIg"
+        },
+        {
+          "seller": "Onlyfresh | Amanova",
+          "title": "Zahnring Spielzeug für Hunde",
+          "price_text": "3,99 €",
+          "price": 3.99,
+          "rating": 4.3,
+          "reviews": 3,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:1440736449430215423,productid:902263526611300697,headlineOfferDocid:3009832579607646884,imageDocid:7677028751353218913,rds:PC_677214581684071694|PROD_PC_677214581684071694,gpcid:677214581684071694,mid:576462813861902869,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRsNArL2X1uotEgxEwllZWG3y4J2l2XMVxoF6E3NrOeaQkPTtHFPzqP_6RYuexld_y_T-1s0gsdE5EsscH9HD-FyCGel1zX4xpuW1CP9FZztoz9x1ZJHwuE"
+        },
+        {
+          "seller": "amama",
+          "title": "Daily Dog Straps Oral Care 180g",
+          "price_text": "7,36 €",
+          "price": 7.36,
+          "rating": 2.3,
+          "reviews": 3,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:12845664829725342139,headlineOfferDocid:12845664829725342139,imageDocid:12829534159534562671,rds:PC_5387637321969918863|PROD_PC_5387637321969918863,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQKVL8vDyhJr7SfGBf8tSz5dpG_j6l9KBuhC-WvXrjmLo_C1BpYD4X-0mNoHzrewRsp2izUeCJNQN2qy5Yz8cwFfwTVR3shLA-vDbu_hlBXSCX6k2sY0Wf1sg"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "currency": "NZ$",
+      "status": "blocked",
+      "why": "The Warehouse sells it at $0.98",
+      "results": 40,
+      "distinct_sellers": 27,
+      "chains_present": [
+        "The Warehouse"
+      ],
+      "marketplaces_present": [
+        "Amazon AU - Amazon.com.au-Seller",
+        "The Warehouse - Marketplace",
+        "eBay",
+        "eBay - m7star",
+        "eBay - mrfalak",
+        "eBay - neufall",
+        "eBay - pyramidtrading",
+        "eBay - yunzav"
+      ],
+      "cheapest": 0.98,
+      "typical": 30.0,
+      "most_reviewed": {
+        "seller": "Petdirect.co.nz",
+        "title": "Greenies Original Dental Dog Treats - Petite 2 x 10 Packs",
+        "reviews": 83000,
+        "price_text": "$29.68"
+      },
+      "top_rows": [
+        {
+          "seller": "Petdirect.co.nz",
+          "title": "Greenies Original Dental Dog Treats - Petite 2 x 10 Packs",
+          "price_text": "$29.68",
+          "price": 29.68,
+          "rating": 5.0,
+          "reviews": 83000,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:11311346204078595573,headlineOfferDocid:11311346204078595573,imageDocid:6013470121656329785,rds:PC_16549023737860977536|PROD_PC_16549023737860977536,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1cIb1kyRQKn5O8cfMV-xgSHiUv401QfJqEb2kmJSgDA-2oI6lKSek9zytEWWDzZ39bYiFouEruc0OUQYxF1hnfYVycnNo7NCE1yrUIZGzYVp5YkuyVrVF-w"
+        },
+        {
+          "seller": "eBay - pyramidtrading",
+          "title": "Nylabone Power Chew Textured Ring",
+          "price_text": "$23.03",
+          "price": 23.03,
+          "rating": 2.9,
+          "reviews": 5500,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:16344064781287373349,productid:15444895466714039170,headlineOfferDocid:11434045026268084311,imageDocid:11427300910868339885,rds:PC_10683144344153566008|PROD_PC_10683144344153566008,gpcid:10683144344153566008,mid:576462841933941153,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjzfrx4MWj4glr9FFBcGGWeaCw-kCOZsF2soCUpGdiv4_pDNkyHmj_AT1DAPOAyPPyMghdueqQcgV63MCyV48qPj80dueg5MHkuBRpdeATqIoGRH6pDqXDVA"
+        },
+        {
+          "seller": "Seaview Aquarium Centre",
+          "title": "Nylabone Puppy Teething Keys",
+          "price_text": "$17.40",
+          "price": 17.4,
+          "rating": 5.0,
+          "reviews": 1100,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:3503496778402375069,productid:4718450032472734258,headlineOfferDocid:1023034976822798943,imageDocid:17740740887124346130,rds:PC_11128671420196594467|PROD_PC_11128671420196594467,gpcid:4721218175858929450,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_66_fEKsNaIki924dZxGRP_s3gd9mhiTh3fjq5mJQ8Gv8rMkQmaVj6gOmYVbYp5hhy2D-5ZIzqp6Fh7RgX0qf4FGKDXGnNxPkcREYPZj2IL-3Vx_y_8W2"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "Nylabone Puppy Ring Bone",
+          "price_text": "$59.09",
+          "price": 59.09,
+          "rating": 3.5,
+          "reviews": 780,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:16554155674285089169,productid:16946704236599048573,headlineOfferDocid:10996046848372707573,imageDocid:17631385626486965176,rds:PC_12566765069296662518|PROD_PC_12566765069296662518,gpcid:12566765069296662518,mid:576462807471235275,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRK0qkYDIvyfMkI7rCrkonBck-IVDXRFVO5Av33FciOcNvS78lpPoQDsMSNZnOur0YB_PGYEaODsuQx7etWCD5CYcFZNdEx34-MDjE5X8NzPTQnVhq3iJgMkw"
+        },
+        {
+          "seller": "eBay - neufall",
+          "title": "Nylabone Puppy Ring Bone",
+          "price_text": "$63.48",
+          "price": 63.48,
+          "rating": 3.5,
+          "reviews": 780,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:16554155674285089169,productid:16946704236599048573,headlineOfferDocid:9099929688781847812,imageDocid:17631385626486965176,rds:PC_12566765069296662518|PROD_PC_12566765069296662518,gpcid:12566765069296662518,mid:576462807471235275,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRK0qkYDIvyfMkI7rCrkonBck-IVDXRFVO5Av33FciOcNvS78lpPoQDsMSNZnOur0YB_PGYEaODsuQx7etWCD5CYcFZNdEx34-MDjE5X8NzPTQnVhq3iJgMkw"
+        },
+        {
+          "seller": "Premium Petfood",
+          "title": "Whimzees Stix Dental Dog Treats Medium - 14 Pack",
+          "price_text": "$33.95",
+          "price": 33.95,
+          "rating": 5.0,
+          "reviews": 609,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=productid:11266809094952227340,headlineOfferDocid:11266809094952227340,imageDocid:2397355693378822431,rds:PC_16062325099727378540|PROD_PC_16062325099727378540,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIcDwQIyIuzKSrD887iQtn-a5iZXbKLb3Tr-49UglwkjpbajLZxMXiPWY001yEdj0_KlPt4UDg2s2uDTJOXazoOYRrNycxni8ZkG3dJgh1FiVIxgMzJmCIN_w"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "Nylabone Puppy Chew Twin Pack",
+          "price_text": "$23.73",
+          "price": 23.73,
+          "rating": 4.3,
+          "reviews": 365,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:3550788978256526498,productid:11472061503259600539,headlineOfferDocid:9108793268548563284,imageDocid:7706310726100431746,rds:PC_16108163823055549785|PROD_PC_16108163823055549785,gpcid:16108163823055549785,mid:576462765441516140,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3qE4rAhA6wdqAJwemJMsrOIzqPhtYgw5e95F0uW3To_JV2GAkm6RG8RD2fAtDkmJYmBMIDp55hEx-sJhAegYL1z7NrYEi4kdzra-MPcEbi-OlL9lGWPfb"
+        },
+        {
+          "seller": "Kiwi Canine",
+          "title": "Playology Dual Layer Ring Toy",
+          "price_text": "$40.00",
+          "price": 40.0,
+          "rating": 4.0,
+          "reviews": 343,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:14285425739499452594,productid:5791465871078456002,headlineOfferDocid:10179584994281346174,imageDocid:10524896158424414642,rds:PC_1966913830023763320|PROD_PC_1966913830023763320,gpcid:1966913830023763320,mid:576462817265705158,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJbHVm5p_iSVX0w4W6wpL_x-cKmCB3U7yYFUQ-2DnfBbcbMCWDuGsxh1sKc39ymi0GqYdpxi7DKGKK8a3Itqe2QOEFLWtxDLfptSdc2-9K8U1NN0hfqMvd"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "The Warehouse",
+          "title": "Petzone Rope Ring Toy",
+          "price_text": "$0.98",
+          "price": 0.98,
+          "rating": 4.8,
+          "reviews": 3,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dog teeth cleaning ring&prds=catalogid:8524611240407015843,productid:15214532640578575950,headlineOfferDocid:17025322823252836777,imageDocid:11395125135319745427,rds:PC_12520319349939339184|PROD_PC_12520319349939339184,gpcid:12520319349939339184,mid:576462518583855289,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-Iu4v5FBC49EidmJvTgG0HB9nCTuc7l58_sv95r3gmHh17EzpfEFhfb8eIr98XNve7qRjCfBEw1SMaarOCXbyMDB7D_uNrxpsBNVY2i4LSzZKFDnXgtSV"
+        }
+      ],
+      "thin_market": false
+    }
+  ]
+}
