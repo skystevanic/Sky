@@ -1,0 +1,57 @@
+{
+ "slug": "ems-mask",
+ "same": [
+  10,
+  15,
+  75
+ ],
+ "top": 12,
+ "countries": {
+  "us": [
+   {
+    "where": "Amazon",
+    "source": "amazon.com",
+    "title": "EMS Microcurrent Anti-Aging Face Lifting Sheet Mask System",
+    "link": "https://www.amazon.com/NARASKIN-LAB-Microcurrent-Anti-Aging-Lifting/dp/B0GX6ZXSFN/",
+    "asin": "B0GX6ZXSFN",
+    "rank": 3,
+    "price_text": "$89.99",
+    "reviews": 21,
+    "bought": "50+ bought in past month",
+    "bought_number": 50,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/ems-mask_vis_thumb_010.jpg"
+   },
+   {
+    "where": "Amazon",
+    "source": "amazon.com",
+    "title": "MEGELIN Lifting Face Mask, Wearable Facial Care System for Masks",
+    "link": "https://www.amazon.com/MEGELIN-Lifting-Wearable-Facial-System/dp/B0HG1RGJKB/",
+    "asin": "B0HG1RGJKB",
+    "rank": 4,
+    "price_text": "$169.00",
+    "reviews": null,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/ems-mask_vis_thumb_015.jpg"
+   }
+  ],
+  "nz": [
+   {
+    "where": "Google Shopping",
+    "source": "Megelin Official Store",
+    "title": "Megelin Ems Lifting face mask Ems face mask",
+    "link": "https://www.google.com/search?q=%22Megelin+Ems+Lifting+face+mask+Ems+face+mask%22+Megelin+Official+Store",
+    "asin": null,
+    "rank": 3,
+    "price_text": "$229.54",
+    "reviews": 300,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/ems-mask_vis_thumb_075.jpg"
+   }
+  ]
+ }
+}

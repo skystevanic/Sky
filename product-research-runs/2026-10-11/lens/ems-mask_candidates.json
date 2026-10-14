@@ -1,0 +1,2079 @@
+{
+ "slug": "ems-mask",
+ "image_url": "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/2_0993a7a0-ef2d-4df6-b2d2-3da707ac74b1.png?v=1791535101",
+ "brand_domain": "swirise.com",
+ "matches_per_country": {
+  "au": 60,
+  "us": 60,
+  "uk": 60,
+  "ca": 60,
+  "de": 60,
+  "nz": 60
+ },
+ "candidates": [
+  {
+   "source": "Walmart",
+   "title": "LED Facial Therapy Mask - Walmart.com",
+   "link": "https://www.walmart.com/ip/Igia-LED-Light-Therapy-Mask/5394357850",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsTWythSUAxxSTVoH65nylyJ3AlAvD-QJEx9tdbZ2WIGoF76AQ",
+   "price_text": "$43*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$43*"
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_00.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "7-in-1 LED Light Therapy Mask for Face - Red & Blue Light ...",
+   "link": "https://www.ebay.com/itm/407011570310",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwKgwZjxEYHhPXxrIJFL17C7KZXvOnZLIz-dKCQ8K7csNK3HeH",
+   "price_text": "$75*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$75*"
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_01.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Catzon 7 Colors Light Mask Beauty Instrument for Facial Care ...",
+   "link": "https://www.bigw.com.au/product/catzon-7-colors-light-mask-beauty-instrument-for-facial-care-and-neck-skin-white/p/9900064877",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKtFBtguMllW2eskbfiiVAOf9Mps8EummgAfNREl0F9UO8U2_i",
+   "price_text": "A$109*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$109*"
+    }
+   },
+   "priced": true,
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_02.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Red Light Therapy LED Face Mask - 7 Color Light Mask for ...",
+   "link": "https://www.amazon.com.au/Red-Light-Therapy-Face-Mask/dp/B0F333X4ZG",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVw1PD91C0gbbe6r6U3_k_bJfuAYq18W1-QAdLyL03SsF0MDl4",
+   "price_text": "A$70*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$70*"
+    }
+   },
+   "priced": true,
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_03.jpg"
+  },
+  {
+   "source": "Harvey Norman",
+   "title": "Shark CryoGlow Under-Eye Cooling + LED Face Mask - Lilac ...",
+   "link": "https://www.harveynorman.com.au/shark-cryoglow-under-eye-cooling-led-face-mask-lilac-chill.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRdjQDMoGYH7sM0j0YCl2jfsRmlOffrNtvE8VVWuyfnO9f9n5f",
+   "price_text": "A$699*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$699*"
+    }
+   },
+   "priced": true,
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_04.jpg"
+  },
+  {
+   "source": "Chemist Warehouse",
+   "title": "Buy Ellodi LED Light Therapy Mask 1Unit online at Chemist ...",
+   "link": "https://www.chemistwarehouse.com.au/buy/139014/ellodi-led-light-therapy-mask-1unit",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMC_0S_iq_oMysXiPwP1Wbpq8KVEL9IeIW-Mih0UOlAM9P62c0",
+   "price_text": "A$380*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$380*"
+    }
+   },
+   "priced": true,
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_05.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "HIME SAMA LED Light Therapy Mask, Face & Neck, 7 Color Modes ...",
+   "link": "https://www.walmart.com/ip/HIME-SAMA-Led-Skin-Mask-Pro-7-Color-LED-Face-Mask-Light-Therapy-Face-Neck-Facial-Care-Mask-Optical-Cosmetic-Mask-Portable-Home-Travel-Use/695637073",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThNf9719gUs3ng-CozE2ox7P83u_o7qYH7VZSLaNqb0hvXp61b",
+   "price_text": "$125*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$125*"
+    }
+   },
+   "priced": true,
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_06.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "LED Photon Facial Mask Light Therapy Electric Face Massager ...",
+   "link": "https://www.ebay.com/itm/403870706373",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT00mHAjsDYtnDlBJrFSWdDotJFSoPiNCpKq-zqCMa7f7i_lfv7",
+   "price_text": "$58*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$58*"
+    }
+   },
+   "priced": true,
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_07.jpg"
+  },
+  {
+   "source": "Nordstrom",
+   "title": "Silk'n LED Face Mask (Women) | Nordstrom",
+   "link": "https://www.nordstrom.com/s/led-face-mask/8016485",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWUaK3VEu9xQT4Qa8QIiTHeG7n7KBZ2cS2_RsrEHua0P6t2y7-",
+   "price_text": "$299*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$299*"
+    }
+   },
+   "priced": true,
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_08.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "IBORRIA Red Light Therapy for Face, Led Face Mask Light ...",
+   "link": "https://www.amazon.co.uk/IBORRIA-Infrared-Anti-Aging-Rechargeable-Adjustable/dp/B0CHK5DP12",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4n41IKF6e-RBcujvCTNYmhwEkXfgvX0Qyl2B9X1tzIQypGKFY",
+   "price_text": "£70*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£70*"
+    }
+   },
+   "priced": true,
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_09.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "Solas LED Light Therapy Face Mask Wireless Silicone Green ...",
+   "link": "https://www.ebay.co.uk/itm/185925196511",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVvUoKFv6Dt5LY1NcwS8DPGRfEPKqUVbyKKsTxgKqJld6xYEK0",
+   "price_text": "£25*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£25*"
+    }
+   },
+   "priced": true,
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_10.jpg"
+  },
+  {
+   "source": "Currys",
+   "title": "Buy SHARK FW312UKPK CryoGlow Under-Eye Cooling LED Anti ...",
+   "link": "https://www.currys.co.uk/products/shark-fw312ukpk-cryoglow-undereye-cooling-led-antiageing-and-blemish-repair-mask-rose-glow-10300455.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMOK7DGE0UcJ-RpqVC6H_ums9CYvngtOw6L92IEO27bcDsTBoJ",
+   "price_text": "£300*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£300*"
+    }
+   },
+   "priced": true,
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_11.jpg"
+  },
+  {
+   "source": "Tesco",
+   "title": "7 Color Face + Neck Led Mask - Limited Edition - Tesco Groceries",
+   "link": "https://www.tesco.com/shop/en-GB/products/325272816",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBqhNptvczZEtflAdxT8ORIrRsZInz_E9zbsOOKMcWV44-lET",
+   "price_text": "£80*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£80*"
+    }
+   },
+   "priced": true,
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_12.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "byTheia LED Face Mask – Red Light Therapy for Fine Lines ...",
+   "link": "https://www.bestbuy.ca/en-ca/product/bytheia-led-face-mask-red-light-therapy-for-fine-lines-wrinkles-anti-aging-6-modes-488-led-chips-fda-510-k-cleared-health-canada-licensed-mdl/17539116",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXlktDErwuVciRNv7BbPS6lF3GnQh1J-7z5x9LGM-TUQL40q5h",
+   "price_text": "CA$250*",
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$250*"
+    }
+   },
+   "priced": true,
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_13.jpg"
+  },
+  {
+   "source": "Amazon.de",
+   "title": "Silk'n LED Light Therapy Face Mask (Red, Blue, Yellow and ...",
+   "link": "https://www.amazon.de/-/en/Silkn-Anti-Aging-Anti-Inflammatory-Anti-Acne-Treatment/dp/B0B1MW24HS",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzFB7cDMjmhTHmg1oHKN1mtx1v4oFDHeY9FXp0ioRyPgNQ4Ody",
+   "price_text": "€95*",
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": "€95*"
+    }
+   },
+   "priced": true,
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_14.jpg"
+  },
+  {
+   "source": "Amazon.de",
+   "title": "IBORRIA LED-Gesichtsmaske Lichttherapie, 3 Modi Rot & Blau ...",
+   "link": "https://www.amazon.de/IBORRIA-LED-Gesichtsmaske-Rotlichttherapie-Lichttherapie-Nahinfrarotlicht/dp/B0CHK5DP12",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4n41IKF6e-RBcujvCTNYmhwEkXfgvX0Qyl2B9X1tzIQypGKFY",
+   "price_text": "€100*",
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": "€100*"
+    }
+   },
+   "priced": true,
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_15.jpg"
+  },
+  {
+   "source": "Galeria",
+   "title": "Silk'n® LED EMS Maske | GALERIA",
+   "link": "https://www.galeria.de/produkt/silkn-led-ems-maske-8712856073672",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpNx6o5xoc52z3x_ZyljjhUFPp92f7mSzVGNy6ZIKwTLhabczr",
+   "price_text": "€325*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€325*"
+    }
+   },
+   "priced": true,
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_16.jpg"
+  },
+  {
+   "source": "Tchibo",
+   "title": "Silk'n LED-Gesichtsmaske 100 bei Tchibo kaufen | 164674",
+   "link": "https://www.tchibo.de/products/101332875375/silkn-led-gesichtsmaske-100",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrFLbtVzPsjtU-F_Pnyz_NGHXJt7ifV_FJ_CWCcKjQPNMwetgL",
+   "price_text": "€69*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€69*"
+    }
+   },
+   "priced": true,
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_17.jpg"
+  },
+  {
+   "source": "Zalando",
+   "title": "Stylpro STYLPRO WAVELENGTH PRO 5-IN-1 LED MASK - Skincare ...",
+   "link": "https://en.zalando.de/stylpro-skincare-tool-white-06634j00p-a11.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSId4BP75q7Or6vDSYYe1cnZRyZkZuuU77TtMjlYkKVDYGllsWE",
+   "price_text": "€249*",
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": "€249*"
+    }
+   },
+   "priced": true,
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_18.jpg"
+  },
+  {
+   "source": "MediaMarkt",
+   "title": "SILK'N LED FACEMASK 100 LED Anti-Aging Gesichtspflege Keine ...",
+   "link": "https://www.mediamarkt.de/de/product/_silkn-led-face-mask-100-anti-aging-gesichtspflege-weiss-134335166.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt8srbkfTLVrmBUlBSu-Gb9nCD0wifiP_fnzXhpcP623sasU0q",
+   "price_text": "€106*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€106*"
+    }
+   },
+   "priced": true,
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_19.jpg"
+  },
+  {
+   "source": "Saturn",
+   "title": "IDERMIA DMAK0644C01 LED-Gesichtsmaske Weiß | SATURN",
+   "link": "https://www.saturn.de/de/product/_idermia-dmak0644c01-led-gesichtsmaske-weiss-137343411.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS314lPRGYWiI-dF0FVv2hdh6d3Hk3-CGNWfyE5prTFjuTNanr",
+   "price_text": "€129*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€129*"
+    }
+   },
+   "priced": true,
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_20.jpg"
+  },
+  {
+   "source": "Kaufland.de",
+   "title": "Silk'n FLM100PE1001, Lichttherapie der Haut, Weiß,",
+   "link": "https://www.kaufland.de/product/454005811/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsVOyQ7yVg5HK-bjnEvCeSUBq3uLhyD7iDNznU3Ve0vZgggI9f",
+   "price_text": "€100*",
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": "€100*"
+    }
+   },
+   "priced": true,
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_21.jpg"
+  },
+  {
+   "source": "MediaMarkt",
+   "title": "LALANOS COSMETICS LED Gesichtsmaske Anti-Aging ...",
+   "link": "https://www.mediamarkt.de/de/product/_lalanos-cosmetics-light-facial-anti-aging-gerat-105420186.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSku_DnnBef4Y1K80otEESynLRNFlCyICIqlpXZUvhrAaESZxn7",
+   "price_text": "€120*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€120*"
+    }
+   },
+   "priced": true,
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_22.jpg"
+  },
+  {
+   "source": "Tchibo",
+   "title": "Silk'n LED Face Mask mit EMS bei Tchibo kaufen | 228973",
+   "link": "https://www.tchibo.de/products/111861410165/silkn-led-face-mask-mit-ems",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMG5BAGAskQEDQxwJ5CvrgJhOGGPh0UYixV8GbAhKNwJHRkM4M",
+   "price_text": "€280*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€280*"
+    }
+   },
+   "priced": true,
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_23.jpg"
+  },
+  {
+   "source": "OTTO",
+   "title": "Lalano`S Cosmetics Kosmetikbehandlungsgerät Light facial ...",
+   "link": "https://www.otto.de/p/lalano-s-cosmetics-kosmetikbehandlungsgeraet-light-facial-beautymaske-geraet-zur-gesichtsstraffung-led-gesichtsmaske-mikrodermabrasionsgeraet-ems-porenreiniger-led-photon-maske-anti-aging-geraet-anti-falten-one-touch-bedienung-gesichtsreinigung-mitesserentferner-S0Q6302Y/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkfbA2rp4EfH2iL-iHWvgnJRvKdbzcg9cM1TLZDmcbDRgqg43",
+   "price_text": "€120*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€120*"
+    }
+   },
+   "priced": true,
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_24.jpg"
+  },
+  {
+   "source": "Harvey Norman",
+   "title": "Shark CryoGlow Cooling + LED Face Mask - Blue Frost ...",
+   "link": "https://www.harveynorman.co.nz/personal-care-and-health/health-and-beauty/massagers/shark-cryoglow-cooling-and-led-face-mask-blue-frost-fw312anz.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKYR8eAP2S_WSuXDIH8yQcvMNvtOVk7UQ4FUalmjq3pJnL5XFv",
+   "price_text": "NZ$849*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$849*"
+    }
+   },
+   "priced": true,
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_25.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Buy Red Light LED Facial Skin Care Mask - Enhanced Version ...",
+   "link": "https://www.dicksmith.co.nz/dn/buy/icb-red-light-led-facial-skin-care-mask-upgraded-version-icba102a/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMx04nl-IN2Yki8W07XbCrkEQJhsRC1TRNm5uCfCgkeozhYS6",
+   "price_text": "NZ$73*",
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": "NZ$73*"
+    }
+   },
+   "priced": true,
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_26.jpg"
+  },
+  {
+   "source": "Farmers",
+   "title": "Shark CryoGlow LED Mask, Blue - Makeup Brushes & Tools",
+   "link": "https://www.farmers.co.nz/beauty/makeup/makeup-brushes-tools/shark-cryoglow-led-mask-blue-7036336",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9MTQeRLJCOhbkoP-5Y7-XYM784kzpBz5sOtf8Qf2s-otqvIAO",
+   "price_text": "NZ$850*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$850*"
+    }
+   },
+   "priced": true,
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_27.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Buy Rechargeable LED Light Therapy Face Mask - Infrared ...",
+   "link": "https://www.dicksmith.co.nz/dn/buy/gpb-rechargeable-led-light-therapy-facial-mask-infrared-skincare-beauty-device-gpb053c/",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWZqrKzGBh9pgb83AINk17QnBfH7kCudM7rJqHZLbGOBTotcxK",
+   "price_text": "NZ$168*",
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": "NZ$168*"
+    }
+   },
+   "priced": true,
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_28.jpg"
+  },
+  {
+   "source": "Harvey Norman",
+   "title": "Shark CryoGlow Cooling + LED Face Mask - Lilac Chill ...",
+   "link": "https://www.harveynorman.co.nz/personal-care-and-health/health-and-beauty/massagers/shark-cryoglow-cooling-and-led-face-mask-lilac-chill-fw312planz.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7hPr4okhSKnxF1wO6TjdJ5atzNYPXF1qC0p4hs_t-xaG_fuqr",
+   "price_text": "NZ$849*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$849*"
+    }
+   },
+   "priced": true,
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_29.jpg"
+  },
+  {
+   "source": "Mighty Ape",
+   "title": "Buy Rechargeable Facial LED Mask 7 Colors LED Photon Therapy ...",
+   "link": "https://www.mightyape.co.nz/mn/buy/ozkartaustralia-rechargeable-facial-led-mask-7-colors-led-photon-therapy-beauty-mask-skin-rejuvenation-home-face-lifting-whitening-beauty-device-for-fm-3151/",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDxzgG-9aeiP9KQdQ1HKmKgu6dGVzNSgflE81ZPuQB40tFZscq",
+   "price_text": "NZ$72*",
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": "NZ$72*"
+    }
+   },
+   "priced": true,
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_30.jpg"
+  },
+  {
+   "source": "Bio-Therapeutic Australia",
+   "title": "bt-cocktail Energy Masque – Bio-Therapeutic Australia",
+   "link": "https://www.biotherapeuticaus.com.au/products/bt-cocktail-energy-masque",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3KR-iKJX3BOvOioCurMx3YVUfBJl0-Tgp7ZHjBBqk4hBehuBD",
+   "price_text": "A$195*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$195*"
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_31.jpg"
+  },
+  {
+   "source": "WAU - WAU",
+   "title": "LED MASK 1.0: buy led face mask for acne | WAU",
+   "link": "https://wauglobal.com/products/led-mask-1-0",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTezqk8jQa6qVUHfGcqoKM7qGKy8XMlWUZoMeBI5q5BQ_uxh4Ni",
+   "price_text": "$315*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$315*"
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_32.jpg"
+  },
+  {
+   "source": "Face the Future",
+   "title": "Déesse Pro Express LED Mask | Face the Future",
+   "link": "https://www.facethefuture.co.uk/products/deesse-pro-express-led-mask",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkEr9OOx7Yts3ifqacv4Q75uEJIrv8OQRqYDoY1UhTiZggSP-2",
+   "price_text": "£299*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£299*"
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_33.jpg"
+  },
+  {
+   "source": "Japan With Love",
+   "title": "Flow Fushi Eye Zone Revitalize Sheet Mask 2 Pack",
+   "link": "https://japanwithlovestore.com/en-au/products/flow-fushi-eye-zone-revitalize-sheet-mask-2-pack-4571194363487",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVOVSgdDm7Rm8m__5K-vhB5BN_ZBmF2fR2xRBw17dL4ubNd90r",
+   "price_text": "A$17*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$17*"
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": "$10*"
+    }
+   },
+   "priced": true,
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_34.jpg"
+  },
+  {
+   "source": "BIOS Medical",
+   "title": "LED Light Therapy Face Mask – BIOS Medical",
+   "link": "https://biosmedical.com/products/led-light-therapy-face-mask",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZdXMaiYJjgG-7-TCBpEEaKzQjXr2mlPQOlGZthEw3b49x4W7",
+   "price_text": "CA$230*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$230*"
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_35.jpg"
+  },
+  {
+   "source": "The Iconic",
+   "title": "Shark CryoGlow Cooling LED Face Mask by Shark Beauty Online ...",
+   "link": "https://www.theiconic.com.au/shark-cryoglow-cooling-led-face-mask-2851457.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNDPctzVJw7d6Okwiifb2IzEGEkDX-h-4y_hXI7mT8uB-FtinF",
+   "price_text": "A$700*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$700*"
+    }
+   },
+   "priced": true,
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_36.jpg"
+  },
+  {
+   "source": "Bing Lee",
+   "title": "Shark CryoGlow Under-Eye Cooling + LED Face Mask Lilac ...",
+   "link": "https://www.binglee.com.au/products/cryoglow-led-mask-lilac-fw312pl",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbeluofBaQSrSaixnZy4dkFVxcqFzA1i2BWBwQkDCj3-D7S_n",
+   "price_text": "A$698*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$698*"
+    }
+   },
+   "priced": true,
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_37.jpg"
+  },
+  {
+   "source": "NNE Living",
+   "title": "NNEOBA 7-Color LED Photon Therapy Rechargeable Facial Mask ...",
+   "link": "https://www.nneliving.com.au/products/rechargeable-facial-led-mask-7-colors-led-photon-therapy-beauty-mask-skin-rejuvenation-home-face-lifting-whitening-beauty-device",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDAPTAieIqIeoN2mFLTMbnSWvprvNdbKxFptYecS5fsE7IV5p1",
+   "price_text": "A$82*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$82*"
+    }
+   },
+   "priced": true,
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_38.jpg"
+  },
+  {
+   "source": "Bio-Therapeutic",
+   "title": "bt-cocktail Energy Masque – Bio-Therapeutic",
+   "link": "https://www.biotherapeuticspa.com/products/bt-cocktail-energy-masque",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRibVOZCgbHzHHBD4AgEfhBjymm4Oy1SqLwMGKdiiQvVggHtLz3",
+   "price_text": "$120*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$120*"
+    }
+   },
+   "priced": true,
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_39.jpg"
+  },
+  {
+   "source": "QMS Medicosmetics",
+   "title": "Derma Expert LED Light Treatment - QMS Medicosmetics – QMS ...",
+   "link": "https://www.qmsmedicosmetics.com/products/derma-expert-led-light-treatment",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhXZdDZFp8b_nEAkajclfxqVdoblPBHEWqJ_ZXI-2yzE3nLi40",
+   "price_text": "$550*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$550*"
+    }
+   },
+   "priced": true,
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_40.jpg"
+  },
+  {
+   "source": "Vox Megastore",
+   "title": "LED Face & Neck Phototherapy Mask | Vox Megastore",
+   "link": "https://voxmegastore.com/products/led-face-neck-phototherapy-mask",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDZMiSir7DB1clCjAJLBjZFlEvD8KABMrkIBTf2Oj7W2CZBrvx",
+   "price_text": "$40*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$40*"
+    }
+   },
+   "priced": true,
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_41.jpg"
+  },
+  {
+   "source": "Skin Beauty",
+   "title": "ZAQ Noor 2.0 LED Light Therapy Face Mask",
+   "link": "https://www.skin-beauty.com/zaq-noor-2-0-led-light-therapy-face-mask/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXpRDsRc-fbrfEC_XYPTFSvRtPDfDlptdUTYu3FJoD8eZM0Us2",
+   "price_text": "$350*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$350*"
+    }
+   },
+   "priced": true,
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_42.jpg"
+  },
+  {
+   "source": "wLuxwater",
+   "title": "Cool-i LED Face Mask – wLuxwater",
+   "link": "https://wluxwater.com/a/shop/products/cool-i-led-face-mask",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJp6MWZZvmaKoTiQ6Piqyv35xOcLzdKG2xI0joZiuES9QhGPlM",
+   "price_text": "$50*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$50*"
+    }
+   },
+   "priced": true,
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_43.jpg"
+  },
+  {
+   "source": "Anthropologie",
+   "title": "Solaris Pro Therapy VISIspec Silicone Light Therapy LED Mask ...",
+   "link": "https://www.anthropologie.com/shop/solaris-pro-therapy-visispec-silicone-light-therapy-led-mask2",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ41O_9tH-vIl6yvgCJ3TLcBOwWT-mXf5Rquf4ghCfs2fGV_ZW0",
+   "price_text": "$355*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$355*"
+    }
+   },
+   "priced": true,
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_44.jpg"
+  },
+  {
+   "source": "Derma Beauty",
+   "title": "Phototherapy Face Mask | Derma Beauty Store",
+   "link": "https://dermabeautystore.com/products/phototherapy-face-mask",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNEfS1tEy8V5Bkus5h8f2bk3AGSCEQXrZBmJxj3wMqbtrM5YCs",
+   "price_text": "$500*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$500*"
+    }
+   },
+   "priced": true,
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_45.jpg"
+  },
+  {
+   "source": "LEIA'S PURE GLOW",
+   "title": "LED Light Therapy Mask – At-Home | Leia's Pure Glow – LEIA'S ...",
+   "link": "https://leiaspureglow.com/products/led-light-therapy-mask",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUQFscb6usnxk7NIvYqWvgk4BjJwefEULkqGd8OLyI5H1Tre9o",
+   "price_text": "$50*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$50*"
+    }
+   },
+   "priced": true,
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_46.jpg"
+  },
+  {
+   "source": "ErthSkin London",
+   "title": "Limited Edition Pro 7 Colour LED Face & Neck Mask – ErthSkin ...",
+   "link": "https://erthskinlondon.com/products/limited-edition-7-colour-led-face-neck-mask",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHmppJKjmxI0BNHIfrIi1_9yTej6OpL6ObJ2fOTM1P6KFWvrJ",
+   "price_text": "£259*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£259*"
+    }
+   },
+   "priced": true,
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_47.jpg"
+  },
+  {
+   "source": "Wallis",
+   "title": "White Dragodirect 7 Color LED Beauty Mask LED Facial Light ...",
+   "link": "https://www.wallis.co.uk/product/dragodirect-7-color-led-beauty-mask-led-facial-light-face-mask-for-skin-care_p-d3c81604-01ec-46f8-9a5f-b3cf8dbe8a4f",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXYJz3W6UYcya6mOshpSVJ508A0eDNOlkppp-8fR9T_EKlnZ6T",
+   "price_text": "£30*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£30*"
+    }
+   },
+   "priced": true,
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_48.jpg"
+  },
+  {
+   "source": "Wowcher",
+   "title": "LED Rejuvenation Light Therapy Facial Mask Deal - Wowcher",
+   "link": "https://www.wowcher.co.uk/deal/shop/beauty-products-equipment/skincare-bodycare-products/44908498/led-light-therapy-face-mask-7-colours",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8YA_CZaPlnl--ssD2cnVp4tNnfpeyA_sxJRXHo5mX7Yrxu7Ft",
+   "price_text": "£12*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£12*"
+    }
+   },
+   "priced": true,
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_49.jpg"
+  },
+  {
+   "source": "Boohoo",
+   "title": "Natural Erth Skin London Erth Beauty 7-in-1 Anti-Ageing LED ...",
+   "link": "https://www.boohoo.com/product/erth-skin-london-erth-beauty-7-in-1-anti-ageing-led-photon-face-mask_p-f37e0886-9ff0-4df0-a504-e4c0bb540cb8",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ78J-85EtEN6rR3r3UG9UpaHQP0pjsrTugn5VUseFHZj5APKWF",
+   "price_text": "£50*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£50*"
+    }
+   },
+   "priced": true,
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_50.jpg"
+  },
+  {
+   "source": "Rx Beauty",
+   "title": "RxBeauty LED Face & Neck Light Therapy Mask | Anti-Ageing ...",
+   "link": "https://www.rxbeauty.co.uk/products/remover",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-7iT2KYzH_U8QRAb-wD8FpYvVUhXu7VTGHKKupYtNso9H5l62",
+   "price_text": "£130*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£130*"
+    }
+   },
+   "priced": true,
+   "n": 51,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_51.jpg"
+  },
+  {
+   "source": "Sally Beauty",
+   "title": "StylPro Wavelength LED Face Mask | Face Masks & Treatments ...",
+   "link": "https://www.sallybeauty.co.uk/beauty/skin-care-and-spa/facial-skin-care/face-masks-and-treatments/stylpro-wavelength-led-face-mask/856095.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp77AaRzRPoB6IgEzYw4ACt1j41Gs9MCpbbySF3CkxISNLZpgi",
+   "price_text": "£100*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£100*"
+    }
+   },
+   "priced": true,
+   "n": 52,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_52.jpg"
+  },
+  {
+   "source": "Selfridges",
+   "title": "SMARTECH - Project E Beauty - LumaLux Face Pro | Selfridges.com",
+   "link": "https://www.selfridges.com/GB/en/product/smartech-project-e-beauty-lumalux-face-pro_R04608167/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJSgyQG2DQq0nHzgEM_iWqLnBlAaFjcRsmxNk0oPKYsLh6Guo8",
+   "price_text": "£340*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£340*"
+    }
+   },
+   "priced": true,
+   "n": 53,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_53.jpg"
+  },
+  {
+   "source": "Pharmacy2U",
+   "title": "Silkn Facial LED Mask 100 LEDS | Pharmacy2U",
+   "link": "https://www.pharmacy2u.co.uk/shop/products/Silk-n-Facial-LED-Mask-100_0155299",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEBp-A24yTx3yTKS-Ouwwh8ErshM15WeGe5kF0SkFAJ0Zxeq8A",
+   "price_text": "£105*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£105*"
+    }
+   },
+   "priced": true,
+   "n": 54,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_54.jpg"
+  },
+  {
+   "source": "Look Again",
+   "title": "Face LED EMS Mask by Silk'n | Look Again",
+   "link": "https://www.lookagain.co.uk/products/face-led-ems-mask-by-silk-rsquo-n/_/A-37D002_",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjdb6MbDpOJcNf1mYU0uLe3BaWwewIVJ3KMH-ZWvXb27Bys8s_",
+   "price_text": "£299*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£299*"
+    }
+   },
+   "priced": true,
+   "n": 55,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_55.jpg"
+  },
+  {
+   "source": "BrandAlley",
+   "title": "Erth Skin London ErthSkin London 7 Colour Face + Neck LED ...",
+   "link": "https://www.brandalley.co.uk/19030829.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRF8IGMwqPvINaKB9tsPxWK5uwgL4TsOOLBCWQL5_KAO8ji3-5",
+   "price_text": "£80*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£80*"
+    }
+   },
+   "priced": true,
+   "n": 56,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_56.jpg"
+  },
+  {
+   "source": "Bliss and Beauty",
+   "title": "Dermalux LED Face Mask | Dermalux Products | Bliss & Beauty",
+   "link": "https://blissandbeauty.co.uk/shop/results-driven-skincare/tools-devices/dermalux-led-face-mask/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHeGgLa9p1tE-zNiblc6ggxLIBUNtBijBgIBsiMuKgeIp4BDbV",
+   "price_text": "£449*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£449*"
+    }
+   },
+   "priced": true,
+   "n": 57,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_57.jpg"
+  },
+  {
+   "source": "Liberty",
+   "title": "QMS Medicosmetics Derma Expert Light Treatment LED Mask ...",
+   "link": "https://www.libertylondon.com/uk/derma-expert-light-treatment-led-mask-000835457.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm-D7bDODflTiZbymh9MInnzetEvJDNV6pWJxlq1cVNK2T_8oj",
+   "price_text": "£395*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£395*"
+    }
+   },
+   "priced": true,
+   "n": 58,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_58.jpg"
+  },
+  {
+   "source": "Well.ca",
+   "title": "Buy Silk'n LED Face Mask 100 with Advanced LED Technology at ...",
+   "link": "https://well.ca/products/silkn-led-face-mask-100-with_342679.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPayVlxWZiKn_L2ntGknjuVvnZZyyPOKOExBD20OfVorZ5dvVR",
+   "price_text": "CA$299*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$299*"
+    }
+   },
+   "priced": true,
+   "n": 59,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_59.jpg"
+  },
+  {
+   "source": "Tanguay",
+   "title": "1027597.jpg",
+   "link": "https://www.tanguay.ca/en/prod1/31/personal-care/VISA/facial-care/C03/makeup-mirrors-&-accessories/1027597/?bvstate=pg:2/ct:r",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn0xT1o4Lqf0YcvN-kXRWjF_SZgLe7tua_PI_vqBDU4oPYEWk0",
+   "price_text": "CA$500*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$500*"
+    }
+   },
+   "priced": true,
+   "n": 60,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_60.jpg"
+  },
+  {
+   "source": "Showcase",
+   "title": "7-in-1 LED Light Therapy Wireless Face Mask – Showcase",
+   "link": "https://ca.shopatshowcase.com/products/7-in-1-led-light-therapy-face-mask-order-online-free-shipping-or-shop-in-store",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCvmxZTOptJdAItugbAzhCWQq8PvNJN-KQXMeAyE86-Br2TRCK",
+   "price_text": "CA$60*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$60*"
+    }
+   },
+   "priced": true,
+   "n": 61,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_61.jpg"
+  },
+  {
+   "source": "TSC",
+   "title": "Silk'n LED Face Mask 100 - TSC.ca",
+   "link": "https://www.tsc.ca/Silkn-LED-Face-Mask-100/pages/productdetails?nav=R:728729",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ0-BQKTsECPkgX4Rxgv9mIPZhrSVJ607iZcbvEIAsgghm2HCt",
+   "price_text": "CA$299*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$299*"
+    }
+   },
+   "priced": true,
+   "n": 62,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_62.jpg"
+  },
+  {
+   "source": "Prédiré Paris",
+   "title": "X8 Multi-Purpose LED PHOTON Skincare Mask – Prédiré Paris Canada",
+   "link": "https://predireparis.ca/products/x8-multi-purpose-led-photon-skincare-mask-treatment-2",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrzU9XMEkiFtral6r5Z4a7Eb9f2XDijow9tlw7yudKwY4z_ja1",
+   "price_text": "CA$350*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$350*"
+    }
+   },
+   "priced": true,
+   "n": 63,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_63.jpg"
+  },
+  {
+   "source": "TSC",
+   "title": "Silk'n LED Face Mask 100 with Isomers Copper Peptide Serum ...",
+   "link": "https://www.tsc.ca/Silkn-LED-Face-Mask-100-with-Isomers-Copper-Peptide-Serum-Duo/pages/productdetails?nav=R:114763",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9hYuYiidVoH6UkmpfF15_ydidBqs4dmc56DKOfR51gtzcEWv-",
+   "price_text": "CA$360*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$360*"
+    }
+   },
+   "priced": true,
+   "n": 64,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_64.jpg"
+  },
+  {
+   "source": "Silk'n LED-Masken",
+   "title": "Face Mask with Muscle Stimulation and LED Light | Silk'n LED ...",
+   "link": "https://www.silkn.de/en/led-masks/led-ems-face-mask-SILK000203.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzJ7yoE6ZDRoaZtRkuREoX_Xr_ZzEQwE-GsvMV6GZWP51dxfWa",
+   "price_text": "€325*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€325*"
+    }
+   },
+   "priced": true,
+   "n": 65,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_65.jpg"
+  },
+  {
+   "source": "lookfantastic",
+   "title": "Silk'n LED Face EMS Mask | LOOKFANTASTIC",
+   "link": "https://www.lookfantastic.de/p/silk-n-led-face-ems-mask/16004040/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKxMqzh0uKLU9Bo5Bt4rroohrq9uMxX1W-CA7QNesocYhmA0sW",
+   "price_text": "€241*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€241*"
+    }
+   },
+   "priced": true,
+   "n": 66,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_66.jpg"
+  },
+  {
+   "source": "Wellmaxx",
+   "title": "LIFTMEE® Beauty Mask - LED-Lichttherapie",
+   "link": "https://wellmaxx.com/products/liftmee-led-maske",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlOJ6W30XcWZWgWZgUNPE-Yr8Mukqy5VFmTF3kNi8I-NZ4-4Oa",
+   "price_text": "€180*",
+   "seen_in": {
+    "de": {
+     "kind": "not a shop",
+     "price_text": "€180*"
+    }
+   },
+   "priced": true,
+   "n": 67,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_67.jpg"
+  },
+  {
+   "source": "QMS Medicosmetics GmbH",
+   "title": "LED Light Treatment Maske: Therapie für die Haut – QMS ...",
+   "link": "https://qmsmedicosmetics.de/en/products/derma-expert-led-light-treatment",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0YA50S4g3HVUYGP8U8MlChDNDefhOuVeDX33_oCS6jpx9KgNN",
+   "price_text": "€475*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€475*"
+    }
+   },
+   "priced": true,
+   "n": 68,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_68.jpg"
+  },
+  {
+   "source": "PcComponentes.de",
+   "title": "LED-Maske Shark CryoGlow Hautbehandlung Lila | PcComponentes.de",
+   "link": "https://www.pccomponentes.de/led-maske-shark-cryoglow-hautbehandlung-lila",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvgtD3jSY72btRuBJnhG1F22mrkQJ_bKdHx3yOD_C5UbOZLnih",
+   "price_text": "€347*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€347*"
+    }
+   },
+   "priced": true,
+   "n": 69,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_69.jpg"
+  },
+  {
+   "source": "Charlotte Tilbury",
+   "title": "Instant Magic Facial Dry Sheet Mask | Tuchmaske | Charlotte ...",
+   "link": "https://www.charlottetilbury.com/de/product/dry-sheet-face-mask",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfzwoz_ImAXb7S1t_3nFhIwlzyAzcjd0l21da_YXiQqAUYoGst",
+   "price_text": "€24*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€24*"
+    }
+   },
+   "priced": true,
+   "n": 70,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_70.jpg"
+  },
+  {
+   "source": "Boozyshop",
+   "title": "Revolution Pro Miracle LED Face Mask online Kaufen? Einfach ...",
+   "link": "https://www.boozyshop.de/products/revolution-pro-miracle-led-face-mask",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBKmWM7F7G5iF8mrTKZ80jzSrDGyF_1SA4gHJEHO4I3V3dy4DR",
+   "price_text": "€66*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€66*"
+    }
+   },
+   "priced": true,
+   "n": 71,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_71.jpg"
+  },
+  {
+   "source": "Hairfree.lt",
+   "title": "Gesichtsmaske Silk'n EMS Face Mask mit EMS ...",
+   "link": "https://www.hairfree.lt/de/gesichtsmaske-silkn-ems-face-mask-mit-ems-photonentherapiefunktion",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwvB2rVYzeUsqwjVNQNFCiJCaR0dB30SSozqxQRipD57BQgta0",
+   "price_text": "€330*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€330*"
+    }
+   },
+   "priced": true,
+   "n": 72,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_72.jpg"
+  },
+  {
+   "source": "Perfumerías Primor",
+   "title": "Beauty Concept Cooling Face Mask Gesichtsmaske",
+   "link": "https://de.primor.eu/de_de/you-are-the-princess-beauty-concept-kuhlende-gesichtsmaske-gesichtsmaske-146813.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFiX68hjFg0ibslZE-hHqIYRr6pq5iCbRTy2s9KOnHh28-aK7Y",
+   "price_text": "€6*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€6*"
+    }
+   },
+   "priced": true,
+   "n": 73,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_73.jpg"
+  },
+  {
+   "source": "Shop Apotheke",
+   "title": "Lalano`S Cosmetics LED Gesichtsmaske 1 St - Shop Apotheke",
+   "link": "https://www.shop-apotheke.com/beauty/upm32WW9R/lalano-s-cosmetics-led-gesichtsmaske.htm",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctHktXSCQTmlcGEzFh_X8QomP1dftEhDvkEJw9-8ORibHyd7Z",
+   "price_text": "€120*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€120*"
+    }
+   },
+   "priced": true,
+   "n": 74,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_74.jpg"
+  },
+  {
+   "source": "DocMorris",
+   "title": "ITALIAN DESIGN AUSRÜSTUNG Vibrationsmaske online kaufen ...",
+   "link": "https://www.docmorris.de/italian-design-ausruestung-vibrationsmaske/61T6M7R4",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkY-IYSNUM52LFAYPXzYEvqx6lnbWFcp3AU3aHRGtGL6Nsum3j",
+   "price_text": "€20*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€20*"
+    }
+   },
+   "priced": true,
+   "n": 75,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_75.jpg"
+  },
+  {
+   "source": "silkyplanet",
+   "title": "LED Lichttherapie Testsieger 2025 - Gesicht Rotlichtmaske ...",
+   "link": "https://www.silkyplanet.com/products/led-lichttherapie-gesichtsmaske",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBTB9wI5FA7xV18W0qrz0gVcKlX25cmcJe3RJSgXtr1jROTqbJ",
+   "price_text": "€90*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€90*"
+    }
+   },
+   "priced": true,
+   "n": 76,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_76.jpg"
+  },
+  {
+   "source": "Charlotte Tilbury",
+   "title": "Cryo-recovery Face Mask: Kryo-hautpflege | Charlotte Tilbury",
+   "link": "https://www.charlottetilbury.com/de/product/cryo-recovery-face-mask",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU_YhPdxM-htVMn1-eBmeUWY3Xjg1kf74vn-uO5ikA_pi-F4tr",
+   "price_text": "€63*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€63*"
+    }
+   },
+   "priced": true,
+   "n": 77,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_77.jpg"
+  },
+  {
+   "source": "JB Hi-Fi",
+   "title": "Shark CryoGlow Cooling + LED Face Mask (Lilac Chill) - JB Hi ...",
+   "link": "https://www.jbhifi.co.nz/products/shark-cryoglow-cooling-led-face-mask-lilac-chill",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfCNLyDYpgWz6OsuFACAhms9VTiHyyFtYwCaQ0w6_8Yz-WwSuF",
+   "price_text": "NZ$698*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$698*"
+    }
+   },
+   "priced": true,
+   "n": 78,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_78.jpg"
+  },
+  {
+   "source": "JB Hi-Fi",
+   "title": "Shark CryoGlow Cooling + LED Face Mask (Blue Frost) - JB Hi ...",
+   "link": "https://www.jbhifi.co.nz/products/shark-cryoglow-cooling-led-face-mask-blue-frost",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT47rkNqv1hKapfoqLn4wO7vEU4X9NwkaaD14B-BoF6ARtCjOn2",
+   "price_text": "NZ$698*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$698*"
+    }
+   },
+   "priced": true,
+   "n": 79,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_79.jpg"
+  },
+  {
+   "source": "Bargain Chemist",
+   "title": "LED Face Mask – Bargain Chemist",
+   "link": "https://www.bargainchemist.co.nz/products/led-beauty-face-cover",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOsg3ILA_Lvzc6DPVYyew2ycIZqaItsVfumWImK6UMUSe-n5mj",
+   "price_text": "NZ$73*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$73*"
+    }
+   },
+   "priced": true,
+   "n": 80,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_80.jpg"
+  },
+  {
+   "source": "BlockBlueLight NZ",
+   "title": "Best Red Light Therapy Mask | Red Light Face Mask for ...",
+   "link": "https://www.blockbluelight.co.nz/products/red-light-therapy-face-mask",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR--GcnfWEmSLzuMtFmtcXQEuq2A3b08kF-Y4ZDOFqzbrsqS0zu",
+   "price_text": "NZ$550*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$550*"
+    }
+   },
+   "priced": true,
+   "n": 81,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_81.jpg"
+  },
+  {
+   "source": "The Beauty Parlour",
+   "title": "The Mask – The Beauty Parlour",
+   "link": "https://thebeautyparlour.co.nz/products/the-mask",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0WRbgjHgMlTc8Onu57b_iFiu6f_LC1J2V9FLy9-_XwfA-YDFT",
+   "price_text": "NZ$689*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$689*"
+    }
+   },
+   "priced": true,
+   "n": 82,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_82.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: NARASKIN LAB EMS Microcurrent Anti-Aging Face ...",
+   "link": "https://www.amazon.com/NARASKIN-LAB-Microcurrent-Anti-Aging-Lifting/dp/B0GX6ZXSFN",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAz-J50yMNqFEq8mwV_a3xwfJUTbgQB9SyB4TeIAcLIEdln-I1",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 83,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_83.jpg"
+  },
+  {
+   "source": "AliExpress",
+   "title": "Practical bestseller Mask Significant Other EMS Micro ...",
+   "link": "https://www.aliexpress.com/item/1005012364719700.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4nAYkWhY8Ayd6LFyQSgJyft4ISD21baIxYoy4fifl9SJRskTc",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$31*"
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 84,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_84.jpg"
+  },
+  {
+   "source": "AliExpress",
+   "title": "New Product Electric Skin Tightening Face-lift Vibration ...",
+   "link": "https://www.aliexpress.com/item/1005012917725752.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4aSYxlrrVcv0qu9b9p2oCS-mIwvzcte6X9ea4C-Y89zjqla0",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 85,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_85.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Red Light Therapy for Face, 4 Modes LED Light ...",
+   "link": "https://www.amazon.com/clp/B0GL8H3FP2",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPaOgb7lM7UF9od0COU1niD6V2wOBfWNU22PDOXtPq7C1axRWb",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 86,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_86.jpg"
+  },
+  {
+   "source": "SmartBuy - Alibaba",
+   "title": "How to Choose the Best EMS Facial Pads: A Complete Buying Guide",
+   "link": "https://smartbuy.alibaba.com/buyingguides/ems-facial-pads",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX29mM7YMP1HvFP-Mp3HB5yFQV2mMHGjrFjgrbCtbkqK_GuKn",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 87,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_87.jpg"
+  },
+  {
+   "source": "Amazon.se",
+   "title": "RENXR Microcurrent Facial Massager Electric EMS 3D Skin Care ...",
+   "link": "https://www.amazon.se/-/en/Microcurrent-Massager-Electric-Anti-Aging-Tightening/dp/B09DPW52T4",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGCYzO_d3A9HzlLxKlNwCrBJcohbZicMjWulHGHYyKxCiYjk9E",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 88,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_88.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "Saidi Wholesale Red Light Therapy Mask Soft LED Light ...",
+   "link": "https://www.alibaba.com/product-detail/Saidi-Wholesale-Red-Light-Therapy-Mask_1601241840084.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ10nl8kS2-ukzZFVBf1LrS-Xn8Uo0qag7HilDaLoUVbW4w_gU1",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 89,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_89.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Rejuvenate Your Skin with EMS Pulse Microcurrent Facial Mask ...",
+   "link": "https://www.walmart.ca/en/ip/Rejuvenate-Your-Skin-with-EMS-Pulse-Microcurrent-Facial-Mask-Look-Younger-Instantly/713TOFBXJ79F",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGfCdgIXgFcaHAZVKjwmwhY7_APHauxRBREyxRQdgnpFn73jZC",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 90,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_90.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Aimeryup 7-Color LED Face Mask Light Therapy, Home Skin Care ...",
+   "link": "https://www.ebay.com/itm/145763024019",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNJ45ZnbcMdA3hDwXwdYiEr10bjwgEVaBL9rSNrBrw0PvGuhHS",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 91,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_91.jpg"
+  },
+  {
+   "source": "The Good Guys",
+   "title": "Shark CyroGlow Cooling + LED Face Mask Blue Frost FW312ANZ",
+   "link": "https://www.thegoodguys.com.au/shark-cryoglow-cooling-plus-led-face-mask-blue-frost-fw312anz",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGZ5b5ggIEsmeRxidvS7vrudfFEJkDBwAeHRTwchXhls_L56-9",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 92,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_92.jpg"
+  },
+  {
+   "source": "Harvey Norman",
+   "title": "NNEOBA 7 Color LED Wireless Treatment Facial Mask | Harvey ...",
+   "link": "https://www.harveynorman.com.au/nneoba-7-color-led-wireless-treatment-facial-mask.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3RDQ0YBZSxdvTHUF13JoFlPjCUv5fhyLKzFlM-faQrTJS5yia",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 93,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_93.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Ellodi LED Light Therapy Mask, Red and Infrared for anti ...",
+   "link": "https://www.amazon.com.au/Ellodi-Therapy-Infrared-anti-ageing-anti-acne/dp/B0DW3CM714",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1A1ski-wUCjAP_m1r9ieVJUFrNGgYF5Yjy5nyaC1G88eEyn4r",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 94,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_94.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: IBORRIA Red Light Therapy for Face, LED Face ...",
+   "link": "https://www.amazon.com/clp/B0F8HBSSSB",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-wGX0yGd3jNMwtU9n46u3ciaMNxE1blTOjRoI_wXSlJrTI2PB",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 95,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_95.jpg"
+  },
+  {
+   "source": "Shein",
+   "title": "7 Color LED Mask, Rechargeable Photon Facial Skin Care Mask ...",
+   "link": "https://m.shein.com/7-Color-LED-Mask-Rechargeable-Photon-Facial-Skin-Care-Mask-Facial-Beauty-Skin-Care-Machine-p-38962119.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnNuwKJNZjzs1EisPYe-2JlBRY8nb1c5ZnjgEJLemaOVIeIuqi",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 96,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_96.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Led Light Maks Therapy for face. Led Mask Skin Care. | eBay",
+   "link": "https://www.ebay.com/itm/314535761298",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReBQD_tAwNW2pY-J_iuSd6VJxxDQj57cAWZb8dZnQcLWuDYza_",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 97,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_97.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "LED Face Masks: Personal Care - Best Buy",
+   "link": "https://www.bestbuy.com/site/facial-care-tools-devices/led-face-masks/pcmcat1647619346103.c?id=pcmcat1647619346103",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiFlMhgRfigyf2ZDZ3yy6uLtZXSZ2ppDfIMo23K1byuMkl2d-m",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 98,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_98.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Aura Red Light Facial Mask for Glowing Skin | LED Beauty ...",
+   "link": "https://www.amazon.co.uk/Multiple-Spa-Inspired-Youthful-Looking-Complexion-Lightweight/dp/B0CTJM6T36",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3nXq2X91_siqhyqGHnn3AyTWlku637vzGxSfPJ2QUJPa-jl8h",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 99,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_99.jpg"
+  },
+  {
+   "source": "Very",
+   "title": "StylPro LED Wavelength Mask | Very",
+   "link": "https://www.very.co.uk/stylpro-led-wavelength-mask/1601036395.prd",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ97rE7KTqhQ1eY6RN6cCZzic0zTzLQJoxFqjTCPLDP3QmZ8wfI",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 100,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_100.jpg"
+  },
+  {
+   "source": "Next UK",
+   "title": "Buy Stylpro Wavelength Pro 5in1 LED Face Mask from the Next ...",
+   "link": "https://www.next.co.uk/style/su836208/h93578",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuJ_2KNWxMivfVSTILJRMh2QkZicvrz96hrb8ij_zaa8XEE1zn",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 101,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_101.jpg"
+  },
+  {
+   "source": "B&Q",
+   "title": "7 Colors LED Light Photon Face Mask Rejuvenation Skin Care ...",
+   "link": "https://www.diy.com/departments/7-colors-led-light-photon-face-mask-rejuvenation-skin-care-therapy-wrinkles-tool/0619470583779_BQ.prd",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJ3VHmvO3fKn7c8s09O3V3Nqkz8WT7tvRmm9CWRdBCp5kRVbW",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 102,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_102.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "LED Face Mask with 7 Colors Cordless Red Light Skin Care ...",
+   "link": "https://www.amazon.co.uk/Colors-Cordless-Rechargeable-Portable-Facial/dp/B0DZCR32D5",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToxGAGIDjUYiF9OBUveYSpyLuacsrpJkfh_VpZLdUWkPEiO6bM",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 103,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_103.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "2Pcs LED Face Mask Portable Red Light Facial Mask with 7 ...",
+   "link": "https://www.amazon.ca/Portable-Facial-Skincare-Relaxation-Travel/dp/B0GVMGWT36",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4LKokCXqqRGL5T7UJSl6IkcF7Ak63fGqwPfxywdna-DbOxj5",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 104,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_104.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "SDKWDH Red Light Photon Facial Mask with Remote Control, 7 ...",
+   "link": "https://www.amazon.ca/SDKWDH-Photon-Control-Infrared-Portable/dp/B0FXFDFNV9",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ1opnLsIrpH8Nsm4WHo7zybujxckevJKPIuw3EO9yZnOoKdCE",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 105,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_105.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Led Face Mask | Walmart Canada",
+   "link": "https://www.walmart.ca/en/c/kp/led-face-mask",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvDGw9dkA1S5nHm0qMcv3HHY7AxR8T7f_6CzC4nke1ov0szrAV",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 106,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_106.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "Ems Microcurrent DermaLift EMS Facial Mask Air-Facial ...",
+   "link": "https://www.alibaba.com/product-detail/DermaLift-EMS-Facial-Mask-Air_1601419627092.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwzmZIfpj2B-0GT1b1OVf9Le1BI52LJbScWx1_XWMz6UdDNhmT",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 107,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_107.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "NEW Wellcare Cosmetic LED Face Mask | eBay",
+   "link": "https://www.ebay.com/itm/256886280302",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKHPow67ofZCkv8Z36UidsO6jg-KQ_m01E64dJxxhQ8rNw-Zyp",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 108,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_108.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "LED Light Therapy Masks: LED Red Light Facial Devices | Best ...",
+   "link": "https://www.bestbuy.ca/en-ca/category/led-masks/27591585",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbxPhLZ8XPxf-jrXc6z8B9b37tg6SOyQ5b8RPX9vkUqM2ezZu",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 109,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_109.jpg"
+  },
+  {
+   "source": "Costco Wholesale",
+   "title": "Shark CryoGlow Under-Eye Cooling + LED Face Mask | Costco",
+   "link": "https://www.costco.ca/p/-/shark-cryoglow-under-eye-cooling-led-face-mask/4000425049",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5_HRNgsieQ1ARmi77K87I2DYQUEof7KTsshxywiPuaPouuuZv",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 110,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_110.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Project E Beauty Skin Rejuvenation Photon Mask | LED Face ...",
+   "link": "https://www.walmart.ca/en/ip/Project-E-Beauty-Skin-Rejuvenation-Photon-Mask-LED-Face-Light-Therapy-Red-Blue-Anti-Aging-Wrinkle-Acne-Removal-Spa-Facial-Treatment-Home-Skincare/3924MW8L7LKN",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFujDdbsB2VDA_mrSUy5FSYEgKLZtTsPcN5JV5dx1nmuWKlO0n",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 111,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_111.jpg"
+  },
+  {
+   "source": "Idealo",
+   "title": "Silk'n LED & EMS Anti-Wrinkle Face Mask ab 240,70 € (Oktober ...",
+   "link": "https://www.idealo.de/preisvergleich/OffersOfProduct/207881394_-led-ems-anti-wrinkle-face-mask-silk-n.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_cvxhIgYH0LX_ZLjsIrjnRb4BgFTukwCICS3C3wvKeMS-HMWS",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 112,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_112.jpg"
+  },
+  {
+   "source": "Mighty Ape",
+   "title": "Buy Red Light Therapy for Face Infrared Light Device ...",
+   "link": "https://www.mightyape.co.nz/mn/buy/grabstore-led-light-therapy-face-mask-43570488213756/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIv2Z44_vt4kMSw1eP92eJ-8gkdiCpGgBxd87Xd2JSu3pnLL3o",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 113,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_113.jpg"
+  },
+  {
+   "source": "Shein",
+   "title": "7 Color LED Light Therapy Facial Mask - USB Rechargeable ...",
+   "link": "https://nz.shein.com/7-Color-LED-Light-Therapy-Facial-Mask-USB-Rechargeable-Fragrance-Free-Wireless-Design-Salon-Home-Skincare-Mask-Perfect-Holiday-Gift-For-Women-p-62164121.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9OaTuhhCsRgkIWV0ohwk1mLaeGLGGUSPyvE-qxZLoLUygRCO-",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 114,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_114.jpg"
+  },
+  {
+   "source": "Trade Me",
+   "title": "Light Therapy Masks | Shop New | Trade Me Marketplace",
+   "link": "https://www.trademe.co.nz/a/marketplace/s/light-therapy-mask/k3c0-4798",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXAw7r20rx54g3PsY0aZeped7ewzRlqvm9ob035K2kxDR3-yv",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 115,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_115.jpg"
+  },
+  {
+   "source": "Harvey Norman",
+   "title": "LED Face Masks NZ | Light Therapy Skincare at Home | Harvey ...",
+   "link": "https://www.harveynorman.co.nz/personal-care-and-health/masks/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbC7rb4e1IE5YGV0lRcVuVAvaREDtPM9Hm56Op4L7_wvAza0ww",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 116,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_116.jpg"
+  },
+  {
+   "source": "Amazon.in",
+   "title": "Buy Led Light Therapy Mask, 7 Color Led Face Mask Light ...",
+   "link": "https://www.amazon.in/Therapy-therapy-Device-Diminish-Wrinkles/dp/B0F4PK45XB",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjN3QCj2bZipFLRixrFs45agrM8KzyM6EQTwnqvsrAEuDQ9d63",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 117,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_117.jpg"
+  },
+  {
+   "source": "Noel Leeming",
+   "title": "Dreame Chrona Photon Anti-Aging Skincare Mask - Noel Leeming",
+   "link": "https://www.noelleeming.co.nz/p/dreame-chrona-photon-anti-aging-skincare-mask/N251848.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrqMaHVI5dTkNeaZsjMfa7k21Iw-UvpUrFf0dAiM4lAq-axPBb",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 118,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_118.jpg"
+  },
+  {
+   "source": "Temu",
+   "title": "7 color equipment usb rechargeable strap type - Temu Canada",
+   "link": "https://www.temu.com/ca/7-color--device-usb-rechargeable-with-a-strap--stability-convenient-for-casual-office-use-an-ideal-gift-for-women-g-601099763931691.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqtBxnxltvjp789hSN28eaFPrixaLKCJicKs2FCQR-bC2wA1sN",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 119,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_119.jpg"
+  },
+  {
+   "source": "Amazon.ie",
+   "title": "LED Light Therapy Face Mask, Wireless Rechargeable USB-C ...",
+   "link": "https://www.amazon.ie/Therapy-Wireless-Rechargeable-Infrared-Anti-Ageing/dp/B0DZXXNPZ1",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3TzvIHVKaaieoRivgJtbfU7IcWQ2MQNkR-CKCzWlo5KLVkCPf",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 120,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_120.jpg"
+  }
+ ]
+}

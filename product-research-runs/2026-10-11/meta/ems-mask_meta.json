@@ -1,0 +1,196 @@
+{
+ "slug": "ems-mask",
+ "phrase": "ems face mask",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22ems%20face%20mask%22",
+ "ads_loaded": 155,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 10,
+ "advertisers_with_3_plus_ads": 4,
+ "biggest_advertiser_share": 0.48,
+ "brands_new_in_last_2_months": 9,
+ "brands_advertising_3_plus_months": 1,
+ "ads_started_last_2_months": 154,
+ "ads_older_than_6_months": 0,
+ "pattern": "crowded",
+ "plain": "10 brands. Their live ads are recent, but 3 of the 6 biggest shops we could date are more than a year old: an established market, not a new rush.",
+ "months": {
+  "2026-06": 1,
+  "2026-09": 8,
+  "2026-10": 146
+ },
+ "brand_months": {
+  "2026-06": 1,
+  "2026-09": 3,
+  "2026-10": 6
+ },
+ "top_advertisers": [
+  {
+   "name": "Silk'n",
+   "pages": 1,
+   "page_names": [
+    "Silk'n"
+   ],
+   "ads": 75,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 240122,
+   "headline": "Reduced muscle tone in the face?",
+   "shop": "silkn.co.uk",
+   "product_page": "https://www.silkn.co.uk/campaign-led-ems-currys-EN.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=309990975820249",
+   "shop_open_since": null
+  },
+  {
+   "name": "Revylift",
+   "pages": 1,
+   "page_names": [
+    "Revylift"
+   ],
+   "ads": 37,
+   "oldest_live_ad": "2026-09-11",
+   "page_likes": 4165,
+   "headline": "#1 Advanced EMS Mask",
+   "shop": "revylift.com",
+   "product_page": "https://revylift.com/products/pro-grade-ems-mask",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=713617975173343",
+   "shop_open_since": "2026-10-03"
+  },
+  {
+   "name": "Silk'n",
+   "pages": 1,
+   "page_names": [
+    "Silk'n"
+   ],
+   "ads": 26,
+   "oldest_live_ad": "2026-10-11",
+   "page_likes": 260,
+   "headline": "Anzeige | Red light therapy + EMS = a match made in heaven ✨\n@silkn.eu \n\n#silkn #redlightt",
+   "shop": "silkn.de",
+   "product_page": "https://www.silkn.de/campaign-led-ems-douglas-de.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=309990975820249",
+   "shop_open_since": null
+  },
+  {
+   "name": "Silk'n",
+   "pages": 1,
+   "page_names": [
+    "Silk'n"
+   ],
+   "ads": 11,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 240122,
+   "headline": "En savoir plus sur Boulanger",
+   "shop": "silkn.fr",
+   "product_page": "https://www.silkn.fr/campaign-led-ems-boulanger-fr.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=309990975820249",
+   "shop_open_since": null
+  },
+  {
+   "name": "BeautyFoo Mall",
+   "pages": 1,
+   "page_names": [
+    "BeautyFoo Mall"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-12",
+   "page_likes": 8008,
+   "headline": "Looking in the mirror and seeing sagging face, tired cheeks, or that “meh” jawline? 😩\n\nLat",
+   "shop": "beautyfoomall.com",
+   "product_page": "https://beautyfoomall.com/products/ya-man-medi-lift-plus",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101502125352850",
+   "shop_open_since": "2020-12-02"
+  },
+  {
+   "name": "Lumiems",
+   "pages": 1,
+   "page_names": [
+    "Lumiems"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 4,
+   "headline": "⚡ PRE-SALE: $49 for the First 50 Orders",
+   "shop": "lumiems.com",
+   "product_page": "https://lumiems.com/products/ems-lifting-face-mask",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1346052355249370",
+   "shop_open_since": "2026-04-25"
+  },
+  {
+   "name": "Ya-Man USA",
+   "pages": 1,
+   "page_names": [
+    "Ya-Man USA"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-04",
+   "page_likes": 934,
+   "headline": "Celebrate YA-MAN’s Birthday Sale. Use code MASK.",
+   "shop": "ya-manusa.com",
+   "product_page": "https://www.ya-manusa.com/products/medi-lift-essential-mask",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107374988844708",
+   "shop_open_since": "2023-04-21"
+  },
+  {
+   "name": "Yoeyou Global",
+   "pages": 1,
+   "page_names": [
+    "Yoeyou Global"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-12",
+   "page_likes": 2020,
+   "headline": "🔥 The EMS Face Mask Deal You’ve Been Waiting For",
+   "shop": "yoeyou.com",
+   "product_page": "https://yoeyou.com/products/yoeyou-ems-lifting-face-mask",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103792251410042",
+   "shop_open_since": "2026-02-03"
+  },
+  {
+   "name": "Swirise Global",
+   "pages": 1,
+   "page_names": [
+    "Swirise Global"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 12129,
+   "headline": "🚨 The EMS Face Mask Everyone's Curious About! First 100 Save $20! ✨",
+   "shop": "swirise.com",
+   "product_page": "https://swirise.com/products/swirise-ems-lifting-face-mask",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=261678087026835",
+   "shop_open_since": "2024-04-10"
+  },
+  {
+   "name": "Klinik Body & Face",
+   "pages": 1,
+   "page_names": [
+    "Klinik Body & Face"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 1001,
+   "headline": "KENDER DU EMS FACE?\n\nNu kan du få effektiv EMS-behandling af ansigtet hjemme i din egen st",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108373015514348",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "silkn.co.uk": 75,
+  "revylift.com": 37,
+  "silkn.de": 26,
+  "silkn.fr": 11,
+  "beautyfoomall.com": 1,
+  "lumiems.com": 1,
+  "ya-manusa.com": 1,
+  "yoeyou.com": 1,
+  "swirise.com": 1
+ },
+ "cost_usd": 0.78,
+ "shops_checked": 6,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 1
+}

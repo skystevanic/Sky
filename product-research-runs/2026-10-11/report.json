@@ -14677,6 +14677,1547 @@
    }
   },
   {
+   "slug": "ems-mask",
+   "name": "EMS Lifting Face Mask (Swirise)",
+   "one_liner": "A white-label EMS mask (about US$23 on AliExpress) that Megelin and Amazon sellers already offer, in a busy face-device market led by Silk'n. Hard for a beginner: electrical, a medical-style claim, and high refund risk.",
+   "url": "https://swirise.com/products/swirise-ems-lifting-face-mask",
+   "brand": "Swirise",
+   "category": "Beauty device: EMS face mask",
+   "price": "US$129 (shown as reduced from US$189)",
+   "ad_days": null,
+   "store_platform": "Shopify",
+   "store_launched": "2024-04",
+   "store_products": "59 products, EMS beauty and wellness devices",
+   "snapshot": {
+    "icp": "Women 35-55 who already use sheet masks and want firmer-looking skin",
+    "job": "Boost a sheet mask with muscle stimulation for a lifted look",
+    "cogs": "About US$23 before shipping (AliExpress)",
+    "margin": "About 80% at US$129, before ads",
+    "claims": "92% more lifted contours, 6x serum absorption, 2 modes, 5 levels",
+    "demoable": "Yes, but the result is subtle and slow to show on camera"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells this exact mask; Boots and Kmart sell other face devices"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "Amazon US result 3 at US$89.99; Megelin sells the same design"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Only 10 brands, but Silk'n alone runs about 110 ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "An electrical device on the skin: CE/UKCA marking, battery shipping rules, avoid medical claims"
+    }
+   ],
+   "scores": {
+    "saturated": 7,
+    "margin": 8,
+    "viral": 7,
+    "pain": 5,
+    "differentiation": 3
+   },
+   "overall": 52,
+   "confidence": "Medium",
+   "best_region": "None for a beginner. Germany and the UK have no visible copy, but Silk'n advertises heavily there.",
+   "angles": [
+    "Pre-event \"lift\" routine before weddings or parties",
+    "Gift for mums who love skincare",
+    "Bundle with a month of sheet masks (refill sales)",
+    "Men's skincare tech",
+    "TAKEN: \"1 EMS session = 10 sheet masks\" (Swirise)"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "The same mask is Amazon US result 3 at US$89.99 and Megelin's at NZ$229 with 300 reviews",
+     "Silk'n runs over 100 ads for \"EMS face mask\" across the UK, Germany and France",
+     "It is an electrical device on the face: CE and safety marking, battery rules and refund risk"
+    ],
+    "risk": "An electrical beauty device needs CE/UKCA safety marking in Europe, and \"lifting\" results are hard to prove, so refunds can be high.",
+    "fastest_test": [
+     "Skip it as a first product. Electrical skin devices are a poor fit for a beginner"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "Kmart sells it at $12.05",
+     "sellers": 24,
+     "cheapest": "A$2",
+     "typical": "A$47",
+     "top": "eBay - caremaxau (123)"
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "Macy's sells a pricier version ($150.00)",
+     "sellers": 26,
+     "cheapest": "US$13",
+     "typical": "US$64",
+     "top": "NextWarehouse.com (312)"
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "Boots.com sells a pricier version (£159.99)",
+     "sellers": 29,
+     "cheapest": "£18",
+     "typical": "£66",
+     "top": "Simply Be (2600)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "Shoppers Drug Mart sells it at $44.90",
+     "sellers": 21,
+     "cheapest": "C$14",
+     "typical": "C$246",
+     "top": "AliExpress - AliExpress-6003708284 (999)"
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "otto.de sells it at 52,99 €",
+     "sellers": 21,
+     "cheapest": "€0",
+     "typical": "€53",
+     "top": "Outdoor Tactical (138)"
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "Mitre 10 sells it at $14.38",
+     "sellers": 29,
+     "cheapest": "NZ$5",
+     "typical": "NZ$47",
+     "top": "The Cosmetic Store (1100)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 1,100 reviews; 2 of the first 20 have 1,000+; at least 650 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 1100,
+     "n_1000_plus": 2,
+     "cheapest": "A$14",
+     "typical": "A$60",
+     "bought_last_month_min": 650,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Medi Grade Cooling Gel Face Mask with 1 Lycra Fabric Mask and Storage Pouch - Soothing Gel",
+       "price_text": "$15.99",
+       "price": 15.99,
+       "rating": 4.3,
+       "reviews": 1100,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Medi-Grade-Individual-Face-Mask/dp/B0F2T46KZV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71AdLYDAssL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Medi Grade Cooling Gel Face Mask with 1 Lycra Fabric Mask and Storage Pouch, Pink Set - So",
+       "price_text": "$13.99",
+       "price": 13.99,
+       "rating": 4.3,
+       "reviews": 1100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Medi-Grade-Face-Mask-Pink/dp/B0FMHB4WBK/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71rabA6Xk5L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Red Light Therapy for Face and Neck, 4 Modes Cordless Face Mask Light Therapy with Neck Ma",
+       "price_text": "$159.99",
+       "price": 159.99,
+       "rating": 4.6,
+       "reviews": 979,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Therapy-Cordless-Infrared-2000mAh-Rechargeable/dp/B0H36L3YBG/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61jGJu5CppL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 49,800 reviews; 4 of the first 20 have 1,000+; at least 77,450 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 49800,
+     "n_1000_plus": 4,
+     "cheapest": "US$10",
+     "typical": "US$40",
+     "bought_last_month_min": 77450,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimiz",
+       "price_text": "$62.00",
+       "price": 62.0,
+       "rating": 4.5,
+       "reviews": 49800,
+       "bought_text": "10K+ bought in past month",
+       "bought": 10000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Biodance-Bio-Collagen-Tightening-Hydrating-Molecular/dp/B0B879FZBZ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/519Liw+ABwL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "SUNGBOON EDITOR Deep Collagen Overnight Mask, Hydrating, Wrinkle care, 4ea",
+       "price_text": "$19.00",
+       "price": 19.0,
+       "rating": 4.5,
+       "reviews": 5800,
+       "bought_text": "9K+ bought in past month",
+       "bought": 9000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/SUNGBOON-EDITOR-Anti-Wrinkle-molecular-moisturizing/dp/B0CJFFR574/",
+       "thumbnail": "https://m.media-amazon.com/images/I/618cSmwa8DL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Caudalie Instant Detox Mask, Pore Minimizing Pink Clay Face Mask",
+       "price_text": "$42.00",
+       "price": 42.0,
+       "rating": 4.6,
+       "reviews": 5800,
+       "bought_text": "3K+ bought in past month",
+       "bought": 3000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Caudalie-Instant-Detox-Clay-Mask/dp/B0CZTXZYKN/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61nicHkbcBL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 1,200 reviews; 2 of the first 20 have 1,000+; at least 9,650 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 1200,
+     "n_1000_plus": 2,
+     "cheapest": "£9",
+     "typical": "£100",
+     "bought_last_month_min": 9650,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "INIA Red Light LED Face Mask, 850nm NIR, Red/Blue Light, 3 Modes, 220 LEDs",
+       "price_text": "£99.99",
+       "price": 99.99,
+       "rating": 4.3,
+       "reviews": 1200,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0F18BBHCC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61nLBayE+aL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "INIA Red Light LED Face Mask, 850nm NIR, Red/Blue Light, 3 Modes, 220 LEDs",
+       "price_text": "£99.99",
+       "price": 99.99,
+       "rating": 4.3,
+       "reviews": 1200,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/INIA-LED-Face-Mask-Rechargeable/dp/B0F18BBHCC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61nLBayE+aL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Shark CryoGlow LED Face Mask with Under-Eye Cooling, Anti-Ageing",
+       "price_text": "£299.00",
+       "price": 299.0,
+       "rating": 4.6,
+       "reviews": 975,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Shark-CryoGlow-Under-Eye-Anti-Ageing-Adjustable/dp/B0FST227JM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717BTdIT1iL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 4,400 reviews; 3 of the first 20 have 1,000+; at least 2,800 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 4400,
+     "n_1000_plus": 3,
+     "cheapest": "C$20",
+     "typical": "C$99",
+     "bought_last_month_min": 2800,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "TOSOWOONG Real Collagen Fit, Easy Peel-Off Mask",
+       "price_text": "$32.87",
+       "price": 32.87,
+       "rating": 4.3,
+       "reviews": 4400,
+       "bought_text": "1K+ bought in past month",
+       "bought": 1000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/TOSOWOONG-Real-Collagen-Easy-Peel-Off/dp/B0D6R5CF7T/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61lNz2dfPmL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Medi Grade Cooling Face Mask, Gel Ice Pack for Face with Lycra Mask, Green",
+       "price_text": "$19.99",
+       "price": 19.99,
+       "rating": 4.1,
+       "reviews": 1100,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Medi-Grade-Cooling-Fabric-Storage/dp/B0F2T46KZV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71AdLYDAssL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "numbuzin No.9+ NAD+ BIO Lifting Full Face Mask, Peptide & Collagen Two-Piece Firming Mask ",
+       "price_text": "$25.98",
+       "price": 25.98,
+       "rating": 4.6,
+       "reviews": 1100,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/numbuzin-Lifting-Collagen-Two-Piece-Defined-Looking/dp/B0DLKG4Q9X/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61YvzpImBGL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 4,700 reviews; 2 of the first 20 have 1,000+; at least 1,650 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 4700,
+     "n_1000_plus": 2,
+     "cheapest": "€25",
+     "typical": "€90",
+     "bought_last_month_min": 1650,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Face Massager, ANLAN Face Beauty Device with 3 Modes for Face Massage, 45°C Beauty Face De",
+       "price_text": "€25.49",
+       "price": 25.49,
+       "rating": 4.0,
+       "reviews": 4700,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": [
+        "Limited time deal"
+       ],
+       "link": "https://www.amazon.de/-/en/Massager-ANLAN-Beauty-Massage-Comfort/dp/B08LGBSM5R/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61HBgH+l17L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "INIA Glow LED Face Mask, Red & Blue Light, 3 Modes, 220 LEDs",
+       "price_text": "€119.99",
+       "price": 119.99,
+       "rating": 4.2,
+       "reviews": 1200,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0F18BBHCC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81FuFFL5y7L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "INIA 4D LED Face Mask, Wireless, Extended Range 940, 4 Light Modes",
+       "price_text": "€169.99",
+       "price": 169.99,
+       "rating": 4.4,
+       "reviews": 583,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": [
+        "Limited time deal"
+       ],
+       "link": "https://www.amazon.de/dp/B0FNWRJQFX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71rz6zVDdWL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "medium",
+     "why": "top listing 1,100 reviews; 2 of the first 20 have 1,000+; at least 650 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 1100,
+     "n_1000_plus": 2,
+     "cheapest": "A$14",
+     "typical": "A$60",
+     "bought_last_month_min": 650,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Medi Grade Cooling Gel Face Mask with 1 Lycra Fabric Mask and Storage Pouch - Soothing Gel",
+       "price_text": "$15.99",
+       "price": 15.99,
+       "rating": 4.3,
+       "reviews": 1100,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Medi-Grade-Individual-Face-Mask/dp/B0F2T46KZV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71AdLYDAssL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Medi Grade Cooling Gel Face Mask with 1 Lycra Fabric Mask and Storage Pouch, Pink Set - So",
+       "price_text": "$13.99",
+       "price": 13.99,
+       "rating": 4.3,
+       "reviews": 1100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Medi-Grade-Face-Mask-Pink/dp/B0FMHB4WBK/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71rabA6Xk5L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Red Light Therapy for Face and Neck, 4 Modes Cordless Face Mask Light Therapy with Neck Ma",
+       "price_text": "$159.99",
+       "price": 159.99,
+       "rating": 4.6,
+       "reviews": 979,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Therapy-Cordless-Infrared-2000mAh-Rechargeable/dp/B0H36L3YBG/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61jGJu5CppL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "thin",
+     "growth_pct": null,
+     "zero_share": 0.42,
+     "why": "Too few searches here for Google to measure reliably (42% of weeks read zero). Use Amazon units and ad velocity instead.",
+     "line": [
+      0,
+      0,
+      0,
+      23,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      10,
+      16,
+      30,
+      27,
+      34,
+      22,
+      32,
+      46,
+      72,
+      48,
+      48,
+      42,
+      32,
+      44,
+      36,
+      47,
+      48,
+      66,
+      81,
+      64,
+      90,
+      60,
+      44,
+      30,
+      16,
+      24,
+      12,
+      54,
+      60,
+      34,
+      29,
+      31
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "open",
+     "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+     "prices": {
+      "brand": 193.5,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "amazon.com at $89.99: Amazon result 3 for the product words. 2 other copies",
+     "prices": {
+      "brand": 129.0,
+      "cheapest_copy": 89.99,
+      "typical_copy": 89.99,
+      "cheapest_real_copy": 89.99,
+      "priced_copies": 3
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: NARASKIN LAB EMS Microcurrent Anti-Aging Face ...",
+       "link": "https://www.amazon.com/NARASKIN-LAB-Microcurrent-Anti-Aging-Lifting/dp/B0GX6ZXSFN",
+       "price_text": "$89.99",
+       "kind": "marketplace",
+       "thumb_file": "lens/ems-mask_thumb_83.jpg",
+       "looked_up": true,
+       "reviews": 21,
+       "bought": "50+ bought in past month",
+       "strength": "weak",
+       "strength_why": "not in the top results, 21 reviews"
+      },
+      {
+       "source": "amazon.com",
+       "title": "EMS Microcurrent Anti-Aging Face Lifting Sheet Mask System",
+       "link": "https://www.amazon.com/NARASKIN-LAB-Microcurrent-Anti-Aging-Lifting/dp/B0GX6ZXSFN/",
+       "price_text": "$89.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/ems-mask_vis_thumb_010.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 21,
+       "bought": "50+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 3 for the product words"
+      },
+      {
+       "source": "amazon.com",
+       "title": "MEGELIN Lifting Face Mask, Wearable Facial Care System for Masks",
+       "link": "https://www.amazon.com/MEGELIN-Lifting-Wearable-Facial-System/dp/B0HG1RGJKB/",
+       "price_text": "$169.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/ems-mask_vis_thumb_015.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "uk",
+     "status": "open",
+     "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+     "prices": {
+      "brand": 96.75,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 60
+    },
+    {
+     "cc": "ca",
+     "status": "open",
+     "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+     "prices": {
+      "brand": 176.73,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 60
+    },
+    {
+     "cc": "de",
+     "status": "open",
+     "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+     "prices": {
+      "brand": 110.94,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 60
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "Megelin Official Store at $229.54: Google Shopping result 3 for the product words, with 300 reviews",
+     "prices": {
+      "brand": 216.72,
+      "cheapest_copy": 229.54,
+      "typical_copy": 229.54,
+      "cheapest_real_copy": 229.54,
+      "priced_copies": 1
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Megelin Official Store",
+       "title": "Megelin Ems Lifting face mask Ems face mask",
+       "link": "https://www.google.com/search?q=%22Megelin+Ems+Lifting+face+mask+Ems+face+mask%22+Megelin+Official+Store",
+       "price_text": "$229.54",
+       "kind": "marketplace",
+       "thumb_file": "visible/ems-mask_vis_thumb_075.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 3,
+       "reviews": 300,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 3 for the product words, with 300 reviews"
+      }
+     ],
+     "picture_matches": 60
+    }
+   ],
+   "lens_sheet": "lens/ems-mask_sheet.jpg",
+   "supplier": {
+    "slug": "ems-mask",
+    "brand_price": 129.0,
+    "brand_currency": "usd",
+    "words": "ems lifting face mask",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-ems-lifting-face-mask.html",
+    "listings": [
+     {
+      "n": 1,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Practical bestseller Mask Significant Other EMS Micro ...",
+      "link": "https://www.aliexpress.com/item/1005012364719700.html",
+      "thumb_file": "lens/ems-mask_thumb_84.jpg",
+      "price_seen_in_search": "CA$31*",
+      "price": 31.0,
+      "currency": "cad",
+      "shipping": null,
+      "note": "Price shown in the picture search; shipping not included",
+      "delivered_cost_usd": 22.63
+     },
+     {
+      "n": 2,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "New Product Electric Skin Tightening Face-lift Vibration ...",
+      "link": "https://www.aliexpress.com/item/1005012917725752.html",
+      "thumb_file": "lens/ems-mask_thumb_85.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 3,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "How to Choose the Best EMS Facial Pads: A Complete Buying Guide",
+      "link": "https://smartbuy.alibaba.com/buyingguides/ems-facial-pads",
+      "thumb_file": "lens/ems-mask_thumb_87.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 4,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Ems Microcurrent DermaLift EMS Facial Mask Air-Facial ...",
+      "link": "https://www.alibaba.com/product-detail/DermaLift-EMS-Facial-Mask-Air_1601419627092.html",
+      "thumb_file": "lens/ems-mask_thumb_107.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     }
+    ],
+    "summary": {
+     "found": 4,
+     "priced": 1,
+     "brand_price_usd": 129.0,
+     "status": "priced",
+     "cost_usd": 22.63,
+     "cost_site": "AliExpress",
+     "cost_includes_shipping": false,
+     "margin_pct": 82,
+     "room_per_sale_usd": 106.37,
+     "plain": "AliExpress sells it for about US$23 before shipping. At the brand's price of about US$129 that leaves about US$106 a sale (82%) to cover ads, payment fees and profit."
+    }
+   },
+   "meta": {
+    "slug": "ems-mask",
+    "phrase": "ems face mask",
+    "checked": "2026-10-14",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22ems%20face%20mask%22",
+    "ads_loaded": 155,
+    "capped": false,
+    "stopped_by": "read every live ad",
+    "n_advertisers": 10,
+    "advertisers_with_3_plus_ads": 4,
+    "biggest_advertiser_share": 0.48,
+    "brands_new_in_last_2_months": 9,
+    "brands_advertising_3_plus_months": 1,
+    "ads_started_last_2_months": 154,
+    "ads_older_than_6_months": 0,
+    "pattern": "crowded",
+    "plain": "10 brands. Their live ads are recent, but 3 of the 6 biggest shops we could date are more than a year old: an established market, not a new rush.",
+    "months": {
+     "2026-06": 1,
+     "2026-09": 8,
+     "2026-10": 146
+    },
+    "brand_months": {
+     "2026-06": 1,
+     "2026-09": 3,
+     "2026-10": 6
+    },
+    "top_advertisers": [
+     {
+      "name": "Silk'n",
+      "pages": 1,
+      "page_names": [
+       "Silk'n"
+      ],
+      "ads": 75,
+      "oldest_live_ad": "2026-10-06",
+      "page_likes": 240122,
+      "headline": "Reduced muscle tone in the face?",
+      "shop": "silkn.co.uk",
+      "product_page": "https://www.silkn.co.uk/campaign-led-ems-currys-EN.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=309990975820249",
+      "shop_open_since": null
+     },
+     {
+      "name": "Revylift",
+      "pages": 1,
+      "page_names": [
+       "Revylift"
+      ],
+      "ads": 37,
+      "oldest_live_ad": "2026-09-11",
+      "page_likes": 4165,
+      "headline": "#1 Advanced EMS Mask",
+      "shop": "revylift.com",
+      "product_page": "https://revylift.com/products/pro-grade-ems-mask",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=713617975173343",
+      "shop_open_since": "2026-10-03"
+     },
+     {
+      "name": "Silk'n",
+      "pages": 1,
+      "page_names": [
+       "Silk'n"
+      ],
+      "ads": 26,
+      "oldest_live_ad": "2026-10-11",
+      "page_likes": 260,
+      "headline": "Anzeige | Red light therapy + EMS = a match made in heaven ✨\n@silkn.eu \n\n#silkn #redlightt",
+      "shop": "silkn.de",
+      "product_page": "https://www.silkn.de/campaign-led-ems-douglas-de.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=309990975820249",
+      "shop_open_since": null
+     },
+     {
+      "name": "Silk'n",
+      "pages": 1,
+      "page_names": [
+       "Silk'n"
+      ],
+      "ads": 11,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 240122,
+      "headline": "En savoir plus sur Boulanger",
+      "shop": "silkn.fr",
+      "product_page": "https://www.silkn.fr/campaign-led-ems-boulanger-fr.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=309990975820249",
+      "shop_open_since": null
+     },
+     {
+      "name": "BeautyFoo Mall",
+      "pages": 1,
+      "page_names": [
+       "BeautyFoo Mall"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-06-12",
+      "page_likes": 8008,
+      "headline": "Looking in the mirror and seeing sagging face, tired cheeks, or that “meh” jawline? 😩\n\nLat",
+      "shop": "beautyfoomall.com",
+      "product_page": "https://beautyfoomall.com/products/ya-man-medi-lift-plus",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101502125352850",
+      "shop_open_since": "2020-12-02"
+     },
+     {
+      "name": "Lumiems",
+      "pages": 1,
+      "page_names": [
+       "Lumiems"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-21",
+      "page_likes": 4,
+      "headline": "⚡ PRE-SALE: $49 for the First 50 Orders",
+      "shop": "lumiems.com",
+      "product_page": "https://lumiems.com/products/ems-lifting-face-mask",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1346052355249370",
+      "shop_open_since": "2026-04-25"
+     },
+     {
+      "name": "Ya-Man USA",
+      "pages": 1,
+      "page_names": [
+       "Ya-Man USA"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-04",
+      "page_likes": 934,
+      "headline": "Celebrate YA-MAN’s Birthday Sale. Use code MASK.",
+      "shop": "ya-manusa.com",
+      "product_page": "https://www.ya-manusa.com/products/medi-lift-essential-mask",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107374988844708",
+      "shop_open_since": "2023-04-21"
+     },
+     {
+      "name": "Yoeyou Global",
+      "pages": 1,
+      "page_names": [
+       "Yoeyou Global"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-12",
+      "page_likes": 2020,
+      "headline": "🔥 The EMS Face Mask Deal You’ve Been Waiting For",
+      "shop": "yoeyou.com",
+      "product_page": "https://yoeyou.com/products/yoeyou-ems-lifting-face-mask",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103792251410042",
+      "shop_open_since": "2026-02-03"
+     },
+     {
+      "name": "Swirise Global",
+      "pages": 1,
+      "page_names": [
+       "Swirise Global"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-09",
+      "page_likes": 12129,
+      "headline": "🚨 The EMS Face Mask Everyone's Curious About! First 100 Save $20! ✨",
+      "shop": "swirise.com",
+      "product_page": "https://swirise.com/products/swirise-ems-lifting-face-mask",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=261678087026835",
+      "shop_open_since": "2024-04-10"
+     },
+     {
+      "name": "Klinik Body & Face",
+      "pages": 1,
+      "page_names": [
+       "Klinik Body & Face"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-06",
+      "page_likes": 1001,
+      "headline": "KENDER DU EMS FACE?\n\nNu kan du få effektiv EMS-behandling af ansigtet hjemme i din egen st",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108373015514348",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "silkn.co.uk": 75,
+     "revylift.com": 37,
+     "silkn.de": 26,
+     "silkn.fr": 11,
+     "beautyfoomall.com": 1,
+     "lumiems.com": 1,
+     "ya-manusa.com": 1,
+     "yoeyou.com": 1,
+     "swirise.com": 1
+    },
+    "cost_usd": 0.78,
+    "shops_checked": 6,
+    "shops_over_a_year_old": 3,
+    "shops_under_4_months_old": 1,
+    "takeaway": "Silk'n, an established beauty-device brand, runs about 110 ads for \"EMS face mask\" across the UK, Germany and France, all started this month. Revylift adds 37 more. Swirise itself is not among the advertisers for this phrase."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "ems face mask",
+     "image": "asis/ems-mask_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Facial EMS Devices & Masks",
+       "link": "https://facegym.com/collections/ems-facial-skincare-devices?srsltid=AU7gw4UbOD9DV0LTVwRyhbTCGdzhbS26vNcnPw0uhv-IIUNe5n4NxcWf",
+       "domain": "facegym.com",
+       "kind": "store / brand",
+       "snippet": "Want to feel the benefits of Electric muscle stimulation? Click now and get our facial EMS devices with patented triple-wave technology. FACE MASK £450.00 Acne"
+      },
+      {
+       "position": 2,
+       "title": "Nourished Bodynskin LED Light Therapy Face & Neck Mask",
+       "link": "https://www.amazon.com.au/Led-Face-Mask-Light-Therapy/dp/B0BBB76WYQ",
+       "domain": "amazon.com.au",
+       "kind": "marketplace",
+       "snippet": "Equipped with 684 LEDs across 228 bulbs, our face and neck masks emit 7 light modes to help firm skin, improve texture, and support a more youthful-looking ..."
+      },
+      {
+       "position": 4,
+       "title": "LED Face Mask vs EMS Device UK 2026 - Fashion Couture",
+       "link": "https://www.fashioncouture.co.uk/blogs/beauty-hair/led-face-mask-vs-ems-device-which-to-choose-uk?srsltid=AU7gw4UDgj6Y-T1ya95ZCy_dFHWsue3ctQywVvdBrZAKZGijxpBEw2wZ",
+       "domain": "fashioncouture.co.uk",
+       "kind": "article",
+       "snippet": "EMS devices deliver low-level electrical currents to the facial muscles, mimicking the body's own bioelectrical signals. This stimulates the ..."
+      },
+      {
+       "position": 5,
+       "title": "This EMS Device Tightens My Jawline in 10 Minutes",
+       "link": "https://www.popsugar.com/beauty/facial-ems-editor-experiment-49354679",
+       "domain": "popsugar.com",
+       "kind": "store / brand",
+       "snippet": "Electrical muscle stimulation (EMS) is used to stimulate muscle contractions. Our editor tried a facial EMS mask to contour her face."
+      },
+      {
+       "position": 6,
+       "title": "EMS FACE - A Facelift Without Surgery – SALON STATION",
+       "link": "https://salonstation.com.au/collections/ems-face",
+       "domain": "salonstation.com.au",
+       "kind": "store / brand",
+       "snippet": "EMS Facial Tightening Laser Facial Resurfacing Laser Skin Rejuvenation Non-Surgical Facelift. FACIAL TIGHTENING (EMS) Price $10 - $20 $20 - $30"
+      }
+     ],
+     "paa": [
+      "How often can you use EMS on your face?",
+      "What are the top 10 best face masks?",
+      "What face masks do dermatologists recommend?",
+      "What is the best brand for facial masks?"
+     ],
+     "popular_products": [
+      {
+       "title": "EMS Slimming V-Line Strap Face Lifting Mask",
+       "price": null,
+       "source": "ortorex.au"
+      },
+      {
+       "title": "Besmed CPR Pocket Mask",
+       "price": null,
+       "source": "Paramedic Shop"
+      },
+      {
+       "title": "EMS Slimming V-Line Chin Strap Face Lifting Mask",
+       "price": null,
+       "source": "ortorex.au"
+      },
+      {
+       "title": "Silk'n LED and EMS Face Mask",
+       "price": null,
+       "source": "Cosmetics Now AU"
+      },
+      {
+       "title": "Besmed Silicone Resuscitator Masks - Paramedic Shop",
+       "price": null,
+       "source": "Paramedic Shop"
+      },
+      {
+       "title": "JOVS EMS Lifting Face Mask, JOVS EMS-Lifting Mask",
+       "price": null,
+       "source": "JOVS Official"
+      },
+      {
+       "title": "Plasma Perfecting EMS Face Mask",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Laerdal Pocket Mask",
+       "price": null,
+       "source": "Paramedic Shop"
+      },
+      {
+       "title": "EMS Silicone Facial Massager Mask – Microcurrent Face Liftin",
+       "price": null,
+       "source": "Gear Elevation"
+      },
+      {
+       "title": "Laerdal Pocket Mask Hardcase",
+       "price": null,
+       "source": "Paramedic Shop"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "An EMS (Electrical Muscle Stimulation) face mask uses low-frequency electrical pulses to gently stimulate underlying facial muscles, boost microcirculation, and enhance the absorption of serums and sheet masks. If you'd like, let me know: I can recommend the best model for your routine.",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in Australia: facegym.com (store / brand). In the product strip: Amazon, Cosmetics Now AU, Gear Elevation, JOVS Official, Paramedic Shop. Amazon here is busy."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "ems face mask",
+     "image": "asis/ems-mask_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 2,
+       "title": "Facial EMS Devices & Masks",
+       "link": "https://facegym.com/collections/ems-facial-skincare-devices?srsltid=AU7gw4UaVU-zyXYiiL8JH4BnClH2LFBUt3oFQVtqsWxEaI5mdsBrEpf-",
+       "domain": "facegym.com",
+       "kind": "store / brand",
+       "snippet": "Want to feel the benefits of Electric muscle stimulation? Click now and get our facial EMS devices with patented triple-wave technology. FACE MASK £450.00 Acne"
+      },
+      {
+       "position": 4,
+       "title": "Ems Machine Face",
+       "link": "https://www.walmart.com/c/kp/ems-machine-face",
+       "domain": "walmart.com",
+       "kind": "big chain",
+       "snippet": "EMS (Electrical Muscle Stimulation) face machines use gentle electrical pulses to stimulate facial muscles. This process can help improve muscle tone"
+      },
+      {
+       "position": 5,
+       "title": "This EMS Device Tightens My Jawline in 10 Minutes",
+       "link": "https://www.popsugar.com/beauty/facial-ems-editor-experiment-49354679",
+       "domain": "popsugar.com",
+       "kind": "store / brand",
+       "snippet": "Electrical muscle stimulation (EMS) is used to stimulate muscle contractions. Our editor tried a facial EMS mask to contour her face."
+      },
+      {
+       "position": 7,
+       "title": "3D Silicone Facial Mask, EMS Technology, Anti-Aging ...",
+       "link": "https://www.walmart.com/ip/Biolift-iFace-Facial-EMS-Vibration-Massager-Anti-Aging-Skin-Firming-Muscle-Toning-Wrinkle-Reduction-3-Modes-Silicone-Mask-Rechargeable-Improves-Blood/5958982846",
+       "domain": "walmart.com",
+       "kind": "big chain",
+       "snippet": "EMS firms skin, reduces lines, and enhances V-shape contours. Deeply absorbs nutrients, opens pores, and activates cells. Soothing, and Tightening modes … 5000 "
+      }
+     ],
+     "paa": [
+      "Do LED face and neck masks really work?",
+      "What is the best medical face mask?",
+      "How often can you use EMS on your face?",
+      "Which face mask is best for skin tightening?"
+     ],
+     "popular_products": [
+      {
+       "title": "Megelin Ems Lifting face mask Ems face mask",
+       "price": "$109.00",
+       "source": "Megelin Official Store"
+      },
+      {
+       "title": "EMS Slimming V-Line Strap Face Lifting Mask",
+       "price": "$39.98",
+       "source": "Ortorex"
+      },
+      {
+       "title": "Silk'n LED Face EMS Mask",
+       "price": "$399.00",
+       "source": "Silk'n HK"
+      },
+      {
+       "title": "Megelin Ems face mask Best microcurrent device for face",
+       "price": "$109.00",
+       "source": "Megelin Official Store"
+      },
+      {
+       "title": "YA-MAN Medi Lift Essential Mask",
+       "price": "$399.99",
+       "source": "Target"
+      },
+      {
+       "title": "Rechargeable EMS Facial Contouring Mask with 36 Pulse Levels",
+       "price": "$42.80",
+       "source": "Walmart - XinYanLe"
+      },
+      {
+       "title": "JOVS EMS Lifting Face Mask, EMS Mask + Blacken Pro",
+       "price": "$348.00",
+       "source": "JOVS Official"
+      },
+      {
+       "title": "FindGlee GLOW Wireless EMS & LED Mask",
+       "price": "$219.00",
+       "source": "Findglee"
+      },
+      {
+       "title": "VILIFTI HIGH-PERFORMANCE EMS MASK – Lionheart Longevity",
+       "price": "$239.00",
+       "source": "Lionheart Longevity"
+      },
+      {
+       "title": "YA-MAN EMS Face Sculpting Essential Mask",
+       "price": "$400.00",
+       "source": "Merry Memory"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "An EMS (Electrical Muscle Stimulation) face mask is a wearable beauty device that uses controlled microcurrent impulses to cause gentle contractions in your facial muscles. If you're considering buying one, let me know: I can help you pick the best model for your routine.",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the US: facegym.com (store / brand). In the product strip: Findglee, JOVS Official, Lionheart Longevity, Megelin Official Store, Merry Memory. Amazon here is crowded."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "ems face mask",
+     "image": "asis/ems-mask_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Silk'n LED Face EMS Mask",
+       "link": "https://eu.lookfantastic.com/p/silk-n-led-face-ems-mask/16004040/",
+       "domain": "eu.lookfantastic.com",
+       "kind": "store / brand",
+       "snippet": "The first of its kind, the Silk'n LED Face EMS Mask combines light therapy with EMS technology to take your skincare to the next level."
+      },
+      {
+       "position": 2,
+       "title": "Amazon.co.uk: Ems Face",
+       "link": "https://www.amazon.co.uk/ems-face/s?k=ems+face",
+       "domain": "amazon.co.uk",
+       "kind": "marketplace",
+       "snippet": "Discover portable facial lifting devices with EMS technology, adjustable temperature settings, and multiple treatment modes for everyday skincare routines."
+      },
+      {
+       "position": 3,
+       "title": "Is an EMS Face Mask Worth Your Money? Let's Find Out!",
+       "link": "https://www.silkn.fr/blog/is-an-ems-mask-worth-your-money.html",
+       "domain": "silkn.fr",
+       "kind": "article",
+       "snippet": "The Pros · Non-Invasive: Unlike going under the knife, EMS face masks are pain-free, easy to use, and don't require any recovery time. · Convenient: Using one ."
+      },
+      {
+       "position": 5,
+       "title": "Is an EMS Face Mask Worth Your Money? Let's Find Out!",
+       "link": "https://www.silkn.de/blog/is-an-ems-mask-worth-your-money.html",
+       "domain": "silkn.de",
+       "kind": "article",
+       "snippet": "Our LED EMS Face Masks combines two powerful skincare innovations—LED light therapy to boost collagen, reduce redness, and fight blemish, and EMS technology to "
+      },
+      {
+       "position": 6,
+       "title": "Silk'n LED Face EMS Mask",
+       "link": "https://www.pricerunner.com/pl/253-3400066501/Skincare/Silk-n-LED-Face-EMS-Mask-Compare-Prices",
+       "domain": "pricerunner.com",
+       "kind": "store / brand",
+       "snippet": "Lowest price for Silk'n LED Face EMS Mask is £209.30. This is currently the cheapest offer among 10 stores. Compare: Silk'n Skincare."
+      }
+     ],
+     "paa": [
+      "How often can you use EMS on your face?",
+      "What are the best LED face masks in the UK?",
+      "What is the skin Gym WrinkLit LED mask?",
+      "What face masks do dermatologists recommend?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "An EMS (Electrical Muscle Stimulation) face mask is a wearable beauty device that sends low-frequency electrical currents to tone facial muscles and combine light therapy for anti-aging results. Are you looking to buy an EMS mask for a specific goal like sculpting/lifting, wrinkle reduction, or acne treatment, or do you need help comparing popular models like the Silk'n LED EMS Face Mask?",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the UK: eu.lookfantastic.com (store / brand). Amazon here is busy."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "ems face mask",
+     "image": "asis/ems-mask_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Facial EMS Devices & Masks",
+       "link": "https://facegym.com/collections/ems-facial-skincare-devices?srsltid=AU7gw4VhOfdn0MKwVLNuIEPWqEjjKwm7Yiu2rkLVmZ57neLHVvJFCX1d",
+       "domain": "facegym.com",
+       "kind": "store / brand",
+       "snippet": "Want to feel the benefits of Electric muscle stimulation? Click now and get our facial EMS devices with patented triple-wave technology target the signs of ..."
+      },
+      {
+       "position": 2,
+       "title": "Ems Machine Face",
+       "link": "https://www.walmart.com/c/kp/ems-machine-face",
+       "domain": "walmart.com",
+       "kind": "big chain",
+       "snippet": "EMS devices are designed to stimulate facial muscles, which may support a firmer look and help reduce the appearance of sagging over time. Many people use them "
+      },
+      {
+       "position": 3,
+       "title": "This EMS Device Tightens My Jawline in 10 Minutes",
+       "link": "https://www.popsugar.com/beauty/facial-ems-editor-experiment-49354679",
+       "domain": "popsugar.com",
+       "kind": "store / brand",
+       "snippet": "Electrical muscle stimulation (EMS) is used to stimulate muscle contractions. Our editor tried a facial EMS mask to contour her face."
+      },
+      {
+       "position": 4,
+       "title": "Electric Face Mask",
+       "link": "https://www.amazon.ca/electric-face-mask/s?k=electric+face+mask",
+       "domain": "amazon.ca",
+       "kind": "marketplace",
+       "snippet": "2026 Cordless 4D Red Led Mask Spectrum Mask Red Light for Face and Neck Set, 850nm and Red Light 630nm, 460nm 530nm 4 Gears Energy Adjustment (Pink)."
+      },
+      {
+       "position": 5,
+       "title": "Is At-Home EMS for Skincare Safe?",
+       "link": "https://www.silkn.co.uk/blog/is-at-home-ems-for-skincare-safe.html",
+       "domain": "silkn.co.uk",
+       "kind": "article",
+       "snippet": "Toning and Firming Skin: EMS is designed to work the muscles under the skin, helping to improve the firmness and tone of the face. This may be particularly ..."
+      }
+     ],
+     "paa": [
+      "What are the benefits of using the TheraFace mask?",
+      "What is the most recommended facial mask?",
+      "Which LED mask does Victoria Beckham use?",
+      "How often can you use EMS on your face?"
+     ],
+     "popular_products": [
+      {
+       "title": "Beautyronics EMS Silicone Face Massager Mask USB Rechargeabl",
+       "price": null,
+       "source": "YesStyle.ca"
+      },
+      {
+       "title": "Plasma Perfecting EMS Face Mask",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "KSAIPX Ems Head Massage Face Relaxation USB Charging Facial ",
+       "price": null,
+       "source": "Best Buy Canada Marketplace"
+      },
+      {
+       "title": "EMS Silicone Facial Massager Mask – Microcurrent Face Liftin",
+       "price": null,
+       "source": "Gear Elevation"
+      },
+      {
+       "title": "JOVS EMS Lifting Face Mask, JOVS EMS-Lifting Mask",
+       "price": null,
+       "source": "JOVS Official"
+      },
+      {
+       "title": "MYACUC EMS Face Massager Face Lift Mask Skin Tightening Anti",
+       "price": null,
+       "source": "Best Buy Canada Marketplace"
+      },
+      {
+       "title": "Silk'n LED Face EMS Mask",
+       "price": null,
+       "source": "Qathu"
+      },
+      {
+       "title": "PRIMED Medical Face Mask Indigo",
+       "price": null,
+       "source": "EmerDepot Medical Supplies"
+      },
+      {
+       "title": "Cnv Multi-Mode Ems Facial Massager For Jawline And Chin Rela",
+       "price": null,
+       "source": "Walmart.ca"
+      },
+      {
+       "title": "WOREMOR 5G EMF Face Mask",
+       "price": null,
+       "source": "Amazon"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "An EMS face mask is a wearable beauty and skincare device that uses Electrical Muscle Stimulation (EMS) to send low-frequency electrical pulses to your facial muscles. This causes gentle muscle contractions—acting like a workout for your face—to help lift, firm, and contour the skin. If you'd like to narrow down your choices, let me know:",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "discussions_and_forums"
+     ],
+     "takeaway": "First result in Canada: facegym.com (store / brand). In the product strip: Amazon, Best Buy Canada Marketplace, EmerDepot Medical Supplies, Gear Elevation, JOVS Official. Amazon here is busy."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "ems face mask",
+     "image": "asis/ems-mask_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Suchergebnis Auf Amazon.de Für: Ems Gesicht",
+       "link": "https://www.amazon.de/ems-gesicht/s?k=ems+gesicht",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Entdecken Sie EMS-Geräte für das Gesicht mit verschiedenen Intensitätsstufen, LED-Therapieoptionen und kompaktem Design für den Alltag."
+      },
+      {
+       "position": 2,
+       "title": "LED-Maske im Test: Die besten Lichttherapie-Geräte für Ihr ...",
+       "link": "https://www.vogue.de/shopping/artikel/beste-led-maske",
+       "domain": "vogue.de",
+       "kind": "article",
+       "snippet": "Von der Reduzierung von Akne und Entzündungen bis hin zur Verlangsamung der Zeichen der Hautalterung, der Stimulierung der Kollagenproduktion, ..."
+      },
+      {
+       "position": 3,
+       "title": "Ist EMS für die Hautpflege zu Hause sicher?",
+       "link": "https://www.silkn.de/blog/is-at-home-ems-for-skincare-safe.html",
+       "domain": "silkn.de",
+       "kind": "article",
+       "snippet": "Nicht-invasiv und benutzerfreundlich: Im Vergleich zu eingreifenden Verfahren wie Botox oder Facelifts ist EMS eine nicht-invasive und schmerzfreie Alternative."
+      },
+      {
+       "position": 4,
+       "title": "LED Gesichtsmaske Test: Currentbody, Silk'n, Therabody ...",
+       "link": "https://www.stern.de/kaufkosmos/led-gesichtsmaske-test--beliebte-led-masken-im-vergleich-35481756.html",
+       "domain": "stern.de",
+       "kind": "store / brand",
+       "snippet": "Die erste LED-Maske, die LED-Lichttherapie mit EMS-Technologie kombiniert; Ein zehnminütiges „Gesichts-Workout“ soll die wichtigsten Bereiche ..."
+      },
+      {
+       "position": 5,
+       "title": "LED-Maske-Test 2026: Die besten Lichttherapie-Geräte für ...",
+       "link": "https://www.gq-magazin.de/artikel/led-maske-test",
+       "domain": "gq-magazin.de",
+       "kind": "store / brand",
+       "snippet": "Eine LED-Maske bekämpft Hautprobleme effektiv. Wir haben eine Expertin gefragt und verraten alle Vorteile, die richtige Anwendung und die ..."
+      }
+     ],
+     "paa": [
+      "Wie kann ich eine einfache Gesichtsmaske selber machen?",
+      "Wie oft darf man eine LED-Maske pro Woche tragen?",
+      "Welche Maske zieht Mitesser raus?",
+      "Welche Anti-Aging-Maske kann ich über Nacht verwenden?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "related_questions",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in Germany: amazon.de (marketplace). Amazon here is busy."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "ems face mask",
+     "image": "asis/ems-mask_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Silk'n LED EMS Face Mask",
+       "link": "https://lyko.com/sv/silkn/silk-n-led-ems-face-mask",
+       "domain": "lyko.com",
+       "kind": "store / brand",
+       "snippet": "Silk'n LED EMS FaceMask är den första LED-masken någonsin som kombinerar LED-ljusterapi med EMS-teknologi (Elektrisk Muskelstimulering), och tar anti-ageing ..."
+      },
+      {
+       "position": 2,
+       "title": "This LED face mask lifts, massages and rejuvenates your skin",
+       "link": "https://www.t3.com/home-living/beauty/this-led-face-mask-lifts-massages-and-rejuvenates-your-skin-at-the-same-time",
+       "domain": "t3.com",
+       "kind": "store / brand",
+       "snippet": "Say hello to the Silk'n LED EMS Face Mask – the first-ever EMS LED face mask designed to sculpt, tone and rejuvenate skin like never before."
+      },
+      {
+       "position": 3,
+       "title": "The Best EMS Devices to Lift and Sculpt Your Face at Home",
+       "link": "https://www.harpersbazaar.com/beauty/skin-care/g63148292/best-ems-facial-devices/",
+       "domain": "harpersbazaar.com",
+       "kind": "article",
+       "snippet": "This lower-face mask is powered by EMS technology to lift, tone, and tighten skin in areas where sagging first occurs (think: jowls, jawline, ..."
+      },
+      {
+       "position": 4,
+       "title": "5 Of The Best LED Face Masks Right Now",
+       "link": "https://www.nzherald.co.nz/viva/beauty/5-of-the-best-led-face-masks-right-now/JGBM2G3MJPDN4GNLWCV47OALOU/",
+       "domain": "nzherald.co.nz",
+       "kind": "article",
+       "snippet": "LED light therapy works by exposing skin to different coloured wavelengths of light, reducing inflammation and acne, or banishing wrinkles and ..."
+      },
+      {
+       "position": 5,
+       "title": "Masks - Caci",
+       "link": "https://caci.co.nz/collections/masks?srsltid=AU7gw4VHWVOaIW3RYUFEIcDSGeVGCc3vTgKHG_m1vUKSSwR1jT0_kkKo",
+       "domain": "caci.co.nz",
+       "kind": "store / brand",
+       "snippet": "Facial Mask Regular price $299.00 Sale price $299.00. A hydrating cream mask to elevate your everyday skincare ritual. LED facial masks."
+      }
+     ],
+     "paa": [
+      "Do LED face and neck masks really work?",
+      "Which LED mask does Victoria Beckham use?",
+      "What is the best medical face mask?",
+      "How often can you use EMS on your face?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in New Zealand: lyko.com (store / brand). Amazon here is busy."
+    }
+   ],
+   "compare": {
+    "match_name": "AliExpress (about US$23)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same white fabric mask with a round metal controller on the forehead.",
+    "brand_image": "ems-mask/img_1.jpg",
+    "match_image": "lens/ems-mask_thumb_84.jpg"
+   }
+  },
+  {
    "slug": "teeth-ring",
    "name": "Braided Dog Chew Ring (The Mellow Dog)",
    "one_liner": "An existing toy (the Twisted Chews Infinity Ring) that The Range sells for £4 and Fressnapf for €7, priced here at US$59.99, with only 3 weeks of ads behind it.",
@@ -21752,6 +23293,7 @@
   "neck-cream",
   "lola-kit",
   "paw-wash",
+  "ems-mask",
   "teeth-ring",
   "doggo-dock",
   "ayat-bracelet"

@@ -1,0 +1,164 @@
+{
+ "slug": "ems-mask",
+ "same": [
+  83,
+  84,
+  85,
+  87,
+  107
+ ],
+ "brand_price": 129.0,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "au",
+   "status": "open",
+   "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+   "prices": {
+    "brand": 193.5,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "us",
+   "status": "crowded",
+   "why": "amazon.com at $89.99: Amazon result 3 for the product words. 2 other copies",
+   "prices": {
+    "brand": 129.0,
+    "cheapest_copy": 89.99,
+    "typical_copy": 89.99,
+    "cheapest_real_copy": 89.99,
+    "priced_copies": 3
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: NARASKIN LAB EMS Microcurrent Anti-Aging Face ...",
+     "link": "https://www.amazon.com/NARASKIN-LAB-Microcurrent-Anti-Aging-Lifting/dp/B0GX6ZXSFN",
+     "price_text": "$89.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_83.jpg",
+     "looked_up": true,
+     "reviews": 21,
+     "bought": "50+ bought in past month",
+     "strength": "weak",
+     "strength_why": "not in the top results, 21 reviews"
+    },
+    {
+     "source": "amazon.com",
+     "title": "EMS Microcurrent Anti-Aging Face Lifting Sheet Mask System",
+     "link": "https://www.amazon.com/NARASKIN-LAB-Microcurrent-Anti-Aging-Lifting/dp/B0GX6ZXSFN/",
+     "price_text": "$89.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/ems-mask_vis_thumb_010.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 3,
+     "reviews": 21,
+     "bought": "50+ bought in past month",
+     "strength": "strong",
+     "strength_why": "Amazon result 3 for the product words"
+    },
+    {
+     "source": "amazon.com",
+     "title": "MEGELIN Lifting Face Mask, Wearable Facial Care System for Masks",
+     "link": "https://www.amazon.com/MEGELIN-Lifting-Wearable-Facial-System/dp/B0HG1RGJKB/",
+     "price_text": "$169.00",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/ems-mask_vis_thumb_015.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 4,
+     "reviews": null,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "about the brand's price, few reviews"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "uk",
+   "status": "open",
+   "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+   "prices": {
+    "brand": 96.75,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "ca",
+   "status": "open",
+   "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+   "prices": {
+    "brand": 176.73,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "de",
+   "status": "open",
+   "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+   "prices": {
+    "brand": 110.94,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "nz",
+   "status": "crowded",
+   "why": "Megelin Official Store at $229.54: Google Shopping result 3 for the product words, with 300 reviews",
+   "prices": {
+    "brand": 216.72,
+    "cheapest_copy": 229.54,
+    "typical_copy": 229.54,
+    "cheapest_real_copy": 229.54,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Megelin Official Store",
+     "title": "Megelin Ems Lifting face mask Ems face mask",
+     "link": "https://www.google.com/search?q=%22Megelin+Ems+Lifting+face+mask+Ems+face+mask%22+Megelin+Official+Store",
+     "price_text": "$229.54",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/ems-mask_vis_thumb_075.jpg",
+     "found_by_words": true,
+     "where": "Google Shopping",
+     "rank": 3,
+     "reviews": 300,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Google Shopping result 3 for the product words, with 300 reviews"
+    }
+   ],
+   "picture_matches": 60
+  }
+ ]
+}

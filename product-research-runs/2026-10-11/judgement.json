@@ -922,6 +922,89 @@
     "us": "PetSmart's listing is a different dental toy; Petco stocks the same ring.",
     "nz": "The Warehouse's NZ$0.98 listing is a different toy."
    }
+  },
+  {
+   "slug": "ems-mask",
+   "name": "EMS Lifting Face Mask (Swirise)",
+   "brand": "Swirise",
+   "url": "https://swirise.com/products/swirise-ems-lifting-face-mask",
+   "category": "Beauty device: EMS face mask",
+   "price": "US$129 (shown as reduced from US$189)",
+   "store_platform": "Shopify",
+   "store_launched": "2024-04",
+   "store_products": "59 products, EMS beauty and wellness devices",
+   "one_liner": "A white-label EMS mask (about US$23 on AliExpress) that Megelin and Amazon sellers already offer, in a busy face-device market led by Silk'n. Hard for a beginner: electrical, a medical-style claim, and high refund risk.",
+   "verdict": "Avoid",
+   "overall": 52,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 7,
+    "margin": 8,
+    "viral": 7,
+    "pain": 5,
+    "differentiation": 3
+   },
+   "why": [
+    "The same mask is Amazon US result 3 at US$89.99 and Megelin's at NZ$229 with 300 reviews",
+    "Silk'n runs over 100 ads for \"EMS face mask\" across the UK, Germany and France",
+    "It is an electrical device on the face: CE and safety marking, battery rules and refund risk"
+   ],
+   "risk": "An electrical beauty device needs CE/UKCA safety marking in Europe, and \"lifting\" results are hard to prove, so refunds can be high.",
+   "next": [
+    "Skip it as a first product. Electrical skin devices are a poor fit for a beginner"
+   ],
+   "best_region": "None for a beginner. Germany and the UK have no visible copy, but Silk'n advertises heavily there.",
+   "snapshot": {
+    "icp": "Women 35-55 who already use sheet masks and want firmer-looking skin",
+    "job": "Boost a sheet mask with muscle stimulation for a lifted look",
+    "cogs": "About US$23 before shipping (AliExpress)",
+    "margin": "About 80% at US$129, before ads",
+    "claims": "92% more lifted contours, 6x serum absorption, 2 modes, 5 levels",
+    "demoable": "Yes, but the result is subtle and slow to show on camera"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells this exact mask; Boots and Kmart sell other face devices"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "Amazon US result 3 at US$89.99; Megelin sells the same design"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Only 10 brands, but Silk'n alone runs about 110 ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "An electrical device on the skin: CE/UKCA marking, battery shipping rules, avoid medical claims"
+    }
+   ],
+   "angles": [
+    "Pre-event \"lift\" routine before weddings or parties",
+    "Gift for mums who love skincare",
+    "Bundle with a month of sheet masks (refill sales)",
+    "Men's skincare tech",
+    "TAKEN: \"1 EMS session = 10 sheet masks\" (Swirise)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 84,
+    "match_name": "AliExpress (about US$23)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same white fabric mask with a round metal controller on the forehead."
+   },
+   "advertiser_takeaway": "Silk'n, an established beauty-device brand, runs about 110 ads for \"EMS face mask\" across the UK, Germany and France, all started this month. Revylift adds 37 more. Swirise itself is not among the advertisers for this phrase."
   }
  ]
 }

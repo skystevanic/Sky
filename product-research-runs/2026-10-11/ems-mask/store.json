@@ -1,0 +1,117 @@
+{
+  "input_url": "https://swirise.com/products/swirise-ems-lifting-face-mask",
+  "store_root": "https://swirise.com",
+  "platform": "shopify",
+  "title": "Swirise EMS Lifting Face Mask",
+  "vendor": "SWIRISE",
+  "product_type": "EMS Fitness",
+  "created_at": "2026-09-16T01:57:11-07:00",
+  "updated_at": "2026-10-14T02:46:00-07:00",
+  "price_min": 129.0,
+  "price_max": 129.0,
+  "was_price": "189.00",
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "EMS Mask+Serum Mask Set",
+      "price": "129.00",
+      "was": "189.00",
+      "available": null
+    }
+  ],
+  "description": "Elevate your skincare routine with the Swirise EMS Lifting Face Mask . Designed to pair with your favorite serum sheet mask, this innovative facial device uses targeted EMS stimulation to activate facial muscles, support firmer-looking skin, and enhance facial contours. Its soft, flexible fabric provides full-face coverage for effortless, hands-free treatment. With 2 EMS modes—Contour and Infusion—and 5 adjustable intensity levels , enjoy personalized facial care from the comfort of home.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/2_0993a7a0-ef2d-4df6-b2d2-3da707ac74b1.png?v=1791535101",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/3_e917de80-3761-462d-97ae-b379100c8f29.png?v=1791535101",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/4_6d74e6e6-aea2-4857-a494-a44ef762ba10.png?v=1791535100",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/5_bf0e916e-0d60-4d10-a3ba-260a25c5e2b5.png?v=1791535099",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/6_23d04db5-7fd6-4957-8c07-6a7f442bf884.png?v=1791535102",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/7_5101ec02-968f-4799-8768-73068c12cfed.png?v=1791535100",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/8_162cb139-0bfc-45f4-b45b-20a6bf50feb8.png?v=1791535100",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/9_f7f6af8c-5e8f-4dbb-b3a0-c30e82f61472.png?v=1791535096",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/10_884171d5-affa-4aff-8266-4e946733e5ea.png?v=1791535101",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/11_d63d6d7a-4edf-46d0-ae6e-10d93d975cfa.png?v=1791535100",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/12_cf70aa04-90c4-4c99-b4c9-6f2a3b7b86e8.png?v=1791535102",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/13_e01ff1dc-cc69-406f-a18a-1f80e7dc969d.png?v=1791535101",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/14_26a58c20-e8a9-45f1-b2a4-f88757a84f3c.png?v=1791535102",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/15_70b19ff5-0a03-4b5f-972c-c9e35cb7533e.png?v=1791535102",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/1_7076cd1f-50c7-40f2-9fb8-6527556f744d.png?v=1791535096",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/sku.png?v=1791613658",
+    "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/sku_1.png?v=1791614664"
+  ],
+  "tags": "2026NEW, EMS Fitness",
+  "store": {
+    "n_products": 59,
+    "first_product_created": "2024-04-10T19:21:37-07:00",
+    "newest": [
+      {
+        "title": "Swirise GluteSculpt EMS Toning Pad",
+        "created_at": "2026-09-23",
+        "price": "279.00"
+      },
+      {
+        "title": "Swirise EMS Lifting Face Mask",
+        "created_at": "2026-09-16",
+        "price": "129.00"
+      },
+      {
+        "title": "Swirise ActiveRest Therapy Cushion",
+        "created_at": "2026-08-18",
+        "price": "199.00"
+      },
+      {
+        "title": "Swirise EMS Soothing Arm Sleeves",
+        "created_at": "2026-08-11",
+        "price": "129.00"
+      },
+      {
+        "title": "Swirise EMS Soothing Socks",
+        "created_at": "2026-08-04",
+        "price": "99.00"
+      },
+      {
+        "title": "Swirise Red Light Therapy Vest",
+        "created_at": "2026-07-22",
+        "price": "279.00"
+      },
+      {
+        "title": "Swirise EMS Soothing Sleeves for Calf",
+        "created_at": "2026-07-17",
+        "price": "119.00"
+      },
+      {
+        "title": "Swirise Laser & LED Light Therapy Mask",
+        "created_at": "2026-07-15",
+        "price": "299.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/ems-mask/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/2_0993a7a0-ef2d-4df6-b2d2-3da707ac74b1.png?v=1791535101"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/ems-mask/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/3_e917de80-3761-462d-97ae-b379100c8f29.png?v=1791535101"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/ems-mask/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/4_6d74e6e6-aea2-4857-a494-a44ef762ba10.png?v=1791535100"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/ems-mask/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/5_bf0e916e-0d60-4d10-a3ba-260a25c5e2b5.png?v=1791535099"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/ems-mask/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/6_23d04db5-7fd6-4957-8c07-6a7f442bf884.png?v=1791535102"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/ems-mask/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0592/5758/5734/files/7_5101ec02-968f-4799-8768-73068c12cfed.png?v=1791535100"
+    }
+  ]
+}

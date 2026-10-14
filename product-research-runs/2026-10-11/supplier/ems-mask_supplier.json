@@ -1,0 +1,74 @@
+{
+ "slug": "ems-mask",
+ "brand_price": 129.0,
+ "brand_currency": "usd",
+ "words": "ems lifting face mask",
+ "aliexpress_search": "https://www.aliexpress.com/w/wholesale-ems-lifting-face-mask.html",
+ "listings": [
+  {
+   "n": 1,
+   "site": "AliExpress",
+   "order_type": "single orders",
+   "title": "Practical bestseller Mask Significant Other EMS Micro ...",
+   "link": "https://www.aliexpress.com/item/1005012364719700.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_84.jpg",
+   "price_seen_in_search": "CA$31*",
+   "price": 31.0,
+   "currency": "cad",
+   "shipping": null,
+   "note": "Price shown in the picture search; shipping not included",
+   "delivered_cost_usd": 22.63
+  },
+  {
+   "n": 2,
+   "site": "AliExpress",
+   "order_type": "single orders",
+   "title": "New Product Electric Skin Tightening Face-lift Vibration ...",
+   "link": "https://www.aliexpress.com/item/1005012917725752.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_85.jpg",
+   "price_seen_in_search": null,
+   "price": null,
+   "currency": null,
+   "shipping": null,
+   "note": null
+  },
+  {
+   "n": 3,
+   "site": "Alibaba",
+   "order_type": "bulk orders",
+   "title": "How to Choose the Best EMS Facial Pads: A Complete Buying Guide",
+   "link": "https://smartbuy.alibaba.com/buyingguides/ems-facial-pads",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_87.jpg",
+   "price_seen_in_search": null,
+   "price": null,
+   "currency": null,
+   "shipping": null,
+   "note": null
+  },
+  {
+   "n": 4,
+   "site": "Alibaba",
+   "order_type": "bulk orders",
+   "title": "Ems Microcurrent DermaLift EMS Facial Mask Air-Facial ...",
+   "link": "https://www.alibaba.com/product-detail/DermaLift-EMS-Facial-Mask-Air_1601419627092.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/ems-mask_thumb_107.jpg",
+   "price_seen_in_search": null,
+   "price": null,
+   "currency": null,
+   "shipping": null,
+   "note": null
+  }
+ ],
+ "summary": {
+  "found": 4,
+  "priced": 1,
+  "brand_price_usd": 129.0,
+  "status": "priced",
+  "cost_usd": 22.63,
+  "cost_site": "AliExpress",
+  "cost_includes_shipping": false,
+  "margin_pct": 82,
+  "room_per_sale_usd": 106.37,
+  "plain": "AliExpress sells it for about US$23 before shipping. At the brand's price of about US$129 that leaves about US$106 a sale (82%) to cover ads, payment fees and profit."
+ }
+}
