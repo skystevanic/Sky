@@ -1163,6 +1163,86 @@
     "note": "The same pink heated belt with a digital display, in other colours."
    },
    "advertiser_takeaway": "Very crowded: 110+ brands advertise for \"period cramps\", from supplements to belts, and 64 started in the last two months. Mello itself is a 3-month-old shop with 8 products."
+  },
+  {
+   "slug": "knee-sleeve",
+   "name": "Dial-Lock Knee Brace (PeakFlex)",
+   "brand": "PeakFlex",
+   "url": "https://www.trypeakflex.com/products/peakflex-dial-lock-knee-sleeve",
+   "category": "Sport and recovery: knee support",
+   "price": "US$89.99",
+   "ad_days": "Oldest live ad 2026-06-06",
+   "store_platform": "Shopify",
+   "store_launched": "2026-04",
+   "store_products": "9 products, knee supports",
+   "one_liner": "Walmart sells the same white dial knee brace from US$18 and it is on Temu and AliExpress. PeakFlex advertises steadily, but Onecompress outspends it with the same type of product.",
+   "verdict": "Avoid",
+   "overall": 53,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 8,
+    "margin": 7,
+    "viral": 6,
+    "pain": 7,
+    "differentiation": 2
+   },
+   "why": [
+    "Walmart sells the same brace from US$18; Temu and AliExpress carry it too",
+    "44+ brands advertise \"knee sleeve\"; Onecompress runs 77 ads and PeakFlex 35",
+    "Rebel, DICK'S, Decathlon and The Warehouse fill the category in every country"
+   ],
+   "risk": "An US$90 price on a US$18 brace means refunds once buyers compare, and sizing returns on top.",
+   "next": [
+    "Skip it. Sport recovery is a good beginner category, but look for a product the chains don't stock"
+   ],
+   "best_region": "None. Australia showed no exact copy, but Rebel and Kmart carry similar braces.",
+   "snapshot": {
+    "icp": "Active adults 35-65 with sore knees: walkers, gym-goers, cyclists",
+    "job": "Support a sore knee and keep moving",
+    "cogs": "About US$6-12 landed (estimate)",
+    "margin": "About 85% at US$89.99 before returns (estimate)",
+    "claims": "Adjustable dial compression, patella gel pad, \"professionally recommended\"",
+    "demoable": "Yes: turn the dial, walk and squat without pain"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Walmart sells the same brace from US$18"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "On Temu in the UK and New Zealand, and on AliExpress"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded rather than a swarm: half the brands are over a year old"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Light, but sized: expect exchanges"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Avoid medical claims; a support brace can count as a medical device in the EU if sold to treat injuries"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on: the same brace is everywhere"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 0,
+    "match_name": "Walmart (US$18)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same white knit brace with a round dial and a gel ring around the kneecap."
+   },
+   "advertiser_takeaway": "Crowded: 44+ brands advertise \"knee sleeve\". Onecompress leads with 77 ads since April; PeakFlex runs 35 since June, steady for four months. It proves the ads can work, but the product itself is available everywhere."
   }
  ]
 }

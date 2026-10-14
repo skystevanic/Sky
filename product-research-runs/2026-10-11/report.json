@@ -11803,6 +11803,2000 @@
    }
   },
   {
+   "slug": "knee-sleeve",
+   "name": "Dial-Lock Knee Brace (PeakFlex)",
+   "one_liner": "Walmart sells the same white dial knee brace from US$18 and it is on Temu and AliExpress. PeakFlex advertises steadily, but Onecompress outspends it with the same type of product.",
+   "url": "https://www.trypeakflex.com/products/peakflex-dial-lock-knee-sleeve",
+   "brand": "PeakFlex",
+   "category": "Sport and recovery: knee support",
+   "price": "US$89.99",
+   "ad_days": "Oldest live ad 2026-06-06",
+   "store_platform": "Shopify",
+   "store_launched": "2026-04",
+   "store_products": "9 products, knee supports",
+   "snapshot": {
+    "icp": "Active adults 35-65 with sore knees: walkers, gym-goers, cyclists",
+    "job": "Support a sore knee and keep moving",
+    "cogs": "About US$6-12 landed (estimate)",
+    "margin": "About 85% at US$89.99 before returns (estimate)",
+    "claims": "Adjustable dial compression, patella gel pad, \"professionally recommended\"",
+    "demoable": "Yes: turn the dial, walk and squat without pain"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Walmart sells the same brace from US$18"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "On Temu in the UK and New Zealand, and on AliExpress"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded rather than a swarm: half the brands are over a year old"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Light, but sized: expect exchanges"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Avoid medical claims; a support brace can count as a medical device in the EU if sold to treat injuries"
+    }
+   ],
+   "scores": {
+    "saturated": 8,
+    "margin": 7,
+    "viral": 6,
+    "pain": 7,
+    "differentiation": 2
+   },
+   "overall": 53,
+   "confidence": "Medium",
+   "best_region": "None. Australia showed no exact copy, but Rebel and Kmart carry similar braces.",
+   "angles": [
+    "Not worth building angles on: the same brace is everywhere"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "Walmart sells the same brace from US$18; Temu and AliExpress carry it too",
+     "44+ brands advertise \"knee sleeve\"; Onecompress runs 77 ads and PeakFlex 35",
+     "Rebel, DICK'S, Decathlon and The Warehouse fill the category in every country"
+    ],
+    "risk": "An US$90 price on a US$18 brace means refunds once buyers compare, and sizing returns on top.",
+    "fastest_test": [
+     "Skip it. Sport recovery is a good beginner category, but look for a product the chains don't stock"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "rebel sells it at $32.99",
+     "sellers": 23,
+     "cheapest": "A$30",
+     "typical": "A$89",
+     "top": "rebel (764)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "DICK'S Sporting Goods sells it at $77.99",
+     "sellers": 26,
+     "cheapest": "US$7",
+     "typical": "US$29",
+     "top": "CVS Pharmacy (761)"
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "20 different sellers",
+     "sellers": 20,
+     "cheapest": "£7",
+     "typical": "£40",
+     "top": "Orthomen (437)"
+    },
+    {
+     "cc": "ca",
+     "status": "crowded",
+     "why": "knock-offs from 15.95 vs typical 200.0",
+     "sellers": 10,
+     "cheapest": "C$16",
+     "typical": "C$200",
+     "top": "amsclinic shop (1400)"
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "Decathlon sells it at 14,99 €",
+     "sellers": 19,
+     "cheapest": "€5",
+     "typical": "€36",
+     "top": "PharmaMarket EU (1420)"
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "The Warehouse sells it at $19.99",
+     "sellers": 20,
+     "cheapest": "NZ$15",
+     "typical": "NZ$120",
+     "top": "Bays Health Pharmacy (1400)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 52,700 reviews; 1 of the first 20 have 1,000+; at least 250 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 52700,
+     "n_1000_plus": 1,
+     "cheapest": "A$19",
+     "typical": "A$40",
+     "bought_last_month_min": 250,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "CAMBIVO 2 Pack Knee Brace, Knee Compression Sleeve Support for Men and Women, Running, Hik",
+       "price_text": "$26.99",
+       "price": 26.99,
+       "rating": 4.5,
+       "reviews": 52700,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0F9WH1XMZ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81MsGe4J0eL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "NEENCA Professional Knee Brace, Hinged Knee Support for Women & Men Relief",
+       "price_text": "$72.79",
+       "price": 72.79,
+       "rating": 4.4,
+       "reviews": 207,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0CWCSBFN2/",
+       "thumbnail": "https://m.media-amazon.com/images/I/91zuX7FNJoL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Elastoplast Protective Knee Support (1 pack) | Adjustable Knee Guard | Provides Protection",
+       "price_text": "$26.95",
+       "price": 26.95,
+       "rating": 4.4,
+       "reviews": 154,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Elastoplast-Sport-Adjustable-Knee-Support/dp/B00H1TEK0Y/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61GHrQN1qAL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 5,500 reviews; 3 of the first 20 have 1,000+; at least 3,050 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 5500,
+     "n_1000_plus": 3,
+     "cheapest": "US$23",
+     "typical": "US$38",
+     "bought_last_month_min": 3050,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Bauerfeind Sports Knee Support - Knee Brace for Pain Relief and Stabilization - Patellar K",
+       "price_text": "$89.99",
+       "price": 89.99,
+       "rating": 4.4,
+       "reviews": 5500,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Bauerfeind-Sports-Knee-Support-Stabilization/dp/B01BJ3ZTKC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/710v+Y3Y-6L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Bauerfeind - GenuTrain - Knee Brace - Targeted Support for Pain Relief and Stabilization o",
+       "price_text": "$99.90",
+       "price": 99.9,
+       "rating": 4.4,
+       "reviews": 3500,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Bauerfeind-GenuTrain-Support-Brace-Version/dp/B07ZYB4SRL/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71pWNXAszhL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "McDavid Hinged Knee Brace for Men and Women, Knee Support & Stabilizers",
+       "price_text": "$74.61",
+       "price": 74.61,
+       "rating": 4.3,
+       "reviews": 3300,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/McDavid-Hinged-Brace-Support-Stabilizers/dp/B005D2U776/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61uWjFfbokL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 6,400 reviews; 3 of the first 20 have 1,000+; at least 550 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 6400,
+     "n_1000_plus": 3,
+     "cheapest": "£8",
+     "typical": "£23",
+     "bought_last_month_min": 550,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "NEENCA Professional Knee Brace,Knee Compression Sleeve Support for Men Women with Patella ",
+       "price_text": "£20.99",
+       "price": 20.99,
+       "rating": 4.4,
+       "reviews": 6400,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0CSJTBTGP/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81lAOxcW8cL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "NEENCA Knee Brace,Knee Compression Sleeve Support with Patella Gel Pad & Side Stabilizers,",
+       "price_text": "£20.99",
+       "price": 20.99,
+       "rating": 4.3,
+       "reviews": 4800,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0B3DJNBQ9/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81daVGT+3eL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Lusenone Knee Support with Side Stabilizers, Adjustable Knee Brace for Men/Women, Compress",
+       "price_text": "£14.99",
+       "price": 14.99,
+       "rating": 4.1,
+       "reviews": 2600,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0FRM1DCLX/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81TAKixQ+DL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 59,200 reviews; 6 of the first 20 have 1,000+; at least 350 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 59200,
+     "n_1000_plus": 6,
+     "cheapest": "C$23",
+     "typical": "C$54",
+     "bought_last_month_min": 350,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "NEENCA Professional Knee Brace, Medical Knee Support for Women & Men Relief",
+       "price_text": "$36.97",
+       "price": 36.97,
+       "rating": 4.2,
+       "reviews": 59200,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.ca/dp/B07R53N1B5/",
+       "thumbnail": "https://m.media-amazon.com/images/I/818vHr0OJqL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "NEENCA Knee Brace for Knee Pain, Adjustable Knee Support for Men & Women",
+       "price_text": "$35.99",
+       "price": 35.99,
+       "rating": 4.1,
+       "reviews": 10700,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.ca/dp/B09SYPVPMV/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71IcVPxsVbL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Hinged Knee Brace for Meniscus Tear: Upgraded Support for Knee Pain w/Dual Metal Hinges & ",
+       "price_text": "$53.99",
+       "price": 53.99,
+       "rating": 4.3,
+       "reviews": 2300,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Hinged-Knee-Brace-Meniscus-Tear/dp/B0HCNC45H5/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71epoxGWpuL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 42,100 reviews; 3 of the first 20 have 1,000+; at least 700 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 42100,
+     "n_1000_plus": 3,
+     "cheapest": "€10",
+     "typical": "€27",
+     "bought_last_month_min": 700,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Patella Tendon Knee Strap 2 Pack, Knee Pain Relief Support Brace for Hiking, Soccer, Baske",
+       "price_text": "€14.99",
+       "price": 14.99,
+       "rating": 4.2,
+       "reviews": 42100,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B07DLFP8Q5/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71navnAvHlL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "NEENCA Knee Support for Knee Pain, Compression Knee Support with Air Mesh Fabric, Adjustab",
+       "price_text": "€29.99",
+       "price": 29.99,
+       "rating": 4.2,
+       "reviews": 9300,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/NEENCA-Compression-Adjustable-Stabilisers-Arthritis/dp/B0GH689P1Z/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71cKHPtTdCL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "CAMBIVO Knee Support for Men and Women, Pack of 2, Compressed Bandage Knee Support with Si",
+       "price_text": "€21.99",
+       "price": 21.99,
+       "rating": 4.3,
+       "reviews": 1100,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0D9VQBS7L/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81xyQwy5uwL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "high",
+     "why": "top listing 52,700 reviews; 1 of the first 20 have 1,000+; at least 250 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 52700,
+     "n_1000_plus": 1,
+     "cheapest": "A$19",
+     "typical": "A$40",
+     "bought_last_month_min": 250,
+     "brand_present": true,
+     "top3": [
+      {
+       "title": "CAMBIVO 2 Pack Knee Brace, Knee Compression Sleeve Support for Men and Women, Running, Hik",
+       "price_text": "$26.99",
+       "price": 26.99,
+       "rating": 4.5,
+       "reviews": 52700,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0F9WH1XMZ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81MsGe4J0eL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "NEENCA Professional Knee Brace, Hinged Knee Support for Women & Men Relief",
+       "price_text": "$72.79",
+       "price": 72.79,
+       "rating": 4.4,
+       "reviews": 207,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com.au/dp/B0CWCSBFN2/",
+       "thumbnail": "https://m.media-amazon.com/images/I/91zuX7FNJoL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Elastoplast Protective Knee Support (1 pack) | Adjustable Knee Guard | Provides Protection",
+       "price_text": "$26.95",
+       "price": 26.95,
+       "rating": 4.4,
+       "reviews": 154,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Elastoplast-Sport-Adjustable-Knee-Support/dp/B00H1TEK0Y/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61GHrQN1qAL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "rising",
+     "growth_pct": 26,
+     "seasonal": false,
+     "peak_months": [
+      "Apr",
+      "May",
+      "Sep"
+     ],
+     "months_to_peak": null,
+     "now_vs_high": 47,
+     "avg_last_year": 57.7,
+     "spike": false,
+     "zero_share": 0.0,
+     "why": "A typical week in the last 12 months is +26% on the year before",
+     "line": [
+      39,
+      38,
+      40,
+      38,
+      38,
+      36,
+      39,
+      40,
+      40,
+      42,
+      42,
+      46,
+      46,
+      44,
+      44,
+      44,
+      44,
+      44,
+      46,
+      46,
+      51,
+      55,
+      60,
+      60,
+      52,
+      49,
+      51,
+      50,
+      51,
+      48,
+      46,
+      42,
+      46,
+      46,
+      53,
+      54,
+      56,
+      62,
+      88,
+      91,
+      76,
+      76,
+      64,
+      65,
+      57,
+      49,
+      50,
+      48,
+      58,
+      58,
+      63,
+      52,
+      47
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "open",
+     "why": "Picture search found nobody but the brand selling this object here",
+     "prices": {
+      "brand": 134.98,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [],
+     "picture_matches": 0
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "The same object is sold by Walmart at $18",
+     "prices": {
+      "brand": 89.99,
+      "cheapest_copy": 18.0,
+      "typical_copy": 32.0,
+      "cheapest_real_copy": 18.0,
+      "priced_copies": 6
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Walmart",
+       "title": "PeakFlex Knee Brace, Micro-Adjust Dial, Adjustable ...",
+       "link": "https://www.walmart.com/ip/PeakFlex-Knee-Brace-Micro-Adjust-Dial-Adjustable-Compression-Knee-Support-Brace-Men-Women-Breathable-Anti-Slip-Knee-Stabilizer-Running-Workout-Hiking/20798118991",
+       "price_text": "$18",
+       "kind": "big chain",
+       "thumb_file": "lens/knee-sleeve_thumb_00.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "PeakFlex Knee Sleeve with Dial Fit System & Dual Side ...",
+       "link": "https://www.walmart.com/ip/PeakFlex-Knee-Sleeve-Dial-Fit-System-Dual-Side-Stabilizers-Adjustable-Compression-Knee-Support-Men-Women-Breathable-Non-Slip-Knee-Brace-Running-Baske/20551951796?classType=VARIANT",
+       "price_text": "$35",
+       "kind": "big chain",
+       "thumb_file": "lens/knee-sleeve_thumb_01.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Adjustable Knee Brace with Micro-Adjustment Dial ...",
+       "link": "https://www.walmart.com/ip/Adjustable-Knee-Brace-Micro-Adjustment-Dial-Compression-Knee-Sleeve-Running-Workout-Daily-Support-Breathable-Non-Slip-Knee-Stabilizer-Men-Women/20554473244",
+       "price_text": "$32",
+       "kind": "big chain",
+       "thumb_file": "lens/knee-sleeve_thumb_02.jpg"
+      },
+      {
+       "source": "Homeszy",
+       "title": "Compression Knee Sleeve for Women & Men – Homeszy",
+       "link": "https://homeszy.com/products/knee-sleeve",
+       "price_text": "$30",
+       "kind": "other store",
+       "thumb_file": "lens/knee-sleeve_thumb_05.jpg"
+      },
+      {
+       "source": "Mobilitee™",
+       "title": "Mobilitee™ - Smart Knee Brace",
+       "link": "https://mobilitee.co/products/smart-knee",
+       "price_text": "$60",
+       "kind": "other store",
+       "thumb_file": "lens/knee-sleeve_thumb_06.jpg"
+      },
+      {
+       "source": "Stycove",
+       "title": "Sports Knee Support Brace – Stycove",
+       "link": "https://stycove.com/products/sports-knee-support-brace",
+       "price_text": "$32",
+       "kind": "other store",
+       "thumb_file": "lens/knee-sleeve_thumb_07.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: NEENCA Adjustable Knee Brace, Compression Knee ...",
+       "link": "https://www.amazon.com/clp/B0DZCMRTG2",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_27.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: PeakFlex Knee Sleeve, Adjustable Knee Brace with ...",
+       "link": "https://www.amazon.com/clp/B0H6LX2FPQ",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_30.jpg"
+      },
+      {
+       "source": "eBay",
+       "title": "Braces Knee | eBay",
+       "link": "https://www.ebay.com/shop/braces-knee?_nkw=braces+knee",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_37.jpg"
+      },
+      {
+       "source": "eBay",
+       "title": "Knee Support | eBay",
+       "link": "https://www.ebay.com/shop/knee-support?_nkw=knee+support",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_39.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "leg braces sold on Temu United States",
+       "link": "https://www.temu.com/leg-braces-5020045560734-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_40.jpg"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Futuro Sport Knee Support, Adjustable - 1 Each",
+       "link": "https://www.amazon.com/clp/B00Y26MP2O",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_42.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Kneevo Knee Brace, Adjustable Dial Knee Support with Strap ...",
+       "link": "https://www.walmart.com/ip/Kneevo-Knee-Brace-Adjustable-Dial-Knee-Support-Strap-System-Compression-Knee-Stabilizer-Patella-Gel-Pad-Side-Stabilizers-Breathable-Sports-Knee-Sleev/20447912902",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/knee-sleeve_thumb_43.jpg"
+      }
+     ],
+     "picture_matches": 59
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein. 5 other copies",
+     "prices": {
+      "brand": 67.49,
+      "cheapest_copy": 15.99,
+      "typical_copy": 27.0,
+      "cheapest_real_copy": null,
+      "priced_copies": 2
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "kneexfit.com",
+       "title": "KneeXFIT Knee Brace – Dial-Adjust Compression Support",
+       "link": "https://kneexfit.com/en-gb/products/knee",
+       "price_text": "£27",
+       "kind": "other store",
+       "thumb_file": "lens/knee-sleeve_thumb_13.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "adjustable knob knee sleeve men women breathable knee - Temu ...",
+       "link": "https://www.temu.com/cy-en/adjustable-knob-knee-sleeve-for-men-women-breathable-knee-compression-sleeve-for-hiking-running-workout-sports--knee-sleeve-g-607268494006821.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_35.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Adjustable Knee Brace Support with Knob, Compression Knee ...",
+       "link": "https://www.amazon.co.uk/Adjustable-Support-Compression-Stabilizers-Activities/dp/B0GZZV4884",
+       "price_text": "£15.99",
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_44.jpg",
+       "looked_up": true,
+       "reviews": 1,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 1 reviews"
+      },
+      {
+       "source": "eBay UK",
+       "title": "Knee, Wrist Wraps for sale | eBay UK",
+       "link": "https://www.ebay.co.uk/b/bn_7030347980",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_46.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "knee brace with side stabilizers sold on Temu United States",
+       "link": "https://www.temu.com/knee-brace-with-side-stabilizers-5050294290662-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_49.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "eBay UK",
+       "title": "pro sport knee support products for sale | eBay UK",
+       "link": "https://www.ebay.co.uk/b/bn_7024950945",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_50.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "Temu: on Temu or Shein. 3 other copies",
+     "prices": {
+      "brand": 151.18,
+      "cheapest_copy": null,
+      "typical_copy": null,
+      "cheapest_real_copy": null,
+      "priced_copies": 0
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "The Warehouse",
+       "title": "Knee Brace with Dial Adjustment System and Spring Support ...",
+       "link": "https://www.thewarehouse.co.nz/p/knee-brace-with-dial-adjustment-system-and-spring-support-strips-white/MM6517-7781082759264-1M.html",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/knee-sleeve_thumb_29.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "adjustable knob knee sleeve men women breathable knee - Temu ...",
+       "link": "https://www.temu.com/cy-en/adjustable-knob-knee-sleeve-for-men-women-breathable-knee-compression-sleeve-for-hiking-running-workout-sports--knee-sleeve-g-607268494006821.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_35.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Temu",
+       "title": "knee braces sold on Temu United States",
+       "link": "https://www.temu.com/knee-braces-5020153387574-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_54.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Temu",
+       "title": "knee support new adjustable dial style knee brace joint ...",
+       "link": "https://www.temu.com/qa/1-pair-adjustable-micro-dial-compression-knee-brace-patella-support-for-gym-g-605517707639960.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/knee-sleeve_thumb_55.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      }
+     ],
+     "picture_matches": 60
+    }
+   ],
+   "lens_sheet": "lens/knee-sleeve_sheet.jpg",
+   "supplier": {
+    "slug": "knee-sleeve",
+    "brand_price": 89.99,
+    "brand_currency": "usd",
+    "words": "dial knee brace",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-dial-knee-brace.html",
+    "listings": [
+     {
+      "n": 1,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Knee Brace Adjustable Elastic Knob-type Wraps Protection ...",
+      "link": "https://www.aliexpress.com/item/1005012242079609.html",
+      "thumb_file": "lens/knee-sleeve_thumb_31.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 2,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Kuangmi Smart Knee Brace with Gel Pad for Exercise",
+      "link": "https://www.aliexpress.com/item/1005009022876212.html",
+      "thumb_file": "lens/knee-sleeve_thumb_33.jpg",
+      "price_seen_in_search": "£35*",
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 3,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Kuangmi Knee Brace Stabilizer with Adjustable Mechanical ...",
+      "link": "https://www.aliexpress.com/item/1005009489399765.html",
+      "thumb_file": "lens/knee-sleeve_thumb_41.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     }
+    ],
+    "summary": {
+     "found": 3,
+     "priced": 0,
+     "brand_price_usd": 89.99,
+     "status": "found, price not read",
+     "plain": "3 supplier listings found. Open them to read the price: supplier sites do not show prices to search engines."
+    }
+   },
+   "meta": {
+    "slug": "knee-sleeve-30635",
+    "phrase": "knee sleeve",
+    "checked": "2026-10-14",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22knee%20sleeve%22",
+    "ads_loaded": 250,
+    "capped": true,
+    "stopped_by": "stopped at 250 ads (there are more)",
+    "n_advertisers": 44,
+    "advertisers_with_3_plus_ads": 12,
+    "biggest_advertiser_share": 0.31,
+    "brands_new_in_last_2_months": 17,
+    "brands_advertising_3_plus_months": 18,
+    "ads_started_last_2_months": 75,
+    "ads_older_than_6_months": 20,
+    "pattern": "crowded",
+    "plain": "At least 44 brands advertise it; 18 have kept ads running 3+ months, 17 are new in the last two months. We stopped counting at 250 ads, so the real numbers are higher. Of the 10 biggest shops we could date, 5 are over a year old and 1 opened in the last four months.",
+    "months": {
+     "2019-04": 1,
+     "2025-05": 1,
+     "2025-10": 4,
+     "2025-11": 2,
+     "2026-01": 1,
+     "2026-02": 1,
+     "2026-03": 2,
+     "2026-04": 8,
+     "2026-05": 30,
+     "2026-06": 23,
+     "2026-07": 44,
+     "2026-08": 58,
+     "2026-09": 60,
+     "2026-10": 15
+    },
+    "brand_months": {
+     "2019-04": 1,
+     "2025-05": 1,
+     "2025-10": 3,
+     "2025-11": 1,
+     "2026-03": 2,
+     "2026-04": 1,
+     "2026-05": 1,
+     "2026-06": 4,
+     "2026-07": 8,
+     "2026-08": 9,
+     "2026-09": 10,
+     "2026-10": 3
+    },
+    "top_advertisers": [
+     {
+      "name": "Onecompress",
+      "pages": 7,
+      "page_names": [
+       "Onecompress",
+       "One Compress",
+       "The Modern",
+       "Pure Living Digest",
+       "Clinic Discussions: Injuries, Relief & More",
+       "Reddit Relief: Stories, Discussions & More"
+      ],
+      "ads": 77,
+      "oldest_live_ad": "2026-04-06",
+      "page_likes": 15487,
+      "headline": "Put An End To Knee Pain For Good!",
+      "shop": "onecompress.com",
+      "product_page": "https://www.onecompress.com/products/bambookneesleeve",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100708424964575",
+      "shop_open_since": "2021-03-30"
+     },
+     {
+      "name": "PeakFlex",
+      "pages": 2,
+      "page_names": [
+       "PeakFlex",
+       "Beschwerdelos"
+      ],
+      "ads": 35,
+      "oldest_live_ad": "2026-06-06",
+      "page_likes": 7166,
+      "headline": "Knee pain or osteoarthritis?",
+      "shop": "trypeakflex.com",
+      "product_page": "https://www.trypeakflex.com/products/peakflex-knee-sleeve",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=240268212509741",
+      "shop_open_since": "2026-04-20"
+     },
+     {
+      "name": "Koprez",
+      "pages": 1,
+      "page_names": [
+       "Koprez"
+      ],
+      "ads": 31,
+      "oldest_live_ad": "2026-06-19",
+      "page_likes": 136515,
+      "headline": "Chronic Knee Pain Isn't Inflammation. It's Starvation.",
+      "shop": "offers.koprez.com",
+      "product_page": "https://offers.koprez.com/10-reasons-sc",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104789644587334",
+      "shop_open_since": null
+     },
+     {
+      "name": "Baitique",
+      "pages": 1,
+      "page_names": [
+       "Baitique"
+      ],
+      "ads": 25,
+      "oldest_live_ad": "2025-11-28",
+      "page_likes": 2405,
+      "headline": "وجع الركبة عم بوقف حياتك؟ 😩🔥",
+      "shop": "baitiquejo.com",
+      "product_page": "https://www.baitiquejo.com/products/knee-sleeve",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=321364494396869",
+      "shop_open_since": "2025-11-26"
+     },
+     {
+      "name": "Old Bones Therapy",
+      "pages": 1,
+      "page_names": [
+       "Old Bones Therapy"
+      ],
+      "ads": 9,
+      "oldest_live_ad": "2026-08-05",
+      "page_likes": 24151,
+      "headline": "{{product.name}}",
+      "shop": "oldbonestherapy.com",
+      "product_page": "https://oldbonestherapy.com/products/compression-knee-brace",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=142124902891888",
+      "shop_open_since": "2016-08-04"
+     },
+     {
+      "name": "Essential Health Finds",
+      "pages": 3,
+      "page_names": [
+       "Essential Health Finds",
+       "The Heart Health Project ",
+       "Ashley Mccullough"
+      ],
+      "ads": 8,
+      "oldest_live_ad": "2026-08-25",
+      "page_likes": 22371,
+      "headline": "Support stamina and heart health everyday",
+      "shop": "track.tryrosabella.com",
+      "product_page": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=218077708066307",
+      "shop_open_since": null
+     },
+     {
+      "name": "ReabTec",
+      "pages": 1,
+      "page_names": [
+       "ReabTec"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-07-26",
+      "page_likes": 4019,
+      "headline": "Knee Sleeve Loved by 56,000 Athletes",
+      "shop": "reabtec.com",
+      "product_page": "https://reabtec.com/products/knitec-v2-compression-sleeves",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=169248679597816",
+      "shop_open_since": "2023-10-21"
+     },
+     {
+      "name": "Anaconda Fightwear",
+      "pages": 2,
+      "page_names": [
+       "Anaconda Fightwear",
+       "Anaconda Performance"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2025-10-14",
+      "page_likes": 519,
+      "headline": "Recovery and performance! Anaconda, second to none 🐍 💯 \n\n#training #mma #muaythai #jiujits",
+      "shop": "anacondafightwear.co",
+      "product_page": "https://anacondafightwear.co/products/anacondakneebrace",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=114966660419611",
+      "shop_open_since": "2020-12-01"
+     },
+     {
+      "name": "Priya K",
+      "pages": 1,
+      "page_names": [
+       "Priya K"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-08-07",
+      "page_likes": 191,
+      "headline": "Read This If YouHave  Bone on Bone Knee Problem☝️",
+      "shop": "restep.in",
+      "product_page": "https://www.restep.in/products/premium-bamboo-knee-sleeve",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1147507741774939",
+      "shop_open_since": "2025-12-04"
+     },
+     {
+      "name": "Tredvik USA",
+      "pages": 1,
+      "page_names": [
+       "Tredvik USA"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-09-26",
+      "page_likes": 638,
+      "headline": "Limited Time Offer",
+      "shop": "tredvik.com",
+      "product_page": "https://tredvik.com/pages/knee-pain-solutions",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1385519174636339",
+      "shop_open_since": "2026-09-14"
+     },
+     {
+      "name": "Incrediwear",
+      "pages": 1,
+      "page_names": [
+       "Incrediwear"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-08-24",
+      "page_likes": 47262,
+      "headline": "Novak Djokovic Signature Sleeve",
+      "shop": "incrediwear.com",
+      "product_page": "https://incrediwear.com/products/incrediwear-x-novak-knee-sleeve",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=153974751335740",
+      "shop_open_since": "2016-02-12"
+     },
+     {
+      "name": "Arthritis Support Community",
+      "pages": 1,
+      "page_names": [
+       "Arthritis Support Community"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-10-09",
+      "page_likes": 912,
+      "headline": "Feel Like Yourself Again",
+      "shop": "auniva.co",
+      "product_page": "https://auniva.co/products/amla-11",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1030751040121197",
+      "shop_open_since": "2026-01-31"
+     },
+     {
+      "name": "SPORT DEPOT",
+      "pages": 1,
+      "page_names": [
+       "SPORT DEPOT"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-08-12",
+      "page_likes": 336787,
+      "headline": "{{product.name}}",
+      "shop": "sportdepot.bg",
+      "product_page": "http://sportdepot.bg/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=192761971423",
+      "shop_open_since": null
+     },
+     {
+      "name": "OS1st",
+      "pages": 1,
+      "page_names": [
+       "OS1st"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-07-01",
+      "page_likes": 14778,
+      "headline": "{{product.name}}",
+      "shop": "os1st.com",
+      "product_page": "https://os1st.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=776465492473202",
+      "shop_open_since": null
+     },
+     {
+      "name": "Jumplete",
+      "pages": 1,
+      "page_names": [
+       "Jumplete"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2025-10-30",
+      "page_likes": 2269,
+      "headline": "{{product.name}}",
+      "shop": "jumplete.ca",
+      "product_page": "https://jumplete.ca/products/jumpers-knee",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109224505011268",
+      "shop_open_since": null
+     },
+     {
+      "name": "Healluna",
+      "pages": 1,
+      "page_names": [
+       "Healluna"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-07-18",
+      "page_likes": 2764,
+      "headline": "Stop wasting money on knee sleeves.\nThey’re not real support…\nthey’re just tight socks wit",
+      "shop": "healluna.com",
+      "product_page": "https://healluna.com/products/healluna-kinetic-support-system-with-smartdial%E2%84%A2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1000191826501146",
+      "shop_open_since": null
+     },
+     {
+      "name": "Instalimb India : 3D Printed Prosthetics",
+      "pages": 1,
+      "page_names": [
+       "Instalimb India : 3D Printed Prosthetics"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-08-11",
+      "page_likes": 22343,
+      "headline": "Book Your Call Today",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102664165865204",
+      "shop_open_since": null
+     },
+     {
+      "name": "Mega Deals UAE",
+      "pages": 1,
+      "page_names": [
+       "Mega Deals UAE"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2025-05-19",
+      "page_likes": 14890,
+      "headline": "AED 39/- Free Delivery - Limited Time Offer",
+      "shop": "store.megadeals.ae",
+      "product_page": "https://www.store.megadeals.ae/p-326",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=113425128297988",
+      "shop_open_since": null
+     },
+     {
+      "name": "ميجا صفقات السعودية",
+      "pages": 1,
+      "page_names": [
+       "ميجا صفقات السعودية"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-03-10",
+      "page_likes": 27347,
+      "headline": "{{product.name}}",
+      "shop": "megadealksa.com",
+      "product_page": "https://www.megadealksa.com/en/p-110",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=118680034558610",
+      "shop_open_since": null
+     },
+     {
+      "name": "Monster_fit",
+      "pages": 1,
+      "page_names": [
+       "Monster_fit"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2019-04-18",
+      "page_likes": 128,
+      "headline": "Monster_fit",
+      "shop": "m.smartstore.naver.com",
+      "product_page": "http://m.smartstore.naver.com/monsterfit",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=2094312620814336",
+      "shop_open_since": null
+     },
+     {
+      "name": "Copper Fit",
+      "pages": 1,
+      "page_names": [
+       "Copper Fit"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-29",
+      "page_likes": 87777,
+      "headline": "{{product.name}}",
+      "shop": "copperfitusa.com",
+      "product_page": "https://copperfitusa.com/collections/all",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=486635808144628",
+      "shop_open_since": null
+     },
+     {
+      "name": "ميجا صفقات عمان",
+      "pages": 1,
+      "page_names": [
+       "ميجا صفقات عمان"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-20",
+      "page_likes": 8019,
+      "headline": "{{product.name}}",
+      "shop": "megadealsom.com",
+      "product_page": "https://www.megadealsom.com/en/p-146",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=156734494185623",
+      "shop_open_since": null
+     },
+     {
+      "name": "Eywa Medical",
+      "pages": 1,
+      "page_names": [
+       "Eywa Medical"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-03",
+      "page_likes": 654,
+      "headline": "{{product.name}}",
+      "shop": "incrediwear.it",
+      "product_page": "https://incrediwear.it/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=964132540113693",
+      "shop_open_since": null
+     },
+     {
+      "name": "KEFL",
+      "pages": 1,
+      "page_names": [
+       "KEFL"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-02",
+      "page_likes": 2082,
+      "headline": "{{product.name}}",
+      "shop": "kefl.co.uk",
+      "product_page": "http://kefl.co.uk/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100808669192011",
+      "shop_open_since": null
+     },
+     {
+      "name": "Serenithy",
+      "pages": 1,
+      "page_names": [
+       "Serenithy"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2025-10-22",
+      "page_likes": 1260,
+      "headline": "{{product.name}}",
+      "shop": "serenithy.com",
+      "product_page": "https://serenithy.com/pages/wellnee-blog",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=110626051289421",
+      "shop_open_since": null
+     },
+     {
+      "name": "7 Pro Fit",
+      "pages": 1,
+      "page_names": [
+       "7 Pro Fit"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-06",
+      "page_likes": 17830,
+      "headline": "7 Pro Fit",
+      "shop": "api.whatsapp.com",
+      "product_page": "https://api.whatsapp.com/send",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1961412357436772",
+      "shop_open_since": null
+     },
+     {
+      "name": "Neenca office store",
+      "pages": 1,
+      "page_names": [
+       "Neenca office store"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-18",
+      "page_likes": 1148,
+      "headline": "{{product.name}}",
+      "shop": "shopee.ph",
+      "product_page": "https://shopee.ph/shop/812399429",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102639652914711",
+      "shop_open_since": null
+     },
+     {
+      "name": "Cellumove-",
+      "pages": 1,
+      "page_names": [
+       "Cellumove-"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-19",
+      "page_likes": 10172,
+      "headline": "Give Your Knees the Support They Deserve 💙",
+      "shop": "cellumove.com",
+      "product_page": "https://cellumove.com/products/cellumove-knee-support-leggings",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=793058670548351",
+      "shop_open_since": null
+     },
+     {
+      "name": "Mark Bell - Sling Shot",
+      "pages": 1,
+      "page_names": [
+       "Mark Bell - Sling Shot"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-05-13",
+      "page_likes": 34824,
+      "headline": "Enjoy 10% Off Your First Order",
+      "shop": "markbellslingshot.com",
+      "product_page": "https://markbellslingshot.com/pages/strong-elbow-sleeves-perfected-for-lifting",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=470529439668298",
+      "shop_open_since": null
+     },
+     {
+      "name": "2POOD Performance",
+      "pages": 1,
+      "page_names": [
+       "2POOD Performance"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-03",
+      "page_likes": 113289,
+      "headline": "The Only Bag You'll Reach For",
+      "shop": "2pood.com",
+      "product_page": "https://2pood.com/products/performance-backpack-4-0-lavender",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=288203734118",
+      "shop_open_since": null
+     },
+     {
+      "name": "Uplift",
+      "pages": 1,
+      "page_names": [
+       "Uplift"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-23",
+      "page_likes": 10363,
+      "headline": "{{product.name}}",
+      "shop": "theuplift.store",
+      "product_page": "https://www.theuplift.store/products/uplift%E2%84%A2-sweat-belt",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106399638869616",
+      "shop_open_since": null
+     },
+     {
+      "name": "Anaconda Performance",
+      "pages": 1,
+      "page_names": [
+       "Anaconda Performance"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-03-20",
+      "page_likes": 33179,
+      "headline": "Stabilizes The Knee",
+      "shop": "anacondaperformance.com",
+      "product_page": "https://anacondaperformance.com/pages/5-reasons-runners-choose-anaconda-active-brace",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=114966660419611",
+      "shop_open_since": null
+     },
+     {
+      "name": "GO Sleeves",
+      "pages": 1,
+      "page_names": [
+       "GO Sleeves"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-06",
+      "page_likes": 2679,
+      "headline": "{{product.name}}",
+      "shop": "gokinesiologysleeves.com",
+      "product_page": "https://gokinesiologysleeves.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=112805413435994",
+      "shop_open_since": null
+     },
+     {
+      "name": "Lumov Health ",
+      "pages": 1,
+      "page_names": [
+       "Lumov Health "
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-02",
+      "page_likes": 49,
+      "headline": "Use MYFIRST10 for 10% OFF on your first order",
+      "shop": "lumovhealth.com",
+      "product_page": "https://lumovhealth.com/products/knee-brace-ultima",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=954717401047799",
+      "shop_open_since": null
+     },
+     {
+      "name": "PureCompress",
+      "pages": 1,
+      "page_names": [
+       "PureCompress"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-17",
+      "page_likes": 1236,
+      "headline": "Finally, a knee sleeve that fits bigger legs comfortably.",
+      "shop": "store.purecompress.com",
+      "product_page": "https://store.purecompress.com/bigger-legs-lp-offer2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105304635888007",
+      "shop_open_since": null
+     },
+     {
+      "name": "FITS Indonesia",
+      "pages": 1,
+      "page_names": [
+       "FITS Indonesia"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-06",
+      "page_likes": 1026,
+      "headline": "Lutut sering nyeri pas jalan, naik tangga, atau olahraga?\nJangan dipaksa — itu tanda lutut",
+      "shop": "fitsers.com",
+      "product_page": "https://www.fitsers.com/landing/premium-knee-sleeves-fits",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=629600796893682",
+      "shop_open_since": null
+     },
+     {
+      "name": "TenvicGear",
+      "pages": 1,
+      "page_names": [
+       "TenvicGear"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-06-13",
+      "page_likes": 596,
+      "headline": "3 reasons no knee sleeve compares to the AirPad",
+      "shop": "tenvicgear.com",
+      "product_page": "https://www.tenvicgear.com/products/tenvic-airpad™-pickleball",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=651568448035814",
+      "shop_open_since": null
+     },
+     {
+      "name": "Berserker Performance Gear",
+      "pages": 1,
+      "page_names": [
+       "Berserker Performance Gear"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-31",
+      "page_likes": 13,
+      "headline": "No se estira",
+      "shop": "berserkerperformancegear.cl",
+      "product_page": "https://berserkerperformancegear.cl/products/rodillera-compresiva-full-black",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1171573226019854",
+      "shop_open_since": null
+     },
+     {
+      "name": "Kawa Store - Happiness for everyone",
+      "pages": 1,
+      "page_names": [
+       "Kawa Store - Happiness for everyone"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-15",
+      "page_likes": 11078,
+      "headline": "[Only Today] FLASH SALE 50% + FREE SHIPPING >>>",
+      "shop": "shinichi.store",
+      "product_page": "https://www.shinichi.store/knee_brace_pad",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=229225574486773",
+      "shop_open_since": null
+     },
+     {
+      "name": "BASE Compression",
+      "pages": 1,
+      "page_names": [
+       "BASE Compression"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-20",
+      "page_likes": 2639,
+      "headline": "2 FOR $75 | Pro-Grade Compression Knee Sleeves",
+      "shop": "basecompression.com",
+      "product_page": "https://basecompression.com/collections/knee-guards/products/base-compression-knee-sleeve-black",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1332147090272349",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "onecompress.com": 77,
+     "trypeakflex.com": 35,
+     "offers.koprez.com": 31,
+     "baitiquejo.com": 25,
+     "oldbonestherapy.com": 9,
+     "track.tryrosabella.com": 8,
+     "reabtec.com": 6,
+     "anacondafightwear.co": 5,
+     "restep.in": 5,
+     "tredvik.com": 4,
+     "incrediwear.com": 4,
+     "auniva.co": 4,
+     "sportdepot.bg": 2,
+     "os1st.com": 2,
+     "jumplete.ca": 2,
+     "healluna.com": 2,
+     "store.megadeals.ae": 1,
+     "megadealksa.com": 1,
+     "m.smartstore.naver.com": 1,
+     "copperfitusa.com": 1,
+     "megadealsom.com": 1,
+     "incrediwear.it": 1,
+     "kefl.co.uk": 1,
+     "serenithy.com": 1,
+     "api.whatsapp.com": 1
+    },
+    "cost_usd": 1.15,
+    "shops_checked": 10,
+    "shops_over_a_year_old": 5,
+    "shops_under_4_months_old": 1,
+    "takeaway": "Crowded: 44+ brands advertise \"knee sleeve\". Onecompress leads with 77 ads since April; PeakFlex runs 35 since June, steady for four months. It proves the ads can work, but the product itself is available everywhere."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "dial knee brace",
+     "image": "asis/knee-sleeve_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Knee Brace Support",
+       "link": "https://www.everfithealthcare.com.au/knee-brace-support/?srsltid=AU7gw4XTm1qQT31g2Dj_IpEFsjkiQU0yGXcyO2vk0eVHVug9P7-PjO57",
+       "domain": "everfithealthcare.com.au",
+       "kind": "store / brand",
+       "snippet": "Open patella design relieves pressure. Exclusive reinforced patella stabiliser to prevent displacement. Helpful for post-operative knee problems, strains & ..."
+      },
+      {
+       "position": 2,
+       "title": "Hinged Knee Braces",
+       "link": "https://sportsbraces.com.au/hinged-knee-braces/?srsltid=AU7gw4V3WNI-OgY9UHmckzOtqyEDCGrJJvGKhnomun7_DUVVgKQqkS2J",
+       "domain": "sportsbraces.com.au",
+       "kind": "store / brand",
+       "snippet": "These braces feature metal hinges on both sides of the knee, which allow for controlled movement and prevent excessive rotation or ..."
+      },
+      {
+       "position": 3,
+       "title": "Orthopaedic Solutions - Page 1 - JD Direct",
+       "link": "https://direct.jdhealthcare.com.au/orthopaedic-solutions/",
+       "domain": "direct.jdhealthcare.com.au",
+       "kind": "store / brand",
+       "snippet": "The Conwell 13\" ROM Hinged Knee Brace provides structured knee support with adjustable range-of-motion control to assist recovery after injury or surgery."
+      },
+      {
+       "position": 4,
+       "title": "Hinged Knee Support (Neoprene) Grey",
+       "link": "https://www.gentrexmedshop.com.au/products/hinged-knee-support-neoprene-grey?srsltid=AU7gw4WEvQuatGX_932HiCbHc65aX0UP0XA_nY1MZOYgHcUCS66xsW5b",
+       "domain": "gentrexmedshop.com.au",
+       "kind": "store / brand",
+       "snippet": "It is ergonomically shaped to provide a good grip around the knee anatomy and ensures no bunching on knee bending. The side pockets have aluminum hinged splints"
+      },
+      {
+       "position": 5,
+       "title": "Knee Braces",
+       "link": "https://serranoaustralia.com.au/collections/knee-braces",
+       "domain": "serranoaustralia.com.au",
+       "kind": "store / brand",
+       "snippet": "Knee Braces | Australia's DIY, Renovation, Home and Lifestyle Store. Flexible Adjustable Knee Support. Flexible Sports Protection for Running & Gym Training"
+      }
+     ],
+     "paa": [
+      "Do knee braces actually work?",
+      "What is the best knee cover for pain?",
+      "Will a knee brace help a torn meniscus?",
+      "What's the difference between a knee support and a knee stabilizer?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "local_map",
+      "local_results",
+      "knowledge_graph",
+      "inline_images",
+      "related_questions",
+      "ai_overview",
+      "organic_results"
+     ],
+     "takeaway": "First result in Australia: everfithealthcare.com.au (store / brand). Amazon here is crowded."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "dial knee brace",
+     "image": "asis/knee-sleeve_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Knee Braces for Support and Pain Relief",
+       "link": "https://orthout.com/collections/brace-knee?srsltid=AU7gw4UQYNaWDhRwakXbLW424AoXwCyTSJe12o9zTjPRuoFATDraLbKS",
+       "domain": "orthout.com",
+       "kind": "store / brand",
+       "snippet": "Shop high-quality knee braces at OrthOut for maximum support, comfort, and pain relief. Find the perfect knee brace for injury recovery, protection, ..."
+      },
+      {
+       "position": 2,
+       "title": "ProCare Reddie Hinged Knee Support Brace: Neoprene ...",
+       "link": "https://www.amazon.com/ProCare-Reddie-Hinged-Support-Brace/dp/B019O8NFG4",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Intended for individuals suffering from mild MCL and/or LCL sprains, mild arthritis, hyperextended knee, warmth and compression,"
+      },
+      {
+       "position": 3,
+       "title": "Ultra Knee Support with Bilateral Hinges",
+       "link": "https://www.shockdoctor.com/products/ultra-knee-support-with-bilateral-hinges?srsltid=AU7gw4VIHJAMxiWWzUFGK0JISz5Fl4uwGzGihJQoMxDrPZ1tGBOamLXK",
+       "domain": "shockdoctor.com",
+       "kind": "store / brand",
+       "snippet": "The Ultra Knee Brace With Bilateral Hinges is an excellent pain reliever, joint stabilizer, and injury protector. Helps prevent and heal ACL/PCL Injuries, ..."
+      },
+      {
+       "position": 4,
+       "title": "Hinged Knee Brace - LG",
+       "link": "https://www.muellersportsmed.com/b2c-us/fr/Open-Catalog/Par-partie-du-corps/Knee-Braces-%26-Sleeves/Hinged-Knee-Brace/p/2333X",
+       "domain": "muellersportsmed.com",
+       "kind": "store / brand",
+       "snippet": "Mueller® Hinged Knee Brace features a triaxial hinge to track your knee's natural movement and helps prevent medio-lateral movement of the knee."
+      },
+      {
+       "position": 6,
+       "title": "DJO Hinged Knee Support",
+       "link": "https://www.vitalitymedical.com/hinged-knee-support.html?srsltid=AU7gw4UwFB3phaJnCsmuJfLhB28deUjn4JGtL6ylzcn0kPsY87u9nujR",
+       "domain": "vitalitymedical.com",
+       "kind": "store / brand",
+       "snippet": "The PROCARE Hinged Knee Support by DJO offers reliable stabilization for the knee. It features a universal buttress that can be adjusted for medial, ..."
+      }
+     ],
+     "paa": [
+      "What is a good knee brace for range of motion?",
+      "Do knee braces actually work?",
+      "What's the difference between a knee pad and a knee brace?",
+      "Will a knee brace help with lateral knee pain?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "A dial knee brace—commonly known as a hinged range-of-motion (ROM) or dial-adjustable knee brace—uses side-mounted dials or pins to control and limit how far your knee can bend (flexion) and straighten (extension). To help you find or adjust the right option, let me know:",
+     "blocks": [
+      "local_map",
+      "local_results",
+      "knowledge_graph",
+      "inline_images",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the US: orthout.com (store / brand). Amazon here is crowded."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "dial knee brace",
+     "image": "asis/knee-sleeve_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Using a range of motion (ROM) knee brace",
+       "link": "https://roh.nhs.uk/services-information/therapy/using-a-range-of-motion-rom-knee-brace",
+       "domain": "roh.nhs.uk",
+       "kind": "store / brand",
+       "snippet": "How does ROM knee braces work? The ROM knee brace has a dial located at either side of your knee joint. This limits how much your knee can bend."
+      },
+      {
+       "position": 2,
+       "title": "Rom Knee Brace",
+       "link": "https://www.amazon.co.uk/rom-knee-brace/s?k=rom+knee+brace",
+       "domain": "amazon.co.uk",
+       "kind": "marketplace",
+       "snippet": "Hinged ROM Knee Brace with Side Stabilizers, Adjustable Orthopaedic Knee Support for Men & Women, Locking Dial Leg Immobilizer for Post-Op Recovery, ACL, MCL, ."
+      },
+      {
+       "position": 3,
+       "title": "Knee Sleeve, Adjustable Knee Brace with Micro- ...",
+       "link": "https://ytheatre.co.uk/product/knee-sleeve-adjustable-knee-brace-with-micro-adjustment-dial?ctgItemCd=250326954",
+       "domain": "ytheatre.co.uk",
+       "kind": "store / brand",
+       "snippet": "this knee brace allows you to fine-tune compression levels with a simple one-handed twist. firm support in under three seconds—achieving"
+      },
+      {
+       "position": 5,
+       "title": "Standard Knee Brace",
+       "link": "https://www.healthandcare.co.uk/knee-supports-and-braces/standard-knee-brace.html",
+       "domain": "healthandcare.co.uk",
+       "kind": "store / brand",
+       "snippet": "The Standard Knee Brace is suitable for medio lateral stability, patella control, osteoarthritis and rheumatoid arthritis. Designed for both indoor and outdoor "
+      },
+      {
+       "position": 6,
+       "title": "Rehabilitation knee braces | Types of orthotics - Orthotics",
+       "link": "https://www.orthotics.co.uk/types-of-orthotics/knee-braces/rehabilitation-knee-braces/",
+       "domain": "orthotics.co.uk",
+       "kind": "store / brand",
+       "snippet": "Rehabilitation knee braces are used to support the knee joint following injury, most commonly anterior cruciate ligament (ACL), posteriorcruciate ligament (PCL)"
+      }
+     ],
+     "paa": [
+      "What knee brace is recommended by the NHS?",
+      "What is the best knee brace on the market?",
+      "When should you not wear a knee brace?",
+      "Is there a knee brace that actually works?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "A dial knee brace uses an adjustment wheel, push-button dial, or cable-tension system (such as a Boa-style mechanism) to control range-of-motion (ROM), fine-tune compression, or unload joint pressure without bulky manual straps. Note: If you are recovering from surgery or a major injury, always confirm your prescribed flexion and extension limits with your doctor or physical therapist before adjusting the dials. You can review proper clinical guidelines via the Royal Orthopaedic Hospital. To help you find or adjust the right option, let me know:",
+     "blocks": [
+      "shopping_results",
+      "local_map",
+      "local_results",
+      "knowledge_graph",
+      "inline_images",
+      "inline_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "dmca_messages"
+     ],
+     "takeaway": "First result in the UK: roh.nhs.uk (store / brand). Amazon here is crowded."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "dial knee brace",
+     "image": "asis/knee-sleeve_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Hinged Knee Brace for Lateral Knee Pain Canada",
+       "link": "https://medibrace.ca/pages/hinged-knee-brace-for-lateral-knee-pain-canada?srsltid=AU7gw4VGPXhGkVn1TFyDK54vuEsc5PmSb3d8s5T9fDEmlboJNzhPR-OQ",
+       "domain": "medibrace.ca",
+       "kind": "store / brand",
+       "snippet": "Compare hinged and sleeve-style knee supports for lateral knee pain comfort, stability, fit, and daily activity in Canada."
+      },
+      {
+       "position": 2,
+       "title": "Hinged Knee Brace for Medial Knee Pain Canada",
+       "link": "https://medibrace.ca/pages/hinged-knee-brace-for-medial-knee-pain-canada?srsltid=AU7gw4XVmp9gCfOY-o0LFT3gIvj1TsMr8j59rzdy83gZxDANFtxU9PYI",
+       "domain": "medibrace.ca",
+       "kind": "store / brand",
+       "snippet": "A hinged knee brace for medial knee pain is commonly used when the inner side of the knee feels better with added side-to-side stability."
+      },
+      {
+       "position": 3,
+       "title": "Hinged Knee Support by ProCare®",
+       "link": "https://canadaclinicsupply.com/product/hinged-knee-support-by-procare/?srsltid=AU7gw4Vb267U6cVCHZXClvPK_dsRBnHiP5TnG4ZFykBNm8iHhCCoDcI0",
+       "domain": "canadaclinicsupply.com",
+       "kind": "store / brand",
+       "snippet": "Compressive neoprene knee support is available with and without buttress. Ideal for moderate medial/ lateral knee instability, mild ACL/PCL sprain, ..."
+      },
+      {
+       "position": 4,
+       "title": "Hinged Knee Stabilizer, Knee Support Brace Adjustable ...",
+       "link": "https://www.walmart.ca/en/ip/Hinged-Knee-Stabilizer-Knee-Support-Brace-Adjustable-Short-Type-Aluminum-Alloy-Bar-for-Daily-Use/1AVHMSEHVE3H",
+       "domain": "walmart.ca",
+       "kind": "big chain",
+       "snippet": "Hinged Knee Stabilizer, Knee Support Brace Adjustable Short Type Aluminum Alloy Bar for Daily Use. Current price is CAD$47.07. Price when purchased online."
+      },
+      {
+       "position": 5,
+       "title": "Knee supports",
+       "link": "https://www.mtm.ca/en/collections/knee-supports",
+       "domain": "mtm.ca",
+       "kind": "store / brand",
+       "snippet": "The Gripper hinged knee brace provides medial and lateral stability and resists distal migration due to an internal SkinLoc pad that works in conce."
+      }
+     ],
+     "paa": [
+      "What is the absolute best knee brace?",
+      "What is the #1 mistake that makes bad knees worse?",
+      "What is the price of a R.O.M. knee brace?",
+      "Do knee braces actually work?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "local_map",
+      "local_results",
+      "knowledge_graph",
+      "inline_images",
+      "related_questions",
+      "ai_overview",
+      "organic_results"
+     ],
+     "takeaway": "First result in Canada: medibrace.ca (store / brand). Amazon here is crowded."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "dial knee brace",
+     "image": "asis/knee-sleeve_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "https://www.ridershouse.com/en/login?back=https%3A...",
+       "link": "https://www.ridershouse.com/en/login?back=https%3A%2F%2Fwww.ridershouse.com%2Fen%2Ftherapeutic-stable-transport%2Fback-on-track-kniebeschermer-links.html",
+       "domain": "ridershouse.com",
+       "kind": "store / brand",
+       "snippet": "Für diese Seite sind keine Informationen verfügbar."
+      },
+      {
+       "position": 2,
+       "title": "https://www.montbell.com/us/de/products/detail/1107296",
+       "link": "https://www.montbell.com/us/de/products/detail/1107296",
+       "domain": "montbell.com",
+       "kind": "store / brand",
+       "snippet": ""
+      },
+      {
+       "position": 3,
+       "title": "Knee Braces",
+       "link": "https://fsastore.com/Knee-Braces-C308.aspx?a_aid=5424525b5d21e&a_bid=46fd45ef&utm_source=DataPath+Administrative+Services&utm_medium=TPA+Public+Widget+Search&utm_campaign=TPA+Partner&srsltid=AU7gw4UgnwAXzPXPrxCCtSArpz_8ON6alH05jkH4yXBAjV0cR2F86rg0",
+       "domain": "fsastore.com",
+       "kind": "store / brand",
+       "snippet": "Für diese Seite sind keine Informationen verfügbar."
+      },
+      {
+       "position": 4,
+       "title": "DialFit Knee Brace – Adjustable Knee Support | Altaeron",
+       "link": "https://altaeron.com/es/products/dialfit-knee-brace?srsltid=AU7gw4WP1vWzFunh-tidLFQJrDciUhJ3Pw56dQ2nfRZv3PVSp89mJ467",
+       "domain": "altaeron.com",
+       "kind": "store / brand",
+       "snippet": "Turn the dial to fine-tune knee support in seconds. Lightweight brace with patella cushioning, flexible side support, free shipping and a 30-day guarantee."
+      },
+      {
+       "position": 5,
+       "title": "https://www.bamagate.com/fr-eu/collections/all/pro...",
+       "link": "https://www.bamagate.com/fr-eu/collections/all/products/knee-brace-support?srsltid=AU7gw4XyNOVth3eACcHIf-7xte_R0evOJZHJA1gFYchliPLPq62zOE1_",
+       "domain": "bamagate.com",
+       "kind": "store / brand",
+       "snippet": "Für diese Seite sind keine Informationen verfügbar."
+      }
+     ],
+     "paa": [],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "ai_overview",
+      "organic_results"
+     ],
+     "takeaway": "First result in Germany: ridershouse.com (store / brand). Amazon here is crowded."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "dial knee brace",
+     "image": "asis/knee-sleeve_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Shop All Brands Tagged \"Knee Braces\"",
+       "link": "https://www.attherapy.co.nz/collections/shop-all-brands/knee-braces",
+       "domain": "attherapy.co.nz",
+       "kind": "store / brand",
+       "snippet": "Push Sports Knee Brace. We have a wide selection of braces, splints, splinting materials and other orthotic devices."
+      },
+      {
+       "position": 2,
+       "title": "Knee Braces & Supports",
+       "link": "https://beactiv.co.nz/collections/knee-braces-supports/type-knee-braces?srsltid=AU7gw4VVyACSIix-fVBrWAIIhCnOfz_-GAbIVy9lBKAQJnLt0SKH0yZN",
+       "domain": "beactiv.co.nz",
+       "kind": "store / brand",
+       "snippet": "Knee Braces & Supports ; ZAMST JK-2 KNEE BRACE · ZAMST JK-2 KNEE BRACE · $119.99 ; LP KNEE BRACE 2.0 X-TREMUS · LP KNEE BRACE 2.0 X-TREMUS · $67.00 ; ZAMST FILM"
+      },
+      {
+       "position": 3,
+       "title": "Knee Support Brace – Compression Sleeve for Pain Relief ...",
+       "link": "https://backwoods.co.nz/knee-support-brace-adjustable-compression-sports?srsltid=AU7gw4VrnLy5CVGTZ2nmpH3z427f4fZe0jXlufOK9VHg5DMMMMF757m0",
+       "domain": "backwoods.co.nz",
+       "kind": "store / brand",
+       "snippet": "Shop adjustable knee support braces with dual springs and silicone padding. Designed for joint stability, injury recovery, and workout protection."
+      },
+      {
+       "position": 4,
+       "title": "Knee Braces",
+       "link": "https://www.attherapy.co.nz/collections/knee-braces/knee",
+       "domain": "attherapy.co.nz",
+       "kind": "store / brand",
+       "snippet": "We have variety of knee braces to cover every level of support depending on your need. From breathable knee sleeves to more supportive knee stabilizers."
+      },
+      {
+       "position": 5,
+       "title": "Knee Braces & Supports",
+       "link": "https://allcare.co.nz/collections/knee-braces-supports/subcat:knee?srsltid=AU7gw4XZkAPHM3sQXvE7Oi2ppOwPCsdTKWPQbtuYrcT_oTj5BdtOVuv7",
+       "domain": "allcare.co.nz",
+       "kind": "store / brand",
+       "snippet": "If you are in search of knee braces and supports supplier in New Zealand, Whiteley Allcare brings high quality knee brances for healthcare professionals."
+      }
+     ],
+     "paa": [
+      "What kind of knee cap is best for a meniscus tear?",
+      "Do knee braces actually work?",
+      "What's the difference between a knee brace and a knee stabilizer?",
+      "What kind of knee brace can help stop clicking?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "local_map",
+      "local_results",
+      "inline_images",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "filters"
+     ],
+     "takeaway": "First result in New Zealand: attherapy.co.nz (store / brand). Amazon here is crowded."
+    }
+   ],
+   "compare": {
+    "match_name": "Walmart (US$18)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same white knit brace with a round dial and a gel ring around the kneecap.",
+    "brand_image": "knee-sleeve/img_1.jpg",
+    "match_image": "lens/knee-sleeve_thumb_00.jpg"
+   }
+  },
+  {
    "slug": "paw-wash",
    "name": "No-Rinse Foam Paw Cleanser (Dandylion)",
    "one_liner": "Dandylion is an established brand already in Target, Chewy and Petco, and the same foam-and-brush bottle sells from about US$6 under dozens of names. Too cheap and too crowded for a newcomer.",
@@ -27717,6 +29711,7 @@
   "hair-cream",
   "neck-cream",
   "lola-kit",
+  "knee-sleeve",
   "paw-wash",
   "ems-mask",
   "teeth-ring",

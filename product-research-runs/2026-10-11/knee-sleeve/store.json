@@ -1,0 +1,185 @@
+{
+  "input_url": "https://www.trypeakflex.com/products/peakflex-dial-lock-knee-sleeve",
+  "store_root": "https://www.trypeakflex.com",
+  "platform": "shopify",
+  "title": "PeakFlex Dial Lock Knee Sleeve",
+  "vendor": "PeakFlex",
+  "product_type": "",
+  "created_at": "2026-10-04T17:12:36-05:00",
+  "updated_at": "2026-10-14T05:12:51-05:00",
+  "price_min": 89.99,
+  "price_max": 89.99,
+  "was_price": "80.00",
+  "n_variants": 14,
+  "variants": [
+    {
+      "title": "S (110-130lbs) / Left",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "S (110-130lbs) / Right",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "M (131-165lbs) / Left",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "M (131-165lbs) / Right",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "L (166-200lbs) / Left",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "L (166-200lbs) / Right",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "XL (201-240lbs) / Left",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "XL (201-240lbs) / Right",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "2XL (240-270lbs) / Left",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "2XL (240-270lbs) / Right",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "3XL (271-300lbs) / Left",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "3XL (271-300lbs) / Right",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "4XL (300lbs+) / Left",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    },
+    {
+      "title": "4XL (300lbs+) / Right",
+      "price": "89.99",
+      "was": "80.00",
+      "available": null
+    }
+  ],
+  "description": "",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/PeakFlexKniebandagemitDruckregler.webp?v=1791215659",
+    "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/01_1.webp?v=1782837942",
+    "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/AC.webp?v=1782815828",
+    "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/02.webp?v=1782837979",
+    "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/6_1.webp?v=1782815954",
+    "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/2_1.webp?v=1782816003",
+    "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/3_2.webp?v=1782816035"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 9,
+    "first_product_created": "2026-04-20T06:09:17-05:00",
+    "newest": [
+      {
+        "title": "PeakFlex Dial Lock Knee Sleeve",
+        "created_at": "2026-10-04",
+        "price": "89.99"
+      },
+      {
+        "title": "Triple Method Knee Massager",
+        "created_at": "2026-09-27",
+        "price": "149.99"
+      },
+      {
+        "title": "Dial Lock Knee Sleeve",
+        "created_at": "2026-09-26",
+        "price": "89.99"
+      },
+      {
+        "title": "Dial Lock Knee Brace",
+        "created_at": "2026-08-30",
+        "price": "69.99"
+      },
+      {
+        "title": "Peakflex Kneesleeve",
+        "created_at": "2026-07-06",
+        "price": "59.99"
+      },
+      {
+        "title": "Peakflex Knee Sleeve",
+        "created_at": "2026-06-03",
+        "price": "69.99"
+      },
+      {
+        "title": "Orthobelt",
+        "created_at": "2026-06-02",
+        "price": "49.99"
+      },
+      {
+        "title": "PeakFlex Footsleeve",
+        "created_at": "2026-04-20",
+        "price": "39.99"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/knee-sleeve/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/PeakFlexKniebandagemitDruckregler.webp?v=1791215659"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/knee-sleeve/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/01_1.webp?v=1782837942"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/knee-sleeve/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/AC.webp?v=1782815828"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/knee-sleeve/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/02.webp?v=1782837979"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/knee-sleeve/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/6_1.webp?v=1782815954"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/knee-sleeve/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1011/0720/4439/files/2_1.webp?v=1782816003"
+    }
+  ]
+}

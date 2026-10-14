@@ -1,0 +1,1059 @@
+{
+  "slug": "knee-sleeve",
+  "query": "dial knee brace",
+  "mode": "full",
+  "brand_price": 89.99,
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "currency": "A$",
+      "status": "blocked",
+      "why": "rebel sells it at $32.99",
+      "results": 40,
+      "distinct_sellers": 23,
+      "chains_present": [
+        "Chemist Warehouse",
+        "Kmart",
+        "rebel"
+      ],
+      "marketplaces_present": [
+        "Amazon",
+        "Amazon AU - Amazon.com.au-Seller",
+        "Dick Smith AU"
+      ],
+      "cheapest": 29.99,
+      "typical": 89.0,
+      "most_reviewed": {
+        "seller": "rebel",
+        "title": "McDavid Knee Strap/Patella",
+        "reviews": 764,
+        "price_text": "$32.99"
+      },
+      "top_rows": [
+        {
+          "seller": "rebel",
+          "title": "McDavid Knee Strap/Patella",
+          "price_text": "$32.99",
+          "price": 32.99,
+          "rating": 4.7,
+          "reviews": 764,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:12921218054710803318,productid:13716202299190743417,headlineOfferDocid:11906735859236410032,imageDocid:1422714028619261762,rds:PC_9352482774566174731|PROD_PC_9352482774566174731,gpcid:9352482774566174731,mid:576462749188746121,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTXieVzwyl8_n1dUTqJjjAJ3IxzKN29n7r6RUMhk083GXhnyTVCYtES7TFDtToq1rs9Sl1Cwq39jHy-fQRYm4br044G-B_2GGZqgt6c4ShnD55P15yugQ3UEg"
+        },
+        {
+          "seller": "AHS",
+          "title": "Tynor Functional Knee Support",
+          "price_text": "$57.90",
+          "price": 57.9,
+          "rating": 4.6,
+          "reviews": 395,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:14615259221772832109,productid:11824550578279267441,headlineOfferDocid:15712014317675557759,imageDocid:16474301252095053548,rds:PC_13359977789714250146|PROD_PC_13359977789714250146,gpcid:13359977789714250146,mid:576462697706305457,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRguVoXqFCaj8uGT2bZ5uvZWGhaXv8N4KAJNCPLlPQHWVVujqFfEOo76rNFK6LJjeTDKJZzY9CbfpsYAh8Fv_AMDgE2_hKw-N8WxywS1VQ"
+        },
+        {
+          "seller": "MXstore",
+          "title": "Mobius X8 Knee Braces",
+          "price_text": "$869.95",
+          "price": 869.95,
+          "rating": 4.7,
+          "reviews": 353,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:16806709854736513830,productid:2557008592068200328,headlineOfferDocid:9757866735144922903,imageDocid:6738078266192259175,rds:PC_5623223886627141665|PROD_PC_5623223886627141665,gpcid:5623223886627141665,mid:576462809947581599,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQinv7Z49nmkwDcay7zQKw5sx9qUswtYXcv-mzJvq4KsgATGBRGlSz0Sinlg5GKsSpwteXo8iSx8DYAf5-qyerAk3oTiAvOg2zkT8PAogU"
+        },
+        {
+          "seller": "rebel",
+          "title": "Shock Doctor Knee Stabilizer with Flexible Support",
+          "price_text": "$109.99",
+          "price": 109.99,
+          "rating": 4.5,
+          "reviews": 303,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:16328537078677820170,productid:18260479235201042469,headlineOfferDocid:2596805260342038642,imageDocid:9752044099182742687,rds:PC_2229912364956005130|PROD_PC_2229912364956005130,gpcid:2229912364956005130,mid:576462768385764259,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvrcd5jWrecp5g6Xo-r0Z-qJjgyGTGHjOisFuptGeEhB81Ja3KEsL6PkL-5_odD-NvaWzItMf2OHUilB9E0CRd_fAS86hTnZ5fokrKMSX5qLGuyJ0ItaHpAQ"
+        },
+        {
+          "seller": "rebel",
+          "title": "McDavid NRG Spring Hinge Knee Brace",
+          "price_text": "$189.99",
+          "price": 189.99,
+          "rating": 4.4,
+          "reviews": 90,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:17548936779422951840,productid:13856772906591304082,headlineOfferDocid:948700201571727000,imageDocid:11437372154411461631,rds:PC_9949213335911501742|PROD_PC_9949213335911501742,gpcid:9949213335911501742,mid:576462782992046728,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTj8Eir91_yjtO6gsJIZdo_U2izeZHgG95qQz6KNhsEfbApWhBCgK8DF3BOAWqIvSO0At1C_Q9oPcbP8y64m41VMHDOdA-N9WDgPTq50MqRFITIZO2HTAkCow"
+        },
+        {
+          "seller": "TerryWhite Chemmart",
+          "title": "Thuasne Genu Dynastab Knee Size",
+          "price_text": "$77.19",
+          "price": 77.19,
+          "rating": 4.5,
+          "reviews": 65,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:5954887883080333834,productid:7966836780875624058,headlineOfferDocid:13292014818419560913,imageDocid:6049227348872248916,rds:PC_11741685955216000773|PROD_PC_11741685955216000773,gpcid:11741685955216000773,mid:576462783238279344,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMeDC1f8Yx5b3oX-ZKcoDpSHY79VVQnEVKb8qo1UXUjkLmJ4dWk4K5DJXfKRX95t15XONJp0112Kl3NSO3ge34FRDJ7NdRRHMfI8SiU7Sx_OsgNX4pGL6YTg"
+        },
+        {
+          "seller": "66fit Australia",
+          "title": "Mueller Pro Level Hinged Knee Brace",
+          "price_text": "$204.90",
+          "price": 204.9,
+          "rating": 3.8,
+          "reviews": 17,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:12220263160896577732,productid:13418597106113445906,headlineOfferDocid:2918938144305820926,imageDocid:13197021898141391034,rds:PC_17796950557351779935|PROD_PC_17796950557351779935,gpcid:17796950557351779935,mid:576462789357450469,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8q-vMqxbuLjAbdH7yiNu5L07tIz_XI8ekjw8bNYApD6byZx9OrIQB4QxJREbKdyvQzqy2As5Sr55UhwKEnJID3DnLVMxayb1nf_ZaPF_-Ei2zA9t29X_DcQ"
+        },
+        {
+          "seller": "Medgear Care",
+          "title": "M.4s PCL Dynamic | Advanced Knee Brace for Posterior Cruciate Ligament Left / Small | NDIS",
+          "price_text": "$1,789.00",
+          "price": 1789.0,
+          "rating": 4.5,
+          "reviews": 15,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=productid:9517651475407502278,headlineOfferDocid:9517651475407502278,imageDocid:17752762558573563798,rds:PC_8341596846443570164|PROD_PC_8341596846443570164,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTpBD-qkURIYzfofQlgBXAwRaHw-cwW8n74mC7pmdWOwPb99TdxqQB9J5p_l3YTqp0asJSw9jnTs9hHIQL6-jJndLI5fHU7u3oq7kDbS3UC"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "rebel",
+          "title": "McDavid Knee Strap/Patella",
+          "price_text": "$32.99",
+          "price": 32.99,
+          "rating": 4.7,
+          "reviews": 764,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:12921218054710803318,productid:13716202299190743417,headlineOfferDocid:11906735859236410032,imageDocid:1422714028619261762,rds:PC_9352482774566174731|PROD_PC_9352482774566174731,gpcid:9352482774566174731,mid:576462749188746121,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTXieVzwyl8_n1dUTqJjjAJ3IxzKN29n7r6RUMhk083GXhnyTVCYtES7TFDtToq1rs9Sl1Cwq39jHy-fQRYm4br044G-B_2GGZqgt6c4ShnD55P15yugQ3UEg"
+        },
+        {
+          "seller": "rebel",
+          "title": "McDavid NRG Spring Hinge Knee Brace",
+          "price_text": "$189.99",
+          "price": 189.99,
+          "rating": 4.4,
+          "reviews": 90,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:17548936779422951840,productid:13856772906591304082,headlineOfferDocid:948700201571727000,imageDocid:11437372154411461631,rds:PC_9949213335911501742|PROD_PC_9949213335911501742,gpcid:9949213335911501742,mid:576462782992046728,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTj8Eir91_yjtO6gsJIZdo_U2izeZHgG95qQz6KNhsEfbApWhBCgK8DF3BOAWqIvSO0At1C_Q9oPcbP8y64m41VMHDOdA-N9WDgPTq50MqRFITIZO2HTAkCow"
+        },
+        {
+          "seller": "Chemist Warehouse",
+          "title": "Wagner Body Science Premium Stabiliser Knee Adjustable",
+          "price_text": "$29.99",
+          "price": 29.99,
+          "rating": 4.8,
+          "reviews": 6,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:15394312049564078367,productid:16078996924476718365,headlineOfferDocid:6353160271514732949,imageDocid:15980113016047685769,rds:PC_5949353561874459510|PROD_PC_5949353561874459510,gpcid:5949353561874459510,mid:576462530373171702,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRcOr4iXlY6UIgcMwzLFubztlqlbLuUwSMXX22wjKsR_6Tz2HbMayh88uvht4k_HLEOjc94RBeRyrILp-kwvWlLgeN0XVoI_3nhHb1ql7E"
+        },
+        {
+          "seller": "rebel",
+          "title": "Shock Doctor Knee Stabilizer with Flexible Support",
+          "price_text": "$109.99",
+          "price": 109.99,
+          "rating": 4.5,
+          "reviews": 303,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:16328537078677820170,productid:18260479235201042469,headlineOfferDocid:2596805260342038642,imageDocid:9752044099182742687,rds:PC_2229912364956005130|PROD_PC_2229912364956005130,gpcid:2229912364956005130,mid:576462768385764259,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvrcd5jWrecp5g6Xo-r0Z-qJjgyGTGHjOisFuptGeEhB81Ja3KEsL6PkL-5_odD-NvaWzItMf2OHUilB9E0CRd_fAS86hTnZ5fokrKMSX5qLGuyJ0ItaHpAQ"
+        },
+        {
+          "seller": "Kmart",
+          "title": "Bodyassist Sports Knee with Stability Strap White/Grey",
+          "price_text": "$47.95",
+          "price": 47.95,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:1860827576656047524,productid:17791384337990416422,headlineOfferDocid:2921187038004992926,imageDocid:3745063635392435891,gpcid:4581364433759474853,mid:576462510655645169,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRt5a-4vGXh4BOZVzaalU26YHMlMliUisg-YV_NFIa6v_Vc8maGGl3VW2C57NC_5PasIzYQT_dQDfzvZ0zNmuSkUshZn5Y6ThAAAeVOsalPZ9ZpdRKhZV-N"
+        },
+        {
+          "seller": "Chemist Warehouse",
+          "title": "Wagner Body Science Premium Support Knee & Patella Adjustable",
+          "price_text": "$29.99",
+          "price": 29.99,
+          "rating": 4.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:13220520922683350148,productid:2136883841653140175,headlineOfferDocid:12317357674088989392,imageDocid:743119439477810423,rds:PC_10226974779250677471|PROD_PC_10226974779250677471,gpcid:10226974779250677471,mid:576462866928377548,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ396ua8n618RO0TmkUdcoPVTjun-eyWdLgDiCtca9FKZZD7UEa0mW9OwzPACvLP6RnnWtMXhrJXRKMkagQUbiNf0XN5jZ5FjoeqL2GVw7EZ_hJQWjWOHJQyg"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "currency": "US$",
+      "status": "blocked",
+      "why": "DICK'S Sporting Goods sells it at $77.99",
+      "results": 40,
+      "distinct_sellers": 26,
+      "chains_present": [
+        "CVS Pharmacy",
+        "DICK'S Sporting Goods",
+        "Walmart"
+      ],
+      "marketplaces_present": [
+        "Walmart - Agnrbo",
+        "Walmart - BAIDI",
+        "Walmart - Bisitoy",
+        "Walmart - DekoToyz",
+        "Walmart - Global Joy Finds",
+        "Walmart - God made me sell",
+        "Walmart - Seller",
+        "Walmart - SoftSpaces",
+        "Walmart - TechCat",
+        "Walmart - Time",
+        "Walmart - XINYUAN",
+        "Walmart - guanshanliu",
+        "eBay",
+        "eBay - b-goodz",
+        "eBay - lis-industries",
+        "eBay - rahatradersofficial",
+        "eBay - theranchcollectibles"
+      ],
+      "cheapest": 6.99,
+      "typical": 28.99,
+      "most_reviewed": {
+        "seller": "CVS Pharmacy",
+        "title": "Mueller Adjustable Hinged Knee Brace",
+        "reviews": 761,
+        "price_text": "$25.99"
+      },
+      "top_rows": [
+        {
+          "seller": "CVS Pharmacy",
+          "title": "Mueller Adjustable Hinged Knee Brace",
+          "price_text": "$25.99",
+          "price": 25.99,
+          "rating": 3.8,
+          "reviews": 761,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:9861380817692841611,productid:18198214658493709749,headlineOfferDocid:1677828043333425664,imageDocid:4296169361166576251,rds:PC_6164386774939978852|PROD_PC_6164386774939978852,gpcid:6164386774939978852,mid:576462821739809482,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-zCO6EZyh_zEplSusQG0qWeTHvh60sbJ61VR2QXJP9iA_lXvPFqjEmBZnEngQ--evpW9hInICatKPVcainJP1FhcpKxiizVmU1WzILDZLgEqJe66IXlFHag"
+        },
+        {
+          "seller": "DICK'S Sporting Goods",
+          "title": "Shock Doctor Ultra Knee Support Bilateral Hinges",
+          "price_text": "$77.99",
+          "price": 77.99,
+          "rating": 4.6,
+          "reviews": 677,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:2004347105464600801,productid:9669815692089718722,headlineOfferDocid:15887770436298464784,imageDocid:1739285073221264618,rds:PC_2884620369997861495|PROD_PC_2884620369997861495,gpcid:2884620369997861495,mid:576462778343387477,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2zqx4Cq3-UHURFMUn7idq-RyCYKs_HDAePjq-XgyvnabgO5JlKqYpOgsiOMSEX46X6JC6UTrG90YUyOJ9WFFHtwIBl_vsrGQEQm_dGc4b"
+        },
+        {
+          "seller": "CVS Pharmacy",
+          "title": "Mueller Maximum Support Level Self-Adjusting Knee Stabilizer, Black",
+          "price_text": "$18.79",
+          "price": 18.79,
+          "rating": 3.8,
+          "reviews": 441,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:12507576523561317605,productid:4252710636587395511,headlineOfferDocid:6388399178507415842,imageDocid:9574844009515957977,rds:PC_2511836198475661295|PROD_PC_2511836198475661295,gpcid:2511836198475661295,mid:576462563325320967,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfhHkxsjzSwLQ9mpBZAe77sn7yWVUM3AZsZjBBv0Rgn5u1-kXHZc8JgPkxz1ghhZfQTBEx7z_7SV_frdLwP8T3u_uM_loz6cZgO5PxOaE3zCEdqBj02WIy"
+        },
+        {
+          "seller": "DICK'S Sporting Goods",
+          "title": "Shock Doctor Knee Stabilizer with Flexible Support Stays",
+          "price_text": "$51.99",
+          "price": 51.99,
+          "rating": 4.5,
+          "reviews": 303,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:12501810523047518460,productid:8660226892207542054,headlineOfferDocid:2286391108904118111,imageDocid:17451161758814328543,rds:PC_2229912364956005130|PROD_PC_2229912364956005130,gpcid:2229912364956005130,mid:576462768385764259,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSbyJ6aEs1_s8KqA9Etnk08MyT0FuXTJ3SSaoGDWAcyIc5vqKc5vV10Pi6q9Wd7vLeTI4KBxc8sKtEMFsDyQUMJD6vRBi_tIzNl9fsdgzFumU9Ru9jJ1CKP"
+        },
+        {
+          "seller": "DICK'S Sporting Goods",
+          "title": "Shock Doctor Knee Support with Dual Hinges",
+          "price_text": "$66.99",
+          "price": 66.99,
+          "rating": 4.6,
+          "reviews": 93,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:8248616748644979346,productid:8915257147718529501,headlineOfferDocid:11059643833245350354,imageDocid:5519955808212823940,rds:PC_7631276344075163306|PROD_PC_7631276344075163306,gpcid:7631276344075163306,mid:576462563951652406,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-AXld23FANq6n2j2tpxcNVEHssIXDpXj23BhCkliA6ElYvklqU3T5TJx3SUfVsBLCGEeRB3gwqFUqdT2Up8x8EKYp71o3JO1TGMi4MgsgIlFV6o0YHWbOqA"
+        },
+        {
+          "seller": "Walmart",
+          "title": "Mueller Sports Medicine Hero Hinged Knee Brace",
+          "price_text": "$34.97",
+          "price": 34.97,
+          "rating": 4.3,
+          "reviews": 69,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:6404311636632265182,productid:12132819068206849305,headlineOfferDocid:11186438964702077826,imageDocid:806726538900439133,rds:PC_6651757785907796255|PROD_PC_6651757785907796255,gpcid:6651757785907796255,mid:576462823175130460,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRt8xO4MGvfGhuKSbb1wKDm2mr2c5BiiLf3CXjVinMgK61U5ZlUdlegkKfLXXamYGY_olCFSLc0olKMZgi714ZaH9IPoQdQlrm0BeibE6AuehgkUqaAoFJU"
+        },
+        {
+          "seller": "DICK'S Sporting Goods",
+          "title": "Shock Doctor Dual Wrap Knee Brace with Hinges",
+          "price_text": "$87.99",
+          "price": 87.99,
+          "rating": 4.4,
+          "reviews": 59,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:4537829206968899928,productid:576951398055420034,headlineOfferDocid:6732291467641162655,imageDocid:2588537770311008389,rds:PC_13569441282367221911|PROD_PC_13569441282367221911,gpcid:13569441282367221911,mid:576462856193378312,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGBY-oVW9BVmlC3ZCSy6Oea01S7zveXmfpDjT-70ftEv5x9QNkUq1ivhWn8noK6fGSVCwjbV1GwUFIP8JY9WTpjxGkPMPJrj9Mov9lgIfB"
+        },
+        {
+          "seller": "DICK'S Sporting Goods",
+          "title": "Shock Doctor Knee/Patella Support Wrap with Dual Strap Compression",
+          "price_text": "$28.99",
+          "price": 28.99,
+          "rating": 4.8,
+          "reviews": 51,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:9793821698625830087,productid:7273994670723111648,headlineOfferDocid:1055887182607212288,imageDocid:17911699902412761180,rds:PC_58009834927951683|PROD_PC_58009834927951683,gpcid:58009834927951683,mid:576462401381206698,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAgLayv1D02VvPurzODoe04UkLLg4QvrBmIIO9d6jX-7Jciu7CyUj9SfZP4Qrp8IIK8l7hv-kxjPA9NON8mASrRFYV6v7gdedrlQOPyHuj6wSCgGpbcRV-Yw"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "DICK'S Sporting Goods",
+          "title": "Shock Doctor Ultra Knee Support Bilateral Hinges",
+          "price_text": "$77.99",
+          "price": 77.99,
+          "rating": 4.6,
+          "reviews": 677,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:2004347105464600801,productid:9669815692089718722,headlineOfferDocid:15887770436298464784,imageDocid:1739285073221264618,rds:PC_2884620369997861495|PROD_PC_2884620369997861495,gpcid:2884620369997861495,mid:576462778343387477,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2zqx4Cq3-UHURFMUn7idq-RyCYKs_HDAePjq-XgyvnabgO5JlKqYpOgsiOMSEX46X6JC6UTrG90YUyOJ9WFFHtwIBl_vsrGQEQm_dGc4b"
+        },
+        {
+          "seller": "Walmart",
+          "title": "Mueller Sports Medicine Hero Hinged Knee Brace",
+          "price_text": "$34.97",
+          "price": 34.97,
+          "rating": 4.3,
+          "reviews": 69,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:6404311636632265182,productid:12132819068206849305,headlineOfferDocid:11186438964702077826,imageDocid:806726538900439133,rds:PC_6651757785907796255|PROD_PC_6651757785907796255,gpcid:6651757785907796255,mid:576462823175130460,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRt8xO4MGvfGhuKSbb1wKDm2mr2c5BiiLf3CXjVinMgK61U5ZlUdlegkKfLXXamYGY_olCFSLc0olKMZgi714ZaH9IPoQdQlrm0BeibE6AuehgkUqaAoFJU"
+        },
+        {
+          "seller": "CVS Pharmacy",
+          "title": "Mueller Maximum Support Level Self-Adjusting Knee Stabilizer, Black",
+          "price_text": "$18.79",
+          "price": 18.79,
+          "rating": 3.8,
+          "reviews": 441,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:12507576523561317605,productid:4252710636587395511,headlineOfferDocid:6388399178507415842,imageDocid:9574844009515957977,rds:PC_2511836198475661295|PROD_PC_2511836198475661295,gpcid:2511836198475661295,mid:576462563325320967,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfhHkxsjzSwLQ9mpBZAe77sn7yWVUM3AZsZjBBv0Rgn5u1-kXHZc8JgPkxz1ghhZfQTBEx7z_7SV_frdLwP8T3u_uM_loz6cZgO5PxOaE3zCEdqBj02WIy"
+        },
+        {
+          "seller": "CVS Pharmacy",
+          "title": "Mueller Adjustable Hinged Knee Brace",
+          "price_text": "$25.99",
+          "price": 25.99,
+          "rating": 3.8,
+          "reviews": 761,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:9861380817692841611,productid:18198214658493709749,headlineOfferDocid:1677828043333425664,imageDocid:4296169361166576251,rds:PC_6164386774939978852|PROD_PC_6164386774939978852,gpcid:6164386774939978852,mid:576462821739809482,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-zCO6EZyh_zEplSusQG0qWeTHvh60sbJ61VR2QXJP9iA_lXvPFqjEmBZnEngQ--evpW9hInICatKPVcainJP1FhcpKxiizVmU1WzILDZLgEqJe66IXlFHag"
+        },
+        {
+          "seller": "DICK'S Sporting Goods",
+          "title": "Shock Doctor Knee/Patella Support Wrap with Dual Strap Compression",
+          "price_text": "$28.99",
+          "price": 28.99,
+          "rating": 4.8,
+          "reviews": 51,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:9793821698625830087,productid:7273994670723111648,headlineOfferDocid:1055887182607212288,imageDocid:17911699902412761180,rds:PC_58009834927951683|PROD_PC_58009834927951683,gpcid:58009834927951683,mid:576462401381206698,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAgLayv1D02VvPurzODoe04UkLLg4QvrBmIIO9d6jX-7Jciu7CyUj9SfZP4Qrp8IIK8l7hv-kxjPA9NON8mASrRFYV6v7gdedrlQOPyHuj6wSCgGpbcRV-Yw"
+        },
+        {
+          "seller": "DICK'S Sporting Goods",
+          "title": "Shock Doctor Dual Wrap Knee Brace with Hinges",
+          "price_text": "$87.99",
+          "price": 87.99,
+          "rating": 4.4,
+          "reviews": 59,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:4537829206968899928,productid:576951398055420034,headlineOfferDocid:6732291467641162655,imageDocid:2588537770311008389,rds:PC_13569441282367221911|PROD_PC_13569441282367221911,gpcid:13569441282367221911,mid:576462856193378312,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGBY-oVW9BVmlC3ZCSy6Oea01S7zveXmfpDjT-70ftEv5x9QNkUq1ivhWn8noK6fGSVCwjbV1GwUFIP8JY9WTpjxGkPMPJrj9Mov9lgIfB"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "currency": "£",
+      "status": "crowded",
+      "why": "20 different sellers",
+      "results": 40,
+      "distinct_sellers": 20,
+      "chains_present": [],
+      "marketplaces_present": [
+        "Amazon.co.uk",
+        "Amazon.co.uk - Amazon.co.uk-Seller",
+        "eBay",
+        "eBay - easybuy_dkc",
+        "eBay - ethersell88",
+        "eBay - homeimprovement2016",
+        "eBay - jeweryworks",
+        "eBay - sfchomemarket",
+        "eBay - toysloveit"
+      ],
+      "cheapest": 6.99,
+      "typical": 40.0,
+      "most_reviewed": {
+        "seller": "Orthomen",
+        "title": "Orthomen Unloader Knee Brace Osteoarthritis",
+        "reviews": 437,
+        "price_text": "£94.00"
+      },
+      "top_rows": [
+        {
+          "seller": "Orthomen",
+          "title": "Orthomen Unloader Knee Brace Osteoarthritis",
+          "price_text": "£94.00",
+          "price": 94.0,
+          "rating": 4.3,
+          "reviews": 437,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:8205798385621119067,productid:13960173482268546142,headlineOfferDocid:1230385075931794455,imageDocid:17248327156920903954,rds:PC_1376874300116933187|PROD_PC_1376874300116933187,gpcid:10094883098321188262,mid:576462550035947742,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSk6I51abG2DM_LZ3m_-EnZ7r6iaxb_6Gzq6_yPjz486kaDqkruSZfx1oMlUoC7KvuTv0ZgUpYGtUo_o2cegcASQvxkXZQ8pHrMlRZYjCs"
+        },
+        {
+          "seller": "Amazon.co.uk",
+          "title": "McDavid Mc David Elite Bio-logix Knee Brace",
+          "price_text": "£90.85",
+          "price": 90.85,
+          "rating": 4.6,
+          "reviews": 237,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:11712384843633529768,productid:10112093904445308962,headlineOfferDocid:15243800032996502480,imageDocid:13341396139045026143,rds:PC_11183457108520842623|PROD_PC_11183457108520842623,gpcid:11183457108520842623,mid:576462896334320890,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTttcIqGpBk_z_oUJn8uO2rr8d1w-82JOuLgO_Lvf9ewELguxHPWx-vZbVh2IuweKmaBNt8rlWOrFhM_3s1sNpSTOusSiCH4CflAc864Yw"
+        },
+        {
+          "seller": "Motioncare",
+          "title": "DonJoy Playmaker II Hinged Ligament Knee Brace XXX-Large / Wraparound",
+          "price_text": "£186.99",
+          "price": 186.99,
+          "rating": 4.3,
+          "reviews": 148,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=productid:1340334841731930671,headlineOfferDocid:1340334841731930671,imageDocid:3299591283643991435,rds:PC_2649009282673101893|PROD_PC_2649009282673101893,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROdLd3Q_y_ONJad7O-Fsg7azKKP-1ld7c8nULg9CgBb9LqhuE1J7a2Pn6H-sviGFzZm2OySDfI8yh0AiMqlb9hmKuVaWvskIq9GzGK0gCHulUlALOYwtcOyQ"
+        },
+        {
+          "seller": "John Bell & Croyden",
+          "title": "Thuasne Genu-Go Silistab Size 1 - John Bell & Croyden",
+          "price_text": "£40.00",
+          "price": 40.0,
+          "rating": 4.5,
+          "reviews": 63,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:3937430090516402513,productid:7589674425796166116,headlineOfferDocid:9613468959955884957,imageDocid:888106599947685358,rds:PC_18416698930683453410|PROD_PC_18416698930683453410,gpcid:5830105256789229215,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2OXCEgaAj3Ln4xQ-PzL0M7nIttjanN4xnnhTL1KFrvISqTH1TjvixKijt-3HgjlpYBQs8UQ40d9qEp9o2Lx-q_QyrMFYOhUYCZDzIBCMMGssrTE5LeS2U"
+        },
+        {
+          "seller": "Motioncare",
+          "title": "DonJoy Playmaker II Knee Brace",
+          "price_text": "£186.99",
+          "price": 186.99,
+          "rating": 4.3,
+          "reviews": 46,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:8115015464748929064,productid:10463501645898633914,headlineOfferDocid:6326761294254902779,imageDocid:6184057282710600528,rds:PC_2479724407029202190|PROD_PC_2479724407029202190,gpcid:8407797398168798837,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTqpjsddmNoOZULedYPYlCZgfrjl4-9-jRI9FGL15dRk9XptObfhH0sJj3Y9G3thTHH2pMLaHzDiKAHeQay5gF_O47RdnOMo2mkqynnHN8R7i7obcTRRbHT"
+        },
+        {
+          "seller": "jointoperations.co.uk",
+          "title": "Breg Fusion OA Plus Osteoarthritis Knee Brace",
+          "price_text": "£525.00",
+          "price": 525.0,
+          "rating": 4.8,
+          "reviews": 13,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:16513498906204570992,productid:16962119766215301851,headlineOfferDocid:11371617194833707153,imageDocid:3987730513389234422,rds:PC_9271868358683204334|PROD_PC_9271868358683204334,gpcid:9271868358683204334,mid:576462887203701136,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_DEMJx6Tesk_CfgxIXYycm9eRYG_Bb_8of2nxusBumEVI53UMtLADaGGBNtu6M8D-mb1OOjXdxYPyKBiB1S4GHNKnVDU6hQJCen8VvZ6x7dmn78sgeOhM"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "Kuangmi Knob Knee Brace for Pain Relief Knee Support with Patella Gel Pad & Side Stabilize",
+          "price_text": "£35.98",
+          "price": 35.98,
+          "rating": 4.8,
+          "reviews": 12,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:2840983644286131858,productid:3247891863756844369,headlineOfferDocid:2681038536437331089,imageDocid:12492181118285950274,rds:PC_18060445032608413669|PROD_PC_18060445032608413669,gpcid:18060445032608413669,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6G62FhU6Gj_-NrmpzMUrG9Vk6DOCINCuyNcqbStDMi_IcwXsmNXPCHiPnLoFCMtNQmlzWReJnu5EQG3lqAMTYwp7mwrdiuGpnG_3TnD4LAX9oghY-cunmXQ"
+        },
+        {
+          "seller": "Medical Supplies",
+          "title": "Donjoy Deluxe Hinged Knee Brace",
+          "price_text": "£49.99",
+          "price": 49.99,
+          "rating": 4.3,
+          "reviews": 10,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:5562487480481176773,productid:16817235720651430289,headlineOfferDocid:7060136654385482427,imageDocid:12476044861159141593,rds:PC_16732120960388945767|PROD_PC_16732120960388945767,gpcid:16732120960388945767,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTq128rRlFHTAWiuuiIjksUswAL71xiHL5KIjjULXlNyNGAZIYUEqgaKry496-222cJJSbzRjUm8V38myX0IbqeaolG3AP8BIcdiEcTeZ8D"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "currency": "C$",
+      "status": "crowded",
+      "why": "knock-offs from 15.95 vs typical 200.0",
+      "results": 40,
+      "distinct_sellers": 10,
+      "chains_present": [],
+      "marketplaces_present": [
+        "Amazon CA"
+      ],
+      "cheapest": 15.95,
+      "typical": 200.0,
+      "most_reviewed": {
+        "seller": "amsclinic shop",
+        "title": "Bauerfeind GenuTrain Knee Brace for Pain Relief & Support beige / 5",
+        "reviews": 1400,
+        "price_text": "$200.00"
+      },
+      "top_rows": [
+        {
+          "seller": "amsclinic shop",
+          "title": "Bauerfeind GenuTrain Knee Brace for Pain Relief & Support beige / 5",
+          "price_text": "$200.00",
+          "price": 200.0,
+          "rating": 5.0,
+          "reviews": 1400,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=productid:17457710114132851936,headlineOfferDocid:17457710114132851936,imageDocid:18103842743624842344,rds:PC_9716606042536273373|PROD_PC_9716606042536273373,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSKAYU8wBQE87NG1-SqTRhauiiLALg-EMts2Ys-Wu9phA10atq26-vkvX1hkOksHN7yX9zMIP2-H9J-anoFnyWhB2cGfS-uVrzTsm9A8BK2"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "NEENCA Professional Knee Brace, Medical Knee Support for Women & Men Relief",
+          "price_text": "$35.99",
+          "price": 35.99,
+          "rating": 5.0,
+          "reviews": 1400,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:17107822051115166089,productid:14034015057834286080,headlineOfferDocid:11188711281824578227,imageDocid:12834296397476847729,rds:PC_12755601485412341456|PROD_PC_12755601485412341456,gpcid:12755601485412341456,mid:576462842943504310,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9EEl6p9JkQZJXwvW1RGODggLAvOfKHMYDTWuqaExQlhgZfbka9hlfW4TfLoJLMmfYRMPIY9rUFcdb7nJ7VAgJVUm_Pj7n70nHaiLxfjHr"
+        },
+        {
+          "seller": "Yaletown Medical Supplies",
+          "title": "Bauerfeind GenuTrain Active Knee Support Brace Size 3",
+          "price_text": "$200.00",
+          "price": 200.0,
+          "rating": 5.0,
+          "reviews": 1300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=productid:7694576381064098647,headlineOfferDocid:7694576381064098647,imageDocid:13840411197857280909,rds:PC_9716606042536273373|PROD_PC_9716606042536273373,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTG3MOtaqIOvQdNzSmfUD3Yf4bvu4saTehL2mAcK7uTBzYoOPti1CQocmwB7pHreJP7T1KQVdtAwOu4uttSmz4qaROeeKQ-9ydQBPhbXcGoLgpdOrqrwTqajg"
+        },
+        {
+          "seller": "amsclinic shop",
+          "title": "Bauerfeind GenuTrain Knee Brace for Pain Relief & Support beige / 2",
+          "price_text": "$200.00",
+          "price": 200.0,
+          "rating": 5.0,
+          "reviews": 1300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=productid:16464888561400489918,headlineOfferDocid:16464888561400489918,imageDocid:18103842743624842344,rds:PC_9716606042536273373|PROD_PC_9716606042536273373,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSKAYU8wBQE87NG1-SqTRhauiiLALg-EMts2Ys-Wu9phA10atq26-vkvX1hkOksHN7yX9zMIP2-H9J-anoFnyWhB2cGfS-uVrzTsm9A8BK2"
+        },
+        {
+          "seller": "Calmedi Medical Supplies",
+          "title": "Bauerfeind GenuTrain Knee Support",
+          "price_text": "$200.00",
+          "price": 200.0,
+          "rating": 3.7,
+          "reviews": 1300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:7160293872362060431,productid:8496893343239301360,headlineOfferDocid:3047730346531481736,imageDocid:13883144965659472781,rds:PC_9716606042536273373|PROD_PC_9716606042536273373,gpcid:9716606042536273373,mid:576462491410856152,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVDzbjG9CscYy_8vmDLrTHhIiL99-v7fACzkmWcxWFOtvuZrcwdX52cyg8QEf-lAEMjlnHjSDdzj-Km6kep5YaPQMcqeYAWcQP8gNFeC4"
+        },
+        {
+          "seller": "Calmedi Medical Supplies",
+          "title": "Bauerfeind GenuTrain Knee Support",
+          "price_text": "$200.00",
+          "price": 200.0,
+          "rating": 3.7,
+          "reviews": 1300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:7160293872362060431,productid:8496893343239301360,headlineOfferDocid:5216770474593705033,imageDocid:13883144965659472781,rds:PC_9716606042536273373|PROD_PC_9716606042536273373,gpcid:9716606042536273373,mid:576462491410856152,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVDzbjG9CscYy_8vmDLrTHhIiL99-v7fACzkmWcxWFOtvuZrcwdX52cyg8QEf-lAEMjlnHjSDdzj-Km6kep5YaPQMcqeYAWcQP8gNFeC4"
+        },
+        {
+          "seller": "Calmedi Medical Supplies",
+          "title": "Bauerfeind GenuTrain Knee Support",
+          "price_text": "$200.00",
+          "price": 200.0,
+          "rating": 3.7,
+          "reviews": 1300,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:7160293872362060431,productid:8496893343239301360,headlineOfferDocid:7046087560068736626,imageDocid:13883144965659472781,rds:PC_9716606042536273373|PROD_PC_9716606042536273373,gpcid:9716606042536273373,mid:576462491410856152,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVDzbjG9CscYy_8vmDLrTHhIiL99-v7fACzkmWcxWFOtvuZrcwdX52cyg8QEf-lAEMjlnHjSDdzj-Km6kep5YaPQMcqeYAWcQP8gNFeC4"
+        },
+        {
+          "seller": "WellBefore",
+          "title": "NEENCA Professional Knee Brace For Knee Pain Hinged Knee Support With Patented X-Strap Fix",
+          "price_text": "$201.81",
+          "price": 201.81,
+          "rating": 5.0,
+          "reviews": 339,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:15715253326126914197,productid:17328159349374851388,headlineOfferDocid:6837721272127344845,imageDocid:17785141167418095803,rds:PC_15096091675735550175|PROD_PC_15096091675735550175,gpcid:15096091675735550175,mid:576462886236460966,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8YpNo1gOK8zNGwhOurAF-KoQwTx4KQgwTeUtYGNAIUeO7wTkXrFCNbQh_nSynLoFeEeUif9V8s57O3wdaXMbz-N59kBnvhAVYOLwFATWyCTzsKhwhmE0Y9A"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "currency": "€",
+      "status": "blocked",
+      "why": "Decathlon sells it at 14,99 €",
+      "results": 40,
+      "distinct_sellers": 19,
+      "chains_present": [
+        "Decathlon",
+        "Intersport Wawrok Berlin Mall",
+        "dm-drogerie markt"
+      ],
+      "marketplaces_present": [
+        "Amazon.de - Amazon.de-Seller",
+        "eBay - lanseel",
+        "eBay DE"
+      ],
+      "cheapest": 4.99,
+      "typical": 35.69,
+      "most_reviewed": {
+        "seller": "PharmaMarket EU",
+        "title": "Bauerfeind GenuTrain Kniebandage",
+        "reviews": 1420,
+        "price_text": "65,92 €"
+      },
+      "top_rows": [
+        {
+          "seller": "PharmaMarket EU",
+          "title": "Bauerfeind GenuTrain Kniebandage",
+          "price_text": "65,92 €",
+          "price": 65.92,
+          "rating": 4.8,
+          "reviews": 1420,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:2214582009314174227,productid:17312138074180006891,headlineOfferDocid:10797289067987353704,imageDocid:15671711836145435527,rds:PC_9716606042536273373|PROD_PC_9716606042536273373,gpcid:9716606042536273373,mid:576462491410856152,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTtO8DbZ9y7Hs_6fNq8F6jZJYrl9dw0uRywZz8296JNW_7TKTumizVL5eQyTKACUhcW23LE1rsPRkh-SpGgbQc3fT8i7eObduEF0t-DsTY13IAnTz0QEa7p"
+        },
+        {
+          "seller": "Decathlon",
+          "title": "Decathlon Kniebandage mit seitlicher Verstärkung rechts/links Decathlon Größe",
+          "price_text": "14,99 €",
+          "price": 14.99,
+          "rating": 4.6,
+          "reviews": 656,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:14140723949086822274,productid:77577663495154935,headlineOfferDocid:14502084396135752288,imageDocid:14873598754080209786,rds:PC_17247579046944039663|PROD_PC_17247579046944039663,gpcid:17247579046944039663,mid:576462892661450104,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtZCGkVFIhqx89OHWh4pBjWpz02ml_d2Twpx_nB5tMg7pqzCbWGeARwDubT2Pr_nxGhQ6FfdCQo1jo28sYiTq9REYrMtznSI9NEnTvMc6nOeYXMjvjkH6qEiCo"
+        },
+        {
+          "seller": "PassaHockey DE",
+          "title": "Kniebandage McDavid 429 M",
+          "price_text": "97,95 €",
+          "price": 97.95,
+          "rating": 4.6,
+          "reviews": 286,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:12448002232511686788,productid:12896990969121080886,headlineOfferDocid:285653933838568278,imageDocid:9855273666737915130,rds:PC_17192289865386974778|PROD_PC_17192289865386974778,gpcid:17192289865386974778,mid:576462447639969012,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3F5zNy7gZ64XQYkSS5K1Wb3N8yH-fyeabx7614ygFfzqVB0CofuoLXL3U2XH-llBNj3cjumA91a38NegglAVnxzSH4c_vKkfXjw2PAzybX5Z38Wv9rudrWg"
+        },
+        {
+          "seller": "Decathlon",
+          "title": "Decathlon Kniebandage rechts/links Decathlon Größe",
+          "price_text": "9,99 €",
+          "price": 9.99,
+          "rating": 4.5,
+          "reviews": 270,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:13394813661502683653,productid:1316834004326111932,headlineOfferDocid:14272704505190354755,imageDocid:3853594319343689766,rds:PC_2345400764552606817|PROD_PC_2345400764552606817,gpcid:2345400764552606817,mid:576462563306231676,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDNptx3lhvQflIWKgTls0wp1QeteIXZMNkhgw8H0MK25tLKWUFaMkAj-rdR-MMhY7anyK0k2E-ij236RpZ8rczmtc3aaxcHomqS_nj1y_I4rzFXOrlPJOWlhBS"
+        },
+        {
+          "seller": "Decathlon",
+          "title": "Decathlon Kniebandage mit Riemen rechts/links",
+          "price_text": "9,99 €",
+          "price": 9.99,
+          "rating": 4.5,
+          "reviews": 157,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:14202309078283512490,productid:15010183570552515405,headlineOfferDocid:14565677569247118639,imageDocid:930502204834934208,rds:PC_16175863574845255699|PROD_PC_16175863574845255699,gpcid:16175863574845255699,mid:576462810788048759,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUNGcbRzskCw73bUvUOMqdCJJG4719BUTPQdgZbPueetBxs6uG5CCq-HSm0aMc-ooX-lE8fsiNn2HJM8aG0HfDznxSHTgEzIQ4yfmHtczp2f1e8jsB-yaLKg"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "McDavid Bandage NRG Brace",
+          "price_text": "79,99 €",
+          "price": 79.99,
+          "rating": 4.4,
+          "reviews": 90,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:15435864366508499038,productid:16394755248598999141,headlineOfferDocid:6770679841763110045,imageDocid:3665762299500748894,rds:PC_9949213335911501742|PROD_PC_9949213335911501742,gpcid:9949213335911501742,mid:576462782992046728,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxwRXhPoNRZGJ1XElawa-aCk1-800fyiB8MvdV3Zv7aVdVGbUcFOVaomtDoCyOsU01K4PBiBCJjfxG2Sui3OM_nAOdWNSWQsgbPDxf0L_tPAK-LFpKhs8l"
+        },
+        {
+          "seller": "dm-drogerie markt",
+          "title": "Mivolis Kniegelenk-Bandage M",
+          "price_text": "6,45 €",
+          "price": 6.45,
+          "rating": 4.4,
+          "reviews": 82,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:9927672702058824618,productid:5578294911362277215,headlineOfferDocid:10822496648056831223,imageDocid:3664407858804136032,rds:PC_4441748036088929561|PROD_PC_4441748036088929561,gpcid:4441748036088929561,mid:576462914491853722,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTLMxl1qUutI-O0Nzi46Aro3-dSa0H7s5xFF0CcrI-OLW7LWviTn1zR3iaPv3_3-Mb6zOzNqIqEuNUK7k_o-2CaV8ZiptNnNeIUxE28SX9I8xbveowtbKSH"
+        },
+        {
+          "seller": "Rehavibe",
+          "title": "Kniebandage Thuasne Genu-GO Silistab",
+          "price_text": "26,99 €",
+          "price": 26.99,
+          "rating": 4.5,
+          "reviews": 63,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:8064871142670375768,productid:14644234189057296752,headlineOfferDocid:6574402877053345967,imageDocid:9016097279853842664,rds:PC_18416698930683453410|PROD_PC_18416698930683453410,gpcid:15835179364008285847,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRj9UchtFphvVOnyzaNQ24O0kcqDBRXT7h3RVZgzYdG7VsXPa2KSQIqo6msRTUuwhLhNbH8hX-AZrS11w_VwBIQKp-I-7ZMMbejYZo61Q5Ipv_DYQ-YR1ymTg"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Decathlon",
+          "title": "Decathlon Kniebandage mit seitlicher Verstärkung rechts/links Decathlon Größe",
+          "price_text": "14,99 €",
+          "price": 14.99,
+          "rating": 4.6,
+          "reviews": 656,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:14140723949086822274,productid:77577663495154935,headlineOfferDocid:14502084396135752288,imageDocid:14873598754080209786,rds:PC_17247579046944039663|PROD_PC_17247579046944039663,gpcid:17247579046944039663,mid:576462892661450104,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtZCGkVFIhqx89OHWh4pBjWpz02ml_d2Twpx_nB5tMg7pqzCbWGeARwDubT2Pr_nxGhQ6FfdCQo1jo28sYiTq9REYrMtznSI9NEnTvMc6nOeYXMjvjkH6qEiCo"
+        },
+        {
+          "seller": "dm-drogerie markt",
+          "title": "Mivolis Kniegelenk-Bandage M",
+          "price_text": "6,45 €",
+          "price": 6.45,
+          "rating": 4.4,
+          "reviews": 82,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:9927672702058824618,productid:5578294911362277215,headlineOfferDocid:10822496648056831223,imageDocid:3664407858804136032,rds:PC_4441748036088929561|PROD_PC_4441748036088929561,gpcid:4441748036088929561,mid:576462914491853722,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTLMxl1qUutI-O0Nzi46Aro3-dSa0H7s5xFF0CcrI-OLW7LWviTn1zR3iaPv3_3-Mb6zOzNqIqEuNUK7k_o-2CaV8ZiptNnNeIUxE28SX9I8xbveowtbKSH"
+        },
+        {
+          "seller": "Decathlon",
+          "title": "Decathlon Kniebandage rechts/links Stufe 3 Decathlon Größe",
+          "price_text": "44,99 €",
+          "price": 44.99,
+          "rating": 4.6,
+          "reviews": 45,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:3844182730256839154,productid:4091884198377920880,headlineOfferDocid:13506992328672729765,imageDocid:3586363402820457377,rds:PC_314306404738729822|PROD_PC_314306404738729822,gpcid:314306404738729822,mid:576462892656518781,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSdOszKv1x7346YQQiM-X9KhmjcIGXgZk69whMDKrfdVSFZQLuOokrNygm1iUitZJMxxNufa54dsbsoLdmx4iitKU1OFn58T58kdx8xEqlOK_72mwur16ZsRqQ"
+        },
+        {
+          "seller": "Decathlon",
+          "title": "Decathlon Kniebandage mit Riemen rechts/links",
+          "price_text": "9,99 €",
+          "price": 9.99,
+          "rating": 4.5,
+          "reviews": 157,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:14202309078283512490,productid:15010183570552515405,headlineOfferDocid:14565677569247118639,imageDocid:930502204834934208,rds:PC_16175863574845255699|PROD_PC_16175863574845255699,gpcid:16175863574845255699,mid:576462810788048759,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUNGcbRzskCw73bUvUOMqdCJJG4719BUTPQdgZbPueetBxs6uG5CCq-HSm0aMc-ooX-lE8fsiNn2HJM8aG0HfDznxSHTgEzIQ4yfmHtczp2f1e8jsB-yaLKg"
+        },
+        {
+          "seller": "Decathlon",
+          "title": "Decathlon Kniebandage rechts/links Decathlon Größe",
+          "price_text": "9,99 €",
+          "price": 9.99,
+          "rating": 4.5,
+          "reviews": 270,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:13394813661502683653,productid:1316834004326111932,headlineOfferDocid:14272704505190354755,imageDocid:3853594319343689766,rds:PC_2345400764552606817|PROD_PC_2345400764552606817,gpcid:2345400764552606817,mid:576462563306231676,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDNptx3lhvQflIWKgTls0wp1QeteIXZMNkhgw8H0MK25tLKWUFaMkAj-rdR-MMhY7anyK0k2E-ij236RpZ8rczmtc3aaxcHomqS_nj1y_I4rzFXOrlPJOWlhBS"
+        },
+        {
+          "seller": "Intersport Wawrok Berlin Mall",
+          "title": "Select Elastische Kniebandage mit Polster",
+          "price_text": "39,99 €",
+          "price": 39.99,
+          "rating": 4.9,
+          "reviews": 23,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:1213600305535153238,productid:16083728717370190653,headlineOfferDocid:6986202786406541307,imageDocid:10308811060284447068,rds:PC_15612240503589201181|PROD_PC_15612240503589201181,gpcid:15612240503589201181,mid:576462434806869160,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRz3U7HFGeWLJ9_4nOBiGY6duFnnjpkVtZ0BnsNquUledZu7Y2W-tbobSEXS5xBsjwIldypohUPb76bSRBStylwZsBOtStFcZGVOL53C7YifXeYPCr37YRY"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "currency": "NZ$",
+      "status": "blocked",
+      "why": "The Warehouse sells it at $19.99",
+      "results": 40,
+      "distinct_sellers": 20,
+      "chains_present": [
+        "Rebel Sport",
+        "The Warehouse"
+      ],
+      "marketplaces_present": [
+        "Amazon AU - Amazon.com.au-Seller",
+        "Dick Smith NZ",
+        "The Warehouse - Marketplace"
+      ],
+      "cheapest": 14.99,
+      "typical": 120.0,
+      "most_reviewed": {
+        "seller": "Bays Health Pharmacy",
+        "title": "Futuro Comfort Knee Support with Stabilisers Medium",
+        "reviews": 1400,
+        "price_text": "$62.20"
+      },
+      "top_rows": [
+        {
+          "seller": "Bays Health Pharmacy",
+          "title": "Futuro Comfort Knee Support with Stabilisers Medium",
+          "price_text": "$62.20",
+          "price": 62.2,
+          "rating": 4.8,
+          "reviews": 1400,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:9428627072801865222,productid:11284627174902165424,headlineOfferDocid:2088623072959914850,imageDocid:6720032546990399855,rds:PC_2390137203659055370|PROD_PC_2390137203659055370,gpcid:2390137203659055370,mid:576462820743124224,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQvda8ZOHz5SlwX7ZJUzAkQQIm1rM8JnYtYSNhYJ4MgKqESDanuo2M8BmJqCsCd3Zct6xuiErR1epEOIeGfdWk3_Sfb1fXuOb5YownUZGQ"
+        },
+        {
+          "seller": "Boyd Motorcycles",
+          "title": "Mobius X8 Knee Brace X8 Knee Brace Grey Mobius",
+          "price_text": "$1,059.00",
+          "price": 1059.0,
+          "rating": 4.7,
+          "reviews": 353,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:16806709854736513830,productid:17827990896159337964,headlineOfferDocid:7866578087417360525,imageDocid:8700977822880372393,rds:PC_5623223886627141665|PROD_PC_5623223886627141665,gpcid:5623223886627141665,mid:576462809947581599,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdhDQpJqHhcuVpUHMfT5cv8WlLaSUqjC6h-AVo7OpInPAZcbP0-8i0m1jlxQ4naUn86HW_BfeNBMMVKVwH0yd2-IwMcEPt0yxu57c2_URMgF__HpgVC3i8LQ"
+        },
+        {
+          "seller": "Rebel Sport",
+          "title": "McDavid 425 Knee Ligament Support S",
+          "price_text": "$134.99",
+          "price": 134.99,
+          "rating": 4.6,
+          "reviews": 307,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:17191755995357667426,productid:8661157324264586389,headlineOfferDocid:10029808670396047250,imageDocid:17751898968598421473,rds:PC_15381078675270971267|PROD_PC_15381078675270971267,gpcid:15381078675270971267,mid:576462745849611521,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSwL_voWMuGxNmvTK4iAakJRVeFMjoCK2JDzoeZhedHSRZdS6SgAam-Q2IG4U2gpBwrory4hg9alWtYiJQs6MKIvLakqlU8gPV8OVBee7RE"
+        },
+        {
+          "seller": "Allied Medical",
+          "title": "Neoprene Wraparound Hinged Knee Support",
+          "price_text": "$110.00",
+          "price": 110.0,
+          "rating": 4.5,
+          "reviews": 87,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:14225047830548932551,productid:11404720044369190597,headlineOfferDocid:10296373985574730894,imageDocid:4283674773000087328,rds:PC_265110344986101641|PROD_PC_265110344986101641,gpcid:265110344986101641,mid:576462333930987546,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcST_KRy_KCpSk2Wwqw4fruK_xOABG3JufXB11SVkGr3MQghpdPDYOvK_wZ66VlOxoAyPrFdODGLy9BtLkAvWooTF8419UvxR50oh7r1Zrk"
+        },
+        {
+          "seller": "Allied Medical",
+          "title": "Best Ossur Wraparound Hinged Knee Support in New Zealand | Allied Medical X-Large",
+          "price_text": "$110.00",
+          "price": 110.0,
+          "rating": 4.5,
+          "reviews": 77,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=productid:70696517047265690,headlineOfferDocid:70696517047265690,imageDocid:4283674773000087328,rds:PC_4177965423477350283|PROD_PC_4177965423477350283,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcST_KRy_KCpSk2Wwqw4fruK_xOABG3JufXB11SVkGr3MQghpdPDYOvK_wZ66VlOxoAyPrFdODGLy9BtLkAvWooTF8419UvxR50oh7r1Zrk"
+        },
+        {
+          "seller": "Allied Medical",
+          "title": "Ossur Formfit Pro Knee OA Sleeve for Osteoarthritis",
+          "price_text": "$432.00",
+          "price": 432.0,
+          "rating": 4.5,
+          "reviews": 50,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:5977692097194407528,productid:10409776265708583028,headlineOfferDocid:9200505679724738210,imageDocid:9273206418203594094,rds:PC_150064016378962525|PROD_PC_150064016378962525,gpcid:150064016378962525,mid:576462677572584799,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRaPw6nvcFFEVxD0x7GvQSUMYTl-e5c9VUG2xCC3zwmcvEaxY9P63KZcEkT4i4ykQ-FMtAmBg5mQlnXL7w_WFTo7iEJT1tm3bqo2SYlM_XpHoGk3Mm5vuU3"
+        },
+        {
+          "seller": "proactivehealthcare.co.nz",
+          "title": "Mueller Triaxial Hinged Knee Support",
+          "price_text": "$120.00",
+          "price": 120.0,
+          "rating": 3.8,
+          "reviews": 31,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=productid:17039171626201038352,headlineOfferDocid:17039171626201038352,imageDocid:6718292254886326006,rds:PC_14694870653111974819|PROD_PC_14694870653111974819,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQkaHl_xVrk6bLiSAWX_j4qCdGEYljtHhzP0WZCZMExPLk1R5pnCB3i9SbP6SQz4tadS60jck0VfSlk622l6qjKBQlv65f0eq9Unzg7gCjeKQCKA8f_4_wdFg"
+        },
+        {
+          "seller": "Bauerfeind New Zealand",
+          "title": "Bauerfeind Softec Genu Knee Support",
+          "price_text": "$1,791.95",
+          "price": 1791.95,
+          "rating": 4.5,
+          "reviews": 18,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:11040662858130523665,productid:4779881005791382397,headlineOfferDocid:18010638087145434208,imageDocid:11553721209864331678,rds:PC_3390869598337467249|PROD_PC_3390869598337467249,gpcid:3390869598337467249,mid:576462666035506906,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMlhbZsorEDaSu6klPCKWvL02nrxYVFsqhIzinsYaZSOq-3LYTYtE3OGbOzg9LxbHzUnbH305vyfUz555oHFQq68Z_ss1-TvgDuKh8njDaQHJBeefZCo2Q"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Rebel Sport",
+          "title": "McDavid 425 Knee Ligament Support S",
+          "price_text": "$134.99",
+          "price": 134.99,
+          "rating": 4.6,
+          "reviews": 307,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:17191755995357667426,productid:8661157324264586389,headlineOfferDocid:10029808670396047250,imageDocid:17751898968598421473,rds:PC_15381078675270971267|PROD_PC_15381078675270971267,gpcid:15381078675270971267,mid:576462745849611521,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSwL_voWMuGxNmvTK4iAakJRVeFMjoCK2JDzoeZhedHSRZdS6SgAam-Q2IG4U2gpBwrory4hg9alWtYiJQs6MKIvLakqlU8gPV8OVBee7RE"
+        },
+        {
+          "seller": "The Warehouse",
+          "title": "Fila Adjustable Knee Support",
+          "price_text": "$19.99",
+          "price": 19.99,
+          "rating": 1.8,
+          "reviews": 6,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:11760481589417980129,productid:16914117559665834704,headlineOfferDocid:9169698204910699537,imageDocid:1985185458785410421,rds:PC_6839709532124986774|PROD_PC_6839709532124986774,gpcid:6839709532124986774,mid:576462790418158252,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-pplT_gs9MUx5D2JDWQ6KpsRZ4z6W3-ofaamhYvb9qKfcm2CyLE6Umwj4hP50mvhDKQ-nU9XwwLvw7yOP6CgpcBAQmlB5Shbn7rXYcrZwXt-7z3omBoTz"
+        },
+        {
+          "seller": "Rebel Sport",
+          "title": "Thermoskin Adjustable Sport Knee Stabiliser",
+          "price_text": "$59.99",
+          "price": 59.99,
+          "rating": 4.7,
+          "reviews": 10,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:18097732914958450893,productid:5232108756671657771,headlineOfferDocid:6636306674013999561,imageDocid:8416568783601197310,rds:PC_2856007443849099719|PROD_PC_2856007443849099719,gpcid:2856007443849099719,mid:576462783236762473,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhullQNkM1UOrCKB2pxU-SI7JjZXurkKSE5YKkefPLx3DqYp2aa8u9g7Jco7F2QUcXwmkFY0l-3WdIv3jhFVqqFio8NVTVZontBby3l0pfzZu_YHORkIS1"
+        },
+        {
+          "seller": "The Warehouse",
+          "title": "Fila Adjustable Patella Knee Strap",
+          "price_text": "$19.99",
+          "price": 19.99,
+          "rating": 3.8,
+          "reviews": 5,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:7333302319412759912,productid:12416307233522089946,headlineOfferDocid:3489558965610926462,imageDocid:1439308298130174142,rds:PC_10824670531199408606|PROD_PC_10824670531199408606,gpcid:10824670531199408606,mid:576462745744312263,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRB39qqn_CcgJo-XwBszP5NdiVK1tBXQCa6XqYVuUORUb1baeNYmQXhqE6qLqTpk7wggYrWFPGZXR5LWnAIxQPJn0LGd0I4emRsUV5dNH-CRHIiV3JZ4yLk"
+        },
+        {
+          "seller": "Rebel Sport",
+          "title": "Nike Pro Closed Patella Knee Sleeve 3.0",
+          "price_text": "$64.99",
+          "price": 64.99,
+          "rating": 4.3,
+          "reviews": 9,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=dial knee brace&prds=catalogid:2239980470079477895,productid:17182404913641917464,headlineOfferDocid:4503865718411873306,imageDocid:14220188434710909186,rds:PC_6899523004193463984|PROD_PC_6899523004193463984,gpcid:6899523004193463984,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4QXSBhq1SHfsoeF9zfL3lzX1yihraZxZ6xFs8XTzivfkCMlIQEvVpm-m4ibjn6U3kGuyAiQcghnWArrT27D5kFgmqXZqnt18Xc6cQlv5OE2qZr0yoaGV8kA"
+        }
+      ],
+      "thin_market": false
+    }
+  ]
+}

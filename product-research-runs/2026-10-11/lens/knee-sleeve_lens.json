@@ -1,0 +1,316 @@
+{
+ "slug": "knee-sleeve",
+ "same": [
+  0,
+  1,
+  2,
+  5,
+  6,
+  7,
+  13,
+  14,
+  27,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56
+ ],
+ "brand_price": 89.99,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "au",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 134.98,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [],
+   "picture_matches": 0
+  },
+  {
+   "cc": "us",
+   "status": "blocked",
+   "why": "The same object is sold by Walmart at $18",
+   "prices": {
+    "brand": 89.99,
+    "cheapest_copy": 18.0,
+    "typical_copy": 32.0,
+    "cheapest_real_copy": 18.0,
+    "priced_copies": 6
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Walmart",
+     "title": "PeakFlex Knee Brace, Micro-Adjust Dial, Adjustable ...",
+     "link": "https://www.walmart.com/ip/PeakFlex-Knee-Brace-Micro-Adjust-Dial-Adjustable-Compression-Knee-Support-Brace-Men-Women-Breathable-Anti-Slip-Knee-Stabilizer-Running-Workout-Hiking/20798118991",
+     "price_text": "$18",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_00.jpg"
+    },
+    {
+     "source": "Walmart",
+     "title": "PeakFlex Knee Sleeve with Dial Fit System & Dual Side ...",
+     "link": "https://www.walmart.com/ip/PeakFlex-Knee-Sleeve-Dial-Fit-System-Dual-Side-Stabilizers-Adjustable-Compression-Knee-Support-Men-Women-Breathable-Non-Slip-Knee-Brace-Running-Baske/20551951796?classType=VARIANT",
+     "price_text": "$35",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_01.jpg"
+    },
+    {
+     "source": "Walmart",
+     "title": "Adjustable Knee Brace with Micro-Adjustment Dial ...",
+     "link": "https://www.walmart.com/ip/Adjustable-Knee-Brace-Micro-Adjustment-Dial-Compression-Knee-Sleeve-Running-Workout-Daily-Support-Breathable-Non-Slip-Knee-Stabilizer-Men-Women/20554473244",
+     "price_text": "$32",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_02.jpg"
+    },
+    {
+     "source": "Homeszy",
+     "title": "Compression Knee Sleeve for Women & Men – Homeszy",
+     "link": "https://homeszy.com/products/knee-sleeve",
+     "price_text": "$30",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_05.jpg"
+    },
+    {
+     "source": "Mobilitee™",
+     "title": "Mobilitee™ - Smart Knee Brace",
+     "link": "https://mobilitee.co/products/smart-knee",
+     "price_text": "$60",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_06.jpg"
+    },
+    {
+     "source": "Stycove",
+     "title": "Sports Knee Support Brace – Stycove",
+     "link": "https://stycove.com/products/sports-knee-support-brace",
+     "price_text": "$32",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_07.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: NEENCA Adjustable Knee Brace, Compression Knee ...",
+     "link": "https://www.amazon.com/clp/B0DZCMRTG2",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_27.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: PeakFlex Knee Sleeve, Adjustable Knee Brace with ...",
+     "link": "https://www.amazon.com/clp/B0H6LX2FPQ",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_30.jpg"
+    },
+    {
+     "source": "eBay",
+     "title": "Braces Knee | eBay",
+     "link": "https://www.ebay.com/shop/braces-knee?_nkw=braces+knee",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_37.jpg"
+    },
+    {
+     "source": "eBay",
+     "title": "Knee Support | eBay",
+     "link": "https://www.ebay.com/shop/knee-support?_nkw=knee+support",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_39.jpg"
+    },
+    {
+     "source": "Temu",
+     "title": "leg braces sold on Temu United States",
+     "link": "https://www.temu.com/leg-braces-5020045560734-s.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_40.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Futuro Sport Knee Support, Adjustable - 1 Each",
+     "link": "https://www.amazon.com/clp/B00Y26MP2O",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_42.jpg"
+    },
+    {
+     "source": "Walmart",
+     "title": "Kneevo Knee Brace, Adjustable Dial Knee Support with Strap ...",
+     "link": "https://www.walmart.com/ip/Kneevo-Knee-Brace-Adjustable-Dial-Knee-Support-Strap-System-Compression-Knee-Stabilizer-Patella-Gel-Pad-Side-Stabilizers-Breathable-Sports-Knee-Sleev/20447912902",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_43.jpg"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "uk",
+   "status": "crowded",
+   "why": "Temu: on Temu or Shein. 5 other copies",
+   "prices": {
+    "brand": 67.49,
+    "cheapest_copy": 15.99,
+    "typical_copy": 27.0,
+    "cheapest_real_copy": null,
+    "priced_copies": 2
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "kneexfit.com",
+     "title": "KneeXFIT Knee Brace – Dial-Adjust Compression Support",
+     "link": "https://kneexfit.com/en-gb/products/knee",
+     "price_text": "£27",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_13.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Temu",
+     "title": "adjustable knob knee sleeve men women breathable knee - Temu ...",
+     "link": "https://www.temu.com/cy-en/adjustable-knob-knee-sleeve-for-men-women-breathable-knee-compression-sleeve-for-hiking-running-workout-sports--knee-sleeve-g-607268494006821.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_35.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Adjustable Knee Brace Support with Knob, Compression Knee ...",
+     "link": "https://www.amazon.co.uk/Adjustable-Support-Compression-Stabilizers-Activities/dp/B0GZZV4884",
+     "price_text": "£15.99",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_44.jpg",
+     "looked_up": true,
+     "reviews": 1,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 1 reviews"
+    },
+    {
+     "source": "eBay UK",
+     "title": "Knee, Wrist Wraps for sale | eBay UK",
+     "link": "https://www.ebay.co.uk/b/bn_7030347980",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_46.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Temu",
+     "title": "knee brace with side stabilizers sold on Temu United States",
+     "link": "https://www.temu.com/knee-brace-with-side-stabilizers-5050294290662-s.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_49.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    },
+    {
+     "source": "eBay UK",
+     "title": "pro sport knee support products for sale | eBay UK",
+     "link": "https://www.ebay.co.uk/b/bn_7024950945",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_50.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "nz",
+   "status": "crowded",
+   "why": "Temu: on Temu or Shein. 3 other copies",
+   "prices": {
+    "brand": 151.18,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "The Warehouse",
+     "title": "Knee Brace with Dial Adjustment System and Spring Support ...",
+     "link": "https://www.thewarehouse.co.nz/p/knee-brace-with-dial-adjustment-system-and-spring-support-strips-white/MM6517-7781082759264-1M.html",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_29.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Temu",
+     "title": "adjustable knob knee sleeve men women breathable knee - Temu ...",
+     "link": "https://www.temu.com/cy-en/adjustable-knob-knee-sleeve-for-men-women-breathable-knee-compression-sleeve-for-hiking-running-workout-sports--knee-sleeve-g-607268494006821.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_35.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    },
+    {
+     "source": "Temu",
+     "title": "knee braces sold on Temu United States",
+     "link": "https://www.temu.com/knee-braces-5020153387574-s.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_54.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    },
+    {
+     "source": "Temu",
+     "title": "knee support new adjustable dial style knee brace joint ...",
+     "link": "https://www.temu.com/qa/1-pair-adjustable-micro-dial-compression-knee-brace-patella-support-for-gym-g-605517707639960.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_55.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    }
+   ],
+   "picture_matches": 60
+  }
+ ]
+}

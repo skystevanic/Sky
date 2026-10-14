@@ -1,0 +1,691 @@
+{
+ "slug": "knee-sleeve-30635",
+ "phrase": "knee sleeve",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22knee%20sleeve%22",
+ "ads_loaded": 250,
+ "capped": true,
+ "stopped_by": "stopped at 250 ads (there are more)",
+ "n_advertisers": 44,
+ "advertisers_with_3_plus_ads": 12,
+ "biggest_advertiser_share": 0.31,
+ "brands_new_in_last_2_months": 17,
+ "brands_advertising_3_plus_months": 18,
+ "ads_started_last_2_months": 75,
+ "ads_older_than_6_months": 20,
+ "pattern": "crowded",
+ "plain": "At least 44 brands advertise it; 18 have kept ads running 3+ months, 17 are new in the last two months. We stopped counting at 250 ads, so the real numbers are higher. Of the 10 biggest shops we could date, 5 are over a year old and 1 opened in the last four months.",
+ "months": {
+  "2019-04": 1,
+  "2025-05": 1,
+  "2025-10": 4,
+  "2025-11": 2,
+  "2026-01": 1,
+  "2026-02": 1,
+  "2026-03": 2,
+  "2026-04": 8,
+  "2026-05": 30,
+  "2026-06": 23,
+  "2026-07": 44,
+  "2026-08": 58,
+  "2026-09": 60,
+  "2026-10": 15
+ },
+ "brand_months": {
+  "2019-04": 1,
+  "2025-05": 1,
+  "2025-10": 3,
+  "2025-11": 1,
+  "2026-03": 2,
+  "2026-04": 1,
+  "2026-05": 1,
+  "2026-06": 4,
+  "2026-07": 8,
+  "2026-08": 9,
+  "2026-09": 10,
+  "2026-10": 3
+ },
+ "top_advertisers": [
+  {
+   "name": "Onecompress",
+   "pages": 7,
+   "page_names": [
+    "Onecompress",
+    "One Compress",
+    "The Modern",
+    "Pure Living Digest",
+    "Clinic Discussions: Injuries, Relief & More",
+    "Reddit Relief: Stories, Discussions & More"
+   ],
+   "ads": 77,
+   "oldest_live_ad": "2026-04-06",
+   "page_likes": 15487,
+   "headline": "Put An End To Knee Pain For Good!",
+   "shop": "onecompress.com",
+   "product_page": "https://www.onecompress.com/products/bambookneesleeve",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100708424964575",
+   "shop_open_since": "2021-03-30"
+  },
+  {
+   "name": "PeakFlex",
+   "pages": 2,
+   "page_names": [
+    "PeakFlex",
+    "Beschwerdelos"
+   ],
+   "ads": 35,
+   "oldest_live_ad": "2026-06-06",
+   "page_likes": 7166,
+   "headline": "Knee pain or osteoarthritis?",
+   "shop": "trypeakflex.com",
+   "product_page": "https://www.trypeakflex.com/products/peakflex-knee-sleeve",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=240268212509741",
+   "shop_open_since": "2026-04-20"
+  },
+  {
+   "name": "Koprez",
+   "pages": 1,
+   "page_names": [
+    "Koprez"
+   ],
+   "ads": 31,
+   "oldest_live_ad": "2026-06-19",
+   "page_likes": 136515,
+   "headline": "Chronic Knee Pain Isn't Inflammation. It's Starvation.",
+   "shop": "offers.koprez.com",
+   "product_page": "https://offers.koprez.com/10-reasons-sc",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104789644587334",
+   "shop_open_since": null
+  },
+  {
+   "name": "Baitique",
+   "pages": 1,
+   "page_names": [
+    "Baitique"
+   ],
+   "ads": 25,
+   "oldest_live_ad": "2025-11-28",
+   "page_likes": 2405,
+   "headline": "وجع الركبة عم بوقف حياتك؟ 😩🔥",
+   "shop": "baitiquejo.com",
+   "product_page": "https://www.baitiquejo.com/products/knee-sleeve",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=321364494396869",
+   "shop_open_since": "2025-11-26"
+  },
+  {
+   "name": "Old Bones Therapy",
+   "pages": 1,
+   "page_names": [
+    "Old Bones Therapy"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-08-05",
+   "page_likes": 24151,
+   "headline": "{{product.name}}",
+   "shop": "oldbonestherapy.com",
+   "product_page": "https://oldbonestherapy.com/products/compression-knee-brace",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=142124902891888",
+   "shop_open_since": "2016-08-04"
+  },
+  {
+   "name": "Essential Health Finds",
+   "pages": 3,
+   "page_names": [
+    "Essential Health Finds",
+    "The Heart Health Project ",
+    "Ashley Mccullough"
+   ],
+   "ads": 8,
+   "oldest_live_ad": "2026-08-25",
+   "page_likes": 22371,
+   "headline": "Support stamina and heart health everyday",
+   "shop": "track.tryrosabella.com",
+   "product_page": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=218077708066307",
+   "shop_open_since": null
+  },
+  {
+   "name": "ReabTec",
+   "pages": 1,
+   "page_names": [
+    "ReabTec"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-07-26",
+   "page_likes": 4019,
+   "headline": "Knee Sleeve Loved by 56,000 Athletes",
+   "shop": "reabtec.com",
+   "product_page": "https://reabtec.com/products/knitec-v2-compression-sleeves",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=169248679597816",
+   "shop_open_since": "2023-10-21"
+  },
+  {
+   "name": "Anaconda Fightwear",
+   "pages": 2,
+   "page_names": [
+    "Anaconda Fightwear",
+    "Anaconda Performance"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2025-10-14",
+   "page_likes": 519,
+   "headline": "Recovery and performance! Anaconda, second to none 🐍 💯 \n\n#training #mma #muaythai #jiujits",
+   "shop": "anacondafightwear.co",
+   "product_page": "https://anacondafightwear.co/products/anacondakneebrace",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=114966660419611",
+   "shop_open_since": "2020-12-01"
+  },
+  {
+   "name": "Priya K",
+   "pages": 1,
+   "page_names": [
+    "Priya K"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-08-07",
+   "page_likes": 191,
+   "headline": "Read This If YouHave  Bone on Bone Knee Problem☝️",
+   "shop": "restep.in",
+   "product_page": "https://www.restep.in/products/premium-bamboo-knee-sleeve",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1147507741774939",
+   "shop_open_since": "2025-12-04"
+  },
+  {
+   "name": "Tredvik USA",
+   "pages": 1,
+   "page_names": [
+    "Tredvik USA"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-26",
+   "page_likes": 638,
+   "headline": "Limited Time Offer",
+   "shop": "tredvik.com",
+   "product_page": "https://tredvik.com/pages/knee-pain-solutions",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1385519174636339",
+   "shop_open_since": "2026-09-14"
+  },
+  {
+   "name": "Incrediwear",
+   "pages": 1,
+   "page_names": [
+    "Incrediwear"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-08-24",
+   "page_likes": 47262,
+   "headline": "Novak Djokovic Signature Sleeve",
+   "shop": "incrediwear.com",
+   "product_page": "https://incrediwear.com/products/incrediwear-x-novak-knee-sleeve",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=153974751335740",
+   "shop_open_since": "2016-02-12"
+  },
+  {
+   "name": "Arthritis Support Community",
+   "pages": 1,
+   "page_names": [
+    "Arthritis Support Community"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 912,
+   "headline": "Feel Like Yourself Again",
+   "shop": "auniva.co",
+   "product_page": "https://auniva.co/products/amla-11",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1030751040121197",
+   "shop_open_since": "2026-01-31"
+  },
+  {
+   "name": "SPORT DEPOT",
+   "pages": 1,
+   "page_names": [
+    "SPORT DEPOT"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-12",
+   "page_likes": 336787,
+   "headline": "{{product.name}}",
+   "shop": "sportdepot.bg",
+   "product_page": "http://sportdepot.bg/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=192761971423",
+   "shop_open_since": null
+  },
+  {
+   "name": "OS1st",
+   "pages": 1,
+   "page_names": [
+    "OS1st"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-01",
+   "page_likes": 14778,
+   "headline": "{{product.name}}",
+   "shop": "os1st.com",
+   "product_page": "https://os1st.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=776465492473202",
+   "shop_open_since": null
+  },
+  {
+   "name": "Jumplete",
+   "pages": 1,
+   "page_names": [
+    "Jumplete"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2025-10-30",
+   "page_likes": 2269,
+   "headline": "{{product.name}}",
+   "shop": "jumplete.ca",
+   "product_page": "https://jumplete.ca/products/jumpers-knee",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109224505011268",
+   "shop_open_since": null
+  },
+  {
+   "name": "Healluna",
+   "pages": 1,
+   "page_names": [
+    "Healluna"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-18",
+   "page_likes": 2764,
+   "headline": "Stop wasting money on knee sleeves.\nThey’re not real support…\nthey’re just tight socks wit",
+   "shop": "healluna.com",
+   "product_page": "https://healluna.com/products/healluna-kinetic-support-system-with-smartdial%E2%84%A2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1000191826501146",
+   "shop_open_since": null
+  },
+  {
+   "name": "Instalimb India : 3D Printed Prosthetics",
+   "pages": 1,
+   "page_names": [
+    "Instalimb India : 3D Printed Prosthetics"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-11",
+   "page_likes": 22343,
+   "headline": "Book Your Call Today",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102664165865204",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mega Deals UAE",
+   "pages": 1,
+   "page_names": [
+    "Mega Deals UAE"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-05-19",
+   "page_likes": 14890,
+   "headline": "AED 39/- Free Delivery - Limited Time Offer",
+   "shop": "store.megadeals.ae",
+   "product_page": "https://www.store.megadeals.ae/p-326",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=113425128297988",
+   "shop_open_since": null
+  },
+  {
+   "name": "ميجا صفقات السعودية",
+   "pages": 1,
+   "page_names": [
+    "ميجا صفقات السعودية"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-03-10",
+   "page_likes": 27347,
+   "headline": "{{product.name}}",
+   "shop": "megadealksa.com",
+   "product_page": "https://www.megadealksa.com/en/p-110",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=118680034558610",
+   "shop_open_since": null
+  },
+  {
+   "name": "Monster_fit",
+   "pages": 1,
+   "page_names": [
+    "Monster_fit"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2019-04-18",
+   "page_likes": 128,
+   "headline": "Monster_fit",
+   "shop": "m.smartstore.naver.com",
+   "product_page": "http://m.smartstore.naver.com/monsterfit",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=2094312620814336",
+   "shop_open_since": null
+  },
+  {
+   "name": "Copper Fit",
+   "pages": 1,
+   "page_names": [
+    "Copper Fit"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-29",
+   "page_likes": 87777,
+   "headline": "{{product.name}}",
+   "shop": "copperfitusa.com",
+   "product_page": "https://copperfitusa.com/collections/all",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=486635808144628",
+   "shop_open_since": null
+  },
+  {
+   "name": "ميجا صفقات عمان",
+   "pages": 1,
+   "page_names": [
+    "ميجا صفقات عمان"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-20",
+   "page_likes": 8019,
+   "headline": "{{product.name}}",
+   "shop": "megadealsom.com",
+   "product_page": "https://www.megadealsom.com/en/p-146",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=156734494185623",
+   "shop_open_since": null
+  },
+  {
+   "name": "Eywa Medical",
+   "pages": 1,
+   "page_names": [
+    "Eywa Medical"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-03",
+   "page_likes": 654,
+   "headline": "{{product.name}}",
+   "shop": "incrediwear.it",
+   "product_page": "https://incrediwear.it/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=964132540113693",
+   "shop_open_since": null
+  },
+  {
+   "name": "KEFL",
+   "pages": 1,
+   "page_names": [
+    "KEFL"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-02",
+   "page_likes": 2082,
+   "headline": "{{product.name}}",
+   "shop": "kefl.co.uk",
+   "product_page": "http://kefl.co.uk/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100808669192011",
+   "shop_open_since": null
+  },
+  {
+   "name": "Serenithy",
+   "pages": 1,
+   "page_names": [
+    "Serenithy"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-10-22",
+   "page_likes": 1260,
+   "headline": "{{product.name}}",
+   "shop": "serenithy.com",
+   "product_page": "https://serenithy.com/pages/wellnee-blog",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=110626051289421",
+   "shop_open_since": null
+  },
+  {
+   "name": "7 Pro Fit",
+   "pages": 1,
+   "page_names": [
+    "7 Pro Fit"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-06",
+   "page_likes": 17830,
+   "headline": "7 Pro Fit",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1961412357436772",
+   "shop_open_since": null
+  },
+  {
+   "name": "Neenca office store",
+   "pages": 1,
+   "page_names": [
+    "Neenca office store"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-18",
+   "page_likes": 1148,
+   "headline": "{{product.name}}",
+   "shop": "shopee.ph",
+   "product_page": "https://shopee.ph/shop/812399429",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102639652914711",
+   "shop_open_since": null
+  },
+  {
+   "name": "Cellumove-",
+   "pages": 1,
+   "page_names": [
+    "Cellumove-"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-19",
+   "page_likes": 10172,
+   "headline": "Give Your Knees the Support They Deserve 💙",
+   "shop": "cellumove.com",
+   "product_page": "https://cellumove.com/products/cellumove-knee-support-leggings",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=793058670548351",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mark Bell - Sling Shot",
+   "pages": 1,
+   "page_names": [
+    "Mark Bell - Sling Shot"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-13",
+   "page_likes": 34824,
+   "headline": "Enjoy 10% Off Your First Order",
+   "shop": "markbellslingshot.com",
+   "product_page": "https://markbellslingshot.com/pages/strong-elbow-sleeves-perfected-for-lifting",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=470529439668298",
+   "shop_open_since": null
+  },
+  {
+   "name": "2POOD Performance",
+   "pages": 1,
+   "page_names": [
+    "2POOD Performance"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-03",
+   "page_likes": 113289,
+   "headline": "The Only Bag You'll Reach For",
+   "shop": "2pood.com",
+   "product_page": "https://2pood.com/products/performance-backpack-4-0-lavender",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=288203734118",
+   "shop_open_since": null
+  },
+  {
+   "name": "Uplift",
+   "pages": 1,
+   "page_names": [
+    "Uplift"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-23",
+   "page_likes": 10363,
+   "headline": "{{product.name}}",
+   "shop": "theuplift.store",
+   "product_page": "https://www.theuplift.store/products/uplift%E2%84%A2-sweat-belt",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106399638869616",
+   "shop_open_since": null
+  },
+  {
+   "name": "Anaconda Performance",
+   "pages": 1,
+   "page_names": [
+    "Anaconda Performance"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-03-20",
+   "page_likes": 33179,
+   "headline": "Stabilizes The Knee",
+   "shop": "anacondaperformance.com",
+   "product_page": "https://anacondaperformance.com/pages/5-reasons-runners-choose-anaconda-active-brace",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=114966660419611",
+   "shop_open_since": null
+  },
+  {
+   "name": "GO Sleeves",
+   "pages": 1,
+   "page_names": [
+    "GO Sleeves"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-06",
+   "page_likes": 2679,
+   "headline": "{{product.name}}",
+   "shop": "gokinesiologysleeves.com",
+   "product_page": "https://gokinesiologysleeves.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=112805413435994",
+   "shop_open_since": null
+  },
+  {
+   "name": "Lumov Health ",
+   "pages": 1,
+   "page_names": [
+    "Lumov Health "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-02",
+   "page_likes": 49,
+   "headline": "Use MYFIRST10 for 10% OFF on your first order",
+   "shop": "lumovhealth.com",
+   "product_page": "https://lumovhealth.com/products/knee-brace-ultima",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=954717401047799",
+   "shop_open_since": null
+  },
+  {
+   "name": "PureCompress",
+   "pages": 1,
+   "page_names": [
+    "PureCompress"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-17",
+   "page_likes": 1236,
+   "headline": "Finally, a knee sleeve that fits bigger legs comfortably.",
+   "shop": "store.purecompress.com",
+   "product_page": "https://store.purecompress.com/bigger-legs-lp-offer2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105304635888007",
+   "shop_open_since": null
+  },
+  {
+   "name": "FITS Indonesia",
+   "pages": 1,
+   "page_names": [
+    "FITS Indonesia"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-06",
+   "page_likes": 1026,
+   "headline": "Lutut sering nyeri pas jalan, naik tangga, atau olahraga?\nJangan dipaksa — itu tanda lutut",
+   "shop": "fitsers.com",
+   "product_page": "https://www.fitsers.com/landing/premium-knee-sleeves-fits",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=629600796893682",
+   "shop_open_since": null
+  },
+  {
+   "name": "TenvicGear",
+   "pages": 1,
+   "page_names": [
+    "TenvicGear"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-13",
+   "page_likes": 596,
+   "headline": "3 reasons no knee sleeve compares to the AirPad",
+   "shop": "tenvicgear.com",
+   "product_page": "https://www.tenvicgear.com/products/tenvic-airpad™-pickleball",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=651568448035814",
+   "shop_open_since": null
+  },
+  {
+   "name": "Berserker Performance Gear",
+   "pages": 1,
+   "page_names": [
+    "Berserker Performance Gear"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-31",
+   "page_likes": 13,
+   "headline": "No se estira",
+   "shop": "berserkerperformancegear.cl",
+   "product_page": "https://berserkerperformancegear.cl/products/rodillera-compresiva-full-black",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1171573226019854",
+   "shop_open_since": null
+  },
+  {
+   "name": "Kawa Store - Happiness for everyone",
+   "pages": 1,
+   "page_names": [
+    "Kawa Store - Happiness for everyone"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-15",
+   "page_likes": 11078,
+   "headline": "[Only Today] FLASH SALE 50% + FREE SHIPPING >>>",
+   "shop": "shinichi.store",
+   "product_page": "https://www.shinichi.store/knee_brace_pad",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=229225574486773",
+   "shop_open_since": null
+  },
+  {
+   "name": "BASE Compression",
+   "pages": 1,
+   "page_names": [
+    "BASE Compression"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-20",
+   "page_likes": 2639,
+   "headline": "2 FOR $75 | Pro-Grade Compression Knee Sleeves",
+   "shop": "basecompression.com",
+   "product_page": "https://basecompression.com/collections/knee-guards/products/base-compression-knee-sleeve-black",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1332147090272349",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "onecompress.com": 77,
+  "trypeakflex.com": 35,
+  "offers.koprez.com": 31,
+  "baitiquejo.com": 25,
+  "oldbonestherapy.com": 9,
+  "track.tryrosabella.com": 8,
+  "reabtec.com": 6,
+  "anacondafightwear.co": 5,
+  "restep.in": 5,
+  "tredvik.com": 4,
+  "incrediwear.com": 4,
+  "auniva.co": 4,
+  "sportdepot.bg": 2,
+  "os1st.com": 2,
+  "jumplete.ca": 2,
+  "healluna.com": 2,
+  "store.megadeals.ae": 1,
+  "megadealksa.com": 1,
+  "m.smartstore.naver.com": 1,
+  "copperfitusa.com": 1,
+  "megadealsom.com": 1,
+  "incrediwear.it": 1,
+  "kefl.co.uk": 1,
+  "serenithy.com": 1,
+  "api.whatsapp.com": 1
+ },
+ "cost_usd": 1.15,
+ "shops_checked": 10,
+ "shops_over_a_year_old": 5,
+ "shops_under_4_months_old": 1
+}

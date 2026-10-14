@@ -1,0 +1,55 @@
+{
+ "slug": "knee-sleeve",
+ "brand_price": 89.99,
+ "brand_currency": "usd",
+ "words": "dial knee brace",
+ "aliexpress_search": "https://www.aliexpress.com/w/wholesale-dial-knee-brace.html",
+ "listings": [
+  {
+   "n": 1,
+   "site": "AliExpress",
+   "order_type": "single orders",
+   "title": "Knee Brace Adjustable Elastic Knob-type Wraps Protection ...",
+   "link": "https://www.aliexpress.com/item/1005012242079609.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_31.jpg",
+   "price_seen_in_search": null,
+   "price": null,
+   "currency": null,
+   "shipping": null,
+   "note": null
+  },
+  {
+   "n": 2,
+   "site": "AliExpress",
+   "order_type": "single orders",
+   "title": "Kuangmi Smart Knee Brace with Gel Pad for Exercise",
+   "link": "https://www.aliexpress.com/item/1005009022876212.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_33.jpg",
+   "price_seen_in_search": "£35*",
+   "price": null,
+   "currency": null,
+   "shipping": null,
+   "note": null
+  },
+  {
+   "n": 3,
+   "site": "AliExpress",
+   "order_type": "single orders",
+   "title": "Kuangmi Knee Brace Stabilizer with Adjustable Mechanical ...",
+   "link": "https://www.aliexpress.com/item/1005009489399765.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/knee-sleeve_thumb_41.jpg",
+   "price_seen_in_search": null,
+   "price": null,
+   "currency": null,
+   "shipping": null,
+   "note": null
+  }
+ ],
+ "summary": {
+  "found": 3,
+  "priced": 0,
+  "brand_price_usd": 89.99,
+  "status": "found, price not read",
+  "plain": "3 supplier listings found. Open them to read the price: supplier sites do not show prices to search engines."
+ }
+}
