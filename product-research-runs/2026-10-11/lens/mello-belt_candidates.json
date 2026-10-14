@@ -1,0 +1,1451 @@
+{
+ "slug": "mello-belt",
+ "image_url": "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260822_151547_f84418e0-594f-45da-b12f-af28eca4dca0.png?v=1787412740",
+ "brand_domain": "mellorelief.com",
+ "matches_per_country": {
+  "au": 60,
+  "us": 60,
+  "uk": 60,
+  "ca": 60,
+  "de": 0,
+  "nz": 60
+ },
+ "candidates": [
+  {
+   "source": "Amazon",
+   "title": "Electric Period Cramp Massager Vibrating Heating Belt for ...",
+   "link": "https://www.amazon.com.au/Electric-Massager-Vibrating-Menstrual-Abdominal/dp/B0BZPHMN1L",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQi6b-2yeqNAp3gq1B7yn1AHUntL3M-jIww58fPYv7hj5tRwE7",
+   "price_text": "A$40*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$40*"
+    }
+   },
+   "priced": true,
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_00.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Buy Rechargeable Waist Massage Belt, Infrared Menstrual ...",
+   "link": "https://www.dicksmith.com.au/da/buy/next-buy-au-rechargeable-waist-massage-belt-infrared-menstrual-heating-pad-3-level-temperature-control-5v-6w-10208114573600-51249502257440/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmxIb_yNDdzW0BiUDOJgDcvM5lvC923tGzd7j-z1NjdZiRpIg4",
+   "price_text": "A$104*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$104*"
+    }
+   },
+   "priced": true,
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_01.jpg"
+  },
+  {
+   "source": "eBay Australia",
+   "title": "Electric Heating Menstrual Pad Waist Belt Massager For ...",
+   "link": "https://www.ebay.com.au/itm/187235375270",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgDV5rvLnDKJpw9v189OHZyXha0yOIBPX_-vvyTNa1QP03T3zY",
+   "price_text": "A$22*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$22*"
+    }
+   },
+   "priced": true,
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_02.jpg"
+  },
+  {
+   "source": "eBay Australia",
+   "title": "Electric Heating Pad For Cramps Menstrual Women Period ...",
+   "link": "https://www.ebay.com.au/itm/187217698632",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8HKH5CGr-Io-GA1FC4d2QubraeMTHh-Hnb80w47gjtXIAURUK",
+   "price_text": "A$22*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$22*"
+    }
+   },
+   "priced": true,
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_03.jpg"
+  },
+  {
+   "source": "Bunnings",
+   "title": "Catzon Menstrual Heating Pad 6 Heat & 6 Massage Modes Cramps ...",
+   "link": "https://www.bunnings.com.au/catzon-menstrual-heating-pad-6-heat-6-massage-modes-cramps-relief-pink_p1163643",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxnA3oLr3TyJc7DREK2ORdT03OsRMIVu4uWYYkOXP_NAIwnFUd",
+   "price_text": "A$47*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$47*"
+    }
+   },
+   "priced": true,
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_04.jpg"
+  },
+  {
+   "source": "eBay Australia",
+   "title": "Heating Pad Massage Period Pain Relieve Therapy Menstrual ...",
+   "link": "https://www.ebay.com.au/itm/234968966197",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3lJA5JT71tFJHCtw_B5vbtfOZRqJrgrSoi8chb1mGxhkNUprx",
+   "price_text": "A$21*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$21*"
+    }
+   },
+   "priced": true,
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_05.jpg"
+  },
+  {
+   "source": "Kogan.com",
+   "title": "Buy Portable Menstrual Heating Pad Warm Palace Waist Belt ...",
+   "link": "https://www.kogan.com/au/buy/ozkartaustralia-portable-menstrual-heating-pad-warm-palace-waist-belt-period-cramp-massager-menstrual-heating-pad-dysmenorrhea-relieving-belt-hls-mm-3346/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWsHZxLGuDiqqlO4Y1TRazRG-sa4h17ywetaeopLk0klXMeWJ4",
+   "price_text": "A$45*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$45*"
+    }
+   },
+   "priced": true,
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_06.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Heating Pad for Menstrual Cramps Relief, Portable Cordless ...",
+   "link": "https://www.walmart.com/ip/Heating-Pad-Menstrual-Cramps-Relief-Portable-Cordless-Heating-Pad-Stomach-Back-Belly-3-Speed-Temperature-Adjustment-4-Speed-Massage-Modes-Women-Girl/16225854789",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD40xoSu8ZHaOSqTaAXbuOJKFgr-sr9eTNRR7pXB4c219DHArc",
+   "price_text": "$17*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$17*"
+    }
+   },
+   "priced": true,
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_07.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "💖 Ultimate Menstrual Pain Relief: Smart Heating & Vibrating ...",
+   "link": "https://www.ebay.com/itm/306643773292",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf8fbf5w_mxlJHs4V-dzGBBFJqC5QMi7qMNINaEgGTgogetJC5",
+   "price_text": "$20*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$20*"
+    }
+   },
+   "priced": true,
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_08.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Daisy Heating Pad for Back and Cramps, 24\"x12\" Pink Soft ...",
+   "link": "https://www.walmart.com/ip/Daisy-Heating-Pad-Back-Period-Cramps-Neck-Shoulder-Pain-Relief-Portable-Electric-Heat-Pads-Pink-Stuff-Gifts-Ideas-Funny-Useful-Self-Care-Christmas-Bi/19358574597",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbhfEv8yD0D85Z1T0Yl9POhrdupOiyY2a90Lhh9_IUgtCPeEyV",
+   "price_text": "$27*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$27*"
+    }
+   },
+   "priced": true,
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_09.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "Rechargeable Warm Palace Belt Portable Cordless Menstrual ...",
+   "link": "https://www.alibaba.com/product-detail/Rechargeable-Warm-Palace-Belt-Portable-Cordless_1600823282310.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFB-z-xMjoEGKizJtEZ9iiwzQL2TBq8-N_Rx32YJTahpKB15D_",
+   "price_text": "$104*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$104*"
+    }
+   },
+   "priced": true,
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_10.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "For Women Period Menstrual Heating & Vibrating Pad Belt ...",
+   "link": "https://www.ebay.com/itm/336295562176",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEFqdCDZdmQ6OByKmFxze_n29tGRgEP2v1uWlDMcTr4nBAre-R",
+   "price_text": "$16*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$16*"
+    }
+   },
+   "priced": true,
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_11.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Heat Pad Period Pain Relief, Rechargeable Portable Menstrual ...",
+   "link": "https://www.amazon.co.uk/Rechargeable-Portable-Menstrual-Cordless-Vibration/dp/B0DD35LQ6F",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDag5oZ0H3xA_11oNYWoOfx_rWmn6bKEKD2IUkgn9_XzTMWnnT",
+   "price_text": "£14*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£14*"
+    }
+   },
+   "priced": true,
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_12.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Electric Period Cramp Massager Vibrating Heating Belt for ...",
+   "link": "https://www.amazon.co.uk/Electric-Massager-Vibrating-Menstrual-Abdominal/dp/B0BZPHMN1L",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQi6b-2yeqNAp3gq1B7yn1AHUntL3M-jIww58fPYv7hj5tRwE7",
+   "price_text": "£21*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£21*"
+    }
+   },
+   "priced": true,
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_13.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Heat Pad for Period Pain Relief, Upgraded 6 Heat Massage ...",
+   "link": "https://www.amazon.co.uk/Portable-Cordless-Electric-Menstrual-Vibrating/dp/B0C1YG33PD",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVreQDc5G_2X2vsL501HGjvCukC2AKOmqKNniF_LXXUSLsa05u",
+   "price_text": "£25*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£25*"
+    }
+   },
+   "priced": true,
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_14.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "Heating Pad Massage Period Pain Relieve Therapy Menstrual ...",
+   "link": "https://www.ebay.co.uk/itm/365653154856",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSSQwvNkmpvHQmdqE07Dm1K0E0OMgbPVe2lNvbqUsQnW_DvAFf",
+   "price_text": "£12*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£12*"
+    }
+   },
+   "priced": true,
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_15.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Cordless Period Cramp Relief Massager Belt with 3 Speed & 3 ...",
+   "link": "https://www.amazon.co.uk/Cordless-Massager-Crampfree-Massage-Ultimate/dp/B0CQC2PQDQ",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0pZLMnPogrdOpIe-e90HIpzQ26yEeW7jcBQeuSiweHCAqp2aJ",
+   "price_text": "£45*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£45*"
+    }
+   },
+   "priced": true,
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_16.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Heating Pad for Period Cramps, Three-Speed Adjustment ...",
+   "link": "https://www.amazon.ca/Three-Speed-Adjustment，Portable-Cordless-Rechargeable-Menstrual/dp/B0DSC32W9Y",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRL6NDmyOt9ZqRhLCGfiz75YBOg-pF3IXtyR4BAkaq9TTBCUaw9",
+   "price_text": "CA$50*",
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": "CA$50*"
+    }
+   },
+   "priced": true,
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_17.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "Electric Period Cramp Massager Vibrating Heating Belt for ...",
+   "link": "https://www.bestbuy.ca/en-ca/product/electric-period-cramp-massager-vibrating-heating-belt-for-menstrual-waist-stomach-abdominal-waist-massage-tools/19399968",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpT_EJCby51X8ftF4UCxc6NrbXGsXb7rdY9FcuLbV7FkyB860m",
+   "price_text": "CA$39*",
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$39*"
+    }
+   },
+   "priced": true,
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_18.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Portable Cordless Heating Pad Belt Electric Vibrating Waist ...",
+   "link": "https://www.walmart.ca/en/ip/Portable-Cordless-Heating-Pad-Belt-Electric-Vibrating-Waist-Device-Menstrual-Cramps-Pelvic-Pain-Relief-Massager-Stomach-Belly-Uterus-Warming-3-Heat-L/0U2YNSUEDAFG",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvb_MoppMWlBfuipAm0ce8wWbdns2JkAsBAKBi9gHKJazbcS_p",
+   "price_text": "CA$24*",
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$24*"
+    }
+   },
+   "priced": true,
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_19.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Menstrual Heating Pad, Wearable 4 Speed Menstrual Heating ...",
+   "link": "https://www.amazon.ca/Menstrual-Heating-Wearable-Adjusted-Cramps/dp/B0C8BXKZXP",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWob4Fr6mI9_zZNUNVP0CK76ll0DWtpNQk3A8jvk_VniU_qF9N",
+   "price_text": "CA$16*",
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": "CA$16*"
+    }
+   },
+   "priced": true,
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_20.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Buy Electric Heating Pad Massager for Back Stomach Period ...",
+   "link": "https://www.dicksmith.co.nz/dn/buy/icb-electric-heating-pad-massager-for-back-stomach-period-and-cramps-and-pain-relief-pink-icba560/",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3yos0Ua3vnhVC033i-UY0oZAQFeUBZbQu2v7xPQe73gjYN72J",
+   "price_text": "NZ$55*",
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": "NZ$55*"
+    }
+   },
+   "priced": true,
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_21.jpg"
+  },
+  {
+   "source": "Neurelio",
+   "title": "Menstrual Heating Pad & Cramp Relief Belt - ComfortCycle",
+   "link": "https://neurelio.com/products/portable-menstrual-heating-pad",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjYMiXd5NDO17HmeZrs5GXEY-DYOLW7NBHwT-3e3V0lovDFWWM",
+   "price_text": "A$73*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$73*"
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": "$50*"
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$73*"
+    }
+   },
+   "priced": true,
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_22.jpg"
+  },
+  {
+   "source": "GoSupps.com",
+   "title": "Naroote Menstrual Heating Pillow 3 Heat Levels | GoSupps.com",
+   "link": "https://www.gosupps.com/menstruation-heating-pillows-portable-wireless-heating-pillows-menstrual-heating-pillows-with-3-heat-levels-and-3-vibration-massage-modes-rapidly-heated-abdominal-girdle-for-women.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMIer7NXtoVCzl-1FHePFebCQVXyqvDGIFGOBgyvPBmgA79SFA",
+   "price_text": "$75*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$75*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_23.jpg"
+  },
+  {
+   "source": "Knicked Australia",
+   "title": "Soothe & Go Instant Heat and massage | Period Pain Relief ...",
+   "link": "https://knicked.com.au/products/soothe-and-go-wearable-heat-massage-period-pain-relief",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7YohgvARbItW_oT3-a9npskXJ4loK22KZLht1eyFdn4EUEiXy",
+   "price_text": "A$36*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$36*"
+    }
+   },
+   "priced": true,
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_24.jpg"
+  },
+  {
+   "source": "Knick Knack Paddy Wack",
+   "title": "Electric Heating Pad Belt Period Pain Menstrual Therapy | KKPW",
+   "link": "https://kkpw.com.au/products/electric-heating-pad-belt-massage-period-pain-relieve-therapy-menstrual-cramp",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDm6JbLqajjYweaB9BkOQvHshdkWa9UYoeADOcLAnR-67bgP5",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$50*"
+    }
+   },
+   "priced": true,
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_25.jpg"
+  },
+  {
+   "source": "UpUpnAway",
+   "title": "Heating Massage Pad – UpUpnAway",
+   "link": "https://upupnaway.com.au/products/heating-massage-pad",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQur2y7iUUhP8230SIGIkZgGn6WiUq9YRQgzOigk6MnWP1Ezid5",
+   "price_text": "A$50*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$50*"
+    }
+   },
+   "priced": true,
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_26.jpg"
+  },
+  {
+   "source": "Chillnest",
+   "title": "Electric Heating Pad Massager – Chillnest",
+   "link": "https://chillnest.com.au/products/electric-heating-pad-massager-for-stomach-cramps-period-pain-relief",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7UxDSrun_GfP5C_shGNt9NxxvPmfY0gxtOnWOZ6wW69027Iu",
+   "price_text": "A$70*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$70*"
+    }
+   },
+   "priced": true,
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_27.jpg"
+  },
+  {
+   "source": "Elowra Beauty",
+   "title": "Menstrual Heat Belt – Elowra Beauty",
+   "link": "https://elowra.com.au/products/menstrual-heat-belt",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95U-2uc9AR1jlY3QDtUGHkPfrZRHdcI_AkJA44GbP_3Ybx9Jo",
+   "price_text": "A$70*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$70*"
+    }
+   },
+   "priced": true,
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_28.jpg"
+  },
+  {
+   "source": "Gilani Engineering",
+   "title": "Portable Wireless Heating Pad For Menstrual Period Cramps",
+   "link": "https://www.gilaniengineering.com.au/product/jesata-portable-cordless-wireless-heating-pad-for-menstrual-period-cramps/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgp7mCUctLja-T3VqShjamBBoVwgToeusWMJiiD0M3v-zN-lWI",
+   "price_text": "A$199*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$199*"
+    }
+   },
+   "priced": true,
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_29.jpg"
+  },
+  {
+   "source": "Caremax AU",
+   "title": "Massager and Electric Heating Pad for Period Cramps - Period ...",
+   "link": "https://www.caremax.com.au/massager-electric-heating-pad-for-stomach-cramps-period-pain-relief",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS55Jc_jrCH37YWz0n_oS0_MC4Adz4uISDLjM6cK599I_LHK3Nx",
+   "price_text": "A$62*",
+   "seen_in": {
+    "au": {
+     "kind": "not a shop",
+     "price_text": "A$62*"
+    }
+   },
+   "priced": true,
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_30.jpg"
+  },
+  {
+   "source": "Yoni Rescue",
+   "title": "Portable Cordless Menstrual Heat Pad, Period Pain Relief ...",
+   "link": "https://yonirescue.com/products/heating-pads",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCjLYBDXEwpGyISuFBTtFVp2tTYxGfqCLdYmkNMKBs7T7yKBxe",
+   "price_text": "$20*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$20*"
+    }
+   },
+   "priced": true,
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_31.jpg"
+  },
+  {
+   "source": "Calmcramps | Period Cramp Massager",
+   "title": "Cordless Menstrual Relief Heating Pad",
+   "link": "https://www.calmcramps.com/products/electric-period-cramp-massager-vibrating-heating-pad-belt-for-menstrual-colic-relief-pain-waist-abdominal-warm-palace-belt",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2lmriuBSEHex84S9dQw9BcnxwM2RrSk-neCXTzKydLXVYwKG",
+   "price_text": "$27*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$27*"
+    }
+   },
+   "priced": true,
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_32.jpg"
+  },
+  {
+   "source": "Maskura Store",
+   "title": "Menstrual Period Heating Pad - USB Heating Menstrual Heat ...",
+   "link": "https://www.maskura.co.uk/products/menstrual-period-heating-pad",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxpl6gNnwuxc3D_sIwZuvI_mJUQZka4Hev2VPSFVuIDqBssiir",
+   "price_text": "£16*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£16*"
+    }
+   },
+   "priced": true,
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_33.jpg"
+  },
+  {
+   "source": "Siyaco",
+   "title": "Best Electric Period Cramp Relief Heating Pad and Massager ...",
+   "link": "https://siyaco.co.uk/products/white-menstral-massager",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvt3w0I0UxVxugNW7Lezr9EDlEQiqeh-upP6U-lBZ8xSlizxTx",
+   "price_text": "£15*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£15*"
+    }
+   },
+   "priced": true,
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_34.jpg"
+  },
+  {
+   "source": "Gilani Mobility",
+   "title": "Portable Wireless Heating Pad for Menstrual Period Cramps",
+   "link": "https://gilanimobility.co.nz/product/jesata-portable-cordless-wireless-heating-pad-for-menstrual-period-cramps/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgp7mCUctLja-T3VqShjamBBoVwgToeusWMJiiD0M3v-zN-lWI",
+   "price_text": "NZ$349*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$349*"
+    }
+   },
+   "priced": true,
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_35.jpg"
+  },
+  {
+   "source": "Crimson Organic",
+   "title": "Period Pain Relief Heat Belt for Comfort On The Go – Crimson",
+   "link": "https://crimsonorganic.co.nz/products/wireless-menstrual-heating-pad-period-pain-relief-on-the-go",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqZp7ksOjQhzaQIz90F8Xj6CGoDIn55r24y-lBtarTrMwleOTb",
+   "price_text": "NZ$80*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$80*"
+    }
+   },
+   "priced": true,
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_36.jpg"
+  },
+  {
+   "source": "KUSHIE.",
+   "title": "KUSHIE. Menstrual & Period Pain Relief Belt",
+   "link": "https://kushie.org/products/kushie-relief-belt",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAhXLogPGxRQvZMApVsJOIpS9ouD2soroRJbkE8jD-9C070FUU",
+   "price_text": "NZ$73*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$73*"
+    }
+   },
+   "priced": true,
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_37.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Menstrual Relief Heating & Vibration Belt Electric Massager ...",
+   "link": "https://www.ebay.com/itm/326994101244",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR929XyRc2LIWrjTwnTgmJez58p5yYPwuKbAxGBFhZuodhGzmY",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$45*"
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_38.jpg"
+  },
+  {
+   "source": "Amazon.in",
+   "title": "Symvi Electric Cramp Relief Belt for Women | Rechargeable ...",
+   "link": "https://www.amazon.in/Symvi-Electric-Rechargeable-Portable-Menstrual/dp/B0GMXRRX18",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQh8o09qcQocIn_Ed7CiKywIRJqqCo0t1a9QKyMeNabfh0rU8Z6",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_39.jpg"
+  },
+  {
+   "source": "Ullwin (Shanghai) Industrial Co., Ltd",
+   "title": "Electric Heating Menstrual Warming Massage Belt with 4 Heat ...",
+   "link": "https://ullwin.en.made-in-china.com/product/ZTXpLUACZkhe/China-Electric-Heating-Menstrual-Warming-Massage-Belt-with-4-Heat-Levels-for-Women-and-Girl.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGn807sz1ObaRhrzA-flmYXozWd44uD56rPEnCPmMUcrB3DZeI",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_40.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "Abdomen Massager China Trade,Buy China Direct From Abdomen ...",
+   "link": "https://www.alibaba.com/countrysearch/CN/abdomen-massager.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4hwpK9ykL8Uq7xg0BcvJ9UdRXtOZV_Dmyp779GVmFODvImzH",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_41.jpg"
+  },
+  {
+   "source": "Amazon.in",
+   "title": "SHYAM DYNAMIC GROUPP Period Pain Relief Heating Belt ...",
+   "link": "https://www.amazon.in/Rechargeable-Electric-Menstrual-Adjustable-Portable/dp/B0GHJ9SC3C",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtE42JQFKWqatZNroV1o-zcD5SzpH-BLnIdIuA85vem2w-3TY",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_42.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Menstrual Heating Pad for Period Cramps – Portable Heating ...",
+   "link": "https://www.ebay.com/itm/365872676792",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH6bFT2QzMRhj18S9iDvFBJ_j-zl9y9dMkpyhB-6ZRJgYRW_dx",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$61*"
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_43.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Period Cramp Relief Massager & Heating Pad for ...",
+   "link": "https://www.amazon.com/clp/B0DDY1VJCD",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSq2qcj5lO4MLaw-7ZcUjOGI00BRRtlzZnxgBJ5yXEq1B9_4Uri",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_44.jpg"
+  },
+  {
+   "source": "Alibaba",
+   "title": "Warm Palace Portable Heating Belt for Women's Period Pain ...",
+   "link": "https://www.alibaba.com/product-detail/Warm-Palace-Belt-Portable-Heating-Pad_1601439627046.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhRhq6r9UcvbbIJeXWmaM0uuGfIzyNt6zHx5Du6W6beAcgBzkl",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_45.jpg"
+  },
+  {
+   "source": "AliExpress",
+   "title": "Smart Menstrual Heating Pad Warm Palace Belt with Vibrating ...",
+   "link": "https://www.aliexpress.com/item/1005009546244752.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-NOxcxwt51CWna-s1GUpFytY5bXhdjmEis2GPmHcVWP2XaQJ9",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_46.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "Travel Women Electrical Portable Waist Period Menstrual ...",
+   "link": "https://www.alibaba.com/product-detail/Travel-Women-Electrical-Portable-Waist-Period_1601023449037.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMotP3geceCGhqkzjUFEYxNb4yQn9ydrGfHIQ7SDmhdZVmu2tP",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_47.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "Portable Heating Pain Relief Belt for Menstrual Cramps",
+   "link": "https://www.alibaba.com/product-detail/ew-Electric-Abdomen-Waist-Massage-Heating_1601097756437.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcNXK18ZAgIT-EbIhjn6EtvoWQM-vFNFC3Z2mtPth8XJ9q4-tS",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_48.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: \"Cordless Period Cramp Relief Massager Belt with ...",
+   "link": "https://www.amazon.com/clp/B0CQC2PQDQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLMgjvgP-Rw6D8l5L4jjB4yG_S6Ft_4A4LQUhOoJByCjdV4SKy",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_49.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Electric Heating Menstrual Pad Waist Belt Massager For ...",
+   "link": "https://www.bigw.com.au/product/electric-heating-menstrual-pad-waist-belt-massager-for-period-pain-relief-cramps/p/9900990090",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xr-fzBj_L1x_3ZzLDTxB-MiG208OZ5a-C3wAgUaKRHY62wo4",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_50.jpg"
+  },
+  {
+   "source": "Kogan.com",
+   "title": "Buy Smart Massage Belt For Abdomen & Waist Electric & Warm ...",
+   "link": "https://www.kogan.com/au/buy/parallel-deals-smart-massage-belt-for-abdomen-waist-electric-warm-pink-4000mah-a2096543060dbt/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz5H2Q6ftC9VUez8th5TGcjE7qD6XDBQ4ZWZoFccQXk3H7t8rD",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 51,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_51.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Heating Pad for Period Cramps, Cordless ...",
+   "link": "https://www.amazon.com/clp/B0G3JQN44L",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8oEOefpF2c_zCcilkbZ_wKu3rrEK3iR645WcrRIyr3omf0gOH",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 52,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_52.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "BOSS Electric Heating Massager for Cramps, Cordless Period ...",
+   "link": "https://www.bestbuy.com/product/boss-electric-heating-massager-for-cramps-cordless-period-heating-pad-for-back-menstrual-belt/J39JZ8JSRX",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBCteyEDWMwSMDu3LuADVNUpRpNJEpBjkYXT93Ql4gIh5Z9t3R",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 53,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_53.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Heating Pad for Menstrual Cramps Relief Portable Cordless ...",
+   "link": "https://www.walmart.com/ip/Heating-Pad-for-Menstrual-Cramps-Relief-Portable-Cordless-Heating-Pad-for-Stomach-Back-Belly-Pink/14157769500",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl2CMJJ37Ns7ujAP7V4xDaD4_friElIn7vnF-liKMIsCjd76oS",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 54,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_54.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "2025 OEM Rechargeable Waist Belt - 5 Vibration Levels & 5 ...",
+   "link": "https://www.alibaba.com/product-detail/2025-OEM-Rechargeable-5-Level-Vibration_1601430244609.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP3a2FLvt4d1-j61p98WMcvntd1G1mYj1XXINRLO6pb3to2AZB",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 55,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_55.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Heating Pad Massage Period Pain Relieve Therapy Menstrual ...",
+   "link": "https://www.bigw.com.au/product/heating-pad-massage-period-pain-relieve-therapy-menstrual-cramp-electric-belt/p/9900216209",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQOtdToeScDZKiGUplpAgZEg8dCudhY0WlU-Rpj1NeDVXuZ40s",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 56,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_56.jpg"
+  },
+  {
+   "source": "Temu",
+   "title": "portable usb charging menstrual - Temu Australia",
+   "link": "https://www.temu.com/au/portable-usb-charging-menstrual--abdomen-and-waist-heating-massage-pad-electric--for-warm-waist-and-warm-abdomen-portable--vibration-massage-waist-belt-g-606270669051850.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRISJJJq8OBRfZOLOB5XLDnSVt3K1qBqsJQfXe1XcQ25V_1RkNV",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 57,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_57.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Menstrual Heating Pad Menstrual Cramp Relief Pains Massage ...",
+   "link": "https://www.bigw.com.au/product/menstrual-heating-pad-menstrual-cramp-relief-pains-massage-belt-warmer-period-pain-relief-heating-belt/p/9900934185",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsSOR1xjIdbGUqS8nDaVtONdFR2o_DKhHRH9N1lY5K2SgFLBe",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 58,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_58.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Portable Heating Pad Stomach Warmer Waist Warmers Winter ...",
+   "link": "https://www.bigw.com.au/product/portable-heating-pad-stomach-warmer-waist-warmers-winter-massager-heating-belly-warmer-with-digital-display-adjustable-vibration-pink/p/9904037049",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJBKWU5CjMas5ulA5NNZcwaRMmGNT_zXatBliijEKtMVTJRTfj",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 59,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_59.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "2025 Trendy Smart Digital Display Electric Corset Belt ...",
+   "link": "https://www.alibaba.com/product-detail/2025-Trendy-Smart-Digital-Display-Electric_1601545042169.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6oPRTDyPhixT0N3TbM6IXP4dmj0-w7wspquJ6FuHx11i2PILK",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 60,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_60.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: AWD Medical Cordless Heating Pad for Period ...",
+   "link": "https://www.amazon.com/clp/B0CJFZHJ22",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvymLjhhL5-B0rUpopeYy_kwUVuitj6BRVfHwThKUhL3qo1r3v",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 61,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_61.jpg"
+  },
+  {
+   "source": "Shein",
+   "title": "COSYGLOW Menstrual Heating Pad, Portable Cordless ...",
+   "link": "https://us.shein.com/COSYGLOW-Menstrual-Heating-Pad-Portable-Cordless-Heating-Pads-For-Cramps-Period-Cramp-Massager-With-6-Heat-Levels-And-6-Massage-Modes-White-p-37630340.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkT2qoXjvEG6eGbYVlQDQ-TJUWlliRnqUw6AKY1ynUvn9gLk3n",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 62,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_62.jpg"
+  },
+  {
+   "source": "AliExpress",
+   "title": "Electric Waist Massage Period Cramp Massager Vibrating ...",
+   "link": "https://www.aliexpress.com/item/1005008303340841.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD6zxJWMqTkFCY7NNzJnGQALr25uc4S-QH64qkc_sId-u59Eba",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 63,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_63.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Menstrual Pad Belt",
+   "link": "https://www.walmart.com/c/kp/menstrual-pad-belt",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgoMF99jtcb16Hd5uc4x9RKhQh9LAWINJYuFHzv81DrRKib_sV",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 64,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_64.jpg"
+  },
+  {
+   "source": "Shein",
+   "title": "COSYGLOW Menstrual Heating Pad, Portable Cordless Heating ...",
+   "link": "https://us.shein.com/COSYGLOW-Menstrual-Heating-Pad-Portable-Cordless-Heating-Pads-For-Cramps-Period-Cramp-Massager-With-6-Heat-Levels-And-6-Massage-Modes-White-p-37630340.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClpbaPoEyfdhCJWSBPvKEkQOVROLQvxdjNyq2W2XFF5G9YKdZ",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 65,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_65.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Portable Heating Pad for Period Cramps: 6 Heat ...",
+   "link": "https://www.amazon.com/clp/B0BTNH5NM3",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFGYT_s317vYpyniUYLgbQrtsPw5GXQUEM4WrRIuW1h3s6cRE_",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 66,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_66.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Period Heating Pad & Menstrual Cramp Massager - 3 Heat ...",
+   "link": "https://www.amazon.co.uk/Period-Heating-Menstrual-Cramp-Massager/dp/B0CD8SNB19",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWsC6vVA-1kEEnjYhKj9Hxf-RdKFKEVeTddLPNmezsJeEPOaIQ",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 67,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_67.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "Menstrual Heating Pad Rechargeable Waist Massage Belt Fast ...",
+   "link": "https://www.ebay.co.uk/itm/364033622371",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpUPw6bkwAt6xQJTeJDwOGUJH_3jFUPTPWN__9QdI2bW3M0Gfj",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 68,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_68.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "Menstrual Heating Pad Rechargeable Waist Massage Belt ...",
+   "link": "https://www.ebay.co.uk/itm/364033622371",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSDsz85-cvVUR4Qam1fFiM1goQf0V7OMxjqtw5b69vnU18czU",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 69,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_69.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Portable Electric Heating Massager for Cramps, Cordless ...",
+   "link": "https://www.walmart.ca/en/ip/Portable-Electric-Heating-Massager-Cramps-Cordless-Period-Pad-Back-Menstrual-Belt-3-Heat-Vibration-Modes-Gifts-Women-Girl-Girlfriend-Christmas-Stuffe/1I4RNQ8J6CCV",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXc0TqMsAI8fpOMpCoDrPAS6xO72Uq6jBCHHpX68UdNknBEw22",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 70,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_70.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Portable Electric Heating Pad for Cramps, Upgraded Cordless ...",
+   "link": "https://www.amazon.ca/Portable-Cordless-Electric-Menstrual-Vibrating/dp/B0C1YG33PD",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuc6s7eT9RfU0ATSdq1mF_v8mrGNsjgHV5nnm2mE67KqGgxiQ7",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 71,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_71.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Smart Heating And Vibration Massage Belt For Menstrual ...",
+   "link": "https://www.walmart.ca/en/ip/Smart-Heating-And-Vibration-Massage-Belt-For-Menstrual-Relief-Wireless-Charging-Adjustable-Portable-Warm-Care-For-Women-s-Health-And/6Q59GYOK48CI?classType=VARIANT&athbdg=L1400",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_cHHvSq0li88atmbXkerScrOIAQem6ShMBGzVj55f3_OAGU32",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 72,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_72.jpg"
+  },
+  {
+   "source": "Alibaba",
+   "title": "Portable 5-Speed Vibration Usb Warm Palace Belt Menstrual ...",
+   "link": "https://www.alibaba.com/product-detail/Portable-5-Speed-Vibration-Usb-Warm_1601439540840.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq9uiSO_T6KI2laTWW48YDU-s3a8DvZmBicVKeAkHW_9ij8pX1",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 73,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_73.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Heating Pad Massage Period Pain Relieve Therapy Menstrual ...",
+   "link": "https://www.ebay.ca/itm/154892848362",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0rfjvVDrMrMslLx8KinYiqsxXQUwd3Duf0O3r-LVCjlHLQ6ij",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 74,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_74.jpg"
+  },
+  {
+   "source": "Mighty Ape",
+   "title": "Buy Portable Menstrual Heating Pad Warm Palace Waist Belt ...",
+   "link": "https://www.mightyape.co.nz/mn/buy/ozkartaustralia-portable-menstrual-heating-pad-warm-palace-waist-belt-period-cramp-massager-menstrual-heating-pad-dysmenorrhea-relieving-belt-hls-mm-3346/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWsHZxLGuDiqqlO4Y1TRazRG-sa4h17ywetaeopLk0klXMeWJ4",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 75,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_75.jpg"
+  },
+  {
+   "source": "Amazon.ae",
+   "title": "Portable Cordless Heating Pad - Menstrual Heating Pad,Warm ...",
+   "link": "https://www.amazon.ae/Portable-Cordless-Heating-Pad-Menstrual/dp/B0B3X989GL",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGuYMk-qnGBH4U-E-NAL2LJ0CFz6yeCppToZXwhyysgJuVLvED",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 76,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_76.jpg"
+  },
+  {
+   "source": "Amazon.in",
+   "title": "Ross Menstrual Heating Belt for Period Pain Relief ...",
+   "link": "https://www.amazon.in/Ross-Menstrual-Heating-Period-Relief/dp/B0FQVGF532",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFjeRnLUI1fjMmxhfmv7VyG838to2ylVED1vJJB1oB-NwltsiV",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 77,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/mello-belt_thumb_77.jpg"
+  }
+ ]
+}

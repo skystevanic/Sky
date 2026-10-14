@@ -1084,6 +1084,85 @@
     "note": "The same black heated wrap with a strip of red lights across the nose."
    },
    "advertiser_takeaway": "\"Sinus relief\" is crowded: 45+ brands, 19 of them advertising for 3+ months, including pharmacy brand NeilMed. Nikaraa itself is a store that adds a new gadget almost every week, which suggests testing, not a proven product."
+  },
+  {
+   "slug": "mello-belt",
+   "name": "Cordless Period Heating Belt (Mello)",
+   "brand": "Mello",
+   "url": "https://www.mellorelief.com/products/mello-heat-massage-belt-us",
+   "category": "Women's health: heated massage belt",
+   "price": "£59.99",
+   "store_platform": "Shopify",
+   "store_launched": "2026-07",
+   "store_products": "8 products, period comfort",
+   "one_liner": "Demand is rising, but this is the generic pink \"warm palace belt\" sold by Walmart from US$17, Best Buy, BIG W, Temu and Shein. 110+ brands advertise for period cramps.",
+   "verdict": "Avoid",
+   "overall": 46,
+   "confidence": "High",
+   "scores": {
+    "saturated": 9,
+    "margin": 6,
+    "viral": 6,
+    "pain": 8,
+    "differentiation": 2
+   },
+   "why": [
+    "Walmart sells the same belt at US$17 and Best Buy at CA$39; it is also on Temu and Shein",
+    "At least 110 brands advertise for \"period cramps\", 64 of them new in the last two months",
+    "It is a heated electrical device with a health promise (endometriosis), which restricts ads"
+   ],
+   "risk": "Shoppers who find the US$17 version will ask for refunds, and a 100-day money-back promise makes that easy.",
+   "next": [
+    "Skip it. Strong demand, but too many sellers have the same belt"
+   ],
+   "best_region": "None. The one hidden market (New Zealand) is small.",
+   "snapshot": {
+    "icp": "Women 16-40 with painful periods or endometriosis",
+    "job": "Ease cramps with heat while staying mobile",
+    "cogs": "About £6-10 landed (estimate)",
+    "margin": "About 80% at £59.99 before ads and refunds (estimate)",
+    "claims": "Drug-free relief for period and endometriosis pain; 100-day money-back guarantee",
+    "demoable": "Yes: worn under clothes, at work or in bed"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Walmart (US$17) and Best Buy (CA$39) sell the same belt"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "On Temu, Shein and Amazon UK top results from £12"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "fail",
+     "why": "110+ brands advertise for \"period cramps\", 64 new in two months"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Heated electrical device with health claims about endometriosis"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on: the same belt is everywhere"
+   ],
+   "compare": {
+    "brand_photo": "img_2.jpg",
+    "match_number": 7,
+    "match_name": "Walmart (US$17)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same pink heated belt with a digital display, in other colours."
+   },
+   "advertiser_takeaway": "Very crowded: 110+ brands advertise for \"period cramps\", from supplements to belts, and 64 started in the last two months. Mello itself is a 3-month-old shop with 8 products."
   }
  ]
 }

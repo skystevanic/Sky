@@ -1,0 +1,418 @@
+{
+ "slug": "mello-belt-31809",
+ "phrase": "period pain",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22period%20pain%22",
+ "ads_loaded": 51,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 23,
+ "advertisers_with_3_plus_ads": 2,
+ "biggest_advertiser_share": 0.27,
+ "brands_new_in_last_2_months": 8,
+ "brands_advertising_3_plus_months": 11,
+ "ads_started_last_2_months": 17,
+ "ads_older_than_6_months": 7,
+ "pattern": "crowded",
+ "plain": "23 brands advertise it; 11 have kept ads running 3+ months, 8 are new in the last two months. Of the 8 biggest shops we could date, 5 are over a year old and 1 opened in the last four months.",
+ "months": {
+  "2025-05": 1,
+  "2025-11": 1,
+  "2025-12": 1,
+  "2026-02": 2,
+  "2026-04": 2,
+  "2026-05": 3,
+  "2026-06": 7,
+  "2026-07": 7,
+  "2026-08": 10,
+  "2026-09": 14,
+  "2026-10": 3
+ },
+ "brand_months": {
+  "2025-05": 1,
+  "2025-11": 1,
+  "2025-12": 1,
+  "2026-02": 1,
+  "2026-04": 1,
+  "2026-05": 2,
+  "2026-06": 3,
+  "2026-07": 2,
+  "2026-08": 5,
+  "2026-09": 4,
+  "2026-10": 2
+ },
+ "top_advertisers": [
+  {
+   "name": "Amrutam",
+   "pages": 2,
+   "page_names": [
+    "Amrutam",
+    "amrutampapa"
+   ],
+   "ads": 14,
+   "oldest_live_ad": "2026-05-14",
+   "page_likes": 1,
+   "headline": "The BEST answer will receive a gift of 625 gm jar absolutely free.\n\nTell us how Nari Sonda",
+   "shop": "amrutam.co.in",
+   "product_page": "https://amrutam.co.in/collections/health-care/products/nari-sondarya-malt",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=567467636713776",
+   "shop_open_since": "2022-06-15"
+  },
+  {
+   "name": "Myoovi",
+   "pages": 1,
+   "page_names": [
+    "Myoovi"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-06-02",
+   "page_likes": 3256,
+   "headline": "{{product.name}}",
+   "shop": "myoovi.co.uk",
+   "product_page": "https://myoovi.co.uk/products/myoovi-period-pain-relief-device-2-0",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109704564655011",
+   "shop_open_since": "2021-08-04"
+  },
+  {
+   "name": "Be Me",
+   "pages": 1,
+   "page_names": [
+    "Be Me"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2025-12-14",
+   "page_likes": 5053,
+   "headline": "Say Goodbye to Period Cramps – Anytime, Anywhere!",
+   "shop": "bemewoman.com",
+   "product_page": "https://www.bemewoman.com/products/be-me-cramp-comfort-heating-pad-and-massager",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107058654454953",
+   "shop_open_since": "2023-04-20"
+  },
+  {
+   "name": "Chandigarh Ayurved Centre",
+   "pages": 2,
+   "page_names": [
+    "Chandigarh Ayurved Centre",
+    "Seeds of Innocence"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-04-17",
+   "page_likes": 489133,
+   "headline": "✅ How to Relieve Period Pain Naturally\n\n👉 Tired of period pain every month? Discover natur",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=440950946019095",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ayumcure Herbs Private Limited",
+   "pages": 1,
+   "page_names": [
+    "Ayumcure Herbs Private Limited"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 864,
+   "headline": "{{product.name}}",
+   "shop": "ayumcure.in",
+   "product_page": "http://ayumcure.in/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1161908363675480",
+   "shop_open_since": "2026-08-22"
+  },
+  {
+   "name": "Ayumcure Herbs Private Limited",
+   "pages": 1,
+   "page_names": [
+    "Ayumcure Herbs Private Limited"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-21",
+   "page_likes": 864,
+   "headline": "Ayumcure She Care Juice",
+   "shop": "ayumcure.com",
+   "product_page": "https://ayumcure.com/products/she-care-ayurvedic-juice-pcos-pcod-period-pain-relief-only-for-women",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1161908363675480",
+   "shop_open_since": "2026-04-27"
+  },
+  {
+   "name": "Wild Dose",
+   "pages": 1,
+   "page_names": [
+    "Wild Dose"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-02-26",
+   "page_likes": 32792,
+   "headline": "{{product.name}}",
+   "shop": "wild-dose.com",
+   "product_page": "https://wild-dose.com/pages/a-dose-for-pms",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111153174402354",
+   "shop_open_since": "2021-11-12"
+  },
+  {
+   "name": "Vyom India Organics",
+   "pages": 1,
+   "page_names": [
+    "Vyom India Organics"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-10",
+   "page_likes": 769,
+   "headline": "Period Pain? Relief in One Roll. Get 15%OFF",
+   "shop": "vyomindiaorganics.com",
+   "product_page": "https://vyomindiaorganics.com/products/pain-relief-roll-on-period-cramps",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105340552582451",
+   "shop_open_since": "2025-12-23"
+  },
+  {
+   "name": "Rashi Chowdhary",
+   "pages": 1,
+   "page_names": [
+    "Rashi Chowdhary"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-26",
+   "page_likes": 105170,
+   "headline": "She lost 6 kgs.\n\nBut honestly, that's not the most impressive part of this transformation.",
+   "shop": "nutritioninsync.com",
+   "product_page": "https://nutritioninsync.com/one-program/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=129036483838221",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ace Blend",
+   "pages": 1,
+   "page_names": [
+    "Ace Blend"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-02",
+   "page_likes": 16882,
+   "headline": "Max Magnesium & Outshine Omega-3",
+   "shop": "aceblend.com",
+   "product_page": "https://aceblend.com/products/outshine-omega-3-max-magnesium-combo",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=361216754245455",
+   "shop_open_since": "2022-08-19"
+  },
+  {
+   "name": "Wockhardt Hospitals - Nagpur",
+   "pages": 1,
+   "page_names": [
+    "Wockhardt Hospitals - Nagpur"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-19",
+   "page_likes": 4744,
+   "headline": "Period pain isn't something you should ignore. ⚠️\n\nIf your cramps are severe, persistent, ",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111659905082753",
+   "shop_open_since": null
+  },
+  {
+   "name": "Panadol",
+   "pages": 1,
+   "page_names": [
+    "Panadol"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 2765570,
+   "headline": "Panadol 70 Years",
+   "shop": "panadol.com",
+   "product_page": "https://www.panadol.com/en-au/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=134422773300469",
+   "shop_open_since": null
+  },
+  {
+   "name": "Deep Heat East Africa",
+   "pages": 1,
+   "page_names": [
+    "Deep Heat East Africa"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-11-09",
+   "page_likes": 66939,
+   "headline": "💃 Some good news to the girlies! 💃\nDeep Heat Value Pack is now available at Naivas!\nGet 3’",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=471712466356234",
+   "shop_open_since": null
+  },
+  {
+   "name": "Gleneagles HealthCity Chennai",
+   "pages": 1,
+   "page_names": [
+    "Gleneagles HealthCity Chennai"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-21",
+   "page_likes": 73371,
+   "headline": "{{product.name}}",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=362646381016822",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mello",
+   "pages": 1,
+   "page_names": [
+    "Mello"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-01",
+   "page_likes": 107,
+   "headline": "Because you can't \"just get on with it\"",
+   "shop": "mellorelief.com",
+   "product_page": "https://www.mellorelief.com/products/mello-heat-massage-belt-drug-free-period-pain-relief",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1112389781965215",
+   "shop_open_since": null
+  },
+  {
+   "name": "Unocare Remedies",
+   "pages": 1,
+   "page_names": [
+    "Unocare Remedies"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-03",
+   "page_likes": 36,
+   "headline": "Say Goodbye to Period Pain 💗",
+   "shop": "unocare.in",
+   "product_page": "https://unocare.in/collection/all-products",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1088906187634346",
+   "shop_open_since": null
+  },
+  {
+   "name": "Baby And Mom Shop",
+   "pages": 1,
+   "page_names": [
+    "Baby And Mom Shop"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-24",
+   "page_likes": 10920,
+   "headline": "🌸 2 DAYS ONLY – MEGA DISCOUNT on Period Pain Relief Belt! 🔥💆‍♀️\nमहिनावारीको दुखाइ अझै पनि ",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=192733270597177",
+   "shop_open_since": null
+  },
+  {
+   "name": "Baby Care ",
+   "pages": 1,
+   "page_names": [
+    "Baby Care "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-11",
+   "page_likes": 2777,
+   "headline": "🌸Period Pain Relief Belt – Comfort & Care When You Need It Most🌸\nमहिनावारीको दुखाइ अब सहनु",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=385594961293951",
+   "shop_open_since": null
+  },
+  {
+   "name": "Tiny Protectors",
+   "pages": 1,
+   "page_names": [
+    "Tiny Protectors"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-19",
+   "page_likes": 6511,
+   "headline": "Maple the Heatable Plush",
+   "shop": "tinyprotectors.com",
+   "product_page": "https://www.tinyprotectors.com/products/maple-the-heatable-plushie",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106198461714040",
+   "shop_open_since": null
+  },
+  {
+   "name": "Buscopan PH",
+   "pages": 1,
+   "page_names": [
+    "Buscopan PH"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 15753,
+   "headline": "Your first day doesn’t have to be painful! When it comes to dysmenorrhea, take Hyoscine N-",
+   "shop": "buscopan.com",
+   "product_page": "https://www.buscopan.com/en-ph/products/buscopan-venus",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=158658981404634",
+   "shop_open_since": null
+  },
+  {
+   "name": "MyCup NZ",
+   "pages": 1,
+   "page_names": [
+    "MyCup NZ"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-05-06",
+   "page_likes": 9008,
+   "headline": "$69.69 Period Relief Box",
+   "shop": "mycup.co.nz",
+   "product_page": "https://www.mycup.co.nz/collections/mycup-bundles",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=903637413086223",
+   "shop_open_since": null
+  },
+  {
+   "name": "Hey Sister",
+   "pages": 1,
+   "page_names": [
+    "Hey Sister"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-05",
+   "page_likes": 2680,
+   "headline": "{{product.name}}",
+   "shop": "heysister.com",
+   "product_page": "https://heysister.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=193319493859804",
+   "shop_open_since": null
+  },
+  {
+   "name": "Amrutam",
+   "pages": 1,
+   "page_names": [
+    "Amrutam"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": 43194,
+   "headline": "Periods bilkul nahi aara hai/ Try This ✨\n\nComment “LINK” for details 🔗\n\nAgar irregular per",
+   "shop": "shorturl.at",
+   "product_page": "https://shorturl.at/kcenD",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=567467636713776",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "amrutam.co.in": 14,
+  "myoovi.co.uk": 10,
+  "bemewoman.com": 2,
+  "api.whatsapp.com": 2,
+  "ayumcure.in": 2,
+  "ayumcure.com": 2,
+  "wild-dose.com": 2,
+  "vyomindiaorganics.com": 2,
+  "nutritioninsync.com": 1,
+  "aceblend.com": 1,
+  "panadol.com": 1,
+  "mellorelief.com": 1,
+  "unocare.in": 1,
+  "tinyprotectors.com": 1,
+  "buscopan.com": 1,
+  "mycup.co.nz": 1,
+  "heysister.com": 1,
+  "shorturl.at": 1
+ },
+ "cost_usd": 0.26,
+ "shops_checked": 8,
+ "shops_over_a_year_old": 5,
+ "shops_under_4_months_old": 1
+}

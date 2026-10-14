@@ -1,0 +1,692 @@
+{
+ "slug": "mello-belt-b25473",
+ "phrase": "period cramps",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22period%20cramps%22",
+ "ads_loaded": 250,
+ "capped": true,
+ "stopped_by": "stopped at 250 ads (there are more)",
+ "n_advertisers": 110,
+ "advertisers_with_3_plus_ads": 23,
+ "biggest_advertiser_share": 0.09,
+ "brands_new_in_last_2_months": 64,
+ "brands_advertising_3_plus_months": 31,
+ "ads_started_last_2_months": 123,
+ "ads_older_than_6_months": 28,
+ "pattern": "crowded",
+ "plain": "At least 110 brands advertise it; 31 have kept ads running 3+ months, 64 are new in the last two months. We stopped counting at 250 ads, so the real numbers are higher. Of the 9 biggest shops we could date, 6 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2025-04": 1,
+  "2025-07": 1,
+  "2025-11": 1,
+  "2025-12": 7,
+  "2026-01": 1,
+  "2026-02": 5,
+  "2026-03": 1,
+  "2026-04": 11,
+  "2026-05": 17,
+  "2026-06": 16,
+  "2026-07": 19,
+  "2026-08": 47,
+  "2026-09": 82,
+  "2026-10": 41
+ },
+ "brand_months": {
+  "2025-04": 1,
+  "2025-07": 1,
+  "2025-11": 1,
+  "2026-01": 1,
+  "2026-02": 1,
+  "2026-03": 1,
+  "2026-04": 8,
+  "2026-05": 6,
+  "2026-06": 9,
+  "2026-07": 9,
+  "2026-08": 14,
+  "2026-09": 35,
+  "2026-10": 23
+ },
+ "top_advertisers": [
+  {
+   "name": "Amrutam",
+   "pages": 2,
+   "page_names": [
+    "Amrutam",
+    "amrutampapa"
+   ],
+   "ads": 22,
+   "oldest_live_ad": "2026-05-14",
+   "page_likes": 1,
+   "headline": "The BEST answer will receive a gift of 625 gm jar absolutely free.\n\nTell us how Nari Sonda",
+   "shop": "amrutam.co.in",
+   "product_page": "https://amrutam.co.in/products/kumari-sondarya-malt-for-teenage-girls",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=567467636713776",
+   "shop_open_since": "2022-06-15"
+  },
+  {
+   "name": "Kosi ",
+   "pages": 1,
+   "page_names": [
+    "Kosi "
+   ],
+   "ads": 13,
+   "oldest_live_ad": "2026-08-12",
+   "page_likes": 1744,
+   "headline": "Period Cramps Meet Kosi Heat",
+   "shop": "kosi.au",
+   "product_page": "https://kosi.au/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107883145339090",
+   "shop_open_since": "2023-06-04"
+  },
+  {
+   "name": "Be Me",
+   "pages": 1,
+   "page_names": [
+    "Be Me"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2025-04-11",
+   "page_likes": 5053,
+   "headline": "Get Fast Relief from Period Cramps Today!",
+   "shop": "bemewoman.com",
+   "product_page": "https://www.bemewoman.com/products/be-me-cramp-comfort-heating-pad-and-massager",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107058654454953",
+   "shop_open_since": "2023-04-20"
+  },
+  {
+   "name": "Doc Way",
+   "pages": 1,
+   "page_names": [
+    "Doc Way"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-08-18",
+   "page_likes": 213,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Heating-Electric-Shoulders-Anniversary-Birthday/dp/B0FRMSGGYN/ref=pd_sbs_d_sccl_1_2/130-1426934-8714133",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1092094897325688",
+   "shop_open_since": null
+  },
+  {
+   "name": "KarteLo India",
+   "pages": 1,
+   "page_names": [
+    "KarteLo India"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-08-29",
+   "page_likes": 1083,
+   "headline": "Extra 10% OFF on Prepaid 💳",
+   "shop": "kartelo.in",
+   "product_page": "https://kartelo.in/products/warmease-pro%E2%84%A2-portable-cordless-menstrual-heating-pad-period-cramp-massager",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1028007993730982",
+   "shop_open_since": "2026-01-17"
+  },
+  {
+   "name": "MyWelme",
+   "pages": 1,
+   "page_names": [
+    "MyWelme"
+   ],
+   "ads": 8,
+   "oldest_live_ad": "2026-06-14",
+   "page_likes": 41487,
+   "headline": "Real Relief. Anytime, Anywhere.",
+   "shop": "mywelme.com",
+   "product_page": "https://www.mywelme.com/products/welme-period-pain-relief-device",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101243245890564",
+   "shop_open_since": "2025-05-15"
+  },
+  {
+   "name": "OurBlooom",
+   "pages": 1,
+   "page_names": [
+    "OurBlooom"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-05-21",
+   "page_likes": 53,
+   "headline": "Cramps Don’t Get To Win 🔥",
+   "shop": "ourblooom.com",
+   "product_page": "https://ourblooom.com/products/blooom-luna%E2%84%A2-wearable-heat-massage-wrap",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1154536467738490",
+   "shop_open_since": "2026-05-12"
+  },
+  {
+   "name": "We Heart Nutrition",
+   "pages": 1,
+   "page_names": [
+    "We Heart Nutrition"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-09-29",
+   "page_likes": 495,
+   "headline": "Faith-Driven, Pro-Life Supplements | We Heart Nutrition",
+   "shop": "weheartnutrition.com",
+   "product_page": "https://www.weheartnutrition.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100121786362088",
+   "shop_open_since": "2023-01-25"
+  },
+  {
+   "name": "Bubble me",
+   "pages": 1,
+   "page_names": [
+    "Bubble me"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-04-24",
+   "page_likes": 2138,
+   "headline": "Skip Supplements. Soak in Magnesium.",
+   "shop": "bubbleme.in",
+   "product_page": "https://bubbleme.in/products/spoil-yourself-bath-salt",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=192376083966875",
+   "shop_open_since": "2024-06-01"
+  },
+  {
+   "name": "Her Collective.",
+   "pages": 1,
+   "page_names": [
+    "Her Collective."
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-04-27",
+   "page_likes": 326,
+   "headline": "10% OFF For Sign Up!",
+   "shop": "hercollective.co.za",
+   "product_page": "https://hercollective.co.za/products/cozie-soothe-bundle%E2%84%A2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1009517608911769",
+   "shop_open_since": "2026-03-04"
+  },
+  {
+   "name": "Kreain Nature PH - Ksa",
+   "pages": 1,
+   "page_names": [
+    "Kreain Nature PH - Ksa"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-08-02",
+   "page_likes": 1623,
+   "headline": "BUY 1 GET 1 FREE =>>>>>>",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1209280405604866",
+   "shop_open_since": null
+  },
+  {
+   "name": "DN Store Nepal",
+   "pages": 5,
+   "page_names": [
+    "DN Store Nepal",
+    "Al Fajr Shopping Center",
+    "Smart Lady",
+    "ECatcho",
+    "Skyzen"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-04-24",
+   "page_likes": 601,
+   "headline": "Period Pain Relief Belt",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1201507589707581",
+   "shop_open_since": null
+  },
+  {
+   "name": "Hampa",
+   "pages": 1,
+   "page_names": [
+    "Hampa"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-04-25",
+   "page_likes": 507,
+   "headline": "Get Pain Relief in 10 Minutes on Blinkit!",
+   "shop": "link.blinkit.com",
+   "product_page": "https://link.blinkit.com/bln/tm7til7e",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100648118963397",
+   "shop_open_since": null
+  },
+  {
+   "name": "Sync Botanicals Co",
+   "pages": 1,
+   "page_names": [
+    "Sync Botanicals Co"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-05-11",
+   "page_likes": 6051,
+   "headline": "🌸 Sync Your Cycle, Naturally",
+   "shop": "syncbotanicalsco.com",
+   "product_page": "https://syncbotanicalsco.com/products/daily-cycle-syncing-ritual",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=605546185986312",
+   "shop_open_since": null
+  },
+  {
+   "name": "Melolo Freedrama-PH",
+   "pages": 3,
+   "page_names": [
+    "Melolo Freedrama-PH",
+    "Eshe Nigeria",
+    "ESHE Kenya"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-01",
+   "page_likes": 396277,
+   "headline": "Watch new dramas for free",
+   "shop": "play.google.com",
+   "product_page": "https://play.google.com/store/apps/details",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=508233365703598",
+   "shop_open_since": null
+  },
+  {
+   "name": "MY OBI",
+   "pages": 1,
+   "page_names": [
+    "MY OBI"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-05-29",
+   "page_likes": 156,
+   "headline": "Get relief on the go🙌",
+   "shop": "myobistore.com",
+   "product_page": "https://myobistore.com/products/apollo-2-0",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=312875501919609",
+   "shop_open_since": null
+  },
+  {
+   "name": "Wo.men Matters by Great Wall TCM",
+   "pages": 1,
+   "page_names": [
+    "Wo.men Matters by Great Wall TCM"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-02-05",
+   "page_likes": 78,
+   "headline": "Book a TCM Consultation With Wo.men Matters",
+   "shop": "womenmatters.com.sg",
+   "product_page": "https://womenmatters.com.sg/period-cramps-tcm-relief",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=927061330489952",
+   "shop_open_since": null
+  },
+  {
+   "name": "Catchreads",
+   "pages": 3,
+   "page_names": [
+    "Catchreads",
+    "Manyfics",
+    "InStory Now"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-06-25",
+   "page_likes": 23,
+   "headline": "🔞🔞Click to read the full novel👉👉",
+   "shop": "hot.novelhit.com",
+   "product_page": "https://hot.novelhit.com/en/landpage/reading/4/2112",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=701323349740600",
+   "shop_open_since": null
+  },
+  {
+   "name": "Myoovi",
+   "pages": 1,
+   "page_names": [
+    "Myoovi"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-06-12",
+   "page_likes": 3256,
+   "headline": "{{product.name}}",
+   "shop": "myoovi.co.uk",
+   "product_page": "https://myoovi.co.uk/products/myoovi-period-pain-relief-device-2-0",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109704564655011",
+   "shop_open_since": null
+  },
+  {
+   "name": "Wellness Watchers",
+   "pages": 1,
+   "page_names": [
+    "Wellness Watchers"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-05",
+   "page_likes": 108,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Heating-Electric-Shoulders-Anniversary-Birthday/dp/B0FRMSGGYN/ref=pd_sbs_d_sccl_1_2/130-1426934-8714133",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=971879626010824",
+   "shop_open_since": null
+  },
+  {
+   "name": "Human Heath",
+   "pages": 1,
+   "page_names": [
+    "Human Heath"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 493,
+   "headline": "{{product.name}}",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/Heating-Stomach-Birthday-Settings-Auto-Off/dp/B0FRS6F98P/ref=pd_sbs_d_sccl_1_19/130-1426934-8714133",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=515347134994371",
+   "shop_open_since": null
+  },
+  {
+   "name": "Girlsselectnepal",
+   "pages": 1,
+   "page_names": [
+    "Girlsselectnepal"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-04-21",
+   "page_likes": 29882,
+   "headline": "Every problem has a Girl Select solution. ✨\n\nBack acne? → Back Scrubber\nDark underarms? → ",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109943384877421",
+   "shop_open_since": null
+  },
+  {
+   "name": "Midol",
+   "pages": 1,
+   "page_names": [
+    "Midol"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-17",
+   "page_likes": null,
+   "headline": "#MidolPartner Prepared for anything but mainly period cramps s/o @Midol love you babe. Use",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=126557620740357",
+   "shop_open_since": null
+  },
+  {
+   "name": "Lil Hottie",
+   "pages": 1,
+   "page_names": [
+    "Lil Hottie"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-04-14",
+   "page_likes": 155,
+   "headline": "Warmth on demand",
+   "shop": "lilhottie.com.au",
+   "product_page": "https://lilhottie.com.au/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=882575521604433",
+   "shop_open_since": null
+  },
+  {
+   "name": "UltraCare PRO",
+   "pages": 1,
+   "page_names": [
+    "UltraCare PRO"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-11",
+   "page_likes": 14586,
+   "headline": "Buy Now & Get Upto 60 % OFF",
+   "shop": "ultracarepro.in",
+   "product_page": "https://ultracarepro.in/products/eva-period-heating-pad-and-massager",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=975544579130609",
+   "shop_open_since": null
+  },
+  {
+   "name": "Lil Helper",
+   "pages": 1,
+   "page_names": [
+    "Lil Helper"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-03-05",
+   "page_likes": 116286,
+   "headline": "Mansplaining Biology Again 🤦‍♂️",
+   "shop": "lilhelperusa.com",
+   "product_page": "https://lilhelperusa.com/products/reusable-menstrual-pads-essential-pack",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=242729442440380",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Brand Hub",
+   "pages": 1,
+   "page_names": [
+    "The Brand Hub"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2025-11-12",
+   "page_likes": 27982,
+   "headline": "Bye-Bye Pain! 🔥",
+   "shop": "thebrandhub.lk",
+   "product_page": "https://thebrandhub.lk/product/hot-water-bottle-1-7l-long-design-with-cover/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101561641557940",
+   "shop_open_since": null
+  },
+  {
+   "name": "Soov",
+   "pages": 1,
+   "page_names": [
+    "Soov"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-22",
+   "page_likes": 1533,
+   "headline": "Real PMS Relief, Daily",
+   "shop": "soov.uk",
+   "product_page": "https://soov.uk/products/flow",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=294912703715318",
+   "shop_open_since": null
+  },
+  {
+   "name": "Qalbi",
+   "pages": 1,
+   "page_names": [
+    "Qalbi"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": 1413,
+   "headline": "Qalbi",
+   "shop": "qalbi.pk",
+   "product_page": "https://qalbi.pk/products/period-cramp-relief-belt-portable-electric-menstrual-heating",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=962253310286122",
+   "shop_open_since": null
+  },
+  {
+   "name": "Volini",
+   "pages": 1,
+   "page_names": [
+    "Volini"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 340907,
+   "headline": "Period cramps shouldn't put your workday on pause. \nStick on the Volini Feminine Pain Reli",
+   "shop": "zepto.com",
+   "product_page": "https://www.zepto.com/pn/volini-feminine-pain-relief-patch/pvid/7ac4396d-755f-425a-b0da-f6d25b2ba133",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=333002810107730",
+   "shop_open_since": null
+  },
+  {
+   "name": "Wild Dose",
+   "pages": 1,
+   "page_names": [
+    "Wild Dose"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-05-05",
+   "page_likes": 32792,
+   "headline": "Period Cramps? Haven't heard of her 💁‍♀️",
+   "shop": "wild-dose.com",
+   "product_page": "https://wild-dose.com/pages/a-dose-for-pms",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111153174402354",
+   "shop_open_since": null
+  },
+  {
+   "name": "Life-Space",
+   "pages": 1,
+   "page_names": [
+    "Life-Space"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 13048,
+   "headline": "Period cramps can be such a drag. 😓\n\nHelp relieve symptoms of PMS with Life-Space.",
+   "shop": "lifespaceprobiotics.com",
+   "product_page": "https://www.lifespaceprobiotics.com/pages/womens-health",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=230620340282391",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ova Healthcare",
+   "pages": 1,
+   "page_names": [
+    "Ova Healthcare"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": 14640,
+   "headline": "Finish What You Started",
+   "shop": "getova.com.sg",
+   "product_page": "https://getova.com.sg/category/birth-control",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105293981720865",
+   "shop_open_since": null
+  },
+  {
+   "name": "tap.health",
+   "pages": 1,
+   "page_names": [
+    "tap.health"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-26",
+   "page_likes": 674,
+   "headline": "{{product.name}}",
+   "shop": "taphealth.nz",
+   "product_page": "https://taphealth.nz/products/tap-2-0-tens-device-complete-package",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103946314769412",
+   "shop_open_since": null
+  },
+  {
+   "name": "HerPad",
+   "pages": 1,
+   "page_names": [
+    "HerPad"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-25",
+   "page_likes": 2,
+   "headline": "The Heating Pad That Finally Covers Front AND Back 🔥",
+   "shop": "herpad.net",
+   "product_page": "https://herpad.net/products/heating-pad",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1352804044578658",
+   "shop_open_since": null
+  },
+  {
+   "name": "Y.O.U Beauty",
+   "pages": 1,
+   "page_names": [
+    "Y.O.U Beauty"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-30",
+   "page_likes": 223678,
+   "headline": "Still breaking out no matter how many products you try?\n\nThe problem might not be your rou",
+   "shop": "shopee.ph",
+   "product_page": "https://shopee.ph/product/480209166/43453057976/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104443661920068",
+   "shop_open_since": null
+  },
+  {
+   "name": "Lula Eye Mask",
+   "pages": 1,
+   "page_names": [
+    "Lula Eye Mask"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 10550,
+   "headline": "On-The-Go Period Pain Relief ✨",
+   "shop": "lulaeyemask.com.au",
+   "product_page": "https://lulaeyemask.com.au/products/lula-body-patch",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100987321866974",
+   "shop_open_since": null
+  },
+  {
+   "name": "Beauty Britain",
+   "pages": 1,
+   "page_names": [
+    "Beauty Britain"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-09",
+   "page_likes": 252,
+   "headline": "#1 Heating Pad 🔥",
+   "shop": "beautybritain.uk",
+   "product_page": "https://beautybritain.uk/products/period-pain-relief-heating-pad-abdominal-massager-with-heat-vibration-for-period-cramps",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1113015248572710",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Fleece Company",
+   "pages": 1,
+   "page_names": [
+    "The Fleece Company"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-01",
+   "page_likes": 58506,
+   "headline": "Now on Sale",
+   "shop": "thefleececompany.com",
+   "product_page": "https://thefleececompany.com/products/the-muslin-blanket",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=459241213933204",
+   "shop_open_since": null
+  },
+  {
+   "name": "Borealis LIFE",
+   "pages": 1,
+   "page_names": [
+    "Borealis LIFE"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-25",
+   "page_likes": 416,
+   "headline": "What Does Endometriosis Pain Feel Like?",
+   "shop": "borealislife.org",
+   "product_page": "https://www.borealislife.org/blog/what-does-endometriosis-pain-really-feel-like-describing-the-symptoms-that-are-hard-to-explain",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100854846324739",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "amrutam.co.in": 22,
+  "amazon.com": 16,
+  "kosi.au": 13,
+  "bemewoman.com": 10,
+  "kartelo.in": 9,
+  "mywelme.com": 8,
+  "ourblooom.com": 7,
+  "weheartnutrition.com": 6,
+  "bubbleme.in": 5,
+  "hercollective.co.za": 5,
+  "api.whatsapp.com": 5,
+  "link.blinkit.com": 4,
+  "syncbotanicalsco.com": 4,
+  "play.google.com": 4,
+  "myobistore.com": 4,
+  "womenmatters.com.sg": 3,
+  "hot.novelhit.com": 3,
+  "myoovi.co.uk": 3,
+  "lilhottie.com.au": 2,
+  "ultracarepro.in": 2,
+  "lilhelperusa.com": 2,
+  "thebrandhub.lk": 2,
+  "soov.uk": 2,
+  "qalbi.pk": 2,
+  "zepto.com": 2
+ },
+ "cost_usd": 1.18,
+ "shops_checked": 9,
+ "shops_over_a_year_old": 6,
+ "shops_under_4_months_old": 0
+}

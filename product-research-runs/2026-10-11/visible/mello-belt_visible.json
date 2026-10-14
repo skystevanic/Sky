@@ -1,0 +1,41 @@
+{
+ "slug": "mello-belt",
+ "same": [
+  12
+ ],
+ "top": 12,
+ "countries": {
+  "uk": [
+   {
+    "where": "Amazon",
+    "source": "amazon.co.uk",
+    "title": "Heat Pad for Period Pain Relief, Upgraded 6 Heat Massage Modes Electric Fast Heating Pad f",
+    "link": "https://www.amazon.co.uk/Portable-Cordless-Electric-Menstrual-Vibrating/dp/B0C1YG33PD/",
+    "asin": "B0C1YG33PD",
+    "rank": 7,
+    "price_text": "£24.99",
+    "reviews": 3900,
+    "bought": "2K+ bought in past month",
+    "bought_number": 2000,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/mello-belt_vis_thumb_012.jpg"
+   }
+  ],
+  "ca": [
+   {
+    "where": "Amazon",
+    "source": "amazon.ca",
+    "title": "Heat Pad for Period Pain Relief, Upgraded 6 Heat Massage Modes Electric Fast Heating Pad f",
+    "link": "https://www.amazon.co.uk/Portable-Cordless-Electric-Menstrual-Vibrating/dp/B0C1YG33PD/",
+    "asin": "B0C1YG33PD",
+    "rank": 5,
+    "price_text": "$34.99",
+    "reviews": 3800,
+    "bought": "1K+ bought in past month",
+    "bought_number": 1000,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/mello-belt_vis_thumb_012.jpg"
+   }
+  ]
+ }
+}

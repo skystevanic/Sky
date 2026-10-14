@@ -1,0 +1,963 @@
+{
+  "slug": "mello-belt",
+  "query": "period heating pad belt",
+  "mode": "full",
+  "brand_price": 59.99,
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "currency": "A$",
+      "status": "crowded",
+      "why": "only marketplaces (AliExpress - AliExpress-6000182702, AliExpress - AliExpress-) carry it",
+      "results": 40,
+      "distinct_sellers": 17,
+      "chains_present": [],
+      "marketplaces_present": [
+        "AliExpress - AliExpress-6000182702",
+        "AliExpress - AliExpress-6005100333",
+        "AliExpress - AliExpress-6265557587",
+        "Amazon",
+        "Amazon AU",
+        "Amazon AU - Amazon.com.au-Seller",
+        "Dick Smith AU",
+        "Kogan.com",
+        "eBay - beautymall0",
+        "eBay - valueexplorerau"
+      ],
+      "cheapest": 19.49,
+      "typical": 39.59,
+      "most_reviewed": {
+        "seller": "thehottle",
+        "title": "The Hottle Heat Wrap Bundle for Instant Period & Back Pain Relief",
+        "reviews": 544,
+        "price_text": "$139.95"
+      },
+      "top_rows": [
+        {
+          "seller": "thehottle",
+          "title": "The Hottle Heat Wrap Bundle for Instant Period & Back Pain Relief",
+          "price_text": "$139.95",
+          "price": 139.95,
+          "rating": 3.3,
+          "reviews": 544,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:11364537574755088599,productid:5200817317088003100,headlineOfferDocid:15013673694365178944,imageDocid:15643829100015374166,rds:PC_6653924806261048660|PROD_PC_6653924806261048660,gpcid:6653924806261048660,mid:576462491854241099,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQE-_njwr__pVInNh4yZ6GejAhjYn9mHWMRY6QBnf3NK0dJu3kl1pu90XgLrHpUyrFxQ1eZEYaOfmev0A7_R8gDcX50yUQZJx6gS--5vVPz"
+        },
+        {
+          "seller": "eBay - beautymall0",
+          "title": "Portable Cordless Heating Pad, Women Period Heating Pad with 5 Heat Levels and 4 Massage M",
+          "price_text": "$21.95",
+          "price": 21.95,
+          "rating": 5.0,
+          "reviews": 144,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:11708322629941867074,productid:5974454861521363791,headlineOfferDocid:4185878409995812478,imageDocid:11527088885638393108,rds:CID_11708322629941867074|PROD_CID_11708322629941867074,gpcid:15075800652912767678,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSKdVf1NQ-_XUVORJS45Tu4RS-MUlhBFo-ju_2VegQniIu5vJeCuguW-Mu-cF0zE34BufcjIIQ7gvGI9rtc1MfX4rBANDYsVnNPSXvooXQN"
+        },
+        {
+          "seller": "Amazon",
+          "title": "Period Massage Pad Abdomen Heating Waist Trimmer Belt Women Harness Strap",
+          "price_text": "$21.48",
+          "price": 21.48,
+          "rating": 3.1,
+          "reviews": 63,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:18194388898651977683,productid:4520218434252944413,headlineOfferDocid:11686804104510107086,imageDocid:8349260177088980300,rds:PC_16420615846029236863|PROD_PC_16420615846029236863,gpcid:16420615846029236863,mid:576462881043515313,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnReBqU0JKuzHiOQObrQxWXhXweR_qhi99V1-NrD1Pcg5Fd-HA-Q3sf42gDlcEC50DH5v5A9uypH7kK-DhuYOLBE5gOb21NA"
+        },
+        {
+          "seller": "Amazon",
+          "title": "Menstrual Heating Pads for Women 2-in-1 Waist Warming Supplies",
+          "price_text": "$23.98",
+          "price": 23.98,
+          "rating": 3.2,
+          "reviews": 50,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:12258295633002822356,headlineOfferDocid:12258295633002822356,imageDocid:6258547397286647540,rds:PC_9341708056647601924|PROD_PC_9341708056647601924,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-nHx7cBtwSL4Crb1srDuvJ4EUUaApoawOihZDb8bO3veJj7LlOVAeND2mUbn0N9x5XHFNTki00p8F-XkjfrNBDDyDO1X3fg"
+        },
+        {
+          "seller": "AliExpress - AliExpress-6000182702",
+          "title": "Heatable Waist Pad Electric Heating Belt Protection Corset Massage Men Women",
+          "price_text": "$19.49",
+          "price": 19.49,
+          "rating": 4.1,
+          "reviews": 1,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:10483972829362832057,productid:3813598287323980638,headlineOfferDocid:9241856258759476394,imageDocid:12524832986804867445,rds:PC_208567766786179742|PROD_PC_208567766786179742,gpcid:208567766786179742,mid:576462880768763307,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS5BLNLjC7Rxrlvt2g5WV7sEKOU1t8OGXQPOsWmf4NKz7JXeYUCRRFeiOy2d3KQLrirtCwgzONT8lT39iZVHQRz-416tAzL8SV7MGsbEU3cffKFEPNo7uHQhA"
+        },
+        {
+          "seller": "Amazon",
+          "title": "PACKOVE Wireless Menstrual Heating Pad Waist Belt with Massage Mode and Adjustable Heat Le",
+          "price_text": "$39.59",
+          "price": 39.59,
+          "rating": null,
+          "reviews": null,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:6357992625455131337,headlineOfferDocid:6357992625455131337,imageDocid:13905777842294323767,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvVOqfG9Wjk_IGmQMpf8U6x9-xbEJgVB81zndjZsq5iEHZsRDU0Ua1wDDkDu7pDVC-E-saSK1jCCH7yCl1mi5qDTupQF-6CBH2sArPq84tyqxdLvuZ3PB_Bw"
+        },
+        {
+          "seller": "AliExpress - AliExpress-6265557587",
+          "title": "Electric heating waist belt Abdominal Heating Pad belly Waist Belt Warmer for Menstrual Be",
+          "price_text": "$23.79",
+          "price": 23.79,
+          "rating": null,
+          "reviews": null,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:8304367530220946748,headlineOfferDocid:8304367530220946748,imageDocid:7552641529675077341,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRRLlSrYRJ5b5f6jWWR7HtG7ClPy_pmkQ-omrqfL5aMoO94uh_qAe5ncgPgaEbTNZ2Yj8fHGpC7juQvf4fPOpeoQaCMZOG3nFN6pjCuQf1V-yz1K7Vntq5O"
+        },
+        {
+          "seller": "eBay - valueexplorerau",
+          "title": "Electric Heating Massage Pad Menstrual Cramp Therapy Belt Period Pain",
+          "price_text": "$29.95",
+          "price": 29.95,
+          "rating": null,
+          "reviews": null,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:4439706431779305590,headlineOfferDocid:4439706431779305590,imageDocid:7379255831617479023,pvt:hg&hl=en&gl=au&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpCzciTPYo-PqN5X_kHoMXIriiQIUs_fwXVdDq5O65PPEHcEbZ29e19wx4tkzCB6vGry31mS3VOd3nMyb6Bukv6Exuw9JO-WSLVWBhCzT_KcKxAQJ1v9xNsQ"
+        }
+      ],
+      "chain_rows": [],
+      "thin_market": false
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "currency": "US$",
+      "status": "blocked",
+      "why": "Walgreens.com sells it at $62.39",
+      "results": 40,
+      "distinct_sellers": 20,
+      "chains_present": [
+        "Target",
+        "Walgreens.com"
+      ],
+      "marketplaces_present": [
+        "Etsy",
+        "Walmart - AGDOAD",
+        "Walmart - BN-LINK",
+        "Walmart - BearCris",
+        "Walmart - Brian Lee",
+        "Walmart - HaiYan",
+        "Walmart - KINGTE",
+        "Walmart - MOFAJANG",
+        "Walmart - Seller",
+        "Walmart - TXMY LLC",
+        "eBay",
+        "eBay - funtig80",
+        "eBay - renphoofficial"
+      ],
+      "cheapest": 3.99,
+      "typical": 16.99,
+      "most_reviewed": {
+        "seller": "Walgreens.com",
+        "title": "Midol Heat Vibes Menstrual Pain Relief Heat Patches",
+        "reviews": 3600,
+        "price_text": "$13.99"
+      },
+      "top_rows": [
+        {
+          "seller": "Walgreens.com",
+          "title": "Midol Heat Vibes Menstrual Pain Relief Heat Patches",
+          "price_text": "$13.99",
+          "price": 13.99,
+          "rating": 4.4,
+          "reviews": 3600,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:18037668224418240044,productid:17106349878394627571,headlineOfferDocid:11345324262392027252,imageDocid:11110266380938557424,rds:PC_1088196012872513250|PROD_PC_1088196012872513250,gpcid:1088196012872513250,mid:576462563315578155,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgT6g-NT4qJNswhLa2_EfyddI0UYnrSnaPHnn32A_Vj-rV9QK_vWHmo-21PSqmePj9USzjVmayG3dkaS-fDl2nFiX1goM7e0cKzzYDOJjl"
+        },
+        {
+          "seller": "eBay - renphoofficial",
+          "title": "iDOO Heating Pad for Period Cramps 3 Heat",
+          "price_text": "$19.99",
+          "price": 19.99,
+          "rating": 4.1,
+          "reviews": 362,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:595494742021458802,productid:9998159291294531090,headlineOfferDocid:7960324631321527060,imageDocid:15155909760355038592,rds:PC_14144171375195662645|PROD_PC_14144171375195662645,gpcid:14144171375195662645,mid:576462517996131341,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfkskE8CiraK4VsNLM0586YRmKy5KSypPUYorxlTuOeYWiQ02wgLKl2ebFHsY5EHlyY_b_ESkyYNM5QGsNoLj9034NiTa9A1gbY69Yo0OlQTSLMeAQryms"
+        },
+        {
+          "seller": "Target",
+          "title": "What Do You Meme? Happy Helpers Lobster Heating Pad",
+          "price_text": "$23.49",
+          "price": 23.49,
+          "rating": 4.2,
+          "reviews": 210,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:6732551046749061565,productid:11746664681810038928,headlineOfferDocid:14846796096933693751,imageDocid:445172265348853964,rds:PC_9287354359475219093|PROD_PC_9287354359475219093,gpcid:9287354359475219093,mid:576462807121628802,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfyoKodQxS59MF03PDY9_BglC1AghZW7PnoovHyz9h2dHIF4c3RKxvlpaOjj0OzsouCTQdWOhy2gj7WUzGpO8y3zusQVjQaXMiuS-_LdCxtokkdn3JzVMF"
+        },
+        {
+          "seller": "Walgreens.com",
+          "title": "Sunbeam Menstrual Cramp Relief Heating Pad",
+          "price_text": "$62.39",
+          "price": 62.39,
+          "rating": 4.8,
+          "reviews": 82,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:333589804210827278,productid:1908728160170809844,headlineOfferDocid:4867519437725868232,imageDocid:5572909609902326186,rds:PC_16366451886695336699|PROD_PC_16366451886695336699,gpcid:16366451886695336699,mid:576462823253002858,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTEl9cwuNjpOtumnGX1hbEUbIQ6tDV3JoEQMTzT32EZqWUzwM1mtCuwjE37z24T8ASXXZXlKe5O1wDlzbLqdjqnLkl3HfMPDR5pFTudYGhAHEzji_EQ7Rgt1w"
+        },
+        {
+          "seller": "eBay - funtig80",
+          "title": "Portable Cordless Heating Pad, Women Period Heating Pad with 5 Heat Levels and 4 Massage M",
+          "price_text": "$16.29",
+          "price": 16.29,
+          "rating": 4.3,
+          "reviews": 60,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:11708322629941867074,productid:5974454861521363791,headlineOfferDocid:7223489627271668092,imageDocid:11994511859397848581,rds:CID_11708322629941867074|PROD_CID_11708322629941867074,gpcid:15075800652912767678,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiBo1z-erpIvE20XWijRJ79dyhHqD9YTa_xtQKd--rLylsfJDI6zxyZvrgoMcTIBJX6sSKhv1qD1aMvbqGKdKTrCBHKVsk35xxauLw4gfwdP3y_eJYR9XLUQ"
+        },
+        {
+          "seller": "eBay",
+          "title": "Cordless Menstrual Heating Pad for Period Cramps & Pain Relief",
+          "price_text": "$24.95",
+          "price": 24.95,
+          "rating": 4.3,
+          "reviews": 41,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:11734494508977459838,productid:2339562727439346595,headlineOfferDocid:1371740574657642228,imageDocid:4513711228389109573,rds:PC_16179031447037830536|PROD_PC_16179031447037830536,gpcid:16179031447037830536,mid:576462874196319733,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1TmL8svDrOLzPdDHbgp7qnC5AyeXaaD26MBhsoWFUs2SHcP-H91iBNyQczGCuNtBkbqaQAtlZMJByfQSd3CEgNv_yrCoyV9BASmLCG79MQNvkU_xQw3Yueg"
+        },
+        {
+          "seller": "Walmart - BN-LINK",
+          "title": "Bn-link Heating Pad for Period Cramps, Portable Cordless, 6 Heat Levels and 6 Massage Mode",
+          "price_text": "$15.29",
+          "price": 15.29,
+          "rating": 3.3,
+          "reviews": 36,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:1742504520751854448,productid:14208736736833672303,headlineOfferDocid:15266325492295630038,imageDocid:15172535795141041665,rds:PC_4396651363440447361|PROD_PC_4396651363440447361,gpcid:4396651363440447361,mid:576462775553184284,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSR8fD927en8wnDG4I5DKLtZA8opLKgVeYE-1PVloiV_Jv253lWpSWDNNXHAN2jbWXfsp1MEoMqOuNGLumRL-ne0EzDRTsgnN4hNmGMgOXCeULI2--IzRqRlg"
+        },
+        {
+          "seller": "Walmart - BearCris",
+          "title": "Cordless Heating Pad for Period Cramps Menstrual Abdominal Belt with Ntc Safe Temperature ",
+          "price_text": "$19.99",
+          "price": 19.99,
+          "rating": 4.0,
+          "reviews": 26,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:10800857406669681669,productid:8395793633461378507,headlineOfferDocid:10705495093825144663,imageDocid:13295351857817002164,rds:PC_842123948134382899|PROD_PC_842123948134382899,gpcid:842123948134382899,mid:576462912429098900,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6gihFAsSJz_DKPJfWAms2CSg2LeFeS1CvKSJZra_Hr8iVRO5y-DnMGu7QqaSY119YLKhbhAoVyoE1qZBIY44Upn0P2oZJ6mN920erjmMvNu8jOtMC0pzRxA"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Walgreens.com",
+          "title": "Sunbeam Menstrual Cramp Relief Heating Pad",
+          "price_text": "$62.39",
+          "price": 62.39,
+          "rating": 4.8,
+          "reviews": 82,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:333589804210827278,productid:1908728160170809844,headlineOfferDocid:4867519437725868232,imageDocid:5572909609902326186,rds:PC_16366451886695336699|PROD_PC_16366451886695336699,gpcid:16366451886695336699,mid:576462823253002858,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTEl9cwuNjpOtumnGX1hbEUbIQ6tDV3JoEQMTzT32EZqWUzwM1mtCuwjE37z24T8ASXXZXlKe5O1wDlzbLqdjqnLkl3HfMPDR5pFTudYGhAHEzji_EQ7Rgt1w"
+        },
+        {
+          "seller": "Target",
+          "title": "What Do You Meme? Happy Helpers Lobster Heating Pad",
+          "price_text": "$23.49",
+          "price": 23.49,
+          "rating": 4.2,
+          "reviews": 210,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:6732551046749061565,productid:11746664681810038928,headlineOfferDocid:14846796096933693751,imageDocid:445172265348853964,rds:PC_9287354359475219093|PROD_PC_9287354359475219093,gpcid:9287354359475219093,mid:576462807121628802,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQfyoKodQxS59MF03PDY9_BglC1AghZW7PnoovHyz9h2dHIF4c3RKxvlpaOjj0OzsouCTQdWOhy2gj7WUzGpO8y3zusQVjQaXMiuS-_LdCxtokkdn3JzVMF"
+        },
+        {
+          "seller": "Walgreens.com",
+          "title": "Midol Heat Vibes Menstrual Pain Relief Heat Patches",
+          "price_text": "$13.99",
+          "price": 13.99,
+          "rating": 4.4,
+          "reviews": 3600,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:18037668224418240044,productid:17106349878394627571,headlineOfferDocid:11345324262392027252,imageDocid:11110266380938557424,rds:PC_1088196012872513250|PROD_PC_1088196012872513250,gpcid:1088196012872513250,mid:576462563315578155,pvt:hg&hl=en&gl=us&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgT6g-NT4qJNswhLa2_EfyddI0UYnrSnaPHnn32A_Vj-rV9QK_vWHmo-21PSqmePj9USzjVmayG3dkaS-fDl2nFiX1goM7e0cKzzYDOJjl"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "currency": "£",
+      "status": "blocked",
+      "why": "Argos sells it at £20.00",
+      "results": 40,
+      "distinct_sellers": 19,
+      "chains_present": [
+        "Argos"
+      ],
+      "marketplaces_present": [
+        "Amazon.co.uk - Amazon.co.uk-Seller",
+        "OnBuy.com",
+        "SHEIN",
+        "eBay",
+        "eBay - beautymall-66",
+        "eBay - dutonyw",
+        "eBay - fashi-moe",
+        "eBay - general*value*trading",
+        "eBay - ha_724248",
+        "eBay - kaonemall",
+        "eBay - rainfall280"
+      ],
+      "cheapest": 6.89,
+      "typical": 19.25,
+      "most_reviewed": {
+        "seller": "eBay",
+        "title": "iDOO Portable Heating Pad Belt",
+        "reviews": 362,
+        "price_text": "£15.61"
+      },
+      "top_rows": [
+        {
+          "seller": "eBay",
+          "title": "iDOO Portable Heating Pad Belt",
+          "price_text": "£15.61",
+          "price": 15.61,
+          "rating": 4.1,
+          "reviews": 362,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:14726879570936640561,productid:87376487846495774,headlineOfferDocid:4938616986074020366,imageDocid:9972002907965165157,rds:PC_14144171375195662645|PROD_PC_14144171375195662645,gpcid:14144171375195662645,mid:576462517996131341,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQz3ix9Md277A41Oqeg-bJkX483BwPTbqvnAls2U79QCypWWck2WBd0tHm6eHBh39mrnPvnnYfRhULpBWI8iL38mkhPJWmkq6L9tF7LjYI"
+        },
+        {
+          "seller": "Massive Discounts",
+          "title": "Heat Pad for Period Pain Relief Upgraded 6 Heat Massage Modes Electric Fast",
+          "price_text": "£16.99",
+          "price": 16.99,
+          "rating": 4.2,
+          "reviews": 92,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:14430682977848303997,productid:1564615926157254810,headlineOfferDocid:6457230976223271875,imageDocid:3080310543981962296,rds:PC_10308630254965428796|PROD_PC_10308630254965428796,gpcid:10308630254965428796,mid:576462510711178364,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMFxF1GEdRLdxzqKLvQvKx4AVgK4i0mWG58kxOfvg5h8us-ksHKXtqmJTAvoedZEtjW6E0dvSZHaCiAC1WSWSNxyC06usIZ57_zuXXCSaR"
+        },
+        {
+          "seller": "eBay - general*value*trading",
+          "title": "Heat Pad for Period Pain Relief Upgraded 6 Heat Massage Modes Electric Fast. BouZaFoFa",
+          "price_text": "£10.50",
+          "price": 10.5,
+          "rating": 4.2,
+          "reviews": 92,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:4834219142763682148,productid:9267614960472571008,headlineOfferDocid:13307464179044126762,imageDocid:1620538943326062406,rds:PC_1833380536194236247|PROD_PC_1833380536194236247,gpcid:1833380536194236247,mid:576462476645942345,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcToq2LwTyL7TxM7exrGNnqFoqTIs6Xr-3yltIhai9NuMP0zU7O7RmGnyYjXjwtFpbTrF3JRFKHOPcRuiLqOvkKldb4NctspTx7ysXInfxU"
+        },
+        {
+          "seller": "OnBuy.com",
+          "title": "Period Waist Pad Warm Belt Massaging Heating Massage",
+          "price_text": "£8.90",
+          "price": 8.9,
+          "rating": 4.6,
+          "reviews": 73,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:2512432872074226466,productid:669996298888163899,headlineOfferDocid:2388972634443398999,imageDocid:10153350134544704142,rds:PC_16263226587827796813|PROD_PC_16263226587827796813,gpcid:16263226587827796813,mid:576462542886930258,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStCBhKtX1Vx_-1LMT46AZ5v9hWPk26s_etB_2mjISLM-r1jXRodfEDSak_1PNnABR9WVELRgWjqi2_sqy5dNOqnE9f8jAff1FHTRwSeaG8"
+        },
+        {
+          "seller": "eBay",
+          "title": "Rechargeable Heating Pad Belt for Period Pain Relief",
+          "price_text": "£21.50",
+          "price": 21.5,
+          "rating": 3.8,
+          "reviews": 66,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:2220175641615436977,productid:5844808479140055001,headlineOfferDocid:5070373384865455528,imageDocid:6451520184645206557,rds:PC_13518074708326057777|PROD_PC_13518074708326057777,gpcid:13518074708326057777,mid:576462808320847672,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSWonlXQkm4q85cHmLXMAZP06-cuCI1OdQDGu1BloWEc9ZYZDIV1Cn1Kk54Ta7_SvXcjQQ_l_C4G2yzrXqeOWx7mc8kNMSRFDm9Qhx-6AInm9GPcK3lsjOD"
+        },
+        {
+          "seller": "eBay - rainfall280",
+          "title": "Portable Cordless Heating Pad, Women Period Heating Pad with 5 Heat Levels and 4 Massage M",
+          "price_text": "£13.99",
+          "price": 13.99,
+          "rating": 4.3,
+          "reviews": 60,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:11708322629941867074,productid:5974454861521363791,headlineOfferDocid:5330255125542092116,imageDocid:11994511859397848581,rds:CID_11708322629941867074|PROD_CID_11708322629941867074,gpcid:15075800652912767678,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTOmYvNZTbxDZB4ZmlR6iK1q66i-hvHeWzNgj6b0Ql6wARxTa-diytWKAKc4xNvWLR0kO7Oqo2qBPMP6OdgV439MbrESnzpdQBQrtfSlSMaMOXZ_sPXeC9tiA"
+        },
+        {
+          "seller": "Weldricks Pharmacy",
+          "title": "Deep Heat Warming Belt",
+          "price_text": "£6.89",
+          "price": 6.89,
+          "rating": 4.3,
+          "reviews": 33,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:13051277215051665260,productid:6895399984630525272,headlineOfferDocid:12570941758276365997,imageDocid:7832315143681151874,rds:PC_666126105472622340|PROD_PC_666126105472622340,gpcid:666126105472622340,mid:576462611574494409,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTb11XGdDPAHQ8-StmefQWbeiFCACFrf1n5tSjyvCnkZrIPSLuSMNGPX16RhCZnR_v-7sH0HMX9B_FIyF3Il36TalUwQRxFiyYnbSkn7VJkLnxJn1gJmzwR"
+        },
+        {
+          "seller": "Amazon.co.uk - Amazon.co.uk-Seller",
+          "title": "Comfytemp Portable Belly&Back Heating Pad for Period Cramps",
+          "price_text": "£29.99",
+          "price": 29.99,
+          "rating": 4.4,
+          "reviews": 14,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:4956260232083265255,productid:14682119838802433117,headlineOfferDocid:15251303015241639917,imageDocid:10183382371763405935,rds:PC_8721407473284903694|PROD_PC_8721407473284903694,gpcid:8721407473284903694,mid:576462880390192618,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCu8UR4Ek4U7l-RpxVHJ0rhLtiYgCQolC3PRiIrI_4YjvYIa-ugWDJcZrVqDdHlmnCG4-h5KR7JgpjvgvqGOoT0xx42B2_ZwQw68C-ibvVpESOkTLZxMGw"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Argos",
+          "title": "Menkind Therapeutic Heated Belt",
+          "price_text": "£20.00",
+          "price": 20.0,
+          "rating": 2.3,
+          "reviews": 6,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:4097608096535205467,productid:948598831684880228,headlineOfferDocid:9989828203483297679,imageDocid:5395798029116258861,rds:PC_3057933185074344943|PROD_PC_3057933185074344943,gpcid:3057933185074344943,mid:576462870578515327,pvt:hg&hl=en&gl=uk&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTiB2vB82MxEqRlNBwN579j2kQ6N5BtJPsT2bIUX7toZkkXtufMBtjyfKDsd5xJWcLdk5e2mTg2xUrysN4B0a-CN3lDvbjo4BS0wD4ByfOZDebo7xg0bEyE"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "currency": "C$",
+      "status": "blocked",
+      "why": "Walmart.ca sells it at $27.26",
+      "results": 40,
+      "distinct_sellers": 10,
+      "chains_present": [
+        "Walmart.ca"
+      ],
+      "marketplaces_present": [
+        "AliExpress - AliExpress-6002628019",
+        "Amazon",
+        "Amazon CA",
+        "eBay - humble_living_sales"
+      ],
+      "cheapest": 11.1,
+      "typical": 35.99,
+      "most_reviewed": {
+        "seller": "Amazon CA",
+        "title": "iDOO Heating Pad",
+        "reviews": 280,
+        "price_text": "$29.99"
+      },
+      "top_rows": [
+        {
+          "seller": "Amazon CA",
+          "title": "iDOO Heating Pad",
+          "price_text": "$29.99",
+          "price": 29.99,
+          "rating": 2.7,
+          "reviews": 280,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:8881068347017599774,productid:2213163779297725509,headlineOfferDocid:5367129777537119644,imageDocid:16435703496163416325,rds:PC_14144171375195662645|PROD_PC_14144171375195662645,gpcid:14144171375195662645,mid:576462517996131341,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmnPkESOOuiU58i_oFCAO_L2yFKs07-_MUFc-lVUZAmxCb8bvxGBg8jXWJjEH5QqizV7tmvq-0kycImDBkPCC-tUOikA-9xg"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "iDOO Heating Pad",
+          "price_text": "$29.99",
+          "price": 29.99,
+          "rating": 2.7,
+          "reviews": 280,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:8881068347017599774,productid:2213163779297725509,headlineOfferDocid:9759034017712854752,imageDocid:16435703496163416325,rds:PC_14144171375195662645|PROD_PC_14144171375195662645,gpcid:14144171375195662645,mid:576462517996131341,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmnPkESOOuiU58i_oFCAO_L2yFKs07-_MUFc-lVUZAmxCb8bvxGBg8jXWJjEH5QqizV7tmvq-0kycImDBkPCC-tUOikA-9xg"
+        },
+        {
+          "seller": "desertcart.com.sa",
+          "title": "iDOO Heating Pad",
+          "price_text": "$60.94",
+          "price": 60.94,
+          "rating": 2.7,
+          "reviews": 280,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:8881068347017599774,productid:2213163779297725509,headlineOfferDocid:3566549941271042451,imageDocid:16435703496163416325,rds:PC_14144171375195662645|PROD_PC_14144171375195662645,gpcid:14144171375195662645,mid:576462517996131341,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmnPkESOOuiU58i_oFCAO_L2yFKs07-_MUFc-lVUZAmxCb8bvxGBg8jXWJjEH5QqizV7tmvq-0kycImDBkPCC-tUOikA-9xg"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "iDOO Heating Pad",
+          "price_text": "$123.08",
+          "price": 123.08,
+          "rating": 2.7,
+          "reviews": 280,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:8881068347017599774,productid:2213163779297725509,headlineOfferDocid:2016617602478546097,imageDocid:16435703496163416325,rds:PC_14144171375195662645|PROD_PC_14144171375195662645,gpcid:14144171375195662645,mid:576462517996131341,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmnPkESOOuiU58i_oFCAO_L2yFKs07-_MUFc-lVUZAmxCb8bvxGBg8jXWJjEH5QqizV7tmvq-0kycImDBkPCC-tUOikA-9xg"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "Rael Herbal Heating Patches Ultra Thin Design",
+          "price_text": "$22.99",
+          "price": 22.99,
+          "rating": 3.2,
+          "reviews": 197,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:1195865012028662245,productid:11127796937170560197,headlineOfferDocid:8048526471973293911,imageDocid:12749733976437815794,rds:PC_15435579458687867238|PROD_PC_15435579458687867238,gpcid:15435579458687867238,mid:576462892666789862,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSunyjyBlMXmw34UM6HHYDcuUbATYVmYWDU6usC9aOIsOn_VZJlcye72tUZ2QiGwWKNuQSmlFvxPxwbJteFE383vjJQT8JAJA"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "Rael Herbal Heating Patches Ultra Thin Design",
+          "price_text": "$22.99",
+          "price": 22.99,
+          "rating": 3.2,
+          "reviews": 197,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:1195865012028662245,productid:11127796937170560197,headlineOfferDocid:10993512865745264637,imageDocid:12749733976437815794,rds:PC_15435579458687867238|PROD_PC_15435579458687867238,gpcid:15435579458687867238,mid:576462892666789862,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSunyjyBlMXmw34UM6HHYDcuUbATYVmYWDU6usC9aOIsOn_VZJlcye72tUZ2QiGwWKNuQSmlFvxPxwbJteFE383vjJQT8JAJA"
+        },
+        {
+          "seller": "desertcart.com.sa",
+          "title": "Rael Herbal Heating Patches Ultra Thin Design",
+          "price_text": "$45.04",
+          "price": 45.04,
+          "rating": 3.2,
+          "reviews": 197,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:1195865012028662245,productid:11127796937170560197,headlineOfferDocid:9506332579486469800,imageDocid:12749733976437815794,rds:PC_15435579458687867238|PROD_PC_15435579458687867238,gpcid:15435579458687867238,mid:576462892666789862,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSunyjyBlMXmw34UM6HHYDcuUbATYVmYWDU6usC9aOIsOn_VZJlcye72tUZ2QiGwWKNuQSmlFvxPxwbJteFE383vjJQT8JAJA"
+        },
+        {
+          "seller": "Amazon CA",
+          "title": "Coussin chauffant électrique portable pour crampes, coussin chauffant rapide sans fil amél",
+          "price_text": "$35.99",
+          "price": 35.99,
+          "rating": 3.6,
+          "reviews": 177,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:17009198525718926480,headlineOfferDocid:17009198525718926480,imageDocid:2674825259759614577,rds:PC_10308630254965428796|PROD_PC_10308630254965428796,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTEZyk3kS2XHTWIiUY465664YDv42z5U07UokzlZeKnSkTwvVrbEMy-lRD1jNZA1jz51X16r-BNjRbcVwMPc-2z4Ptabw8fTOwgcdPH69ZpIor_DL8sohEliA"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Walmart.ca",
+          "title": "Yeacher Menstrual Heating Pad Portable USB Cable Cordless with 3 Heat Levels and 3 Vibrati",
+          "price_text": "$27.26",
+          "price": 27.26,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:12543890391256284917,headlineOfferDocid:12543890391256284917,imageDocid:12885707536750259515,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSc-MjXzp1_GCDlZfMAArp75J8IfpP_Cthda2Ly1ylvEJ16gXqgY_-4LN1g996Q5xar1kAr64OVb0mNl_-9rqE06xqV_ZGP5tzoh5_8mTKfHMuqQfeHM0YSmw"
+        },
+        {
+          "seller": "Walmart.ca",
+          "title": "Shyuyusa 9 Gear Heating Pad Hot Compress Belt 11.81 x 23.62 Inch for Waist Abdomen Warmth ",
+          "price_text": "$56.99",
+          "price": 56.99,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:10825544254262395412,headlineOfferDocid:10825544254262395412,imageDocid:6111419742118807260,pvt:hg&hl=en&gl=ca&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSz7TxaK-n4QMU9v130gJ0jeIxElVFmlA5AEfOw4lodQgBcEXBARXIm82Dtlbffgj9NgGQXb38cUSHxJQ00WJGfkpA6HfqG3A"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "currency": "€",
+      "status": "blocked",
+      "why": "Rossmann.de sells it at 49,99 €",
+      "results": 40,
+      "distinct_sellers": 13,
+      "chains_present": [
+        "OTTO",
+        "Rossmann.de",
+        "otto.de"
+      ],
+      "marketplaces_present": [
+        "Amazon.de",
+        "Amazon.de - Amazon.de-Seller",
+        "DocMorris – die Apotheke.",
+        "Kaufland.de - PrimePick",
+        "Kaufland.de - QYSPShop",
+        "LymphPumpe.de - Scart Kft",
+        "Shop Apotheke - HUGBOX",
+        "eBay - tiant_56"
+      ],
+      "cheapest": 6.99,
+      "typical": 26.99,
+      "most_reviewed": {
+        "seller": "Amazon.de - Amazon.de-Seller",
+        "title": "Comfytemp Extra flauschig Wärmegürtel Periode mit Massage Akku Kabellos USB | Infrarot Bau",
+        "reviews": 500,
+        "price_text": "35,99 €"
+      },
+      "top_rows": [
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "Comfytemp Extra flauschig Wärmegürtel Periode mit Massage Akku Kabellos USB | Infrarot Bau",
+          "price_text": "35,99 €",
+          "price": 35.99,
+          "rating": 4.6,
+          "reviews": 500,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:5986637983991457839,headlineOfferDocid:5986637983991457839,imageDocid:10067952761258500894,rds:PC_16355000870447708616|PROD_PC_16355000870447708616,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSIUOWP0AFxmJuqMpJSXTtLk67oyu1hPkOpxRjiCGZX1088-5E3YsY1Pm1PUhCWxUV30O2tM1zPn-lYK_aWs4hPRkvH1OaXq_JlQ8yM09LNUr42Fz7VrSi"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "iDoo Wärmegürtel Elektrisch Akku 3 Heizstufen Massage Schmerzlinderung Bauch Rücken",
+          "price_text": "19,99 €",
+          "price": 19.99,
+          "rating": 4.1,
+          "reviews": 362,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:8881068347017599774,productid:7340296510084195518,headlineOfferDocid:16819195408610275713,imageDocid:10393834745017925012,rds:PC_14144171375195662645|PROD_PC_14144171375195662645,gpcid:14144171375195662645,mid:576462517996131341,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSu-2QKjQVDi97CYTVATzKv4d1cYY7bXOjoKJO1Hj3I-uQ5cFjlQp34HrRxRr8PAygnRrusAI-GCAUFjPFatei-rNM9gEmpsAqMUphit9E"
+        },
+        {
+          "seller": "Rossmann.de",
+          "title": "Beurer EM 50 Menstrual Relax",
+          "price_text": "49,99 €",
+          "price": 49.99,
+          "rating": 4.2,
+          "reviews": 219,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:14295586522918278881,productid:7520887533980227411,headlineOfferDocid:12966600517915490772,imageDocid:772667640659998153,rds:PC_1530766916528104583|PROD_PC_1530766916528104583,gpcid:1530766916528104583,mid:576462700140929244,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwmVq7PYdustUiICnI9h0PYbw4455kz84kxeDFN01tb3UTQRVjG54iy6EUiMS0JaDAR73krNrdacBZ8sM8DMCDbEE1z-BvoTDyYh5-V2jU"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "iDoo Wärmegürtel Periode Kabellos Heizkissen Massage Tragbar 3 Modi 2000mAh Akku 40",
+          "price_text": "21,99 €",
+          "price": 21.99,
+          "rating": 3.8,
+          "reviews": 66,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:2220175641615436977,productid:12931707487424519233,headlineOfferDocid:1044680096781908655,imageDocid:9516559819029935031,rds:PC_13518074708326057777|PROD_PC_13518074708326057777,gpcid:13518074708326057777,mid:576462808320847672,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRupu9CsN2YuCDS6YCeMGtGp9pn35V23RBB5rnaenIuolg1AkkKpYv1g0mpqSRlGMNyJ9ZQm-_r9AaTgzjbgDmVM8r4ZfJWg1Wjf3J9TyVKIEDrIZyiKYYlmg"
+        },
+        {
+          "seller": "Amazon.de - Amazon.de-Seller",
+          "title": "Comfytemp Wärmegürtel Periode Rücken Vibrationsmassage Kabellos Bauchwärmer | 5000mAh Akku",
+          "price_text": "33,99 €",
+          "price": 33.99,
+          "rating": 4.4,
+          "reviews": 14,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=productid:5726738538339517192,headlineOfferDocid:5726738538339517192,imageDocid:5382275147250217187,rds:PC_8721407473284903694|PROD_PC_8721407473284903694,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRmUwEdLG_NCRUnQdJhSsnutSkah2oZCcN53wZKQMNXp-Nzi8y4s_8dpcq6QNl859U9yKD7ArvjW3Sg55bHAQUg3aurwYoUxlkq4Z-XA61J"
+        },
+        {
+          "seller": "Neded",
+          "title": "Neded Wärmegürtel gegen Menstruationsbeschwerden Infrarotwärme & Virbrationen",
+          "price_text": "39,95 €",
+          "price": 39.95,
+          "rating": 4.7,
+          "reviews": 12,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:3651632335431006734,productid:8289732208624525578,headlineOfferDocid:17692796277909597252,imageDocid:11368772273754874583,rds:PC_2165049020268184349|PROD_PC_2165049020268184349,gpcid:2165049020268184349,mid:576462531115338789,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOq0iaH6jNKaU1h_2PRuPlOK27vCaqYqht4OAC3B7CscgjCtBh63x1iVhSBcqe2THA3Ar1tdJCgFAhCqe1h6yalKlYsQSN-XGKI52-Q8sL3oqovTsgWp8k"
+        },
+        {
+          "seller": "LymphPumpe.de - Scart Kft",
+          "title": "TensCare Ova Therma-Gerät gegen Menstruations",
+          "price_text": "21,20 €",
+          "price": 21.2,
+          "rating": 2.8,
+          "reviews": 4,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:2422367842426631897,productid:11605822245279474265,headlineOfferDocid:13599578016506137579,imageDocid:6616460338121144059,rds:PC_5928437720718633243|PROD_PC_5928437720718633243,gpcid:5928437720718633243,mid:576462705488564229,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSXuTXQ7X2CR_a-HDyEVo4MznKhqxhykOW65KdmzRBducSTFT9s3F95o8j1AI6BbIHAmvEbyLTUnjA2Dyuk30waotZ6HR-xvUoI6NzMcH4g-TAhk4f-eA2pCQ"
+        },
+        {
+          "seller": "DocMorris – die Apotheke.",
+          "title": "Paloma Beauties Heizender und vibrierender Gürtel 670 g",
+          "price_text": "125,00 €",
+          "price": 125.0,
+          "rating": 4.8,
+          "reviews": 4,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:15891197011475385406,productid:3232540146866294055,headlineOfferDocid:16045825263317039558,imageDocid:16211392692624225648,rds:PC_17344300780569030190|PROD_PC_17344300780569030190,gpcid:17344300780569030190,mid:576462865243008429,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQflzv8uWrg5d2pD266hLJ4foyOZ5tOYlUHeBpx4dxF7yOE-pajGcLLq7keiKrujpAM-6sdgm2yEfIL4h1aMNRu4Rmz2mJak8NiQ6VabHx18aqgmXusU46URA"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Rossmann.de",
+          "title": "Beurer EM 50 Menstrual Relax",
+          "price_text": "49,99 €",
+          "price": 49.99,
+          "rating": 4.2,
+          "reviews": 219,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:14295586522918278881,productid:7520887533980227411,headlineOfferDocid:12966600517915490772,imageDocid:772667640659998153,rds:PC_1530766916528104583|PROD_PC_1530766916528104583,gpcid:1530766916528104583,mid:576462700140929244,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTwmVq7PYdustUiICnI9h0PYbw4455kz84kxeDFN01tb3UTQRVjG54iy6EUiMS0JaDAR73krNrdacBZ8sM8DMCDbEE1z-BvoTDyYh5-V2jU"
+        },
+        {
+          "seller": "OTTO",
+          "title": "Vulpés BellyBelt Wärmegürtel für Bauch",
+          "price_text": "99,00 €",
+          "price": 99.0,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:16564848387192971082,productid:17324065661824572299,headlineOfferDocid:8106466549664824077,imageDocid:5292381256909737257,gpcid:11694936099195703962,mid:576462859590644386,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRidLFOA_l-Q82nlmyUD_h-tD-1OmikMrKly7n0d920A3PvuAdknn1e_xv3iv1qL-pfgjaiwq9MUWyq48TAHFDKrdDFq6qmrtcojNRWVKlM6b-1SrOkx53E5w"
+        },
+        {
+          "seller": "otto.de",
+          "title": "Coonoor Heizkissen Menstruations-Heizkissen Wärmegürtel Heizgürtel Bauchheizkissen",
+          "price_text": "35,88 €",
+          "price": 35.88,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:12041064442286290156,productid:8266330046375018119,headlineOfferDocid:9208417206008335090,imageDocid:13749135204948112013,gpcid:4338336401888784246,mid:576462778246892011,pvt:hg&hl=de&gl=de&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQT0v1urffq-4Pkdx7dx1__BS-IFlDVzhds8KY-4cSTuQqBRjDwlKCfQdjRNks57q6qPGG8cJLaz3xhmg1EgeOqevaR1qgptI9gUZWaD3N_Mykc001I6YHPGA"
+        }
+      ],
+      "thin_market": false
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "currency": "NZ$",
+      "status": "blocked",
+      "why": "Mitre 10 sells it at $14.99",
+      "results": 40,
+      "distinct_sellers": 20,
+      "chains_present": [
+        "Briscoes",
+        "Mitre 10"
+      ],
+      "marketplaces_present": [
+        "Dick Smith NZ",
+        "eBay"
+      ],
+      "cheapest": 14.99,
+      "typical": 99.99,
+      "most_reviewed": {
+        "seller": "PB Tech",
+        "title": "Beurer Personal Heating Pad",
+        "reviews": 177,
+        "price_text": "$89.00"
+      },
+      "top_rows": [
+        {
+          "seller": "PB Tech",
+          "title": "Beurer Personal Heating Pad",
+          "price_text": "$89.00",
+          "price": 89.0,
+          "rating": 5.0,
+          "reviews": 177,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:8860689300564736851,productid:15293448575234701796,headlineOfferDocid:17095654853954566238,imageDocid:14452827246900906481,rds:PC_16166832511818815862|PROD_PC_16166832511818815862,gpcid:16166832511818815862,mid:576462439573487724,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSq2NMva57WtUCfPI3tXD8EhO3m-8NeWaupGK6PwhwCHYn-G6bMTi4mLvVulzYz1ZE-N92k0j5DJJmgCcWWxs5GFAaMJLyx_dn--SkOXK4C7E2fhlDPlVOn"
+        },
+        {
+          "seller": "domestique.nz",
+          "title": "Therabody RecoveryTherm Back",
+          "price_text": "$399.00",
+          "price": 399.0,
+          "rating": 4.2,
+          "reviews": 147,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:14258222288094826659,productid:11966728085248650146,headlineOfferDocid:9941951821397892054,imageDocid:15103244376324768720,rds:PC_17559377184447026798|PROD_PC_17559377184447026798,gpcid:17559377184447026798,mid:576462428438811554,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSqTFbITw7NxHwGQWOzNLAUSUvWqoX9ZJlA3ktPfj8siVsG8nfiIBCNyiS89YtOUWStJNBtIWBVA1txWS_lVmznwDMVaJNqMQlH2droQUgQkO-K97vyCy6iug"
+        },
+        {
+          "seller": "Dick Smith NZ",
+          "title": "Heating Pad for Neck Shoulder Heating Mat Hot Compress Physiotherapy Heating Shawl Electri",
+          "price_text": "$42.93",
+          "price": 42.93,
+          "rating": 5.0,
+          "reviews": 105,
+          "is_chain": false,
+          "is_marketplace": true,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:14995827380462074757,productid:14168472673709149596,headlineOfferDocid:16995769330521908203,imageDocid:14517932799912135723,rds:PC_4351322457589311701|PROD_PC_4351322457589311701,gpcid:4351322457589311701,mid:576462542883619565,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRa9ILV4d3gCYvx0StNrNAsh7tSUB4mX2OA2Aoopax1FLunYBUftoLHAgOsiUpyjp5gqddc4lvouV1etJHW6RY9GxPpJ9gi5rlEyF6K0rdMdn_2XIuezxwUbw"
+        },
+        {
+          "seller": "Dokodemo",
+          "title": "Kiribai Reuseble Steam Pillow With Strap",
+          "price_text": "$33.27",
+          "price": 33.27,
+          "rating": 2.9,
+          "reviews": 56,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:12871499651300259634,productid:6557785391947113717,headlineOfferDocid:15501996985599309144,imageDocid:5460627781044115186,rds:PC_4945113311669520774|PROD_PC_4945113311669520774,gpcid:4945113311669520774,mid:576462497137953888,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQp8BdPU67rUTMHVM4VjpmhSafnldVfC9hlg3pG0EXnGzhgacgfwS4PFx3-rLzY_oK1vZTk64qWAvVVUevyj-druNKL4ifP7Nz3e0TzwbE"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "Cordless Heating Pad for Back Pain Relief with Massager Wearable Lower Back Heating Pad wi",
+          "price_text": "$109.01",
+          "price": 109.01,
+          "rating": 4.0,
+          "reviews": 44,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:8935921853770915878,productid:12411800186543074778,headlineOfferDocid:16921854131018264130,imageDocid:14632367273715016696,rds:PC_629980774249606457|PROD_PC_629980774249606457,gpcid:629980774249606457,mid:576462820657710889,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQeE2eec7PrcvqOQ6y7QVLwItUM81rov-QXsfaU3fugxq4FftRD5sMMJM7UzCBPy6aZHsh_wVhJ89BcBnozM3pP1ljdjRbs8LuoWcutykISERmviOGap_Mwng"
+        },
+        {
+          "seller": "Life Pharmacy Orewa",
+          "title": "Kinetik Wellbeing Complete Period Pain Reliever",
+          "price_text": "$99.99",
+          "price": 99.99,
+          "rating": 5.0,
+          "reviews": 20,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:3929838461528628124,productid:15987677343611057096,headlineOfferDocid:8624826886288036754,imageDocid:11626565480337031479,rds:PC_18056781813911436732|PROD_PC_18056781813911436732,gpcid:18056781813911436732,mid:576462840000238548,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtjS1DOkHrgUqwGQtvx28Ddhtu5iUZkrYH38jDDqPRlu0f98pumyn1AI3zyxoTHEjZYyyJ2bObruX0r_aK_O37R2gxVRV39V4HglaLZLzPinNBhhur5K9GVA"
+        },
+        {
+          "seller": "Desertcart.ae",
+          "title": "UTK Far Infrared Adjustable Jade and Tourmaline Heating Pad w/Controller & Pouch",
+          "price_text": "$285.86",
+          "price": 285.86,
+          "rating": 5.0,
+          "reviews": 17,
+          "is_chain": false,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:4876337336714832486,productid:12201573728456910372,headlineOfferDocid:9629494573731517716,imageDocid:4746120659916042514,rds:PC_16181258992578310331|PROD_PC_16181258992578310331,gpcid:16181258992578310331,mid:576462568157521746,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR_xrL4avcyrbnrpsG_pU3mbfhNiYgaxg8S_Mq0eCbxUDDyfidCYNtYt-j4JQ6VL5NrVBpuEVktykpqS4Q-YRI4Tf6yeGGE-RN_4zpOjPs"
+        },
+        {
+          "seller": "Mitre 10",
+          "title": "Nouveau Heatpack Rectangle",
+          "price_text": "$14.99",
+          "price": 14.99,
+          "rating": 1.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:6618869215893541834,productid:3750964599636214738,headlineOfferDocid:13088441814985638956,imageDocid:14054259296848903700,rds:PC_4279496583057873196|PROD_PC_4279496583057873196,gpcid:4279496583057873196,mid:576462883881414747,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVycu4Uyk2cK0fze9qU5vm-8A9DBpiT3ATUcMZj-U0O-qIAQ9AMUPXuJgrfjuxK2yd2U4nAWl9KaHmhiAGKoPTUI33C3-e"
+        }
+      ],
+      "chain_rows": [
+        {
+          "seller": "Mitre 10",
+          "title": "Nouveau Heatpack Rectangle",
+          "price_text": "$14.99",
+          "price": 14.99,
+          "rating": 1.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:6618869215893541834,productid:3750964599636214738,headlineOfferDocid:13088441814985638956,imageDocid:14054259296848903700,rds:PC_4279496583057873196|PROD_PC_4279496583057873196,gpcid:4279496583057873196,mid:576462883881414747,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVycu4Uyk2cK0fze9qU5vm-8A9DBpiT3ATUcMZj-U0O-qIAQ9AMUPXuJgrfjuxK2yd2U4nAWl9KaHmhiAGKoPTUI33C3-e"
+        },
+        {
+          "seller": "Briscoes",
+          "title": "IS GIFT Bunny Tail Heat Pack",
+          "price_text": "$15.00",
+          "price": 15.0,
+          "rating": null,
+          "reviews": null,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:17600627654781413640,productid:7416627509482552176,headlineOfferDocid:10835510813617888677,imageDocid:7493177553749633174,gpcid:15481651938003802312,mid:576462769731010860,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTIDrYBAIPTVllrMkdbg_d1o3xwiGDyld__nD1a3dfbX0PB2rFScQQp32Ch9xOypb4JxcOLr4hh_mi67NWB-SQE8uu2d3xbINkYruuOb5PFo-Z1BWAqghG"
+        },
+        {
+          "seller": "Briscoes",
+          "title": "Sunbeam MultiZone Heat Pad",
+          "price_text": "$149.99",
+          "price": 149.99,
+          "rating": 5.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:12971186466348515784,productid:13192966470425604958,headlineOfferDocid:12591962215793378418,imageDocid:7938479216929495442,rds:PC_7764927444415310012|PROD_PC_7764927444415310012,gpcid:7764927444415310012,mid:576462476610097680,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQkVun3a83XcTvGOG7QcN1rii0XKsPIuKfJRodiLW5OD5KwYIzQei9xSdFUubnhYHjyu7hdhiBKoAxECN_LCyjJmFQt-8MYykZJP2OBR5DNZoxYEzVblMFi"
+        },
+        {
+          "seller": "Mitre 10",
+          "title": "Nouveau Heatpack Rectangle",
+          "price_text": "$14.99",
+          "price": 14.99,
+          "rating": 1.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:6618869215893541834,productid:3750964599636214738,headlineOfferDocid:10814351442861635887,imageDocid:14054259296848903700,rds:PC_4279496583057873196|PROD_PC_4279496583057873196,gpcid:4279496583057873196,mid:576462883881414747,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVycu4Uyk2cK0fze9qU5vm-8A9DBpiT3ATUcMZj-U0O-qIAQ9AMUPXuJgrfjuxK2yd2U4nAWl9KaHmhiAGKoPTUI33C3-e"
+        },
+        {
+          "seller": "Mitre 10",
+          "title": "Nouveau Heat Pack 450x120x20mm Classic Herringbone",
+          "price_text": "$14.99",
+          "price": 14.99,
+          "rating": 1.0,
+          "reviews": 1,
+          "is_chain": true,
+          "is_marketplace": false,
+          "link": "https://www.google.com/search?ibp=oshop&q=period heating pad belt&prds=catalogid:15543646769772709065,productid:11652209621720110237,headlineOfferDocid:8511002754970725677,imageDocid:2995017288333799224,rds:PC_5159467308136917065|PROD_PC_5159467308136917065,gpcid:5159467308136917065,mid:576462820035923393,pvt:hg&hl=en&gl=nz&udm=28",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWVSV8HzYS7lD-TR9XWHIxLkI2ceOcRJLZ1fl7nerOtDTdbkWXE87lipj6i-De1ZBEZ9uCgvRZnsVKBXQXR4GBMsUQB73g"
+        }
+      ],
+      "thin_market": false
+    }
+  ]
+}

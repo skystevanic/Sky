@@ -1,0 +1,108 @@
+{
+  "input_url": "https://www.mellorelief.com/products/mello-heat-massage-belt-us",
+  "store_root": "https://www.mellorelief.com",
+  "platform": "shopify",
+  "title": "Mello - Drug-Free Period Pain & Endometriosis Comfort",
+  "vendor": "Dropsure",
+  "product_type": "Health, Beauty & Hair",
+  "created_at": "2026-09-29T21:45:00+01:00",
+  "updated_at": "2026-10-14T11:04:14+01:00",
+  "price_min": 59.99,
+  "price_max": 59.99,
+  "was_price": null,
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "59.99",
+      "was": "",
+      "available": null
+    }
+  ],
+  "description": "No electrodes. No zaps. No more reheating a hot water bottle at 2am. Mello combines gentle heat with massage to ease period cramps and endo pain — without the pinch and shock of a TENS device, and without being tied to a wall socket or a bottle that goes cold in twenty minutes. Why it works 5 heat settings (45–65°C) so you can dial in exactly what you need 4 massage modes for a gentle, soothing sensation — not a shock or a zap USB-C rechargeable and fully cordless — use it in bed, at your desk, or on a night out Soft, discreet design that sits comfortably under clothing Built for real life, not just the sofa Wear it to work. Wear it to bed. Wear it on the days you'd normally cancel plans. Mello is designed to move with you, not the other way round. Try it risk-free We're backing Mello with a 100-day money-back guarantee. Give it a full cycle or two — if it hasn't made a real difference, send it back for a full refund. No small print, no hoops to jump through.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/mkt_120575066451_US_HERO_IMAGE.png?v=1790703297",
+    "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260822_151547_f84418e0-594f-45da-b12f-af28eca4dca0.png?v=1787412740",
+    "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260926_211820_340f750f-1d67-4fe5-baee-5617f7d6a75c.png?v=1790457730",
+    "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260821_140621_7786113c-db78-443f-8a3c-1dd91b124eaa.png?v=1787321255",
+    "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/Mello_vs_Generic_Period_Pain_Devices.png?v=1791924828",
+    "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260905_092957_11f34834-4f2a-4e53-99bb-52316ce1b8ae.png?v=1788600696",
+    "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/HeatForPeriod.png?v=1790715011",
+    "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260821_142223_1f7480a8-0f90-4b72-a068-c8a51eb80c1f.png?v=1787323512"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 8,
+    "first_product_created": "2026-07-01T20:58:53+01:00",
+    "newest": [
+      {
+        "title": "Mello - Add an additional Device",
+        "created_at": "2026-10-03",
+        "price": "59.99"
+      },
+      {
+        "title": "Mello - Drug-Free Period Pain & Endometriosis Comfort",
+        "created_at": "2026-09-29",
+        "price": "59.99"
+      },
+      {
+        "title": "Cozy Comfort Socks",
+        "created_at": "2026-09-29",
+        "price": "5.99"
+      },
+      {
+        "title": "Mello Quilted Travel Pouch",
+        "created_at": "2026-09-09",
+        "price": "5.99"
+      },
+      {
+        "title": "Calming PMS Relief Herbal Tea Blend",
+        "created_at": "2026-09-05",
+        "price": "5.99"
+      },
+      {
+        "title": "Calming Lavender Eye Mask",
+        "created_at": "2026-08-12",
+        "price": "5.99"
+      },
+      {
+        "title": "Self Care Kit - Lavender Eye Mask & Soothing Bath Bomb",
+        "created_at": "2026-07-02",
+        "price": "6.99"
+      },
+      {
+        "title": "Mello - Drug-Free Period Pain & Endometriosis Relief",
+        "created_at": "2026-07-01",
+        "price": "59.99"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "GBP",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/mello-belt/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/mkt_120575066451_US_HERO_IMAGE.png?v=1790703297"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/mello-belt/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260822_151547_f84418e0-594f-45da-b12f-af28eca4dca0.png?v=1787412740"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/mello-belt/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260926_211820_340f750f-1d67-4fe5-baee-5617f7d6a75c.png?v=1790457730"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/mello-belt/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260821_140621_7786113c-db78-443f-8a3c-1dd91b124eaa.png?v=1787321255"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/mello-belt/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/Mello_vs_Generic_Period_Pain_Devices.png?v=1791924828"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/mello-belt/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1083/3009/0835/files/hf_20260905_092957_11f34834-4f2a-4e53-99bb-52316ce1b8ae.png?v=1788600696"
+    }
+  ]
+}
