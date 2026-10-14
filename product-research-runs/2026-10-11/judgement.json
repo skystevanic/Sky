@@ -1005,6 +1005,85 @@
     "note": "The same white fabric mask with a round metal controller on the forehead."
    },
    "advertiser_takeaway": "Silk'n, an established beauty-device brand, runs about 110 ads for \"EMS face mask\" across the UK, Germany and France, all started this month. Revylift adds 37 more. Swirise itself is not among the advertisers for this phrase."
+  },
+  {
+   "slug": "sinutherm",
+   "name": "Heated Red-Light Sinus Mask (SinuTherm Pro)",
+   "brand": "WellSenses (Nikaraa)",
+   "url": "https://www.nikaraa.com/products/wellsenses%E2%84%A2-sinutherm-pro",
+   "category": "Health device: red-light sinus relief",
+   "price": "£49.99 (shown as reduced from £99.99)",
+   "store_platform": "Shopify",
+   "store_launched": "2025-09",
+   "store_products": "72 products, rotating health gadgets",
+   "one_liner": "A generic heated nose mask sold with medical claims (\"no more sinusitis\"). Medical claims on an electrical device make this the riskiest product so far for a beginner.",
+   "verdict": "Avoid",
+   "overall": 42,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 7,
+    "margin": 7,
+    "viral": 6,
+    "pain": 7,
+    "differentiation": 2
+   },
+   "why": [
+    "It promises relief from sinusitis and congestion: medical claims that Meta and EU law restrict",
+    "The same wrap is on Amazon in all six countries from about A$29, and on Temu",
+    "45+ brands advertise \"sinus relief\", led by Soovera, NeilMed and Kaplan"
+   ],
+   "risk": "Selling a device with medical claims can mean ad bans, account bans and, in the EU, medical-device rules.",
+   "next": [
+    "Skip it. Avoid anything sold by promising to treat a health condition"
+   ],
+   "best_region": "None.",
+   "snapshot": {
+    "icp": "Adults 35-65 with chronic sinus pressure or congestion",
+    "job": "Relieve blocked sinuses without medication",
+    "cogs": "About £5-8 landed for a generic heated wrap (estimate)",
+    "margin": "About 85% at £49.99 (estimate)",
+    "claims": "Heat and red-light therapy; \"no more sinusitis\"; \"100% safe\"; \"guaranteed result\"",
+    "demoable": "Yes, but the before/after is an illustration, not a real result"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells this exact wrap; Kmart, Target and Argos sell other red-light devices"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "The same wrap is on Amazon in all six countries, top 9-12 in Australia and Canada"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded rather than a swarm: the biggest shops are all over a year old"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small and light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "fail",
+     "why": "Medical claims on an electrical device: Meta health-ad rules and EU medical-device law"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on: the core message is a medical claim"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 33,
+    "match_name": "Amazon Australia (A$28.90)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same black heated wrap with a strip of red lights across the nose."
+   },
+   "advertiser_takeaway": "\"Sinus relief\" is crowded: 45+ brands, 19 of them advertising for 3+ months, including pharmacy brand NeilMed. Nikaraa itself is a store that adds a new gadget almost every week, which suggests testing, not a proven product."
   }
  ]
 }

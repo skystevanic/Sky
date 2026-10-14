@@ -1,0 +1,58 @@
+{
+ "slug": "sinutherm",
+ "same": [
+  33,
+  50
+ ],
+ "top": 12,
+ "countries": {
+  "au": [
+   {
+    "where": "Amazon",
+    "source": "amazon.com.au",
+    "title": "Nose Warmer Red Light Nasal Mask, 3 Levels Adjustable Nasal Heating Mask - Relieve Nasal C",
+    "link": "https://www.amazon.com.au/Warmer-Light-Levels-Adjustable-Heating/dp/B0GGGZKPJQ/",
+    "asin": "B0GGGZKPJQ",
+    "rank": 9,
+    "price_text": "$28.90",
+    "reviews": 28,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/sinutherm_vis_thumb_033.jpg"
+   }
+  ],
+  "nz": [
+   {
+    "where": "Amazon",
+    "source": "amazon.com.au",
+    "title": "Nose Warmer Red Light Nasal Mask, 3 Levels Adjustable Nasal Heating Mask - Relieve Nasal C",
+    "link": "https://www.amazon.com.au/Warmer-Light-Levels-Adjustable-Heating/dp/B0GGGZKPJQ/",
+    "asin": "B0GGGZKPJQ",
+    "rank": 9,
+    "price_text": "$28.90",
+    "reviews": 28,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/sinutherm_vis_thumb_033.jpg"
+   }
+  ],
+  "ca": [
+   {
+    "where": "Amazon",
+    "source": "amazon.ca",
+    "title": "Red Light Therapy for Nose Relief, Sinus Support & Better Breathing",
+    "link": "https://www.amazon.ca/Therapy-Relief-Support-Better-Breathing/dp/B0FJGD9NNN/",
+    "asin": "B0FJGD9NNN",
+    "rank": 12,
+    "price_text": null,
+    "reviews": 14,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/sinutherm_vis_thumb_050.jpg"
+   }
+  ]
+ }
+}

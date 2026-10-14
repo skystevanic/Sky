@@ -1,0 +1,2359 @@
+{
+ "slug": "sinutherm",
+ "image_url": "https://cdn.shopify.com/s/files/1/0923/0601/4551/files/hf_20260929_163313_22413590-31e0-4413-9c27-4d249996e78c.png?v=1790699962",
+ "brand_domain": "nikaraa.com",
+ "matches_per_country": {
+  "au": 58,
+  "us": 60,
+  "uk": 59,
+  "ca": 60,
+  "de": 59,
+  "nz": 60
+ },
+ "candidates": [
+  {
+   "source": "Amazon",
+   "title": "Red Light Nasal Therapy Device | No More Colds Red Light ...",
+   "link": "https://www.amazon.com.au/Therapy-Sinuses-Congestion-Rechargeable-Portable/dp/B0F127YX4S",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLB5xtgWk2H7mlg9zGdhEwa2n4Kx6HBBw936iwJx2t1rXF73l1",
+   "price_text": "A$28*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$28*"
+    }
+   },
+   "priced": true,
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_00.jpg"
+  },
+  {
+   "source": "Kmart",
+   "title": "Vibrating Red Light Belt - Kmart",
+   "link": "https://www.kmart.com.au/product/vibrating-red-light-belt-43722952/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkvqoWpl_IbqCKD8sTAtn00Viw-8xby3GXXoW8orHMldypgrrA",
+   "price_text": "A$69*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$69*"
+    }
+   },
+   "priced": true,
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_01.jpg"
+  },
+  {
+   "source": "Rebel",
+   "title": "Therabody Theragun Smart Goggles Gen 2 | Rebel Sport",
+   "link": "https://www.rebelsport.com.au/p/therabody-theragun-smart-goggles-gen-2-708842.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcmJGpPd9vGIbck0PLDow5bbiMm1n0eL0kTSRo5k445TUFA4Gp",
+   "price_text": "A$300*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$300*"
+    }
+   },
+   "priced": true,
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_02.jpg"
+  },
+  {
+   "source": "BIG W",
+   "title": "Red Light Therapy Belt 108 Leds 660nm Red Light & 850nm Near ...",
+   "link": "https://www.bigw.com.au/product/red-light-therapy-belt-108-leds-660nm-red-light-850nm-near-infrared-light-therapy-belt-with-5-levels/p/9903826811",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkBqVDwcIJB9hZehzIXgEi_gYlqd_o82EnFFalrXyR3TSaNiDc",
+   "price_text": "A$80*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$80*"
+    }
+   },
+   "priced": true,
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_03.jpg"
+  },
+  {
+   "source": "Bunnings",
+   "title": "100 LED Red Light Therapy Belt Black - Bunnings Australia",
+   "link": "https://www.bunnings.com.au/100-led-red-light-therapy-belt-black_p1024809",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfVgwgPr1lLTDG2iUepcMpjXU1LvmqFspKILg3BDG4S7waa_Ix",
+   "price_text": "A$141*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$141*"
+    }
+   },
+   "priced": true,
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_04.jpg"
+  },
+  {
+   "source": "Bunnings",
+   "title": "Infrared LED Red Light Therapy Belt Black - Bunnings Australia",
+   "link": "https://www.bunnings.com.au/infrared-led-red-light-therapy-belt-black_p1024813",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75LJUHFL7gWPekslQ4uOFBgA4RWk9_Sktp9nRSipYmu_gdhpM",
+   "price_text": "A$100*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$100*"
+    }
+   },
+   "priced": true,
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_05.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "LC-dolida Pro Bluetooth Sleep Mask with White Noise & 3 ...",
+   "link": "https://www.amazon.com.au/LC-dolida-Bluetooth-Headphones-Zero-Pressure-Sleepers/dp/B0HDCRHYX6",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVMyEKkLVFtOWLfBzS0s6EOXwx3e4elDKLdIGOx-VPhOojLWt9",
+   "price_text": "A$88*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$88*"
+    }
+   },
+   "priced": true,
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_06.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Bluetooth Sleep Mask Headphones 100% Blackout 3D Deep Eye ...",
+   "link": "https://www.amazon.com.au/Bluetooth-Headphones-Headphone-BluetoothV5-4-Breathable/dp/B0FLYGVV6L",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9eX7xJ1I89gNEqmr3VcK6DWKHeJs0tUZ5_88NnjTG5tWS0a3B",
+   "price_text": "A$30*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$30*"
+    }
+   },
+   "priced": true,
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_07.jpg"
+  },
+  {
+   "source": "Chemist Warehouse",
+   "title": "Buy PainPod Starter Pack TENS/EMS Bundle Pack online at ...",
+   "link": "https://www.chemistwarehouse.com.au/buy/157679/painpod-starter-pack-tens-ems-bundle-pack",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQYeuiBunsNlfd89Dy-khjUhQt9HPlFOHhUOsNF_CfJ9NKezeP",
+   "price_text": "A$685*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$685*"
+    }
+   },
+   "priced": true,
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_08.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Buy Cordless Red Light Therapy Wrist Hand Wrap Pain Relief ...",
+   "link": "https://www.dicksmith.com.au/da/buy/youngly-store-cordless-red-light-therapy-wrist-hand-wrap-pain-relief-arthritis-850nm-660nm-pad-d569-wrist/",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS62hSIqWN5-y9zHjRzNcXMV4LCBlElj67SRg-jVTBewaYs0DC5",
+   "price_text": "A$46*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$46*"
+    }
+   },
+   "priced": true,
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_09.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Cordless Heated Neck Massager Wrap, Neck Heating Pad with ...",
+   "link": "https://www.walmart.com/ip/Cordless-Heated-Neck-Wrap-Neck-Heating-Pad-Neck-Stiffness-Neck-Massager-Red-Light-3-Heating-Vibration-Hands-Legs-Wrists-USB-Charging/17050305428",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5iz1UjsEhX1B8WoGreWiVa7z2GNBDPRwuNfHVIIioznBKlhig",
+   "price_text": "$20*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$20*"
+    }
+   },
+   "priced": true,
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_10.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "LED Infrared Red Light Therapy Belt Facial Lifting Slim ...",
+   "link": "https://www.ebay.com/itm/176533993894",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSA9Ah7wATp1C0Hzy1CXQnC_egGg5RdaEooaD6O8ipYtoVGAmJy",
+   "price_text": "$55*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$55*"
+    }
+   },
+   "priced": true,
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_11.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Lucid Dreaming Mask Black - Red Light LED Lucid Dream ...",
+   "link": "https://www.ebay.com/itm/374528271580",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReLpRdu34Fu0V_DA-FJD1dF0Xx898JvixHNj5PDBFdg08dXeqj",
+   "price_text": "$40*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$40*"
+    }
+   },
+   "priced": true,
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_12.jpg"
+  },
+  {
+   "source": "CVS",
+   "title": "iHome Back Therapy Brace",
+   "link": "https://www.cvs.com/shop/ihome-back-therapy-brace-prodid-798111",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt_y7ViqPgcF3Jzr1Ua-hdea5ByUyshLGAXQ1SDI_IJb0L5SL",
+   "price_text": "$53*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$53*"
+    }
+   },
+   "priced": true,
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_13.jpg"
+  },
+  {
+   "source": "Target",
+   "title": "LifePro Red Light Therapy Belt with Vibration – 660nm ...",
+   "link": "https://www.target.com/p/lifepro-infrared-red-light-therapy-belt-pro-for-muscle-relaxation-inflammation-reduction-and-improved-circulation/-/A-92607500",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjgCeTX2FbOIF1WUVsUY5bR2Aqv6hkLWqbjp7W7fWjVr_Xstvd",
+   "price_text": "$180*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$180*"
+    }
+   },
+   "priced": true,
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_14.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Thera Wrap for Carpal Tunnel, with Heat & Massage, 2026 New ...",
+   "link": "https://www.walmart.com/ip/Thera-Wrap-Carpal-Tunnel-Heat-Massage-2026-New-3-1-Wrist-Heating-Pad-48-LEDs-Wrist-Brace-Hands-Wrap-Pad-Knee-Ankle-Foot-Joint-Just-15-Minutes-Day-1pc/18614571303",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGZyYG6i-U36YBWoYoIEnmhXwQL6ObT80jPd64Tw8QZgpsWxVD",
+   "price_text": "$29*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$29*"
+    }
+   },
+   "priced": true,
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_15.jpg"
+  },
+  {
+   "source": "Ulta Beauty",
+   "title": "Lifepro - Allevared Pro Red Light Therapy Belt | Ulta Beauty",
+   "link": "https://www.ulta.com/p/allevared-pro-red-light-therapy-belt-mkt77010561?sku=77016520",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxMdT40fmMWJe3haQ8MYG4fHq4hMLG8HxWnECWuHd_K6i5Uuw",
+   "price_text": "$180*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$180*"
+    }
+   },
+   "priced": true,
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_16.jpg"
+  },
+  {
+   "source": "Nordstrom",
+   "title": "Lifepro Allevared Micro Red Light Therapy Belt 660nm & 850nm ...",
+   "link": "https://www.nordstrom.com/s/allevared-micro-red-light-therapy-belt-660nm-850nm-near-infrared-red-light-pad/8932511",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ5G2lcoopvTLc7zd6aod6k1EUR5TsFoHvSZoxTziKC6pEANQv",
+   "price_text": "$70*",
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": "$70*"
+    }
+   },
+   "priced": true,
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_17.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Red Light Nasal, Red Light Therapy Nose, Nasal Soothing ...",
+   "link": "https://www.amazon.co.uk/Novaflow-Cleriva-Therapy-Soothing-Breathing/dp/B0F6YCZV89",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsP8yaQY_iyVkGKKDiq0usYcUHBulBt3kyv0ugzBMF-ON6lo-J",
+   "price_text": "£16*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£16*"
+    }
+   },
+   "priced": true,
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_18.jpg"
+  },
+  {
+   "source": "Argos",
+   "title": "Buy Reviber Muscle And Joint Care Infrared Light Therapy Pad ...",
+   "link": "https://www.argos.co.uk/product/7951712",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPKCfmaylTLU35UuKXCu3m4LIQCt1kFqT94x0xBd5CEFd0ZpJL",
+   "price_text": "£50*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£50*"
+    }
+   },
+   "priced": true,
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_19.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "Nasal Red Light Therapy Device – Sinus Congestion & Rhinitis ...",
+   "link": "https://www.ebay.co.uk/itm/389391926423",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQn8h-NmwdgpHDjoVAE7Uz_JK5H2lplzDUPFu-duNZB6T1AqMF",
+   "price_text": "£10*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_20.jpg"
+  },
+  {
+   "source": "Currys",
+   "title": "Buy REVIBER Infrared Heat Therapy Back Belt - Black | Currys",
+   "link": "https://www.currys.co.uk/products/reviber-infrared-heat-therapy-back-belt-black-10299821.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDr1djjmC8cdu6hjEsoKIqygP-j6cNdO8fkIgF_6aRaScmnj8l",
+   "price_text": "£90*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£90*"
+    }
+   },
+   "priced": true,
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_21.jpg"
+  },
+  {
+   "source": "Argos",
+   "title": "Buy Reviber Zen Physio Lower Back Therapy Belt | Light ...",
+   "link": "https://www.argos.co.uk/product/7952175",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCXtobopxDL3YBQZApyRNSnVdC4LvSyrKvEysnmtGhducpGT82",
+   "price_text": "£100*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£100*"
+    }
+   },
+   "priced": true,
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_22.jpg"
+  },
+  {
+   "source": "Sports Direct",
+   "title": "Reviber | Reviber Zen Physio Lower Back Therapy Belt ...",
+   "link": "https://www.sportsdirect.com/reviber-reviber-zen-physio-lower-back-therapy-belt-402929",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiskWSLq2TsYKNGnlW8wMJYDDykTunHxo9k_UjrEySkJYvxdG1",
+   "price_text": "£100*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£100*"
+    }
+   },
+   "priced": true,
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_23.jpg"
+  },
+  {
+   "source": "Currys",
+   "title": "Buy HOMEDICS IFR-SHL300H-WW Comfort Neck & Shoulder ...",
+   "link": "https://www.currys.co.uk/products/homedics-ifrshl300hww-comfort-neck-and-shoulder-vibration-massager-black-10306166.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80UIiKda6-8iivGXbYAvwJ44ibJ634D0MUVNlu-Hv6OlQvV3M",
+   "price_text": "£100*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£100*"
+    }
+   },
+   "priced": true,
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_24.jpg"
+  },
+  {
+   "source": "Currys",
+   "title": "Buy THERABODY ThermBack LED Back Massage Belt - Black | Currys",
+   "link": "https://www.currys.co.uk/products/therabody-thermback-led-back-massage-belt-black-10278565.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTBY_kxfP8C5zEq75FoSqK_JE2Us7utxeBecTwLZEbn3fG8bHw",
+   "price_text": "£249*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£249*"
+    }
+   },
+   "priced": true,
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_25.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Aroma Season Heated Eye Mask with Flaxseed, Warm Eye ...",
+   "link": "https://www.amazon.ca/Flaxseed-Therapy-Relieve-Syndrome-Blepharitis/dp/B07LBL172C",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQdINckcXFGUV0moknclSkfgi9E4lfdsdUuoN8fp3CMoMaVrU",
+   "price_text": "CA$37*",
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": "CA$37*"
+    }
+   },
+   "priced": true,
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_26.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "BOB AND BRAD ThermoRed Heating Pad Belt Massager for Lower ...",
+   "link": "https://www.amazon.ca/BOB-BRAD-ThermoRed-Adjustable-Vibration/dp/B0F5HV2FFM",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtwWlIW1E0rpj9XFlaHDh2NGKfBeeM3IwhWJ7LgXbRGgIx7mr",
+   "price_text": "CA$190*",
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": "CA$190*"
+    }
+   },
+   "priced": true,
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_27.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "RENPHO Red Light Belt, Heating Pad Massager, Christmas ...",
+   "link": "https://www.amazon.ca/RENPHO-Cordless-Adjustable-Vibration-Extension/dp/B0FSD4WPJ3",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSszOIKoDA8oLYTrNRis1-IWSilpHPoaYB1_d9tXTzZUf1uDfJK",
+   "price_text": "CA$140*",
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": "CA$140*"
+    }
+   },
+   "priced": true,
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_28.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "Cordless Red Light Therapy Pad for Neck Shoulder Pain Relief ...",
+   "link": "https://www.bestbuy.ca/en-ca/product/cordless-red-light-therapy-pad-for-neck-shoulder-pain-relief-wearable-near-infrared-light-shoulder-wrap-pad-red-light-therapy-shawl-for-back-muscle-relax/19217991",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJr4w-A4dCvvDKYN1LyIw1vkzlHZjfiA47jPbpK3iAuiUENu0X",
+   "price_text": "CA$150*",
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$150*"
+    }
+   },
+   "priced": true,
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_29.jpg"
+  },
+  {
+   "source": "Amazon.de",
+   "title": "No More Colds Red Light Therapy for Nose, Respirelief Red ...",
+   "link": "https://www.amazon.de/Red-Light-Therapy-Nasal-Instrument/dp/B0DPZ5C6LS",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiI4ovSUnpOizvwNxXzi0lPKcCFC1_MSNOX_GlRkpIW49ljU2Q",
+   "price_text": "€22*",
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": "€22*"
+    }
+   },
+   "priced": true,
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_30.jpg"
+  },
+  {
+   "source": "MediaMarkt",
+   "title": "DARMLINK Massagefunktion-3 Heizstufen & Vibrationsmodi ...",
+   "link": "https://www.mediamarkt.de/de/product/_darmlink-102316-heizkissen-145839307.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs_lZqraNGHHceVBAEKa81MmX0rpZgUq-st2CDYE8DSlpwnJdI",
+   "price_text": "€40*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€40*"
+    }
+   },
+   "priced": true,
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_31.jpg"
+  },
+  {
+   "source": "MediaMarkt",
+   "title": "BYTELIKE Rotlicht-Therapie mit Vibration Smart Massagegerät ...",
+   "link": "https://www.mediamarkt.de/de/product/_bytelike-rotlicht-therapie-mit-vibration-smart-massagegerat-165116899.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd0vMHX1AMI8mPLpY_qpRV1EETd5D6m-do8twZcutf4GPxd_QP",
+   "price_text": "€58*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€58*"
+    }
+   },
+   "priced": true,
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_32.jpg"
+  },
+  {
+   "source": "Saturn",
+   "title": "BYTELIKE Rotlicht-Therapie mit Vibration Smart Massagegerät ...",
+   "link": "https://www.saturn.de/de/product/_bytelike-rotlicht-therapie-mit-vibration-smart-massagegerat-165116899.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbSzkPvcTRAk5-XzXbV-xSrDF3qr6AdPcFUr_8thVHrgIkWEmt",
+   "price_text": "€58*",
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": "€58*"
+    }
+   },
+   "priced": true,
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_33.jpg"
+  },
+  {
+   "source": "Kmart",
+   "title": "Vibrating Red Light Belt - Kmart NZ",
+   "link": "https://www.kmart.co.nz/product/vibrating-red-light-belt-43722952/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTm8xLICmyeFvtUH31c-jmWj9IMhroEjdjwb216Xe7ueInOF9dB",
+   "price_text": "NZ$89*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$89*"
+    }
+   },
+   "priced": true,
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_34.jpg"
+  },
+  {
+   "source": "Noel Leeming",
+   "title": "Therabody ThermBack LED AU only 2.0 - Noel Leeming",
+   "link": "https://www.noelleeming.co.nz/p/therabody-thermback-led-au-only-2.0/N247090.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZcRY1YKMnnxgoesZP1ohJMw0VJVnmD2ul2qRuXqhCTSeW_vQX",
+   "price_text": "NZ$399*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$399*"
+    }
+   },
+   "priced": true,
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_35.jpg"
+  },
+  {
+   "source": "Noel Leeming",
+   "title": "Therabody SleepMask - Noel Leeming",
+   "link": "https://www.noelleeming.co.nz/p/therabody-sleepmask/N247084.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOvuGcm6_XUBALyyQy_2jANvPErD_GGOnM0GYfCWNLhhRVl_tk",
+   "price_text": "NZ$129*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$129*"
+    }
+   },
+   "priced": true,
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_36.jpg"
+  },
+  {
+   "source": "Mighty Ape",
+   "title": "Buy Therabody TheraFace LED Mask | Mighty Ape NZ",
+   "link": "https://www.mightyape.co.nz/mn/buy/therabody-theraface-led-mask-therabody/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAEmBSlvi9KBoYNA-yAM9khJgeMpPBwBWBy4IGkt5bYmavvNQh",
+   "price_text": "NZ$900*",
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": "NZ$900*"
+    }
+   },
+   "priced": true,
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_37.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Buy 3D Blackout Eye Masks Soft Breathable Sleep Mask for ...",
+   "link": "https://www.dicksmith.co.nz/dn/buy/microway-3d-blackout-eye-masks-soft-breathable-sleep-mask-for-travel-black-757300-blk/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZoig1_eorEoUaLb8kSrNd2wWDPgCT9roQ2vmGQhgkCCLrvObp",
+   "price_text": "NZ$37*",
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": "NZ$37*"
+    }
+   },
+   "priced": true,
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_38.jpg"
+  },
+  {
+   "source": "Noel Leeming",
+   "title": "Ryze Hot/Cool Eye Massager - Noel Leeming",
+   "link": "https://www.noelleeming.co.nz/p/ryze-hotcool-eye-massager/N253013.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYdW0sMYu0lQamrf-H_vquFdWoIdvXRudBjRFD-3JInhpeGWiB",
+   "price_text": "NZ$150*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$150*"
+    }
+   },
+   "priced": true,
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_39.jpg"
+  },
+  {
+   "source": "Briscoes",
+   "title": "Go Travel Sleepy ZZZ's Eye Mask | Briscoes",
+   "link": "https://www.briscoes.co.nz/product/1125170/go-travel-sleepy-zzz-s-eye-mask/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRICkV_YiiXQsCwgQxm8W7DaU-0Y0XhnbB9otZ7QA0_lrS1dAaz",
+   "price_text": "NZ$9*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$9*"
+    }
+   },
+   "priced": true,
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_40.jpg"
+  },
+  {
+   "source": "Leredd",
+   "title": "MiniFlex – Compact Flexible Red Light Therapy Wrap | Leredd ...",
+   "link": "https://leredd.com/products/the-miniflex",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKcFOKBflNMHTSpQ2afoUAcN2gUHbHw3rbCjNvKjcioxdxz1OW",
+   "price_text": "A$215*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$215*"
+    }
+   },
+   "priced": true,
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_41.jpg"
+  },
+  {
+   "source": "BePainFree",
+   "title": "BePainFree™ Infrared Neck & Joint Wrap – BEPAINFREE",
+   "link": "https://shop.bepainfree.com.au/products/neck-joint-wrap",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAPAcKQ3eUQFP3tGMlmO7E8vv59kcRPo7QziHTWfPWFTVubKYj",
+   "price_text": "A$80*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$80*"
+    }
+   },
+   "priced": true,
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_42.jpg"
+  },
+  {
+   "source": "EliteRelief",
+   "title": "Red Light Therapy Mini Wrap | 60-Day Guarantee | EliteRelief",
+   "link": "https://www.eliterelief.com.au/products/red-light-mini-wrap",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-DypIlPxrejEk3D8GNGzQcr24w6akH2wkgF0kRnWu4AfVZyV",
+   "price_text": "A$130*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$130*"
+    }
+   },
+   "priced": true,
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_43.jpg"
+  },
+  {
+   "source": "BePainFree",
+   "title": "BePainFree™ Power Bundle – BEPAINFREE",
+   "link": "https://shop.bepainfree.com.au/products/bepainfree™-power-bundle-1",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrLIYveTS2kqCXh1gqW2nrsyCRR5Aco9bo6A1q-1FJ_SumzVUJ",
+   "price_text": "A$306*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$306*"
+    }
+   },
+   "priced": true,
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_44.jpg"
+  },
+  {
+   "source": "LiftAura",
+   "title": "LiftAura™ Red Light Mini Wrap – Targeted Joint & Wrist Pain ...",
+   "link": "https://liftaura.com.au/products/liftaura-mini™-targeted-relief-wrap",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0Oo_XyF4C-ddkDKFR4Au2TSwq0l68huxa8nJW_Qd4DGv2l_U",
+   "price_text": "A$255*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$255*"
+    }
+   },
+   "priced": true,
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_45.jpg"
+  },
+  {
+   "source": "Bluemercury",
+   "title": "HigherDose Microcurrent Body Sculptor Ritual Set ...",
+   "link": "https://bluemercury.com/products/higherdose-microcurrent-body-sculptor-ritual-set-1",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNT-HSDBmxFQBjXtWluFhRRSK0tnyJYkCKj-WkccDUFXr6heTQ",
+   "price_text": "$399*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$399*"
+    }
+   },
+   "priced": true,
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_46.jpg"
+  },
+  {
+   "source": "swirise",
+   "title": "Swirise LED Light Therapy Device for Lip – SWIRISE",
+   "link": "https://swirise.com/products/swirise-led-light-therapy-device-for-lip",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr5rXNNxqDKz-_H6O_Y-abI6Pr86yuOEFtZegq_ynNDnK_r_wo",
+   "price_text": "$139*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$139*"
+    }
+   },
+   "priced": true,
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_47.jpg"
+  },
+  {
+   "source": "Morfone",
+   "title": "Morfone Back & Knee Red Light Therapy Set",
+   "link": "https://morfone.com/products/back-knee-red-light-therapy-set",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8XFR2iftoHAAU6sp-sQXnRi3SJY5Y-6g6U2m67x_iwrvPy4td",
+   "price_text": "$186*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$186*"
+    }
+   },
+   "priced": true,
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_48.jpg"
+  },
+  {
+   "source": "M.S Skincare",
+   "title": "Therasage Thera Tri-Lite Red Light Therapy Panel",
+   "link": "https://www.msskincare.co/products/thera-tri-lite",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlj4fJ-8U44RRrInqR5DdK9Dwls7RdHwLNOD_Ro-Ohe0dXawG0",
+   "price_text": "$249*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$249*"
+    }
+   },
+   "priced": true,
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_49.jpg"
+  },
+  {
+   "source": "the HSA Store",
+   "title": "Infrared & Red-light Therapy Neck & Back Wrap – Caring Mill ...",
+   "link": "https://hsastore.com/infrared-red-light-therapy-neck-back-wrap-caring-mill/40292.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSJ6T3GRyVDH1IJkGgb6zT1FxVArdy9iX7RCTH63bhrVKE5VrO",
+   "price_text": "$120*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$120*"
+    }
+   },
+   "priced": true,
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_50.jpg"
+  },
+  {
+   "source": "GoSupps.com",
+   "title": "Telepepe Heated Face Mask Sinus Relief Grey | GoSupps.com",
+   "link": "https://www.gosupps.com/heated-face-mask-for-sinus-pressure-cordless-sinus-mask-with-3-heating-levels-2500mah-rechargeable-face-heating-pad-sinus-pressure-relief-with-15-minutes-auto-off-grey.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbTSZN57ZMq2kMjzHCUQW8bHU1kzmLdE8VJduLC2wzeW1DF1es",
+   "price_text": "$80*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$80*"
+    }
+   },
+   "priced": true,
+   "n": 51,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_51.jpg"
+  },
+  {
+   "source": "BestQool",
+   "title": "Red Light Therapy Belt | Hands-Free Portable – BestQool",
+   "link": "https://www.bestqool.com/products/red-light-therapy-belt",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjWxbVt066pjnxFHdloKlRyk28oNC1783nwGq3yHTZ3JesYLyn",
+   "price_text": "$97*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$97*"
+    }
+   },
+   "priced": true,
+   "n": 52,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_52.jpg"
+  },
+  {
+   "source": "Inspire Uplift",
+   "title": "Heated Eye Mask for Dry Eyes 3 Heat Levels Warm Compress ...",
+   "link": "https://www.inspireuplift.com/eye-mask-for-dry-eyes-heated-eye-mask-warm/iu/21631998",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSP1nNAcfmiNWvTSUYWr3Fax76kjOsPOtcBKDvCJiQN0aoSj_G-",
+   "price_text": "$30*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$30*"
+    }
+   },
+   "priced": true,
+   "n": 53,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_53.jpg"
+  },
+  {
+   "source": "Savior Heat",
+   "title": "Heat Pads for the Back – Savior Heat Official® Store",
+   "link": "https://saviorheat.com/products/lower-back-heating-pad-for-back-pain",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3ned-Oq4mtP18KQcc7dVWm2I4Zgw4UMC4X6ZDom00ZZPPS7r",
+   "price_text": "$63*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$63*"
+    }
+   },
+   "priced": true,
+   "n": 54,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_54.jpg"
+  },
+  {
+   "source": "iRESTORE",
+   "title": "iRESTORE Flex LED Belt | Portable Red Light Therapy",
+   "link": "https://www.irestorelaser.com/products/flex-led-belt",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHiefS-c474iXiFbzHG3YwixcOtmNVUDh1fgLCdLvIyvb_D1oB",
+   "price_text": "$149*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$149*"
+    }
+   },
+   "priced": true,
+   "n": 55,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_55.jpg"
+  },
+  {
+   "source": "Haloral",
+   "title": "Red Light Therapy Belt for Back Pain Relief & Muscle ...",
+   "link": "https://www.haloral.com/products/haloral-cordless-red-light-therapy-belt",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVTkpZGkWAmdymi2W0Vmt0nDqnNBvcVfP-lnL3Ylbwhc_KIRJ",
+   "price_text": "$199*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$199*"
+    }
+   },
+   "priced": true,
+   "n": 56,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_56.jpg"
+  },
+  {
+   "source": "CuraYou",
+   "title": "Cura ProWave Light Therapy Pad™ – curayou.com",
+   "link": "https://curayou.com/products/cura-prowave-light-therapy-pad",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTapBbZhYOwZ634-LBnkTyNEPXAB8xKg8Xy1QACErz3kFrjDgJZ",
+   "price_text": "$499*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$499*"
+    }
+   },
+   "priced": true,
+   "n": 57,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_57.jpg"
+  },
+  {
+   "source": "Menkind",
+   "title": "RED5 Wireless Sleep Sound Mask Delight | Menkind",
+   "link": "https://www.menkind.co.uk/red5-wireless-sleep-sound-mask",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ15MV3v8swRgEhpQbwtOFRE6_F9uqNvBm3IT0REBqeTgzHKs7",
+   "price_text": "£15*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£15*"
+    }
+   },
+   "priced": true,
+   "n": 58,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_58.jpg"
+  },
+  {
+   "source": "La Redoute",
+   "title": "Anti-ageing and anti-blemish dual led mask, black, Silkn ...",
+   "link": "https://www.laredoute.co.uk/ppdp/prod-350919326.aspx",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKetmk-AZEkJFsrWMVkTp6kbgKEcrsng0dPoWrz3UTjmzoMvlp",
+   "price_text": "£450*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£450*"
+    }
+   },
+   "priced": true,
+   "n": 59,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_59.jpg"
+  },
+  {
+   "source": "Holland & Barrett",
+   "title": "Reviber Infrared Light Therapy Pad | H&B",
+   "link": "https://www.hollandandbarrett.com/shop/product/reviber-infrared-light-therapy-pad-6100023396",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSddhCIA78LV9c_NyIazli47EesN8dSYivcqUigubFmwrvmeQ5A",
+   "price_text": "£50*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£50*"
+    }
+   },
+   "priced": true,
+   "n": 60,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_60.jpg"
+  },
+  {
+   "source": "Lumovex",
+   "title": "Home Clinic Red Light Therapy Kit UK - Mask, Panel & Belt ...",
+   "link": "https://www.lumovex.co.uk/products/home-clinic",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbhrbVfUDu3coGRXvwxKLQCBlSM-lQv_7-oS12NvmUp_i8uXjh",
+   "price_text": "£320*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 61,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_61.jpg"
+  },
+  {
+   "source": "Maskura Store",
+   "title": "Red Light Therapy Belt - 660nm & 880nm IR Light Therapy ...",
+   "link": "https://www.maskura.co.uk/products/red-light-therapy-belt",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJZR9aW0fzSXFpwS66Jdbo0kYEvMWjh-7fJ-ecoU_P6YGXgmeX",
+   "price_text": "£30*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£30*"
+    }
+   },
+   "priced": true,
+   "n": 62,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_62.jpg"
+  },
+  {
+   "source": "CurrentBody",
+   "title": "LED Eye Mask | Under Eye Red Light Therapy | CurrentBody Skin",
+   "link": "https://www.currentbody.com/products/currentbody-skin-led-eye-perfector",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-xL4KCBY9wfV2jK3JYa3eaLxI99992r4FkIzM9qxV0dlwV9V",
+   "price_text": "£190*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£190*"
+    }
+   },
+   "priced": true,
+   "n": 63,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_63.jpg"
+  },
+  {
+   "source": "Manta Sleep UK",
+   "title": "Manta SOUND Sleep Mask (Previous Gen) – Manta Sleep UK",
+   "link": "https://mantasleep.uk/products/manta-sleep-mask-sound",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgnTIlkv3t_j99e_I8L0S6j7i85qV_ZkEiWQLkjNRO224hTvzF",
+   "price_text": "£99*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£99*"
+    }
+   },
+   "priced": true,
+   "n": 64,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_64.jpg"
+  },
+  {
+   "source": "Auranyx",
+   "title": "InfraWave Infrared Light Therapy Wrap - Muscle Pain & Joint ...",
+   "link": "https://auranyx.co.uk/products/infrawave-infrared-light-therapy-wrap",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WaU2wzuT4yggKdU9aGqN_iLCLKmtUsR4ISTPUEW9uVgdcyMD",
+   "price_text": "£80*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£80*"
+    }
+   },
+   "priced": true,
+   "n": 65,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_65.jpg"
+  },
+  {
+   "source": "LumiRed",
+   "title": "LumiRed Red Light Therapy Belt - Free Shipping in UK",
+   "link": "https://lumired.co.uk/products/lumired-wireless-red-light-therapy-belt",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiVxLZHZyU3nkZFyAdE93Zh-T9tWvFxOghpgc0Dx091_rt4Wak",
+   "price_text": "£136*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£136*"
+    }
+   },
+   "priced": true,
+   "n": 66,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_66.jpg"
+  },
+  {
+   "source": "Koanna UK",
+   "title": "Koanna® Red Light Therapy Bandage For Knee Pain",
+   "link": "https://koanna.co.uk/products/koanna-red-light-therapy-pad",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_V-_CMnwr2_AS6MbEWGV8eVWYHBeHqall31M2BpsYV-Qo4MPH",
+   "price_text": "£149*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£149*"
+    }
+   },
+   "priced": true,
+   "n": 67,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_67.jpg"
+  },
+  {
+   "source": "Essence Day Spa",
+   "title": "NiR LED Light Therapy │ Neck + Face",
+   "link": "https://essencespa.ca/products/nir-led-light-therapy-neck-face",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFE7cOTAL8DqIqOtivBKKkStp880sU3DLgjwsbqBZE0FQBafBP",
+   "price_text": "CA$229*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$229*"
+    }
+   },
+   "priced": true,
+   "n": 68,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_68.jpg"
+  },
+  {
+   "source": "La Redoute",
+   "title": "Duo led anti-aging-maske gegen hautunreinheiten&nbsp schwarz ...",
+   "link": "https://www.laredoute.de/ppdp/prod-350919326.aspx",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKetmk-AZEkJFsrWMVkTp6kbgKEcrsng0dPoWrz3UTjmzoMvlp",
+   "price_text": "€400*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€400*"
+    }
+   },
+   "priced": true,
+   "n": 69,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_69.jpg"
+  },
+  {
+   "source": "Infrared Lights NZ",
+   "title": "LIGHTFORCE RED & NEAR INFRARED LED LIGHT THERAPY WRIST ...",
+   "link": "https://infraredlights.co.nz/products/lightforce-led-red-infrared-light-therapy-wrist-hand-wrap",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDqBofEDSS_CruBjpJjvu5j4LH-3lIIZ2INBy2bxbaL6PhYDm2",
+   "price_text": "NZ$128*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$128*"
+    }
+   },
+   "priced": true,
+   "n": 70,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_70.jpg"
+  },
+  {
+   "source": "SportZone.co.nz",
+   "title": "Red Light Therapy Belt 660nm 850nm LED Wrap for Pain Relief",
+   "link": "https://sportzone.co.nz/products/red-light-therapy-belt-660nm-850nm-infrared-led",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtgnJ0FD6GY8ax0rchRdO0X6nvBBJdeMpi6u-brsnqI-TyE9T",
+   "price_text": "NZ$189*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$189*"
+    }
+   },
+   "priced": true,
+   "n": 71,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_71.jpg"
+  },
+  {
+   "source": "JB Hi-Fi",
+   "title": "Therabody SleepMask - JB Hi-Fi NZ",
+   "link": "https://www.jbhifi.co.nz/products/therabody-sleepmask",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBuZ_tRh-27sp7BZZB4eNCAPS02qrREc1_s9s5FXBm8uRhqMc2",
+   "price_text": "NZ$130*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$130*"
+    }
+   },
+   "priced": true,
+   "n": 72,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_72.jpg"
+  },
+  {
+   "source": "Grounded Kiwi",
+   "title": "Red Light Therapy Eye Wrap – GroundedKiwi.nz",
+   "link": "https://www.groundedkiwi.nz/products/red-light-eye-wrap",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa62AT0hGq_lHlg4xTc_d1sL6ih6u56Rg3lTiUgN13WIlvp-ex",
+   "price_text": "NZ$140*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$140*"
+    }
+   },
+   "priced": true,
+   "n": 73,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_73.jpg"
+  },
+  {
+   "source": "Infrared Lights NZ",
+   "title": "LIGHTFORCE LED RED & INFRARED LIGHT THERAPY NECK WRAP ...",
+   "link": "https://infraredlights.co.nz/products/lightforce-led-red-infrared-light-therapy-neck-wrap",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0egCMw0zdp02PCyPqzmr8jFvk4c7_F4DvFy0xzy7MB43GsdAu",
+   "price_text": "NZ$210*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$210*"
+    }
+   },
+   "priced": true,
+   "n": 74,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_74.jpg"
+  },
+  {
+   "source": "SleepEZ",
+   "title": "Bluetooth Sleep Mask for Deep Sleep (15H Battery) | SleepEZ AU",
+   "link": "https://www.sleepez.co.nz/products/dreamy-sounds-sleep-mask",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYCV0X-CHVIEGrPuZmQPeAXIcS43_8lQblEqWUwg2Qye_uwoZ6",
+   "price_text": "NZ$114*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$114*"
+    }
+   },
+   "priced": true,
+   "n": 75,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_75.jpg"
+  },
+  {
+   "source": "Rose Optometry",
+   "title": "iFlo USB Heated Eye Mask NZ | Dry Eye & MGD | Rose Optometry",
+   "link": "https://store.roseoptom.co.nz/products/iflo-usb-heated-eye-mask",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTWHE0_XUM9m3YPNufFbyHX-2kJKOENF7rq1twKDdxWNgFhObP",
+   "price_text": "NZ$125*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$125*"
+    }
+   },
+   "priced": true,
+   "n": 76,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_76.jpg"
+  },
+  {
+   "source": "JB Hi-Fi",
+   "title": "Therabody Recovery Therm Back LED - JB Hi-Fi NZ",
+   "link": "https://www.jbhifi.co.nz/products/therabody-recovery-therm-back-led",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflSwbPj7s6C4vVRpHDGdA9DOi1IrMHlVi1KuiPcOVhtNHojAm",
+   "price_text": "NZ$399*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$399*"
+    }
+   },
+   "priced": true,
+   "n": 77,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_77.jpg"
+  },
+  {
+   "source": "Infrared Lights NZ",
+   "title": "LIGHTFORCE RED & NEAR INFRARED LED LIGHT THERAPY FOOT ...",
+   "link": "https://infraredlights.co.nz/products/lightforce-led-red-infrared-light-therapy-foot-ankle-pad",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzisjhSLpUtPxXbQBDt2h6sZPsYQRZ4sLH5CgfshqJW0KVV_4",
+   "price_text": "NZ$249*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$249*"
+    }
+   },
+   "priced": true,
+   "n": 78,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_78.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Wireless Heated Nasal Mask for Dry Air & AC ...",
+   "link": "https://www.amazon.com/clp/B0GDFT78X9",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-NSvyF7MYUERwjkeC7SmSegVrVnc90SIgI966r2fmAU2lKVlB",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 79,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_79.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: 2026 Upgraded Red Light Nasal Therapy Device ...",
+   "link": "https://www.amazon.com/clp/B0FGQBXL81",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq89zWg9iHqesQmD4sKTcqc8RA60MprAlfxzh9FadUD2mJ_kh3",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 80,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_80.jpg"
+  },
+  {
+   "source": "AliExpress",
+   "title": "Red Light LED Mask for Skin Care -AliExpress",
+   "link": "https://www.aliexpress.com/w/wholesale-led-mask-red-light.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQu0rfKimVdTQuFXRS95jw2v0ECQW7Vu9TsYSV59W1ftxCLOL3",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 81,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_81.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Woolala 3D Therapy Heated Nose Cover, Winter ...",
+   "link": "https://www.amazon.com/clp/B0BJDLDXT4",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN7GtJnFJH5H4HUKL6_JEMh5swugPR2P4zyEizy_P77hUTb29k",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 82,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_82.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Nose Warmer Red Light Nasal Mask, 3 Levels Adjustable Nasal ...",
+   "link": "https://www.amazon.com.au/Warmer-Light-Levels-Adjustable-Heating/dp/B0GGGZKPJQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-vEvs167prjgAhJ03aQQqOZvj43Az9RY6XdQ8O3-Mz6inVP5k",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 83,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_83.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: FOMIYES Collagen Face Mask Heater Dermal Face ...",
+   "link": "https://www.amazon.com/clp/B0DMJS2JG7",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyl1FMQc2_iCTvyA3T_YE4LEt_4iw8TB-0yYrgTLvspVZY5fJq",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 84,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_84.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Dialudon 8 Colors Cordless Infrared Light ...",
+   "link": "https://www.amazon.com/Dialudon-Cordless-Rechargeable-20-Minute-Tightening/dp/B0FR47BMWQ",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR82hM2Z4r-dbnyb9sIJZJHLLqdq4ZZ1TM6o4W9pyqIcAPGfS_a",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 85,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_85.jpg"
+  },
+  {
+   "source": "Amazon.sg",
+   "title": "Electric Eye Massage Mask for Dye Eyes Relief, Cordless ...",
+   "link": "https://www.amazon.sg/Electric-Cordless-Vibrating-Massager-Relaxation/dp/B0FDRBP9WB",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmwxhm-oye9ZqaqHgtJhK5Vc7s-jlYyNw96eljkmuFyuLgWdOw",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 86,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_86.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: 100% Silk Wireless Heated Eye Mask with Cooling ...",
+   "link": "https://www.amazon.com/clp/B0G34YXN96",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr_jcES-rZa0yKq28Bm6DDs6Jt1CEVoHPJwurv3ZGdgpfMSvg_",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 87,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_87.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "Thérapie par la lumière rouge pour le cou,Près de la ceinture ...",
+   "link": "https://www.bestbuy.ca/fr-ca/produit/therapie-par-la-lumiere-rouge-pour-le-cou-pres-de-la-ceinture-de-luminotherapie-infrarouge-infrarouge-encolure-infrarouge-portable-ceinture-infrarouge-pour-le-cou-et-la-jambe-du-poignet/19199146",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoTiw5A2hSSu7WKJzkDF3A7n4HCcyEx3xJqA7IRKX395BNlXwX",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$112*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 88,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_88.jpg"
+  },
+  {
+   "source": "Temu",
+   "title": "a black usb powered heated eye mask breathable adjustable ...",
+   "link": "https://www.temu.com/bh/a-black-usb-powered-heated-eye-mask-breathable-and-adjustable-with-usb-powered--cushion-featuring-three-temperature-settings-suitable-for--men-and-women-a-great-gift-option-non-wireless-g-601101683850831.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_zQOzRfMG3hGvLLn05FbFaEviGLXT54jar3B3C-FY5sbhUyBx",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 89,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_89.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Red Light Nasal Therapy Device | Red Light ...",
+   "link": "https://www.amazon.com/Therapy-Sinuses-Congestion-Rechargeable-Portable/dp/B0F127YX4S",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTNKhtgPloyYGGm4NMFh6VP5IVh9d9u1n80imVxH8ryAa1atC6",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 90,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_90.jpg"
+  },
+  {
+   "source": "Bunnings",
+   "title": "Advwin Red Light Therapy for Neck, Cordless Light Neck Wrap ...",
+   "link": "https://www.bunnings.com.au/advwin-red-light-therapy-for-neck-cordless-light-neck-wrap-with-20-40-timer_p1236604",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMT-2RzHXzb8xArwv0PIS54AiFr1jzaFljTy7amCXuKhWQTy1",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 91,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_91.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "No More Colds Red Light Therapy for Nose, RespiRelief Red ...",
+   "link": "https://www.amazon.com.au/Colds-Therapy-RespiRelief-Instrument-Device/dp/B0CZF1RBVH",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS07Na9psGYJs5WBZ1wEaG0B_1xlj5db3a5ArAyh3f0tebbQCML",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 92,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_92.jpg"
+  },
+  {
+   "source": "Amazon.ie",
+   "title": "Heating Nose Pad Rechargeable Portable Nasal Device | 3 ...",
+   "link": "https://www.amazon.ie/Heating-Rechargeable-Portable-Nasal-Device/dp/B0GFPPCMDV",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9pzkgHLyyuPSSKTz5ToREJMVTEQqWIUmbDbpT5RJaDTNaxU5T",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 93,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_93.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Cordless Nose Heating Pad with 1100mAh Battery Relieve ...",
+   "link": "https://www.amazon.co.uk/Cordless-Rhinitis-Congestion-Temperature-Adjustable/dp/B0GXGGFWX3",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIqMXDNFHrsN2Kuvo8SntebpTCE_9Mto9AlQ-248aFgGD_Oxn0",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 94,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_94.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Red Light Nasal Therapy Device | Red Light ... - Amazon.com",
+   "link": "https://www.amazon.com/Therapy-Sinuses-Congestion-Rechargeable-Portable/dp/B0F127YX4S",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLB5xtgWk2H7mlg9zGdhEwa2n4Kx6HBBw936iwJx2t1rXF73l1",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 95,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_95.jpg"
+  },
+  {
+   "source": "Amazon.ae",
+   "title": "Joythink Wireless Sleep Mask Headphones Heated Eye Mask ...",
+   "link": "https://www.amazon.ae/Joythink-Wireless-Headphones-Adjustable-Relaxation/dp/B0D1TFKGWY",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZr5WdKoKEPFJK2Otje90mswXI70MB7kMir3SepvrY0sR9URSf",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 96,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_96.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "USB Heated Relaxing Soft Nighttime Eye Mask for Dry Eyes and ...",
+   "link": "https://www.walmart.com/ip/USB-Heated-Eye-Mask-for-Dry-Eyes-and-Puffiness-5-Classes-of-Heated-Temperature-and-Time-Warm-Eye-Mask/1604541709",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_UDR7zcFXSjLFg3rgCkP1H65UyeOsVdpqCXCEUa-sSVdxl7ic",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 97,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_97.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "Red Light Therapy for Neck,Near Infrared Light Therapy Belt ...",
+   "link": "https://www.bestbuy.ca/en-ca/product/red-light-therapy-for-neck-near-infrared-light-therapy-belt-wearable-infrared-neck-wrap-infrared-belt-for-neck-hand-wrist-leg/19199146",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVsgTokM0HTK8SB7QX3cY2ch8iFJhKqn_O9jTZ3sI9d3oBFQoc",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 98,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_98.jpg"
+  },
+  {
+   "source": "AliExpress",
+   "title": "Heated Eye Mask Eye Mask for Dry Eyes with 3 Heat Levels Hot ...",
+   "link": "https://www.aliexpress.com/item/1005010424306501.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPOW9bp2kp-w4S_Pr9O0H3cn8NOWON-en38V8MAeoccdXfdDF",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 99,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_99.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Joythink Sleep Headphones with Heated Bluetooth Wireless ...",
+   "link": "https://www.amazon.com.au/Joythink-Headphones-Bluetooth-Wireless-Compress/dp/B0D1TFKGWY",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZr5WdKoKEPFJK2Otje90mswXI70MB7kMir3SepvrY0sR9URSf",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 100,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_100.jpg"
+  },
+  {
+   "source": "Amazon.com.au",
+   "title": "Daily Nasal Care Device, Suitable for The Nose : Amazon.com ...",
+   "link": "https://www.amazon.com.au/Daily-Nasal-Care-Device-Suitable/dp/B0GQZ7QXWL",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaVCtiObPhO0rkAKiHxh2H6C-xP1SbGwD13z4gzicpVAXXThN8",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 101,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_101.jpg"
+  },
+  {
+   "source": "Kmart",
+   "title": "Advwin Red Light for Neck, 5 Adjustable Temperature & 2 ...",
+   "link": "https://www.kmart.com.au/product/advwin-red-light-for-neck-5-adjustable-temperature-and-2-pulse-flash-black-110230271/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWLk4M7-KRpdVPrI2xOqlfv6UI0p-naQ25pp_1SShABFo51Jf",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 102,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_102.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: XSSNVV Red Light Therapy Mask for Face, Wireless ...",
+   "link": "https://www.amazon.com/XSSNVV-Light-Therapy-Wireless-850nm/dp/B0H1M3TVMG",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbsJ0mTxzTeDyk0mMEqd8wYND5DZGPzuBeri2EGdh3aZCdq7En",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 103,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_103.jpg"
+  },
+  {
+   "source": "Harvey Norman",
+   "title": "Advwin Adjustable Red Light Therapy for Neck | Harvey Norman",
+   "link": "https://www.harveynorman.com.au/advwin-adjustable-red-light-therapy-for-neck.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPloSbNoitmGncoXxomBm1kBStI13ETN_vlka0a5rqPLeZVpSh",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 104,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_104.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "GloThera Rechargeable Cordless Red Light Therapy Wrist Wrap ...",
+   "link": "https://www.amazon.com.au/GloThera-Rechargeable-Cordless-Discomfort-Enthusiasts/dp/B0CN6WFDM4",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNaU7x650egLNJCWuW7KNs-mVS7vm9SEHelsQxCVkeK-PWzVx5",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 105,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_105.jpg"
+  },
+  {
+   "source": "Bunnings",
+   "title": "Advwin Red Light Therapy for Body, 216 LED Cordless Red ...",
+   "link": "https://www.bunnings.com.au/advwin-red-light-therapy-for-body-216-led-cordless-red-light-therapy-belt-with-3-strap_p1236602",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiJvb5a7FRtPRHfGynmgSiwOPAPe5eJ4O0aEnXfOmYTak1KHQ0",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 106,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_106.jpg"
+  },
+  {
+   "source": "Harvey Norman",
+   "title": "Ryze R-LightBand Red Light Recovery Belt | Harvey Norman",
+   "link": "https://www.harveynorman.com.au/ryze-r-lightband-red-light-recovery-belt.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm9V4U3bCbk-7CoGbbuskAWCtw9MaRqTz_qSAD8MUXOuCBiQM2",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 107,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_107.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "ROMISA Red Light Therapy for Hand, Near Infrared Light ...",
+   "link": "https://www.amazon.co.uk/ROMISA-Therapy-Infrared-Faster-Recovery/dp/B0DQY8N2V1",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrG2r5lmcyAzZPD3J9PqHhvwFATF0uxTWhxakeiz0_K5PyP6sf",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 108,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_108.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "XSSNVV Hair Removal Tools in Beauty Tools & Tech - Walmart.com",
+   "link": "https://www.walmart.com/browse/beauty/hair-removal-tools/xssnvv/1085666_2446618_3533333/YnJhbmQ6WFNTTlZW",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIalniEf36v9pD20zKJMH26BsQqw7qrYgsOwgWR9_VRAwAOcjU",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 109,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_109.jpg"
+  },
+  {
+   "source": "Ulta Beauty",
+   "title": "Lifepro - AllevaRed Lite Red Light Therapy Belt | Ulta Beauty",
+   "link": "https://www.ulta.com/p/allevared-lite-red-light-therapy-belt-mkt77010554?sku=77016511",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREQsmrk8H-JOcX6ZCi5Ra6BoA7g4DeBYUnOV884AmOse4G_Q2N",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 110,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_110.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Red Light Therapy Belt for Body, Near Infrared ...",
+   "link": "https://www.amazon.com/Light-Therapy-Infrared-Wearable-Unisex/dp/B0F8VK2BC2",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTivc8fQ0WRA3RjPTnGrwCL_bjBmrTegXr5xlgQiGMgZL8HZw3m",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 111,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_111.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Red Light Nasal Therapy Device,Infrared Light Therapy ...",
+   "link": "https://www.amazon.co.uk/Therapy-Infrared-Therapy-Portable-Clearing/dp/B0GS8MH1D3",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqK-PV86z_kUwOY-TwFVOH6DIPeU8bh8w_ngYrGiyivIae3-Ml",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 112,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_112.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Heating Nose Pad- 130g Rechargeable Portable Nasal Device ...",
+   "link": "https://www.amazon.co.uk/Heating-Rechargeable-Portable-Cordless-Congestion/dp/B0GGZB7HBM",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5jBw9DYDlU5vJkxGd4a5vWYm8x1rm0V6cb_lJUnPzPSwnJv-1",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 113,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_113.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Red Light Therapy Belt Wrap for Body - Cordless ...",
+   "link": "https://www.amazon.ca/Light-Therapy-Belt-Wrap-Body/dp/B0FPC6XDJG",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFNBonACTmOAUClfGtBNHsulM7UnUqcXHkOWlMW0q56hJboQCX",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 114,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_114.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Personal Trainer | Walmart Canada",
+   "link": "https://www.walmart.ca/en/c/kp/personal-trainer",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ9GsbuIwSBwh5yj1M4fiyMpYmPUtBOPnZbnBv7plx8RQ-ZSlr",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 115,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_115.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "XSSNVV Red Light Therapy Face Mask, Wireless 4‑Modes LED ...",
+   "link": "https://www.walmart.com/ip/XSSNVV-Red-Light-Therapy-Face-Mask-Wireless-850NM-Infrared-NIR-Light-Therapy-Mask-4-in-1-Light-Therapy-Collagen-Boosting-Anti-Aging-for-Radiant-Skin/19304174996",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI0x5LKfq0MmPiwxh-AOy3lVymb7Df3PadgRiLQr3ayKlpeiCC",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 116,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_116.jpg"
+  },
+  {
+   "source": "Best Buy",
+   "title": "Light Therapy Machines | Best Buy Canada",
+   "link": "https://www.bestbuy.ca/en-ca/shop/health-fitness/light-therapy-machines",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhvSgE67cyvzhCPbykqvI9ow9TM3jiSFkG6Z3mh4B17iLpikAN",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 117,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_117.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "YKeluxon Red Light Mask 3D, LED Red Light for Face Portable ...",
+   "link": "https://www.amazon.ca/YKeluxon-Upgrade-Portable-6000mAh-Rechargeable/dp/B0FBGBNPWD",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTabuJp_Wl6Apd1KdhCzO_yqbmOGFmgjFPBEbuOesmZGdFvFK8B",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 118,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_118.jpg"
+  },
+  {
+   "source": "Temu",
+   "title": "24 pack nose pads mask avoiding air leaks nasal pads - Temu",
+   "link": "https://www.temu.com/24pcs--nose-pads-for-masks-comfortable-breathable-nasal-cushions-with--backing-air-leak-prevention-fit-for-most-sleep-masks-supplies-g-601099955274061.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhoOxF0ZK8VWwFM-7RMln8kxt6tIQ4GOkEQDYay2C8_GKPVv5Z",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 119,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_119.jpg"
+  },
+  {
+   "source": "Canadian Tire",
+   "title": "HoMedics Hot & Cold Gel Headache & Migraine Eye Mask with ...",
+   "link": "https://www.canadiantire.ca/en/pdp/homedics-hot-cold-gel-headache-migraine-eye-mask-with-adjustable-strap-0438662p.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMdPuocGYqM357imS4S_-tMIH48nF4Yvv4256Y3Gx6vpNIDRi3",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 120,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_120.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Red Light Therapy Belt Wrap for Body - Cordless 660nm&850nm ...",
+   "link": "https://www.amazon.ca/Light-Therapy-Belt-Wrap-Body/dp/B0FPC6XDJG",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOA9ZOXFhHvvk4XHzvfF7kPsVIe_17ZJVQz9LLDvNmi5Sg9vot",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 121,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_121.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Lucid Dreaming Mask Black - Red Light LED Lucid Dream ...",
+   "link": "https://www.ebay.ca/itm/374528271580",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReLpRdu34Fu0V_DA-FJD1dF0Xx898JvixHNj5PDBFdg08dXeqj",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 122,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_122.jpg"
+  },
+  {
+   "source": "Costco Wholesale",
+   "title": "Flex Fold Red Light Multifunctional Belt Therapy Device | Costco",
+   "link": "https://www.costco.ca/flex-fold-red-light-multifunctional-belt-therapy-device.product.4000322882.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgduFFQePhiw696kOFtamgMeEckKGEkNFpFCuhQpBlACBTjE4n",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 123,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_123.jpg"
+  },
+  {
+   "source": "Alibaba.com",
+   "title": "Red 630nm Led Strip - 27,892 Products for Sale | Alibaba.com",
+   "link": "https://www.alibaba.com/showroom/red-630nm-led-strip.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR42uYggTxxGmDm8SimjGQ3oPoTuW5jlNVcIE82YJwyAYY-2XYX",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 124,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_124.jpg"
+  },
+  {
+   "source": "Amazon.ae",
+   "title": "Wireless Warmer Nasal Mask, 16 LED Beads, 3 Heat Levels, USB ...",
+   "link": "https://www.amazon.ae/Wireless-Rechargeable-Battery-Electric-Heating/dp/B0GDFT78X9",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLfOgG-0j0fTUKMEHyNS_W0wP2zYoHyF-8UlZ2ZobOcGcFZyTt",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 125,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_125.jpg"
+  },
+  {
+   "source": "Amazon.de",
+   "title": "Red Light Nasal Therapy Device, Infrared Rhinitis Device ...",
+   "link": "https://www.amazon.de/-/en/Infrared-Rhinitis-Targeted-Portable-Breathing/dp/B0G43X6N3Z",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0Oszt0HS26Ne5LBZ8vxADVFJ6tSzTU5MPTJgRT7USzzxFX8XU",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 126,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_126.jpg"
+  },
+  {
+   "source": "Amazon.de",
+   "title": "Nasenwärme-Auflage Aufladbares Nasengerät | 3 Stufen ...",
+   "link": "https://www.amazon.de/Générique-Nasenwärme-Auflage-Aufladbares-Nasengerät/dp/B0GGZGTN1H",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV4dJG3VmgredOkOgoaSgEfL7aB7EJUSaC-gfu-eIZJ5G8F1tY",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 127,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_127.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Red Light Therapy for Shoulder Neck 660&850nm Wearable Light ...",
+   "link": "https://www.ebay.com/itm/198230082272",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKGwU3Qu-wOKrg2IvYQLN0HR1vhKowbxHA8f58iEQELzDQTK5Y",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 128,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_128.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Almohadilla Nasal Térmica Dispositivo Nasal Recargable ...",
+   "link": "https://www.amazon.es/Almohadilla-Nasal-Térmica-Dispositivo-Recargable/dp/B0GFP1M2HB",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUdfKN43S1nClyKbhd37dKCV3wjHTNjLWzWI6ZLTSxyUEd2tXB",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 129,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_129.jpg"
+  },
+  {
+   "source": "OTTO",
+   "title": "Tekoo Rücken Stützgürtel Rückengürtel mit Wärme & Massage ...",
+   "link": "https://www.otto.de/p/tekoo-ruecken-stuetzguertel-rueckenguertel-mit-waerme-massage-5000mah-akku-kabellose-anwendung-5000mah-akku-5-temperaturstufen-45-65-c-S0WG90AV/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTJ6hxQ5h896iRu75xBB0JSBBszYTyJGt_yN3Xm36ACcOIWMCs",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 130,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_130.jpg"
+  },
+  {
+   "source": "OTTO",
+   "title": "Lisabonde Massagegerät Heizgürtel Rücken & Bauch mit Massage ...",
+   "link": "https://www.otto.de/p/lisabonde-massagegeraet-heizguertel-ruecken-bauch-mit-massage-kabellos-akku-5000mah-1-teilig-5-heizstufen-122-waermepunkte-abschaltautomatik-schnelles-aufheizen-S0UK1066/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDOIL3hgNGyh2z5PYEg4ul7W31AG7tRBtXAbcLKDC5lw9N0oju",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 131,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_131.jpg"
+  },
+  {
+   "source": "Amazon.es",
+   "title": "Almohadilla térmica para la nariz, dispositivo nasal ...",
+   "link": "https://www.amazon.es/Almohadilla-térmica-dispositivo-portátil-recargable/dp/B0GFPRG4J5",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7mOa_PAXp8rrygE4JoCX7JebbtdtiGpWibWTOOTGs-TRXfwGi",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 132,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_132.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Wearable Red Light Therapy Belt & Neck Wrap, 15W Near ...",
+   "link": "https://www.ebay.com/itm/358657122039",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTf35HvELnBR_zimlzvdMJhPjTDdR4XgHZqCdnJ_nenRaBDc0ao",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 133,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_133.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Buy Rechargeable Neck & Shoulder Massager with 5 Modes and ...",
+   "link": "https://www.dicksmith.co.nz/dn/buy/next-buy-au-rechargeable-neck-shoulder-massager-with-5-modes-and-infrared-heat-therapy-10211925229856/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7D9eeFI7X2o3TFeJUG-sAFGO76RYkz-lPVLu8yVK0IuvZ30Qn",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 134,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_134.jpg"
+  },
+  {
+   "source": "The Warehouse",
+   "title": "Bluetooth Sleep Eye Masks | The Warehouse",
+   "link": "https://www.thewarehouse.co.nz/p/bluetooth-sleep-eye-masks/MM6517-7488170328160-2M.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScJw2W7nTEccOwi2n9-KXFeWbv3PKrguSXx6pj9VL3z2LLlVCp",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 135,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_135.jpg"
+  }
+ ]
+}

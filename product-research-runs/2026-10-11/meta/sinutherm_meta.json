@@ -1,0 +1,694 @@
+{
+ "slug": "sinu-1-3023",
+ "phrase": "sinus relief",
+ "checked": "2026-10-14",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22sinus%20relief%22",
+ "ads_loaded": 150,
+ "capped": true,
+ "stopped_by": "stopped at 150 ads (there are more)",
+ "n_advertisers": 45,
+ "advertisers_with_3_plus_ads": 9,
+ "biggest_advertiser_share": 0.23,
+ "brands_new_in_last_2_months": 22,
+ "brands_advertising_3_plus_months": 19,
+ "ads_started_last_2_months": 51,
+ "ads_older_than_6_months": 14,
+ "pattern": "crowded",
+ "plain": "At least 45 brands advertise it; 19 have kept ads running 3+ months, 22 are new in the last two months. We stopped counting at 150 ads, so the real numbers are higher. Of the 7 biggest shops we could date, 7 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2025-04": 2,
+  "2025-09": 1,
+  "2025-12": 1,
+  "2026-01": 1,
+  "2026-02": 2,
+  "2026-03": 1,
+  "2026-04": 6,
+  "2026-05": 13,
+  "2026-06": 22,
+  "2026-07": 11,
+  "2026-08": 39,
+  "2026-09": 40,
+  "2026-10": 11
+ },
+ "brand_months": {
+  "2025-04": 1,
+  "2025-09": 1,
+  "2025-12": 1,
+  "2026-01": 1,
+  "2026-02": 1,
+  "2026-03": 1,
+  "2026-04": 5,
+  "2026-05": 3,
+  "2026-06": 1,
+  "2026-07": 5,
+  "2026-08": 7,
+  "2026-09": 12,
+  "2026-10": 6
+ },
+ "top_advertisers": [
+  {
+   "name": "Soovera ",
+   "pages": 6,
+   "page_names": [
+    "Soovera ",
+    "Paul Wilson",
+    "Sinus Relief Insider",
+    "Beth Ronalds",
+    "Valerie Smith",
+    "Barbara Smith "
+   ],
+   "ads": 34,
+   "oldest_live_ad": "2026-04-28",
+   "page_likes": 274,
+   "headline": "Relief Colds And Sinusitis Now",
+   "shop": "soovera.com",
+   "product_page": "https://soovera.com/products/thermorelief",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=793419350522844",
+   "shop_open_since": "2024-03-25"
+  },
+  {
+   "name": "Saptaveda",
+   "pages": 5,
+   "page_names": [
+    "Saptaveda",
+    "Dr Herbs Ayurvedic Centre, Sharjah",
+    "Dr M B Prabhu SARC-Goa",
+    "Yuga Ayurveda",
+    "Brenda's Healing Herbs"
+   ],
+   "ads": 26,
+   "oldest_live_ad": "2026-08-03",
+   "page_likes": 1969,
+   "headline": "Natural Sinus Relief with Ayurveda",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102813877874543",
+   "shop_open_since": null
+  },
+  {
+   "name": "NeilMed Pharmaceuticals",
+   "pages": 4,
+   "page_names": [
+    "NeilMed Pharmaceuticals",
+    "NeilMed Sinus Rinse",
+    "NeilMed Ear Care",
+    "NeilMed Baby"
+   ],
+   "ads": 11,
+   "oldest_live_ad": "2026-06-03",
+   "page_likes": 869,
+   "headline": "{{product.name}}",
+   "shop": "shop.neilmed.com",
+   "product_page": "https://shop.neilmed.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=575987755773535",
+   "shop_open_since": "2021-09-09"
+  },
+  {
+   "name": "Kaplan Sinus Relief",
+   "pages": 1,
+   "page_names": [
+    "Kaplan Sinus Relief"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2025-04-24",
+   "page_likes": 5862,
+   "headline": "{{product.name}}",
+   "shop": "kaplansinusrelief.com",
+   "product_page": "https://www.kaplansinusrelief.com/treatments/balloon-sinuplasty-houston/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=845230278923960",
+   "shop_open_since": null
+  },
+  {
+   "name": "Saptaveda",
+   "pages": 1,
+   "page_names": [
+    "Saptaveda"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-09-01",
+   "page_likes": 1969,
+   "headline": "Buy Now With Offer!!",
+   "shop": "saptaveda.com",
+   "product_page": "https://saptaveda.com/products/saptaveda-sin7-ayurvedic-oil-sinus-relief",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102813877874543",
+   "shop_open_since": "2024-12-15"
+  },
+  {
+   "name": "Tylenol Canada",
+   "pages": 1,
+   "page_names": [
+    "Tylenol Canada"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-08-17",
+   "page_likes": 95007,
+   "headline": "{{product.name}}",
+   "shop": "tylenol.ca",
+   "product_page": "https://www.tylenol.ca/products/sinus/tylenol-cold-sinus",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=514156032110609",
+   "shop_open_since": null
+  },
+  {
+   "name": "NasalFreshmd",
+   "pages": 1,
+   "page_names": [
+    "NasalFreshmd"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-08-19",
+   "page_likes": 10192,
+   "headline": "Breathe Better. Feel Healthier.",
+   "shop": "offer.nasalfreshmd.com",
+   "product_page": "http://offer.nasalfreshmd.com/lp/nf-adv01",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=303083412890630",
+   "shop_open_since": null
+  },
+  {
+   "name": "Medtech Life IN",
+   "pages": 1,
+   "page_names": [
+    "Medtech Life IN"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-08-03",
+   "page_likes": 190,
+   "headline": "Medtech Handyneb Super Nebulizer",
+   "shop": "shop.medtechlife.com",
+   "product_page": "https://shop.medtechlife.com/products/medtech-nebulizer-handyneb-super",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106504395562482",
+   "shop_open_since": "2022-07-09"
+  },
+  {
+   "name": "Nature's Rite",
+   "pages": 1,
+   "page_names": [
+    "Nature's Rite"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-05-14",
+   "page_likes": 1812,
+   "headline": "{{product.name}}",
+   "shop": "mynaturesrite.com",
+   "product_page": "https://www.mynaturesrite.com/products/sinus-relief",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=139291230075609",
+   "shop_open_since": "2023-12-26"
+  },
+  {
+   "name": "Takealot",
+   "pages": 1,
+   "page_names": [
+    "Takealot"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-23",
+   "page_likes": 1269183,
+   "headline": "{{product.name}}",
+   "shop": "takealot.com",
+   "product_page": "https://www.takealot.com/health",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=177010045688404",
+   "shop_open_since": null
+  },
+  {
+   "name": "Meli Plants",
+   "pages": 1,
+   "page_names": [
+    "Meli Plants"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2025-12-08",
+   "page_likes": 3280,
+   "headline": "AKCIJA - 20% POPUSTA",
+   "shop": "meliplants.com",
+   "product_page": "https://meliplants.com/products/sinusrelief-mesavina-etericnih-ulja-za-slobodno-disanje",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=113607681643807",
+   "shop_open_since": "2024-10-07"
+  },
+  {
+   "name": "Asaved",
+   "pages": 1,
+   "page_names": [
+    "Asaved"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-05-19",
+   "page_likes": 290,
+   "headline": "Herbal Eye Mask",
+   "shop": "asaved.in",
+   "product_page": "https://asaved.in/collections/herbal-packs/products/herbal-eye-mask",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=150947334766251",
+   "shop_open_since": "2023-10-27"
+  },
+  {
+   "name": "AFT Pharmaceuticals",
+   "pages": 1,
+   "page_names": [
+    "AFT Pharmaceuticals"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 2131,
+   "headline": "Breathe free & clear with Maxiclear®",
+   "shop": "ad.doubleclick.net",
+   "product_page": "https://ad.doubleclick.net/ddm/trackclk/N2423061.4828937METAFACEBOOK/B35916294.447415749;dc_trk_aid=640579884;dc_trk_cid=256285833;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1626538167627204",
+   "shop_open_since": null
+  },
+  {
+   "name": "Kalpana Rabbit hair oil",
+   "pages": 1,
+   "page_names": [
+    "Kalpana Rabbit hair oil"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-25",
+   "page_likes": 3740,
+   "headline": "{{product.name}}",
+   "shop": "garudaherbalsoil.in",
+   "product_page": "https://garudaherbalsoil.in/products/garuda-herbal-psoriasis-oil-advanced-psoriasis-clearing-oil-1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=828064740385770",
+   "shop_open_since": null
+  },
+  {
+   "name": "Fyssin",
+   "pages": 1,
+   "page_names": [
+    "Fyssin"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-04-06",
+   "page_likes": 33353,
+   "headline": "Clear Your Sinuses in the Shower💦",
+   "shop": "fyssin.com",
+   "product_page": "https://fyssin.com/collections/shower-steamers",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100357202014182",
+   "shop_open_since": null
+  },
+  {
+   "name": "Metro Sinus",
+   "pages": 1,
+   "page_names": [
+    "Metro Sinus"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-04-29",
+   "page_likes": 54,
+   "headline": "Metro Sinus",
+   "shop": "metrosinus.rtrk.com",
+   "product_page": "https://metrosinus.rtrk.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1492825250966095",
+   "shop_open_since": null
+  },
+  {
+   "name": "Dallas ENT",
+   "pages": 1,
+   "page_names": [
+    "Dallas ENT"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": 801,
+   "headline": "In-Office Sinus Treatments",
+   "shop": "dallasent.com",
+   "product_page": "https://www.dallasent.com/sinusitis-treatment-options",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=267250713346767",
+   "shop_open_since": null
+  },
+  {
+   "name": "Midwest Sinus Sleep & Allergy Associates",
+   "pages": 1,
+   "page_names": [
+    "Midwest Sinus Sleep & Allergy Associates"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-01",
+   "page_likes": 903,
+   "headline": "Sinus Relief from People Who Understand",
+   "shop": "mwsinusandsleep.com",
+   "product_page": "https://mwsinusandsleep.com/sinus-relief/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102785425143762",
+   "shop_open_since": null
+  },
+  {
+   "name": "ASA ENT/Facial Plastic Surgery",
+   "pages": 1,
+   "page_names": [
+    "ASA ENT/Facial Plastic Surgery"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-27",
+   "page_likes": 1168,
+   "headline": "Book an Appointment 📅",
+   "shop": "advancedspecialtyassociates.com",
+   "product_page": "https://www.advancedspecialtyassociates.com/landing/sinus-fb/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=394701293907986",
+   "shop_open_since": null
+  },
+  {
+   "name": "Nöus Sinus Relief",
+   "pages": 1,
+   "page_names": [
+    "Nöus Sinus Relief"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-23",
+   "page_likes": 4675,
+   "headline": "Nöus Sinus Relief",
+   "shop": "shop.nous4u.com",
+   "product_page": "https://shop.nous4u.com/collections/all",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=153372824515890",
+   "shop_open_since": null
+  },
+  {
+   "name": "Sinus and Snoring MD - ENT Family Clinic",
+   "pages": 1,
+   "page_names": [
+    "Sinus and Snoring MD - ENT Family Clinic"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-13",
+   "page_likes": 1540,
+   "headline": "Sinus Relief Starts Here",
+   "shop": "sinusandsnoringmd.com",
+   "product_page": "https://sinusandsnoringmd.com/meta",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=272341359563047",
+   "shop_open_since": null
+  },
+  {
+   "name": "Chemist Warehouse New Zealand",
+   "pages": 1,
+   "page_names": [
+    "Chemist Warehouse New Zealand"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-20",
+   "page_likes": 77695,
+   "headline": "{{product.name}}",
+   "shop": "chemistwarehouse.co.nz",
+   "product_page": "http://www.chemistwarehouse.co.nz/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111748856953255",
+   "shop_open_since": null
+  },
+  {
+   "name": "Gulf Coast Facial Plastics",
+   "pages": 1,
+   "page_names": [
+    "Gulf Coast Facial Plastics"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-02-05",
+   "page_likes": 1806,
+   "headline": "Gulf Coast Facial Plastics",
+   "shop": "gulfcoastfacialplastics.com",
+   "product_page": "https://gulfcoastfacialplastics.com/services/comprehensive-ent-services-at-gulf-coast-facial-plastics/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=121023094584482",
+   "shop_open_since": null
+  },
+  {
+   "name": "Keya Seth",
+   "pages": 1,
+   "page_names": [
+    "Keya Seth"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 1172008,
+   "headline": "🤕 মাইগ্রেনের ব্যথায় বারবার কষ্ট পাচ্ছো?\nমাথাব্যথা যেন তোমার দৈনন্দিন জীবনকে আটকে না দেয়।",
+   "shop": "keyaseth.com",
+   "product_page": "https://www.keyaseth.com/products/graine-out",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=356799790997018",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Loose Leaf Tea",
+   "pages": 1,
+   "page_names": [
+    "The Loose Leaf Tea"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-02",
+   "page_likes": 66650,
+   "headline": "If migraines, headaches, or sinus pressure have been stealing your days, it might be time ",
+   "shop": "thelooseleaftea.com",
+   "product_page": "https://thelooseleaftea.com/shop-all-teas/p/migraine-relief-tea",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=297897883417334",
+   "shop_open_since": null
+  },
+  {
+   "name": "Care n Cure Pharmacy",
+   "pages": 1,
+   "page_names": [
+    "Care n Cure Pharmacy"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-03-07",
+   "page_likes": 26295,
+   "headline": "🛒Order now and enjoy FREE delivery",
+   "shop": "carencurepharmacy.com",
+   "product_page": "https://www.carencurepharmacy.com/products/facial-steamer-2-in-1-facial-nasal-steamer",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=389490371601335",
+   "shop_open_since": null
+  },
+  {
+   "name": "Krishna's Herbal & Ayurveda",
+   "pages": 1,
+   "page_names": [
+    "Krishna's Herbal & Ayurveda"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 483401,
+   "headline": "Not every problem needs chemicals.\nSome problems need Ayurveda. 🌿\n\nFor generations, Indian",
+   "shop": "krishnaayurved.com",
+   "product_page": "https://krishnaayurved.com/products/najlant-powder",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=355154781229069",
+   "shop_open_since": null
+  },
+  {
+   "name": "Cleriva",
+   "pages": 1,
+   "page_names": [
+    "Cleriva"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-04-29",
+   "page_likes": 15824,
+   "headline": "Natural sinus relief in 10 minutes a day",
+   "shop": "julien.cleriva.com",
+   "product_page": "https://julien.cleriva.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=490273777507851",
+   "shop_open_since": null
+  },
+  {
+   "name": "Elena Bath & Body",
+   "pages": 1,
+   "page_names": [
+    "Elena Bath & Body"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-09-03",
+   "page_likes": 28751,
+   "headline": "Aromatherapy Shower Steamers | Elena Bath & Body",
+   "shop": "elenabathandbody.com.au",
+   "product_page": "https://www.elenabathandbody.com.au/collections/shower-steamers",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=613768768651727",
+   "shop_open_since": null
+  },
+  {
+   "name": "Always There Pharmacy",
+   "pages": 1,
+   "page_names": [
+    "Always There Pharmacy"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-25",
+   "page_likes": 1617,
+   "headline": "Always There Pharmacy",
+   "shop": "alwaystherepharmacy.ie",
+   "product_page": "https://www.alwaystherepharmacy.ie/subscribe",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=584713224900840",
+   "shop_open_since": null
+  },
+  {
+   "name": "Sinuxyl Nasal Spray",
+   "pages": 1,
+   "page_names": [
+    "Sinuxyl Nasal Spray"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-15",
+   "page_likes": 12422,
+   "headline": "Ito ang sinubok ng libo-libo para sa sinus relief.",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=741252075745694",
+   "shop_open_since": null
+  },
+  {
+   "name": "Cacaw",
+   "pages": 1,
+   "page_names": [
+    "Cacaw"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 174,
+   "headline": "Breathe Easier in Just 10 Minutes",
+   "shop": "cacaw.in",
+   "product_page": "https://cacaw.in/products/clearbreath%E2%84%A2-red-light-nasal-relief-device",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=667863616420034",
+   "shop_open_since": null
+  },
+  {
+   "name": "San Antonio Magazine",
+   "pages": 1,
+   "page_names": [
+    "San Antonio Magazine"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-17",
+   "page_likes": 33371,
+   "headline": "The Face of Sinus Relief: American Sinus Institute",
+   "shop": "sanantoniomag.com",
+   "product_page": "https://www.sanantoniomag.com/the-face-of-sinus-relief-american-sinus-institute/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=51778086161",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mehar Impex Homoeopathic store and free consultation clinic",
+   "pages": 1,
+   "page_names": [
+    "Mehar Impex Homoeopathic store and free consultation clinic"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-26",
+   "page_likes": 7178,
+   "headline": "Mehar Impex",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=179435322718474",
+   "shop_open_since": null
+  },
+  {
+   "name": "Eat 2 Live",
+   "pages": 1,
+   "page_names": [
+    "Eat 2 Live"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-04-13",
+   "page_likes": 1884,
+   "headline": "Sinus relief but with something cleaner + more effective. \n\nRespiraLux is what we keep on ",
+   "shop": "eat2live.life",
+   "product_page": "https://eat2live.life/collections/natural-decongestant-solutions",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=228979753642193",
+   "shop_open_since": null
+  },
+  {
+   "name": "Inish Pharmacy",
+   "pages": 1,
+   "page_names": [
+    "Inish Pharmacy"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": 17982,
+   "headline": "20% Off SONS",
+   "shop": "inishpharmacy.com",
+   "product_page": "https://www.inishpharmacy.com/collections/sale",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=372882189391280",
+   "shop_open_since": null
+  },
+  {
+   "name": "ResBiotic",
+   "pages": 1,
+   "page_names": [
+    "ResBiotic"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-26",
+   "page_likes": 4014,
+   "headline": "Breathe Better Today 🌿",
+   "shop": "app.resbiotic.com",
+   "product_page": "https://app.resbiotic.com/resb-benefits",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111206687879897",
+   "shop_open_since": null
+  },
+  {
+   "name": "Zephirra",
+   "pages": 1,
+   "page_names": [
+    "Zephirra"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-06",
+   "page_likes": 25,
+   "headline": "30% Off Sale Live Now",
+   "shop": "zephirraa.com",
+   "product_page": "https://zephirraa.com/products/zephirra-heat-therapy-mask",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1087748771093337",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pravinia Spa : Anti-Aging & Clean Beauty Solution",
+   "pages": 1,
+   "page_names": [
+    "Pravinia Spa : Anti-Aging & Clean Beauty Solution"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": 29706,
+   "headline": "ปวดหัวบ่อย...\nตาหนัก...หัวตื้อ...\nหายใจไม่โล่ง...\nอาจไม่ใช่แค่ความเหนื่อยล้า\nแต่อาจเป็นสัญ",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=498799946841168",
+   "shop_open_since": null
+  },
+  {
+   "name": "Peacemaker Healing",
+   "pages": 1,
+   "page_names": [
+    "Peacemaker Healing"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-12",
+   "page_likes": 1846,
+   "headline": "{{product.name}}",
+   "shop": "peacemakerhealing.com",
+   "product_page": "https://www.peacemakerhealing.com/pages/the-aussie-veteran-who-has-people-ditching-nasal-sprays",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=339541147220640",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "soovera.com": 34,
+  "api.whatsapp.com": 26,
+  "shop.neilmed.com": 11,
+  "kaplansinusrelief.com": 7,
+  "saptaveda.com": 7,
+  "tylenol.ca": 5,
+  "offer.nasalfreshmd.com": 5,
+  "shop.medtechlife.com": 4,
+  "mynaturesrite.com": 3,
+  "takealot.com": 2,
+  "meliplants.com": 2,
+  "asaved.in": 2,
+  "ad.doubleclick.net": 2,
+  "garudaherbalsoil.in": 2,
+  "fyssin.com": 2,
+  "metrosinus.rtrk.com": 2,
+  "dallasent.com": 2,
+  "mwsinusandsleep.com": 2,
+  "advancedspecialtyassociates.com": 2,
+  "shop.nous4u.com": 2,
+  "sinusandsnoringmd.com": 2,
+  "chemistwarehouse.co.nz": 1,
+  "gulfcoastfacialplastics.com": 1,
+  "keyaseth.com": 1,
+  "thelooseleaftea.com": 1
+ },
+ "cost_usd": 0.75,
+ "shops_checked": 7,
+ "shops_over_a_year_old": 7,
+ "shops_under_4_months_old": 0
+}

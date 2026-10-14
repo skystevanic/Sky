@@ -1,0 +1,264 @@
+{
+ "slug": "sinutherm",
+ "same": [
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  93,
+  94,
+  113,
+  115,
+  119,
+  125,
+  127,
+  129,
+  132
+ ],
+ "brand_price": 49.99,
+ "brand_currency": "gbp",
+ "countries": [
+  {
+   "cc": "au",
+   "status": "crowded",
+   "why": "amazon.com.au at $28.90: Amazon result 9 for the product words. 1 other copy",
+   "prices": {
+    "brand": 99.98,
+    "cheapest_copy": 28.9,
+    "typical_copy": 28.9,
+    "cheapest_real_copy": 28.9,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon",
+     "title": "Nose Warmer Red Light Nasal Mask, 3 Levels Adjustable Nasal ...",
+     "link": "https://www.amazon.com.au/Warmer-Light-Levels-Adjustable-Heating/dp/B0GGGZKPJQ",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_83.jpg",
+     "looked_up": true,
+     "reviews": 28,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 28 reviews"
+    },
+    {
+     "source": "amazon.com.au",
+     "title": "Nose Warmer Red Light Nasal Mask, 3 Levels Adjustable Nasal Heating Mask - Relieve Nasal C",
+     "link": "https://www.amazon.com.au/Warmer-Light-Levels-Adjustable-Heating/dp/B0GGGZKPJQ/",
+     "price_text": "$28.90",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/sinutherm_vis_thumb_033.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 9,
+     "reviews": 28,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 9 for the product words"
+    }
+   ],
+   "picture_matches": 58
+  },
+  {
+   "cc": "us",
+   "status": "weak",
+   "why": "4 copies, all hard to find. Cheapest: Amazon.com (found only by photo)",
+   "prices": {
+    "brand": 66.65,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Wireless Heated Nasal Mask for Dry Air & AC ...",
+     "link": "https://www.amazon.com/clp/B0GDFT78X9",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_79.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: 2026 Upgraded Red Light Nasal Therapy Device ...",
+     "link": "https://www.amazon.com/clp/B0FGQBXL81",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_80.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Woolala 3D Therapy Heated Nose Cover, Winter ...",
+     "link": "https://www.amazon.com/clp/B0BJDLDXT4",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_82.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: FOMIYES Collagen Face Mask Heater Dermal Face ...",
+     "link": "https://www.amazon.com/clp/B0DMJS2JG7",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_84.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "uk",
+   "status": "weak",
+   "why": "1 copy, all hard to find. Cheapest: Amazon UK (not in the top results, 0 reviews)",
+   "prices": {
+    "brand": 49.99,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon UK",
+     "title": "Heating Nose Pad- 130g Rechargeable Portable Nasal Device ...",
+     "link": "https://www.amazon.co.uk/Heating-Rechargeable-Portable-Cordless-Congestion/dp/B0GGZB7HBM",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_113.jpg",
+     "looked_up": true,
+     "reviews": null,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 0 reviews"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "ca",
+   "status": "crowded",
+   "why": "amazon.ca: Amazon result 12 for the product words. 2 other copies",
+   "prices": {
+    "brand": 91.32,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Walmart",
+     "title": "Personal Trainer | Walmart Canada",
+     "link": "https://www.walmart.ca/en/c/kp/personal-trainer",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_115.jpg",
+     "strength": "weak",
+     "strength_why": "found only by photo"
+    },
+    {
+     "source": "Temu",
+     "title": "24 pack nose pads mask avoiding air leaks nasal pads - Temu",
+     "link": "https://www.temu.com/24pcs--nose-pads-for-masks-comfortable-breathable-nasal-cushions-with--backing-air-leak-prevention-fit-for-most-sleep-masks-supplies-g-601099955274061.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_119.jpg",
+     "strength": "strong",
+     "strength_why": "on Temu or Shein"
+    },
+    {
+     "source": "amazon.ca",
+     "title": "Red Light Therapy for Nose Relief, Sinus Support & Better Breathing",
+     "link": "https://www.amazon.ca/Therapy-Relief-Support-Better-Breathing/dp/B0FJGD9NNN/",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/sinutherm_vis_thumb_050.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 12,
+     "reviews": 14,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 12 for the product words"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "de",
+   "status": "weak",
+   "why": "1 copy, all hard to find. Cheapest: Amazon.de (not in the top results, 0 reviews)",
+   "prices": {
+    "brand": 57.32,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "Amazon.de",
+     "title": "Nasenwärme-Auflage Aufladbares Nasengerät | 3 Stufen ...",
+     "link": "https://www.amazon.de/Générique-Nasenwärme-Auflage-Aufladbares-Nasengerät/dp/B0GGZGTN1H",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/sinutherm_thumb_127.jpg",
+     "looked_up": true,
+     "reviews": null,
+     "bought": null,
+     "strength": "weak",
+     "strength_why": "not in the top results, 0 reviews"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "nz",
+   "status": "crowded",
+   "why": "amazon.com.au at $28.90: Amazon result 9 for the product words",
+   "prices": {
+    "brand": 111.98,
+    "cheapest_copy": 28.9,
+    "typical_copy": 28.9,
+    "cheapest_real_copy": 28.9,
+    "priced_copies": 1
+   },
+   "findability_checked": true,
+   "same_object_listings": [
+    {
+     "source": "amazon.com.au",
+     "title": "Nose Warmer Red Light Nasal Mask, 3 Levels Adjustable Nasal Heating Mask - Relieve Nasal C",
+     "link": "https://www.amazon.com.au/Warmer-Light-Levels-Adjustable-Heating/dp/B0GGGZKPJQ/",
+     "price_text": "$28.90",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/sinutherm_vis_thumb_033.jpg",
+     "found_by_words": true,
+     "where": "Amazon",
+     "rank": 9,
+     "reviews": 28,
+     "bought": null,
+     "strength": "strong",
+     "strength_why": "Amazon result 9 for the product words"
+    }
+   ],
+   "picture_matches": 60
+  }
+ ]
+}
