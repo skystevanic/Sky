@@ -1411,6 +1411,86 @@
     "note": "The same inflatable fabric arm ball, sold in green, black and blue, with or without a neck strap."
    },
    "advertiser_takeaway": "25 brands advertise \"golf swing trainer\", led by Temu (about 90 ads across its pages) and Plane Swing (100 ads). PureStrike itself is not among the top advertisers for this phrase."
+  },
+  {
+   "slug": "purefoot",
+   "name": "60% Urea Foot Care Stick (PureFoot)",
+   "brand": "PureFoot (Foot Insiders)",
+   "url": "https://trypurefoot.com/products/purefoot-relief-stick",
+   "category": "Foot care cosmetic: urea stick",
+   "price": "US$18.99",
+   "ad_days": "Oldest live ad 2026-02-14",
+   "store_platform": "Shopify",
+   "store_launched": "2025-10",
+   "store_products": "9 products, foot care",
+   "one_liner": "The identical \"60% Urea Foot Care Stick\" is on Amazon in every European country checked from €6-9, plus Walmart and Shein. A cosmetic at US$19 leaves no room.",
+   "verdict": "Avoid",
+   "overall": 45,
+   "confidence": "High",
+   "scores": {
+    "saturated": 9,
+    "margin": 4,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 1
+   },
+   "why": [
+    "The same stick, same packaging, sells on Amazon UK, DE, NL, FR, ES and IT from €6-9",
+    "It is a cosmetic with salicylic acid: EU safety report and registration needed",
+    "At US$18.99 there is too little left to pay for ads"
+   ],
+   "risk": "Cheap, identical copies everywhere and cosmetic paperwork make it a poor first product.",
+   "next": [
+    "Skip it"
+   ],
+   "best_region": "None.",
+   "snapshot": {
+    "icp": "Adults with dry, cracked heels",
+    "job": "Soften cracked heels",
+    "cogs": "About €1-2 landed (estimate)",
+    "margin": "Low in absolute terms at US$18.99",
+    "claims": "60% urea, 2% salicylic acid",
+    "demoable": "Yes: before and after heels"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "flag",
+     "why": "Walmart sells the same stick at US$12"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Identical stick on Amazon in all 7 countries checked from €6"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded: 33 brands advertise \"urea foot\""
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Tiny"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Cosmetic with salicylic acid: EU paperwork"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 3,
+    "match_name": "Amazon UK (£7)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same yellow-cap stick in the same blue-and-yellow box, under many brand names."
+   },
+   "advertiser_takeaway": "PureFoot (Foot Insiders) runs 56 ads since February, so the ads do sell it, but 33 brands advertise \"urea foot\" and the same stick costs €6-9 on Amazon."
   }
  ]
 }

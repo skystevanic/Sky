@@ -1,0 +1,572 @@
+{
+ "slug": "pf-12629",
+ "phrase": "urea foot",
+ "checked": "2026-10-15",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22urea%20foot%22",
+ "ads_loaded": 200,
+ "capped": true,
+ "stopped_by": "stopped at 200 ads (there are more)",
+ "n_advertisers": 33,
+ "advertisers_with_3_plus_ads": 9,
+ "biggest_advertiser_share": 0.28,
+ "brands_new_in_last_2_months": 27,
+ "brands_advertising_3_plus_months": 5,
+ "ads_started_last_2_months": 133,
+ "ads_older_than_6_months": 30,
+ "pattern": "crowded",
+ "plain": "At least 33 brands. Their live ads are recent, but 3 of the 6 biggest shops we could date are more than a year old: an established market, not a new rush.",
+ "months": {
+  "2025-08": 1,
+  "2026-02": 17,
+  "2026-03": 3,
+  "2026-04": 9,
+  "2026-05": 3,
+  "2026-06": 8,
+  "2026-07": 18,
+  "2026-08": 8,
+  "2026-09": 54,
+  "2026-10": 79
+ },
+ "brand_months": {
+  "2025-08": 1,
+  "2026-02": 1,
+  "2026-03": 1,
+  "2026-05": 1,
+  "2026-06": 1,
+  "2026-07": 1,
+  "2026-09": 12,
+  "2026-10": 15
+ },
+ "top_advertisers": [
+  {
+   "name": "Foot Insiders",
+   "pages": 1,
+   "page_names": [
+    "Foot Insiders"
+   ],
+   "ads": 56,
+   "oldest_live_ad": "2026-02-14",
+   "page_likes": 120,
+   "headline": "The World’s First 60% Urea Footcare",
+   "shop": "trypurefoot.com",
+   "product_page": "https://trypurefoot.com/products/urea-cream-stick-a-moisturizing-foot-cream-for-chapped-feet-is-available-for-cross-border-e-commerce",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=746213405236512",
+   "shop_open_since": "2025-10-17"
+  },
+  {
+   "name": "Be Bodywise AE",
+   "pages": 2,
+   "page_names": [
+    "Be Bodywise AE",
+    "Be Bodywise - UAE"
+   ],
+   "ads": 44,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 6988,
+   "headline": "Say Goodbye to Dry Cracked Heels!",
+   "shop": "bebodywise.ae",
+   "product_page": "https://bebodywise.ae/product/20-urea-roll-on-50ml",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=868263719714626",
+   "shop_open_since": null
+  },
+  {
+   "name": "Be Bodywise",
+   "pages": 1,
+   "page_names": [
+    "Be Bodywise"
+   ],
+   "ads": 20,
+   "oldest_live_ad": "2026-09-11",
+   "page_likes": 52594,
+   "headline": "Say Goodbye to Cracked Heels with Ease! 🌸",
+   "shop": "bebodywise.com",
+   "product_page": "https://bebodywise.com/habit/landing/pdp/20-urea-roll-on-75ml",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103328924814201",
+   "shop_open_since": null
+  },
+  {
+   "name": "Osolex",
+   "pages": 1,
+   "page_names": [
+    "Osolex"
+   ],
+   "ads": 16,
+   "oldest_live_ad": "2026-09-06",
+   "page_likes": 3246,
+   "headline": "Pakistan's First 15% Urea Cream",
+   "shop": "osolex.co",
+   "product_page": "https://www.osolex.co/products/urea-foot-repair-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=483523474854038",
+   "shop_open_since": "2025-01-30"
+  },
+  {
+   "name": "RootAura",
+   "pages": 1,
+   "page_names": [
+    "RootAura"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-05-15",
+   "page_likes": 1937,
+   "headline": "{{product.name}}",
+   "shop": "rootaura.shop",
+   "product_page": "https://rootaura.shop/products/rootaura™-крем-за-сухи-и-напукани-пети",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=552108857982285",
+   "shop_open_since": "2025-06-26"
+  },
+  {
+   "name": "Natalie Collins",
+   "pages": 2,
+   "page_names": [
+    "Natalie Collins",
+    "Sharon Mitchell"
+   ],
+   "ads": 8,
+   "oldest_live_ad": "2026-07-19",
+   "page_likes": 3,
+   "headline": "If They're Making You Itch, Why Not Make Them Disappear?",
+   "shop": "habsters.com",
+   "product_page": "https://habsters.com/pages/adv2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1211816868677133",
+   "shop_open_since": "2026-07-12"
+  },
+  {
+   "name": "Tryins Lifestyle",
+   "pages": 1,
+   "page_names": [
+    "Tryins Lifestyle"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-09-14",
+   "page_likes": 17,
+   "headline": "Shop Urea Foot Care Stick",
+   "shop": "tryinsplus.com",
+   "product_page": "https://tryinsplus.com/products/care-cream",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1303024829554079",
+   "shop_open_since": "2026-08-19"
+  },
+  {
+   "name": "DailyFixx",
+   "pages": 1,
+   "page_names": [
+    "DailyFixx"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 13,
+   "headline": "Сухи и напукани пети?",
+   "shop": "dailyfixx.eu",
+   "product_page": "https://dailyfixx.eu/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1171199182739431",
+   "shop_open_since": null
+  },
+  {
+   "name": "FURR",
+   "pages": 1,
+   "page_names": [
+    "FURR"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-29",
+   "page_likes": 2229,
+   "headline": "FURR",
+   "shop": "link.blinkit.com",
+   "product_page": "https://link.blinkit.com/bln/gjmra480",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100422922098262",
+   "shop_open_since": null
+  },
+  {
+   "name": "Distribuidora La Cima",
+   "pages": 1,
+   "page_names": [
+    "Distribuidora La Cima"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-05",
+   "page_likes": 1338,
+   "headline": "Urea en barra",
+   "shop": "fb.com",
+   "product_page": "https://fb.com/messenger_doc/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=703683402827133",
+   "shop_open_since": null
+  },
+  {
+   "name": "Аптеки ФЛОС ФАРМ",
+   "pages": 1,
+   "page_names": [
+    "Аптеки ФЛОС ФАРМ"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-16",
+   "page_likes": 12240,
+   "headline": "ФЛОС ФАРМ - месечен каталог на производи. \nПовеќе од аптека – решение за секојдневното здр",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=146168739283835",
+   "shop_open_since": null
+  },
+  {
+   "name": "FURR",
+   "pages": 1,
+   "page_names": [
+    "FURR"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-04",
+   "page_likes": 2229,
+   "headline": "{{product.name}} | {{product.current_price strip_zeros}}",
+   "shop": "furr.in",
+   "product_page": "http://furr.in/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100422922098262",
+   "shop_open_since": "2022-03-08"
+  },
+  {
+   "name": "Nuvelle",
+   "pages": 1,
+   "page_names": [
+    "Nuvelle"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-07",
+   "page_likes": 18,
+   "headline": "The World’s First 60% Urea Footcare",
+   "shop": "nuvellepk.com",
+   "product_page": "https://nuvellepk.com/products/pure-foot-relief-stick",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1159303450610098",
+   "shop_open_since": null
+  },
+  {
+   "name": "Tulio",
+   "pages": 1,
+   "page_names": [
+    "Tulio"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 5925,
+   "headline": "STOC APROAPE EPUIZAT 🔥",
+   "shop": "tulio.ro",
+   "product_page": "https://tulio.ro/products/stick-pentru-calcaie-fine",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=679102318624916",
+   "shop_open_since": null
+  },
+  {
+   "name": "صيدليات البحيرى",
+   "pages": 2,
+   "page_names": [
+    "صيدليات البحيرى",
+    "Techmed Footcare solutions"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-29",
+   "page_likes": 18913,
+   "headline": "✨ العناية ببشرتك أصبحت مضاعفة وبنصف الثمن! ✨\n​جدّدي روتين العناية ببشرتك مع أفضل منتجات يو",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103448565129912",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pentru Corpul Tau",
+   "pages": 1,
+   "page_names": [
+    "Pentru Corpul Tau"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2025-08-13",
+   "page_likes": 19481,
+   "headline": "{{product.name}}",
+   "shop": "pentrucorpultau.ro",
+   "product_page": "https://pentrucorpultau.ro/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=360298060776870",
+   "shop_open_since": null
+  },
+  {
+   "name": "Adilsons",
+   "pages": 1,
+   "page_names": [
+    "Adilsons"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 38064,
+   "headline": "{{product.name}}",
+   "shop": "adilsons.mu",
+   "product_page": "http://adilsons.mu/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=160081954141307",
+   "shop_open_since": null
+  },
+  {
+   "name": "BlissBeauty",
+   "pages": 1,
+   "page_names": [
+    "BlissBeauty"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-14",
+   "page_likes": 512,
+   "headline": "Få dine bløde hæle tilbage",
+   "shop": "blissbeauty.dk",
+   "product_page": "https://blissbeauty.dk/products/silkfoot-relief-stick",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=513019905237563",
+   "shop_open_since": null
+  },
+  {
+   "name": "Foot Health Solutions",
+   "pages": 1,
+   "page_names": [
+    "Foot Health Solutions"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-03-31",
+   "page_likes": 488,
+   "headline": "Foot Health Solutions",
+   "shop": "foothealthsolutions.com.au",
+   "product_page": "https://foothealthsolutions.com.au/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101763114657008",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pretty Finds Lab",
+   "pages": 1,
+   "page_names": [
+    "Pretty Finds Lab"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-03",
+   "page_likes": 97,
+   "headline": "✨ Curated finds just dropped! 🛍️\nWatsapp 5785 4485 or DM for orders 📲\n\n💫 Postage available",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1215060431699134",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pharmacare",
+   "pages": 1,
+   "page_names": [
+    "Pharmacare"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 6036,
+   "headline": "Winter Skincare Deals | Up to 50% OFF",
+   "shop": "pharmacareonline.qa",
+   "product_page": "https://pharmacareonline.qa/collections/winter-skincare-essentials",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=168895213469906",
+   "shop_open_since": null
+  },
+  {
+   "name": "Care to Beauty",
+   "pages": 1,
+   "page_names": [
+    "Care to Beauty"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 72959,
+   "headline": "Tested in oncology centers",
+   "shop": "caretobeauty.com",
+   "product_page": "https://www.caretobeauty.com/skincare-for-cancer-patients/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1191642804182794",
+   "shop_open_since": null
+  },
+  {
+   "name": "SteveEcom",
+   "pages": 1,
+   "page_names": [
+    "SteveEcom"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 80,
+   "headline": "✨ DES CHEVEUX PLUS BEAUX, PLUS FORTS ET PLUS BRILLANTS ! ✨\n\nVous avez les cheveux secs, ab",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=727268803803352",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pokonut Ayurveda ",
+   "pages": 1,
+   "page_names": [
+    "Pokonut Ayurveda "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 8298,
+   "headline": "Grab at ₹198",
+   "shop": "amazon.in",
+   "product_page": "https://www.amazon.in/Pokonut-Pregnancy-Delivery-Hyaluronic-Non-Sticky/dp/B0B3959HN8/ref=sr_1_7",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=110300242154271",
+   "shop_open_since": null
+  },
+  {
+   "name": "Alibaba.com",
+   "pages": 1,
+   "page_names": [
+    "Alibaba.com"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-14",
+   "page_likes": 28868024,
+   "headline": "{{product.name}}",
+   "shop": "app.alibaba.com",
+   "product_page": "http://app.alibaba.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=22437985072",
+   "shop_open_since": null
+  },
+  {
+   "name": "Alibaba.com",
+   "pages": 1,
+   "page_names": [
+    "Alibaba.com"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-14",
+   "page_likes": 28869991,
+   "headline": "{{product.name}}",
+   "shop": "play.google.com",
+   "product_page": "http://play.google.com/store/apps/details",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=22437985072",
+   "shop_open_since": null
+  },
+  {
+   "name": "Optimisticn.shop",
+   "pages": 1,
+   "page_names": [
+    "Optimisticn.shop"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 1089,
+   "headline": "✨2 Pack Urea Foot Care Stick🦶",
+   "shop": "optimisticn.com",
+   "product_page": "https://www.optimisticn.com/products/urea-foot-care-stick-2-pack-60-urea-2-salicylic-acid-repairs-cracked-skin-softens-calluses",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=117606747933464",
+   "shop_open_since": null
+  },
+  {
+   "name": "Variedades Beracah",
+   "pages": 1,
+   "page_names": [
+    "Variedades Beracah"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-14",
+   "page_likes": 12806,
+   "headline": "✨💄 ¡Tu belleza, tu estilo y todo lo que necesitas en un solo lugar! 💅🛍️\n\nEn Variedades BER",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1788837348004373",
+   "shop_open_since": null
+  },
+  {
+   "name": "Prime Commerce",
+   "pages": 1,
+   "page_names": [
+    "Prime Commerce"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 19782,
+   "headline": "42% Urea Foot Repair Cream",
+   "shop": "primecommerce.net",
+   "product_page": "https://primecommerce.net/product/42-urea-foot-repair-cream/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=377356966042240",
+   "shop_open_since": null
+  },
+  {
+   "name": "AxeMedica",
+   "pages": 1,
+   "page_names": [
+    "AxeMedica"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-14",
+   "page_likes": 1719,
+   "headline": "💙Disponible en Axemedica\n\n📍Nuestra oficina administrativa se ubica en Caracas, Multicentro",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=114921086870670",
+   "shop_open_since": null
+  },
+  {
+   "name": "BeautyBliss Norge",
+   "pages": 1,
+   "page_names": [
+    "BeautyBliss Norge"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-14",
+   "page_likes": 172,
+   "headline": "SilkFoot Relief Stick – Silkemyke føtter året rundt",
+   "shop": "beauty-bliss.co",
+   "product_page": "https://beauty-bliss.co/products/silkfoot-relief-stick",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=648190001703982",
+   "shop_open_since": null
+  },
+  {
+   "name": "Be Bodywise UK",
+   "pages": 1,
+   "page_names": [
+    "Be Bodywise UK"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-10",
+   "page_likes": 39,
+   "headline": "See Visible Results in Just 2 Weeks! 📈",
+   "shop": "bebodywise.co.uk",
+   "product_page": "https://bebodywise.co.uk/products/20-urea-foot-and-heel-roll-on-50ml",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1181936444996223",
+   "shop_open_since": null
+  },
+  {
+   "name": "Restorate Foot Cream",
+   "pages": 1,
+   "page_names": [
+    "Restorate Foot Cream"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-13",
+   "page_likes": 949,
+   "headline": "Everyday Hydration for Tired Feet",
+   "shop": "restoratecream.com.au",
+   "product_page": "https://www.restoratecream.com.au/products/restart-cream-500ml-pump-pack",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=762327137231266",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "trypurefoot.com": 56,
+  "bebodywise.ae": 44,
+  "bebodywise.com": 20,
+  "osolex.co": 16,
+  "rootaura.shop": 9,
+  "habsters.com": 8,
+  "tryinsplus.com": 6,
+  "dailyfixx.eu": 4,
+  "link.blinkit.com": 4,
+  "fb.com": 2,
+  "furr.in": 2,
+  "nuvellepk.com": 2,
+  "tulio.ro": 2,
+  "api.whatsapp.com": 2,
+  "pentrucorpultau.ro": 2,
+  "adilsons.mu": 2,
+  "blissbeauty.dk": 2,
+  "foothealthsolutions.com.au": 1,
+  "pharmacareonline.qa": 1,
+  "caretobeauty.com": 1,
+  "amazon.in": 1,
+  "app.alibaba.com": 1,
+  "play.google.com": 1,
+  "optimisticn.com": 1,
+  "primecommerce.net": 1
+ },
+ "cost_usd": 1,
+ "shops_checked": 6,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 2
+}

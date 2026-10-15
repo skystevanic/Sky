@@ -1,0 +1,474 @@
+{
+ "slug": "purefoot",
+ "same": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  28,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ],
+ "brand_price": 18.99,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "us",
+   "status": "blocked",
+   "why": "The same object is sold by Walmart at $12",
+   "prices": {
+    "brand": 18.99,
+    "cheapest_copy": 12.0,
+    "typical_copy": 13.0,
+    "cheapest_real_copy": 12.0,
+    "priced_copies": 3
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "eBay",
+     "title": "60% Urea with 2% Salicylic Acid Urea Foot Care Stick, Foot ...",
+     "link": "https://www.ebay.com/itm/366175210208",
+     "price_text": "$13",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_00.jpg"
+    },
+    {
+     "source": "Walmart",
+     "title": "IKZEE, Foot Care Stick, 2 Pack 1.41 Oz, Urea Salicylic Acid ...",
+     "link": "https://www.walmart.com/ip/2-Pack-Foot-Care-Stick-with-Urea-Salicylic-Acid-Heel-Balm-Heals-and-Moisturizes-feet-1-41-Oz/20059209509",
+     "price_text": "$12",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_02.jpg"
+    },
+    {
+     "source": "Walmart",
+     "title": "Lofuanna, Urea Foot Cream Stick, 60% Urea, 2% Salicylic Acid ...",
+     "link": "https://www.walmart.com/ip/Urea-Foot-Cream-Stick-60-2-Salicylic-Acid-Dry-Cracked-Feet-Knees-Elbows-Hands-Moisturizes-Dry-Skin-Callus-Remover-Skin-Softener-2PACK/20141061363",
+     "price_text": "$15",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_06.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: 60% Urea 2% Salicylic Acid Foot Care Stick for ...",
+     "link": "https://www.amazon.com/clp/B0F8NRSYW5",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_31.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Urea Foot Cream Stick, 60% Urea Cream with 2 ...",
+     "link": "https://www.amazon.com/clp/B0FNR6153Z",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_32.jpg"
+    },
+    {
+     "source": "eBay",
+     "title": "Stick Foot Creams & Treatments for sale | eBay",
+     "link": "https://www.ebay.com/b/Stick-Foot-Creams-Treatments/36431/bn_2728914",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_34.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: 60% Urea Foot Care Stick with 2% Salicylic Acid ...",
+     "link": "https://www.amazon.com/clp/B0FDKSXQ9B",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_35.jpg"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "uk",
+   "status": "crowded",
+   "why": "The same object is on Amazon UK at £6. 5 other copies",
+   "prices": {
+    "brand": 14.24,
+    "cheapest_copy": 6.0,
+    "typical_copy": 7.0,
+    "cheapest_real_copy": 6.0,
+    "priced_copies": 5
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon UK",
+     "title": "Urea Cream 60 Percent for Feet, Urea Foot Cream Stick for ...",
+     "link": "https://www.amazon.co.uk/Percent-Cracked-Intense-Moisturizer-Hydrating/dp/B0FQC9KFRS",
+     "price_text": "£7",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_03.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Urea Foot Cream Stick, Foot Balm Stick Softening for Cracked ...",
+     "link": "https://www.amazon.co.uk/Softening-Calluses-Portable-Applicator-Salicylic/dp/B0G6YLTP6J",
+     "price_text": "£8",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_05.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Urea Foot Cream 60% with 2% Salicylic Acid, Foot Cream for ...",
+     "link": "https://www.amazon.co.uk/Salicylic-Moisturizer-Cracked-Intensely-Moisturising/dp/B0FW3XTM7G",
+     "price_text": "£6",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_08.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Urea Foot Cream Stick, Foot Balm for Hard Skin & Calluses ...",
+     "link": "https://www.amazon.co.uk/Cream-Stick-Cracked-Repair-Moisturiser/dp/B0FL7XX8T6",
+     "price_text": "£7",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_09.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "60% Urea with 2% Salicylic Acid Urea Foot Care Stick, for ...",
+     "link": "https://www.amazon.co.uk/Salicylic-Cracked-Exfoliating-Softening-Moisturizer/dp/B0H6K8MJ2Q",
+     "price_text": "£7",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_10.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Shein",
+     "title": "BARUBT Salicylic Acid Moisturizing Foot Care Stick, Foot ...",
+     "link": "https://ar.shein.com/BARUBT-Salicylic-Acid-Moisturizing-Foot-Care-Stick-Foot-Care-Foot-Soak-Foot-Moisturizer-Foot-Cream-Suitable-For-Dry-Peeling-Skin-On-Feet-Knees-And-Body-Nourishing-And-Soft-Containing-Salicylic-Acid-And-Vitamin-E-Comfortable-For-Autumn-Winter-Suitable-For-Autumn-Winter-Y2K-Halloween-Parties-Thanksgiving-New-Year-Christmas-Also-Suitable-As-A-Thank-You-Gift-Or-Christmas-Gift-p-336162178.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_33.jpg",
+     "strength": "strong",
+     "strength_why": "Temu or Shein"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "de",
+   "status": "crowded",
+   "why": "The same object is on Amazon.de at €8. 4 other copies",
+   "prices": {
+    "brand": 16.33,
+    "cheapest_copy": 8.0,
+    "typical_copy": 10.0,
+    "cheapest_real_copy": 8.0,
+    "priced_copies": 4
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.de",
+     "title": "60% Urea Foot Care Stick - Treatment of Cracked Heels and ...",
+     "link": "https://www.amazon.de/-/en/60-Urea-Foot-Care-Stick/dp/B0FQ5XQ3HK",
+     "price_text": "€13",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_01.jpg",
+     "strength": "weak",
+     "strength_why": "about the brand's price"
+    },
+    {
+     "source": "Amazon.de",
+     "title": "Urea Foot Cream 60%, Urea Foot Balm Stick for Dry, Cracked ...",
+     "link": "https://www.amazon.de/-/en/Cracked-Thickened-Moisturises-Nourishes-Exfoliates/dp/B0F8NMBMP8",
+     "price_text": "€10",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_04.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon.de",
+     "title": "60% Urea Cream with 2% Salicylic Acid, Maximum Strength Urea ...",
+     "link": "https://www.amazon.de/-/en/Salicylic-Maximum-Strength-Cracked-Removal/dp/B0GVFYDP45",
+     "price_text": "€9",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_11.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon.de",
+     "title": "Urea Cream Stick 60% Plus 2% Salicylic Acid, Foot Cream and ...",
+     "link": "https://www.amazon.de/-/en/Salicylic-Cracked-Thickened-Remover-Softener/dp/B0FJXSW3CN",
+     "price_text": "€8",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_12.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Shein",
+     "title": "BARUBT Salicylic Acid Moisturizing Foot Care Stick, Foot ...",
+     "link": "https://ar.shein.com/BARUBT-Salicylic-Acid-Moisturizing-Foot-Care-Stick-Foot-Care-Foot-Soak-Foot-Moisturizer-Foot-Cream-Suitable-For-Dry-Peeling-Skin-On-Feet-Knees-And-Body-Nourishing-And-Soft-Containing-Salicylic-Acid-And-Vitamin-E-Comfortable-For-Autumn-Winter-Suitable-For-Autumn-Winter-Y2K-Halloween-Parties-Thanksgiving-New-Year-Christmas-Also-Suitable-As-A-Thank-You-Gift-Or-Christmas-Gift-p-336162178.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_33.jpg",
+     "strength": "strong",
+     "strength_why": "Temu or Shein"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "nl",
+   "status": "crowded",
+   "why": "The same object is on Amazon.nl at €8. 1 other copy",
+   "prices": {
+    "brand": 16.33,
+    "cheapest_copy": 8.0,
+    "typical_copy": 8.0,
+    "cheapest_real_copy": 8.0,
+    "priced_copies": 1
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.nl",
+     "title": "Urea Cream 60% for Feet, Foot Cream, Moisture and Repair for ...",
+     "link": "https://www.amazon.nl/-/en/Cream-Moisture-Repair-Heels-Hands/dp/B0FGWKL3LH",
+     "price_text": "€8",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_13.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Shein",
+     "title": "BARUBT Salicylic Acid Moisturizing Foot Care Stick, Foot ...",
+     "link": "https://ar.shein.com/BARUBT-Salicylic-Acid-Moisturizing-Foot-Care-Stick-Foot-Care-Foot-Soak-Foot-Moisturizer-Foot-Cream-Suitable-For-Dry-Peeling-Skin-On-Feet-Knees-And-Body-Nourishing-And-Soft-Containing-Salicylic-Acid-And-Vitamin-E-Comfortable-For-Autumn-Winter-Suitable-For-Autumn-Winter-Y2K-Halloween-Parties-Thanksgiving-New-Year-Christmas-Also-Suitable-As-A-Thank-You-Gift-Or-Christmas-Gift-p-336162178.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_33.jpg",
+     "strength": "strong",
+     "strength_why": "Temu or Shein"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "fr",
+   "status": "blocked",
+   "why": "The same object is sold by Cdiscount at €16",
+   "prices": {
+    "brand": 16.33,
+    "cheapest_copy": 9.0,
+    "typical_copy": 10.0,
+    "cheapest_real_copy": 16.0,
+    "priced_copies": 3
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon",
+     "title": "Urea Cream 60%, Moisturizing Repair Cream for Feet, Suitable ...",
+     "link": "https://www.amazon.fr/-/en/Moisturizing-Repair-Suitable-Cracked-Roughness/dp/B0FGWKL3LH",
+     "price_text": "€10",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_16.jpg"
+    },
+    {
+     "source": "Cdiscount",
+     "title": "Urea Stick Pieds 40g,60% Urée Anti Callosités pour Talons ...",
+     "link": "https://www.cdiscount.com/au-quotidien/hygiene-soin-beaute/urea-stick-pieds-40g60-ure/f-127022502-aadda79968.html",
+     "price_text": "€16",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_17.jpg"
+    },
+    {
+     "source": "Amazon",
+     "title": "Foot Cream with 60% Urea with 2% Salicylic Acid - Foot Care ...",
+     "link": "https://www.amazon.fr/-/en/Foot-Cream-Urea-Salicylic-Acid/dp/B0GJ5G24M9",
+     "price_text": "€9",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_18.jpg"
+    },
+    {
+     "source": "Shein",
+     "title": "BARUBT Salicylic Acid Moisturizing Foot Care Stick, Foot ...",
+     "link": "https://ar.shein.com/BARUBT-Salicylic-Acid-Moisturizing-Foot-Care-Stick-Foot-Care-Foot-Soak-Foot-Moisturizer-Foot-Cream-Suitable-For-Dry-Peeling-Skin-On-Feet-Knees-And-Body-Nourishing-And-Soft-Containing-Salicylic-Acid-And-Vitamin-E-Comfortable-For-Autumn-Winter-Suitable-For-Autumn-Winter-Y2K-Halloween-Parties-Thanksgiving-New-Year-Christmas-Also-Suitable-As-A-Thank-You-Gift-Or-Christmas-Gift-p-336162178.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_33.jpg"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "es",
+   "status": "crowded",
+   "why": "The same object is on Amazon.es at €6. 4 other copies",
+   "prices": {
+    "brand": 16.33,
+    "cheapest_copy": 6.0,
+    "typical_copy": 15.0,
+    "cheapest_real_copy": 6.0,
+    "priced_copies": 4
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon",
+     "title": "Crema Reparadora para Talones Agrietados, Nutrición Intensa ...",
+     "link": "https://www.amazon.es/Reparadora-Agrietados-Nutrición-Hydratación-SalicíLico/dp/B0F8NMBMP8",
+     "price_text": "€9",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_19.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon.es",
+     "title": "Barra de Urea 60% + Ácido Salicílico 2% – Crema stick para ...",
+     "link": "https://www.amazon.es/Barra-Urea-60-Ácido-Salicílico/dp/B0GWJ94DD3",
+     "price_text": "€6",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_20.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon",
+     "title": "60% Urea - Lápiz nutritivo para pies con 2% de ácido ...",
+     "link": "https://www.amazon.es/60-Urea-nutritivo-salicílico-hidratación/dp/B0FQ5XQ3HK",
+     "price_text": "€15",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_21.jpg",
+     "strength": "weak",
+     "strength_why": "about the brand's price"
+    },
+    {
+     "source": "Little Stories Kids",
+     "title": "CurDerm Urea Stick · Say goodbye to dry heels starting today ...",
+     "link": "https://littlestorieskids.com/en-ie/products/curederm-reparador-de-pies-y-talones-en-barra",
+     "price_text": "€21",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_28.jpg",
+     "strength": "strong",
+     "strength_why": "a local shop"
+    },
+    {
+     "source": "Shein",
+     "title": "BARUBT Salicylic Acid Moisturizing Foot Care Stick, Foot ...",
+     "link": "https://ar.shein.com/BARUBT-Salicylic-Acid-Moisturizing-Foot-Care-Stick-Foot-Care-Foot-Soak-Foot-Moisturizer-Foot-Cream-Suitable-For-Dry-Peeling-Skin-On-Feet-Knees-And-Body-Nourishing-And-Soft-Containing-Salicylic-Acid-And-Vitamin-E-Comfortable-For-Autumn-Winter-Suitable-For-Autumn-Winter-Y2K-Halloween-Parties-Thanksgiving-New-Year-Christmas-Also-Suitable-As-A-Thank-You-Gift-Or-Christmas-Gift-p-336162178.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_33.jpg",
+     "strength": "strong",
+     "strength_why": "Temu or Shein"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "it",
+   "status": "crowded",
+   "why": "The same object is on Amazon.it at €8. 4 other copies",
+   "prices": {
+    "brand": 16.33,
+    "cheapest_copy": 8.0,
+    "typical_copy": 13.0,
+    "cheapest_real_copy": 8.0,
+    "priced_copies": 3
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.it",
+     "title": "Crema all'urea al 60% per piedi (2 pezzi), crema per piedi ...",
+     "link": "https://www.amazon.it/screpolati-riparazioni-idratante-intensiva-asciutto/dp/B0FQCJZR9M",
+     "price_text": "€13",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_22.jpg",
+     "strength": "weak",
+     "strength_why": "about the brand's price"
+    },
+    {
+     "source": "Amazon.it",
+     "title": "Crema Piedi Arricchita con Urea al 60% per Levigare la Pelle ...",
+     "link": "https://www.amazon.it/Arricchita-Levigare-Idratazione-Profonda-Morbidi/dp/B0F8NMBMP8",
+     "price_text": "€8",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_23.jpg",
+     "strength": "strong",
+     "strength_why": "much cheaper than the brand"
+    },
+    {
+     "source": "Amazon.it",
+     "title": "Stick Crema All'Urea 60% Più 2% Di Acido Salicilico, Crema ...",
+     "link": "https://www.amazon.it/AllUrea-Salicilico-Screpolati-Ispessita-Ammorbidisce/dp/B0FJXSW3CN",
+     "price_text": "€16",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_24.jpg",
+     "strength": "weak",
+     "strength_why": "about the brand's price"
+    },
+    {
+     "source": "Shein",
+     "title": "BARUBT Salicylic Acid Moisturizing Foot Care Stick, Foot ...",
+     "link": "https://ar.shein.com/BARUBT-Salicylic-Acid-Moisturizing-Foot-Care-Stick-Foot-Care-Foot-Soak-Foot-Moisturizer-Foot-Cream-Suitable-For-Dry-Peeling-Skin-On-Feet-Knees-And-Body-Nourishing-And-Soft-Containing-Salicylic-Acid-And-Vitamin-E-Comfortable-For-Autumn-Winter-Suitable-For-Autumn-Winter-Y2K-Halloween-Parties-Thanksgiving-New-Year-Christmas-Also-Suitable-As-A-Thank-You-Gift-Or-Christmas-Gift-p-336162178.html",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_33.jpg",
+     "strength": "strong",
+     "strength_why": "Temu or Shein"
+    },
+    {
+     "source": "Amazon.it",
+     "title": "Urea Foot Cream 60% with 2% Salicylic Acid - Foot Balm Stick ...",
+     "link": "https://www.amazon.it/-/en/Urea-Foot-Cream-Salicylic-Acid/dp/B0GJ5G24M9",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purefoot_thumb_39.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 59
+  }
+ ]
+}

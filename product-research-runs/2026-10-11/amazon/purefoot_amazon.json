@@ -1,0 +1,430 @@
+{
+  "slug": "purefoot",
+  "query": "urea foot stick",
+  "brand": "PureFoot",
+  "countries": [
+    {
+      "cc": "us",
+      "label": "United States",
+      "amazon_site": "amazon.com",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 27,400 reviews; 5 of the first 20 have 1,000+; at least 36,300 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 27400,
+      "n_1000_plus": 5,
+      "cheapest": 5.04,
+      "typical": 8.99,
+      "bought_last_month_min": 36300,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Dr. Scholl's Severe Cracked Heel Repair Restoring Balm 2.5oz, with 25% Urea for Dry, Crack",
+          "price_text": "$6.83",
+          "price": 6.83,
+          "rating": 4.4,
+          "reviews": 27400,
+          "bought_text": "10K+ bought in past month",
+          "bought": 10000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com/Dr-Scholls-Cracked-Moisturizes-Healthy/dp/B08YZBBVGK/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71OQIU4ci4L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "60% Urea 2% Salicylic Acid Foot Care Stick for Dry Cracked Feet, -1.41oz",
+          "price_text": "$8.99",
+          "price": 8.99,
+          "rating": 4.5,
+          "reviews": 1700,
+          "bought_text": "7K+ bought in past month",
+          "bought": 7000,
+          "sponsored": true,
+          "badges": [
+            "Overall Pick"
+          ],
+          "link": "https://www.amazon.com/dp/B0F8NRSYW5/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71bN4LHC6kL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "60% Urea 2% Salicylic Acid Foot Care Stick for Dry Cracked Feet, -1.41oz",
+          "price_text": "$8.99",
+          "price": 8.99,
+          "rating": 4.5,
+          "reviews": 1700,
+          "bought_text": "7K+ bought in past month",
+          "bought": 7000,
+          "sponsored": false,
+          "badges": [
+            "Overall Pick"
+          ],
+          "link": "https://www.amazon.com/Urea-Salicylic-Stick-Cracked-1-41oz/dp/B0F8NRSYW5/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71bN4LHC6kL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "amazon_site": "amazon.co.uk",
+      "note": null,
+      "pressure": "low",
+      "why": "top listing 569 reviews; 0 of the first 20 have 1,000+; at least 6,600 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 569,
+      "n_1000_plus": 0,
+      "cheapest": 5.94,
+      "typical": 6.99,
+      "bought_last_month_min": 6600,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Scholl Severe Cracked Heel Repair Restoring Balm, to repair Very Dry and Cracked Heels, In",
+          "price_text": "£5.99",
+          "price": 5.99,
+          "rating": 4.4,
+          "reviews": 569,
+          "bought_text": "600+ bought in past month",
+          "bought": 600,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/Scholl-Restoring-Intensely-Moisturising-Essential/dp/B0CVL5Z5F5/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51LrAtdGMDL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Urea Cream 60 Percent for Feet, 2PCS Urea Foot Cream Stick, Foot Cream for Cracked Heels a",
+          "price_text": "£8.49",
+          "price": 8.49,
+          "rating": 4.4,
+          "reviews": 414,
+          "bought_text": "500+ bought in past month",
+          "bought": 500,
+          "sponsored": true,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.co.uk/dp/B0FCRY1KML/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71vHlJjJoxL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Urea Cream 60 Percent for Feet, 2PCS Urea Foot Cream Stick, Foot Cream for Cracked Heels a",
+          "price_text": "£8.49",
+          "price": 8.49,
+          "rating": 4.4,
+          "reviews": 414,
+          "bought_text": "500+ bought in past month",
+          "bought": 500,
+          "sponsored": false,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.co.uk/Cream-Percent-Cracked-Repair-Moisturiser/dp/B0FCRY1KML/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71vHlJjJoxL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "amazon_site": "amazon.de",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 9,700 reviews; 3 of the first 20 have 1,000+; at least 2,000 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 9700,
+      "n_1000_plus": 3,
+      "cheapest": 5.94,
+      "typical": 8.99,
+      "bought_last_month_min": 2000,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "OUKEYA Urea Cream 40 Percent for Feet and Hands, Urea Cream, Urea Foot",
+          "price_text": "€16.49",
+          "price": 16.49,
+          "rating": 4.4,
+          "reviews": 9700,
+          "bought_text": "900+ bought in past month",
+          "bought": 900,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.de/dp/B09854CPGD/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61Kz5o1eC4L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "OUKEYA Urea Cream Stick with 60% Urea & 2% SA, Intensive Care Stick for Rough, Dry Skin on",
+          "price_text": "€10.99",
+          "price": 10.99,
+          "rating": 4.5,
+          "reviews": 3300,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/OUKEYA-Intensive-Elbows-Moisturising-Smoother/dp/B0GSYJZC5N/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71+IcvB701L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "OUKEYA Urea Cream Stick 40% for Foot and Hands, Heel Balm, Foot Cream, Urea Cream for Dry,",
+          "price_text": "€8.99",
+          "price": 8.99,
+          "rating": 4.4,
+          "reviews": 1400,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/OUKEYA-Cracked-Callus-Lotion-Elbows/dp/B0CJQ4727F/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61tiv5OfmRL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "nl",
+      "label": "Netherlands",
+      "amazon_site": "amazon.nl",
+      "note": null,
+      "pressure": "low",
+      "why": "top listing 618 reviews; 0 of the first 20 have 1,000+; at least 50 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 618,
+      "n_1000_plus": 0,
+      "cheapest": 6.99,
+      "typical": 9.99,
+      "bought_last_month_min": 50,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "ACWOO Moisturizing and Anti-cracking Foot Cream, Urea Foot Cream 60%, Foot Cream for Very ",
+          "price_text": "€6.99",
+          "price": 6.99,
+          "rating": 4.1,
+          "reviews": 618,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/ACWOO-Moisturizing-Anti-cracking-Relieves-Itching/dp/B0DKNSMMGJ/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71JNb5va8FL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "OUKEYA Urea Cream 40%, Urea Foot and Hand Cream for Dry, Cracked Skin, 40 Percent Urea Lot",
+          "price_text": "€9.99",
+          "price": 9.99,
+          "rating": 4.2,
+          "reviews": 507,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/OUKEYA-Cracked-Percent-Maximum-Strength/dp/B0CJQ4727F/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61tiv5OfmRL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Essy Foot Cream 125ml, Foot Care with Urea 10% for Cracked Heels",
+          "price_text": "€11.97",
+          "price": 11.97,
+          "rating": 4.4,
+          "reviews": 208,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.nl/dp/B0G6549NGD/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61kQJ2ywODL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "fr",
+      "label": "France",
+      "amazon_site": "amazon.fr",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 4,900 reviews; 1 of the first 20 have 1,000+; at least 3,500 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 4900,
+      "n_1000_plus": 1,
+      "cheapest": 4.22,
+      "typical": 9.49,
+      "bought_last_month_min": 3500,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Scholl Crack-Resistant Cracked Heel Foot Cream - Repairs and Moisturizes Deep Cracked Heel",
+          "price_text": "€4.22",
+          "price": 4.22,
+          "rating": 4.5,
+          "reviews": 4900,
+          "bought_text": "2K+ bought in past month",
+          "bought": 2000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/Scholl-Crack-Resistant-Cracked-Heel-Cream/dp/B084K4BG9R/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71nix1IYTZL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Eucerin UreaRepair 10% Urea Foot Cream, Moisturizing and Soothing Care, 100",
+          "price_text": "€6.49",
+          "price": 6.49,
+          "rating": 4.7,
+          "reviews": 806,
+          "bought_text": "900+ bought in past month",
+          "bought": 900,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/Eucerin-UreaRepair-Cream-Moisturizing-Soothing/dp/B0070X3C9G/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71hfMtMaWmL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Foot Cream, Very Dry & Damaged Foot Cream - Stick 60% Urea + 2% Salicylic Acid, Callus Rem",
+          "price_text": "€9.99",
+          "price": 9.99,
+          "rating": 4.2,
+          "reviews": 215,
+          "bought_text": "200+ bought in past month",
+          "bought": 200,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.fr/dp/B0GHHXCY97/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71VecTzyGtL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "es",
+      "label": "Spain",
+      "amazon_site": "amazon.es",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 9,600 reviews; 6 of the first 20 have 1,000+; at least 3,650 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 9600,
+      "n_1000_plus": 6,
+      "cheapest": 6.15,
+      "typical": 9.99,
+      "bought_last_month_min": 3650,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "OUKEYA Urea Cream 40%, Dry and Cracked Feet Cream, Moisturizing Foot Lotion, Removes Callu",
+          "price_text": "€16.99",
+          "price": 16.99,
+          "rating": 4.5,
+          "reviews": 9600,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.es/dp/B09854CPGD/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61Kz5o1eC4L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "OUKEYA Stick Antidurezas con 60% Urea & 2% SA, Bálsamo Sólido Suavizante para Talones, Pie",
+          "price_text": "€11.99",
+          "price": 11.99,
+          "rating": 4.5,
+          "reviews": 3300,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.es/dp/B0GSYJZC5N/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71+IcvB701L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "OUKEYA Stick Antidurezas con 60% Urea & 2% SA, Bálsamo Sólido Suavizante para Talones, Pie",
+          "price_text": "€11.99",
+          "price": 11.99,
+          "rating": 4.5,
+          "reviews": 3300,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/OUKEYA/dp/B0GSYJZC5N/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71+IcvB701L._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "it",
+      "label": "Italy",
+      "amazon_site": "amazon.it",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 10,700 reviews; 3 of the first 20 have 1,000+; at least 1,750 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 10700,
+      "n_1000_plus": 3,
+      "cheapest": 5.68,
+      "typical": 9.99,
+      "bought_last_month_min": 1750,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "OUKEYA 40% Urea Cream Stick for Feet and Hands, Heel Balm, Elbow Foot Cream",
+          "price_text": "€9.99",
+          "price": 9.99,
+          "rating": 4.4,
+          "reviews": 10700,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.it/dp/B0DHGT67FC/",
+          "thumbnail": "https://m.media-amazon.com/images/I/819nArk0AtL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Urea Foot Cream 40% 150g || Foot and Hand Cream with Hyaluronic Acid, Tea Tree, Aloe Vera ",
+          "price_text": "€15.00",
+          "price": 15.0,
+          "rating": 4.4,
+          "reviews": 9600,
+          "bought_text": "200+ bought in past month",
+          "bought": 200,
+          "sponsored": true,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.it/dp/B08TT7Q8YW/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61c7pbzOQbL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "OUKEYA Anti-Callus Stick with 60% Urea & 2% SA, Solid Softening Balm for Heels, Feet, Elbo",
+          "price_text": "€13.99",
+          "price": 13.99,
+          "rating": 4.4,
+          "reviews": 3300,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.it/-/en/OUKEYA-Anti-Callus-Softening-Elbows-Intensive/dp/B0GSYJZC5N/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71+IcvB701L._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}
