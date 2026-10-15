@@ -1,0 +1,106 @@
+{
+  "input_url": "https://bryngrill.com/products/rolling-basket",
+  "store_root": "https://bryngrill.com",
+  "platform": "shopify",
+  "title": "Rolling Grill Basket",
+  "vendor": "BRYN - 🇺🇸",
+  "product_type": "",
+  "created_at": "2026-05-22T00:15:31+02:00",
+  "updated_at": "2026-10-15T11:50:34+02:00",
+  "price_min": 37.99,
+  "price_max": 37.99,
+  "was_price": "94.99",
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "37.99",
+      "was": "94.99",
+      "available": null
+    }
+  ],
+  "description": "",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/FINAL-BRYN1_1.webp?v=1787032271",
+    "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_f690715f-4802-4506-ad23-184bc7a3a5b9.jpg?v=1787032282",
+    "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_2_adef30c3-3b73-4689-b56f-d09c9c325f05.jpg?v=1787032282",
+    "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_3_a2095d23-ed0c-490e-9263-b9e1117964ef.jpg?v=1787032282",
+    "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_4_421cc86c-7673-4fd8-a467-3d6111bf3b23.jpg?v=1787032282",
+    "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_5_6abbea4a-3c07-4376-a4ba-de4dbbc8822f.jpg?v=1787032283"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 12,
+    "first_product_created": "2026-04-25T00:40:34+02:00",
+    "newest": [
+      {
+        "title": "🎁 Mystery Gift (100% off)",
+        "created_at": "2026-10-14",
+        "price": "0.00"
+      },
+      {
+        "title": "🎁 Grill Spray - For even better results (100% off)",
+        "created_at": "2026-10-14",
+        "price": "0.00"
+      },
+      {
+        "title": "🎁 The BRYN Cookbook (100% off)",
+        "created_at": "2026-10-14",
+        "price": "0.00"
+      },
+      {
+        "title": "Free Shipping",
+        "created_at": "2026-10-14",
+        "price": "0.00"
+      },
+      {
+        "title": "Free Shipping",
+        "created_at": "2026-10-09",
+        "price": "0.00"
+      },
+      {
+        "title": "Mystery Gift",
+        "created_at": "2026-10-09",
+        "price": "15.95"
+      },
+      {
+        "title": "The BRYN Cookbook",
+        "created_at": "2026-10-02",
+        "price": "9.95"
+      },
+      {
+        "title": "Shipping insurance",
+        "created_at": "2026-09-16",
+        "price": "4.95"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/bryn-rolling/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/FINAL-BRYN1_1.webp?v=1787032271"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/bryn-rolling/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_f690715f-4802-4506-ad23-184bc7a3a5b9.jpg?v=1787032282"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/bryn-rolling/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_2_adef30c3-3b73-4689-b56f-d09c9c325f05.jpg?v=1787032282"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/bryn-rolling/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_3_a2095d23-ed0c-490e-9263-b9e1117964ef.jpg?v=1787032282"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/bryn-rolling/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_4_421cc86c-7673-4fd8-a467-3d6111bf3b23.jpg?v=1787032282"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/bryn-rolling/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1008/3093/7475/files/EN_5_6abbea4a-3c07-4376-a4ba-de4dbbc8822f.jpg?v=1787032283"
+    }
+  ]
+}

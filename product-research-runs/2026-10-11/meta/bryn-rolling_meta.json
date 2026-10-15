@@ -1,0 +1,354 @@
+{
+ "slug": "br-22468",
+ "phrase": "grill basket",
+ "checked": "2026-10-15",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22grill%20basket%22",
+ "ads_loaded": 200,
+ "capped": true,
+ "stopped_by": "stopped at 200 ads (there are more)",
+ "n_advertisers": 19,
+ "advertisers_with_3_plus_ads": 5,
+ "biggest_advertiser_share": 0.84,
+ "brands_new_in_last_2_months": 12,
+ "brands_advertising_3_plus_months": 5,
+ "ads_started_last_2_months": 191,
+ "ads_older_than_6_months": 2,
+ "pattern": "one brand owns it",
+ "plain": "At least 19 brands, but bryngrill.com runs 168 of the 200 ads. We stopped counting at 200 ads, so the real numbers are higher. Of the 8 biggest shops we could date, 3 are over a year old and 4 opened in the last four months.",
+ "months": {
+  "2023-07": 1,
+  "2026-03": 1,
+  "2026-05": 1,
+  "2026-06": 1,
+  "2026-07": 2,
+  "2026-08": 3,
+  "2026-09": 16,
+  "2026-10": 175
+ },
+ "brand_months": {
+  "2023-07": 1,
+  "2026-03": 1,
+  "2026-05": 1,
+  "2026-06": 1,
+  "2026-07": 2,
+  "2026-08": 3,
+  "2026-09": 7,
+  "2026-10": 3
+ },
+ "top_advertisers": [
+  {
+   "name": "Bryngrill",
+   "pages": 4,
+   "page_names": [
+    "Bryngrill",
+    "Julie Bennett",
+    "Grilling Tips",
+    "Family Gift Ideas"
+   ],
+   "ads": 168,
+   "oldest_live_ad": "2026-10-12",
+   "page_likes": 18674,
+   "headline": "Finally actually grilled – up to 40% off",
+   "shop": "bryngrill.com",
+   "product_page": "https://bryngrill.com/products/rolling-basket",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=665874376608951",
+   "shop_open_since": "2026-04-25"
+  },
+  {
+   "name": "Roll&Cook Australia",
+   "pages": 1,
+   "page_names": [
+    "Roll&Cook Australia"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": null,
+   "headline": "Public Apology & 40% Off Flash Sale.",
+   "shop": "rollcook.com",
+   "product_page": "https://rollcook.com/products/rolling-grill-basket%E2%84%A2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1421196044406247",
+   "shop_open_since": "2026-10-09"
+  },
+  {
+   "name": "Grillo",
+   "pages": 1,
+   "page_names": [
+    "Grillo"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-05",
+   "page_likes": 7,
+   "headline": "Grill Smarter, Not Harder",
+   "shop": "getgrillo.shop",
+   "product_page": "https://getgrillo.shop/en-au/products/rolling-stainless-steel-grill-basket",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1300812049779251",
+   "shop_open_since": "2026-09-02"
+  },
+  {
+   "name": "Perpetualing.PR02",
+   "pages": 1,
+   "page_names": [
+    "Perpetualing.PR02"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-22",
+   "page_likes": 95,
+   "headline": "Stainless Steel Air Fryer Rack Elevated Oil Draining Basket Multi-Tier Grilling Mesh Stand",
+   "shop": "perpetualing.com",
+   "product_page": "https://perpetualing.com/products/stainless-steel-air-fryer-rack-with-raised-oil-drain-basket-and-multi-level-mesh-grill-rack",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1223756974151600",
+   "shop_open_since": "2026-10-12"
+  },
+  {
+   "name": "Mindsparkl",
+   "pages": 1,
+   "page_names": [
+    "Mindsparkl"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-23",
+   "page_likes": 800,
+   "headline": "Stainless Steel Air Fryer Rack Elevated Oil Draining Basket Multi-Tier Grilling Mesh Stand",
+   "shop": "mindsparkl.com",
+   "product_page": "https://mindsparkl.com/products/stainless-steel-air-fryer-rack-with-raised-oil-drain-basket-and-multi-level-mesh-grill-rack",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1233592329830129",
+   "shop_open_since": "2026-09-17"
+  },
+  {
+   "name": "The Home Depot",
+   "pages": 1,
+   "page_names": [
+    "The Home Depot"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-05-24",
+   "page_likes": 5867211,
+   "headline": "{{product.price}} {{product.name}}",
+   "shop": "homedepot.com",
+   "product_page": "https://www.homedepot.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106485550030",
+   "shop_open_since": null
+  },
+  {
+   "name": "Rachel's Finds",
+   "pages": 2,
+   "page_names": [
+    "Rachel's Finds",
+    "Noah's Deals"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-19",
+   "page_likes": 3484,
+   "headline": "No More Dropped Food Or Mess",
+   "shop": "itsblossom.ca",
+   "product_page": "https://itsblossom.ca/affiliation/lp/10-backyard-bbq-essentials-every-grill-master-needs-amazon/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=900828566437494",
+   "shop_open_since": null
+  },
+  {
+   "name": "Chuds BBQ",
+   "pages": 1,
+   "page_names": [
+    "Chuds BBQ"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-03-19",
+   "page_likes": 51837,
+   "headline": "The Most Versatile Charcoal Cooker Available Today",
+   "shop": "chudsbbq.com",
+   "product_page": "https://www.chudsbbq.com/products/chudbox",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100122581577316",
+   "shop_open_since": "2022-01-30"
+  },
+  {
+   "name": "Pacific Bay",
+   "pages": 1,
+   "page_names": [
+    "Pacific Bay"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-15",
+   "page_likes": 43828,
+   "headline": "Shop Whole Spanish Turbot online at pacificbay.com.ph",
+   "shop": "pacificbay.com.ph",
+   "product_page": "https://pacificbay.com.ph/products/whole-turbot",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101593750174149",
+   "shop_open_since": "2019-05-31"
+  },
+  {
+   "name": "MomFoundit",
+   "pages": 1,
+   "page_names": [
+    "MomFoundit"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-17",
+   "page_likes": 82,
+   "headline": "{{product.name}}",
+   "shop": "momfoundit.com",
+   "product_page": "https://momfoundit.com/out/kd75bf11105babamfh9d2vhp3h8ekyvj",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1181310198409009",
+   "shop_open_since": null
+  },
+  {
+   "name": "Isernio's Sausage",
+   "pages": 1,
+   "page_names": [
+    "Isernio's Sausage"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-22",
+   "page_likes": 10228,
+   "headline": "Grilling Season: Chicken Sausage & Pesto Sandwich\n\nFire up the grill—this recipe is all ab",
+   "shop": "isernio.com",
+   "product_page": "https://isernio.com/recipe-items/chicken-sausage-pesto-sandwich/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104157355725",
+   "shop_open_since": null
+  },
+  {
+   "name": "FOOD OVER FIRE",
+   "pages": 1,
+   "page_names": [
+    "FOOD OVER FIRE"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-28",
+   "page_likes": 6804,
+   "headline": "{{product.name}}",
+   "shop": "foodoverfire.co.nz",
+   "product_page": "http://www.foodoverfire.co.nz/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101605622067072",
+   "shop_open_since": "2021-05-25"
+  },
+  {
+   "name": "Cyprus Express EU",
+   "pages": 1,
+   "page_names": [
+    "Cyprus Express EU"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-13",
+   "page_likes": 10638,
+   "headline": "Κουραστήκατε να χάνετε τα λαχανικά σας μέσα στα κάρβουνα; 🍢 \n\nΉρθε το καλάθι ψησίματος 360",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=115718647781768",
+   "shop_open_since": null
+  },
+  {
+   "name": "DeoDap",
+   "pages": 1,
+   "page_names": [
+    "DeoDap"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 129962,
+   "headline": "DeoDap",
+   "shop": "deodap.in",
+   "product_page": "https://deodap.in/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=617855068341755",
+   "shop_open_since": null
+  },
+  {
+   "name": "Onyxcookware.no",
+   "pages": 1,
+   "page_names": [
+    "Onyxcookware.no"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-05",
+   "page_likes": 5171,
+   "headline": "Mixed Grill Basket Cylinder Set",
+   "shop": "onyxcookware.no",
+   "product_page": "https://onyxcookware.no/products/onyx-cookware-sett-med-blandede-grillkurver",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101988641217969",
+   "shop_open_since": null
+  },
+  {
+   "name": "B Viral Style ",
+   "pages": 1,
+   "page_names": [
+    "B Viral Style "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2023-07-16",
+   "page_likes": 1,
+   "headline": "🔥Last Day Promotion 49% OFF🔥 BBQ Grill Basket",
+   "shop": "grillingbaskett.saleepro.com",
+   "product_page": "https://grillingbaskett.saleepro.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107894702375288",
+   "shop_open_since": null
+  },
+  {
+   "name": "Povlya-B",
+   "pages": 1,
+   "page_names": [
+    "Povlya-B"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-24",
+   "page_likes": 42,
+   "headline": "🔥 Rolling Stainless Steel Grill Basket — Grill Everything Without Losing a Single Bite",
+   "shop": "povlya.com",
+   "product_page": "https://povlya.com/products/rolling-grill-basket-360-rotating-bbq-mesh-cylinder",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=146455818552782",
+   "shop_open_since": null
+  },
+  {
+   "name": "A/megamartify",
+   "pages": 1,
+   "page_names": [
+    "A/megamartify"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-31",
+   "page_likes": 1152,
+   "headline": "Megamartify",
+   "shop": "megamartify.com",
+   "product_page": "https://www.megamartify.com/products/rolling-basket",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=860403967155040",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mamba-6",
+   "pages": 1,
+   "page_names": [
+    "Mamba-6"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-04",
+   "page_likes": 656,
+   "headline": "🔥🍖 سلة شواء دوارة بمقبض خشبي 😍",
+   "shop": "t.newinhere.com",
+   "product_page": "https://t.newinhere.com/product/18v2i4mv4zz",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=470332812836464",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "bryngrill.com": 168,
+  "rollcook.com": 5,
+  "getgrillo.shop": 4,
+  "perpetualing.com": 4,
+  "mindsparkl.com": 3,
+  "homedepot.com": 2,
+  "itsblossom.ca": 2,
+  "chudsbbq.com": 1,
+  "pacificbay.com.ph": 1,
+  "momfoundit.com": 1,
+  "isernio.com": 1,
+  "foodoverfire.co.nz": 1,
+  "deodap.in": 1,
+  "onyxcookware.no": 1,
+  "grillingbaskett.saleepro.com": 1,
+  "povlya.com": 1,
+  "megamartify.com": 1,
+  "t.newinhere.com": 1
+ },
+ "cost_usd": 1,
+ "shops_checked": 8,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 4
+}

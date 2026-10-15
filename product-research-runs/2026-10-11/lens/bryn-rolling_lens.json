@@ -1,0 +1,447 @@
+{
+ "slug": "bryn-rolling",
+ "same": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  32,
+  33,
+  35,
+  37
+ ],
+ "brand_price": 37.99,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "us",
+   "status": "blocked",
+   "why": "The same object is sold by Bed Bath & Beyond at $87",
+   "prices": {
+    "brand": 37.99,
+    "cheapest_copy": 12.0,
+    "typical_copy": 42.0,
+    "cheapest_real_copy": 12.0,
+    "priced_copies": 7
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Bed Bath & Beyond",
+     "title": "Sorbus Stainless Steel Rolling Grilling Baskets, 2-Piece Set ...",
+     "link": "https://www.bedbathandbeyond.com/Home-Garden/Sorbus-Stainless-Steel-Rolling-Barbecue-Grilling-Basket-with-Removable-Handles-2-Piece-12-L-x-3.75-W/43132582/product.html",
+     "price_text": "$87",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_01.jpg"
+    },
+    {
+     "source": "The Home Depot",
+     "title": "Esepony Stainless Steel Rolling Grill Basket with Wooden ...",
+     "link": "https://www.homedepot.com/p/Esepony-Stainless-Steel-Rolling-Grill-Basket-with-Wooden-Handle-for-Grilling-Vegetables-Shrimp-and-Other-BBQ-Foods-2-Pack-UP970602/342252983",
+     "price_text": "$59",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_02.jpg"
+    },
+    {
+     "source": "The Home Depot",
+     "title": "Esepony Stainless Steel Grill Basket with Rolling for ...",
+     "link": "https://www.homedepot.com/p/Esepony-Stainless-Steel-Grill-Basket-with-Rolling-for-Grilling-Vegetables-Outdoor-Cooking-BBQ-Camping-and-Birthday-1-Pack-NS877325/341974847",
+     "price_text": "$72",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_03.jpg"
+    },
+    {
+     "source": "Walmart",
+     "title": "NWOKYZGH 1Pc Rolling Grill Basket Round Shaped with ...",
+     "link": "https://www.walmart.com/ip/NWOKYZGH-1Pc-Rolling-Grill-Basket-Round-Shaped-Removable-Wooden-Handle-Stainless-Steel-Nesting-Grilling-Net-BBQ-Accessories-Tools-Outdoor-Cooking-Cam/20383620180?classType=undefined&variantFieldId=actual_color",
+     "price_text": "$12",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_07.jpg"
+    },
+    {
+     "source": "The Home Depot",
+     "title": "Pure Garden Grill Baskets for Outdoor Grill - Set of 3 ...",
+     "link": "https://www.homedepot.com/p/Pure-Garden-Grill-Baskets-for-Outdoor-Grill-Set-of-3-Rolling-Grill-Baskets-for-Veggies-Shrimp-and-Chicken-KIT-OUT1/331844783",
+     "price_text": "$23",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_08.jpg"
+    },
+    {
+     "source": "Alexnld.com",
+     "title": "BBQ Grill Basket Round BBQ Cage Outdoor BBQ Smoking Cage ...",
+     "link": "https://alexnld.com/product/bbq-grill-basket-round-bbq-cage-outdoor-bbq-smoking-cage-portable-bbq-net-rotating-drum-stainless-steel-grill-cage-round-bbq-basket-with-handle-fish-roaster-outdoor-grill/",
+     "price_text": "$42",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_28.jpg"
+    },
+    {
+     "source": "Life Changing Products",
+     "title": "BBQ Basket Stainless Steel Rolling Grilling Basket Wire Mesh ...",
+     "link": "https://lcpshop.net/product/bbq-basket-stainless-steel-rolling-grilling-basket-wire-mesh-cylinder-grill-basket-portable-round-outdoor-camping-barbecue-rack/",
+     "price_text": "$25",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_30.jpg"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "uk",
+   "status": "blocked",
+   "why": "The same object is sold by B&Q at £16",
+   "prices": {
+    "brand": 28.49,
+    "cheapest_copy": 2.0,
+    "typical_copy": 11.0,
+    "cheapest_real_copy": 2.0,
+    "priced_copies": 12
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon UK",
+     "title": "Treat Factory BBQ Rolling Grill Basket Set of Two Stainless ...",
+     "link": "https://www.amazon.co.uk/Treat-Factory-Rolling-Stainless-Barbecue/dp/B0H29WPJXK",
+     "price_text": "£15",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_00.jpg"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Rolling Grill Basket, 2 PCS, Upgraded 304 Stainless Steel ...",
+     "link": "https://www.amazon.co.uk/Upgraded-Stainless-Grilling-Removable-Accessories/dp/B0FQTX2K6D",
+     "price_text": "£18",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_04.jpg"
+    },
+    {
+     "source": "B&Q",
+     "title": "Rolling Grill Basket Rotating BBQ Roller with Wooden Handle ...",
+     "link": "https://www.diy.com/departments/rolling-grill-basket-rotating-bbq-roller-with-wooden-handle-stainless-steel-360-degree-basket-for-meat-and-veg/5056463954638_BQ.prd",
+     "price_text": "£16",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_05.jpg"
+    },
+    {
+     "source": "eBay UK",
+     "title": "Rolling Grill Basket BBQ Net Tube Cylinder BBQ Grilling Meat ...",
+     "link": "https://www.ebay.co.uk/itm/405952255025",
+     "price_text": "£8",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_09.jpg"
+    },
+    {
+     "source": "Wilko",
+     "title": "BBQ Grill Basket Cylinder - Silver | Wilko",
+     "link": "https://www.wilko.com/en-uk/bbq-grill-basket-cylinder---silver/p/8437224",
+     "price_text": "£2",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_11.jpg"
+    },
+    {
+     "source": "The Range",
+     "title": "Stainless Steel Rolling BBQ Grill Basket for Vegetables Fish ...",
+     "link": "https://www.therange.co.uk/p/stainless-steel-rolling-bbq-grill-basket-for-vegetables-fish-meats/m6815871",
+     "price_text": "£11",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_12.jpg"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "Stainless Steel Rolling Grill Basket, BBQ Grill Rolling ...",
+     "link": "https://www.amazon.co.uk/Stainless-Vegetables-Cylindrical-Rotating-Grilling/dp/B0GGZJT25W",
+     "price_text": "£14",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_13.jpg"
+    },
+    {
+     "source": "Menkind",
+     "title": "Treat Factory BBQ Rolling Grill Baskets | Menkind",
+     "link": "https://www.menkind.co.uk/treat-factory-bbq-rolling-grill-baskets",
+     "price_text": "£6",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_27.jpg"
+    },
+    {
+     "source": "The Magic Toy Shop",
+     "title": "Rolling Grill Basket",
+     "link": "https://themagictoyshop.co.uk/products/rolling-grill-basket",
+     "price_text": "£6",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_32.jpg"
+    },
+    {
+     "source": "Highlander Stoves",
+     "title": "BBQ Netting Baskets Bell Tent Sussex — Highlander Stoves",
+     "link": "https://www.highlanderstoves.co.uk/products/bbq-netting-baskets",
+     "price_text": "£11",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_33.jpg"
+    },
+    {
+     "source": "Trade Point",
+     "title": "GoodHome Medium Circular Stainless steel Grill basket, Set ...",
+     "link": "https://www.trade-point.co.uk/departments/goodhome-medium-circular-stainless-steel-grill-basket-set-of-2-l-95mm-x-w-95mm/5063022739575_TP.prd",
+     "price_text": "£10",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_35.jpg"
+    },
+    {
+     "source": "Canvas Tent Shop",
+     "title": "Winnerwell Large Spark Arrestor",
+     "link": "https://www.canvastentshop.co.uk/winnerwell-large-sized-spark-arrestor/",
+     "price_text": "£29",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_37.jpg"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "de",
+   "status": "blocked",
+   "why": "The same object is sold by Hornbach at €12",
+   "prices": {
+    "brand": 32.67,
+    "cheapest_copy": 10.0,
+    "typical_copy": 19.0,
+    "cheapest_real_copy": 12.0,
+    "priced_copies": 5
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.de",
+     "title": "Rollender Grillkorb, Grillgestell, Camping, Outdoor ...",
+     "link": "https://www.amazon.de/-/en/ec85668e4e/dp/B0H39655WV",
+     "price_text": "€10",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_06.jpg"
+    },
+    {
+     "source": "Amazon.de",
+     "title": "Set of 2 BBQ Grill Baskets, Round, Grill Roll for Vegetables ...",
+     "link": "https://www.amazon.de/-/en/Baskets-Vegetables-Stainless-Rolling-Basket/dp/B0D5BKL5WM",
+     "price_text": "€23",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_14.jpg"
+    },
+    {
+     "source": "Hornbach",
+     "title": "Grill Gemüsekorb TENNEKER 2 Stück | HORNBACH",
+     "link": "https://www.hornbach.de/p/grill-gemuesekorb-tenneker-2-stueck/12612274/",
+     "price_text": "€12",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_15.jpg"
+    },
+    {
+     "source": "eBay.de",
+     "title": "2PCS Rolling Grill Baskets, Portable Wire Mesh Grilling Cage ...",
+     "link": "https://www.ebay.de/itm/285770550220",
+     "price_text": "€19",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_16.jpg"
+    },
+    {
+     "source": "Cookut",
+     "title": "Roll Grill",
+     "link": "https://www.cookut.com/de/roll-grill",
+     "price_text": "€33",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_29.jpg"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "nl",
+   "status": "weak",
+   "why": "Only weak copies: Amazon.nl at €118, about the brand's price",
+   "prices": {
+    "brand": 32.67,
+    "cheapest_copy": 41.0,
+    "typical_copy": 118.0,
+    "cheapest_real_copy": null,
+    "priced_copies": 2
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.nl",
+     "title": "BLAZIN' GRILL Rolling Grill Basket | 2 Rolling Grill Baskets ...",
+     "link": "https://www.amazon.nl/-/en/BLAZIN-GRILL-Rolling-Grilling-Vegetables/dp/B0C9ZL5TX7",
+     "price_text": "€118",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_17.jpg",
+     "strength": "weak",
+     "strength_why": "about the brand's price"
+    },
+    {
+     "source": "Amazon.nl",
+     "title": "3 Rolling Grilling Basket,Stainless Steel Cylinder Grill ...",
+     "link": "https://www.amazon.nl/-/en/Grilling-Stainless-Multifunctional-Accessories-Accessory/dp/B0BZDDC4JD",
+     "price_text": "€41",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_18.jpg",
+     "strength": "weak",
+     "strength_why": "about the brand's price"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "fr",
+   "status": "blocked",
+   "why": "The same object is sold by Boulanger at €33",
+   "prices": {
+    "brand": 32.67,
+    "cheapest_copy": 19.0,
+    "typical_copy": 33.0,
+    "cheapest_real_copy": 19.0,
+    "priced_copies": 3
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Boulanger",
+     "title": "Ustensile barbecue COOKUT Roll grill | Boulanger",
+     "link": "https://www.boulanger.com/ref/1202129",
+     "price_text": "€33",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_19.jpg"
+    },
+    {
+     "source": "Leroy Merlin",
+     "title": "Panier à Barbecue Roulant, Poignée Détachable, Acier ...",
+     "link": "https://www.leroymerlin.fr/produits/panier-a-barbecue-roulant-poignee-detachable-acier-inoxydable-304-gigogne-accessoires-grille-a-legumes-ustensiles-grill-de-cuisine-exterieur-75568875.html",
+     "price_text": "€19",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_20.jpg"
+    },
+    {
+     "source": "Cookut",
+     "title": "Roll Grill",
+     "link": "https://www.cookut.com/de/roll-grill",
+     "price_text": "€33",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_29.jpg"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "es",
+   "status": "blocked",
+   "why": "The same object is sold by Leroy Merlin at €19",
+   "prices": {
+    "brand": 32.67,
+    "cheapest_copy": 19.0,
+    "typical_copy": 23.0,
+    "cheapest_real_copy": 19.0,
+    "priced_copies": 4
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Leroy Merlin",
+     "title": "Rolling Grill Basket - Parrilla de Acero Inoxidable para ...",
+     "link": "https://www.leroymerlin.es/productos/rolling-grill-basket-parrilla-de-acero-inoxidable-para-verduras-pescado-y-patatas-fritas-parrilla-redonda-de-acero-inoxidable-l-set-de-3-88449399.html",
+     "price_text": "€19",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_21.jpg"
+    },
+    {
+     "source": "Leroy Merlin",
+     "title": "Accesorios para barbacoa al aire libre, cesta giratoria para ...",
+     "link": "https://www.leroymerlin.es/productos/accesorios-para-barbacoa-al-aire-libre-cesta-giratoria-para-barbacoa-cesta-para-brochetas-de-verduras-y-gambas-76248242.html",
+     "price_text": "€23",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_23.jpg"
+    },
+    {
+     "source": "Leroy Merlin",
+     "title": "2 Pcs BBQ Rolling Grilling Basket for outdoor grill, Red ...",
+     "link": "https://www.leroymerlin.es/productos/2-pcs-bbq-rolling-grilling-basket-for-outdoor-grill-red-cilindrica-de-acero-inoxidable-para-verduras-y-mea-m-7-87x3-54x3-54-inches-88452372.html",
+     "price_text": "€23",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_24.jpg"
+    },
+    {
+     "source": "Cookut",
+     "title": "Roll Grill",
+     "link": "https://www.cookut.com/de/roll-grill",
+     "price_text": "€33",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_29.jpg"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "it",
+   "status": "blocked",
+   "why": "The same object is sold by Leroy Merlin at €16",
+   "prices": {
+    "brand": 32.67,
+    "cheapest_copy": 16.0,
+    "typical_copy": 33.0,
+    "cheapest_real_copy": 16.0,
+    "priced_copies": 3
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Leroy Merlin",
+     "title": "BBQ Rolling Grilling Basket per grill all'aperto, rete ...",
+     "link": "https://www.leroymerlin.it/prodotti/bbq-rolling-grilling-basket-per-grill-all-aperto-rete-cilindrica-in-acciaio-inox-per-verdure-e-mea-m-7-87x3-54x3-54-pollici-88450228.html",
+     "price_text": "€16",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_25.jpg"
+    },
+    {
+     "source": "Leroy Merlin",
+     "title": "Barbecue con manico in legno | Cestello di cottura ...",
+     "link": "https://www.leroymerlin.it/prodotti/barbecue-con-manico-in-legno-cestello-di-cottura-barbecue-portatile-tamburo-cilindrico-rotante-per-barbecue-2-pezzi-76238762.html",
+     "price_text": "€38",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_26.jpg"
+    },
+    {
+     "source": "Cookut",
+     "title": "Roll Grill",
+     "link": "https://www.cookut.com/de/roll-grill",
+     "price_text": "€33",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/bryn-rolling_thumb_29.jpg"
+    }
+   ],
+   "picture_matches": 60
+  }
+ ]
+}

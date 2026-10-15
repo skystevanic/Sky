@@ -1491,6 +1491,86 @@
     "note": "The same yellow-cap stick in the same blue-and-yellow box, under many brand names."
    },
    "advertiser_takeaway": "PureFoot (Foot Insiders) runs 56 ads since February, so the ads do sell it, but 33 brands advertise \"urea foot\" and the same stick costs €6-9 on Amazon."
+  },
+  {
+   "slug": "bryn-rolling",
+   "name": "Rolling Grill Basket (BRYN)",
+   "brand": "BRYN",
+   "url": "https://bryngrill.com/products/rolling-basket",
+   "category": "BBQ accessories: rolling grill basket",
+   "price": "US$37.99 (shown as reduced from US$94.99)",
+   "ad_days": "Oldest live ad 2026-10-12",
+   "store_platform": "Shopify",
+   "store_launched": "2026-04",
+   "store_products": "12 products, grill baskets and BBQ tools",
+   "one_liner": "The right kind of product (BBQ gadget, no paperwork), but the same basket is in Home Depot, Leroy Merlin, Hornbach, Tesco, The Range and Wilko from €2-23, and on Amazon in every country checked.",
+   "verdict": "Avoid",
+   "overall": 50,
+   "confidence": "High",
+   "scores": {
+    "saturated": 9,
+    "margin": 6,
+    "viral": 7,
+    "pain": 4,
+    "differentiation": 2
+   },
+   "why": [
+    "Chains sell the same basket: Leroy Merlin €16-23 (Spain, Italy, France), Hornbach €12, Wilko £2, Tesco £18",
+    "Amazon in all 7 countries checked, top listings with 5,000-12,800 reviews",
+    "BRYN's 168 ads all started in the last few days, so there is no proof yet"
+   ],
+   "risk": "Selling at €35-40 what DIY stores sell for €12-23 means refunds.",
+   "next": [
+    "Skip it"
+   ],
+   "best_region": "None: Leroy Merlin, Hornbach and Amazon cover Europe.",
+   "snapshot": {
+    "icp": "BBQ owners",
+    "job": "Grill vegetables and small pieces without losing them",
+    "cogs": "About €3-5 landed (estimate)",
+    "margin": "About 85% at US$37.99 before ads (estimate)",
+    "claims": "304 stainless steel, fits all grills",
+    "demoable": "Yes: veg rolling on the grill"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Home Depot, Leroy Merlin, Hornbach, Tesco, Wilko and The Range sell it"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "On Amazon in all 7 countries checked"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "BRYN runs most ads, but they are all days old"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Food-contact steel: ask the supplier for a food-safety declaration"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 20,
+    "match_name": "Leroy Merlin France (€19)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same stainless mesh tube with wooden handle."
+   },
+   "advertiser_takeaway": "BRYN runs 168 of 200 \"grill basket\" ads, but every one started in the last week, so it is a fresh test, not proof. The Home Depot also advertises grill baskets."
   }
  ]
 }
