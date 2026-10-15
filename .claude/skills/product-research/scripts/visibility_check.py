@@ -33,7 +33,7 @@ from urllib.parse import urlparse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import UA, fetch_json, get_serpapi_key, price_to_number, shop_listing_link  # noqa: E402
 
-AMAZON_DOMAIN = {"au": "amazon.com.au", "us": "amazon.com", "uk": "amazon.co.uk", "ca": "amazon.ca", "de": "amazon.de", "nz": "amazon.com.au"}
+AMAZON_DOMAIN = {"au": "amazon.com.au", "us": "amazon.com", "uk": "amazon.co.uk", "ca": "amazon.ca", "de": "amazon.de", "nz": "amazon.com.au", "nl": "amazon.nl", "fr": "amazon.fr", "es": "amazon.es", "it": "amazon.it", "be": "amazon.com.be", "at": "amazon.de", "se": "amazon.se", "pl": "amazon.pl", "ie": "amazon.co.uk"}
 CHAINS = json.load(open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "reference", "chains.json")))
 
 
@@ -58,7 +58,7 @@ def collect(a):
     os.makedirs(out, exist_ok=True)
     items = {}
     for cc in [c.strip().lower() for c in a.countries.split(",") if c.strip()]:
-        af = os.path.join(a.run, "amazon", "%s_%s_amazon.json" % (a.slug, "au" if cc == "nz" else cc))
+        af = os.path.join(a.run, "amazon", "%s_%s_amazon.json" % (a.slug, cc))
         if os.path.exists(af):
             for i, r in enumerate((json.load(open(af)).get("organic_results") or [])[: a.top]):
                 k = "amazon:" + (r.get("asin") or r.get("title", "")[:50])

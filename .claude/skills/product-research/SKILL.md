@@ -43,6 +43,8 @@ Both services are REQUIRED. If a member refuses one, explain what they lose (no 
 
 On **Codex** instead of Claude Code: the folder's `AGENTS.md` points here; the steps are identical.
 
+**Extra countries (added 2026-10):** besides `au,us,uk,ca,de,nz`, every step also accepts `nl,fr,es,it,be,at,se,pl,ie` (Netherlands, France, Spain, Italy, Belgium, Austria, Sweden, Poland, Ireland). Austria uses Amazon Germany and Ireland uses Amazon UK. Pass the same `--countries` list to every step.
+
 ## Part B — one run
 
 **Before you start.** Work from the skill folder: the folder that holds this file. It is either `.claude/skills/product-research` inside a project, or the unzipped `product-research` folder the member opened directly (the simple way, and just as good). Keep each run in a real folder: `<project>/product-research-runs/2026-09-21/`, or `runs/2026-09-21/` inside this folder when the member opened it directly. In the commands below `<run>` means the full path to that folder. Never use a temp folder: it gets wiped and the searches are paid for twice.

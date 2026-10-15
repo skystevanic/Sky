@@ -13,9 +13,9 @@ import json
 import os
 import sys
 
-CUR = {"au": "A$", "us": "US$", "uk": "£", "ca": "C$", "de": "€", "nz": "NZ$"}
+CUR = {"au": "A$", "us": "US$", "uk": "£", "ca": "C$", "de": "€", "nz": "NZ$", "nl": "€", "fr": "€", "es": "€", "it": "€", "be": "€", "at": "€", "se": "kr", "pl": "zł", "ie": "€"}
 ACUR = dict(CUR, nz="A$")
-NAMES = {"au": "Australia", "us": "the US", "uk": "the UK", "ca": "Canada", "de": "Germany", "nz": "New Zealand"}
+NAMES = {"au": "Australia", "us": "the US", "uk": "the UK", "ca": "Canada", "de": "Germany", "nz": "New Zealand", "nl": "the Netherlands", "fr": "France", "es": "Spain", "it": "Italy", "be": "Belgium", "at": "Austria", "se": "Sweden", "pl": "Poland", "ie": "Ireland"}
 
 
 def money(cc, v, table=CUR):

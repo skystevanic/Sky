@@ -20,8 +20,8 @@ from collections import defaultdict
 
 from common import get_serpapi_key, fetch_json
 
-GEO = {"world": "", "us": "US", "au": "AU", "uk": "GB", "ca": "CA", "de": "DE", "nz": "NZ"}
-LABEL = {"world": "Worldwide", "us": "United States", "au": "Australia", "uk": "United Kingdom", "ca": "Canada", "de": "Germany", "nz": "New Zealand"}
+GEO = {"world": "", "us": "US", "au": "AU", "uk": "GB", "ca": "CA", "de": "DE", "nz": "NZ", "nl": "NL", "fr": "FR", "es": "ES", "it": "IT", "be": "BE", "at": "AT", "se": "SE", "pl": "PL", "ie": "IE"}
+LABEL = {"world": "Worldwide", "us": "United States", "au": "Australia", "uk": "United Kingdom", "ca": "Canada", "de": "Germany", "nz": "New Zealand", "nl": "Netherlands", "fr": "France", "es": "Spain", "it": "Italy", "be": "Belgium", "at": "Austria", "se": "Sweden", "pl": "Poland", "ie": "Ireland"}
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 

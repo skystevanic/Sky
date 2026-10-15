@@ -31,7 +31,7 @@ LIGHT = "#8bc34a"      # light green: copies exist, but only weak ones
 STATUS = {"blocked": ("Red", RED), "crowded": ("Amber", AMBER), "weak": ("Light green", LIGHT), "open": ("Green", GREEN), "error": ("No data", "#777")}
 VERDICT_COLOR = {"Test now": GREEN, "Backlog": AMBER, "Avoid": RED}
 MAP_CC = {"uk": "gb"}  # the map tags Britain as gb
-COUNTRY_NAMES = {"au": "Australia", "us": "United States", "uk": "United Kingdom", "ca": "Canada", "de": "Germany", "nz": "New Zealand"}
+COUNTRY_NAMES = {"au": "Australia", "us": "United States", "uk": "United Kingdom", "ca": "Canada", "de": "Germany", "nz": "New Zealand", "nl": "Netherlands", "fr": "France", "es": "Spain", "it": "Italy", "be": "Belgium", "at": "Austria", "se": "Sweden", "pl": "Poland", "ie": "Ireland"}
 
 CSS = """
 @page { size: A4; margin: 12mm 13mm; }
@@ -114,7 +114,7 @@ def pill(text, color):
     return '<span class="pill" style="background:%s%s">%s</span>' % (color, "", esc(text))
 
 
-MONEY_SIGN = {"au": "A$", "us": "US$", "uk": "£", "ca": "C$", "de": "€", "nz": "NZ$"}
+MONEY_SIGN = {"au": "A$", "us": "US$", "uk": "£", "ca": "C$", "de": "€", "nz": "NZ$", "nl": "€", "fr": "€", "es": "€", "it": "€", "be": "€", "at": "€", "se": "kr", "pl": "zł", "ie": "€"}
 
 
 def price_to_number_safe(txt):
@@ -443,7 +443,7 @@ def clip(text, n):
 
 
 def money_cc(cc, v):
-    cur = {"au": "A$", "us": "US$", "uk": "£", "ca": "C$", "de": "€", "nz": "A$"}.get(cc, "")
+    cur = {"au": "A$", "us": "US$", "uk": "£", "ca": "C$", "de": "€", "nz": "A$", "nl": "€", "fr": "€", "es": "€", "it": "€", "be": "€", "at": "€", "se": "kr", "pl": "zł", "ie": "£"}.get(cc, "")
     if isinstance(v, (int, float)):
         return "%s%.0f" % (cur, v)
     return v

@@ -1,0 +1,441 @@
+{
+ "slug": "ps-20099",
+ "phrase": "golf swing trainer",
+ "checked": "2026-10-15",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22golf%20swing%20trainer%22",
+ "ads_loaded": 242,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 25,
+ "advertisers_with_3_plus_ads": 12,
+ "biggest_advertiser_share": 0.19,
+ "brands_new_in_last_2_months": 11,
+ "brands_advertising_3_plus_months": 14,
+ "ads_started_last_2_months": 69,
+ "ads_older_than_6_months": 1,
+ "pattern": "crowded",
+ "plain": "25 brands advertise it; 14 have kept ads running 3+ months, 11 are new in the last two months. Of the 4 biggest shops we could date, 3 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2026-02": 1,
+  "2026-05": 20,
+  "2026-06": 54,
+  "2026-07": 41,
+  "2026-08": 57,
+  "2026-09": 35,
+  "2026-10": 34
+ },
+ "brand_months": {
+  "2026-02": 1,
+  "2026-05": 3,
+  "2026-06": 8,
+  "2026-07": 2,
+  "2026-08": 1,
+  "2026-09": 3,
+  "2026-10": 7
+ },
+ "top_advertisers": [
+  {
+   "name": "Temu",
+   "pages": 5,
+   "page_names": [
+    "Temu",
+    "TemuUruguay",
+    "Temu Dominican",
+    "Temu Switzerland",
+    "Temu Mexico"
+   ],
+   "ads": 45,
+   "oldest_live_ad": "2026-05-10",
+   "page_likes": 74978,
+   "headline": "{{product.short_description}}",
+   "shop": "play.google.com",
+   "product_page": "https://play.google.com/store/apps/details",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=299652376565376",
+   "shop_open_since": null
+  },
+  {
+   "name": "Plane Swing Golf Swing Trainer",
+   "pages": 1,
+   "page_names": [
+    "Plane Swing Golf Swing Trainer"
+   ],
+   "ads": 43,
+   "oldest_live_ad": "2026-06-27",
+   "page_likes": 3688,
+   "headline": "World’s #1 Golf Swing Trainer! Swing Like a Champion At-Home w/ PlaneSWING®",
+   "shop": "planeswing.co.uk",
+   "product_page": "https://planeswing.co.uk/pages/sp1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=206825716048529",
+   "shop_open_since": "2024-03-12"
+  },
+  {
+   "name": "Plane Swing Golf Swing Trainer",
+   "pages": 1,
+   "page_names": [
+    "Plane Swing Golf Swing Trainer"
+   ],
+   "ads": 41,
+   "oldest_live_ad": "2026-08-25",
+   "page_likes": 3688,
+   "headline": "World’s #1 Golf Swing Trainer! Swing Like a Champion At-Home w/ PlaneSWING®",
+   "shop": "planeswing.com",
+   "product_page": "https://planeswing.com/pages/sp1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=206825716048529",
+   "shop_open_since": "2023-02-23"
+  },
+  {
+   "name": "Temu",
+   "pages": 1,
+   "page_names": [
+    "Temu"
+   ],
+   "ads": 26,
+   "oldest_live_ad": "2026-05-12",
+   "page_likes": 12217817,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/do/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101886952638461",
+   "shop_open_since": null
+  },
+  {
+   "name": "13 Under Golf",
+   "pages": 1,
+   "page_names": [
+    "13 Under Golf"
+   ],
+   "ads": 16,
+   "oldest_live_ad": "2026-07-07",
+   "page_likes": 1599,
+   "headline": "Swing Training, Made Easy.",
+   "shop": "13undergolf.com",
+   "product_page": "https://13undergolf.com/pages/slice_fixer",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=404573312729627",
+   "shop_open_since": "2024-07-17"
+  },
+  {
+   "name": "Plane Swing Golf Swing Trainer",
+   "pages": 1,
+   "page_names": [
+    "Plane Swing Golf Swing Trainer"
+   ],
+   "ads": 16,
+   "oldest_live_ad": "2026-06-30",
+   "page_likes": 3688,
+   "headline": "World’s #1 Golf Swing Trainer! Swing Like a Champion At-Home w/ PlaneSWING®",
+   "shop": "golfperformancestore.com.au",
+   "product_page": "https://www.golfperformancestore.com.au/product/planeswing-training-system-with-powerslider",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=206825716048529",
+   "shop_open_since": "2025-11-20"
+  },
+  {
+   "name": "Temu Philippines",
+   "pages": 1,
+   "page_names": [
+    "Temu Philippines"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-06-29",
+   "page_likes": 1397948,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/ph/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=121464947710952",
+   "shop_open_since": null
+  },
+  {
+   "name": "TemuUruguay",
+   "pages": 1,
+   "page_names": [
+    "TemuUruguay"
+   ],
+   "ads": 8,
+   "oldest_live_ad": "2026-06-30",
+   "page_likes": 82038,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/do/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=234915533047182",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu Dominican",
+   "pages": 1,
+   "page_names": [
+    "Temu Dominican"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-06-28",
+   "page_likes": 74978,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/do/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=299652376565376",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu Europe",
+   "pages": 1,
+   "page_names": [
+    "Temu Europe"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-06-30",
+   "page_likes": 1408392,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/do/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104501432668636",
+   "shop_open_since": null
+  },
+  {
+   "name": "Nakajima Trading",
+   "pages": 1,
+   "page_names": [
+    "Nakajima Trading"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": 5,
+   "headline": "UYBAG（ユーワイバッグ）から、高品質ゴルフギア登場。",
+   "shop": "nakajima-trading.com",
+   "product_page": "https://nakajima-trading.com/uy29/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=259564197230732",
+   "shop_open_since": null
+  },
+  {
+   "name": "TrendingResults Heatcore",
+   "pages": 1,
+   "page_names": [
+    "TrendingResults Heatcore"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-10-08",
+   "page_likes": 30,
+   "headline": "Learn To Practise Your Golf Swing Indoors 🏌️",
+   "shop": "related.trendingresults.net",
+   "product_page": "https://related.trendingresults.net/topics/4231003/39B7D26/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=747164171821840",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu South America",
+   "pages": 1,
+   "page_names": [
+    "Temu South America"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-14",
+   "page_likes": 144286,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/do/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=653005074560704",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu Japan",
+   "pages": 1,
+   "page_names": [
+    "Temu Japan"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-29",
+   "page_likes": 186046,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/ph/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106065232510739",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu Mexico",
+   "pages": 1,
+   "page_names": [
+    "Temu Mexico"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-05-21",
+   "page_likes": 1681028,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/do/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108247165609779",
+   "shop_open_since": null
+  },
+  {
+   "name": "SpineAlign Golf App",
+   "pages": 1,
+   "page_names": [
+    "SpineAlign Golf App"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 484,
+   "headline": "Understand Your Swing",
+   "shop": "spinealigngolf.com",
+   "product_page": "https://spinealigngolf.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=676039982252030",
+   "shop_open_since": null
+  },
+  {
+   "name": "Shoptemu",
+   "pages": 1,
+   "page_names": [
+    "Shoptemu"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": null,
+   "headline": "Code: kbf4794 in search bar to shop my picks and get £0 items with qualifying orders 🎁 \n\nN",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/ul/kuiper/uk1.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103219685846470",
+   "shop_open_since": null
+  },
+  {
+   "name": "Thegolftrainingaidstore",
+   "pages": 1,
+   "page_names": [
+    "Thegolftrainingaidstore"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-02-27",
+   "page_likes": 113,
+   "headline": "Full Circle PVC Golf Swing Trainer - Golf Swing Training Aid",
+   "shop": "thegolftrainingaidstore.com",
+   "product_page": "https://thegolftrainingaidstore.com/products/full-circle-pvc-swing-trainer",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=142238958979411",
+   "shop_open_since": null
+  },
+  {
+   "name": "CenterFaced Golf",
+   "pages": 1,
+   "page_names": [
+    "CenterFaced Golf"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 3132,
+   "headline": "Deal ends soon",
+   "shop": "centerfaced.com",
+   "product_page": "https://centerfaced.com/products/swing-synchroniser",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=880768515116500",
+   "shop_open_since": null
+  },
+  {
+   "name": "WeckMethod",
+   "pages": 1,
+   "page_names": [
+    "WeckMethod"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-13",
+   "page_likes": 21110,
+   "headline": "Built For A Better Swing",
+   "shop": "shop.weckmethod.com",
+   "product_page": "https://shop.weckmethod.com/products/rmt-club-golf",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=490316501006141",
+   "shop_open_since": null
+  },
+  {
+   "name": "Dint Golf Solutions",
+   "pages": 1,
+   "page_names": [
+    "Dint Golf Solutions"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-02",
+   "page_likes": 42597,
+   "headline": "Golf Swing Trainer PRO",
+   "shop": "dintgolf.com.au",
+   "product_page": "https://dintgolf.com.au/products/soft-long-golf-swing-trainers-aid",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=715059241948142",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Rope Club",
+   "pages": 1,
+   "page_names": [
+    "The Rope Club"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-03",
+   "page_likes": 979,
+   "headline": "Your garage just became your new golf practice facility. ⛳️\n\nThe Rope Club is a golf swing",
+   "shop": "ropeclubgolf.com",
+   "product_page": "http://www.RopeClubGolf.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=268473223012139",
+   "shop_open_since": null
+  },
+  {
+   "name": "SwingRite",
+   "pages": 1,
+   "page_names": [
+    "SwingRite"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-12",
+   "page_likes": 480,
+   "headline": "www.fb.com",
+   "shop": "fb.com",
+   "product_page": "http://www.fb.com/100057266515977",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=232490630831",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ao bingfboy",
+   "pages": 1,
+   "page_names": [
+    "Ao bingfboy"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-02",
+   "page_likes": 137,
+   "headline": "🏌️‍♂️ Golf Swing Trainer – Practice more scientifically for a better swing",
+   "shop": "aobingf.shop",
+   "product_page": "https://www.aobingf.shop/u98cqro8g400",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=540337285837156",
+   "shop_open_since": null
+  },
+  {
+   "name": "Travis Scott Stephenson",
+   "pages": 1,
+   "page_names": [
+    "Travis Scott Stephenson"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-14",
+   "page_likes": 17744,
+   "headline": "Building Digital Products With AI in 2026",
+   "shop": "ideas.paidcreators.com",
+   "product_page": "https://ideas.paidcreators.com/50salessprintv2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=301413553920149",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "temu.com": 62,
+  "play.google.com": 45,
+  "planeswing.co.uk": 43,
+  "planeswing.com": 41,
+  "13undergolf.com": 16,
+  "golfperformancestore.com.au": 16,
+  "nakajima-trading.com": 5,
+  "related.trendingresults.net": 4,
+  "spinealigngolf.com": 2,
+  "thegolftrainingaidstore.com": 1,
+  "centerfaced.com": 1,
+  "shop.weckmethod.com": 1,
+  "dintgolf.com.au": 1,
+  "ropeclubgolf.com": 1,
+  "fb.com": 1,
+  "aobingf.shop": 1,
+  "ideas.paidcreators.com": 1
+ },
+ "cost_usd": 0.99,
+ "shops_checked": 4,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 0
+}

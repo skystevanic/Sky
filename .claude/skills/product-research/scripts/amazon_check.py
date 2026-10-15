@@ -24,13 +24,13 @@ import urllib.parse
 
 from common import get_serpapi_key, fetch_json
 
-DOMAINS = {"au": "amazon.com.au", "us": "amazon.com", "uk": "amazon.co.uk", "ca": "amazon.ca", "de": "amazon.de", "nz": "amazon.com.au"}
-LABELS = {"au": "Australia", "us": "United States", "uk": "United Kingdom", "ca": "Canada", "de": "Germany", "nz": "New Zealand"}
+DOMAINS = {"au": "amazon.com.au", "us": "amazon.com", "uk": "amazon.co.uk", "ca": "amazon.ca", "de": "amazon.de", "nz": "amazon.com.au", "nl": "amazon.nl", "fr": "amazon.fr", "es": "amazon.es", "it": "amazon.it", "be": "amazon.com.be", "at": "amazon.de", "se": "amazon.se", "pl": "amazon.pl", "ie": "amazon.co.uk"}
+LABELS = {"au": "Australia", "us": "United States", "uk": "United Kingdom", "ca": "Canada", "de": "Germany", "nz": "New Zealand", "nl": "Netherlands", "fr": "France", "es": "Spain", "it": "Italy", "be": "Belgium", "at": "Austria", "se": "Sweden", "pl": "Poland", "ie": "Ireland"}
 
 
 def bought_number(s):
     """'1K+ bought in past month' -> 1000 ; '300+ bought...' -> 300"""
-    m = re.search(r"([\d.,]+)\s*([KkMm]?)\+?\s*(bought|gekauft)", s or "")
+    m = re.search(r"([\d.,]+)\s*([KkMm]?)\+?\s*(bought|gekauft|gekocht|achet|comprad|acquistat|köpt|kupion)", s or "")
     if not m:
         return None
     n = float(m.group(1).replace(",", "."))
@@ -62,7 +62,7 @@ def summarise(cc, d, brand):
     if bought:
         why += "; at least %s bought last month across them" % "{:,}".format(bought)
     return {"cc": cc, "label": LABELS.get(cc, cc.upper()), "amazon_site": DOMAINS[cc],
-            "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there." if cc == "nz" else None,
+            "note": {"nz": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.", "at": "No Amazon site in Austria; this is Amazon Germany, which serves it.", "ie": "No Amazon site in Ireland; this is Amazon UK, which ships there."}.get(cc),
             "pressure": pressure, "why": why, "listings_seen": len(rows), "top_reviews": top, "n_1000_plus": n1000,
             "cheapest": prices[0] if prices else None, "typical": prices[len(prices) // 2] if prices else None,
             "bought_last_month_min": bought or None, "brand_present": any(r["is_brand"] for r in rows), "top3": best}

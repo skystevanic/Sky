@@ -37,7 +37,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 SITES = (("aliexpress.", "AliExpress", "single orders"), ("cjdropshipping.", "CJ Dropshipping", "single orders"), ("dhgate.", "DHgate", "small orders"),
          ("banggood.", "Banggood", "single orders"), ("alibaba.", "Alibaba", "bulk orders"), ("made-in-china.", "Made-in-China", "bulk orders"),
          ("1688.", "1688", "bulk orders, China only"), ("globalsources.", "Global Sources", "bulk orders"))
-PER_USD = {"usd": 1.0, "aud": 1.5, "cad": 1.37, "gbp": 0.75, "eur": 0.86, "nzd": 1.68}     # rough; only to compare a cost with a price
+PER_USD = {"usd": 1.0, "aud": 1.5, "cad": 1.37, "gbp": 0.75, "eur": 0.86, "nzd": 1.68, "sek": 9.5, "pln": 3.7, "ils": 3.7}     # rough; only to compare a cost with a price
 NOT_A_LISTING = ("/w/wholesale", "/category/", "/wholesale/", "/showroom/", "/popular/", "/af/", "/g/", "/products-search/", "/countrysearch/", "/hot-china-products/", "/trade/search")
 
 

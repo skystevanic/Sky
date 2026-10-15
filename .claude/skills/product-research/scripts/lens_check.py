@@ -58,7 +58,7 @@ def kind(source, link, cc, brand_domain):
     return "other store"
 
 
-TLD_CC = [(".com.au", "au"), (".net.au", "au"), (".au", "au"), (".co.uk", "uk"), (".uk", "uk"), (".co.nz", "nz"), (".nz", "nz"), (".ca", "ca"), (".de", "de"), (".at", "de")]
+TLD_CC = [(".com.au", "au"), (".net.au", "au"), (".au", "au"), (".co.uk", "uk"), (".uk", "uk"), (".co.nz", "nz"), (".nz", "nz"), (".ca", "ca"), (".de", "de"), (".at", "at"), (".nl", "nl"), (".fr", "fr"), (".es", "es"), (".it", "it"), (".be", "be"), (".se", "se"), (".pl", "pl"), (".ie", "ie")]
 
 
 def shop_country(link):
@@ -84,8 +84,8 @@ SUPPLIER_SITES = ("aliexpress.", "dhgate.", "alibaba.", "made-in-china.", "1688.
 FAST_CHEAP = ("temu.", "shein.")
 WEAK_PRICE_SHARE = 0.70
 # Rough money rates against the US dollar. Only used to tell "much cheaper" from "about the same", so rough is fine.
-PER_USD = {"usd": 1.0, "aud": 1.5, "cad": 1.37, "gbp": 0.75, "eur": 0.86, "nzd": 1.68}
-MONEY_OF = {"us": "usd", "au": "aud", "ca": "cad", "uk": "gbp", "de": "eur", "nz": "nzd"}
+PER_USD = {"usd": 1.0, "aud": 1.5, "cad": 1.37, "gbp": 0.75, "eur": 0.86, "nzd": 1.68, "sek": 9.5, "pln": 3.7, "ils": 3.7}
+MONEY_OF = {"us": "usd", "au": "aud", "ca": "cad", "uk": "gbp", "de": "eur", "nz": "nzd", "nl": "eur", "fr": "eur", "es": "eur", "it": "eur", "be": "eur", "at": "eur", "ie": "eur", "se": "sek", "pl": "pln"}
 
 
 def brand_price_in(cc, brand_price, brand_currency):
@@ -182,8 +182,12 @@ def money_ok(price_text, cc):
         return t.startswith("CA$") or t.startswith("C$")
     if cc == "uk":
         return t.startswith("£")
-    if cc == "de":
-        return "€" in t
+    if cc in ("de", "nl", "fr", "es", "it", "be", "at", "ie"):
+        return "€" in t or "EUR" in t
+    if cc == "se":
+        return "kr" in t.lower() or "SEK" in t
+    if cc == "pl":
+        return "zł" in t or "PLN" in t
     if cc == "us":
         return t.startswith("$") or t.startswith("US$")
     return True
@@ -196,8 +200,8 @@ def counts_here(c, cc):
     - with no price shown: only a local shop, that country's Amazon/Walmart, or a marketplace that ships worldwide"""
     host = (urlparse(c.get("link") or "").netloc or "").lower().replace("www.", "")
     home = shop_country(c.get("link"))
-    if cc == "nz" and host == "amazon.com.au":
-        return True                      # New Zealand has no Amazon of its own; Amazon Australia serves it
+    if (cc, host) in (("nz", "amazon.com.au"), ("at", "amazon.de"), ("ie", "amazon.co.uk")):
+        return True                      # no Amazon of its own: Amazon Australia / Germany / UK serves it
     if home and home != cc:
         return False
     ptxt = (c["seen_in"].get(cc) or {}).get("price_text")

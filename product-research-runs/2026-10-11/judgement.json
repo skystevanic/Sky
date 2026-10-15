@@ -9,7 +9,16 @@
    "uk",
    "ca",
    "de",
-   "nz"
+   "nz",
+   "nl",
+   "fr",
+   "es",
+   "it",
+   "be",
+   "at",
+   "se",
+   "pl",
+   "ie"
   ],
   "assumptions": [
    "Product costs are estimates: supplier prices are starting prices before shipping",
@@ -1323,6 +1332,85 @@
     "note": "The same white wand, caddy and blue flower-shaped disposable heads."
    },
    "advertiser_takeaway": "In English it's a swarm: 65+ brands, 43 new in two months. In Hebrew, Benistie is alone with 45 ads since 1 September. The product works in ads, but the six markets here are full."
+  },
+  {
+   "slug": "purestrike",
+   "name": "Golf Arm-Connection Ball (PureStrike)",
+   "brand": "PureStrike Golf Co",
+   "url": "https://purestrikegolfco.com/products/the-purestrike",
+   "category": "Golf training aid",
+   "price": "A$79 (about €45)",
+   "store_platform": "Shopify",
+   "store_launched": "2025-06",
+   "store_products": "12 products, golf training aids",
+   "one_liner": "A good beginner type (sport, small, no paperwork, easy demo), but it is the well-known inflatable \"smart ball\", sold from about €10 on Amazon in every one of the 15 countries checked and by Decathlon in France.",
+   "verdict": "Avoid",
+   "overall": 55,
+   "confidence": "High",
+   "scores": {
+    "saturated": 8,
+    "margin": 7,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "why": [
+    "The same inflatable arm ball is in Amazon's top 7 in 11 of 15 countries, from €9.99 (Germany) and £9.99 (UK)",
+    "Decathlon France sells one at €19; the original Tour Striker Smart Ball is sold by golf shops worldwide",
+    "Temu and Plane Swing run 170+ \"golf swing trainer\" ads; Temu alone runs 45+ since May"
+   ],
+   "risk": "At €45 against €10 on Amazon, buyers who search will find it cheaper and ask for refunds.",
+   "next": [
+    "Skip it. Golf training aids are a good niche for you: look for one that isn't already a €10 Amazon item"
+   ],
+   "best_region": "None. Every one of the 15 countries has a cheap copy in the top shopper results.",
+   "snapshot": {
+    "icp": "Weekend golfers 30-65 trying to cut their handicap",
+    "job": "Keep the arms connected through the swing",
+    "cogs": "About €3-6 landed (estimate)",
+    "margin": "About 85% at A$79 before ads (estimate)",
+    "claims": "Builds a consistent swing; more distance and accuracy",
+    "demoable": "Yes: before and after swing on video"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Decathlon France sells the same inflatable arm ball at €19"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Amazon top results in all 15 countries, from about €10"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded rather than a swarm: 14 of 25 brands have advertised 3+ months"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Deflates flat and weighs very little"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "No regulated claims"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on: the same ball is a €10 Amazon item everywhere"
+   ],
+   "compare": {
+    "brand_photo": "img_2.jpg",
+    "match_number": 15,
+    "match_name": "Amazon France (€21)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same inflatable fabric arm ball, sold in green, black and blue, with or without a neck strap."
+   },
+   "advertiser_takeaway": "25 brands advertise \"golf swing trainer\", led by Temu (about 90 ads across its pages) and Plane Swing (100 ads). PureStrike itself is not among the top advertisers for this phrase."
   }
  ]
 }

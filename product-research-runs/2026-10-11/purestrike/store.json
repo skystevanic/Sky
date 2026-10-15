@@ -1,0 +1,111 @@
+{
+  "input_url": "https://purestrikegolfco.com/products/the-purestrike",
+  "store_root": "https://purestrikegolfco.com",
+  "platform": "shopify",
+  "title": "The Purestrike Swing Trainer",
+  "vendor": "Pure Strike Golf",
+  "product_type": "Swing Trainer",
+  "created_at": "2026-09-20T20:30:35+10:00",
+  "updated_at": "2026-10-15T19:17:22+10:00",
+  "price_min": 79.0,
+  "price_max": 79.0,
+  "was_price": "99.00",
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "79.00",
+      "was": "99.00",
+      "available": null
+    }
+  ],
+  "description": "",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/THE_PURESTRIKE_-_Product_Images.png?v=1790166040",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/THE_PURESTRIKE_-_Product_Images_1_1.gif?v=1790168527",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/PurestrikeProductimage5.png?v=1790168617",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/Purestrike-UniqueFeatures.png?v=1790466932",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/ProductImage3-before-after.png?v=1790166660",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/THEPURESTRIKE-ProductImages_1.gif?v=1790167938",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/ThePurestrike-SocialProof.png?v=1790328192",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/ThePurestrike-USP1.png?v=1790328433",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/Purestrikewhatsincluded.png?v=1790331225",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/ThePurestrike-SocialProof_2.png?v=1790330737",
+    "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/ThePurestrikeGuarantee.png?v=1790331057"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 12,
+    "first_product_created": "2025-06-21T18:49:32+10:00",
+    "newest": [
+      {
+        "title": "Performance Towel",
+        "created_at": "2026-10-11",
+        "price": "24.95"
+      },
+      {
+        "title": "The Purestrike Swing Trainer",
+        "created_at": "2026-09-20",
+        "price": "79.00"
+      },
+      {
+        "title": "PRGR Portable Launch Monitor",
+        "created_at": "2026-04-26",
+        "price": "379.00"
+      },
+      {
+        "title": "PureTempo Lag Trainer",
+        "created_at": "2026-03-15",
+        "price": "79.00"
+      },
+      {
+        "title": "PureSpin Groove Sharpener",
+        "created_at": "2025-12-16",
+        "price": "29.00"
+      },
+      {
+        "title": "PureStrike Perfect Grip Trainer",
+        "created_at": "2025-10-13",
+        "price": "29.00"
+      },
+      {
+        "title": "PureStrike Premium Performance Ball",
+        "created_at": "2025-10-06",
+        "price": "99.00"
+      },
+      {
+        "title": "Practice Like A Pro System",
+        "created_at": "2025-10-06",
+        "price": "39.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "AUD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/purestrike/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/THE_PURESTRIKE_-_Product_Images.png?v=1790166040"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/purestrike/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/THE_PURESTRIKE_-_Product_Images_1_1.gif?v=1790168527"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/purestrike/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/PurestrikeProductimage5.png?v=1790168617"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/purestrike/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/Purestrike-UniqueFeatures.png?v=1790466932"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/purestrike/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/ProductImage3-before-after.png?v=1790166660"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/purestrike/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/THEPURESTRIKE-ProductImages_1.gif?v=1790167938"
+    }
+  ]
+}

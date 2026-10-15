@@ -9,7 +9,16 @@
    "uk",
    "ca",
    "de",
-   "nz"
+   "nz",
+   "nl",
+   "fr",
+   "es",
+   "it",
+   "be",
+   "at",
+   "se",
+   "pl",
+   "ie"
   ],
   "assumptions": [
    "Product costs are estimates: supplier prices are starting prices before shipping",
@@ -12653,6 +12662,4747 @@
     "note": "Every match was another brand's neck cream. Mudganics' formula is sold only by Mudganics.",
     "brand_image": "neck-cream/img_1.jpg",
     "match_image": "lens/neck-cream_thumb_00.jpg"
+   }
+  },
+  {
+   "slug": "purestrike",
+   "name": "Golf Arm-Connection Ball (PureStrike)",
+   "one_liner": "A good beginner type (sport, small, no paperwork, easy demo), but it is the well-known inflatable \"smart ball\", sold from about €10 on Amazon in every one of the 15 countries checked and by Decathlon in France.",
+   "url": "https://purestrikegolfco.com/products/the-purestrike",
+   "brand": "PureStrike Golf Co",
+   "category": "Golf training aid",
+   "price": "A$79 (about €45)",
+   "ad_days": null,
+   "store_platform": "Shopify",
+   "store_launched": "2025-06",
+   "store_products": "12 products, golf training aids",
+   "snapshot": {
+    "icp": "Weekend golfers 30-65 trying to cut their handicap",
+    "job": "Keep the arms connected through the swing",
+    "cogs": "About €3-6 landed (estimate)",
+    "margin": "About 85% at A$79 before ads (estimate)",
+    "claims": "Builds a consistent swing; more distance and accuracy",
+    "demoable": "Yes: before and after swing on video"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "Decathlon France sells the same inflatable arm ball at €19"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Amazon top results in all 15 countries, from about €10"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Crowded rather than a swarm: 14 of 25 brands have advertised 3+ months"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Deflates flat and weighs very little"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "No regulated claims"
+    }
+   ],
+   "scores": {
+    "saturated": 8,
+    "margin": 7,
+    "viral": 7,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "overall": 55,
+   "confidence": "High",
+   "best_region": "None. Every one of the 15 countries has a cheap copy in the top shopper results.",
+   "angles": [
+    "Not worth building angles on: the same ball is a €10 Amazon item everywhere"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "The same inflatable arm ball is in Amazon's top 7 in 11 of 15 countries, from €9.99 (Germany) and £9.99 (UK)",
+     "Decathlon France sells one at €19; the original Tour Striker Smart Ball is sold by golf shops worldwide",
+     "Temu and Plane Swing run 170+ \"golf swing trainer\" ads; Temu alone runs 45+ since May"
+    ],
+    "risk": "At €45 against €10 on Amazon, buyers who search will find it cheaper and ask for refunds.",
+    "fastest_test": [
+     "Skip it. Golf training aids are a good niche for you: look for one that isn't already a €10 Amazon item"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "rebel sells it at $54.99",
+     "sellers": 20,
+     "cheapest": "A$6",
+     "typical": "A$49",
+     "top": "The Golf Factory (4100)"
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "34 different sellers",
+     "sellers": 34,
+     "cheapest": "US$5",
+     "typical": "US$30",
+     "top": "Successories (4200)"
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "Very sells it at £59.99",
+     "sellers": 25,
+     "cheapest": "£2",
+     "typical": "£11",
+     "top": "Amazon.co.uk (1300)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "Walmart.ca sells it at $40.98",
+     "sellers": 9,
+     "cheapest": "C$10",
+     "typical": "C$38",
+     "top": "The Golf Club Trader (1000)"
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "knock-offs from 3.95 vs typical 24.72",
+     "sellers": 19,
+     "cheapest": "€4",
+     "typical": "€25",
+     "top": "Amazon.de - Amazon.de-Seller (None)"
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "Rebel Sport sells it at $79.99",
+     "sellers": 17,
+     "cheapest": "NZ$8",
+     "typical": "NZ$50",
+     "top": "Amazon AU (1000)"
+    },
+    {
+     "cc": "nl",
+     "status": "blocked",
+     "why": "Decathlon sells it at € 37,99",
+     "sellers": 16,
+     "cheapest": "€4",
+     "typical": "€22",
+     "top": "Decathlon (1500)"
+    },
+    {
+     "cc": "fr",
+     "status": "blocked",
+     "why": "Decathlon.fr sells it at 19,00 €",
+     "sellers": 17,
+     "cheapest": "€4",
+     "typical": "€27",
+     "top": "ubuy.fr (1000)"
+    },
+    {
+     "cc": "es",
+     "status": "crowded",
+     "why": "knock-offs from 3.95 vs typical 22.29",
+     "sellers": 16,
+     "cheapest": "€4",
+     "typical": "€22",
+     "top": "Depique SL (155)"
+    },
+    {
+     "cc": "it",
+     "status": "crowded",
+     "why": "knock-offs from 2.14 vs typical 26.75",
+     "sellers": 6,
+     "cheapest": "€2",
+     "typical": "€27",
+     "top": "TVCMall (19)"
+    },
+    {
+     "cc": "be",
+     "status": "blocked",
+     "why": "Decathlon Belgium sells it at € 39,99",
+     "sellers": 15,
+     "cheapest": "€4",
+     "typical": "€19",
+     "top": "Decathlon Belgium (1600)"
+    },
+    {
+     "cc": "at",
+     "status": "crowded",
+     "why": "knock-offs from 5.34 vs typical 22.29",
+     "sellers": 14,
+     "cheapest": "€5",
+     "typical": "€22",
+     "top": "decathlon.at (132)"
+    },
+    {
+     "cc": "se",
+     "status": "blocked",
+     "why": "XXL Sport och Vildmark sells it at 39,00 kr",
+     "sellers": 24,
+     "cheapest": "kr1",
+     "typical": "kr271",
+     "top": "Happy Golfer (1500)"
+    },
+    {
+     "cc": "pl",
+     "status": "crowded",
+     "why": "knock-offs from 23.35 vs typical 88.1",
+     "sellers": 11,
+     "cheapest": "zł23",
+     "typical": "zł88",
+     "top": "? (215)"
+    },
+    {
+     "cc": "ie",
+     "status": "blocked",
+     "why": "Decathlon Ireland sells it at €17.00",
+     "sellers": 22,
+     "cheapest": "€4",
+     "typical": "€22",
+     "top": "eBay (125)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 120 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 120,
+     "n_1000_plus": 0,
+     "cheapest": "A$7",
+     "typical": "A$26",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "THE Golfer Store Smart Ball Golf Training Aid Golf Swing Trainer Ball, Practical Training ",
+       "price_text": "$38.35",
+       "price": 38.35,
+       "rating": 3.8,
+       "reviews": 120,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/GOLFER-STORE-Ball-Golf-Trainer/dp/B0CZRBVX1K/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81U11u+jlLL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "The Connector Golf Training Aid, Golf Swing Trainer for Posture Correction Practice, Golf ",
+       "price_text": "$39.99",
+       "price": 39.99,
+       "rating": 4.3,
+       "reviews": 8,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Connector-Training-Correction-Mechanics-Structure/dp/B0FX9YSV5V/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51WQ90VvuzL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "The Connector Golf Training Aid, Golf Swing Trainer for Posture Correction Practice, Golf ",
+       "price_text": "$39.99",
+       "price": 39.99,
+       "rating": 4.3,
+       "reviews": 8,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Training-Connector-Upgraded-Effective-Suitable/dp/B0H88F3KY4/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51Wn8p1a6NL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 1,100 reviews; 1 of the first 20 have 1,000+; at least 3,000 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 1100,
+     "n_1000_plus": 1,
+     "cheapest": "US$10",
+     "typical": "US$30",
+     "bought_last_month_min": 3000,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "CHAMPKEY Golf Swing Trainer - Tempo & Flexibility Training Aids Warm-Up Stick Ideal for Go",
+       "price_text": "$34.99",
+       "price": 34.99,
+       "rating": 4.6,
+       "reviews": 1100,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com/dp/B08883Z237/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71AW0oL12oL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Amazon Basics Golf Swing Trainer Aid and Warm-Up Practice Stick for Grip, Balance, Distanc",
+       "price_text": "$44.99",
+       "price": 44.99,
+       "rating": 4.6,
+       "reviews": 847,
+       "bought_text": "600+ bought in past month",
+       "bought": 600,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Amazon-Basics-Golf-Swing-Trainer/dp/B09N3HZK2J/",
+       "thumbnail": "https://m.media-amazon.com/images/I/519p1eeuixL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Tour Striker Smart Ball Golf Swing Training Aid",
+       "price_text": "$47.00",
+       "price": 47.0,
+       "rating": 3.9,
+       "reviews": 831,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com/dp/B00II5RSR2/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71rHYzq2RLL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 199 reviews; 0 of the first 20 have 1,000+; at least 300 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 199,
+     "n_1000_plus": 0,
+     "cheapest": "£8",
+     "typical": "£21",
+     "bought_last_month_min": 300,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "MIKOSI Retractable Golf Swing Trainer, Golf Grip Trainer and Golf Training Aid for Chippin",
+       "price_text": "£18.99",
+       "price": 18.99,
+       "rating": 3.8,
+       "reviews": 199,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0F1F7XVRM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/617z2ct8nOL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Trainer Smart Ball Training Aid, Posture Correction Impact Ball",
+       "price_text": "£9.99",
+       "price": 9.99,
+       "rating": 3.9,
+       "reviews": 147,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0CKMZG9HH/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61FOW8gcBIL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Trainer Smart Ball Training Aid, Posture Correction Impact Ball",
+       "price_text": "£9.99",
+       "price": 9.99,
+       "rating": 3.9,
+       "reviews": 147,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Practice-Teaching-Correction-Adjustable-Intelligent/dp/B0CKMZG9HH/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61FOW8gcBIL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 809 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 809,
+     "n_1000_plus": 0,
+     "cheapest": "C$13",
+     "typical": "C$40",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "The Patented Tour Striker Smart Ball",
+       "price_text": "$66.46",
+       "price": 66.46,
+       "rating": 4.0,
+       "reviews": 809,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"golf swing trainer ball\""
+       ],
+       "link": "https://www.amazon.ca/Tour-Striker-Smart-Ball/dp/B00II5RSR2/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71rHYzq2RLL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "FINGER TEN Golf Swing Trainer Inflatable Ball Aid Value Set",
+       "price_text": "$13.99",
+       "price": 13.99,
+       "rating": 3.8,
+       "reviews": 135,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Inflatable-Correction-Training-Professional-Beginner/dp/B08KSSDY6M/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61vhHx07cUL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "FINGER TEN Golf Swing Trainer Inflatable Ball Aid Value Set",
+       "price_text": "$13.99",
+       "price": 13.99,
+       "rating": 3.8,
+       "reviews": 135,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Inflatable-Trainer-Posture-Correction-Training/dp/B0851VZ7RD/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61YueEvnf6L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 16 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 16,
+     "n_1000_plus": 0,
+     "cheapest": "€10",
+     "typical": "€23",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "HoldOneLight Golf Swing Training Aid - Golf Training Ball - Unique Alignment Bar Head - He",
+       "price_text": null,
+       "price": null,
+       "rating": 3.6,
+       "reviews": 16,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Golf-Swing-Training-Aid-Alignment/dp/B0DT5PT6VM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61HguXXCDzL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Smart Inflatable Ball, Golf Swing Trainer, Training Aid for Golf, Posture Correction ",
+       "price_text": "€11.99",
+       "price": 11.99,
+       "rating": 3.7,
+       "reviews": 10,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/SUBORAWOS-Inflatable-Correction-Training-Beginners/dp/B0DJ74WKCD/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71KAqNX0gvL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Alignment Bars",
+       "price_text": "€9.99",
+       "price": 9.99,
+       "rating": 4.7,
+       "reviews": 8,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0H6WLKKG7/",
+       "thumbnail": "https://m.media-amazon.com/images/I/41w9OZLvVXL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "low",
+     "why": "top listing 120 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 120,
+     "n_1000_plus": 0,
+     "cheapest": "A$7",
+     "typical": "A$26",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "THE Golfer Store Smart Ball Golf Training Aid Golf Swing Trainer Ball, Practical Training ",
+       "price_text": "$38.35",
+       "price": 38.35,
+       "rating": 3.8,
+       "reviews": 120,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/GOLFER-STORE-Ball-Golf-Trainer/dp/B0CZRBVX1K/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81U11u+jlLL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "The Connector Golf Training Aid, Golf Swing Trainer for Posture Correction Practice, Golf ",
+       "price_text": "$39.99",
+       "price": 39.99,
+       "rating": 4.3,
+       "reviews": 8,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Connector-Training-Correction-Mechanics-Structure/dp/B0FX9YSV5V/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51WQ90VvuzL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "The Connector Golf Training Aid, Golf Swing Trainer for Posture Correction Practice, Golf ",
+       "price_text": "$39.99",
+       "price": 39.99,
+       "rating": 4.3,
+       "reviews": 8,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Training-Connector-Upgraded-Effective-Suitable/dp/B0H88F3KY4/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51Wn8p1a6NL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nl",
+     "label": "Netherlands",
+     "amazon_site": "amazon.nl",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 5,000 reviews; 1 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 5000,
+     "n_1000_plus": 1,
+     "cheapest": "€9",
+     "typical": "€23",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "SKLZ Gold Flex - Golf Training Aid for Strength and Pace Training/Golf Swing Trainer - Wom",
+       "price_text": "€52.95",
+       "price": 52.95,
+       "rating": 4.5,
+       "reviews": 5000,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.nl/dp/B0053C3WDC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51ID3x-QLXL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Sandy Beach Golf Swing Trainer, Golf Training Aid, Golf Trainer, Weighted Swing Trainer, G",
+       "price_text": "€54.41",
+       "price": 54.41,
+       "rating": 4.2,
+       "reviews": 178,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.nl/dp/B07GFNBPXG/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51BTn2CqbFL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Starvortex Golf Swing Trainer with Golf Swing Trainer for the Arms, Retractable Golf Swing",
+       "price_text": "€18.78",
+       "price": 18.78,
+       "rating": 3.7,
+       "reviews": 101,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.nl/-/en/Starvortex-Trainer-Retractable-Training-Exercise/dp/B0F2M9GZXG/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61PbD7XQ2jL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "fr",
+     "label": "France",
+     "amazon_site": "amazon.fr",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 409 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 409,
+     "n_1000_plus": 0,
+     "cheapest": "€11",
+     "typical": "€23",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Xiaomoyu Golf Balls, Foam Ball, Soft EVA Golf Training Balls - 26 Pcs/Blue, Red",
+       "price_text": "€11.88",
+       "price": 11.88,
+       "rating": 4.5,
+       "reviews": 409,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.fr/-/en/Xiaomoyu-Golf-Balls-Foam-Training/dp/B08T1QC2TK/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81V5lBpePiL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Trainer, Golf Training Ball, Posture Corrector to Develop Swing Connected to Go",
+       "price_text": "€12.80",
+       "price": 12.8,
+       "rating": 3.9,
+       "reviews": 29,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.fr/-/en/Dr-Golf-Training-Corrector-Developing-Connected/dp/B0DK17H9NC/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51Umub1mcjL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Trainer, Golf Training Ball, Posture Corrector to Develop Swing Connected to Go",
+       "price_text": "€12.80",
+       "price": 12.8,
+       "rating": 3.9,
+       "reviews": 29,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.fr/-/en/Dr-Golf-Trainer-Training-Corrector-Connected/dp/B0DK1132XT/",
+       "thumbnail": "https://m.media-amazon.com/images/I/713+KGgCknL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "es",
+     "label": "Spain",
+     "amazon_site": "amazon.es",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 40 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 40,
+     "n_1000_plus": 0,
+     "cheapest": "€7",
+     "typical": "€22",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "30 Pieces Colorful Golf Practice Balls, Hollow Golf Balls, Colorful El Plastico 26 Holes G",
+       "price_text": "€14.39",
+       "price": 14.39,
+       "rating": 4.4,
+       "reviews": 40,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.es/-/en/Lepidi-Colorful-Practice-Plastico-Training/dp/B08MFC6N1M/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61orTSGnxTL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Impact Ball, Intelligent Golf Ball Trainer, Golf Swing Practice Aid, Golf Posture Cor",
+       "price_text": "€15.29",
+       "price": 15.29,
+       "rating": 3.3,
+       "reviews": 36,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.es/-/en/Intelligent-Trainer-Practice-Correction-Supplies/dp/B08RNJZWFM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51z-u6KEu7L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Training Ball, Golf Training Aid, Smart Golf Ball, Smart Posture Corrector with",
+       "price_text": "€41.72",
+       "price": 41.72,
+       "rating": 4.2,
+       "reviews": 33,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.es/-/en/Quixion-Training-Corrector-Corrective-Bracelet/dp/B0D3X6VG23/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71qO1b9YJSL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "it",
+     "label": "Italy",
+     "amazon_site": "amazon.it",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 842 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 842,
+     "n_1000_plus": 0,
+     "cheapest": "€5",
+     "typical": "€22",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Amazon Basics Golf Swing Practice Accessory 48 inch Black/Yellow",
+       "price_text": "€35.01",
+       "price": 35.01,
+       "rating": 4.4,
+       "reviews": 842,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.it/-/en/Amazon-Basics-Practice-Accessory-Yellow/dp/B09N3HZK2J/",
+       "thumbnail": "https://m.media-amazon.com/images/I/519p1eeuixL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Longridge Clikka Single Tube Golf Accessory",
+       "price_text": "€18.98",
+       "price": 18.98,
+       "rating": 4.4,
+       "reviews": 805,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.it/-/en/Longridge-Clikka-Single-Tube-Accessory/dp/B004WJRWK6/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61bMgp6XT0L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Distance Max 12 Pack Golf Balls for Improved Distance, Control and Accuracy, Ideal Gift fo",
+       "price_text": "€12.99",
+       "price": 12.99,
+       "rating": 4.6,
+       "reviews": 195,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.it/-/en/Par-Distance-Max-Golf-Balls/dp/B0FTMK6ZFQ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81awiSUMyxL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "be",
+     "label": "Belgium",
+     "amazon_site": "amazon.com.be",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 2,700 reviews; 1 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 2700,
+     "n_1000_plus": 1,
+     "cheapest": "€10",
+     "typical": "€22",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "SKLZ Pure Path Unisex Swing Training Accessory, Black-Black, L",
+       "price_text": "€30.00",
+       "price": 30.0,
+       "rating": 3.4,
+       "reviews": 2700,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.be/-/en/SKLZ-Unisex-Training-Accessory-Black-Black/dp/B00BEQ1F94/",
+       "thumbnail": "https://m.media-amazon.com/images/I/414DVlgz2dL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Amazon Basics Entraîneur de swing",
+       "price_text": "€33.66",
+       "price": 33.66,
+       "rating": 4.4,
+       "reviews": 841,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.be/-/en/Amazon-Basics-Swing-trainer-golf/dp/B09N3HZK2J/",
+       "thumbnail": "https://m.media-amazon.com/images/I/519p1eeuixL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "flintronic Golf Alignment Stick, 2pcs Golf Practice Aid Folding Practice Rods for Aiming P",
+       "price_text": "€11.99",
+       "price": 11.99,
+       "rating": 4.5,
+       "reviews": 118,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.be/-/en/flintronic-Alignment-Practice-Folding-Corrector/dp/B0G1SD5Y82/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61ksp0UubwL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "at",
+     "label": "Austria",
+     "amazon_site": "amazon.de",
+     "note": "No Amazon site in Austria; this is Amazon Germany, which serves it.",
+     "pressure": "low",
+     "why": "top listing 16 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 16,
+     "n_1000_plus": 0,
+     "cheapest": "€10",
+     "typical": "€23",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "HoldOneLight Golf Swing Training Aid - Golf Training Ball - Unique Alignment Bar Head - He",
+       "price_text": null,
+       "price": null,
+       "rating": 3.6,
+       "reviews": 16,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Golf-Swing-Training-Aid-Alignment/dp/B0DT5PT6VM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61HguXXCDzL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Smart Inflatable Ball, Golf Swing Trainer, Training Aid for Golf, Posture Correction ",
+       "price_text": "€11.99",
+       "price": 11.99,
+       "rating": 3.7,
+       "reviews": 10,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/SUBORAWOS-Inflatable-Correction-Training-Beginners/dp/B0DJ74WKCD/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71KAqNX0gvL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Alignment Bars",
+       "price_text": "€9.99",
+       "price": 9.99,
+       "rating": 4.7,
+       "reviews": 8,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.de/dp/B0H6WLKKG7/",
+       "thumbnail": "https://m.media-amazon.com/images/I/41w9OZLvVXL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "se",
+     "label": "Sweden",
+     "amazon_site": "amazon.se",
+     "note": null,
+     "pressure": "low",
+     "why": "top listing 841 reviews; 0 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 841,
+     "n_1000_plus": 0,
+     "cheapest": "kr143",
+     "typical": "kr247",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Amazon Basics - golf swing trainer",
+       "price_text": "kr 399.81",
+       "price": 399.81,
+       "rating": 4.4,
+       "reviews": 841,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.se/-/en/Amazon-Basics-Golf-Swing-Coach/dp/B09N3HZK2J/",
+       "thumbnail": "https://m.media-amazon.com/images/I/519p1eeuixL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Starvortex Golf Swing Trainer with Golf Swing Trainer for Arms, Retractable Golf, Swing Tr",
+       "price_text": "kr 247.13",
+       "price": 247.13,
+       "rating": 3.7,
+       "reviews": 101,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.se/-/en/Starvortex-Trainer-Retractable-Training-Outdoor/dp/B0F2M9GZXG/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61PbD7XQ2jL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf, Swing Trainer, Ball Training Equipment, Help Posture, Motion Correction, Forming the",
+       "price_text": "kr 399.99",
+       "price": 399.99,
+       "rating": 4.0,
+       "reviews": 42,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.se/-/en/UPTTHOW-Training-Equipment-Correction-Beginners/dp/B09YCLJBBD/",
+       "thumbnail": "https://m.media-amazon.com/images/I/51TO15pLJDL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "pl",
+     "label": "Poland",
+     "amazon_site": "amazon.pl",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 3,100 reviews; 1 of the first 20 have 1,000+",
+     "listings_seen": 20,
+     "top_reviews": 3100,
+     "n_1000_plus": 1,
+     "cheapest": "zł20",
+     "typical": "zł63",
+     "bought_last_month_min": null,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "SKLZ trenażer zamachowy do golfa, idealny do rozgrzewki",
+       "price_text": "107,50 zł",
+       "price": 107.5,
+       "rating": 4.3,
+       "reviews": 3100,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": [
+        "Błyskawiczna okazja"
+       ],
+       "link": "https://www.amazon.pl/SKLZ-odczuwania-poprawnego-uderzenia-gl%C3%B3wki/dp/B0013E2ARI/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61jqoqxADGL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Starvortex Golf Swing Trainer z trenerem zamachowym do golfa na ramiona",
+       "price_text": "62,99 zł",
+       "price": 62.99,
+       "rating": 3.7,
+       "reviews": 101,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.pl/Starvortex-Trainer-trenerem-zamachowym-ramiona/dp/B0F2M9GZXG/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61PbD7XQ2jL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Tempo Trainer, Swing Trainer, Club Swing Training Pomoc do ćwiczeń siłowych i rytmu pracy ",
+       "price_text": "98,85 zł",
+       "price": 98.85,
+       "rating": 4.2,
+       "reviews": 70,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.pl/Trainer-Training-silowych-narz%C4%99dzie-%C4%87wiczenia/dp/B07G48B5H8/",
+       "thumbnail": "https://m.media-amazon.com/images/I/41Bv6X4NVkL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ie",
+     "label": "Ireland",
+     "amazon_site": "amazon.co.uk",
+     "note": "No Amazon site in Ireland; this is Amazon UK, which ships there.",
+     "pressure": "low",
+     "why": "top listing 199 reviews; 0 of the first 20 have 1,000+; at least 300 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 199,
+     "n_1000_plus": 0,
+     "cheapest": "€8",
+     "typical": "€21",
+     "bought_last_month_min": 300,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "MIKOSI Retractable Golf Swing Trainer, Golf Grip Trainer and Golf Training Aid for Chippin",
+       "price_text": "£18.99",
+       "price": 18.99,
+       "rating": 3.8,
+       "reviews": 199,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0F1F7XVRM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/617z2ct8nOL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Trainer Smart Ball Training Aid, Posture Correction Impact Ball",
+       "price_text": "£9.99",
+       "price": 9.99,
+       "rating": 3.9,
+       "reviews": 147,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/dp/B0CKMZG9HH/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61FOW8gcBIL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Golf Swing Trainer Smart Ball Training Aid, Posture Correction Impact Ball",
+       "price_text": "£9.99",
+       "price": 9.99,
+       "rating": 3.9,
+       "reviews": 147,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/Practice-Teaching-Correction-Adjustable-Intelligent/dp/B0CKMZG9HH/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61FOW8gcBIL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "rising",
+     "growth_pct": 55,
+     "seasonal": true,
+     "peak_months": [
+      "Apr",
+      "May",
+      "Aug"
+     ],
+     "months_to_peak": 6,
+     "now_vs_high": 17,
+     "avg_last_year": 39.8,
+     "spike": false,
+     "zero_share": 0.0,
+     "why": "A typical week in the last 12 months is +55% on the year before; seasonal, busiest months Apr, May, Aug",
+     "line": [
+      14,
+      16,
+      14,
+      17,
+      18,
+      20,
+      14,
+      15,
+      18,
+      18,
+      20,
+      22,
+      20,
+      27,
+      26,
+      26,
+      26,
+      22,
+      24,
+      25,
+      28,
+      40,
+      38,
+      36,
+      28,
+      29,
+      24,
+      26,
+      22,
+      32,
+      26,
+      29,
+      24,
+      22,
+      38,
+      42,
+      32,
+      37,
+      78,
+      84,
+      65,
+      68,
+      46,
+      58,
+      44,
+      24,
+      30,
+      30,
+      44,
+      44,
+      45,
+      26,
+      17
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "crowded",
+     "why": "amazon.com.au at $19.54: Amazon result 1 for the product words. 11 other copies",
+     "prices": {
+      "brand": 79.0,
+      "cheapest_copy": 6.99,
+      "typical_copy": 19.09,
+      "cheapest_real_copy": 6.99,
+      "priced_copies": 10
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Dick Smith",
+       "title": "Buy Golf Smart Ball Inflatable Swing Training Balls Posture ...",
+       "link": "https://www.dicksmith.com.au/da/buy/wlw-golf-smart-ball-inflatable-swing-training-balls-posture-motion-correction-aids-ytaz09s633511/",
+       "price_text": "A$26",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_00.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Dick Smith",
+       "title": "Buy AU Inflatable Tour Striker Smart Ball Golf Swing ...",
+       "link": "https://www.dicksmith.com.au/da/buy/virodeals-au-inflatable-tour-striker-smart-ball-golf-swing-training-aid-posture-correction-325117454293/",
+       "price_text": "A$34",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_04.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "TruePutts",
+       "title": "TruePutts Swing Ball Trainer",
+       "link": "https://trueputts.com/products/trueputts-swing-ball-trainer",
+       "price_text": "A$51",
+       "kind": "other store",
+       "thumb_file": "lens/purestrike_thumb_25.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "eBay Australia",
+       "title": "Smart Ball Golf Swing Training Aid Posture Correction ...",
+       "link": "https://www.ebay.com.au/itm/176303221104",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_94.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "3-Piece Golf Swing Trainer Set - Training Aid Ball, Correcting Arm Band & Wrist Hinge, Inf",
+       "link": "https://www.amazon.com.au/dp/B0G48N1D4S/",
+       "price_text": "$19.54",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_000.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 1 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Golf Smart Training Ball Inflatable Swing Trainer Aid with Pump & Adjustable Lanyard, Golf",
+       "link": "https://www.amazon.com.au/Training-Inflatable-Beginner-Assistance-Correction/dp/B0DS9H8Q9K/",
+       "price_text": "$7.66",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_037.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 5,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Inflatable Golf Swing Training Aid Smart Ball, Golf Swing Trainer with Adjustable Lanyard ",
+       "link": "https://www.amazon.com.au/CHLANX-Golf-Swing-Training-Aid/dp/B0H6VXY6T7/",
+       "price_text": "$12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_046.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Inflatable Golf Swing Training Aid Smart Ball with Adjustable Lanyard and Pump for Beginne",
+       "link": "https://www.amazon.com.au/TSWCBYYLB-Golf-Swing-Training-Aid/dp/B0G34ZL9JW/",
+       "price_text": "$13.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_053.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 2,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Golf Smart Training Ball, Inflatable Swing Trainer Aid with Air Pump and Adjustable Lanyar",
+       "link": "https://www.amazon.com.au/Inflatable-Adjustable-Corrector-Lightweight-UseBeginners/dp/B0GGP1SHT8/",
+       "price_text": "$6.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_063.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 1,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Golf Smart Training Ball – Inflatable Swing Trainer Aid with Pump & Adjustable Lanyard, Go",
+       "link": "https://www.amazon.com.au/dp/B0G2BVLGXR/",
+       "price_text": "$13.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_072.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 1,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "Amazon",
+       "title": "Golf Swing Trainer Ball Lightweight Swing Trainer Form Corrector",
+       "link": "https://www.google.com/search?q=%22Golf+Swing+Trainer+Ball+Lightweight+Swing+Trainer+Form+Corrector%22+Amazon",
+       "price_text": "$19.09",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_219.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 10,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 10 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "amazon.com at $47.00: Amazon result 6 for the product words, with 831 reviews and 300+ bought in past month. 5 other copies",
+     "prices": {
+      "brand": 52.67,
+      "cheapest_copy": 12.0,
+      "typical_copy": 47.0,
+      "cheapest_real_copy": 18.99,
+      "priced_copies": 6
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "eBay",
+       "title": "Portable Tour Striker Smart Ball Golf Swing Training ...",
+       "link": "https://www.ebay.com/itm/186029165427",
+       "price_text": "$12",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_06.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "TruePutts",
+       "title": "TruePutts Swing Ball Trainer",
+       "link": "https://trueputts.com/products/trueputts-swing-ball-trainer",
+       "price_text": "$36",
+       "kind": "other store",
+       "thumb_file": "lens/purestrike_thumb_25.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Tour Striker Smart Ball Golf Swing Training Aid",
+       "link": "https://www.amazon.com/dp/B00II5RSR2/",
+       "price_text": "$47.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_047.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 831,
+       "bought": "300+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words, with 831 reviews and 300+ bought in past month"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Golf Training Aid, Golf Swing Trainer Ball, Golf Training Ball Between Arms - Fix Slice or",
+       "link": "https://www.amazon.com/Golf-Training-Swing-Trainer-Between/dp/B0GYJ8LRVV/",
+       "price_text": "$18.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_054.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "eBay - cozyhomeshop",
+       "title": "The Patented Tour Striker Smart Ball",
+       "link": "https://www.google.com/search?q=%22The+Patented+Tour+Striker+Smart+Ball%22+eBay",
+       "price_text": "$51.11",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_220.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 10,
+       "reviews": 1100,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 10 for the product words, with 1,100 reviews"
+      },
+      {
+       "source": "amazon.com",
+       "title": "Tour Striker Inc Smart Ball + Sleeve Combos",
+       "link": "https://www.amazon.com/dp/B0HDQ9QV4D/",
+       "price_text": "$114.00",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_090.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "uk",
+     "status": "crowded",
+     "why": "amazon.co.uk at £9.99: Amazon result 6 for the product words. 5 other copies",
+     "prices": {
+      "brand": 39.5,
+      "cheapest_copy": 5.99,
+      "typical_copy": 9.99,
+      "cheapest_real_copy": 8.49,
+      "priced_copies": 4
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "TruePutts",
+       "title": "TruePutts Swing Ball Trainer",
+       "link": "https://trueputts.com/products/trueputts-swing-ball-trainer",
+       "price_text": "£29",
+       "kind": "other store",
+       "thumb_file": "lens/purestrike_thumb_25.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "eBay UK",
+       "title": "Smart Ball Golf | eBay UK",
+       "link": "https://www.ebay.co.uk/shop/smart-ball-golf?_nkw=smart+ball+golf",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_101.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "EujRcf 3 Pcs Golf Connection Band, Golf Swing Training Aid ...",
+       "link": "https://www.amazon.co.uk/EujRcf-Connection-Training-Correction-Strength/dp/B0F3XDYV3F",
+       "price_text": "£5.99",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_111.jpg",
+       "looked_up": true,
+       "reviews": 14,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 14 reviews"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Golf Swing Trainer Smart Ball Training Aid, Posture Correction Impact Ball",
+       "link": "https://www.amazon.co.uk/dp/B0CKMZG9HH/",
+       "price_text": "£9.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_048.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 147,
+       "bought": "100+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Golf Swing Trainer, Golf Impact Ball Training Aid with Adjustable Lanyard",
+       "link": "https://www.amazon.co.uk/Trainer-Impact-Training-Adjustable-Lanyard/dp/B0GYJ42372/",
+       "price_text": "£8.49",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_055.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 2,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "ca",
+     "status": "crowded",
+     "why": "amazon.ca at $15.98: Amazon result 2 for the product words. 5 other copies",
+     "prices": {
+      "brand": 72.15,
+      "cheapest_copy": 13.99,
+      "typical_copy": 55.43,
+      "cheapest_real_copy": 13.99,
+      "priced_copies": 5
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.ca",
+       "title": "The Patented Tour Striker Smart Ball, Swing Trainers ...",
+       "link": "https://www.amazon.ca/Tour-Striker-Smart-Ball/dp/B00II5RSR2",
+       "price_text": "CA$66",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_10.jpg",
+       "looked_up": true,
+       "reviews": 809,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 809 reviews"
+      },
+      {
+       "source": "Temu",
+       "title": "swing trainers golf sold on Temu Canada",
+       "link": "https://www.temu.com/ca/swing-trainers-golf-5030259851959-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_115.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Golf Smart Ball Swing Training Aid Inflatable, Golf Swing Ball Trainer with Pump and Lanya",
+       "link": "https://www.amazon.ca/dp/B0F7W9H8FM/",
+       "price_text": "$15.98",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_010.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": 20,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words"
+      },
+      {
+       "source": "The Golf Club Trader",
+       "title": "Tour Striker Smart Ball Golf Swing Training Aid",
+       "link": "https://www.google.com/search?q=%22Tour+Striker+Smart+Ball+Golf+Swing+Training+Aid%22+The+Golf+Club+Trader",
+       "price_text": "$55.43",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_187.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 7,
+       "reviews": 1000,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 7 for the product words, with 1,000 reviews"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "FINGER TEN Golf Swing Trainer Inflatable Ball Aid Value Set",
+       "link": "https://www.amazon.ca/Inflatable-Correction-Training-Professional-Beginner/dp/B08KSSDY6M/",
+       "price_text": "$13.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_075.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 135,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Tour Striker Smart Ball Golf Swing Training Aid",
+       "link": "https://www.amazon.com/dp/B00II5RSR2/",
+       "price_text": "$66.46",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_047.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": 809,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 12 for the product words, with 809 reviews"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "de",
+     "status": "crowded",
+     "why": "amazon.de at €9.99: Amazon result 7 for the product words. 3 other copies",
+     "prices": {
+      "brand": 45.29,
+      "cheapest_copy": 9.99,
+      "typical_copy": 35.0,
+      "cheapest_real_copy": 9.99,
+      "priced_copies": 2
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "TruePutts",
+       "title": "TruePutts Swing Ball Trainer",
+       "link": "https://trueputts.com/products/trueputts-swing-ball-trainer",
+       "price_text": "€35",
+       "kind": "other store",
+       "thumb_file": "lens/purestrike_thumb_25.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Amazon.de",
+       "title": "Amazon.de Hot New Releases: The bestselling new and future ...",
+       "link": "https://www.amazon.de/-/en/gp/new-releases/sports/456957031",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_116.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Golf Swing Trainer Smart Ball - Effective Golf Training for Posture Correction - Training ",
+       "link": "https://www.amazon.de/dp/B0GWHGCHX2/",
+       "price_text": "€9.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_057.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "nz",
+     "status": "crowded",
+     "why": "amazon.com.au at $19.54: Amazon result 1 for the product words. 11 other copies",
+     "prices": {
+      "brand": 88.48,
+      "cheapest_copy": 6.99,
+      "typical_copy": 19.54,
+      "cheapest_real_copy": 6.99,
+      "priced_copies": 11
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "TruePutts",
+       "title": "TruePutts Swing Ball Trainer",
+       "link": "https://trueputts.com/products/trueputts-swing-ball-trainer",
+       "price_text": "NZ$65",
+       "kind": "other store",
+       "thumb_file": "lens/purestrike_thumb_25.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "3-Piece Golf Swing Trainer Set - Training Aid Ball, Correcting Arm Band & Wrist Hinge, Inf",
+       "link": "https://www.amazon.com.au/dp/B0G48N1D4S/",
+       "price_text": "$19.54",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_000.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 1 for the product words"
+      },
+      {
+       "source": "MightyApe.co.nz",
+       "title": "Golf Swing Trainer Arm Corrector Inflatable Ball",
+       "link": "https://www.google.com/search?q=%22Golf+Swing+Trainer+Arm+Corrector+Inflatable+Ball%22+MightyApe.co.nz",
+       "price_text": "$63.73",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_138.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 3,
+       "reviews": null,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "about the brand's price, few reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Golf Smart Training Ball Inflatable Swing Trainer Aid with Pump & Adjustable Lanyard, Golf",
+       "link": "https://www.amazon.com.au/Training-Inflatable-Beginner-Assistance-Correction/dp/B0DS9H8Q9K/",
+       "price_text": "$7.66",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_037.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 5,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "Amazon AU",
+       "title": "Tour Striker Smart Ball Golf Training Aid Sports Free Shipping on all orders",
+       "link": "https://www.google.com/search?q=%22Tour+Striker+Smart+Ball+Golf+Training+Aid+Sports+Free+Shipping+on+all+orders%22+Amazon+AU",
+       "price_text": "$77.48",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_166.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 5,
+       "reviews": 1000,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 5 for the product words, with 1,000 reviews"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Inflatable Golf Swing Training Aid Smart Ball, Golf Swing Trainer with Adjustable Lanyard ",
+       "link": "https://www.amazon.com.au/CHLANX-Golf-Swing-Training-Aid/dp/B0H6VXY6T7/",
+       "price_text": "$12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_046.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Inflatable Golf Swing Training Aid Smart Ball with Adjustable Lanyard and Pump for Beginne",
+       "link": "https://www.amazon.com.au/TSWCBYYLB-Golf-Swing-Training-Aid/dp/B0G34ZL9JW/",
+       "price_text": "$13.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_053.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 2,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Golf Smart Training Ball, Inflatable Swing Trainer Aid with Air Pump and Adjustable Lanyar",
+       "link": "https://www.amazon.com.au/Inflatable-Adjustable-Corrector-Lightweight-UseBeginners/dp/B0GGP1SHT8/",
+       "price_text": "$6.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_063.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 1,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Golf Smart Training Ball – Inflatable Swing Trainer Aid with Pump & Adjustable Lanyard, Go",
+       "link": "https://www.amazon.com.au/dp/B0G2BVLGXR/",
+       "price_text": "$13.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_072.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 1,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "MightyApe.co.nz",
+       "title": "Golf Swing Training Aid Inflatable Ball Smart Posture Correction Impact Trainer",
+       "link": "https://www.google.com/search?q=%22Golf+Swing+Training+Aid+Inflatable+Ball+Smart+Posture+Correction+Impact+Trainer%22+MightyApe.co.nz",
+       "price_text": "$34.48",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_211.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 9,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 9 for the product words"
+      },
+      {
+       "source": "MightyApe.co.nz",
+       "title": "Inflatable Golf Impact Ball Golf Swing Trainer Aid Pratice Posture Correction Adjustable A",
+       "link": "https://www.google.com/search?q=%22Inflatable+Golf+Impact+Ball+Golf+Swing+Trainer+Aid+Pratice+Posture+Correction+Adjustable+Arm+Motion+Guide%22+MightyApe.co.nz",
+       "price_text": "$28.53",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_248.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "nl",
+     "status": "crowded",
+     "why": "amazon.nl at €10.99: Amazon result 5 for the product words. 4 other copies",
+     "prices": {
+      "brand": 45.29,
+      "cheapest_copy": 10.99,
+      "typical_copy": 14.59,
+      "cheapest_real_copy": 10.99,
+      "priced_copies": 4
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Bol",
+       "title": "Golf Swing Trainer Ball - Smart Ball - Training Aid voor ...",
+       "link": "https://www.bol.com/nl/nl/p/golf-swing-trainer-ball-golftrainingsmateriaal-golf-spullen-verbeter-uw-golfswing/9300000169350222/",
+       "price_text": "€33",
+       "kind": "other store",
+       "thumb_file": "lens/purestrike_thumb_56.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "amazon.nl",
+       "title": "Golf Swing Trainer Ball, Golf Swing Trainer, Golf Training Aid, Posture Correction Trainin",
+       "link": "https://www.amazon.nl/-/en/BNGXR-Training-Correction-Inflator-Beginners/dp/B0H3L47ND1/",
+       "price_text": "€10.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_004.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "amazon.nl",
+       "title": "Impact Ball Balloon Golf Smart Ball Trainer, Golf Swing Exercise Aid, Wave Posture Correct",
+       "link": "https://www.amazon.nl/-/en/Balloon-Exercise-Correction-Supplies-Trainers/dp/B08RNJZWFM/",
+       "price_text": "€14.59",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_013.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 37,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.nl",
+       "title": "Golf Smart Inflatable Ball Trainer, Golf Training Accessor Adjustable Design Golf Swing Po",
+       "link": "https://www.amazon.nl/-/en/Inflatable-Training-Accessor-Adjustable-Correction/dp/B0CF6TWDQP/",
+       "price_text": "€13.29",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_094.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": 4,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "fr",
+     "status": "blocked",
+     "why": "The same object is sold by Decathlon.fr at 19,00 €",
+     "prices": {
+      "brand": 45.29,
+      "cheapest_copy": 11.99,
+      "typical_copy": 19.0,
+      "cheapest_real_copy": 19.0,
+      "priced_copies": 6
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon",
+       "title": "Omquot Balle de Correction de Posture Durable pour ...",
+       "link": "https://www.amazon.fr/Omquot-Correction-Accessoires-Dentraînement-Confortable/dp/B0H37V2YGM",
+       "price_text": "€21",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_15.jpg",
+       "looked_up": true,
+       "reviews": null,
+       "bought": null
+      },
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg"
+      },
+      {
+       "source": "Golf at home",
+       "title": "Connection Ball Swing Trainer",
+       "link": "https://www.google.com/search?q=%22Connection+Ball+Swing+Trainer%22+Golf+at+home",
+       "price_text": "19,00 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_127.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 2,
+       "reviews": 1,
+       "bought": null
+      },
+      {
+       "source": "amazon.fr",
+       "title": "FINGER TEN Golf Swing Training Armband with Yellow Golf Swing Trainer and Ball Golf Traini",
+       "link": "https://www.amazon.fr/dp/B087TSY5HM/",
+       "price_text": "€22.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_021.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 3,
+       "reviews": 9,
+       "bought": null
+      },
+      {
+       "source": "Decathlon.fr",
+       "title": "GOLFATHOME Connection Ball swing Trainer entraîneur de swing de golf",
+       "link": "https://www.google.com/search?q=%22GOLFATHOME+Connection+Ball+swing+Trainer+entra%C3%AEneur+de+swing+de+golf%22+Decathlon.fr",
+       "price_text": "19,00 €",
+       "kind": "big chain",
+       "thumb_file": "visible/purestrike_vis_thumb_140.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 3,
+       "reviews": null,
+       "bought": null
+      },
+      {
+       "source": "amazon.fr",
+       "title": "Golf Swing Trainer Ball, Golf Swing Trainer, Golf Training Aid, Posture Correction Trainin",
+       "link": "https://www.amazon.nl/-/en/BNGXR-Training-Correction-Inflator-Beginners/dp/B0H3L47ND1/",
+       "price_text": "€11.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_004.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": null,
+       "bought": null
+      },
+      {
+       "source": "amazon.fr",
+       "title": "Smart Golf Training Ball - Posture Correction Practice Swing with Air Pump - Practice Corr",
+       "link": "https://www.amazon.fr/-/en/Training-Posture-Correcting-Practice-Swing/dp/B0C89MM6T9/",
+       "price_text": "€12.49",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_103.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": 13,
+       "bought": null
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "es",
+     "status": "crowded",
+     "why": "eBay at 15,70 €: Google Shopping result 6 for the product words. 5 other copies",
+     "prices": {
+      "brand": 45.29,
+      "cheapest_copy": 7.09,
+      "typical_copy": 15.7,
+      "cheapest_real_copy": 7.09,
+      "priced_copies": 4
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon",
+       "title": "Tour Striker Smart Ball Golf Training Aid - Black : Amazon ...",
+       "link": "https://www.amazon.es/-/en/Tour-Striker-Smart-Ball-Training/dp/B00II5RSR2",
+       "price_text": "€63.71",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_121.jpg",
+       "looked_up": true,
+       "reviews": 808,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 808 reviews"
+      },
+      {
+       "source": "Amazon.es",
+       "title": "Smart Ball Golf Ayuda De Entrenamiento De Swing De Golf ...",
+       "link": "https://www.amazon.es/Entrenamiento-Striker-Corrección-Principiantes-Asistencia/dp/B0BTGPN28G",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_123.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon",
+       "title": "Pelotas de Entrenamiento de Swing de Golf, Entrenador de ...",
+       "link": "https://www.amazon.es/Pelotas-Entrenamiento-Entrenador-Inteligente-corrección/dp/B08W4WLSX1",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_125.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "eBay",
+       "title": "Pgm Golf Smart Ball Swing Trainer Arm Corrector Posture Correction",
+       "link": "https://www.google.com/search?q=%22Pgm+Golf+Smart+Ball+Swing+Trainer+Arm+Corrector+Posture+Correction%22+eBay",
+       "price_text": "15,70 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_169.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 6,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 6 for the product words"
+      },
+      {
+       "source": "amazon.es",
+       "title": "Golf Training Ball | Training Aid Golf Ball - Motion Correction Aid Inflatable Golf Ball f",
+       "link": "https://www.amazon.es/-/en/JINGAN-Golf-Training-Ball-Aid/dp/B0C6J2CB49/",
+       "price_text": "€7.09",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_059.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 1,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.es",
+       "title": "Namvo Golf Swing Training Aid Golf Smart Ball Smart Assist Practice Ball Teaching Posture ",
+       "link": "https://www.amazon.es/-/en/Namvo-Training-Practice-Correction-Adjustable/dp/B0D6R2J3C8/",
+       "price_text": "€10.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_096.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": 3,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "it",
+     "status": "crowded",
+     "why": "amazon.it at €25.32: Amazon result 5 for the product words. 5 other copies",
+     "prices": {
+      "brand": 45.29,
+      "cheapest_copy": 14.58,
+      "typical_copy": 22.29,
+      "cheapest_real_copy": 14.58,
+      "priced_copies": 5
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "amazon.it",
+       "title": "Adjustable Golf Training Accessory, PVC Inflatable Ball for Posture Correction",
+       "link": "https://www.amazon.it/dp/B08KSFWMFL/",
+       "price_text": "€25.32",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_043.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "GoSupps.com",
+       "title": "Vukayo Golf Swing Trainer Ball,Golf inflable Ball, for The Player practing Posture Correct",
+       "link": "https://www.google.com/search?q=%22Vukayo+Golf+Swing+Trainer+Ball%2CGolf+inflable+Ball%2C+for+The+Player+practing+Posture+Correction+Training%22+GoSupps.com",
+       "price_text": "22,29 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_214.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 9,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 9 for the product words"
+      },
+      {
+       "source": "amazon.it",
+       "title": "Smart Golf Training Ball for Golf Swing Trainer Inflatable Portable Posture Corrector for ",
+       "link": "https://www.amazon.it/-/en/SUBORAWOS-Training-Inflatable-Corrector-Beginners/dp/B0DJ74WKCD/",
+       "price_text": "€18.52",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_079.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 10,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words"
+      },
+      {
+       "source": "amazon.it",
+       "title": "Golf Swing Trainer Smart Ball - Effective Golf Training for Posture Correction - Training ",
+       "link": "https://www.amazon.de/dp/B0GWHGCHX2/",
+       "price_text": "€14.58",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_057.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      },
+      {
+       "source": "GoSupps.com",
+       "title": "FINGER TEN Golf Smart Ball Training Aid Impact Inflatable Balls with Air Pump Adjustable L",
+       "link": "https://www.google.com/search?q=%22FINGER+TEN+Golf+Smart+Ball+Training+Aid+Impact+Inflatable+Balls+with+Air+Pump+Adjustable+Lanyard+Assist+Teachi%22+GoSupps.com",
+       "price_text": "26,75 €",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_240.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 11,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 11 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "be",
+     "status": "crowded",
+     "why": "amazon.com.be at €10.99: Amazon result 1 for the product words. 4 other copies",
+     "prices": {
+      "brand": 45.29,
+      "cheapest_copy": 10.99,
+      "typical_copy": 13.29,
+      "cheapest_real_copy": 10.99,
+      "priced_copies": 4
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "amazon.com.be",
+       "title": "Golf Swing Trainer Ball, Golf Swing Trainer, Golf Training Aid, Posture Correction Trainin",
+       "link": "https://www.amazon.nl/-/en/BNGXR-Training-Correction-Inflator-Beginners/dp/B0H3L47ND1/",
+       "price_text": "€10.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_004.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 1 for the product words"
+      },
+      {
+       "source": "amazon.com.be",
+       "title": "Golf Swing Training Ball for Beginners",
+       "link": "https://www.amazon.com.be/-/en/CENPEK-Golf-Swing-Training-Beginners/dp/B0D14GB4ZL/",
+       "price_text": "€12.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_061.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 3,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.com.be",
+       "title": "Smart Golf Training Ball for Golf Swing Trainer Inflatable Portable Posture Corrector for ",
+       "link": "https://www.amazon.it/-/en/SUBORAWOS-Training-Inflatable-Corrector-Beginners/dp/B0DJ74WKCD/",
+       "price_text": "€18.22",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_079.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 9,
+       "reviews": 10,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 9 for the product words"
+      },
+      {
+       "source": "amazon.com.be",
+       "title": "Impact Ball Balloon Golf Smart Ball Trainer, Golf Swing Exercise Aid, Wave Posture Correct",
+       "link": "https://www.amazon.nl/-/en/Balloon-Exercise-Correction-Supplies-Trainers/dp/B08RNJZWFM/",
+       "price_text": "€13.29",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_013.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 11,
+       "reviews": 36,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 11 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "at",
+     "status": "crowded",
+     "why": "eBay at € 15,70: Google Shopping result 5 for the product words. 4 other copies",
+     "prices": {
+      "brand": 45.29,
+      "cheapest_copy": 9.99,
+      "typical_copy": 15.7,
+      "cheapest_real_copy": 9.99,
+      "priced_copies": 4
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "eBay",
+       "title": "Pgm Golf Smart Ball Swing Trainer Arm Corrector Posture Correction",
+       "link": "https://www.google.com/search?q=%22Pgm+Golf+Smart+Ball+Swing+Trainer+Arm+Corrector+Posture+Correction%22+eBay",
+       "price_text": "€ 15,70",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_169.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 5 for the product words"
+      },
+      {
+       "source": "amazon.de",
+       "title": "Golf Swing Trainer Smart Ball - Effective Golf Training for Posture Correction - Training ",
+       "link": "https://www.amazon.de/dp/B0GWHGCHX2/",
+       "price_text": "€9.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_057.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "infshop.at",
+       "title": "INF Aufblasbarer Golfschwung-Übungsball",
+       "link": "https://www.google.com/search?q=%22INF+Aufblasbarer+Golfschwung-%C3%9Cbungsball%22+infshop.at",
+       "price_text": "€ 14,99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_193.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 7,
+       "reviews": 1,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 7 for the product words"
+      },
+      {
+       "source": "GoSupps.com",
+       "title": "FINGER TEN Golf Smart Ball Training Aid Impact Inflatable Balls with Air Pump Adjustable L",
+       "link": "https://www.google.com/search?q=%22FINGER+TEN+Golf+Smart+Ball+Training+Aid+Impact+Inflatable+Balls+with+Air+Pump+Adjustable+Lanyard+Assist+Teachi%22+GoSupps.com",
+       "price_text": "€ 26,75",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_240.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "se",
+     "status": "crowded",
+     "why": "Amazon.se - Seller at 179,99 kr: Google Shopping result 1 for the product words. 8 other copies",
+     "prices": {
+      "brand": 500.33,
+      "cheapest_copy": 143.39,
+      "typical_copy": 180.0,
+      "cheapest_real_copy": 143.39,
+      "priced_copies": 8
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.se",
+       "title": "Golf Impact Ball, Golf Smart Ball Trainer, Golf Swing ...",
+       "link": "https://www.amazon.se/Practice-Assistance-Correction-lättanvänt-träningstillbehör/dp/B08RNJZWFM",
+       "price_text": "SEK 180",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_19.jpg",
+       "looked_up": true,
+       "reviews": 36,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 36 reviews"
+      },
+      {
+       "source": "Amazon.se",
+       "title": "Golf Swing Träningshjälp Bärbar Uppblåsbar Tour Striker ...",
+       "link": "https://www.amazon.se/Träningshjälp-Uppblåsbar-Striker-Hållningskorrigering-Nybörjare/dp/B0BTGPN28G",
+       "price_text": "SEK 252",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_20.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "TruePutts",
+       "title": "TruePutts Swing Ball Trainer",
+       "link": "https://trueputts.com/products/trueputts-swing-ball-trainer",
+       "price_text": "SEK 386",
+       "kind": "other store",
+       "thumb_file": "lens/purestrike_thumb_25.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Amazon.se - Seller",
+       "title": "Golf Impact Ball Golf Smart Ball Trainer Golf Swing Practice Assistance",
+       "link": "https://www.google.com/search?q=%22Golf+Impact+Ball+Golf+Smart+Ball+Trainer+Golf+Swing+Practice+Assistance%22+Amazon.se",
+       "price_text": "179,99 kr",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_119.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 1,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 1 for the product words"
+      },
+      {
+       "source": "amazon.se",
+       "title": "Impact Ball Balloon Golf Smart Ball Trainer, Golf Swing Exercise Aid, Wave Posture Correct",
+       "link": "https://www.amazon.nl/-/en/Balloon-Exercise-Correction-Supplies-Trainers/dp/B08RNJZWFM/",
+       "price_text": "kr 179.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_013.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 36,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "amazon.se",
+       "title": "Smart Inflatable Ball Golf Swing Training Aid Helps Improve Skills Posture Part Golf Swing",
+       "link": "https://www.amazon.se/-/en/ANCLLO-Inflatable-Training-Improve-Posture/dp/B095JWWF5V/",
+       "price_text": "kr 167.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_070.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 8,
+       "reviews": 7,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 8 for the product words"
+      },
+      {
+       "source": "amazon.se",
+       "title": "PVC Golf Swing Assisted Exercise Posture Correction Smart Inflatable Ball Extra Accessorie",
+       "link": "https://www.amazon.se/-/en/Assisted-Exercise-Correction-Inflatable-Accessories/dp/B0DS3DXQKP/",
+       "price_text": "kr 143.39",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_088.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 10 for the product words"
+      },
+      {
+       "source": "amazon.se",
+       "title": "Adjustable Golf Training Accessory, PVC Inflatable Ball for Posture Correction",
+       "link": "https://www.amazon.it/dp/B08KSFWMFL/",
+       "price_text": "kr 191.76",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_043.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "pl",
+     "status": "crowded",
+     "why": "amazon.pl at 38,39 zł: Amazon result 2 for the product words. 5 other copies",
+     "prices": {
+      "brand": 194.87,
+      "cheapest_copy": 34.14,
+      "typical_copy": 39.0,
+      "cheapest_real_copy": 34.14,
+      "priced_copies": 5
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.pl",
+       "title": "Golf Impact Ball, Golf Smart Ball Trainer, Golf Swing ...",
+       "link": "https://www.amazon.pl/Practice-Assistance-Materialy-akcesoria-treningowe/dp/B08RNJZWFM",
+       "price_text": "PLN 39",
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_21.jpg",
+       "looked_up": true,
+       "reviews": 36,
+       "bought": null,
+       "strength": "weak",
+       "strength_why": "not in the top results, 36 reviews"
+      },
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "amazon.pl",
+       "title": "Impact Ball Balloon Golf Smart Ball Trainer, Golf Swing Exercise Aid, Wave Posture Correct",
+       "link": "https://www.amazon.nl/-/en/Balloon-Exercise-Correction-Supplies-Trainers/dp/B08RNJZWFM/",
+       "price_text": "38,39 zł",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_013.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 2,
+       "reviews": 36,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 2 for the product words"
+      },
+      {
+       "source": "amazon.pl",
+       "title": "Qury Golf Swing Trainer nadmuchiwana piłka treningowa z pompką i regulowanymi paskami do t",
+       "link": "https://www.amazon.pl/Qury-nadmuchiwana-treningowa-regulowanymi-rytmicznego/dp/B0GM8HRGH4/",
+       "price_text": "89,90 zł",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_036.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 4,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 4 for the product words"
+      },
+      {
+       "source": "amazon.pl",
+       "title": "Piłka do treningu golfa Trenażer Zamachu Korektor Formy",
+       "link": "https://www.amazon.pl/Pilka-treningu-Trena%C5%BCer-Zamachu-Korektor/dp/B0FMR1J3CK/",
+       "price_text": "61,69 zł",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_045.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 5 for the product words"
+      },
+      {
+       "source": "amazon.pl",
+       "title": "Adjustable Golf Training Accessory, PVC Inflatable Ball for Posture Correction",
+       "link": "https://www.amazon.it/dp/B08KSFWMFL/",
+       "price_text": "34,14 zł",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_043.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 12 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "ie",
+     "status": "crowded",
+     "why": "Andrew Morris Golf at €23.62: Google Shopping result 4 for the product words. 6 other copies",
+     "prices": {
+      "brand": 45.29,
+      "cheapest_copy": 8.49,
+      "typical_copy": 14.56,
+      "cheapest_real_copy": 8.49,
+      "priced_copies": 4
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Temu",
+       "title": "golf training aid ball sold on Temu United States",
+       "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_87.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "Amazon.ie",
+       "title": "Cryfokt Smart Ball Swing Trainer Eco-Friendly PVC Inflatable ...",
+       "link": "https://www.amazon.ie/Cryfokt-Eco-Friendly-Inflatable-Correction-5-9x6-3in/dp/B0GYDQL733",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_131.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.ie",
+       "title": "Afenau Retractable Golf Training Aid, Golf Swing Trainer ...",
+       "link": "https://www.amazon.ie/Afenau-Retractable-Training-Alignment-Flexibility/dp/B0DJT2CVR1",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/purestrike_thumb_133.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Andrew Morris Golf",
+       "title": "Swing Ball Golf Training Aid",
+       "link": "https://www.google.com/search?q=%22Swing+Ball+Golf+Training+Aid%22+Andrew+Morris+Golf",
+       "price_text": "€23.62",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_160.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 4,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 4 for the product words"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Golf Swing Trainer Smart Ball Training Aid, Posture Correction Impact Ball",
+       "link": "https://www.amazon.co.uk/dp/B0CKMZG9HH/",
+       "price_text": "£9.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_048.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 147,
+       "bought": "100+ bought in past month",
+       "strength": "strong",
+       "strength_why": "Amazon result 6 for the product words"
+      },
+      {
+       "source": "amazon.co.uk",
+       "title": "Golf Swing Trainer, Golf Impact Ball Training Aid with Adjustable Lanyard",
+       "link": "https://www.amazon.co.uk/Trainer-Impact-Training-Adjustable-Lanyard/dp/B0GYJ42372/",
+       "price_text": "£8.49",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_055.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 7,
+       "reviews": 2,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Amazon result 7 for the product words"
+      },
+      {
+       "source": "eBay",
+       "title": "Pgm Golf Smart Ball Swing Trainer Arm Corrector Posture Correction",
+       "link": "https://www.google.com/search?q=%22Pgm+Golf+Smart+Ball+Swing+Trainer+Arm+Corrector+Posture+Correction%22+eBay",
+       "price_text": "€14.56",
+       "kind": "marketplace",
+       "thumb_file": "visible/purestrike_vis_thumb_169.jpg",
+       "found_by_words": true,
+       "where": "Google Shopping",
+       "rank": 11,
+       "reviews": null,
+       "bought": null,
+       "strength": "strong",
+       "strength_why": "Google Shopping result 11 for the product words"
+      }
+     ],
+     "picture_matches": 60
+    }
+   ],
+   "lens_sheet": "lens/purestrike_sheet.jpg",
+   "supplier": {
+    "slug": "purestrike",
+    "brand_price": 79.0,
+    "brand_currency": "aud",
+    "words": "golf smart ball arm",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-golf-smart-ball-arm.html",
+    "listings": [
+     {
+      "n": 1,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Inflatable Golf Smart Ball Trainer Portable Swing Arm ...",
+      "link": "https://www.aliexpress.com/item/1005006860885222.html",
+      "thumb_file": "lens/purestrike_thumb_104.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 2,
+      "site": "DHgate",
+      "order_type": "small orders",
+      "title": "Golf Swing Trainer Ball With Smart Inflatable Assist... From ...",
+      "link": "https://in.dhgate.com/product/golf-swing-trainer-ball-with-smart-inflatable/1114942153.html",
+      "thumb_file": "lens/purestrike_thumb_108.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     }
+    ],
+    "summary": {
+     "found": 2,
+     "priced": 0,
+     "brand_price_usd": 52.67,
+     "status": "found, price not read",
+     "plain": "2 supplier listings found. Open them to read the price: supplier sites do not show prices to search engines."
+    }
+   },
+   "meta": {
+    "slug": "ps-20099",
+    "phrase": "golf swing trainer",
+    "checked": "2026-10-15",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22golf%20swing%20trainer%22",
+    "ads_loaded": 242,
+    "capped": false,
+    "stopped_by": "read every live ad",
+    "n_advertisers": 25,
+    "advertisers_with_3_plus_ads": 12,
+    "biggest_advertiser_share": 0.19,
+    "brands_new_in_last_2_months": 11,
+    "brands_advertising_3_plus_months": 14,
+    "ads_started_last_2_months": 69,
+    "ads_older_than_6_months": 1,
+    "pattern": "crowded",
+    "plain": "25 brands advertise it; 14 have kept ads running 3+ months, 11 are new in the last two months. Of the 4 biggest shops we could date, 3 are over a year old and 0 opened in the last four months.",
+    "months": {
+     "2026-02": 1,
+     "2026-05": 20,
+     "2026-06": 54,
+     "2026-07": 41,
+     "2026-08": 57,
+     "2026-09": 35,
+     "2026-10": 34
+    },
+    "brand_months": {
+     "2026-02": 1,
+     "2026-05": 3,
+     "2026-06": 8,
+     "2026-07": 2,
+     "2026-08": 1,
+     "2026-09": 3,
+     "2026-10": 7
+    },
+    "top_advertisers": [
+     {
+      "name": "Temu",
+      "pages": 5,
+      "page_names": [
+       "Temu",
+       "TemuUruguay",
+       "Temu Dominican",
+       "Temu Switzerland",
+       "Temu Mexico"
+      ],
+      "ads": 45,
+      "oldest_live_ad": "2026-05-10",
+      "page_likes": 74978,
+      "headline": "{{product.short_description}}",
+      "shop": "play.google.com",
+      "product_page": "https://play.google.com/store/apps/details",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=299652376565376",
+      "shop_open_since": null
+     },
+     {
+      "name": "Plane Swing Golf Swing Trainer",
+      "pages": 1,
+      "page_names": [
+       "Plane Swing Golf Swing Trainer"
+      ],
+      "ads": 43,
+      "oldest_live_ad": "2026-06-27",
+      "page_likes": 3688,
+      "headline": "World’s #1 Golf Swing Trainer! Swing Like a Champion At-Home w/ PlaneSWING®",
+      "shop": "planeswing.co.uk",
+      "product_page": "https://planeswing.co.uk/pages/sp1",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=206825716048529",
+      "shop_open_since": "2024-03-12"
+     },
+     {
+      "name": "Plane Swing Golf Swing Trainer",
+      "pages": 1,
+      "page_names": [
+       "Plane Swing Golf Swing Trainer"
+      ],
+      "ads": 41,
+      "oldest_live_ad": "2026-08-25",
+      "page_likes": 3688,
+      "headline": "World’s #1 Golf Swing Trainer! Swing Like a Champion At-Home w/ PlaneSWING®",
+      "shop": "planeswing.com",
+      "product_page": "https://planeswing.com/pages/sp1",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=206825716048529",
+      "shop_open_since": "2023-02-23"
+     },
+     {
+      "name": "Temu",
+      "pages": 1,
+      "page_names": [
+       "Temu"
+      ],
+      "ads": 26,
+      "oldest_live_ad": "2026-05-12",
+      "page_likes": 12217817,
+      "headline": "{{product.short_description}}",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/do/kuiper/un3.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101886952638461",
+      "shop_open_since": null
+     },
+     {
+      "name": "13 Under Golf",
+      "pages": 1,
+      "page_names": [
+       "13 Under Golf"
+      ],
+      "ads": 16,
+      "oldest_live_ad": "2026-07-07",
+      "page_likes": 1599,
+      "headline": "Swing Training, Made Easy.",
+      "shop": "13undergolf.com",
+      "product_page": "https://13undergolf.com/pages/slice_fixer",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=404573312729627",
+      "shop_open_since": "2024-07-17"
+     },
+     {
+      "name": "Plane Swing Golf Swing Trainer",
+      "pages": 1,
+      "page_names": [
+       "Plane Swing Golf Swing Trainer"
+      ],
+      "ads": 16,
+      "oldest_live_ad": "2026-06-30",
+      "page_likes": 3688,
+      "headline": "World’s #1 Golf Swing Trainer! Swing Like a Champion At-Home w/ PlaneSWING®",
+      "shop": "golfperformancestore.com.au",
+      "product_page": "https://www.golfperformancestore.com.au/product/planeswing-training-system-with-powerslider",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=206825716048529",
+      "shop_open_since": "2025-11-20"
+     },
+     {
+      "name": "Temu Philippines",
+      "pages": 1,
+      "page_names": [
+       "Temu Philippines"
+      ],
+      "ads": 10,
+      "oldest_live_ad": "2026-06-29",
+      "page_likes": 1397948,
+      "headline": "{{product.short_description}}",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/ph/kuiper/un3.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=121464947710952",
+      "shop_open_since": null
+     },
+     {
+      "name": "TemuUruguay",
+      "pages": 1,
+      "page_names": [
+       "TemuUruguay"
+      ],
+      "ads": 8,
+      "oldest_live_ad": "2026-06-30",
+      "page_likes": 82038,
+      "headline": "{{product.short_description}}",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/do/kuiper/un3.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=234915533047182",
+      "shop_open_since": null
+     },
+     {
+      "name": "Temu Dominican",
+      "pages": 1,
+      "page_names": [
+       "Temu Dominican"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-06-28",
+      "page_likes": 74978,
+      "headline": "{{product.short_description}}",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/do/kuiper/un3.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=299652376565376",
+      "shop_open_since": null
+     },
+     {
+      "name": "Temu Europe",
+      "pages": 1,
+      "page_names": [
+       "Temu Europe"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-06-30",
+      "page_likes": 1408392,
+      "headline": "{{product.short_description}}",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/do/kuiper/un3.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104501432668636",
+      "shop_open_since": null
+     },
+     {
+      "name": "Nakajima Trading",
+      "pages": 1,
+      "page_names": [
+       "Nakajima Trading"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-10-05",
+      "page_likes": 5,
+      "headline": "UYBAG（ユーワイバッグ）から、高品質ゴルフギア登場。",
+      "shop": "nakajima-trading.com",
+      "product_page": "https://nakajima-trading.com/uy29/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=259564197230732",
+      "shop_open_since": null
+     },
+     {
+      "name": "TrendingResults Heatcore",
+      "pages": 1,
+      "page_names": [
+       "TrendingResults Heatcore"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-10-08",
+      "page_likes": 30,
+      "headline": "Learn To Practise Your Golf Swing Indoors 🏌️",
+      "shop": "related.trendingresults.net",
+      "product_page": "https://related.trendingresults.net/topics/4231003/39B7D26/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=747164171821840",
+      "shop_open_since": null
+     },
+     {
+      "name": "Temu South America",
+      "pages": 1,
+      "page_names": [
+       "Temu South America"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-07-14",
+      "page_likes": 144286,
+      "headline": "{{product.short_description}}",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/do/kuiper/un3.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=653005074560704",
+      "shop_open_since": null
+     },
+     {
+      "name": "Temu Japan",
+      "pages": 1,
+      "page_names": [
+       "Temu Japan"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-06-29",
+      "page_likes": 186046,
+      "headline": "{{product.short_description}}",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/ph/kuiper/un3.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106065232510739",
+      "shop_open_since": null
+     },
+     {
+      "name": "Temu Mexico",
+      "pages": 1,
+      "page_names": [
+       "Temu Mexico"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-05-21",
+      "page_likes": 1681028,
+      "headline": "{{product.short_description}}",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/do/kuiper/un3.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=108247165609779",
+      "shop_open_since": null
+     },
+     {
+      "name": "SpineAlign Golf App",
+      "pages": 1,
+      "page_names": [
+       "SpineAlign Golf App"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 484,
+      "headline": "Understand Your Swing",
+      "shop": "spinealigngolf.com",
+      "product_page": "https://spinealigngolf.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=676039982252030",
+      "shop_open_since": null
+     },
+     {
+      "name": "Shoptemu",
+      "pages": 1,
+      "page_names": [
+       "Shoptemu"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": null,
+      "headline": "Code: kbf4794 in search bar to shop my picks and get £0 items with qualifying orders 🎁 \n\nN",
+      "shop": "temu.com",
+      "product_page": "https://www.temu.com/ul/kuiper/uk1.html",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103219685846470",
+      "shop_open_since": null
+     },
+     {
+      "name": "Thegolftrainingaidstore",
+      "pages": 1,
+      "page_names": [
+       "Thegolftrainingaidstore"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-02-27",
+      "page_likes": 113,
+      "headline": "Full Circle PVC Golf Swing Trainer - Golf Swing Training Aid",
+      "shop": "thegolftrainingaidstore.com",
+      "product_page": "https://thegolftrainingaidstore.com/products/full-circle-pvc-swing-trainer",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=142238958979411",
+      "shop_open_since": null
+     },
+     {
+      "name": "CenterFaced Golf",
+      "pages": 1,
+      "page_names": [
+       "CenterFaced Golf"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-10",
+      "page_likes": 3132,
+      "headline": "Deal ends soon",
+      "shop": "centerfaced.com",
+      "product_page": "https://centerfaced.com/products/swing-synchroniser",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=880768515116500",
+      "shop_open_since": null
+     },
+     {
+      "name": "WeckMethod",
+      "pages": 1,
+      "page_names": [
+       "WeckMethod"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-06-13",
+      "page_likes": 21110,
+      "headline": "Built For A Better Swing",
+      "shop": "shop.weckmethod.com",
+      "product_page": "https://shop.weckmethod.com/products/rmt-club-golf",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=490316501006141",
+      "shop_open_since": null
+     },
+     {
+      "name": "Dint Golf Solutions",
+      "pages": 1,
+      "page_names": [
+       "Dint Golf Solutions"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-02",
+      "page_likes": 42597,
+      "headline": "Golf Swing Trainer PRO",
+      "shop": "dintgolf.com.au",
+      "product_page": "https://dintgolf.com.au/products/soft-long-golf-swing-trainers-aid",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=715059241948142",
+      "shop_open_since": null
+     },
+     {
+      "name": "The Rope Club",
+      "pages": 1,
+      "page_names": [
+       "The Rope Club"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-03",
+      "page_likes": 979,
+      "headline": "Your garage just became your new golf practice facility. ⛳️\n\nThe Rope Club is a golf swing",
+      "shop": "ropeclubgolf.com",
+      "product_page": "http://www.RopeClubGolf.com/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=268473223012139",
+      "shop_open_since": null
+     },
+     {
+      "name": "SwingRite",
+      "pages": 1,
+      "page_names": [
+       "SwingRite"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-12",
+      "page_likes": 480,
+      "headline": "www.fb.com",
+      "shop": "fb.com",
+      "product_page": "http://www.fb.com/100057266515977",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=232490630831",
+      "shop_open_since": null
+     },
+     {
+      "name": "Ao bingfboy",
+      "pages": 1,
+      "page_names": [
+       "Ao bingfboy"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-02",
+      "page_likes": 137,
+      "headline": "🏌️‍♂️ Golf Swing Trainer – Practice more scientifically for a better swing",
+      "shop": "aobingf.shop",
+      "product_page": "https://www.aobingf.shop/u98cqro8g400",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=540337285837156",
+      "shop_open_since": null
+     },
+     {
+      "name": "Travis Scott Stephenson",
+      "pages": 1,
+      "page_names": [
+       "Travis Scott Stephenson"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-14",
+      "page_likes": 17744,
+      "headline": "Building Digital Products With AI in 2026",
+      "shop": "ideas.paidcreators.com",
+      "product_page": "https://ideas.paidcreators.com/50salessprintv2",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=301413553920149",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "temu.com": 62,
+     "play.google.com": 45,
+     "planeswing.co.uk": 43,
+     "planeswing.com": 41,
+     "13undergolf.com": 16,
+     "golfperformancestore.com.au": 16,
+     "nakajima-trading.com": 5,
+     "related.trendingresults.net": 4,
+     "spinealigngolf.com": 2,
+     "thegolftrainingaidstore.com": 1,
+     "centerfaced.com": 1,
+     "shop.weckmethod.com": 1,
+     "dintgolf.com.au": 1,
+     "ropeclubgolf.com": 1,
+     "fb.com": 1,
+     "aobingf.shop": 1,
+     "ideas.paidcreators.com": 1
+    },
+    "cost_usd": 0.99,
+    "shops_checked": 4,
+    "shops_over_a_year_old": 3,
+    "shops_under_4_months_old": 0,
+    "takeaway": "25 brands advertise \"golf swing trainer\", led by Temu (about 90 ads across its pages) and Plane Swing (100 ads). PureStrike itself is not among the top advertisers for this phrase."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Golf Training Aids - Grip and Swing Trainers",
+       "link": "https://www.golfbox.com.au/accessories/training-aids/",
+       "domain": "golfbox.com.au",
+       "kind": "store / brand",
+       "snippet": "Improve your game with GolfBox's wide range of golf training aids from leading brands such as Callaway, Swingshot and X-Tech."
+      },
+      {
+       "position": 3,
+       "title": "Golf Swing Trainers - Build Better Tempo & Technique",
+       "link": "https://houseofgolf.com.au/collections/golf-swing-trainers?srsltid=AU7gw4VC9r456Bt6YXRb7jtQ4vH7YcEIOroz4pzW62pAf_B392-4YMce",
+       "domain": "houseofgolf.com.au",
+       "kind": "store / brand",
+       "snippet": "Shop golf swing trainers from Orange Whip, SKLZ, Momentus and more. Improve your tempo, timing and consistency at The House of Golf."
+      },
+      {
+       "position": 5,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4XFonHUCTmRkN2Q7FKTW5Xq0rP5RaGPDQKhIs-hCHTSIvSRr2Cc",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. price $39.00 Sale price $39.00 Regular "
+      },
+      {
+       "position": 6,
+       "title": "Practice Equipment",
+       "link": "https://drummondgolf.com.au/collections/accessories-practice-equipment?srsltid=AU7gw4VSYteqFNFHQ_IUyaMSL-RlNVcNopFm5R0LaV6PYqt_2dneVBsL",
+       "domain": "drummondgolf.com.au",
+       "kind": "store / brand",
+       "snippet": "PuttOUT Airbreak Max Putting Mat · $1,199.95 ; GravityFit TPro 2.0 Training Aid - Green · $129.95 ; GolfCraft Pro Stix - Orange/White · $25.95 ; GolfCraft Ball "
+      },
+      {
+       "position": 8,
+       "title": "PGM Golf Swing Trainer Force Adjustable Stick Rhythm ...",
+       "link": "https://pgmgolf.com.au/products/swing-trainer-force-adjustable-stick-rhythm-corrector-hgb002?srsltid=AU7gw4UOBYfWofBafSO3oVZZBfDmCSY_eCcPtNpPciQ7fd1ivFtVyv4H",
+       "domain": "pgmgolf.com.au",
+       "kind": "store / brand",
+       "snippet": "PGM GOLF Swing Trainer Force Adjustable Stick Rhythm Corrector HGB002 · Head Color Options: Red or Blue · Overall Length: 62CM · Ball Diameter: 52MM · Weight: 0"
+      }
+     ],
+     "paa": [
+      "Does the ball swing trainer work?",
+      "What is a good golf swing practice ball?",
+      "Does the TRS slider actually work?",
+      "What is the most effective golf swing training aid?"
+     ],
+     "popular_products": [
+      {
+       "title": "Golf Smart Training Ball – Inflatable Swing Trainer Aid with",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Golf Smart Training Ball Inflatable Swing Trainer Aid with P",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Smart Ball Golf Swing Training Aid Posture Correction Inflat",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "SKLZ Pure Path Golf Swing Trainer",
+       "price": null,
+       "source": "golfbox.com.au"
+      },
+      {
+       "title": "THE Golfer Store Smart Ball Golf Training Aid Golf Swing Tra",
+       "price": null,
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Golf Swing Trainer Ball - Black",
+       "price": null,
+       "source": "Pure Strike Golf"
+      },
+      {
+       "title": "TSWCBYYLB Inflatable Golf Swing Training Aid Smart Ball with",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Premium Golf Swing Trainer Ball",
+       "price": null,
+       "source": "Pure Strike Golf"
+      },
+      {
+       "title": "Tour Striker Smart Ball",
+       "price": null,
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Golf Swing Trainer Ball Inflatable Smart Ball Golf Training ",
+       "price": null,
+       "source": "Dick Smith AU"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A golf swing ball trainer helps you keep your arms, chest, and body in sync during your swing. Watch how the Tour Striker Smart Ball helps maintain arm connection and improve your swing mechanics: If you'd like, let me know:",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: golfbox.com.au (store / brand). In the product strip: Amazon AU, Amazon AU - Amazon.com.au-Seller, Dick Smith AU, Pure Strike Golf, golfbox.com.au. Amazon here is quiet."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4Ur0n2ZzZlFT_nEg9a-lfLGwY0b3IfUksCgCvjLDcDeo8_L86OL",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. price $39.00 Sale price $39.00 Regular "
+      },
+      {
+       "position": 2,
+       "title": "The Compression Ball: Golf Swing Training Aid",
+       "link": "https://www.golftrainingaids.com/products/the-compression-ball?srsltid=AU7gw4XapVVt1cXymnmVlzhc8JmCK24SqIcct-pbiqPf6BQhQQNzLk57",
+       "domain": "golftrainingaids.com",
+       "kind": "store / brand",
+       "snippet": "The Compression Ball helps golfers feel the connection between their arms and body so they can train a more repeatable swing. Use it to improve structure, ..."
+      },
+      {
+       "position": 4,
+       "title": "Golf Training Ball",
+       "link": "https://www.amazon.com/golf-training-ball/s?k=golf+training+ball",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Golf training balls improve swing consistency and arm connection. Lightweight foam construction with portable designs for all skill levels."
+      },
+      {
+       "position": 5,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4VQy7VDlRwUKP1FxI9oyxX73jGguSiVWrs-84L_CV7A8VtvHap4",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "The TRS Ball is a tour-proven training aid designed to improve arm connection and swing consistency. By physically linking the arms to the body, it prevents ..."
+      }
+     ],
+     "paa": [
+      "Does the ball swing trainer work?",
+      "What is the best golf trainer ball?",
+      "Is the forgeway ball legal?",
+      "Does the TRS slider actually work?"
+     ],
+     "popular_products": [
+      {
+       "title": "Tour Striker Smart Ball",
+       "price": "$39.00",
+       "source": "Tour Striker"
+      },
+      {
+       "title": "Maxfli Weighted Swing Trainer",
+       "price": "$34.99",
+       "source": "DICK'S Sporting Goods"
+      },
+      {
+       "title": "Impact Ball Golf Swing Trainer Aid",
+       "price": "$39.99",
+       "source": "The Impact Ball"
+      },
+      {
+       "title": "TRS Training Ball Golf Swing Connection Aid Maintains Arm St",
+       "price": "$70.00",
+       "source": "TRS Golf"
+      },
+      {
+       "title": "The Compression Ball",
+       "price": "$49.99",
+       "source": "Golf Training Aids"
+      },
+      {
+       "title": "Izzo Flatball Golf Swing Training Aid",
+       "price": "$7.99",
+       "source": "Izzo Golf"
+      },
+      {
+       "title": "Yamani Golf QuickMaster Connect Ball II Swing Trainer",
+       "price": "$28.00",
+       "source": "wafuu.com"
+      },
+      {
+       "title": "swing trainer ball",
+       "price": "$107.19",
+       "source": "Golf-Parts"
+      },
+      {
+       "title": "Golf Training Ball Smart Ball Golf Training Aid Inflatable S",
+       "price": "$17.63",
+       "source": "Walmart - KDHSTore"
+      },
+      {
+       "title": "Cusprtm Golf Training Aid Ball for Impact Precision & Consis",
+       "price": "$12.00",
+       "source": "Fleurs Wurtz"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A golf swing ball trainer is a portable training aid placed between your forearms or under your arms to synchronize your arms and body, improve ball-striking consistency, and prevent common flaws like a \"flying elbow\" or \"chicken wing\". If you'd like, let me know: I can recommend the best drill or setup for your practice routine.",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "perspectives",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in the US: tourstriker.com (store / brand). In the product strip: DICK'S Sporting Goods, Fleurs Wurtz, Golf Training Aids, Golf-Parts, Izzo Golf. Amazon here is busy."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "IMPACT BALL GOLF TRAINING AID",
+       "link": "https://uk.rickshiels.com/products/impact-ball-golf-training-aid?srsltid=AU7gw4U0IuBsJDFrSZqF3MfqCkT0HqtZubaYzyOYsUZFi8nTp8xifuD_",
+       "domain": "uk.rickshiels.com",
+       "kind": "store / brand",
+       "snippet": "The Impact Ball Trainer helps you increase distance, square the club face, and hit it pure with every swing! It encourages proper timing of the hands, wrists, ."
+      },
+      {
+       "position": 2,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/en-gb/products/smart-ball?srsltid=AU7gw4VFTAk_RYPWZBuYHrLBkAi6dx96NSDhF4ueXdJc10WE8RZrqjlj",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. price $39.00 Sale price $39.00 Regular "
+      },
+      {
+       "position": 3,
+       "title": "Amazon.co.uk: Golf Smart Ball",
+       "link": "https://www.amazon.co.uk/golf-smart-ball/s?k=golf+smart+ball",
+       "domain": "amazon.co.uk",
+       "kind": "marketplace",
+       "snippet": "Find smart golf balls that help develop proper swing mechanics and arm alignment. Ideal for consistent practice at home or the range. £15 to £20"
+      },
+      {
+       "position": 5,
+       "title": "Impact Ball Golf Training Aid",
+       "link": "https://www.golfswingsystems.co.uk/product/impact-ball/",
+       "domain": "golfswingsystems.co.uk",
+       "kind": "store / brand",
+       "snippet": "The Impact Ball Trainer provides a feeling to Increase Distance, Square the Club Face, and HIT IT PURE every time. Keep the hands, wrists and body in timing ..."
+      },
+      {
+       "position": 7,
+       "title": "Buy Golf Training Aids - Fast Delivery",
+       "link": "https://www.affordablegolf.co.uk/collections/golf-accessories-equipment-practice-aids",
+       "domain": "affordablegolf.co.uk",
+       "kind": "store / brand",
+       "snippet": "Find golf training aids to up your game with Affordable Golf. Practice mats, alignment sticks, practice balls, short clubs & more."
+      }
+     ],
+     "paa": [
+      "Does the ball swing trainer work?",
+      "What is a good golf swing practice ball?",
+      "Does the TRS slider actually work?",
+      "Are golf swing trainers any good?"
+     ],
+     "popular_products": [
+      {
+       "title": "Golf Swing Trainer Smart Ball Training Aid, Posture Correcti",
+       "price": "£9.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Tour Striker Smart Ball Golf Training Aid",
+       "price": "£46.38",
+       "source": "Amazon.co.uk"
+      },
+      {
+       "title": "CHAPTER 29 Impact Ball - Golf Swing Trainer Aid - Large & Sm",
+       "price": "£39.38",
+       "source": "Amazon.co.uk"
+      },
+      {
+       "title": "Fridgestea Golf Swing Trainer 3-Height Swing Training Aid fo",
+       "price": "£12.00",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Slazenger Air Practice Golf Balls",
+       "price": "£2.00",
+       "source": "Sports Direct UK"
+      },
+      {
+       "title": "FINGER TEN Golf Swing Trainer Ball 1 Pack, Effective Golf Tr",
+       "price": "£22.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Golf Swing Trainer Ball Golf Swing Training Aid Golf Swing P",
+       "price": "£9.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Oramge Golf Swing Training Aid,Golf Swing Trainer for Postur",
+       "price": "£34.99",
+       "source": "B&Q"
+      },
+      {
+       "title": "Quixion Golf Swing Trainer Ball, Golf Training Aids, Golf Sw",
+       "price": "£26.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "TRS Ball",
+       "price": "£39.95",
+       "source": "Golf Swing Systems"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A golf swing ball trainer (often called a smart ball or impact ball) is a training aid designed to keep your arms, forearms, and chest connected throughout your swing. See how the inflatable smart ball helps synchronize arm movement and prevent the chicken wing during a swing: If you'd like help choosing the right tool, let me know:",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the UK: uk.rickshiels.com (store / brand). In the product strip: Amazon.co.uk, Amazon.co.uk - Amazon.co.uk-Seller, B&Q, Golf Swing Systems, Sports Direct UK. Amazon here is quiet."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/en-ca/products/smart-ball?srsltid=AU7gw4U6UpJihwUwaGOAmSHk9v9V6P8jORJ2ZyWq4KWtQfrtoIQxn2Wl",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. price $39.00 Sale price $39.00 Regular "
+      },
+      {
+       "position": 3,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.amazon.ca/tour-striker-smart-ball/s?k=tour+striker+smart+ball",
+       "domain": "amazon.ca",
+       "kind": "marketplace",
+       "snippet": "Develop proper posture and body synchronization for consistent swings. Shop inflatable and foam designs with various features for your practice needs."
+      },
+      {
+       "position": 4,
+       "title": "Swing Aids",
+       "link": "https://www.golftown.com/en-CA/accessories/training-aids-and-fitness/swing-aids/",
+       "domain": "golftown.com",
+       "kind": "store / brand",
+       "snippet": "Shop the latest Swing Aids from top brands. Swing Trainer Arm Band $9.99 0.0. Two-Toned Foam Practice Balls $14.99"
+      },
+      {
+       "position": 6,
+       "title": "TRAINING AIDS - PGM Golf",
+       "link": "https://pgmgolf.ca/collections/frontpage",
+       "domain": "pgmgolf.ca",
+       "kind": "store / brand",
+       "snippet": "Swing Trainer Folding Correction Practitioner. Regular price $31.00. Regular price $35.00 Sale price $31.00. Unit price / per. Add to cart Sold out."
+      },
+      {
+       "position": 8,
+       "title": "The Compression Ball: Golf Swing Training Aid",
+       "link": "https://www.golftrainingaids.com/en-ca/products/the-compression-ball?srsltid=AU7gw4XoS8rMWDxPanZYj_qZm-CZr0_cCqX3LjcqA22bugjb7ExxEDJa",
+       "domain": "golftrainingaids.com",
+       "kind": "store / brand",
+       "snippet": "The Compression Ball helps train better arm-body connection, cleaner contact, and improved swing control. Use it at home, on the range, or before a round to ..."
+      }
+     ],
+     "paa": [
+      "Does the ball swing trainer work?",
+      "How to use a golf swing trainer ball?",
+      "Does the TRS slider actually work?",
+      "What is a good swing trainer for golf?"
+     ],
+     "popular_products": [
+      {
+       "title": "Tour Striker Smart Ball Golf Swing Training Aid",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Dutchman Golf Swing Trainer Ball | Golf Swing Trainer Profes",
+       "price": null,
+       "source": "Walmart.ca"
+      },
+      {
+       "title": "FINGER TEN Golf Swing Trainer Impact Ball with Adjustable Tr",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Golf Swing Trainer Ball for Impact Precision & Consistent Sw",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Armastuse Golf Swing Motion Correction Training Aid Se,Golf ",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Yunir The Connector Golf Training Aid, Golf Swing Trainer fo",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Golf Swing Trainer Ball Training Aid Correct Practice Smart ",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Dha Golf Training Ball Smart Ball Golf Training Aid Inflatab",
+       "price": null,
+       "source": "Walmart.ca"
+      },
+      {
+       "title": "Golf Swing Training Aid Inflatable Ball Smart Posture Correc",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Golf Smart Ball Swing Training Aid, 5.91 Inch Black Inflatab",
+       "price": null,
+       "source": "Amazon CA"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A golf swing ball trainer—most notably the inflatable smart ball or arm-connection ball—is a popular training aid designed to keep your arms, chest, and body synchronized throughout your swing. If you'd like to narrow down your options, tell me:",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: tourstriker.com (store / brand). In the product strip: Amazon, Amazon CA, Walmart.ca. Amazon here is quiet."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Bessere Ballkontakte mit dem Tour Striker Ball",
+       "link": "https://golfstun.de/ballkontakte-tour-striker-ball/",
+       "domain": "golfstun.de",
+       "kind": "store / brand",
+       "snippet": "Das richtige Gefühl für die richtige Bewegung der Arme (und das Vermeiden von »Chicken Wings«) kannst Du mit dem »Tour Striker Ball« trainieren."
+      },
+      {
+       "position": 2,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4VeSKiAIRTxBMmpBSbtTVrhPgevLlK4Lo8rRHX5pAwD55Ae5-u3",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing ... Swing Trainer (compare to PlaneMate)"
+      },
+      {
+       "position": 3,
+       "title": "Trainingsball - Golfübungsgeräte / Golf: Sport & Freizeit",
+       "link": "https://www.amazon.de/trainingsball-Golf%C3%BCbungsger%C3%A4te-Golf/s?k=trainingsball&rh=n%3A235480011",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Golf-Trainingsball, intelligenter Ball, Golf-Trainingshilfe, aufblasbarer Schwung-Trainingsball mit Inflatorpumpe und verstellbarem Umhängeband, ..."
+      },
+      {
+       "position": 5,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4VxSEVDvMuMtIGQnn4BL_J7kYMKpTFgLXOD4zgBAMr3I0n8a0mQ",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "The TRS Ball is a tour-proven training aid designed to improve arm connection and swing consistency. By physically linking the arms to the body, it prevents ..."
+      },
+      {
+       "position": 6,
+       "title": "Trainingshilfen: Die besten Tools 2026 im Test",
+       "link": "https://www.golfmagazin.de/training/tipps-und-tricks/trainingshilfen-beim-golf-die-besten-tools-zur-verbesserung-des-spiels/",
+       "domain": "golfmagazin.de",
+       "kind": "store / brand",
+       "snippet": "Golf Swing Trainer Ball ... Der Balltrainer wird zwischen den Unterarmen fixiert und verbessert die Verbindung von Armen und Körper. Viele Spieler ..."
+      }
+     ],
+     "paa": [
+      "Wann darf kein provisorischer Ball gespielt werden?",
+      "Ist ein Golf-Schwungtrainer sinnvoll?",
+      "Was besagt Regel 9.4b im Golf?",
+      "Was passiert, wenn man den Ball beim Probeschwung berührt?"
+     ],
+     "popular_products": [
+      {
+       "title": "Tour Striker Smart Ball",
+       "price": "58,49 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Longridge Putt trainingsball",
+       "price": "21,34 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Raw Speed Golf",
+       "price": "174,59 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Rhythm Click Sound Teleskop Warm Up Golf Swing Trainer",
+       "price": "16,99 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Pure2Improve In/Outdoor Swing Trainer",
+       "price": "93,51 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Amazon Basics Golfschwungtrainer",
+       "price": "32,71 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "SKLZ Gold Flex",
+       "price": "49,95 €",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Longridge Swing Groover",
+       "price": "36,38 €",
+       "source": "Vergleichsportale"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in Germany: golfstun.de (store / brand). In the product strip: Vergleichsportale. Amazon here is quiet."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Golf Training Aids",
+       "link": "https://www.golfwarehouse.nz/collections/golf-training-aids?srsltid=AU7gw4VZsPKHW9opht_zzlmq_N5TOrUHSj3f3tuqfCFPTKo8hK5Lgqv6",
+       "domain": "golfwarehouse.nz",
+       "kind": "store / brand",
+       "snippet": "Boost your swing speed and power with the Click Stick Speed Trainer. Regular price $79.99"
+      },
+      {
+       "position": 2,
+       "title": "Golf Training Aids | Putting Mats, Practice Balls & More",
+       "link": "https://golfhq.co.nz/collections/training-aids?srsltid=AU7gw4Ud15OVPs1U3SN_F4J29mpOd6VQybtA8MxAt5EwbQMb96kyivV-",
+       "domain": "golfhq.co.nz",
+       "kind": "store / brand",
+       "snippet": "From practice balls to swing trainers and putting mats, these aids support better practice at home or on the range. Filter."
+      },
+      {
+       "position": 4,
+       "title": "Best Golf Training Aids 2026: 9 Top Picks Tested And ...",
+       "link": "https://www.golfmonthly.com/best-golf-deals/best-golf-training-aids-137815",
+       "domain": "golfmonthly.com",
+       "kind": "article",
+       "snippet": "Hitting the ball longer and straighter makes golf a whole lot easier, and the GFORCE Driver Swing Trainer is among the best golf training aids ..."
+      },
+      {
+       "position": 5,
+       "title": "Golf Training Ball",
+       "link": "https://www.amazon.com/golf-training-ball/s?k=golf+training+ball",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Golf training balls improve swing consistency and arm connection. Lightweight foam construction with portable designs for all skill levels."
+      },
+      {
+       "position": 7,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4XONcUXNPlrZOvqmF5SXxloNfyklYOiYHBOhVHtsuccfH_2QXrA",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. price $39.00 Sale price $39.00 Regular "
+      }
+     ],
+     "paa": [
+      "Does the golf training ball really work?",
+      "How to use a golf swing trainer ball?",
+      "What is the best golf trainer ball?",
+      "Do swing trainers actually work for golf?"
+     ],
+     "popular_products": [
+      {
+       "title": "TRS Ball The Golf Training Aid to Help Master Proper Swing M",
+       "price": "$110.00",
+       "source": "TRS Golf"
+      },
+      {
+       "title": "SKLZ Golf Pure Path Swing Trainer",
+       "price": "$84.99",
+       "source": "Rebel Sport"
+      },
+      {
+       "title": "Tour Striker Smart Ball Golf Training Aid Sports Free Shippi",
+       "price": "$107.00",
+       "source": "Fishpond.co.nz"
+      },
+      {
+       "title": "Golf Swing Trainer Inflatable Smart Ball Training Aid for Be",
+       "price": "$45.41",
+       "source": "MightyApe.co.nz"
+      },
+      {
+       "title": "Callaway HX Soft Practice Golf Balls",
+       "price": "$14.99",
+       "source": "The Warehouse"
+      },
+      {
+       "title": "Golf Smart Training Ball – Inflatable Swing Trainer Aid with",
+       "price": "$18.08",
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Inflatable Golf Impact Ball Golf Swing Trainer Aid Pratice P",
+       "price": "$28.53",
+       "source": "Dick Smith NZ"
+      },
+      {
+       "title": "THE Golfer Store Smart Ball Golf Training Aid Golf Swing Tra",
+       "price": "$38.10",
+       "source": "Amazon AU"
+      },
+      {
+       "title": "Golf Swing Training Aid Inflatable Ball Smart Posture Correc",
+       "price": "$34.48",
+       "source": "MightyApe.co.nz"
+      },
+      {
+       "title": "PGA Tour 24 Air Flow Practice Golf Balls",
+       "price": "$16.90",
+       "source": "The Clubroom"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: golfwarehouse.nz (store / brand). In the product strip: Amazon AU, Amazon AU - Amazon.com.au-Seller, Dick Smith NZ, Fishpond.co.nz, MightyApe.co.nz. Amazon here is quiet."
+    },
+    {
+     "cc": "nl",
+     "label": "Netherlands",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_nl_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Golf Swing Trainer Ball - Smart Ball - Training Aid voor golfswing",
+       "link": "https://www.bol.com/nl/nl/p/golf-swing-trainer-ball-golftrainingsmateriaal-golf-spullen-verbeter-uw-golfswing/9300000169350222/",
+       "domain": "bol.com",
+       "kind": "big chain",
+       "snippet": "Deze slimme bal is momenteel een van de beste trainingshulpmiddelen op de markt en kan worden gebruikt om uw swinghouding te begrijpen en te verbeteren. Door .."
+      },
+      {
+       "position": 2,
+       "title": "Golf Swing Trainer Ball | Trainingsmateriaal",
+       "link": "https://golf-spullen.nl/products/golf-swing-trainer-ball?srsltid=AU7gw4V5pBZG2YzOdsybljgnYTx4sjq0KH392VbjPGHv4sBMqqvgUlyK",
+       "domain": "golf-spullen.nl",
+       "kind": "store / brand",
+       "snippet": "Train je swing met deze slimme trainerbal. Versterk je spiergeheugen en verbeter je houding. Gratis verzending bij Golf-Spullen.nl."
+      },
+      {
+       "position": 4,
+       "title": "Golf Training Ball",
+       "link": "https://www.amazon.com/golf-training-ball/s?k=golf+training+ball",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Golf training balls improve swing consistency and arm connection. Lightweight foam construction with portable designs for all skill levels."
+      },
+      {
+       "position": 5,
+       "title": "Best Golf Training Aids 2026: 9 Top Picks Tested And ...",
+       "link": "https://www.golfmonthly.com/best-golf-deals/best-golf-training-aids-137815",
+       "domain": "golfmonthly.com",
+       "kind": "article",
+       "snippet": "Hitting the ball longer and straighter makes golf a whole lot easier, and the GFORCE Driver Swing Trainer is among the best golf training aids ..."
+      },
+      {
+       "position": 6,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4WXJEiSMCfEX7aZI1AYeCsiditWbMmR1fpSlJsmx0uyd6w6kVrv",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "By physically linking the arms to the body, it prevents separation during the swing and trains the correct structure needed for repeatable, on-plane movement."
+      }
+     ],
+     "paa": [
+      "Welke oefeningen kan ik doen om mijn golfswing te trainen?",
+      "Hoe moeten de voeten staan bij een golf swing?",
+      "Hoe lang duurt het voordat een beginner goed kan golfen?",
+      "Welke spieren train je met golfen?"
+     ],
+     "popular_products": [
+      {
+       "title": "ProSENDR Connection Sphere",
+       "price": "€ 95,00",
+       "source": "Vergelijkingssites"
+      },
+      {
+       "title": "Izzo Tru Spin Foam Practice Balls",
+       "price": "€ 16,06",
+       "source": "Vergelijkingssites"
+      },
+      {
+       "title": "Izzo Golf Sure Stance Trainer",
+       "price": "€ 10,70",
+       "source": "Vergelijkingssites"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the Netherlands: bol.com (big chain). In the product strip: Vergelijkingssites. Amazon here is crowded."
+    },
+    {
+     "cc": "fr",
+     "label": "France",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_fr_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Connection Ball Swing Trainer",
+       "link": "https://www.golfathome.com/outils-pedagogiques/1390-impact-ball-swing-trainer.html",
+       "domain": "golfathome.com",
+       "kind": "store / brand",
+       "snippet": "Placée entre vos avant-bras, la Connection Ball vous aide à maintenir le bon écart entre vos bras tout au long du swing. En corrigeant le défaut ..."
+      },
+      {
+       "position": 2,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4ULBy9S3r9ac4OG6XsWmFiOgxYHKpfT1DSozYZCKzx0gZ6s8799",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. Now YOU can be one of the few who ..."
+      },
+      {
+       "position": 4,
+       "title": "Golf Swing Trainer Ball, Golf Training Aids ...",
+       "link": "https://www.amazon.fr/Trainer-Training-Corrector-Corrective-Wristband/dp/B0D49JG4TP",
+       "domain": "amazon.fr",
+       "kind": "marketplace",
+       "snippet": "Enhanced Precision Training: Elevate your golf performance with our precision trainer ball, engineered for focused swing exercises that hone your accuracy."
+      },
+      {
+       "position": 5,
+       "title": "Impact Ball Golf Training Aid",
+       "link": "https://www.golfswingsystems.co.uk/product/impact-ball/",
+       "domain": "golfswingsystems.co.uk",
+       "kind": "store / brand",
+       "snippet": "Innovative training aid that provides instant feedback on swing path and impact position. Helps develop consistent ball striking and improved contact ..."
+      },
+      {
+       "position": 6,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4WwaES-V1t9TUssSxXYvzrKfGXghp_AkouSaHE7-WsBGIzNlY8g",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "The TRS Ball fixes arm-body disconnection in the golf swing. It helps prevent the arms from moving independently of the body, which is a common cause of ..."
+      }
+     ],
+     "paa": [
+      "Quelle est la vitesse de swing idéale pour les seniors au golf ?",
+      "Quel est le meilleur analyseur de swing de golf ?",
+      "Quels sont les accessoires d'entraînement pour le swing golf ?",
+      "Comment améliorer sa vitesse de swing au golf ?"
+     ],
+     "popular_products": [
+      {
+       "title": "Pure2Improve Entraîneur de Swing de golf Pure 2 Improve",
+       "price": "64,36 €",
+       "source": "Comparateurs"
+      },
+      {
+       "title": "SKLZ Entraineur de Swing Shallow Shot",
+       "price": "57,90 €",
+       "source": "Comparateurs"
+      },
+      {
+       "title": "Entraîneur de Swing réglable Pure2Improve",
+       "price": "91,38 €",
+       "source": "Comparateurs"
+      },
+      {
+       "title": "Me and My Golf - The Ball Striker",
+       "price": "34,09 €",
+       "source": "Comparateurs"
+      },
+      {
+       "title": "Matériel D'entraînement Sklz Pure Path",
+       "price": "44,81 €",
+       "source": "Comparateurs"
+      },
+      {
+       "title": "Entraînement du swing Longridge swing Groover",
+       "price": "41,50 €",
+       "source": "Comparateurs"
+      },
+      {
+       "title": "Costway Entraîneur pour Swing de Golf Bâton d'Entraînement p",
+       "price": "31,99 €",
+       "source": "Comparateurs"
+      },
+      {
+       "title": "Entraîneur de swing Rawspeed Golf",
+       "price": "176,30 €",
+       "source": "Comparateurs"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in France: golfathome.com (store / brand). In the product strip: Comparateurs. Amazon here is quiet."
+    },
+    {
+     "cc": "es",
+     "label": "Spain",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_es_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Smart Ball Golf Golf Swing Trainer Aid Practice Balls ...",
+       "link": "https://www.amazon.es/Trainer-Practice-Ajustable-Asistencia-Entrenamiento/dp/B0BTGLN7D2",
+       "domain": "amazon.es",
+       "kind": "marketplace",
+       "snippet": "Es una buena herramienta de entrenamiento para que los entusiastas del golf y el alumno mejoren su rendimiento de swing a través de la formación repetida de ..."
+      },
+      {
+       "position": 4,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4WMkm0c5UylMKh8xJuETPjvciYSSs6p9wVIy-GS9Nahn2Vs5l6A",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "The TRS Ball is a tour-proven training aid designed to improve arm connection and swing consistency. By physically linking the arms to the body, it prevents ..."
+      },
+      {
+       "position": 5,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4UTKzI8OOI32XKm0-t3gtqNDclvQ38DNX4EhcyPIE6GdYFMdA1w",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. Now YOU can be one of the few who ..."
+      },
+      {
+       "position": 6,
+       "title": "The Compression Ball: Golf Swing Training Aid",
+       "link": "https://www.golftrainingaids.com/products/the-compression-ball?srsltid=AU7gw4UBGl9X8_oUpC1WHehr7rMbbyzcKEctHcwn6VLJ70qGPa7cMC7n",
+       "domain": "golftrainingaids.com",
+       "kind": "store / brand",
+       "snippet": "The Compression Ball helps train better arm-body connection, cleaner contact, and improved swing control. Use it at home, on the range, or before a round to ..."
+      }
+     ],
+     "paa": [],
+     "popular_products": [
+      {
+       "title": "Amazon Basics Entrenador de Swing de Golf",
+       "price": "35,14 €",
+       "source": "Sitios de comparación"
+      },
+      {
+       "title": "Entrenamiento de Swing Swing Plate",
+       "price": "98,55 €",
+       "source": "Sitios de comparación"
+      },
+      {
+       "title": "Izzo Tru Spin Foam Practice Balls",
+       "price": "16,06 €",
+       "source": "Sitios de comparación"
+      },
+      {
+       "title": "Izzo Golf Sure Stance Trainer",
+       "price": "10,70 €",
+       "source": "Sitios de comparación"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "organic_results",
+      "filters",
+      "related_searches"
+     ],
+     "takeaway": "First result in Spain: amazon.es (marketplace). In the product strip: Sitios de comparación. Amazon here is quiet."
+    },
+    {
+     "cc": "it",
+     "label": "Italy",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_it_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Golf Training Ball",
+       "link": "https://www.amazon.com/golf-training-ball/s?k=golf+training+ball",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Golf training balls improve swing consistency and arm connection. Lightweight foam construction with portable designs for all skill levels."
+      },
+      {
+       "position": 2,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4VMMiJ6eHe4Tidy_tGSxauIYO4FbiysujJ-RfXIzwBKIWGretMb",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. Now YOU can be one of the few who ..."
+      },
+      {
+       "position": 3,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4VWxnYEEPomTCR5Z6QPnXPNzlLP5ylgcgML3__lPy9LkVSEUGiU",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "The TRS Ball is a tour-proven training aid designed to improve arm connection and swing consistency. By physically linking the arms to the body, it prevents ..."
+      },
+      {
+       "position": 4,
+       "title": "Swing Ball | Confronta prezzi",
+       "link": "https://www.trovaprezzi.it/prezzo_golf_swing_ball.aspx",
+       "domain": "trovaprezzi.it",
+       "kind": "store / brand",
+       "snippet": "Confronta 76 offerte per Swing Ball a partire da 6,48 €."
+      },
+      {
+       "position": 5,
+       "title": "The Compression Ball: Golf Swing Training Aid",
+       "link": "https://www.golftrainingaids.com/products/the-compression-ball?srsltid=AU7gw4WCHwH9jjDTC__7yYVykLYS8-DtW51kJ72k4xiFa_s5mFH1KLxD",
+       "domain": "golftrainingaids.com",
+       "kind": "store / brand",
+       "snippet": "The Compression Ball helps train better arm-body connection, cleaner contact, and improved swing control. Use it at home, on the range, or before a round to ..."
+      }
+     ],
+     "paa": [
+      "Qual è il movimento corretto per lo swing nel golf?",
+      "A cosa serve il pitch nel golf?",
+      "Qual è il grip corretto per il bastone da golf?",
+      "Come tirare bene a golf?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "short_videos",
+      "related_questions",
+      "organic_results",
+      "filters"
+     ],
+     "takeaway": "First result in Italy: amazon.com (marketplace). Amazon here is quiet."
+    },
+    {
+     "cc": "be",
+     "label": "Belgium",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_be_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Home - Ball",
+       "link": "https://www.ball.com/",
+       "domain": "ball.com",
+       "kind": "store / brand",
+       "snippet": "Ball Corporation is the world's leading provider of innovative, sustainable aluminum packaging for beverage, personal care and household products, ..."
+      },
+      {
+       "position": 2,
+       "title": "Dyson Big Ball™ Absolute 2 sledestofzuiger",
+       "link": "https://www.dyson.be/nl_be/stofzuigers/slede/big-ball/absolute-2",
+       "domain": "dyson.be",
+       "kind": "store / brand",
+       "snippet": "De Dyson Big Ball stofzuiger zet zichzelf weer rechtop zodat je probleemloos kunt schoonmaken. Vandaag besteld, volgende dag geleverd*. current price: €349,00."
+      },
+      {
+       "position": 3,
+       "title": "Z900RS Black Ball Edition | 2026 - Kawasaki",
+       "link": "https://www.kawasaki.be/nl_be/Motorcycles/Retro_Sport/Z900RS_Black_Ball_Edition_2026.html",
+       "domain": "kawasaki.be",
+       "kind": "store / brand",
+       "snippet": "Als Black Ball Edition is de Z900RS uitgevoerd in een diepzwarte kleurstelling met vele bijpassende zwarte onderdelen. Dit is meer dan een machine; dit is de .."
+      },
+      {
+       "position": 5,
+       "title": "Productie Specialist Functiedetails",
+       "link": "https://jobs.ball.com/corp_packaging/job/Genk-Productie-Specialist-3600/1371714400/",
+       "domain": "jobs.ball.com",
+       "kind": "store / brand",
+       "snippet": "Bijdragen aan training en onboarding van nieuwe technici, deelt kennis met minder ervaren operators en helpt bij het versterken van de capaciteiten van het team"
+      },
+      {
+       "position": 6,
+       "title": "Alexander (10): 'Ik heb zelf een leuke game gemaakt",
+       "link": "https://www.bruzz.be/actua/jongeren/alexander-10-ik-heb-zelf-een-leuke-game-gemaakt-zombie-ball-2024-05-04",
+       "domain": "bruzz.be",
+       "kind": "store / brand",
+       "snippet": "Alexander (10): 'Ik heb zelf een leuke game gemaakt: Zombie ball' · Jij hebt ooit iets bijzonders gevonden in je slaapkamer. · Wow! · Ik zie een ..."
+      }
+     ],
+     "paa": [],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in Belgium: ball.com (store / brand). Amazon here is busy."
+    },
+    {
+     "cc": "at",
+     "label": "Austria",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_at_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4Vyp0ncX8gnxeE13wHQlpcpjuo5HBTCjRmhHWHHZCgusvCyCnYL",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. Now YOU can be one of the few who ..."
+      },
+      {
+       "position": 2,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4UPV3ga3vznLFM5SGjcRh2dHbFMwapzHZfEcek2B2x4WXKJEG3X",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "The TRS Ball is a tour-proven training aid designed to improve arm connection and swing consistency. By physically linking the arms to the body, it prevents ..."
+      },
+      {
+       "position": 3,
+       "title": "Golf Training Ball",
+       "link": "https://www.amazon.com/golf-training-ball/s?k=golf+training+ball",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Golf training balls improve swing consistency and arm connection. Lightweight foam construction with portable designs for all skill levels."
+      },
+      {
+       "position": 5,
+       "title": "Trainingshilfen: Die besten Tools 2026 im Test",
+       "link": "https://www.golfmagazin.de/training/tipps-und-tricks/trainingshilfen-beim-golf-die-besten-tools-zur-verbesserung-des-spiels/",
+       "domain": "golfmagazin.de",
+       "kind": "store / brand",
+       "snippet": "Golf Swing Trainer Ball ... Der Balltrainer wird zwischen den Unterarmen fixiert und verbessert die Verbindung von Armen und Körper. Viele Spieler ..."
+      },
+      {
+       "position": 7,
+       "title": "The Compression Ball: Golf Swing Training Aid",
+       "link": "https://www.golftrainingaids.com/products/the-compression-ball?srsltid=AU7gw4WSTuVkBkfqwkvwUkZx44HtgbLKRsVBVFhMqLBx7Fg-0IurU_GW",
+       "domain": "golftrainingaids.com",
+       "kind": "store / brand",
+       "snippet": "The Compression Ball helps train better arm-body connection, cleaner contact, and improved swing control. Use it at home, on the range, or before a round to ..."
+      }
+     ],
+     "paa": [
+      "Wie heißt der Ball beim Golf?",
+      "Was kostet ein Golfball?",
+      "Wie treffe ich den Ball beim Golf?",
+      "Wie schlage ich einen Golfball?"
+     ],
+     "popular_products": [
+      {
+       "title": "Golftrainer mit verstellbaren Riemen und opblaßbarem Ball fü",
+       "price": "€ 46,95",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Pure2Improve In/Outdoor Swing Trainer",
+       "price": "€ 94,99",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "SKLZ Gold Flex Training Club",
+       "price": "€ 73,58",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Izzo Golf Sure Stance Trainer",
+       "price": "€ 10,70",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "TriSpeed Golf Swing Trainer",
+       "price": "€ 179,47",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Longridge Swing Groover",
+       "price": "€ 41,99",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "Pure2improve Swing Speed Trainer",
+       "price": "€ 55,00",
+       "source": "Vergleichsportale"
+      },
+      {
+       "title": "SKLZ Gold Flex Training Club",
+       "price": "€ 50,36",
+       "source": "Vergleichsportale"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in Austria: tourstriker.com (store / brand). In the product strip: Vergleichsportale. Amazon here is quiet."
+    },
+    {
+     "cc": "se",
+     "label": "Sweden",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_se_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Golf Impact Ball, Golf Smart Ball Trainer, Golf Swing ...",
+       "link": "https://www.amazon.se/-/en/Practice-Assistance-Correction-Supplies-Accessories/dp/B08RNJZWFM",
+       "domain": "amazon.se",
+       "kind": "marketplace",
+       "snippet": "When swing, use the Smart Ball to fix the shoulders and arms triangles to maintain the stability of the entire pivot plane, build a good swing system, and ..."
+      },
+      {
+       "position": 2,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4UWFqacc3hbMXozAR9uYOwAc_yW87ei_-9HwPpnZm9HiztHQHkD",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. Now YOU can be one of the few who ..."
+      },
+      {
+       "position": 3,
+       "title": "Best Golf Training Aids 2026: 9 Top Picks Tested And ...",
+       "link": "https://www.golfmonthly.com/best-golf-deals/best-golf-training-aids-137815",
+       "domain": "golfmonthly.com",
+       "kind": "article",
+       "snippet": "Hitting the ball longer and straighter makes golf a whole lot easier, and the GFORCE Driver Swing Trainer is among the best golf training aids ..."
+      },
+      {
+       "position": 5,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4Unav-ZbX7WqmMAi9qZWmLNhm3sQNV1cRsNWi_bGsWbrI-eUPA_",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "The TRS Ball is a tour-proven training aid designed to improve arm connection and swing consistency. By physically linking the arms to the body, it prevents ..."
+      },
+      {
+       "position": 6,
+       "title": "Swing trainer golf – Hitta bästa priset",
+       "link": "https://www.prisjakt.nu/s/swing-trainer-golf/",
+       "domain": "prisjakt.nu",
+       "kind": "store / brand",
+       "snippet": "GForce 7 Iron Golf Swing Trainer (Right Hand) Superflexibelt axelträningshjälp för tempo, rytm, övergång, tidtagning + USGA-godkänd. Mest avancerade ..."
+      }
+     ],
+     "paa": [
+      "Does the ball swing trainer work?",
+      "How to use a golf swing trainer ball?",
+      "What is a good golf swing practice ball?",
+      "Does the TRS slider actually work?"
+     ],
+     "popular_products": [
+      {
+       "title": "EyeLine Golf Speed Trap 2.0",
+       "price": "1 270,00 kr",
+       "source": "Jämförelsewebbplatser"
+      },
+      {
+       "title": "Callaway Sväng lätt",
+       "price": "217,02 kr",
+       "source": "Jämförelsewebbplatser"
+      },
+      {
+       "title": "Golf Swing Trainer Adjustable High Elastic Strap PVC Golf Po",
+       "price": "118,26 kr",
+       "source": "Jämförelsewebbplatser"
+      },
+      {
+       "title": "Izzo Tru Spin Foam Practice Balls",
+       "price": "136,89 kr",
+       "source": "Jämförelsewebbplatser"
+      },
+      {
+       "title": "EyeLine Golf Speed Trap Build Confidence, Improve Your Swing",
+       "price": "1 015,00 kr",
+       "source": "Jämförelsewebbplatser"
+      },
+      {
+       "title": "Izzo Golf Flatball öva bollar",
+       "price": "142,08 kr",
+       "source": "Jämförelsewebbplatser"
+      },
+      {
+       "title": "Fly Rope Driving Ball Rope Ball Fly Swing Training Practice ",
+       "price": "155,79 kr",
+       "source": "Jämförelsewebbplatser"
+      },
+      {
+       "title": "EyeLine Golf Check Point Swing Laser",
+       "price": "1 268,00 kr",
+       "source": "Jämförelsewebbplatser"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in Sweden: amazon.se (marketplace). In the product strip: Jämförelsewebbplatser. Amazon here is quiet."
+    },
+    {
+     "cc": "pl",
+     "label": "Poland",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_pl_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Training Golf Ball - Niska cena na ...",
+       "link": "https://allegro.pl/listing?string=training%20golf%20ball&srsltid=AU7gw4UgYKgryHkm6IgpR-7v-NKRKBLk1mON1caFDBvLCihq-_dP0epG",
+       "domain": "allegro.pl",
+       "kind": "marketplace",
+       "snippet": "Training Golf Ball Zróżnicowany zbiór ofert, najlepsze ceny i promocje. Wejdź i znajdź to, czego szukasz!"
+      },
+      {
+       "position": 2,
+       "title": "Golf Training Ball",
+       "link": "https://www.amazon.com/golf-training-ball/s?k=golf+training+ball",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Golf training balls improve swing consistency and arm connection. Lightweight foam construction with portable designs for all skill levels."
+      },
+      {
+       "position": 4,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4XglExkcwfSh9nqtbfXZQpvgt-Jh9yP3fbcvoSzcXwtQAjf7LgY",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing ... Swing Trainer (compare to PlaneMate)"
+      },
+      {
+       "position": 5,
+       "title": "The Compression Ball: Golf Swing Training Aid",
+       "link": "https://www.golftrainingaids.com/products/the-compression-ball?srsltid=AU7gw4U1g-b7kKpPVRGRFC-RyDtLe1nqmXHT_5UPk546rnnNAffg6BCB",
+       "domain": "golftrainingaids.com",
+       "kind": "store / brand",
+       "snippet": "The Compression Ball helps train better arm-body connection, cleaner contact, and improved swing control. Use it at home, on the range, or before a round to ..."
+      },
+      {
+       "position": 6,
+       "title": "TRS Ball - Training Aid designed by golf professionals",
+       "link": "https://trsgolf.com/products/trs-ball?srsltid=AU7gw4UeQEtixxZjCzcaZ1p2U1dfXHaqoJIcKiq-lM7tfKQggOYW12wn",
+       "domain": "trsgolf.com",
+       "kind": "store / brand",
+       "snippet": "By physically linking the arms to the body, it prevents separation during the swing and trains the correct structure needed for repeatable, on-plane movement."
+      }
+     ],
+     "paa": [],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_images",
+      "inline_videos",
+      "short_videos",
+      "organic_results",
+      "filters",
+      "related_searches"
+     ],
+     "takeaway": "First result in Poland: allegro.pl (marketplace). Amazon here is busy."
+    },
+    {
+     "cc": "ie",
+     "label": "Ireland",
+     "query": "golf swing trainer ball",
+     "image": "asis/purestrike_ie_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "The Connector Training Aid Review",
+       "link": "https://mygolfspy.com/we-tried-it/the-connector-training-aid-review/",
+       "domain": "mygolfspy.com",
+       "kind": "store / brand",
+       "snippet": "A soft memory-foam wedge-shaped training aid designed to improve putting, chipping, pitching and full swings. maximizes precision, ball flight ..."
+      },
+      {
+       "position": 2,
+       "title": "Tour Striker Smart Ball",
+       "link": "https://www.tourstriker.com/products/smart-ball?srsltid=AU7gw4XwDg5EGKVYVizBJ3IwilKZNYoR_VEtDzoS32lgz7Hbo7L92jCd",
+       "domain": "tourstriker.com",
+       "kind": "store / brand",
+       "snippet": "The Tour Striker Smart Ball will help you understand how the arms and body work together during an effective golf swing. price $39.00 Sale price $39.00 Regular "
+      },
+      {
+       "position": 3,
+       "title": "Best Golf Training Aids 2026: 9 Top Picks Tested And ...",
+       "link": "https://www.golfmonthly.com/best-golf-deals/best-golf-training-aids-137815",
+       "domain": "golfmonthly.com",
+       "kind": "article",
+       "snippet": "Hitting the ball longer and straighter makes golf a whole lot easier, and the GFORCE Driver Swing Trainer is among the best golf training aids ..."
+      },
+      {
+       "position": 4,
+       "title": "Golf Swing Trainers",
+       "link": "https://www.amazon.ie/Golf-Swing-Trainers/s?k=Golf+Swing+Trainers",
+       "domain": "amazon.ie",
+       "kind": "marketplace",
+       "snippet": "Golf Swing Trainer to Improve Swing and Warm Up, 122. Improve Swing Speed, Fine Adjust Strength. Smart Ball for Golf Swing Trainer,"
+      },
+      {
+       "position": 6,
+       "title": "Golf Training Aids | Puttout, Skilz, Pure 2 Improve & ...",
+       "link": "https://www.halpennygolf.com/en/Golf-Training-Aids/c-331.aspx?srsltid=AU7gw4UkAYmpYPhVa3fCtjqVXHfhQA4iDNPLZCPXMpkG6AF761aqp0gh",
+       "domain": "halpennygolf.com",
+       "kind": "store / brand",
+       "snippet": "Halpenny Golf stock the widest range of Golf Training Aids from brands such as Puttout, Skilz, Pure 2 Improve, Masters."
+      }
+     ],
+     "paa": [
+      "Does the ball swing trainer work?",
+      "How to use a golf swing trainer ball?",
+      "What is a good golf swing practice ball?",
+      "Does the TRS slider actually work?"
+     ],
+     "popular_products": [
+      {
+       "title": "Golf Swing Trainer Inflatable Smart Ball",
+       "price": "€39.99",
+       "source": "Comparison sites"
+      },
+      {
+       "title": "Masters Swing Speed Trainer",
+       "price": "€55.95",
+       "source": "Comparison sites"
+      },
+      {
+       "title": "Izzo Flatball Swing Training Aid",
+       "price": "€12.70",
+       "source": "Comparison sites"
+      },
+      {
+       "title": "Golf Swing Trainer Adjustable High Elastic Strap PVC Golf Po",
+       "price": "€22.84",
+       "source": "Comparison sites"
+      },
+      {
+       "title": "Speed Toad Golf Swing Speed Training Aid",
+       "price": "€147.67",
+       "source": "Comparison sites"
+      },
+      {
+       "title": "Masters Warm-Up Swing & Grip Trainer",
+       "price": "€24.99",
+       "source": "Comparison sites"
+      },
+      {
+       "title": "Club Champ Swing Groover",
+       "price": "€13.25",
+       "source": "Comparison sites"
+      },
+      {
+       "title": "Fly Rope Driving Ball Rope Ball Fly Swing Training Practice ",
+       "price": "€11.86",
+       "source": "Comparison sites"
+      }
+     ],
+     "ads_on_top": [
+      "Best Golf Swing Trainer Ball",
+      "Best Golf Swing Trainer Ball - Amazon.ie"
+     ],
+     "ai_overview": "",
+     "blocks": [
+      "ads",
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "organic_results",
+      "filters",
+      "related_searches"
+     ],
+     "takeaway": "First result in Ireland: mygolfspy.com (store / brand). In the product strip: Comparison sites. Amazon here is quiet."
+    }
+   ],
+   "compare": {
+    "match_name": "Amazon France (€21)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same inflatable fabric arm ball, sold in green, black and blue, with or without a neck strap.",
+    "brand_image": "purestrike/img_2.jpg",
+    "match_image": "lens/purestrike_thumb_15.jpg"
    }
   },
   {
@@ -32453,6 +37203,7 @@
   "hair-cream",
   "toilet-kit",
   "neck-cream",
+  "purestrike",
   "lola-kit",
   "knee-sleeve",
   "paw-wash",

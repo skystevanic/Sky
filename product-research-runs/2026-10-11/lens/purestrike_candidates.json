@@ -1,0 +1,2840 @@
+{
+ "slug": "purestrike",
+ "image_url": "https://cdn.shopify.com/s/files/1/0643/9331/4415/files/THE_PURESTRIKE_-_Product_Images_1_1.gif?v=1790168527",
+ "brand_domain": "purestrikegolfco.com",
+ "matches_per_country": {
+  "au": 60,
+  "us": 60,
+  "uk": 60,
+  "ca": 60,
+  "de": 60,
+  "nz": 60,
+  "nl": 60,
+  "fr": 60,
+  "es": 60,
+  "it": 60,
+  "be": 60,
+  "at": 60,
+  "se": 60,
+  "pl": 60,
+  "ie": 60
+ },
+ "candidates": [
+  {
+   "source": "Dick Smith",
+   "title": "Buy Golf Smart Ball Inflatable Swing Training Balls Posture ...",
+   "link": "https://www.dicksmith.com.au/da/buy/wlw-golf-smart-ball-inflatable-swing-training-balls-posture-motion-correction-aids-ytaz09s633511/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDHKQaW5duuOZP7Yr1YZr84biQP_jjWaeZ-BUACia5HzpQoJXn",
+   "price_text": "A$26*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$26*"
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 0,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_00.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "ZYNERY Golf Swing Training Aid, Foam Training Ball for Swing ...",
+   "link": "https://www.amazon.co.uk/ZYNERY-Training-Mechanics-Structure-Correction/dp/B0GLF5KW5H?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2QSQSCBCZMN67",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9ZmOGTscAg0ajFszREWLJKFmCnyAXLgnwlsrZbvNm_cyTX9Ru",
+   "price_text": "£25*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£25*"
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 1,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_01.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "The Connector Golf Training Aid, Golf Swing Trainer for ...",
+   "link": "https://www.amazon.com.au/Golf-Training-Aid-Swing-Correction/dp/B0FVKS25PQ",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOZPlKyC52DbuVlM16sKrDar6BDsuKwjPYxbQLj6nzn82MTar7",
+   "price_text": "A$140*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$140*"
+    },
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 2,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_02.jpg"
+  },
+  {
+   "source": "Fnac",
+   "title": "1X Gonflable Visite Striker Intelligente Balle de Golf Aide à la ...",
+   "link": "https://www.fnac.com/mp41419500/1X-Gonflable-Visite-Striker-Intelligente-Balle-de-Golf-Aide-a-la-Formation-Pour-les-Debutants-Instructeur-QLYD008/w-4",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7_xW1A0XQ5g5Kh8CtiCxV6Du3LMrTj5aLxe5S1LtHi3SilPt",
+   "price_text": "€25*",
+   "seen_in": {
+    "fr": {
+     "kind": "big chain",
+     "price_text": "€25*"
+    },
+    "be": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 3,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_03.jpg"
+  },
+  {
+   "source": "Dick Smith",
+   "title": "Buy AU Inflatable Tour Striker Smart Ball Golf Swing ...",
+   "link": "https://www.dicksmith.com.au/da/buy/virodeals-au-inflatable-tour-striker-smart-ball-golf-swing-training-aid-posture-correction-325117454293/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RK3P40hT5ohw-szvpBzTEKjq_gsZIXWC-0SsmX0A5nOSBdcD",
+   "price_text": "A$34*",
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": "A$34*"
+    }
+   },
+   "priced": true,
+   "n": 4,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_04.jpg"
+  },
+  {
+   "source": "Rebel",
+   "title": "Terrasphere Tennis Trainer | Rebel Sport",
+   "link": "https://www.rebelsport.com.au/p/terrasphere-tennis-trainer-581342.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWXksLybIdp3CYqmnqdJeYCcS-FUTFRKEATaxtnpKuN-Hm8BUy",
+   "price_text": "A$15*",
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": "A$15*"
+    }
+   },
+   "priced": true,
+   "n": 5,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_05.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Portable Tour Striker Smart Ball Golf Swing Training ...",
+   "link": "https://www.ebay.com/itm/186029165427",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3hCLkDWlx3qX3_W-TQ4-SQ24-SeBD8ipdX5V2rd139J9ePM5",
+   "price_text": "$12*",
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": "$12*"
+    }
+   },
+   "priced": true,
+   "n": 6,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_06.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "MUMPPRCE The Connector Golf Training Aid, Golf Swing Trainer ...",
+   "link": "https://www.amazon.co.uk/MUMPPRCE-Golf-Training-Aid-Swing/dp/B0FVKS25PQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfOFE914klDWiaHsxx1WOWbeYC7O6t6RxILVdynXJD0IALf7g",
+   "price_text": "£71*",
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": "£71*"
+    }
+   },
+   "priced": true,
+   "n": 7,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_07.jpg"
+  },
+  {
+   "source": "Sports Direct",
+   "title": "Sports Directory | Indoor Rubber Shot | Sports Direct",
+   "link": "https://www.sportsdirect.com/sports-directory-indoor-rubber-shot-857515",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIwEYAsdmgfXaCxG0mo3331yyjHI4hafJrSSeaC579jEUwIAhq",
+   "price_text": "£17*",
+   "seen_in": {
+    "uk": {
+     "kind": "big chain",
+     "price_text": "£17*"
+    }
+   },
+   "priced": true,
+   "n": 8,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_08.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Park & Sun Sports® 3-Piece Steel Deluxe Tetherball Set ...",
+   "link": "https://www.walmart.ca/en/ip/Park-Sun-Sports-3-Piece-Steel-Deluxe-Tetherball-Set/10251124",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCjuwonLCFIeVRsuhx8vlvY0jTTSOMwm4Qf7DV9BtWZpDVij95",
+   "price_text": "CA$100*",
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$100*"
+    }
+   },
+   "priced": true,
+   "n": 9,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_09.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "The Patented Tour Striker Smart Ball, Swing Trainers ...",
+   "link": "https://www.amazon.ca/Tour-Striker-Smart-Ball/dp/B00II5RSR2",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3-nt6PwMCVJP-X-Vyo9T_qmkhdGmUYeQ4eXWydUH1KVUDpQvC",
+   "price_text": "CA$66*",
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": "CA$66*"
+    }
+   },
+   "priced": true,
+   "n": 10,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_10.jpg"
+  },
+  {
+   "source": "www.decathlon.ca",
+   "title": "Turnball Slow tetherball ball | Decathlon",
+   "link": "https://www.decathlon.ca/en/p/turnball-slow-tetherball-ball/3582/c22m8030841",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWQ4he8YzqdV5s2lPiOx7pQ-osXiW376uciNh3dv5U-Nj9vSe",
+   "price_text": "CA$6*",
+   "seen_in": {
+    "ca": {
+     "kind": "big chain",
+     "price_text": "CA$6*"
+    }
+   },
+   "priced": true,
+   "n": 11,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_11.jpg"
+  },
+  {
+   "source": "The Warehouse",
+   "title": "Slazenger Tennis Trainer Practice Rebound Balls Back Base ...",
+   "link": "https://www.thewarehouse.co.nz/p/slazenger-tennis-trainer-practice-rebound-balls-back-base-sport-exercise-green/M15746146.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCl83OArtnkWRpMOFwAI197sLwOby9aHyWm7Yl1deK9O_4umnR",
+   "price_text": "NZ$31*",
+   "seen_in": {
+    "nz": {
+     "kind": "big chain",
+     "price_text": "NZ$31*"
+    }
+   },
+   "priced": true,
+   "n": 12,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_12.jpg"
+  },
+  {
+   "source": "Decathlon",
+   "title": "Volleybalset 6m - Met palen, net, bal en pomp | Decathlon",
+   "link": "https://www.decathlon.nl/p/mp/volleybalset-6m-met-palen-net-bal-en-pomp/f24d2cab-d8e4-41fa-bce6-f82f2e6e85e4/c22c1c4",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSarmY0lSJg8mNhtTfMI7sVO8fDGCDCyK5-FiQTmgiER6RZTBC",
+   "price_text": "€38*",
+   "seen_in": {
+    "nl": {
+     "kind": "big chain",
+     "price_text": "€38*"
+    }
+   },
+   "priced": true,
+   "n": 13,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_13.jpg"
+  },
+  {
+   "source": "Decathlon",
+   "title": "Premium Wall Ball - Fitness | Decathlon",
+   "link": "https://www.decathlon.nl/p/mp/premium-wall-ball-fitness/4e3d03d8-d0e6-4f90-8f51-55d67289fdaa/c1",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvhZ_3JpLbJjxQCykUJZa9i5LYAZhM7TZ2WqK-MpzFLGNCp7A",
+   "price_text": "€58*",
+   "seen_in": {
+    "nl": {
+     "kind": "big chain",
+     "price_text": "€58*"
+    }
+   },
+   "priced": true,
+   "n": 14,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_14.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Omquot Balle de Correction de Posture Durable pour ...",
+   "link": "https://www.amazon.fr/Omquot-Correction-Accessoires-Dentraînement-Confortable/dp/B0H37V2YGM",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8D5HsHeqR5EdxvfCoLbyDR1djtjeV16YIn0NyH3ow0jbgZszs",
+   "price_text": "€21*",
+   "seen_in": {
+    "fr": {
+     "kind": "marketplace",
+     "price_text": "€21*"
+    }
+   },
+   "priced": true,
+   "n": 15,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_15.jpg"
+  },
+  {
+   "source": "Decathlon",
+   "title": "Wall Ball Balón Medicinal 3kg Fitness Tech | Decathlon",
+   "link": "https://www.decathlon.es/es/p/mp/wall-ball-fitness-tech/ddfd6ad6-e6a2-43ca-90fe-42ff76b06f7d/c1",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ0RXJB3ukie88XWqoI44BPJ1Uh4B2ZrzZdTOqWwg_AThFe0kc",
+   "price_text": "€43*",
+   "seen_in": {
+    "es": {
+     "kind": "big chain",
+     "price_text": "€43*"
+    }
+   },
+   "priced": true,
+   "n": 16,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_16.jpg"
+  },
+  {
+   "source": "Decathlon",
+   "title": "Pelota de pilates - Pilates - 20 cm - Verde Alpine | Decathlon",
+   "link": "https://www.decathlon.es/es/p/mp/pelota-de-pilates-pilates-20-cm-verde-alpine/8a2d001e-92bd-4349-a7c6-02d9218f910b/c37c11",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoPI--8z7YjAkglIuc7omUQJDtv7XmFG7Gzi9YUyupEE5pvzUA",
+   "price_text": "€8*",
+   "seen_in": {
+    "es": {
+     "kind": "big chain",
+     "price_text": "€8*"
+    }
+   },
+   "priced": true,
+   "n": 17,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_17.jpg"
+  },
+  {
+   "source": "Amazon.it",
+   "title": "Impact Ball,Golf Smart Ball Trainer,Golf Swing Aiuto ...",
+   "link": "https://www.amazon.it/DAUERHAFT-Allenatore-gonfiabili-Correzione-Allenamento/dp/B08RNJZWFM",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfwjdATeBj5gjs_7oSW8yNuSt-HivFmDMp27hWAFIBpYtFByxz",
+   "price_text": "€27*",
+   "seen_in": {
+    "it": {
+     "kind": "marketplace",
+     "price_text": "€27*"
+    }
+   },
+   "priced": true,
+   "n": 18,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_18.jpg"
+  },
+  {
+   "source": "Amazon.se",
+   "title": "Golf Impact Ball, Golf Smart Ball Trainer, Golf Swing ...",
+   "link": "https://www.amazon.se/Practice-Assistance-Correction-lättanvänt-träningstillbehör/dp/B08RNJZWFM",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfwjdATeBj5gjs_7oSW8yNuSt-HivFmDMp27hWAFIBpYtFByxz",
+   "price_text": "SEK 180*",
+   "seen_in": {
+    "se": {
+     "kind": "marketplace",
+     "price_text": "SEK 180*"
+    }
+   },
+   "priced": true,
+   "n": 19,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_19.jpg"
+  },
+  {
+   "source": "Amazon.se",
+   "title": "Golf Swing Träningshjälp Bärbar Uppblåsbar Tour Striker ...",
+   "link": "https://www.amazon.se/Träningshjälp-Uppblåsbar-Striker-Hållningskorrigering-Nybörjare/dp/B0BTGPN28G",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAEgkPWXzayjWjWlRLjr1206GOo7zp4UysyQFFa6epPUym-n_k",
+   "price_text": "SEK 252*",
+   "seen_in": {
+    "se": {
+     "kind": "marketplace",
+     "price_text": "SEK 252*"
+    }
+   },
+   "priced": true,
+   "n": 20,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_20.jpg"
+  },
+  {
+   "source": "Amazon.pl",
+   "title": "Golf Impact Ball, Golf Smart Ball Trainer, Golf Swing ...",
+   "link": "https://www.amazon.pl/Practice-Assistance-Materialy-akcesoria-treningowe/dp/B08RNJZWFM",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfwjdATeBj5gjs_7oSW8yNuSt-HivFmDMp27hWAFIBpYtFByxz",
+   "price_text": "PLN 39*",
+   "seen_in": {
+    "pl": {
+     "kind": "marketplace",
+     "price_text": "PLN 39*"
+    }
+   },
+   "priced": true,
+   "n": 21,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_21.jpg"
+  },
+  {
+   "source": "Amazon.ie",
+   "title": "KAWFLYQA The Connector Golf Training Aid, Swing Trainer for ...",
+   "link": "https://www.amazon.ie/KAWFLYQA-Connector-Correction-Mechanics-Structure/dp/B0FWWGSFC8",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaY8QzdDb-dgSt9yqRDJOAb2LDL4RE2jNro4Lu7kBogOzbpJAn",
+   "price_text": "€58*",
+   "seen_in": {
+    "ie": {
+     "kind": "marketplace",
+     "price_text": "€58*"
+    }
+   },
+   "priced": true,
+   "n": 22,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_22.jpg"
+  },
+  {
+   "source": "www.decathlon.ie",
+   "title": "Premium Wall Ball - Fitness - Decathlon",
+   "link": "https://www.decathlon.ie/p/1100044890-10054054-premium-wall-ball-fitness.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjeQvcZPLsIR35CxcAyhGo8ZR8qET-rQeWY_WMw7SjwUEqs0wR",
+   "price_text": "€49*",
+   "seen_in": {
+    "ie": {
+     "kind": "big chain",
+     "price_text": "€49*"
+    }
+   },
+   "priced": true,
+   "n": 23,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_23.jpg"
+  },
+  {
+   "source": "www.decathlon.ie",
+   "title": "Turnball Speedball Fast Ball - Yellow Rubber - Decathlon",
+   "link": "https://www.decathlon.ie/p/13609-182608-turnball-speedball-fast-ball-yellow-rubber.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQankt1pahq5375tQ7rzdtm0eFUpaa0w_mxEyI1itDEpoEY_b1b",
+   "price_text": "€5*",
+   "seen_in": {
+    "ie": {
+     "kind": "big chain",
+     "price_text": "€5*"
+    }
+   },
+   "priced": true,
+   "n": 24,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_24.jpg"
+  },
+  {
+   "source": "TruePutts",
+   "title": "TruePutts Swing Ball Trainer",
+   "link": "https://trueputts.com/products/trueputts-swing-ball-trainer",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoeO3HdauuQJ4MTn7wAPxUGSSGakySqYdanQgtI9rjpo7jZLWx",
+   "price_text": "A$51*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$51*"
+    },
+    "us": {
+     "kind": "other store",
+     "price_text": "$36*"
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": "£29*"
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": "€35*"
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$65*"
+    },
+    "nl": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "es": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "it": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "be": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "at": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "se": {
+     "kind": "other store",
+     "price_text": "SEK 386*"
+    },
+    "pl": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 25,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_25.jpg"
+  },
+  {
+   "source": "Training Nets",
+   "title": "Micro 2\" Weighted Training Balls | Choose from 3.5, 5.5 oz ...",
+   "link": "https://www.trainingnets.com/products/powernet-micro-2-weighted-training-balls-6-pack-you-choose-from-4-weights-3-5-5-5-7-5-9-5-oz-enhance-hand-eye-coordination-undersized-golf-ball-size-improve-technique-and-form",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP0Zl3WKUwAqbdlYZ3sEZr8ssFfVPo2a8P_vOK_wShMibatUY_",
+   "price_text": "$30*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$30*"
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "es": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "it": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "be": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "se": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 26,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_26.jpg"
+  },
+  {
+   "source": "Western Star Wholesale",
+   "title": "Limited Availability - Tetherball (5 Pack) - Assorted Colors ...",
+   "link": "https://westernstarwholesale.com/products/clearance-tetherball-5-pack-assorted-colors-with-pump-4-49-each",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr0B53rn7y6VCMU7MLCC4A7Pp_RX_f_VkPdu32BWTO991uNYjQ",
+   "price_text": "$17*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$17*"
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "es": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "it": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "be": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "se": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 27,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_27.jpg"
+  },
+  {
+   "source": "Wright Equipment",
+   "title": "WRIGHT Medicine Balls - Wright Equipment",
+   "link": "https://wrightequipment.com/product/wright-medicine-balls/",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRInkdYHq6DaMkqSb5Kol_JNfeqrKDTdInaDVmXL49mW5fbMSld",
+   "price_text": "$76*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$76*"
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "es": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "it": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "se": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 28,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_28.jpg"
+  },
+  {
+   "source": "PlayGoSports.com",
+   "title": "Pure Strike Golf Training Discs, 24-Pk | GoSports ...",
+   "link": "https://www.playgosports.com/products/gosports-golf-pure-strike-golf-training-discs-24-pack-eliminate-thin-shots",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRArjtYlAP0vxpIzyRIMWTkPSwrlajBvFUPMbbBAiJF7LMVOSBJ",
+   "price_text": "$10*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$10*"
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "it": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "at": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 29,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_29.jpg"
+  },
+  {
+   "source": "STIGA US",
+   "title": "STIGA Pure Color Advance 2-Player Set - Includes Two Rackets ...",
+   "link": "https://www.stigaus.com/products/stiga-pure-color-advance-two-player-set",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj76Tb8cGsLhKupjodSTUtr7IzKZQj7rgKPY2OrXVClI6hhCvi",
+   "price_text": "$50*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$50*"
+    },
+    "nl": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "it": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 30,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_30.jpg"
+  },
+  {
+   "source": "The OT Store",
+   "title": "HART Sport Weighted Exercise Balls — The OT Store",
+   "link": "https://theotstore.com.au/products/weighted-balls",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmyNiG6tGcwpMahBW43lyfLvyY02YpvRWtDJFzku1ZlllytEaD",
+   "price_text": "A$25*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$25*"
+    },
+    "be": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 31,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_31.jpg"
+  },
+  {
+   "source": "Pure Swing Products",
+   "title": "The Compression Ball: Golf Swing Training Aid – Pure Swing ...",
+   "link": "https://pureswingproducts.com/products/the-compression-ball-golf-swing-training-aid",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToOTzx9qKBaNxBqHKMiUfkPgtuMm8GYa7mf3YAp32-9qj2J3QJ",
+   "price_text": "$50*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$50*"
+    },
+    "ca": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 32,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_32.jpg"
+  },
+  {
+   "source": "Best Gym Equipment",
+   "title": "Merrithew Toning Ball — Best Gym Equipment",
+   "link": "https://bestgymequipment.co.uk/products/merrithew-toning-ball",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7oPqiIaN3J2K8iHvmAOGQ-dStbBzxPKiNoRyaRZIUDirldYJU",
+   "price_text": "£17*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£17*"
+    },
+    "fr": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 33,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_33.jpg"
+  },
+  {
+   "source": "The OT Store",
+   "title": "HART Sport Weighted Exercise Balls — The OT Store",
+   "link": "https://theotstore.co.nz/products/weighted-balls",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmyNiG6tGcwpMahBW43lyfLvyY02YpvRWtDJFzku1ZlllytEaD",
+   "price_text": "NZ$35*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$35*"
+    },
+    "se": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 34,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_34.jpg"
+  },
+  {
+   "source": "Flex Fitness Equipment",
+   "title": "Armortech Performance Wall Ball (KG)",
+   "link": "https://flexequipment.com.au/products/armortech-performance-wall-ball-kg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GkGOqUzs43pNOHQrJZ_syCvbBm5Ai_05ULQt57mjCXDBZyan",
+   "price_text": "A$65*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$65*"
+    }
+   },
+   "priced": true,
+   "n": 35,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_35.jpg"
+  },
+  {
+   "source": "Net World Sports",
+   "title": "FORZA Aussie Rules Training Football | Net World Sports",
+   "link": "https://www.networldsports.com.au/forza-torpedo-training-afl-ball.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3FytGXVxxJqBQhw7LZ6scH6ZdQ0KV-bCqvI8re4oADJBCr10U",
+   "price_text": "A$75*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$75*"
+    }
+   },
+   "priced": true,
+   "n": 36,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_36.jpg"
+  },
+  {
+   "source": "SportsPower Australia",
+   "title": "TRNR Gym Ball 55cm – SportsPower Australia",
+   "link": "https://www.sportspower.com.au/products/trnr-gym-ball-55cm",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSymwbI2MWP8JRrqyBjVKFOiBJeSLjqWXHK7GgS0Z8dtImNojf3",
+   "price_text": "A$55*",
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": "A$55*"
+    }
+   },
+   "priced": true,
+   "n": 37,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_37.jpg"
+  },
+  {
+   "source": "CountryMax",
+   "title": "Spot Tether Ball with Rope Dog Toy",
+   "link": "https://www.countrymax.com/spot-tether-ball-with-rope-dog-toy/",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtQVPiHe_XyeCzIvcT0OiDH58DVsc7P4PIUePwvXk3W8Dp04k0",
+   "price_text": "$20*",
+   "seen_in": {
+    "us": {
+     "kind": "not a shop",
+     "price_text": "$20*"
+    }
+   },
+   "priced": true,
+   "n": 38,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_38.jpg"
+  },
+  {
+   "source": "SuperStroke",
+   "title": "Swing Training Aid",
+   "link": "https://superstrokeusa.com/products/alignment-stick-swing-training-aid",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsSkpBUcDJuTce3NtQkhDnSK0Z6-9vqeFQUS7Am-VDSWnorb6Z",
+   "price_text": "$60*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$60*"
+    }
+   },
+   "priced": true,
+   "n": 39,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_39.jpg"
+  },
+  {
+   "source": "Golf Training Aids",
+   "title": "Golf Strike Plate | Order the Striker 3000 Golf Compression ...",
+   "link": "https://www.golftrainingaids.com/products/striker-3000",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOUhxLTWDo9oBMTMrU-fNtCrZ1bKXGKqUJvHH5upehh2o0gvx6",
+   "price_text": "$40*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$40*"
+    }
+   },
+   "priced": true,
+   "n": 40,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_40.jpg"
+  },
+  {
+   "source": "Sharper Image",
+   "title": "Golf Swing and Hitting Trainer | At-Home Golf Practice ...",
+   "link": "https://sharperimage.com/products/golf-swing-and-hitting-trainer",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkvB51Ocm6cTwhP8F19ZS0dTzs2oldPQn2uB_oelg4wMi0JXWe",
+   "price_text": "$80*",
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": "$80*"
+    }
+   },
+   "priced": true,
+   "n": 41,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_41.jpg"
+  },
+  {
+   "source": "Gray-Nicolls",
+   "title": "PowerPlay Plastic Green Ball",
+   "link": "https://www.gray-nicolls.co.uk/products/powerplay-plastic-green-ball",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2lVrA8KxdRVwwCL22VkU1sVciLH5mPfahTLioHMgWcJkb8WMj",
+   "price_text": "£6*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£6*"
+    }
+   },
+   "priced": true,
+   "n": 42,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_42.jpg"
+  },
+  {
+   "source": "Rival Strength",
+   "title": "Rival Medicine Wall Balls – Rival Strength",
+   "link": "https://www.rivalstrength.co.uk/products/rival-strength-medicine-wall-balls",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15R7SbtCRQff9VlbcBmxrrGfwl3qPbZLgzqvCzQu35NGSCK90",
+   "price_text": "£25*",
+   "seen_in": {
+    "uk": {
+     "kind": "other store",
+     "price_text": "£25*"
+    }
+   },
+   "priced": true,
+   "n": 43,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_43.jpg"
+  },
+  {
+   "source": "Sportdirect.ca",
+   "title": "Ballon Omnikin Prevention ITCA – Sportdirect.ca",
+   "link": "https://www.sportdirect.ca/products/ballon-omnikin-prevention-itca",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdCOAdrspWzRY2V-YEeEtKsO9q_eW_kncEanWzBQl-MVjBHYXM",
+   "price_text": "CA$572*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$572*"
+    }
+   },
+   "priced": true,
+   "n": 44,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_44.jpg"
+  },
+  {
+   "source": "Canada Mats",
+   "title": "Tetherball – Canada Mats",
+   "link": "https://canadamats.ca/products/tetherball",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUmICzkDnkI0quXc07xZiNWcAwfrAbC3y3eJx2SaOG61jLLQVn",
+   "price_text": "CA$63*",
+   "seen_in": {
+    "ca": {
+     "kind": "other store",
+     "price_text": "CA$63*"
+    }
+   },
+   "priced": true,
+   "n": 45,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_45.jpg"
+  },
+  {
+   "source": "Shop Apotheke",
+   "title": "Matchu Sports - Medizinball 1/2/3/4/5 kg - Fitnessball ...",
+   "link": "https://www.shop-apotheke.com/fitness/upm7C4H9P/matchu-sports-medizinball.htm",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUl91tXhs0xHKiwtIDqBWguKXjIFTtuBBgWWEFHneAlKSSr2IV",
+   "price_text": "€27*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€27*"
+    }
+   },
+   "priced": true,
+   "n": 46,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_46.jpg"
+  },
+  {
+   "source": "Sport-Tec",
+   "title": "Sport-Tec Wall-Ball Robusta, 35 cm, 9 kg - jetzt kaufen ...",
+   "link": "https://www.sport-tec.de/sport-tec-wall-ball-robusta-35-cm-9-kg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZABPdsxMuRgjNeks-MAhV__bFLmz10OAOrLupGL0i8d_HV66",
+   "price_text": "€70*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€70*"
+    }
+   },
+   "priced": true,
+   "n": 47,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_47.jpg"
+  },
+  {
+   "source": "Fitness Tech",
+   "title": "Wall Ball FT | Crossfit- und Hyrox-Ball | Fitness Tech",
+   "link": "https://www.fitnesstechstore.de/products/wall-ball-de",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0kbodvGBdrwoFNFIRSEpp0VkCBjpFvc5k5fn1QJG36IBq7xhF",
+   "price_text": "€46*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€46*"
+    }
+   },
+   "priced": true,
+   "n": 48,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_48.jpg"
+  },
+  {
+   "source": "BamBall",
+   "title": "Roundnet Bälle kaufen - mit Trainingsball - Anfänger - BamBall®",
+   "link": "https://bamball.de/products/bamball-extra-trainings-spielball-pack",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRofuZJOof7qqNFZBCRbZcwg_hHZpz-N5lG05tyK2jljLMGJVaG",
+   "price_text": "€19*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€19*"
+    }
+   },
+   "priced": true,
+   "n": 49,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_49.jpg"
+  },
+  {
+   "source": "SPORTLÄDCHEN",
+   "title": "Original Pezzi® Compact Medizinball – Griffiger Gewichtball ...",
+   "link": "https://www.sportlaedchen.de/Original-Pezzi-Compact-Medizinball-Griffiger-Gewichtball-mit-Wasserfuellung/PZ1046061U15/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkm18BFzE1yd0DOY3_XDVS1htaTEOegLOjB3Xreh-kx-CN9I6I",
+   "price_text": "€40*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€40*"
+    }
+   },
+   "priced": true,
+   "n": 50,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_50.jpg"
+  },
+  {
+   "source": "Sport-Thieme",
+   "title": "Sport-Thieme Übungsstoßkugel-Set „KidsAthletics“ kaufen ...",
+   "link": "https://www.sport-thieme.de/Leichtathletik/Werfen-Stoßen/Kugelstoßen/art=3970805",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTqZ6Lt7BEZ_Lt77mA2svuRZ5i7xajdsoij4q7UCijMSBlc9q5",
+   "price_text": "€60*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€60*"
+    }
+   },
+   "priced": true,
+   "n": 51,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_51.jpg"
+  },
+  {
+   "source": "Fitshop.de",
+   "title": "Taurus Medizinball kaufen mit 11 Kundenbewertungen - Fitshop",
+   "link": "https://www.fitshop.de/taurus-medizinball-tf-mdb01-1",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRNjhIzbIKXrG0PZXFNcDXhbq7Fs8n4AtNuSBKvDBNXsULeuTk",
+   "price_text": "€25*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€25*"
+    }
+   },
+   "priced": true,
+   "n": 52,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_52.jpg"
+  },
+  {
+   "source": "togu.de",
+   "title": "Glocken Medizinball - Qualität und Leistung | TOGU Shop",
+   "link": "https://www.togu.de/glocken-medizinball/424050",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSVfo2PEVb9XviU6qGPmOgkQDEKZfxXUnBpjSP_3GTkykF8R_A",
+   "price_text": "€108*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€108*"
+    }
+   },
+   "priced": true,
+   "n": 53,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_53.jpg"
+  },
+  {
+   "source": "Sport-Thieme",
+   "title": "Sport-Thieme Medizinball „Gym“ kaufen - Sport-Thieme",
+   "link": "https://www.sport-thieme.de/Bälle/Medizinbälle/art=2954716",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCWa-pbHekM_kS1Ev06whmB04wlI_AC_K1LJCW8WPo1EvC_UPy",
+   "price_text": "€86*",
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": "€86*"
+    }
+   },
+   "priced": true,
+   "n": 54,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_54.jpg"
+  },
+  {
+   "source": "Elite Fitness NZ",
+   "title": "Medicine Wall Ball | Elite Fitness NZ",
+   "link": "https://www.elitefitness.co.nz/products/medicine-wall-ball",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVOC8C3J8HTc94NAj05ImfyEzP6Am0jQaMgKZmhGwBbR9MCmFC",
+   "price_text": "NZ$150*",
+   "seen_in": {
+    "nz": {
+     "kind": "other store",
+     "price_text": "NZ$150*"
+    }
+   },
+   "priced": true,
+   "n": 55,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_55.jpg"
+  },
+  {
+   "source": "Bol",
+   "title": "Golf Swing Trainer Ball - Smart Ball - Training Aid voor ...",
+   "link": "https://www.bol.com/nl/nl/p/golf-swing-trainer-ball-golftrainingsmateriaal-golf-spullen-verbeter-uw-golfswing/9300000169350222/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5kvVhK6kjTjrMx8iPWNtFq0TXFMYrnnlNIFKJghZRr2Gdre7X",
+   "price_text": "€33*",
+   "seen_in": {
+    "nl": {
+     "kind": "other store",
+     "price_text": "€33*"
+    }
+   },
+   "priced": true,
+   "n": 56,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_56.jpg"
+  },
+  {
+   "source": "Golf123.nl",
+   "title": "Pure4Golf Golf Swing Trainer kopen? Golf123.nl",
+   "link": "https://www.golf123.nl/pure4golf-golf-swing-trainer.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkewzRE5mJXTXzEaQnAKIN4AS4Yh4O9xGIYI4W2KH9feGzuU9n",
+   "price_text": "€70*",
+   "seen_in": {
+    "nl": {
+     "kind": "other store",
+     "price_text": "€70*"
+    }
+   },
+   "priced": true,
+   "n": 57,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_57.jpg"
+  },
+  {
+   "source": "Fitness Tech",
+   "title": "Wall Ball FT | Crossfit- en Hyrox-bal | Fitness Tech",
+   "link": "https://www.fitnesstech.nl/products/wall-ball-nl",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQn5AYwBRw6iAR8xm9tq1kvQ6m6QgoxEeDhCiOclY410OXG3j9",
+   "price_text": "€66*",
+   "seen_in": {
+    "nl": {
+     "kind": "other store",
+     "price_text": "€66*"
+    }
+   },
+   "priced": true,
+   "n": 58,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_58.jpg"
+  },
+  {
+   "source": "Espace Golf",
+   "title": "Balles de golf Softspikes alignment tool | Espace Golf",
+   "link": "https://espace-golf.fr/ts6400004-balles-de-golf-softspikes-alignment-tool-vert-tu",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1VAV5sPJ0yPhYo9XgLn4ZTdpWkc27k8PNaU9JmYYb8n2gtH2d",
+   "price_text": "€10*",
+   "seen_in": {
+    "fr": {
+     "kind": "other store",
+     "price_text": "€10*"
+    }
+   },
+   "priced": true,
+   "n": 59,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_59.jpg"
+  },
+  {
+   "source": "Horslimits - balles de golf",
+   "title": "Tapis d'impact 52X23 CM",
+   "link": "https://www.horslimits.com/products/tapis-dentrainement-impact-52x23-cm",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIUt4LG4aKhBFXfdKVLx5XcbTv0SLptFlYcmNMC6T8oEPY7zGg",
+   "price_text": "€34*",
+   "seen_in": {
+    "fr": {
+     "kind": "other store",
+     "price_text": "€34*"
+    }
+   },
+   "priced": true,
+   "n": 60,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_60.jpg"
+  },
+  {
+   "source": "Horslimits - balles de golf",
+   "title": "Swing Trainer Intérieur/Extérieur - PURE 2 Improve",
+   "link": "https://www.horslimits.com/products/swing-trainer-interieur-exterieur-pure-2-improve",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxcE9QCKFwNH1ShI8HG3iFfcMZ3RqChgOVO_DqtmDo1Dkcncy1",
+   "price_text": "€75*",
+   "seen_in": {
+    "fr": {
+     "kind": "other store",
+     "price_text": "€75*"
+    }
+   },
+   "priced": true,
+   "n": 61,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_61.jpg"
+  },
+  {
+   "source": "Fitness Tech",
+   "title": "Wall Ball FT | Ballon de Crossfit et Hyrox | Fitness Tech",
+   "link": "https://www.fitnesstechstore.fr/products/wall-ball-fr",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRO2tunmsA9LhEFBCl-e3NEZroqbF9JZxTyOB81lp5YT5FHkGN_",
+   "price_text": "€46*",
+   "seen_in": {
+    "fr": {
+     "kind": "other store",
+     "price_text": "€46*"
+    }
+   },
+   "priced": true,
+   "n": 62,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_62.jpg"
+  },
+  {
+   "source": "PHYSIOTHERAPIE.com",
+   "title": "Big Ball - Gros ballons de plusieurs poids disponibles",
+   "link": "https://www.physiotherapie.com/big-ball.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVPHcxTpnE-ncLlifV70TqQPRQOUhHP8VoRm1hJsm4vHEDL2U",
+   "price_text": "€61*",
+   "seen_in": {
+    "fr": {
+     "kind": "other store",
+     "price_text": "€61*"
+    }
+   },
+   "priced": true,
+   "n": 63,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_63.jpg"
+  },
+  {
+   "source": "GetStrong",
+   "title": "WALLBALL WHITE EDITION | GetStrong ® CrossTraining Equipment",
+   "link": "https://getstrong.es/producto/wallball-white-edition/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCmExcS2UwL6D0kRA_-OZcjYFuO50jP5m6AY7przlvlcj-93jE",
+   "price_text": "€85*",
+   "seen_in": {
+    "es": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": true,
+   "n": 64,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_64.jpg"
+  },
+  {
+   "source": "Fitness Tech",
+   "title": "Wall Ball FT | Balón de Crossfit y Hyrox | Fitness Tech",
+   "link": "https://www.fitnesstech.es/products/balon-medicinal-ft",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQn5AYwBRw6iAR8xm9tq1kvQ6m6QgoxEeDhCiOclY410OXG3j9",
+   "price_text": "€56*",
+   "seen_in": {
+    "es": {
+     "kind": "other store",
+     "price_text": "€56*"
+    }
+   },
+   "priced": true,
+   "n": 65,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_65.jpg"
+  },
+  {
+   "source": "Binom Fitness",
+   "title": "Binom Be Fit Wall Ball Pack de 3kg hasta 12Kg I Binomfitness.eu",
+   "link": "https://www.binomfitness.es/binom-be-fit-pack-wall-ball-de-3kg-hasta-12kg.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HYpgcqAo8rRu8EUl3i1nHSjoOapFfktMrjl1CWr6JWnOXvHw",
+   "price_text": "€265*",
+   "seen_in": {
+    "es": {
+     "kind": "other store",
+     "price_text": "€265*"
+    }
+   },
+   "priced": true,
+   "n": 66,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_66.jpg"
+  },
+  {
+   "source": "Medical Cañada",
+   "title": "Balon Medicinal Thera-Band Verde 2 kg | Medical Cañada",
+   "link": "https://www.medicalcanada.es/balon-medicinal-theraband-verde-2-kg-023-2103",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyY-YA5jtYPh9A4f_48YiKDTHriTXsNyzdLFQhGPqfRyCtZYK",
+   "price_text": "€32*",
+   "seen_in": {
+    "es": {
+     "kind": "other store",
+     "price_text": "€32*"
+    }
+   },
+   "priced": true,
+   "n": 67,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_67.jpg"
+  },
+  {
+   "source": "Crossliftor",
+   "title": "WALL BALL NIÑOS DE 1 A 3 KG! Peso 1 kg",
+   "link": "https://www.crossliftor.com/es/balones-medicinales/1359-wall-ball-infantil.html",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSf2PAGEyMh3L3psz4Zn3Tbvn4eZDIGiTnz5Sa3F7L37nWNmBY",
+   "price_text": "€23*",
+   "seen_in": {
+    "es": {
+     "kind": "other store",
+     "price_text": "€23*"
+    }
+   },
+   "priced": true,
+   "n": 68,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_68.jpg"
+  },
+  {
+   "source": "Allfitnesspro",
+   "title": "Soporte Wall ball Pared",
+   "link": "https://allfitnesspro.es/soporte-wall-ball-pared",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWy_vt-wMRePEaLH3wivZnKBROi6H5XJlNo6GiiPvp92Muprys",
+   "price_text": "€14*",
+   "seen_in": {
+    "es": {
+     "kind": "other store",
+     "price_text": "€14*"
+    }
+   },
+   "priced": true,
+   "n": 69,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_69.jpg"
+  },
+  {
+   "source": "Donatif",
+   "title": "Balón Medicinal de 7 kg - Balón de pared multifunción",
+   "link": "https://www.donatif.com/es/bola-de-pared-multifuncion-de-7-kg",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRWK98NCyxji_cFJWDSUXInLSLrviJ51hyjaT-BhCeAg794KC4",
+   "price_text": "€48*",
+   "seen_in": {
+    "es": {
+     "kind": "other store",
+     "price_text": "€48*"
+    }
+   },
+   "priced": true,
+   "n": 70,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_70.jpg"
+  },
+  {
+   "source": "Donatif",
+   "title": "Palla Medica da 1 kg - Wall Ball Multifunzione",
+   "link": "https://www.donatif.com/it/palla-medica-da-1-kg-wall-ball-multifunzione",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR9f2wCs09_YMKYFmsA2aapuEHUJjpSuqbnYqKlp9oSGWadLO8",
+   "price_text": "€37*",
+   "seen_in": {
+    "it": {
+     "kind": "other store",
+     "price_text": "€37*"
+    }
+   },
+   "priced": true,
+   "n": 71,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_71.jpg"
+  },
+  {
+   "source": "Fitmax Srl",
+   "title": "K-Well Tornado Ball 2kg – Fitmax Srl",
+   "link": "https://www.fitmax.it/en/products/k-well-tornado-ball-2-kg",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMDnkLvvY_2ncW8MbneUmdm2IaC72EFBSj4hhfRxrGqYht0uW4",
+   "price_text": "€60*",
+   "seen_in": {
+    "it": {
+     "kind": "other store",
+     "price_text": "€60*"
+    }
+   },
+   "priced": true,
+   "n": 72,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_72.jpg"
+  },
+  {
+   "source": "Golf'us",
+   "title": "P2I IN-OUTDOOR SWING TRAINER - Allenamento Golf Efficace",
+   "link": "https://www.golfus.it/p2i-in-outdoor-swing-trainer",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqToV40OulEOzotHi8C7g0X1_eO7u8fCLnNPFhaw8lpo8xrVbr",
+   "price_text": "€65*",
+   "seen_in": {
+    "it": {
+     "kind": "other store",
+     "price_text": "€65*"
+    }
+   },
+   "priced": true,
+   "n": 73,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_73.jpg"
+  },
+  {
+   "source": "Strike Wedge",
+   "title": "Strike Wedge – Golf Training Aid for Consistent Strikes and ...",
+   "link": "https://strikewedge.com/products/strike-wedge",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLfNHuMKSdg-WXIyF-QtSL62rd6uZ5SfaUHyGBjY-5oZjVB8g",
+   "price_text": "€70*",
+   "seen_in": {
+    "at": {
+     "kind": "other store",
+     "price_text": "€70*"
+    }
+   },
+   "priced": true,
+   "n": 74,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_74.jpg"
+  },
+  {
+   "source": "BaseballOutlet",
+   "title": "Grizzly SpinBall - piłka treningowa | nauka techniki rzutów",
+   "link": "https://www.baseballoutlet.pl/grizzly-spinball-pilka-treningowa",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZYBKE5QYQFnDFVStesYmUJBGuvfdzp9NZd01re6Yp_cWJom9",
+   "price_text": "PLN 81*",
+   "seen_in": {
+    "pl": {
+     "kind": "other store",
+     "price_text": "PLN 81*"
+    }
+   },
+   "priced": true,
+   "n": 75,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_75.jpg"
+  },
+  {
+   "source": "Zooplus",
+   "title": "Cheerble elektroniczna zabawka dla psa Wicked Ball, zielona ...",
+   "link": "https://www.zooplus.pl/shop/psy/zabawki_szkolenie_psa/pilki/pilki_dla_psa/2124261",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIb4OYlj-fXrtatYyB6FuDtlaTfmCA_6rlmHEeGAxg9mct6k6x",
+   "price_text": "PLN 163*",
+   "seen_in": {
+    "pl": {
+     "kind": "other store",
+     "price_text": "PLN 163*"
+    }
+   },
+   "priced": true,
+   "n": 76,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_76.jpg"
+  },
+  {
+   "source": "Just7Gym",
+   "title": "Piłka lekarska WALL BALL 1.0 PRO - Sklep sportowy - Just7Gym.pl",
+   "link": "https://just7gym.pl/produkt/pilka-lekarska-wall-ball-1-0-pro/",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcs4-4YUJB6-euQswTCW8XHSMXq9wgcQ6Q2EKRnPmDrcd6fvO_",
+   "price_text": "PLN 269*",
+   "seen_in": {
+    "pl": {
+     "kind": "other store",
+     "price_text": "PLN 269*"
+    }
+   },
+   "priced": true,
+   "n": 77,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_77.jpg"
+  },
+  {
+   "source": "Net World Sports",
+   "title": "Piłka treningowa AFL FORZA Torpedo | Net World Sports",
+   "link": "https://www.networldsports.pl/pilka-treningowa-afl-forza-torpedo",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3FytGXVxxJqBQhw7LZ6scH6ZdQ0KV-bCqvI8re4oADJBCr10U",
+   "price_text": "PLN 715*",
+   "seen_in": {
+    "pl": {
+     "kind": "other store",
+     "price_text": "PLN 715*"
+    }
+   },
+   "priced": true,
+   "n": 78,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_78.jpg"
+  },
+  {
+   "source": "Fitness Equipment Ireland",
+   "title": "Medicine Balls with Handles - Fitness Equipment Ireland",
+   "link": "https://fitnessequipmentireland.ie/product/medicine-balls-with-handles/",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBvc_PejoJ_5CcSkQ8v9Md5bLs9gZmwgB_5uQINTv32O_SJa_b",
+   "price_text": "€30*",
+   "seen_in": {
+    "ie": {
+     "kind": "other store",
+     "price_text": "€30*"
+    }
+   },
+   "priced": true,
+   "n": 79,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_79.jpg"
+  },
+  {
+   "source": "Getgolfing.ie",
+   "title": "TRS Ball - Get Golfing",
+   "link": "https://getgolfing.ie/product/trs-ball/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE3n91aVK0T1ThxMtYmFTSEw4lF9vp83m4LOxuFwZB8N9uOVYn",
+   "price_text": "€50*",
+   "seen_in": {
+    "ie": {
+     "kind": "other store",
+     "price_text": "€50*"
+    }
+   },
+   "priced": true,
+   "n": 80,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_80.jpg"
+  },
+  {
+   "source": "score more",
+   "title": "Score More First Touch Green Kids Hurling Sliotar — SCORE MORE",
+   "link": "https://scoremore.ie/products/ftouchg",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhergdhkfj0TL3d29Bi6D21dUxEKuZS-aU0uV497PEhflc3kZr",
+   "price_text": "€7*",
+   "seen_in": {
+    "ie": {
+     "kind": "other store",
+     "price_text": "€7*"
+    }
+   },
+   "priced": true,
+   "n": 81,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_81.jpg"
+  },
+  {
+   "source": "Net World Sports",
+   "title": "FORZA Aussie Rules Training Football | Net World Sports",
+   "link": "https://www.networldsports.ie/forza-torpedo-training-afl-ball.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3FytGXVxxJqBQhw7LZ6scH6ZdQ0KV-bCqvI8re4oADJBCr10U",
+   "price_text": "€170*",
+   "seen_in": {
+    "ie": {
+     "kind": "other store",
+     "price_text": "€170*"
+    }
+   },
+   "priced": true,
+   "n": 82,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_82.jpg"
+  },
+  {
+   "source": "Thinking Toys",
+   "title": "Yuck-E Medicine Ball - 2kg — Thinking Toys",
+   "link": "https://thinkingtoys.ie/products/yuck-e-medicine-ball-green-2kg",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSx1YkdupADKOdKVjLs1oVD9tWT_Ke7UD1q4fsuLfnUvYHP6TkW",
+   "price_text": "€51*",
+   "seen_in": {
+    "ie": {
+     "kind": "other store",
+     "price_text": "€51*"
+    }
+   },
+   "priced": true,
+   "n": 83,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_83.jpg"
+  },
+  {
+   "source": "Espace Golf",
+   "title": "Golf balls Softspikes alignment tool | Espace Golf",
+   "link": "https://espace-golf.ie/ts6400004-golf-balls-softspikes-alignment-tool-green-one-size",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1VAV5sPJ0yPhYo9XgLn4ZTdpWkc27k8PNaU9JmYYb8n2gtH2d",
+   "price_text": "€18*",
+   "seen_in": {
+    "ie": {
+     "kind": "other store",
+     "price_text": "€18*"
+    }
+   },
+   "priced": true,
+   "n": 84,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_84.jpg"
+  },
+  {
+   "source": "DUBLIN FIGHT STORE",
+   "title": "Winning SB-9000 Punching Ball | Fightstore IRE - The ...",
+   "link": "https://www.fightstoredublin.ie/product/winning-sb-9000-punching-ball/",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrsm2FFKX1PEATuIbUlde609uWvgSD02GyZn9aYMLibnV8YyqY",
+   "price_text": "€80*",
+   "seen_in": {
+    "ie": {
+     "kind": "other store",
+     "price_text": "€80*"
+    }
+   },
+   "priced": true,
+   "n": 85,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_85.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: The Connector Golf Training Aid in Improving ...",
+   "link": "https://www.amazon.com/Connector-Improving-Positioning-Correction-Velcro/dp/B0G2XYMKM8",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdM3eoCmICZcgcahzyFHS5dzcxHIRL0F0Qa67orSf7F3JtSwzO",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 86,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_86.jpg"
+  },
+  {
+   "source": "Temu",
+   "title": "golf training aid ball sold on Temu United States",
+   "link": "https://www.temu.com/golf-training-aid-ball-5040058768783-s.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQur2KD9fEEpG_wy1kjgf_N1SV_BO5xXYehgJib3Qn8XPVGM25b",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 87,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_87.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Golf Club Swing Stick Ribbon Trainer, Strength ...",
+   "link": "https://www.amazon.com/clp/B0FT3SVVPC",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw5x_9xPOeB094HIBHSk0N3Nn7X1c_8U96AP3_1Gq91nc9gUqt",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 88,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_88.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "24 Pack Golf Pure Strike Training Designed Provide Immediate ...",
+   "link": "https://www.ebay.com/itm/116181975827",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5uJ8Df5K0EqIn0Jxmc6e4Cp_wVAzCY6AVWJScHwoYxst0kzgZ",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 89,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_89.jpg"
+  },
+  {
+   "source": "Lowe's",
+   "title": "Sunnywood 4404GR Sterling Games Tetherball, Green at Lowes.com",
+   "link": "https://www.lowes.com/pd/Sunnywood-4404GR-Sterling-Games-Tetherball-Green/5000521643",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsfONHHt2hiuyUvsL0vaKzFQuxMzLbEeaI7NJezzKKwMQsZ14C",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "es": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "it": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "be": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "se": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 90,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_90.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Xvolt Golf Training Aid Ball - Golf Connection ...",
+   "link": "https://www.amazon.com/clp/B0G2Y2SS25",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRANac8PBBc6RIUsEIIqAYXiLczRCRcDcBrSADvMDGAhXCbIrQ4",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 91,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_91.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Golf Training Aid Tennis Ball",
+   "link": "https://www.walmart.com/c/kp/golf-training-aid-tennis-ball",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCluGKK2IRncHyq5rZgo_UiR6-z2jALIfGmYbo08tLvImtvuqB",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ca": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "nz": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "es": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "se": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 92,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_92.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "The Connector Golf Training Aid, Golf Swing ... - Amazon.com",
+   "link": "https://www.amazon.com/Golf-Training-Aid-Swing-Correction/dp/B0FVKS25PQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfOFE914klDWiaHsxx1WOWbeYC7O6t6RxILVdynXJD0IALf7g",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 93,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_93.jpg"
+  },
+  {
+   "source": "eBay Australia",
+   "title": "Smart Ball Golf Swing Training Aid Posture Correction ...",
+   "link": "https://www.ebay.com.au/itm/176303221104",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjJMTg6gTINmyq-9Uqzlzw2Im0HiRF90QmTnXglvCVA90zjFwl",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "pl": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 94,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_94.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Tether Ball with Rope for Dog Toy Pump Included | eBay",
+   "link": "https://www.ebay.com/itm/205172379678",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIp-vC09fWtpOWPr_-C5NXNF2gqJodK-pEn3xjUZa3tFUojaEZ",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 95,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_95.jpg"
+  },
+  {
+   "source": "eBay",
+   "title": "Swing Ball | eBay",
+   "link": "https://www.ebay.com/shop/swing-ball?_nkw=swing+ball",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVUQqvdioOKGUNPDH_1QPtoJZvhmPLqODLjOC1EyeG8FjmLkr",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 96,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_96.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Aodse The Connector Golf Training Aid, Upgraded Golf Swing ...",
+   "link": "https://www.amazon.com.au/Aodse-Connector-Correction-Mechanics-Structure/dp/B0GTQ39JR7",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWD7FW5B6Mn1d2X7nouNBkHCgLw5sC9jnO8nC_Q_XEXPOZCPVT",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 97,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_97.jpg"
+  },
+  {
+   "source": "Amazon.sg",
+   "title": "Aodse The Connector Golf Training Aid, Upgraded Golf Swing ...",
+   "link": "https://www.amazon.sg/Aodse-Connector-Correction-Mechanics-Structure/dp/B0GTQ39JR7",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWD7FW5B6Mn1d2X7nouNBkHCgLw5sC9jnO8nC_Q_XEXPOZCPVT",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "se": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 98,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_98.jpg"
+  },
+  {
+   "source": "DICK'S Sporting Goods",
+   "title": "Golf Ball Training Aid | DICK'S Sporting Goods",
+   "link": "https://www.dickssportinggoods.com/a/golf-ball-training-aid-0rtz08a.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSignWHZznL9uCze4cuNYyrsoaitJJcpO54zI1CtgU4SJTO6uh0",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    },
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 99,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_99.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com : Lqyom The Connector Golf Training Aid, Golf ...",
+   "link": "https://www.amazon.com/Lqyom-Connector-Connected-Mechanics-Consistency/dp/B0HDBM4X9S",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDCyl202S9LAW_VIDDcWs0iylw_sItY_LM9CkoaH74-18PGFey",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 100,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_100.jpg"
+  },
+  {
+   "source": "eBay UK",
+   "title": "Smart Ball Golf | eBay UK",
+   "link": "https://www.ebay.co.uk/shop/smart-ball-golf?_nkw=smart+ball+golf",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcaTabqKwZFIxyvFr1P40NfHYF7dNxQWZM4Gm6aHCenfHGJXwI",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 101,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_101.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Sterling Sports Full Size Tetherball Ball with Rope, Green ...",
+   "link": "https://www.walmart.com/ip/Sterling-Sports-Full-Size-Tetherball-Ball-with-Rope-Green/48931266",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDjuZLyH8EHNR_sNaulDcq3nLKCElTLqSMRZ8v4y3Oa1S6pGAW",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "other store",
+     "price_text": null
+    },
+    "it": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 102,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_102.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com : GADFISH Heavy Duty Tetherball Set, Tetherball ...",
+   "link": "https://www.amazon.com/GADFISH-Tetherball-Backyard-Adjustable-Suitable/dp/B0FRSCR14L",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi3WGzst7hcaa8kStovqchZa21ET8Hi4keEC_gRcz-FrX20X3U",
+   "price_text": null,
+   "seen_in": {
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 103,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_103.jpg"
+  },
+  {
+   "source": "AliExpress",
+   "title": "Inflatable Golf Smart Ball Trainer Portable Swing Arm ...",
+   "link": "https://www.aliexpress.com/item/1005006860885222.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNvaE5IkQy2IxjvX9GQsJGHN3IRRz8vg3HY9-UHy7B_nHqplO3",
+   "price_text": null,
+   "seen_in": {
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    },
+    "be": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 104,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_104.jpg"
+  },
+  {
+   "source": "Harvey Norman",
+   "title": "Meteor For The Winners Stress Ball Grip Strengthener Set ...",
+   "link": "https://www.harveynorman.com.au/meteor-for-the-winners-stress-ball-grip-strengthener-set.html",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQZZRv2X7NHDAkkIOlRs12yq9z_9X_sDJyY8xs3Basq69oBwxH",
+   "price_text": null,
+   "seen_in": {
+    "au": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 105,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_105.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: The Connector Golf Training Aid, Golf Swing ...",
+   "link": "https://www.amazon.com/Golf-Training-Aid-Swing-Correction/dp/B0FVKS25PQ",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOZPlKyC52DbuVlM16sKrDar6BDsuKwjPYxbQLj6nzn82MTar7",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 106,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_106.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Pure Swing Products Precision Impact Golf Swing Trainer ...",
+   "link": "https://www.walmart.com/ip/Pure-Swing-Products-Precision-Impact-Golf-Swing-Trainer-Training-Aid-for-Crisp-Ball-Striking/341880647",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPECY785p5yLof5dCtyg10h63q2XEgzvttdxLsL45RqX_vtx7N",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 107,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_107.jpg"
+  },
+  {
+   "source": "DHgate",
+   "title": "Golf Swing Trainer Ball With Smart Inflatable Assist... From ...",
+   "link": "https://in.dhgate.com/product/golf-swing-trainer-ball-with-smart-inflatable/1114942153.html",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDLwwdBcqBcO0SiRVFEnu7PaMi3Nb1laj6CRcB9zB1DJ8uBroM",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "other store",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 108,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_108.jpg"
+  },
+  {
+   "source": "Walmart",
+   "title": "Riousery Portable Golf Swing Trainer Aid Practice Ball, PU ...",
+   "link": "https://www.walmart.com/ip/Riousery-Portable-Golf-Swing-Trainer-Aid-Practice-Ball-PU-Foam-Aluminum-Alloy-Arm-Posture-Correction-Beginners-Pros-Enhances-Path-Mechanics-Black-11/20185265438?classType=undefined&variantFieldId=actual_color",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaOc2zfzY0VMMvH9KoLwPHIcrQ_IRg794UeObbygJoRKzfWoHI",
+   "price_text": null,
+   "seen_in": {
+    "us": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 109,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_109.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "Golf Swing Trainer for Posture Correction, Connector ...",
+   "link": "https://www.amazon.co.uk/Trainer-Correction-Connector-Training-Technique/dp/B0H2YQV8KB",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXqRA8GBPIoydsw7vEwilETPtaqahyJkJQFbOmN17U9uapIrM",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 110,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_110.jpg"
+  },
+  {
+   "source": "Amazon UK",
+   "title": "EujRcf 3 Pcs Golf Connection Band, Golf Swing Training Aid ...",
+   "link": "https://www.amazon.co.uk/EujRcf-Connection-Training-Correction-Strength/dp/B0F3XDYV3F",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgMprnLhWnR2rEbsA10Jy-QeaBCxti9Om8nmpKE9uZ_5Xhtkr",
+   "price_text": null,
+   "seen_in": {
+    "uk": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 111,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_111.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "Aodse The Connector Golf Training Aid, Upgraded Golf Swing ...",
+   "link": "https://www.amazon.ca/Aodse-Connector-Correction-Mechanics-Structure/dp/B0GTQ39JR7",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWD7FW5B6Mn1d2X7nouNBkHCgLw5sC9jnO8nC_Q_XEXPOZCPVT",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 112,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_112.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "The Connector Golf Training Aid, Golf Swing Trainer for ...",
+   "link": "https://www.amazon.ca/MUMPPRCE-Golf-Training-Aid-Swing/dp/B0FVKS25PQ",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJfOFE914klDWiaHsxx1WOWbeYC7O6t6RxILVdynXJD0IALf7g",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 113,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_113.jpg"
+  },
+  {
+   "source": "Amazon.ca",
+   "title": "GEVINFA Compression Golf Swing Trainer Ball with Pure Strike ...",
+   "link": "https://www.amazon.ca/Compression-Golf-Swing-Trainer-Ball/dp/B0G34FJ1BJ",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcgZRxAl4x8l4QY-DrnNtQKstZNdUpEpsTYL9ULwpI3T1CJdFR",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 114,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_114.jpg"
+  },
+  {
+   "source": "Temu",
+   "title": "swing trainers golf sold on Temu Canada",
+   "link": "https://www.temu.com/ca/swing-trainers-golf-5030259851959-s.html",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQur2KD9fEEpG_wy1kjgf_N1SV_BO5xXYehgJib3Qn8XPVGM25b",
+   "price_text": null,
+   "seen_in": {
+    "ca": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 115,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_115.jpg"
+  },
+  {
+   "source": "Amazon.de",
+   "title": "Amazon.de Hot New Releases: The bestselling new and future ...",
+   "link": "https://www.amazon.de/-/en/gp/new-releases/sports/456957031",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS4sQtYDYk8jQtWO0I17VEr_PBwIfSe-V_GY3JYphGzBH4VAJ8",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 116,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_116.jpg"
+  },
+  {
+   "source": "OTTO",
+   "title": "Pure 2 Improve Golfnetz Original Pure 2Improve Golf ...",
+   "link": "https://www.otto.de/p/pure-2-improve-golfnetz-original-pure-2improve-golf-abschlaggmatte-52cmx23cm-klein-kompakt-fuer-zuhause-unterwegs-CS0EFV0FU/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_upqcGXUazodtUtL_QwU2Tl-HMk8uBdE2V72dataB3OWRuvbB",
+   "price_text": null,
+   "seen_in": {
+    "de": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 117,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_117.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Golf Swing Trainer Aid,The Connector Golf ...",
+   "link": "https://www.amazon.com/clp/B0FQMPBKYQ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzd8BHTg7KUDGkIzeOuGuKfS5RpzmbtRk1LQdQn9GuhQ61KZlX",
+   "price_text": null,
+   "seen_in": {
+    "nz": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 118,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_118.jpg"
+  },
+  {
+   "source": "Amazon.nl",
+   "title": "Golf Swing Trainer voor houdingscorrectie, connector ...",
+   "link": "https://www.amazon.nl/houdingscorrectie-connector-trainingshulp-swingtechniek-verbeteren/dp/B0H2YQV8KB",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXqRA8GBPIoydsw7vEwilETPtaqahyJkJQFbOmN17U9uapIrM",
+   "price_text": null,
+   "seen_in": {
+    "nl": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 119,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_119.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Entraîneur de swing de golf pour correction de posture, aide ...",
+   "link": "https://www.amazon.fr/Entraîneur-correction-lentraînement-connecteur-améliorer/dp/B0H2YQV8KB",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXqRA8GBPIoydsw7vEwilETPtaqahyJkJQFbOmN17U9uapIrM",
+   "price_text": null,
+   "seen_in": {
+    "fr": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 120,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_120.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Tour Striker Smart Ball Golf Training Aid - Black : Amazon ...",
+   "link": "https://www.amazon.es/-/en/Tour-Striker-Smart-Ball-Training/dp/B00II5RSR2",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3-nt6PwMCVJP-X-Vyo9T_qmkhdGmUYeQ4eXWydUH1KVUDpQvC",
+   "price_text": null,
+   "seen_in": {
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 121,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_121.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "HOMY MART The Connector - Ayuda de entrenamiento de golf ...",
+   "link": "https://www.amazon.es/HOMY-MART-Connector-entrenamiento-entrenador/dp/B0FH27KNYX",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_sRypD1oWORqIFFihYbfp-k3Xq0eBgLhBsBn1BCH3XNCFR0_7",
+   "price_text": null,
+   "seen_in": {
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 122,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_122.jpg"
+  },
+  {
+   "source": "Amazon.es",
+   "title": "Smart Ball Golf Ayuda De Entrenamiento De Swing De Golf ...",
+   "link": "https://www.amazon.es/Entrenamiento-Striker-Corrección-Principiantes-Asistencia/dp/B0BTGPN28G",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAEgkPWXzayjWjWlRLjr1206GOo7zp4UysyQFFa6epPUym-n_k",
+   "price_text": null,
+   "seen_in": {
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 123,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_123.jpg"
+  },
+  {
+   "source": "Decathlon",
+   "title": "Balón de pared premium - Fitness | Decathlon",
+   "link": "https://www.decathlon.es/es/p/mp/balon-de-pared-premium-fitness/4e3d03d8-d0e6-4f90-8f51-55d67289fdaa/c1",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuJnu9Hylf6YOg1dxe2PrBKCRgHpSkG2Sy9-hcIrkwSfAe8REW",
+   "price_text": null,
+   "seen_in": {
+    "es": {
+     "kind": "big chain",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 124,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_124.jpg"
+  },
+  {
+   "source": "Amazon",
+   "title": "Pelotas de Entrenamiento de Swing de Golf, Entrenador de ...",
+   "link": "https://www.amazon.es/Pelotas-Entrenamiento-Entrenador-Inteligente-corrección/dp/B08W4WLSX1",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwChENnIghU08bfkKnbfVqZ1Ot0N-5gNNa26glYG9C5Y_IMFuj",
+   "price_text": null,
+   "seen_in": {
+    "es": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 125,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_125.jpg"
+  },
+  {
+   "source": "Amazon.it",
+   "title": "Golf Swing Trainer Ball, Golf Ball Posture Corrector, Golf ...",
+   "link": "https://www.amazon.it/BORDEAG-Corrector-Meccanismo-Oscillazione-Principianti/dp/B0G1BZ16HZ",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYLzalj9tm2Nss3uVrYpbP9rZm2slH0h0A1Z_nZY9MdEBSAMK",
+   "price_text": null,
+   "seen_in": {
+    "it": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 126,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_126.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: MELE LINKS The Connector Golf Training Aid, Golf ...",
+   "link": "https://www.amazon.com/clp/B0G6YJQTKK",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShokXMJUbev6ossEd9LUV6KyQjY_eiejgDirBH5Nrq3qFur9oP",
+   "price_text": null,
+   "seen_in": {
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 127,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_127.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: GoSports Pure Strike Golf Training Discs 24 Pack ...",
+   "link": "https://www.amazon.com/clp/B087C9PRB3",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6fkIQJOPmShfaqmBwwMEldtc9CTIHm_hvT8iMgF32RcnOWk5Q",
+   "price_text": null,
+   "seen_in": {
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 128,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_128.jpg"
+  },
+  {
+   "source": "Amazon.com",
+   "title": "Amazon.com: Pure Strike The 5 Simple Keys to Consistency 5 ...",
+   "link": "https://www.amazon.com/clp/B0090PWRM0",
+   "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRANac8PBBc6RIUsEIIqAYXiLczRCRcDcBrSADvMDGAhXCbIrQ4",
+   "price_text": null,
+   "seen_in": {
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 129,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_129.jpg"
+  },
+  {
+   "source": "Amazon.de",
+   "title": "Golfschwung-Trainingshilfe Präzisionskorrigierendes ...",
+   "link": "https://www.amazon.de/Golfschwung-Trainingshilfe-Golf-Trainingsball-Armhaltungskorrektur-Schwunghaltungskorrektur-Schlaggenauigkeit/dp/B0GR1F8CY2",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd-oOzUMRHx0suLn0hSMDugn6Ac5xnoTS5yMeS72HN4Td5kkok",
+   "price_text": null,
+   "seen_in": {
+    "at": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 130,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_130.jpg"
+  },
+  {
+   "source": "Amazon.ie",
+   "title": "Cryfokt Smart Ball Swing Trainer Eco-Friendly PVC Inflatable ...",
+   "link": "https://www.amazon.ie/Cryfokt-Eco-Friendly-Inflatable-Correction-5-9x6-3in/dp/B0GYDQL733",
+   "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8D5HsHeqR5EdxvfCoLbyDR1djtjeV16YIn0NyH3ow0jbgZszs",
+   "price_text": null,
+   "seen_in": {
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 131,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_131.jpg"
+  },
+  {
+   "source": "Amazon.ie",
+   "title": "Golf Swing Trainer for Posture Correction Practice, Ball ...",
+   "link": "https://www.amazon.ie/Trainer-Correction-Practice-Training-Improvement/dp/B0GMBLWSSR",
+   "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqnicGvGyqteXe3jCoHMQeN8nVer44hqFZHK4vWsZHSXY8xl4C",
+   "price_text": null,
+   "seen_in": {
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 132,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_132.jpg"
+  },
+  {
+   "source": "Amazon.ie",
+   "title": "Afenau Retractable Golf Training Aid, Golf Swing Trainer ...",
+   "link": "https://www.amazon.ie/Afenau-Retractable-Training-Alignment-Flexibility/dp/B0DJT2CVR1",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGgMprnLhWnR2rEbsA10Jy-QeaBCxti9Om8nmpKE9uZ_5Xhtkr",
+   "price_text": null,
+   "seen_in": {
+    "ie": {
+     "kind": "marketplace",
+     "price_text": null
+    }
+   },
+   "priced": false,
+   "n": 133,
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_133.jpg"
+  }
+ ]
+}

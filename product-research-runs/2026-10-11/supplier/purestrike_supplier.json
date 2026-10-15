@@ -1,0 +1,42 @@
+{
+ "slug": "purestrike",
+ "brand_price": 79.0,
+ "brand_currency": "aud",
+ "words": "golf smart ball arm",
+ "aliexpress_search": "https://www.aliexpress.com/w/wholesale-golf-smart-ball-arm.html",
+ "listings": [
+  {
+   "n": 1,
+   "site": "AliExpress",
+   "order_type": "single orders",
+   "title": "Inflatable Golf Smart Ball Trainer Portable Swing Arm ...",
+   "link": "https://www.aliexpress.com/item/1005006860885222.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_104.jpg",
+   "price_seen_in_search": null,
+   "price": null,
+   "currency": null,
+   "shipping": null,
+   "note": null
+  },
+  {
+   "n": 2,
+   "site": "DHgate",
+   "order_type": "small orders",
+   "title": "Golf Swing Trainer Ball With Smart Inflatable Assist... From ...",
+   "link": "https://in.dhgate.com/product/golf-swing-trainer-ball-with-smart-inflatable/1114942153.html",
+   "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/purestrike_thumb_108.jpg",
+   "price_seen_in_search": null,
+   "price": null,
+   "currency": null,
+   "shipping": null,
+   "note": null
+  }
+ ],
+ "summary": {
+  "found": 2,
+  "priced": 0,
+  "brand_price_usd": 52.67,
+  "status": "found, price not read",
+  "plain": "2 supplier listings found. Open them to read the price: supplier sites do not show prices to search engines."
+ }
+}
