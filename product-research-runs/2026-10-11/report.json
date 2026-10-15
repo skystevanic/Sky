@@ -7910,6 +7910,2748 @@
    }
   },
   {
+   "slug": "toilet-kit",
+   "name": "Disposable Toilet Brush Kit (Benistie, Israel)",
+   "one_liner": "The good beginner type (home cleaning, refills), but the same kit is in BIG W, B&Q, OTTO and The Warehouse, and Amazon US sells 169,000+ of this kind a month. The one opening is Israel, where this shop advertises alone.",
+   "url": "https://benistie.com/products/disposable-toilet-cleaning-kit",
+   "brand": "Benistie",
+   "category": "Home cleaning: disposable toilet brush",
+   "price": "₪179 (about US$48)",
+   "ad_days": "Oldest live ad 2026-08-18",
+   "store_platform": "Shopify",
+   "store_launched": "2026-08",
+   "store_products": "5 products: this kit and refill packs",
+   "snapshot": {
+    "icp": "Households who hate a dirty toilet brush",
+    "job": "Clean the toilet without a germy brush",
+    "cogs": "About US$2-5 for the wand and heads (Alibaba)",
+    "margin": "Good on refills; repeat buying",
+    "claims": "Kills 99.9% of germs; one-click head release",
+    "demoable": "Yes: UV-light dirt reveal and one-click head drop"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "BIG W, B&Q, OTTO, Walmart and The Warehouse sell the same kit"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Amazon US trusted listing at US$33.99; on Temu and Shein"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "fail",
+     "why": "65+ brands, 43 new in two months, advertising \"disposable toilet\""
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Light; refills ship easily"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Avoid unproven germ-kill claims"
+    }
+   ],
+   "scores": {
+    "saturated": 9,
+    "margin": 7,
+    "viral": 7,
+    "pain": 7,
+    "differentiation": 2
+   },
+   "overall": 56,
+   "confidence": "High",
+   "best_region": "None of the six. In Israel, Benistie runs all 45 Hebrew ads, which is where its proof comes from.",
+   "angles": [
+    "Not worth building angles on in these six countries"
+   ],
+   "tile_notes": null,
+   "final": {
+    "verdict": "Avoid",
+    "why": [
+     "Chains sell the same kit: BIG W A$34, B&Q £20, OTTO €19, The Warehouse NZ$31",
+     "65+ brands advertise \"disposable toilet\" in English, 43 of them new in the last two months",
+     "Alibaba lists it from about US$2: the margin is real, but so is the competition"
+    ],
+    "risk": "Anyone can copy it, and in Europe shoppers can already buy it in DIY and home stores.",
+    "fastest_test": [
+     "Skip it for the six countries. Note the pattern: home and cleaning products with refills are the right type for you"
+    ]
+   },
+   "regions": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "BIG W sells it at $39.95",
+     "sellers": 12,
+     "cheapest": "A$10",
+     "typical": "A$29",
+     "top": "Amazon AU - Amazon.com.au-Seller (51)"
+    },
+    {
+     "cc": "us",
+     "status": "blocked",
+     "why": "Walmart sells it at $23.11",
+     "sellers": 27,
+     "cheapest": "US$2",
+     "typical": "US$19",
+     "top": "Ace Hardware (8600)"
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "B&Q sells it at £23.99",
+     "sellers": 21,
+     "cheapest": "£1",
+     "typical": "£11",
+     "top": "u-buy.co.uk (178)"
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "Walmart.ca sells it at $7.24",
+     "sellers": 6,
+     "cheapest": "C$3",
+     "typical": "C$19",
+     "top": "Amazon (320)"
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "Hornbach sells it at 4,85 €",
+     "sellers": 13,
+     "cheapest": "€2",
+     "typical": "€20",
+     "top": "IKEA Deutschland (201)"
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "The Warehouse sells it at $7.99",
+     "sellers": 17,
+     "cheapest": "NZ$2",
+     "typical": "NZ$42",
+     "top": "GoSupps.com (8600)"
+    }
+   ],
+   "amazon": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "amazon_site": "amazon.com.au",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 3,800 reviews; 2 of the first 20 have 1,000+; at least 1,250 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 3800,
+     "n_1000_plus": 2,
+     "cheapest": "A$17",
+     "typical": "A$36",
+     "bought_last_month_min": 1250,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Topo Bear Disposable Toilet Brush Holder Set with 40 Toilet Brush Refills Disposable Clean",
+       "price_text": "$37.98",
+       "price": 37.98,
+       "rating": 4.5,
+       "reviews": 3800,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"disposable toilet brush\""
+       ],
+       "link": "https://www.amazon.com.au/Topo-Bear-Disposable-Toilet-Refills/dp/B096TD56BJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717wt8da7JL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "JEHONN Disposable Toilet Brush with 40PCS Wand Cleaner Refills, Wall Mounted Toilet Bowl B",
+       "price_text": "$36.99",
+       "price": 36.99,
+       "rating": 4.5,
+       "reviews": 2500,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/JEHONN-Disposable-Cleaner-Bathroom-Cleaning/dp/B0CKYKS9GR/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71q3H+0k1WL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Shanghigh 2 Pack Disposable Toilet Brush Set with Handles and 60 Refills",
+       "price_text": "$31.41",
+       "price": 31.41,
+       "rating": 3.9,
+       "reviews": 115,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Shanghigh-Disposable-Toilet-Handles-Refills/dp/B0GTT21PSD/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81Kq7210K7L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "amazon_site": "amazon.com",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 179,800 reviews; 7 of the first 20 have 1,000+; at least 169,300 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 179800,
+     "n_1000_plus": 7,
+     "cheapest": "US$10",
+     "typical": "US$22",
+     "bought_last_month_min": 169300,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Clorox ToiletWand Disposable Toilet Cleaner Refills, 30 Count, Kills 99.9% of Germs and Vi",
+       "price_text": "$18.24",
+       "price": 18.24,
+       "rating": 4.8,
+       "reviews": 179800,
+       "bought_text": "60K+ bought in past month",
+       "bought": 60000,
+       "sponsored": true,
+       "badges": null,
+       "link": "https://www.amazon.com/dp/B00U2T6SQ4/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61VM0sjbVNL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Clorox ToiletWand Toilet Cleaning Kit, 1 Starter Kit with 16 Refill Heads",
+       "price_text": "$20.41",
+       "price": 20.41,
+       "rating": 4.7,
+       "reviews": 145600,
+       "bought_text": "40K+ bought in past month",
+       "bought": 40000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Clorox-ToiletWand-Disposable-Toilet-Cleaning/dp/B07ZGHZVRY/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81qikz2FZGL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Clorox ToiletWand Toilet Cleaning Starter Kit, 1 Kit with 6 Refill Heads",
+       "price_text": "$12.69",
+       "price": 12.69,
+       "rating": 4.7,
+       "reviews": 145600,
+       "bought_text": "40K+ bought in past month",
+       "bought": 40000,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com/Clorox-ToiletWand-Disposable-Toilet-Cleaning/dp/B0010B5EQS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717u8XrePOL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "amazon_site": "amazon.co.uk",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 3,300 reviews; 2 of the first 20 have 1,000+; at least 5,550 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 3300,
+     "n_1000_plus": 2,
+     "cheapest": "£9",
+     "typical": "£15",
+     "bought_last_month_min": 5550,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "JEHONN Disposable Toilet Brush and Holder Set with 48 Cleaner Refills, Wall Mounted Bathro",
+       "price_text": "EUR 25.97",
+       "price": 25.97,
+       "rating": 4.5,
+       "reviews": 3300,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/JEHONN-Disposable-Cleaner-Bathroom-Cleaning/dp/B0CW2MN91F/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71UvTkxSKbL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Toilet Wand Kit with 48 Refills, Disposable Toilet Bowl Brush Disposable Toilet Cleaning S",
+       "price_text": "EUR 16.05",
+       "price": 16.05,
+       "rating": 4.4,
+       "reviews": 2900,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"disposable toilet brush\"",
+        "Limited time deal"
+       ],
+       "link": "https://www.amazon.co.uk/Refills-Disposable-Cleaning-Storage-Bathroom/dp/B0BHR8SZJ7/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61Id2CtTvGL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "wlich Disposable Toilet Brush Set with 48 Refills, Wall-Mount Holder",
+       "price_text": "EUR 15.34",
+       "price": 15.34,
+       "rating": 4.4,
+       "reviews": 898,
+       "bought_text": "700+ bought in past month",
+       "bought": 700,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.co.uk/wlich-Disposable-Refills-Bathroom-Cleaning/dp/B0FS1WNTKL/",
+       "thumbnail": "https://m.media-amazon.com/images/I/714u8eb702L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "amazon_site": "amazon.ca",
+     "note": null,
+     "pressure": "high",
+     "why": "top listing 74,700 reviews; 7 of the first 20 have 1,000+; at least 10,000 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 74700,
+     "n_1000_plus": 7,
+     "cheapest": "C$17",
+     "typical": "C$33",
+     "bought_last_month_min": 10000,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Clorox Disinfecting ToiletWand, Toilet Cleaning System, Starter Kit US",
+       "price_text": "$32.99",
+       "price": 32.99,
+       "rating": 4.5,
+       "reviews": 74700,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Toilet-wand-Starter-Kit-US/dp/B0010B5EQS/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717u8XrePOL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Scrubbing Bubbles Fresh Brush Toilet Bowl Cleaning System Starter Kit, Stain Removing, Cit",
+       "price_text": "$16.77",
+       "price": 16.77,
+       "rating": 4.6,
+       "reviews": 13000,
+       "bought_text": "800+ bought in past month",
+       "bought": 800,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/Scrubbing-Bubbles-Cleaning-Starter-Refills/dp/B07872QNMJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81vlqplyhtL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "JEHONN Disposable Toilet Brush with 48PCS Wand Cleaner Refills, Wall Mounted Toilet Bowl B",
+       "price_text": "$30.39",
+       "price": 30.39,
+       "rating": 4.4,
+       "reviews": 4100,
+       "bought_text": "300+ bought in past month",
+       "bought": 300,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.ca/JEHONN-Disposable-Cleaner-Bathroom-Cleaning/dp/B0CW2MN91F/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71UvTkxSKbL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "amazon_site": "amazon.de",
+     "note": null,
+     "pressure": "medium",
+     "why": "top listing 1,700 reviews; 1 of the first 20 have 1,000+; at least 2,500 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 1700,
+     "n_1000_plus": 1,
+     "cheapest": "€10",
+     "typical": "€17",
+     "bought_last_month_min": 2500,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Disposable Toilet Brush, Set of 2 Extended Handle and Holder Set Toilet Brushes, Toilet Br",
+       "price_text": "€15.99",
+       "price": 15.99,
+       "rating": 4.4,
+       "reviews": 1700,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/Ucaimao-Disposable-Extended-Bathroom-Cleaning/dp/B0DHLGYPJH/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71+tlmxu5LL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Disposable Toilet Brush Set with Toilet Cleaner - Set of 2 Toilet Brush Wall Mounting, 54 ",
+       "price_text": "€14.99",
+       "price": 14.99,
+       "rating": 4.4,
+       "reviews": 826,
+       "bought_text": "50+ bought in past month",
+       "bought": 50,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"toilettenbürste einweg\"",
+        "Limited time deal"
+       ],
+       "link": "https://www.amazon.de/-/en/Disposable-Toilet-Brush-Set-Cleaner/dp/B0FRSST12R/",
+       "thumbnail": "https://m.media-amazon.com/images/I/61L7QtWZL8L._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "wlich Disposable Toilet Brush, Pack of 48 Cleaner Refills with Handle",
+       "price_text": "€17.99",
+       "price": 17.99,
+       "rating": 4.4,
+       "reviews": 746,
+       "bought_text": "200+ bought in past month",
+       "bought": 200,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.de/-/en/wlich-Disposable-Toilet-Cleaner-Refills/dp/B0DNS637RM/",
+       "thumbnail": "https://m.media-amazon.com/images/I/719oTKIr1wL._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "amazon_site": "amazon.com.au",
+     "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+     "pressure": "medium",
+     "why": "top listing 3,800 reviews; 2 of the first 20 have 1,000+; at least 1,250 bought last month across them",
+     "listings_seen": 20,
+     "top_reviews": 3800,
+     "n_1000_plus": 2,
+     "cheapest": "A$17",
+     "typical": "A$36",
+     "bought_last_month_min": 1250,
+     "brand_present": false,
+     "top3": [
+      {
+       "title": "Topo Bear Disposable Toilet Brush Holder Set with 40 Toilet Brush Refills Disposable Clean",
+       "price_text": "$37.98",
+       "price": 37.98,
+       "rating": 4.5,
+       "reviews": 3800,
+       "bought_text": "400+ bought in past month",
+       "bought": 400,
+       "sponsored": false,
+       "badges": [
+        "Amazon's Choice for \"disposable toilet brush\""
+       ],
+       "link": "https://www.amazon.com.au/Topo-Bear-Disposable-Toilet-Refills/dp/B096TD56BJ/",
+       "thumbnail": "https://m.media-amazon.com/images/I/717wt8da7JL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "JEHONN Disposable Toilet Brush with 40PCS Wand Cleaner Refills, Wall Mounted Toilet Bowl B",
+       "price_text": "$36.99",
+       "price": 36.99,
+       "rating": 4.5,
+       "reviews": 2500,
+       "bought_text": null,
+       "bought": null,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/JEHONN-Disposable-Cleaner-Bathroom-Cleaning/dp/B0CKYKS9GR/",
+       "thumbnail": "https://m.media-amazon.com/images/I/71q3H+0k1WL._AC_UL320_.jpg",
+       "is_brand": false
+      },
+      {
+       "title": "Shanghigh 2 Pack Disposable Toilet Brush Set with Handles and 60 Refills",
+       "price_text": "$31.41",
+       "price": 31.41,
+       "rating": 3.9,
+       "reviews": 115,
+       "bought_text": "100+ bought in past month",
+       "bought": 100,
+       "sponsored": false,
+       "badges": null,
+       "link": "https://www.amazon.com.au/Shanghigh-Disposable-Toilet-Handles-Refills/dp/B0GTT21PSD/",
+       "thumbnail": "https://m.media-amazon.com/images/I/81Kq7210K7L._AC_UL320_.jpg",
+       "is_brand": false
+      }
+     ]
+    }
+   ],
+   "trends": [
+    {
+     "place": "world",
+     "label": "Worldwide",
+     "direction": "rising",
+     "growth_pct": 77,
+     "seasonal": false,
+     "peak_months": [
+      "Feb",
+      "Apr",
+      "Sep"
+     ],
+     "months_to_peak": null,
+     "now_vs_high": 66,
+     "avg_last_year": 68.5,
+     "spike": false,
+     "zero_share": 0.01,
+     "why": "A typical week in the last 12 months is +77% on the year before",
+     "line": [
+      31,
+      35,
+      42,
+      36,
+      20,
+      36,
+      29,
+      39,
+      52,
+      42,
+      36,
+      52,
+      34,
+      44,
+      41,
+      44,
+      40,
+      42,
+      36,
+      30,
+      46,
+      40,
+      36,
+      45,
+      40,
+      37,
+      55,
+      59,
+      69,
+      65,
+      39,
+      54,
+      46,
+      44,
+      80,
+      76,
+      55,
+      71,
+      92,
+      90,
+      67,
+      62,
+      54,
+      73,
+      68,
+      74,
+      74,
+      74,
+      76,
+      80,
+      94,
+      76,
+      66
+     ]
+    }
+   ],
+   "lens": [
+    {
+     "cc": "au",
+     "status": "blocked",
+     "why": "The same object is sold by BIG W at A$34",
+     "prices": {
+      "brand": 268.5,
+      "cheapest_copy": 21.99,
+      "typical_copy": 35.99,
+      "cheapest_real_copy": 34.0,
+      "priced_copies": 10
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Kogan.com",
+       "title": "Buy Disposable Toilet Brush Set with 42 Replaent Heads ...",
+       "link": "https://www.kogan.com/au/buy/cccorporate-disposable-toilet-brush-set-42-replaent-heads-storage-box-grey-blue-tl62430-xxycc2040y173626n/",
+       "price_text": "A$32",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_00.jpg"
+      },
+      {
+       "source": "Amazon",
+       "title": "Disposable Toilet Brush with 112 Toliet Wand Refills, Toilet ...",
+       "link": "https://www.amazon.com.au/Disposable-Refills-Cleaning-Wall-mounted-Efficient/dp/B0CXDPBXMD",
+       "price_text": "A$88",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_02.jpg",
+       "looked_up": true,
+       "reviews": 307,
+       "bought": null
+      },
+      {
+       "source": "Kogan.com",
+       "title": "Buy 2 Sets Disposable Toilet Brushes with Base – 48 Refills ...",
+       "link": "https://www.kogan.com/au/buy/cccorporate-2-sets-disposable-toilet-brushes-with-base-48-refills-wallfloor-mount-white-tl62449-xxycc033y173426n/",
+       "price_text": "A$36",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_03.jpg"
+      },
+      {
+       "source": "Amazon",
+       "title": "Disposable Toilet Brush Set with Refill Heads & Long Handle ...",
+       "link": "https://www.amazon.com.au/Disposable-Toilet-Brush-Refill-Handle/dp/B0G3JNJZNL",
+       "price_text": "A$22",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_04.jpg"
+      },
+      {
+       "source": "BIG W",
+       "title": "Disposable Toilet Brush Toilet Bowl Cleaning Kit with 18Pcs ...",
+       "link": "https://www.bigw.com.au/product/disposable-toilet-brush-toilet-bowl-cleaning-kit-with-18pcs-replacement-brush-heads-and-holder-grey/p/9904116768",
+       "price_text": "A$34",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_05.jpg"
+      },
+      {
+       "source": "TidyLane",
+       "title": "Magic Toilet Brush – TidyLane",
+       "link": "https://tidy-lane.com/products/disposable-toilet-brush",
+       "price_text": "A$87",
+       "kind": "other store",
+       "thumb_file": "lens/toilet-kit_thumb_33.jpg"
+      },
+      {
+       "source": "ScrubLoo",
+       "title": "ScrubLoo Flex – EasyLift Disposable Toilet Brush, Wand + ...",
+       "link": "https://scrubloo.com.au/products/scrubloo-flex-autoseal-disposable-toilet-brush-wand-base-12-sponges",
+       "price_text": "A$38",
+       "kind": "other store",
+       "thumb_file": "lens/toilet-kit_thumb_34.jpg"
+      },
+      {
+       "source": "SimpleClean",
+       "title": "SimpleClean™ Disposable Toilet Brush",
+       "link": "https://simple-clean.com.au/products/simpleclean™-disposable-toilet-brush-set",
+       "price_text": "A$30",
+       "kind": "other store",
+       "thumb_file": "lens/toilet-kit_thumb_35.jpg"
+      },
+      {
+       "source": "Shein",
+       "title": "EEEKit Disposable Toilet Brush And Holder Set, Wall Mounted ...",
+       "link": "https://m.shein.com/us/EEEKit-Disposable-Toilet-Brush-And-Holder-Set-Wall-Mounted-Toilet-Bowl-Brushes-With-18-Refills-And-Extended-Handle-For-Bathroom-Sink-Bathtub-Cleaning-p-261156773.html?cdn_rsite=cf&ref=www&rep=dir&ret=mus",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_51.jpg"
+      },
+      {
+       "source": "Woolworths",
+       "title": "Disposable Toilet Brush Set Replaceable Head Long Handle ...",
+       "link": "https://www.woolworths.com.au/shop/productdetails/1118748173/disposable-toilet-brush-set-replaceable-head-long-handle-cleaning-scrubber-tool",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_60.jpg"
+      },
+      {
+       "source": "Amazon.com.au",
+       "title": "Disposable Toilet Brush 2 Pack Toilet Brush Disposable with ...",
+       "link": "https://www.amazon.com.au/Disposable-Toilet-Brush-Replacement-Bathroom/dp/B0H7RSLL6G",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_65.jpg"
+      },
+      {
+       "source": "Amazon",
+       "title": "Heyolo 60 PCS Toilet Wand Refills, Disposable Toilet ...",
+       "link": "https://www.amazon.com.au/Heyolo-Disposable-Multi-Surface-Scrubbing-Compatible/dp/B0GRN2VFFR",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_66.jpg"
+      },
+      {
+       "source": "BIG W",
+       "title": "50Pcs Replacement Sponge Head Toilet Cleaning Wand Kit | BIG W",
+       "link": "https://www.bigw.com.au/product/50pcs-replacement-sponge-head-toilet-cleaning-wand-kit/p/9905273939",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_67.jpg"
+      },
+      {
+       "source": "Amazon.com.au",
+       "title": "Disposable Toilet Brush Set with 24PCS Replacement Heads ...",
+       "link": "https://www.amazon.com.au/Disposable-Cleaner-Replacement-Opening-Lengthened/dp/B0GJRWNFY1",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_68.jpg"
+      },
+      {
+       "source": "Shein",
+       "title": "1set Disposable Toilet Brush Set With Only 8 Disposable ...",
+       "link": "https://au.shein.com/1set-Disposable-Toilet-Brush-Set-With-Only-8-Disposable-Toilet-Brush-Heads-Refills-Toilet-Bowl-Cleaning-Brush-Self-Contained-Detergent-Head-Brush-Bathroom-Cleaning-Brush-No-Blind-Spot-Cleaning-Supplies-Cleaning-Tool-Back-To-School-Supplies-p-97035089.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_69.jpg"
+      },
+      {
+       "source": "eBay Australia",
+       "title": "Flushable Toilet Brush | eBay Australia",
+       "link": "https://www.ebay.com.au/shop/flushable-toilet-brush?_nkw=flushable+toilet+brush",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_70.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "toilet cleaners sold on Temu Australia",
+       "link": "https://www.temu.com/au/toilet-cleaners-5020122953927-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_71.jpg"
+      },
+      {
+       "source": "Amazon.com.au",
+       "title": "Disposable Toilet Brush,36pcs Wand Cleaner Refills Wall ...",
+       "link": "https://www.amazon.com.au/Disposable-Cleaner-Refills-Cleaning-Bathroom/dp/B0G2L5B267",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_72.jpg"
+      },
+      {
+       "source": "Amazon",
+       "title": "Disposable Toilet Brush Set with 30PCS Replacement Heads ...",
+       "link": "https://www.amazon.com.au/Disposable-Replacement-Lengthened-Bathroom-Cleaning/dp/B0DPFG8V8F",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_73.jpg"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Disposable Toilet Brush Set with 30PCS Replacement Heads, Grey",
+       "link": "https://www.amazon.com.au/Disposable-Replacement-Lengthened-Bathroom-Cleaning/dp/B0DPFG8V8F/",
+       "price_text": "$21.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/toilet-kit_vis_thumb_036.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 28,
+       "bought": "100+ bought in past month"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Disposable Toilet Brush 2 Pack Toilet Brush Disposable with 72 Replacement Sponge Brush He",
+       "link": "https://www.amazon.com.au/Disposable-Toilet-Brush-Replacement-Bathroom/dp/B0H7RSLL6G/",
+       "price_text": "$35.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/toilet-kit_vis_thumb_045.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": 5,
+       "bought": null
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "us",
+     "status": "crowded",
+     "why": "Amazon.com at $33.99: a trusted Amazon listing (431 reviews, 100+ bought in past month). 9 other copies",
+     "prices": {
+      "brand": 179.0,
+      "cheapest_copy": 33.99,
+      "typical_copy": 33.99,
+      "cheapest_real_copy": 33.99,
+      "priced_copies": 1
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Shein",
+       "title": "EEEKit Disposable Toilet Brush And Holder Set, Wall Mounted ...",
+       "link": "https://m.shein.com/us/EEEKit-Disposable-Toilet-Brush-And-Holder-Set-Wall-Mounted-Toilet-Bowl-Brushes-With-18-Refills-And-Extended-Handle-For-Bathroom-Sink-Bathtub-Cleaning-p-261156773.html?cdn_rsite=cf&ref=www&rep=dir&ret=mus",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_51.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "eBay",
+       "title": "Disposable Toilet Cleaning Brush and Holder Set with 24 ...",
+       "link": "https://www.ebay.com/itm/285337480649",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_52.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Walmart",
+       "title": "Disposable Toilet Brush with 48 Refills, Toilet Bowl Wand ...",
+       "link": "https://www.walmart.com/ip/Disposable-Toilet-Brush-with-48-Refills/17633570784",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_55.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Temu",
+       "title": "disposable toilet cleaner sold on Temu United States",
+       "link": "https://www.temu.com/disposable-toilet-cleaner-5030035681485-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_56.jpg",
+       "strength": "strong",
+       "strength_why": "on Temu or Shein"
+      },
+      {
+       "source": "eBay",
+       "title": "SOPAMI Disposable Toilet Cleaning System - Wand Kit with 32 ...",
+       "link": "https://www.ebay.com/itm/157907123121",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_62.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "JUDRDO Disposable Toilet Brush, Toilet Bowl ... - Amazon.com",
+       "link": "https://www.amazon.com/clp/B0G3X55H54",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_74.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: wlich Disposable Toilet Brush Set with 48 ...",
+       "link": "https://www.amazon.com/clp/B0G434GJVS",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_75.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Zeefpod 150 Pack Toilet Brush Refills ...",
+       "link": "https://www.amazon.com/Refills-Disposable-Single-Use-Hygienic-Scrubber/dp/B0G1MS424B",
+       "price_text": "$33.99",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_76.jpg",
+       "looked_up": true,
+       "reviews": 431,
+       "bought": "100+ bought in past month",
+       "strength": "strong",
+       "strength_why": "a trusted Amazon listing (431 reviews, 100+ bought in past month)"
+      },
+      {
+       "source": "Walmart",
+       "title": "Disposable Toilet Brush with 48 Refills, Toilet Bowl Wand and ...",
+       "link": "https://www.walmart.com/ip/Disposable-Toilet-Brush-with-48-Refills/17633570784",
+       "price_text": null,
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_77.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      },
+      {
+       "source": "Amazon.com",
+       "title": "Amazon.com: Ctime Disposable Toilet Brush Set with 30 ...",
+       "link": "https://www.amazon.com/clp/B0FWJSZNLD",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_78.jpg",
+       "strength": "weak",
+       "strength_why": "found only by photo"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "uk",
+     "status": "blocked",
+     "why": "The same object is sold by B&Q at £20",
+     "prices": {
+      "brand": 134.25,
+      "cheapest_copy": 12.0,
+      "typical_copy": 13.0,
+      "cheapest_real_copy": 20.0,
+      "priced_copies": 7
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon UK",
+       "title": "ANOMM Toilet Wand Kit with 36 Refills and Extended Handle ...",
+       "link": "https://www.amazon.co.uk/ANOMM-Extended-Disposable-Cleaning-Bathroom/dp/B0FPW7YZLF",
+       "price_text": "£12",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_06.jpg",
+       "looked_up": true,
+       "reviews": 224,
+       "bought": "50+ bought in past month"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Newthinking Disposable Toilet Brush, Disposable Toilet Wand ...",
+       "link": "https://www.amazon.co.uk/Newthinking-Disposable-Cleaning-Refills-Bathroom/dp/B0CPHPPG1F",
+       "price_text": "£12",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_07.jpg"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Disposable Toilet Brush & Holder Set with 40 Cleaner Refills ...",
+       "link": "https://www.amazon.co.uk/Disposable-Cleaner-Refills-Cleaning-Bathroom/dp/B0G4M25L1M",
+       "price_text": "£14",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_08.jpg"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "2 Pcs Disposable Toilet Brush, Toilet Wand Kit with 60 ...",
+       "link": "https://www.amazon.co.uk/Disposable-Toilet-Brush-Cleaning-Replacement/dp/B0FNXF261G",
+       "price_text": "£12",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_09.jpg"
+      },
+      {
+       "source": "B&Q",
+       "title": "18 Piece Disposable Toilet Brush Head Kit ,Deep Clean System ...",
+       "link": "https://www.diy.com/departments/18-piece-disposable-toilet-brush-head-kit-deep-clean-system-with-sleek-storage-caddy-hygienic-and-hassle-free-bathroom-cleaning/5060811842393_BQ.prd",
+       "price_text": "£20",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_10.jpg"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Complete Toilet Brush Kit with Disposable Heads - Effortless ...",
+       "link": "https://www.amazon.co.uk/Complete-Toilet-Brush-Disposable-Heads/dp/B0C5TR3KRJ",
+       "price_text": "£13",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_11.jpg"
+      },
+      {
+       "source": "Amazon UK",
+       "title": "Your Loo Buddy Toilet Cleaning System Hygienic - New ...",
+       "link": "https://www.amazon.co.uk/Loo-Buddy-Toilet-Cleaning-Hygienic/dp/B0H165QMVF",
+       "price_text": "£23",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_12.jpg"
+      },
+      {
+       "source": "Shein",
+       "title": "EEEKit Disposable Toilet Brush And Holder Set, Wall Mounted ...",
+       "link": "https://m.shein.com/us/EEEKit-Disposable-Toilet-Brush-And-Holder-Set-Wall-Mounted-Toilet-Bowl-Brushes-With-18-Refills-And-Extended-Handle-For-Bathroom-Sink-Bathtub-Cleaning-p-261156773.html?cdn_rsite=cf&ref=www&rep=dir&ret=mus",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_51.jpg"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "ca",
+     "status": "blocked",
+     "why": "The same object is sold by Walmart at CA$101",
+     "prices": {
+      "brand": 245.23,
+      "cheapest_copy": 13.0,
+      "typical_copy": 35.99,
+      "cheapest_real_copy": 21.0,
+      "priced_copies": 11
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.ca",
+       "title": "Disposable Toilet Brush with 54 Refill Heads, 2 Handles ...",
+       "link": "https://www.amazon.ca/Disposable-Toilet-Handles-Holders-Included/dp/B0GJSQPCXS",
+       "price_text": "CA$36",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_13.jpg",
+       "looked_up": true,
+       "reviews": 76,
+       "bought": "500+ bought in past month"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Disposable Toilet Brush Refills, Wall Mount Toilet Bowl ...",
+       "link": "https://www.amazon.ca/Disposable-Extended-Cleaning-Suitable-Bathrooms/dp/B0DL5BRCZN",
+       "price_text": "CA$13",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_14.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Disposable Toilet Brush with 24pcs Refills, Toilet Wand ...",
+       "link": "https://www.amazon.ca/Disposable-Extended-Cleaning-Cleaners-Fragrance/dp/B0F8QYMSP3",
+       "price_text": "CA$13",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_15.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Disposable Toilet Brush and Holder Set, with 50 PCS Toilet ...",
+       "link": "https://www.walmart.ca/en/ip/Disposable-Toilet-Brush-Holder-Set-50-PCS-Bowl-Wand-Refills-Clorox-Wall-Mounted-T-oilet-Kit-Bathroom-Sink-Bathtub-Touchless-T-o/638UB7KQ2K13",
+       "price_text": "CA$101",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_16.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Ucaimao 2 Pack Disposable Toilet Brush and Holder Set ...",
+       "link": "https://www.amazon.ca/Ucaimao-Disposable-Extended-Cleaners-Bathroom/dp/B0DG36RD5N",
+       "price_text": "CA$40",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_17.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Disposable Toilet Brush, Toilet Bowl Cleaner Brush with 54 ...",
+       "link": "https://www.amazon.ca/Disposable-Toilet-Brush-Cleaning-Bathroom/dp/B0F5WNRY8X",
+       "price_text": "CA$22",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_18.jpg"
+      },
+      {
+       "source": "Walmart",
+       "title": "Toilet Cleaner Brush,Disposable Toilet Bowl Brush Toilet ...",
+       "link": "https://www.walmart.ca/en/ip/Toilet-Cleaner-Brush-Disposable-Toilet-Bowl-Brush-Toilet-Brush-Cleaner-Disposable-Toilet-Bowl-Brush-Unbeatable-Value/1Y7WY4BZH0K1",
+       "price_text": "CA$21",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_19.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Disposable Toilet Brush, Toilet Bowl Cleaner Brush with ...",
+       "link": "https://www.amazon.ca/Disposable-Toilet-Cleaner-Refills-Cleaning/dp/B0D6Z958QV",
+       "price_text": "CA$20",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_20.jpg"
+      },
+      {
+       "source": "Amazon.ca",
+       "title": "Disposable Toilet Brush and Holder Set with 112 Toilet Bowl ...",
+       "link": "https://www.amazon.ca/Disposable-Toilet-Brush-Cleaner-Refills/dp/B0CXDPBXMD",
+       "price_text": "CA$73",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_22.jpg"
+      },
+      {
+       "source": "Shein",
+       "title": "EEEKit Disposable Toilet Brush And Holder Set, Wall Mounted ...",
+       "link": "https://m.shein.com/us/EEEKit-Disposable-Toilet-Brush-And-Holder-Set-Wall-Mounted-Toilet-Bowl-Brushes-With-18-Refills-And-Extended-Handle-For-Bathroom-Sink-Bathtub-Cleaning-p-261156773.html?cdn_rsite=cf&ref=www&rep=dir&ret=mus",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_51.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "disposable toilet cleaner sold on Temu United States",
+       "link": "https://www.temu.com/disposable-toilet-cleaner-5030035681485-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_56.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "فرشاة/مجموعة مرحاض للاستعمال مرة واحدة تتضمن 16 رأسًا - Temu ...",
+       "link": "https://www.temu.com/om/disposable-toilet-brush-set-with-16-replacement-heads-buy-separate-replacement-brushes-16-32-64pcs-hands-free-cleaning-tool-for-bathroom-and-toilet-practical-gift-for-christmas-halloween-g-601102914809381.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_63.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "toilet brushes sold on Temu United States",
+       "link": "https://www.temu.com/toilet-brushes-5020266421691-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_64.jpg"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "Disposable Toilet Brush with 54 Refill Heads, 2 Handles & Holders Included – No-Touch Toil",
+       "link": "https://www.amazon.ca/dp/B0GJSQPCXS/",
+       "price_text": "$35.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/toilet-kit_vis_thumb_017.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 5,
+       "reviews": 76,
+       "bought": "500+ bought in past month"
+      },
+      {
+       "source": "amazon.ca",
+       "title": "2 Pack Disposable Toilet Brush and Holder Set,Extended Handle with 48 Cleaner Refills Toil",
+       "link": "https://www.amazon.ca/dp/B0DG36RD5N/",
+       "price_text": "$39.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/toilet-kit_vis_thumb_022.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 6,
+       "reviews": 1100,
+       "bought": "400+ bought in past month"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "de",
+     "status": "blocked",
+     "why": "The same object is sold by OTTO at €19",
+     "prices": {
+      "brand": 153.94,
+      "cheapest_copy": 14.0,
+      "typical_copy": 19.0,
+      "cheapest_real_copy": 19.0,
+      "priced_copies": 2
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "Amazon.de",
+       "title": "Disposable Toilet Brush, Disposable Toilet Cleaning System ...",
+       "link": "https://www.amazon.de/-/en/Disposable-Toilet-Cleaning-Replacement-Bathroom/dp/B0CCP26DNN",
+       "price_text": "€14",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_23.jpg",
+       "looked_up": true,
+       "reviews": null,
+       "bought": null
+      },
+      {
+       "source": "OTTO",
+       "title": "HUGERSTONE WC-Reinigungsbürste Einweg Toilettenbürste ...",
+       "link": "https://www.otto.de/p/hugerstone-wc-reinigungsbuerste-einweg-toilettenbuerste-klobuerste-mit-48-stueck-reiniger-nachfuellungen-48-tlg-wc-buerste-mit-verlaengertem-griff-und-wandhalterung-geeignet-fuer-badezimmerreinigung-waschbecken-und-badewanne-S0LJ805Q/",
+       "price_text": "€19",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_24.jpg"
+      },
+      {
+       "source": "Shein",
+       "title": "EEEKit Disposable Toilet Brush And Holder Set, Wall Mounted ...",
+       "link": "https://m.shein.com/us/EEEKit-Disposable-Toilet-Brush-And-Holder-Set-Wall-Mounted-Toilet-Bowl-Brushes-With-18-Refills-And-Extended-Handle-For-Bathroom-Sink-Bathtub-Cleaning-p-261156773.html?cdn_rsite=cf&ref=www&rep=dir&ret=mus",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_51.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "disposable toilet cleaner sold on Temu United States",
+       "link": "https://www.temu.com/disposable-toilet-cleaner-5030035681485-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_56.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "فرشاة/مجموعة مرحاض للاستعمال مرة واحدة تتضمن 16 رأسًا - Temu ...",
+       "link": "https://www.temu.com/om/disposable-toilet-brush-set-with-16-replacement-heads-buy-separate-replacement-brushes-16-32-64pcs-hands-free-cleaning-tool-for-bathroom-and-toilet-practical-gift-for-christmas-halloween-g-601102914809381.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_63.jpg"
+      },
+      {
+       "source": "Temu",
+       "title": "toilet brushes sold on Temu United States",
+       "link": "https://www.temu.com/toilet-brushes-5020266421691-s.html",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_64.jpg"
+      }
+     ],
+     "picture_matches": 60
+    },
+    {
+     "cc": "nz",
+     "status": "blocked",
+     "why": "The same object is sold by The Warehouse at NZ$31",
+     "prices": {
+      "brand": 300.72,
+      "cheapest_copy": 21.99,
+      "typical_copy": 33.0,
+      "cheapest_real_copy": 31.0,
+      "priced_copies": 11
+     },
+     "findability_checked": true,
+     "same_object_listings": [
+      {
+       "source": "The Warehouse",
+       "title": "Toilet Brush Cleaning Kit with 18Pcs Replacement Brush Heads ...",
+       "link": "https://www.thewarehouse.co.nz/p/toilet-brush-cleaning-kit-with-18pcs-replacement-brush-heads-and-holder-grey/M36996044.html",
+       "price_text": "NZ$31",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_25.jpg"
+      },
+      {
+       "source": "Dick Smith",
+       "title": "Buy Disposable Toilet Brush Set Toilet Cleaning Supplies ...",
+       "link": "https://www.dicksmith.co.nz/dn/buy/microway-disposable-toilet-brush-set-with-18pcs-replacement-brush-heads-white-825421-whi/",
+       "price_text": "NZ$30",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_26.jpg"
+      },
+      {
+       "source": "The Warehouse",
+       "title": "Toilet Brush Set with Replaceable Heads | The Warehouse",
+       "link": "https://www.thewarehouse.co.nz/p/toilet-brush-set-with-replaceable-heads/M36992054.html",
+       "price_text": "NZ$33",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_27.jpg"
+      },
+      {
+       "source": "The Warehouse",
+       "title": "Toilet Bowl Brush Holder Set with 24 Refill Heads | The ...",
+       "link": "https://www.thewarehouse.co.nz/p/toilet-bowl-brush-holder-set-with-24-refill-heads/M36954422.html",
+       "price_text": "NZ$32",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_28.jpg"
+      },
+      {
+       "source": "Mighty Ape",
+       "title": "Buy Disposable Toilet Brush Toilet Wand with 16 Pieces ...",
+       "link": "https://www.mightyape.co.nz/mn/buy/game-player-disposable-toilet-brush-toilet-wand-with-16-pieces-replacement-heads-8410659455010/",
+       "price_text": "NZ$51",
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_30.jpg"
+      },
+      {
+       "source": "The Warehouse",
+       "title": "Toilet Bowl Brush with 30 Refills | The Warehouse",
+       "link": "https://www.thewarehouse.co.nz/p/toilet-bowl-brush-with-30-refills/M36975269.html",
+       "price_text": "NZ$39",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_31.jpg"
+      },
+      {
+       "source": "Ozerty New Zealand - Ozerty New Zealand",
+       "title": "Disposable toilet brush | Toilet brush with disposable head ...",
+       "link": "https://ozerty.co.nz/products/efficient-cleaning-disposable-toilet-brush",
+       "price_text": "NZ$28",
+       "kind": "other store",
+       "thumb_file": "lens/toilet-kit_thumb_43.jpg"
+      },
+      {
+       "source": "MiracleMop NZ",
+       "title": "MiracleWand™ Magic Toilet Brush",
+       "link": "https://miracleclean.nz/products/miraclewand",
+       "price_text": "NZ$50",
+       "kind": "other store",
+       "thumb_file": "lens/toilet-kit_thumb_46.jpg"
+      },
+      {
+       "source": "Shein",
+       "title": "EEEKit Disposable Toilet Brush And Holder Set, Wall Mounted ...",
+       "link": "https://m.shein.com/us/EEEKit-Disposable-Toilet-Brush-And-Holder-Set-Wall-Mounted-Toilet-Bowl-Brushes-With-18-Refills-And-Extended-Handle-For-Bathroom-Sink-Bathtub-Cleaning-p-261156773.html?cdn_rsite=cf&ref=www&rep=dir&ret=mus",
+       "price_text": null,
+       "kind": "marketplace",
+       "thumb_file": "lens/toilet-kit_thumb_51.jpg"
+      },
+      {
+       "source": "The Warehouse",
+       "title": "Disposable Toilet Brush Set | The Warehouse",
+       "link": "https://www.thewarehouse.co.nz/p/disposable-toilet-brush-set/M36856637.html",
+       "price_text": "NZ$33",
+       "kind": "big chain",
+       "thumb_file": "lens/toilet-kit_thumb_59.jpg"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Disposable Toilet Brush Set with 30PCS Replacement Heads, Grey",
+       "link": "https://www.amazon.com.au/Disposable-Replacement-Lengthened-Bathroom-Cleaning/dp/B0DPFG8V8F/",
+       "price_text": "$21.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/toilet-kit_vis_thumb_036.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 10,
+       "reviews": 28,
+       "bought": "100+ bought in past month"
+      },
+      {
+       "source": "amazon.com.au",
+       "title": "Disposable Toilet Brush 2 Pack Toilet Brush Disposable with 72 Replacement Sponge Brush He",
+       "link": "https://www.amazon.com.au/Disposable-Toilet-Brush-Replacement-Bathroom/dp/B0H7RSLL6G/",
+       "price_text": "$35.99",
+       "kind": "marketplace",
+       "thumb_file": "visible/toilet-kit_vis_thumb_045.jpg",
+       "found_by_words": true,
+       "where": "Amazon",
+       "rank": 12,
+       "reviews": 5,
+       "bought": null
+      }
+     ],
+     "picture_matches": 60
+    }
+   ],
+   "lens_sheet": "lens/toilet-kit_sheet.jpg",
+   "supplier": {
+    "slug": "toilet-kit",
+    "brand_price": 48.0,
+    "brand_currency": "usd",
+    "words": "disposable toilet brush",
+    "aliexpress_search": "https://www.aliexpress.com/w/wholesale-disposable-toilet-brush.html",
+    "listings": [
+     {
+      "n": 1,
+      "site": "AliExpress",
+      "order_type": "single orders",
+      "title": "Disposable Toilet Bowl Cleaning Wand Kit Practical Toilet ...",
+      "link": "https://www.aliexpress.com/item/1005007593490660.html",
+      "thumb_file": "lens/toilet-kit_thumb_57.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 2,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Eco-Friendly Disposable Toilet Brush Cleaner with Long ...",
+      "link": "https://www.alibaba.com/product-detail/Eco-Friendly-Cleaning-Products-Disposable-Toilet_1601119994745.html",
+      "thumb_file": "lens/toilet-kit_thumb_01.jpg",
+      "price_seen_in_search": "$2*",
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 3,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "FF814 Disposable Toilet Bowl Brush with 16 Toilte Brush Head ...",
+      "link": "https://www.alibaba.com/product-detail/FF814-Disposable-Toilet-Bowl-Brush-with_1600751403873.html",
+      "thumb_file": "lens/toilet-kit_thumb_53.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 4,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Esun Eco-Friendly Disposable Toilet Brush & Scrubber with ...",
+      "link": "https://www.alibaba.com/product-detail/Esun-Disposable-Toilet-Brush-Toilet-Scrubber_10000042564168.html",
+      "thumb_file": "lens/toilet-kit_thumb_58.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     },
+     {
+      "n": 5,
+      "site": "Alibaba",
+      "order_type": "bulk orders",
+      "title": "Holamopa Wall Mounted Toilet Bowl Cleaner Kit Disposable PP ...",
+      "link": "https://www.alibaba.com/product-detail/Holamopa-Wall-Mounted-Toilet-Bowl-Cleaner_1601444260125.html",
+      "thumb_file": "lens/toilet-kit_thumb_61.jpg",
+      "price_seen_in_search": null,
+      "price": null,
+      "currency": null,
+      "shipping": null,
+      "note": null
+     }
+    ],
+    "summary": {
+     "found": 5,
+     "priced": 0,
+     "brand_price_usd": 48.0,
+     "status": "found, price not read",
+     "plain": "5 supplier listings found. Open them to read the price: supplier sites do not show prices to search engines."
+    }
+   },
+   "meta": {
+    "slug": "tk-14457",
+    "phrase": "disposable toilet",
+    "checked": "2026-10-15",
+    "source": "Facebook Ad Library via Apify",
+    "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22disposable%20toilet%22",
+    "ads_loaded": 200,
+    "capped": true,
+    "stopped_by": "stopped at 200 ads (there are more)",
+    "n_advertisers": 65,
+    "advertisers_with_3_plus_ads": 18,
+    "biggest_advertiser_share": 0.3,
+    "brands_new_in_last_2_months": 43,
+    "brands_advertising_3_plus_months": 17,
+    "ads_started_last_2_months": 144,
+    "ads_older_than_6_months": 13,
+    "pattern": "crowded",
+    "plain": "At least 65 brands advertise it; 17 have kept ads running 3+ months, 43 are new in the last two months. We stopped counting at 200 ads, so the real numbers are higher. Of the 8 biggest shops we could date, 3 are over a year old and 5 opened in the last four months.",
+    "months": {
+     "2025-05": 1,
+     "2026-01": 1,
+     "2026-02": 1,
+     "2026-03": 4,
+     "2026-04": 6,
+     "2026-05": 3,
+     "2026-06": 4,
+     "2026-07": 8,
+     "2026-08": 28,
+     "2026-09": 98,
+     "2026-10": 46
+    },
+    "brand_months": {
+     "2025-05": 1,
+     "2026-01": 1,
+     "2026-02": 1,
+     "2026-03": 3,
+     "2026-04": 2,
+     "2026-05": 2,
+     "2026-06": 3,
+     "2026-07": 7,
+     "2026-08": 9,
+     "2026-09": 20,
+     "2026-10": 16
+    },
+    "top_advertisers": [
+     {
+      "name": "בניסטי - המחסן לצרכן",
+      "pages": 2,
+      "page_names": [
+       "בניסטי - המחסן לצרכן",
+       "מדברים נקי - סודות הניקיון לבית נקי יותר "
+      ],
+      "ads": 60,
+      "oldest_live_ad": "2026-08-18",
+      "page_likes": 1817,
+      "headline": "ככה מנקים שירותים ב-2026 ✨",
+      "shop": "benistie.com",
+      "product_page": "https://benistie.com/products/disposable-toilet-cleaning-kit",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1248784234983296",
+      "shop_open_since": "2026-08-02"
+     },
+     {
+      "name": "Starrember",
+      "pages": 1,
+      "page_names": [
+       "Starrember"
+      ],
+      "ads": 10,
+      "oldest_live_ad": "2026-09-15",
+      "page_likes": 107,
+      "headline": "🔥BIG SALE SPECIAL PRICE £6.99!!⚡50K+ SOLD!🚽💦Hands-Free Cleaning Gadget🧽Disposable toilet c",
+      "shop": "starrember.com",
+      "product_page": "https://starrember.com/products/toilet-cleaning-tool",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1301128916411515",
+      "shop_open_since": "2026-07-20"
+     },
+     {
+      "name": "buyzi.pk",
+      "pages": 1,
+      "page_names": [
+       "buyzi.pk"
+      ],
+      "ads": 10,
+      "oldest_live_ad": "2026-08-25",
+      "page_likes": 4531,
+      "headline": "1000 + Satisfied Customer ⭐⭐⭐⭐⭐",
+      "shop": "buyzi.pk",
+      "product_page": "https://buyzi.pk/products/dispossible-toilet-seat-covers-hygienic-travel-friendly",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=750907778096192",
+      "shop_open_since": "2025-07-24"
+     },
+     {
+      "name": "Chic-lucky",
+      "pages": 1,
+      "page_names": [
+       "Chic-lucky"
+      ],
+      "ads": 8,
+      "oldest_live_ad": "2026-06-26",
+      "page_likes": 13614,
+      "headline": "Traditional brushes? Bacteria traps 🤢—this one changes everything.\n\n✅ No-touch, wall-mount",
+      "shop": "chic-lucky.com",
+      "product_page": "https://chic-lucky.com/products/toilet",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=471107766075254",
+      "shop_open_since": "2026-08-05"
+     },
+     {
+      "name": "Copenrain Shop",
+      "pages": 1,
+      "page_names": [
+       "Copenrain Shop"
+      ],
+      "ads": 7,
+      "oldest_live_ad": "2026-03-31",
+      "page_likes": 3194,
+      "headline": "🧼 Disposable toilet brush with cleaning solution in the head: disposable, without getting ",
+      "shop": "copenrain.com",
+      "product_page": "https://copenrain.com/products/deispo",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=116313661562371",
+      "shop_open_since": "2026-08-25"
+     },
+     {
+      "name": "Shopee",
+      "pages": 1,
+      "page_names": [
+       "Shopee"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-07-13",
+      "page_likes": 3089,
+      "headline": "Shopee🔗👉https://s.shopee.ph/2qTGov3AxP",
+      "shop": "s.shopee.ph",
+      "product_page": "https://s.shopee.ph/2qTGov3AxP",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1405090646463166",
+      "shop_open_since": null
+     },
+     {
+      "name": "Eliana Cart",
+      "pages": 1,
+      "page_names": [
+       "Eliana Cart"
+      ],
+      "ads": 6,
+      "oldest_live_ad": "2026-09-30",
+      "page_likes": 704,
+      "headline": "🚨 Public Restroom? Bring Your Own Barrier!",
+      "shop": "gocartgenix.online",
+      "product_page": "https://www.gocartgenix.online/dispotoiletseatcover",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=554507571089162",
+      "shop_open_since": null
+     },
+     {
+      "name": "Sopami",
+      "pages": 1,
+      "page_names": [
+       "Sopami"
+      ],
+      "ads": 5,
+      "oldest_live_ad": "2026-09-21",
+      "page_likes": null,
+      "headline": "🤮Keep germs away from you.",
+      "shop": "sopamiclean.com",
+      "product_page": "https://sopamiclean.com/products/sopami-disposable-toilet-wand-kit-no-touch-bathroom-cleaning-system-with-refill-heads",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1284555054747125",
+      "shop_open_since": "2026-07-29"
+     },
+     {
+      "name": "Hverdagsfiks",
+      "pages": 1,
+      "page_names": [
+       "Hverdagsfiks"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-05-25",
+      "page_likes": 117,
+      "headline": "Norges mest virale børste!",
+      "shop": "hverdagsfiks.no",
+      "product_page": "https://hverdagsfiks.no/products/disposable-toilet-brush-cleaner-with-long-handle-bathroom-cleaning-brush-with-replaceable-brush-head-toilet-bathroom-accessories",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=574536775751259",
+      "shop_open_since": "2025-04-07"
+     },
+     {
+      "name": "Travel Store2u",
+      "pages": 1,
+      "page_names": [
+       "Travel Store2u"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-09-18",
+      "page_likes": 59,
+      "headline": "Disposable Toilet Seat Cover Untuk Tandas Lebih Hygienic",
+      "shop": "laris2u.com",
+      "product_page": "https://laris2u.com/toilet-cover-pack",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=793266777213649",
+      "shop_open_since": null
+     },
+     {
+      "name": "Stardusst",
+      "pages": 1,
+      "page_names": [
+       "Stardusst"
+      ],
+      "ads": 4,
+      "oldest_live_ad": "2026-09-28",
+      "page_likes": 10621,
+      "headline": "LAST DAY SALE £6.99!!⚡50K+ SOLD!🚽💦",
+      "shop": "stardusst.com",
+      "product_page": "https://stardusst.com/products/toilet-cleaning-tool",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=308432535676425",
+      "shop_open_since": "2025-03-17"
+     },
+     {
+      "name": "Everything Envy",
+      "pages": 1,
+      "page_names": [
+       "Everything Envy"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-04",
+      "page_likes": 125411,
+      "headline": "Your bathroom cleaning routine just got better✨\n\nThis wall-mounted toilet brush uses a fre",
+      "shop": "urlgeni.us",
+      "product_page": "https://urlgeni.us/amzn/mountedtoiletbowlcleanerigstories_EE",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1784938548494601",
+      "shop_open_since": null
+     },
+     {
+      "name": "Potti Kade - The Discount Store",
+      "pages": 1,
+      "page_names": [
+       "Potti Kade - The Discount Store"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-07-12",
+      "page_likes": 5730,
+      "headline": "Disposable Toilet Seat Cover (50PCS Pack) Price – Rs.1190/-",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=482556608858403",
+      "shop_open_since": null
+     },
+     {
+      "name": "Goodsgoo",
+      "pages": 1,
+      "page_names": [
+       "Goodsgoo"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-04-13",
+      "page_likes": 2640,
+      "headline": "🚽✨ Clean without the ick.\n\nThis Disposable Toilet Brush comes with replaceable heads—use, ",
+      "shop": "goodsgoo.com",
+      "product_page": "https://goodsgoo.com/products/deispo",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=212810141911571",
+      "shop_open_since": null
+     },
+     {
+      "name": "Sunny store ph",
+      "pages": 1,
+      "page_names": [
+       "Sunny store ph"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-28",
+      "page_likes": 5,
+      "headline": "{{product.name}}",
+      "shop": "shopee.ph",
+      "product_page": "https://shopee.ph/shop/1852527690",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1388136477708127",
+      "shop_open_since": null
+     },
+     {
+      "name": "Bimzmarketplace",
+      "pages": 1,
+      "page_names": [
+       "Bimzmarketplace"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-08-21",
+      "page_likes": 5732,
+      "headline": "Cleaning shouldn’t take all your energy. 🧹✨\n\nSometimes the problem isn’t how you clean, it",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=2239932346244408",
+      "shop_open_since": null
+     },
+     {
+      "name": "Zenshomeco",
+      "pages": 1,
+      "page_names": [
+       "Zenshomeco"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-09-07",
+      "page_likes": 14,
+      "headline": "Upgrade Your Toilet Cleaning",
+      "shop": "zenshomeco.ae",
+      "product_page": "https://zenshomeco.ae/products/disposable-toilet-brush-set-with-replacement-heads-for-hygienic-bathroom-cleaning",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=948130161727081",
+      "shop_open_since": null
+     },
+     {
+      "name": "Ehraam House",
+      "pages": 1,
+      "page_names": [
+       "Ehraam House"
+      ],
+      "ads": 3,
+      "oldest_live_ad": "2026-08-20",
+      "page_likes": 420,
+      "headline": "Off UPTO 40% | {{product.name}}|{{product.current_price strip_zeros}}",
+      "shop": "ehraamhouse.pk",
+      "product_page": "https://ehraamhouse.pk/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=899744989895166",
+      "shop_open_since": null
+     },
+     {
+      "name": "Amazon India",
+      "pages": 1,
+      "page_names": [
+       "Amazon India"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-07",
+      "page_likes": 10550889,
+      "headline": "Amazon India",
+      "shop": "amazon.in",
+      "product_page": "https://www.amazon.in/dp/B0C595MMWG",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100281786832302",
+      "shop_open_since": null
+     },
+     {
+      "name": "Homaz هوماز",
+      "pages": 1,
+      "page_names": [
+       "Homaz هوماز"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-06-29",
+      "page_likes": 13416,
+      "headline": "{{product.name}}",
+      "shop": "homaz.shop",
+      "product_page": "http://homaz.shop/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=461010700434114",
+      "shop_open_since": null
+     },
+     {
+      "name": "Flowee ",
+      "pages": 2,
+      "page_names": [
+       "Flowee ",
+       "Shopix"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-08-07",
+      "page_likes": 158,
+      "headline": "Flowee",
+      "shop": "api.whatsapp.com",
+      "product_page": "https://api.whatsapp.com/send",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1215861714942411",
+      "shop_open_since": null
+     },
+     {
+      "name": "Fyndo ",
+      "pages": 1,
+      "page_names": [
+       "Fyndo "
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-09-21",
+      "page_likes": 938,
+      "headline": "𝐔𝐏 𝐓𝐎 𝟐𝟕% 𝐎𝐅𝐅!!",
+      "shop": "fyndobd.com",
+      "product_page": "https://fyndobd.com/products/disposable-toilet-cleaner-set",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1031345286723010",
+      "shop_open_since": null
+     },
+     {
+      "name": "Qinerl shop",
+      "pages": 1,
+      "page_names": [
+       "Qinerl shop"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-09-04",
+      "page_likes": 26,
+      "headline": "🧹 Hygiene im Bad – ohne Berührung, ohne Kompromisse.\nSchluss mit schmutzigen Bürstenköpfen",
+      "shop": "qinerl.com",
+      "product_page": "https://qinerl.com/products/no-touch-disposable-toilet-scrubber-set-3",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1356113434245414",
+      "shop_open_since": null
+     },
+     {
+      "name": "Potty Paper",
+      "pages": 1,
+      "page_names": [
+       "Potty Paper"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-09",
+      "page_likes": 5,
+      "headline": "Public Toilet? No Problem. 💛",
+      "shop": "pottypaper.co.za",
+      "product_page": "https://pottypaper.co.za/",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1274737932381657",
+      "shop_open_since": null
+     },
+     {
+      "name": "Cashaion B",
+      "pages": 1,
+      "page_names": [
+       "Cashaion B"
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-07-10",
+      "page_likes": 5635,
+      "headline": "🚚Utánvétes Fizetést",
+      "shop": "cashaion.com",
+      "product_page": "https://cashaion.com/products/eqit",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=344383645414115",
+      "shop_open_since": null
+     },
+     {
+      "name": "Souqi.lb ",
+      "pages": 1,
+      "page_names": [
+       "Souqi.lb "
+      ],
+      "ads": 2,
+      "oldest_live_ad": "2026-10-04",
+      "page_likes": 55,
+      "headline": "Disposable Toilet Brush Set 🚽\n\nA cleaner way to clean! ✨\n\n🧽 Disposable sponge heads\n🎁 8 sp",
+      "shop": "souqi-lb.com",
+      "product_page": "https://souqi-lb.com/products/disposable-toilet-brush-set",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1110767958797609",
+      "shop_open_since": null
+     },
+     {
+      "name": "Kiwi Cleaning Tips",
+      "pages": 1,
+      "page_names": [
+       "Kiwi Cleaning Tips"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-03-01",
+      "page_likes": 802,
+      "headline": "Ditch the gross \"germ stick\" in your loo 🤢",
+      "shop": "miracleclean.nz",
+      "product_page": "https://miracleclean.nz/pages/7-reasons-why-bogo",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1024031224123924",
+      "shop_open_since": null
+     },
+     {
+      "name": "Match & Catch",
+      "pages": 1,
+      "page_names": [
+       "Match & Catch"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2025-05-14",
+      "page_likes": 32567,
+      "headline": "25pcs 990/= Delivery 300/=, If buy 50pcs 1980/= Free Delivery",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102783582150183",
+      "shop_open_since": null
+     },
+     {
+      "name": "casa shop كزا شوب",
+      "pages": 1,
+      "page_names": [
+       "casa shop كزا شوب"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-05-09",
+      "page_likes": 291,
+      "headline": "غلاف مرحاض",
+      "shop": "victoriaone.me",
+      "product_page": "https://victoriaone.me/pages/aghty-alblastyk-alshy-lkrsy-lmrhad",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=570808086111294",
+      "shop_open_since": null
+     },
+     {
+      "name": "Seecion",
+      "pages": 1,
+      "page_names": [
+       "Seecion"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-02-22",
+      "page_likes": 1831,
+      "headline": "🔥LAST DAY SALE £7.99!!⚡50K+ SOLD!🚽💦Hands-Free Cleaning Gadget🧽Disposable toilet cleaning t",
+      "shop": "seecion.com",
+      "product_page": "https://seecion.com/products/toilet-cleaning-tool1",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=279000491964284",
+      "shop_open_since": null
+     },
+     {
+      "name": "Budol Deals",
+      "pages": 1,
+      "page_names": [
+       "Budol Deals"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-31",
+      "page_likes": 464,
+      "headline": "LAZADA: https://s.lazada.com.ph/s.Z6N8Oi?c=d\nDisposable Toilet Seat Cover\n\nDito mabibili:\n",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1251007224753402",
+      "shop_open_since": null
+     },
+     {
+      "name": "Taztool",
+      "pages": 1,
+      "page_names": [
+       "Taztool"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-08-13",
+      "page_likes": 1129,
+      "headline": "{{product.name | titleize}}",
+      "shop": "taztool.com",
+      "product_page": "https://taztool.com/collections/taztool-collection",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107673945630535",
+      "shop_open_since": null
+     },
+     {
+      "name": "Suvaam India",
+      "pages": 1,
+      "page_names": [
+       "Suvaam India"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-04-06",
+      "page_likes": 173,
+      "headline": "Buy More, Get More FREE | Upgrade Your Cleaning",
+      "shop": "suvaam.com",
+      "product_page": "https://suvaam.com/products/disposable-toilet-cleaner-brush",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101839992970345",
+      "shop_open_since": null
+     },
+     {
+      "name": "Mega Savings LK",
+      "pages": 1,
+      "page_names": [
+       "Mega Savings LK"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-07-21",
+      "page_likes": 74,
+      "headline": "Disposable Toilet Seat Cover (50PCS Pack) | Only Rs. 1,290/-",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102200282207551",
+      "shop_open_since": null
+     },
+     {
+      "name": "GoDaily Bd",
+      "pages": 1,
+      "page_names": [
+       "GoDaily Bd"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-03",
+      "page_likes": 8405,
+      "headline": "🛑 𝗣𝘂𝗯𝗹𝗶𝗰 𝗧𝗼𝗶𝗹𝗲𝘁 দেখলেই অস্বস্তি? আর কোনো ভয় নেই! 🦠\n\nবিশেষ করে বাইরে বের হলে—অফিস, শপিংমল, ",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1003357852858790",
+      "shop_open_since": null
+     },
+     {
+      "name": "Britishen",
+      "pages": 1,
+      "page_names": [
+       "Britishen"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-01-30",
+      "page_likes": 1446,
+      "headline": "🧼✨💦Toss the mess, not your hands — disposable toilet wand with preloaded pads for clean an",
+      "shop": "britishen.com",
+      "product_page": "https://britishen.com/products/toilet-cleaning-system",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=339317425942623",
+      "shop_open_since": null
+     },
+     {
+      "name": "Greedass uk",
+      "pages": 1,
+      "page_names": [
+       "Greedass uk"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-03-18",
+      "page_likes": 837,
+      "headline": "🧼✨💦Släng smutsen, inte dina händer — engångstoalettborste med färdigblöta trasor för en re",
+      "shop": "greedass.com",
+      "product_page": "https://greedass.com/products/toilettenreinigungssystem-1",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=161924323671634",
+      "shop_open_since": null
+     },
+     {
+      "name": "Aliafrica Mall C11",
+      "pages": 1,
+      "page_names": [
+       "Aliafrica Mall C11"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-06",
+      "page_likes": 781,
+      "headline": "💥💃 😍🤩𝗔𝗹𝗶𝗮𝗳𝗿𝗶𝗰𝗮 𝗠𝗮𝗹𝗹 vous fait craquer 🫶🏻\nC’est la 𝘀𝗮𝗶𝘀𝗼𝗻 𝗱𝗲𝘀 𝗽𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻𝘀 chez 𝗔𝗹𝗶𝗮𝗳𝗿𝗶𝗰𝗮 𝗠𝗮𝗹",
+      "shop": null,
+      "product_page": null,
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=719400954580749",
+      "shop_open_since": null
+     },
+     {
+      "name": "Luna Isabella",
+      "pages": 1,
+      "page_names": [
+       "Luna Isabella"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-10-05",
+      "page_likes": 341,
+      "headline": "Cek Produknya Disini👉  https://s.shopee.co.id/6VO9sjyrql\n\nECOCO Disposable Toilet Brush Si",
+      "shop": "s.shopee.co.id",
+      "product_page": "https://s.shopee.co.id/6VO9sjyrql",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1302943222906690",
+      "shop_open_since": null
+     },
+     {
+      "name": "Chacshop",
+      "pages": 1,
+      "page_names": [
+       "Chacshop"
+      ],
+      "ads": 1,
+      "oldest_live_ad": "2026-09-02",
+      "page_likes": 4485,
+      "headline": "🎉 No more worries about unhygienic toilets!\n🌟 Disposable toilet seat covers for your safet",
+      "shop": "chacshop.com",
+      "product_page": "https://chacshop.com/products/mtt-1",
+      "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111130541702252",
+      "shop_open_since": null
+     }
+    ],
+    "domains": {
+     "benistie.com": 60,
+     "starrember.com": 10,
+     "buyzi.pk": 10,
+     "chic-lucky.com": 8,
+     "copenrain.com": 7,
+     "s.shopee.ph": 6,
+     "gocartgenix.online": 6,
+     "sopamiclean.com": 5,
+     "hverdagsfiks.no": 4,
+     "laris2u.com": 4,
+     "stardusst.com": 4,
+     "urlgeni.us": 3,
+     "goodsgoo.com": 3,
+     "shopee.ph": 3,
+     "zenshomeco.ae": 3,
+     "ehraamhouse.pk": 3,
+     "amazon.in": 2,
+     "homaz.shop": 2,
+     "api.whatsapp.com": 2,
+     "fyndobd.com": 2,
+     "qinerl.com": 2,
+     "s.shopee.co.id": 2,
+     "pottypaper.co.za": 2,
+     "cashaion.com": 2,
+     "souqi-lb.com": 2
+    },
+    "cost_usd": 1,
+    "shops_checked": 8,
+    "shops_over_a_year_old": 3,
+    "shops_under_4_months_old": 5,
+    "takeaway": "In English it's a swarm: 65+ brands, 43 new in two months. In Hebrew, Benistie is alone with 45 ads since 1 September. The product works in ads, but the six markets here are full."
+   },
+   "asis": [
+    {
+     "cc": "au",
+     "label": "Australia",
+     "query": "disposable toilet brush",
+     "image": "asis/toilet-kit_au_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "GLASSGUARD® Disposable Toilet Brush",
+       "link": "https://glassguard.com.au/products/disposable-toilet-brush?srsltid=AU7gw4V2swL6gvbOGjJSERvb2iXDUzHdefBPh3zcPHwOS30i9gMwUUty",
+       "domain": "glassguard.com.au",
+       "kind": "store / brand",
+       "snippet": "Single use brush heads release cleaning detergent as you scrub, then click off into the bin. Comes with 12 refill pads."
+      },
+      {
+       "position": 2,
+       "title": "Disposable Refill Toilet Brush Cleaning Pads",
+       "link": "https://www.wellsons.com.au/products/disposable-refill-toilet-brush-cleaning-pads?srsltid=AU7gw4XBPhK5mlnKArG-VHZb8KnYlYw3byfiNcFuUx9qy2qPS3YAlCgm",
+       "domain": "wellsons.com.au",
+       "kind": "store / brand",
+       "snippet": "+ Pads are flushable, leaving the toilet bowl fresh and clean. + Reaches crevices and hard-to-reach areas effortlessly. + Eliminates water residue, reducing the"
+      },
+      {
+       "position": 3,
+       "title": "Disposable Toilet Brush: ScrubLoo Kit with 8 Refill Heads",
+       "link": "https://scrubloo.com.au/products/scrubloo-easy-disposable-toilet-brush-kit-8-refill-sponges?srsltid=AU7gw4VVyCYjYHRWrzZoANDlsJWgVQvWIpKBoy_KjZDt1JjG9h3W1fJ5",
+       "domain": "scrubloo.com.au",
+       "kind": "store / brand",
+       "snippet": "o Disposable Toilet Brush Kit: 8 preloaded refill heads for no-touch, 360° hygienic cleaning. Keep your bathroom spotless—order now! Regular price $29.99 ..."
+      },
+      {
+       "position": 4,
+       "title": "Disposable Toilet Brush and Holder Set Toilet Cleaner ...",
+       "link": "https://www.amazon.com.au/Disposable-Cleaner-High-Performance-Cleaning-Supplies/dp/B0GHKG7J7Y",
+       "domain": "amazon.com.au",
+       "kind": "marketplace",
+       "snippet": "Each toilet brush contains 1 toilet wand with 1 long handle, 48 toilet scrubbing pads(3 secnt in total, 16pcs per scent) and 1 toilet caddy"
+      },
+      {
+       "position": 7,
+       "title": "Ozoffer Toilet Brush Refill Head Disposable Sponge Long ...",
+       "link": "https://www.bigw.com.au/product/ozoffer-toilet-brush-refill-head-disposable-sponge-long-handle-cleaning-scrubber-holder/p/9900019530?srsltid=AU7gw4XASp-y1p4nmw3zbo00HZ0nkbZRCveW4aQ8je3hbLoiaZ09KY4k",
+       "domain": "bigw.com.au",
+       "kind": "big chain",
+       "snippet": "These toilet scrub pad refill heads click onto the toilet and to swish, scrub and clean the toilet bowl and conveniently pop off to throw in the trash."
+      }
+     ],
+     "paa": [
+      "Are disposable toilet brushes any good?",
+      "What is the best disposable toilet brush?",
+      "What is the best disposable toilet brush in Australia?",
+      "What is a more hygienic alternative to a toilet brush?"
+     ],
+     "popular_products": [
+      {
+       "title": "Disposable Toilet Brush Set with 30PCS Replacement Heads, Wh",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "96-Pack Disposable Toilet Brush Refills Hygienic Sponge Head",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Disposable Toilet Brush and Holder Set with 42 Cleaner Refil",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Disposable Toilet Brush Toilet Bowl Cleaner, Toilet Bowl Bru",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Disposable Toilet Brush Toilet Bowl Cleaning Kit with 18Pcs ",
+       "price": null,
+       "source": "BIG W"
+      },
+      {
+       "title": "Aerlife Disposable Toilet Brush Set Cleaner Brush Holder & 4",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Toilet Brush Set with Replaceable Heads and Cleaning Liquid ",
+       "price": null,
+       "source": "BIG W"
+      },
+      {
+       "title": "Disposable Toilet Brush Set Cleaner Brush Holder 48 Refill H",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Disposable Toilet Bowl Brush Deep Cleaning Bacteria Inhibiti",
+       "price": null,
+       "source": "Woolworths"
+      },
+      {
+       "title": "Disposable Toilet Brush Set with Holder – 90 Replacement Hea",
+       "price": null,
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A disposable toilet brush replaces traditional dirty-bristled brushes with a click-on, click-off cleaning wand and single-use sponge or non-woven fabric heads. If you'd like, let me know: I can help you pick the best set for your bathroom.",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Australia: glassguard.com.au (store / brand). In the product strip: Amazon AU - Amazon.com.au-Seller, BIG W, Woolworths. Amazon here is busy."
+    },
+    {
+     "cc": "us",
+     "label": "United States",
+     "query": "disposable toilet brush",
+     "image": "asis/toilet-kit_us_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Disposable Toilet Bowl Brush",
+       "link": "https://www.amazon.com/disposable-toilet-bowl-brush/s?k=disposable+toilet+bowl+brush",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "Find disposable toilet brush systems with various refill quantities. Wall-mounted or caddy storage. Holder, 14 Refills for Deep Cleaning and Hygienic"
+      },
+      {
+       "position": 2,
+       "title": "Toilet Brushes",
+       "link": "https://joybos.com/collections/toilet-brushes",
+       "domain": "joybos.com",
+       "kind": "store / brand",
+       "snippet": "Joybos® Toilet Bowl Brush And Holder Set With Aluminum Alloy Long Handle. Disposable Wall Mounted Toilet Bowl Brush. Brush Z42 $22.95 – $45.95"
+      },
+      {
+       "position": 4,
+       "title": "Clorox™ Disinfecting ToiletWand™ Disposable Cleaner",
+       "link": "https://www.clorox.com/products/clorox-toiletwand-system/",
+       "domain": "clorox.com",
+       "kind": "store / brand",
+       "snippet": "Clean and disinfect your toilet fast with the all-in-one Clorox ToiletWand System. Comes complete with a caddy, wand and 6 preloaded ..."
+      },
+      {
+       "position": 6,
+       "title": "toilet brushes disposable",
+       "link": "https://www.target.com/s/toilet+brushes+disposable",
+       "domain": "target.com",
+       "kind": "big chain",
+       "snippet": "Find disposable toilet brushes with Clorox ToiletWand, Scrubbing Bubbles Flushable Refills, and up&up™ designs. Features include disposable heads, ..."
+      },
+      {
+       "position": 9,
+       "title": "Scotch-Brite™ Bathroom Tools | 3M United States",
+       "link": "https://www.scotch-brite.com/3M/en_US/p/pc/bathroom-tools/",
+       "domain": "scotch-brite.com",
+       "kind": "store / brand",
+       "snippet": "Scotch-Brite(R) Disposable Toilet Scrubber Cleaning System. Scotch-Brite® Toilet Disposable Starter Kit. 3M Stock. B5005609048. UPC. 00638060269459. Scotch- ..."
+      }
+     ],
+     "paa": [
+      "Are disposable toilet brushes any good?",
+      "What is the best disposable toilet brush?",
+      "What do plumbers recommend to clean toilet bowls?",
+      "What is a more hygienic alternative to a toilet brush?"
+     ],
+     "popular_products": [
+      {
+       "title": "Disposable Toilet Bowl Brush and Holder Cleaning System with",
+       "price": "$17.99",
+       "source": "Walmart - CLNEZ"
+      },
+      {
+       "title": "Clorox ToiletWand Disposable Toilet Bowl Brush Cleaner Syste",
+       "price": "$23.11",
+       "source": "Walmart"
+      },
+      {
+       "title": "Disposable Toilet Brush with 48 Refills, Toilet Bowl Wand an",
+       "price": "$13.99",
+       "source": "Walmart - EEEKit"
+      },
+      {
+       "title": "Clorox ToiletWand Disposable Toilet Cleaning System ToiletWa",
+       "price": "$14.99",
+       "source": "Walgreens.com"
+      },
+      {
+       "title": "Gped Disposable Toilet Brush, Toilte Wand Kit, Toilet Brush ",
+       "price": "$15.29",
+       "source": "Walmart - GPED INC"
+      },
+      {
+       "title": "17 in. Disposable Toilet Brush Toilet Bowl Cleaner Brush w/ ",
+       "price": "$134.00",
+       "source": "Home Depot"
+      },
+      {
+       "title": "Scotch-Brite Toilet Scrubber",
+       "price": "$4.91",
+       "source": "Runnings"
+      },
+      {
+       "title": "Etokfoks Disposable Toilet Brush Cleaning Kit with Holder an",
+       "price": "$88.91",
+       "source": "Lowe's"
+      },
+      {
+       "title": "1Set Disposable Toilet Brush Domestic Bathroom Toilet Cleani",
+       "price": "$0.99",
+       "source": "Walmart - Playzo"
+      },
+      {
+       "title": "Oshang Disposable Toilet Brush Toilet Bowl Cleaner Toilet Cl",
+       "price": "$12.49",
+       "source": "eBay - lwangx12"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "Popular disposable toilet brush systems feature a long handle, pre-loaded or built-in cleaning solution pads, a storage caddy, and a touch-free release button that drops used heads straight into the trash. Are you looking for a specific brand (like Clorox or Scotch-Brite), or do you need a kit with a wall-mounted holder and a high count of extra refills?",
+     "blocks": [
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search",
+      "things_to_know"
+     ],
+     "takeaway": "First result in the US: amazon.com (marketplace). In the product strip: Home Depot, Lowe's, Runnings, Walgreens.com, Walmart. Amazon here is crowded."
+    },
+    {
+     "cc": "uk",
+     "label": "United Kingdom",
+     "query": "disposable toilet brush",
+     "image": "asis/toilet-kit_uk_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Duck Fresh Brush Starter Kit",
+       "link": "https://www.tesco.com/shop/en-GB/products/253941921?srsltid=AU7gw4Vc03SZhHWCRZcVWaogJFafCIiHMQAJXeq5yIea4ojVpDKCT0y0",
+       "domain": "tesco.com",
+       "kind": "big chain",
+       "snippet": "The toilet brush cleaner contains disposable brush pads, a handle and a stand. The brush pad is easy to attach to the handle, and it is lightweight to hold."
+      },
+      {
+       "position": 2,
+       "title": "Duck® Fresh Brush | Toilet Cleaner Products",
+       "link": "https://duck.co.uk/en-gb/products/fresh-brush",
+       "domain": "duck.co.uk",
+       "kind": "store / brand",
+       "snippet": "Get your toilet clean with Duck Fresh Brush Flushables. Just brush, flush, and say goodbye to stains. And then give a big quacking hello to a great scent."
+      },
+      {
+       "position": 3,
+       "title": "Amazon.co.uk: Disposable Toilet Brush",
+       "link": "https://www.amazon.co.uk/disposable-toilet-brush/s?k=disposable+toilet+brush",
+       "domain": "amazon.co.uk",
+       "kind": "marketplace",
+       "snippet": "Shop disposable toilet brush kits with storage caddies and multiple refills. Perfect for quick, sanitary bathroom cleaning. 48 Cleaner Refills Long Handle"
+      },
+      {
+       "position": 4,
+       "title": "The best toilet brushes 2026 for hygiene, style and scrubbing",
+       "link": "https://www.goodhousekeeping.com/uk/product-reviews/house-garden/g73352600/best-toilet-brushes/",
+       "domain": "goodhousekeeping.com",
+       "kind": "article",
+       "snippet": "Best disposable toilet brush. For all-round cleaning performance and usability, the Mr Siga Toilet Brush and Holder came out on top as a well- ..."
+      },
+      {
+       "position": 7,
+       "title": "Disposable Toilet Cleaning System",
+       "link": "https://www.ebay.co.uk/shop/disposable-toilet-cleaning-system?_nkw=disposable+toilet+cleaning+system",
+       "domain": "ebay.co.uk",
+       "kind": "marketplace",
+       "snippet": "UK Disposable Toilet Brush Set Toilet Bowl Cleaning System Cleaners with Refills. Brand new. £5.99 to £10.99(£5.99/Unit). Buy It Now. Free delivery."
+      }
+     ],
+     "paa": [
+      "Are disposable toilet brushes any good?",
+      "What is the best disposable toilet brush?",
+      "What is the best disposable toilet brush in the UK?",
+      "What is a hygienic alternative to a toilet brush?"
+     ],
+     "popular_products": [
+      {
+       "title": "Disposable Toilet Brush Kit with 30PCS Replacement Heads, Au",
+       "price": "£5.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Newthinking Disposable Toilet Brush Disposable Toilet Wand w",
+       "price": "£11.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Disposable Toilet Brush Set Toilet Bowl Cleaning System Clea",
+       "price": "£23.99",
+       "source": "B&Q"
+      },
+      {
+       "title": "Disposable Toilet Brush with Holder, Toilet Wand Kit with 12",
+       "price": "£10.99",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Disposable Toilet Brush Set with 12 Replacement Heads",
+       "price": "£21.99",
+       "source": "B&Q"
+      },
+      {
+       "title": "Disposable Toilet Brush Set Toilet Bowl Cleaning System Clea",
+       "price": "£28.99",
+       "source": "B&Q"
+      },
+      {
+       "title": "Disposable Toilet Brush Set Remove Stains Toilet Cleansing B",
+       "price": "£9.04",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Duck Toilet Fresh Brush Starter Kit",
+       "price": "£3.85",
+       "source": "Online Pound Store"
+      },
+      {
+       "title": "Disposable Toilet Brush with 24PCS Replacement Pads Disposab",
+       "price": "£5.79",
+       "source": "Amazon.co.uk - Amazon.co.uk-Seller"
+      },
+      {
+       "title": "Disposable Toilet Cleaning Brush Set With Replacement Refill",
+       "price": "£26.99",
+       "source": "B&Q"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A disposable toilet brush uses a long-handled wand with a single-use sponge or non-woven pad pre-loaded with solid or liquid cleaning agents. Are you looking for a wall-mounted or freestanding model, or do you need a specific pack size with extra refills?",
+     "blocks": [
+      "immersive_products",
+      "short_videos",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches"
+     ],
+     "takeaway": "First result in the UK: tesco.com (big chain). In the product strip: Amazon.co.uk - Amazon.co.uk-Seller, B&Q, Online Pound Store. Amazon here is busy."
+    },
+    {
+     "cc": "ca",
+     "label": "Canada",
+     "query": "disposable toilet brush",
+     "image": "asis/toilet-kit_ca_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 2,
+       "title": "Disposable Toilet Brush Cleaner(216)",
+       "link": "https://www.walmart.ca/en/c/kp/disposable-toilet-brush-cleaner",
+       "domain": "walmart.ca",
+       "kind": "big chain",
+       "snippet": "Disposable Toilet Brush and Holder Set, with 50 PCS Toilet Bowl Wand Refills for Clorox, Wall Mounted Disposable T-oilet Bowl Wand Kit, for Bathroom, ..."
+      },
+      {
+       "position": 3,
+       "title": "Scrubbing Bubbles Fresh Brush Toilet Cleaning Flushable ...",
+       "link": "https://www.canadiantire.ca/en/pdp/scrubbing-bubbles-fresh-brush-toilet-cleaning-flushable-refills-citrus-scent-28-pk-0533185p.html",
+       "domain": "canadiantire.ca",
+       "kind": "big chain",
+       "snippet": "Get a handle on the messes of your toilet bowl with Scrubbing Bubbles Fresh Brush Toilet Cleaning System. It is the only system with flushable pads for a ..."
+      },
+      {
+       "position": 4,
+       "title": "Toilet Bowl Brush Disposable",
+       "link": "https://www.amazon.ca/toilet-bowl-brush-disposable/s?k=toilet+bowl+brush+disposable",
+       "domain": "amazon.ca",
+       "kind": "marketplace",
+       "snippet": "Disposable Toilet Brush with 54 Refill Heads, 2 Handles & Holders Included – No-Touch Toilet Bowl Cleaning System, Wall-Mounted or Freestanding Bathroom Brush ."
+      },
+      {
+       "position": 5,
+       "title": "The 5 Best Toilet Brushes of 2026, Tested for Scrubbing ...",
+       "link": "https://www.bhg.com/best-toilet-brushes-6891820",
+       "domain": "bhg.com",
+       "kind": "article",
+       "snippet": "Top Picks ; Best Overall: OXO Compact Toilet Brush & Canister at Amazon $20 ; Best Wand: Clorox Disinfecting ToiletWand Cleaning System at Amazon ..."
+      },
+      {
+       "position": 6,
+       "title": "Fresh Brush - Toilet",
+       "link": "https://scrubbingbubbles.ca/en-ca/products/toilet/fresh-brush",
+       "domain": "scrubbingbubbles.ca",
+       "kind": "store / brand",
+       "snippet": "Dispose of pad after single use. Squeeze out water from pad, and remove from bowl. Release pad into trash by sliding blue button toward jaws. Do not flush ..."
+      }
+     ],
+     "paa": [
+      "Are disposable toilet brushes any good?",
+      "What is the best disposable toilet brush?",
+      "What is a more hygienic alternative to a toilet brush?",
+      "Are there disposable toilet brushes without cleaner?"
+     ],
+     "popular_products": [
+      {
+       "title": "Disposable Toilet Brush Toilet Bowl Cleaner Brush with 54 Re",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Disposable Toilet Brush with 12 Refills Disposable Cleaning ",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Disposable Toilet Brush and Holder Set Long Wand with 40 Cle",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Disposable Toilet Brush Kit with 24 Ocean Scented Refills 15",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Scotch-Brite Disposable Toilet Scrubber Starter Kit",
+       "price": null,
+       "source": "Amazon"
+      },
+      {
+       "title": "Adorila Disposable Toilet Brush with 18 Refills Wall Mounted",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "oshang Disposable Toilet Brush Toilet Bowl Cleaner, Toilet C",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Disposable Toilet Brush,Disposable Toilet Brush with 18/24/3",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Disposable Toilet Brush with 36 Refills Disposable Cleaning ",
+       "price": null,
+       "source": "Amazon CA"
+      },
+      {
+       "title": "Disposable Toilet Brush, Toilet Bowl Cleaner Brush with 54 R",
+       "price": null,
+       "source": "Amazon CA"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A disposable toilet brush system features a long handle, a storage holder, and replaceable sponge or non-woven fabric heads pre-loaded with built-in cleaning solution. If you'd like, let me know: I can help you find a specific kit or check local availability.",
+     "blocks": [
+      "inline_images",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in Canada: walmart.ca (big chain). In the product strip: Amazon, Amazon CA. Amazon here is crowded."
+    },
+    {
+     "cc": "de",
+     "label": "Germany",
+     "query": "disposable toilet brush",
+     "image": "asis/toilet-kit_de_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Disposable Toilet Brush Kit, Disposable Toilet Cleaning ...",
+       "link": "https://www.amazon.de/-/en/Disposable-Cleaning-Replaceable-Concentrated-Bathroom/dp/B07VCPBNZF",
+       "domain": "amazon.de",
+       "kind": "marketplace",
+       "snippet": "Deep cleaning: the soft cleaning head of the disposable toilet brush can easily penetrate corners and small crevices and cleans the surface of the toilet ..."
+      },
+      {
+       "position": 2,
+       "title": "Disposable Toilet Cleaner Brush with Head Sponges",
+       "link": "https://suvaam.com/products/disposable-toilet-cleaner-brush?srsltid=AU7gw4XDfDAFhCemCBquCrHWF7dRP_PewKJyUbPDISGFLBWcJd_DvFRh",
+       "domain": "suvaam.com",
+       "kind": "store / brand",
+       "snippet": "Each set includes 6 disposable sponge heads, designed for single-use convenience and maximum hygiene. Can I reuse the sponge heads? +. No, the sponges ..."
+      },
+      {
+       "position": 4,
+       "title": "Disposable Toilet Brush: ScrubLoo Kit with 8 Refill Heads",
+       "link": "https://scrubloo.com.au/products/scrubloo-easy-disposable-toilet-brush-kit-8-refill-sponges?srsltid=AU7gw4Xhc_3LxGV8qFe24bRi68ltmEtgM6Pu7CV0BsJ9ua5I81r8mjur",
+       "domain": "scrubloo.com.au",
+       "kind": "store / brand",
+       "snippet": "Shop ScrubLoo Disposable Toilet Brush Kit: 8 preloaded refill heads for no-touch, 360° hygienic cleaning. Keep your bathroom spotless—order now!"
+      },
+      {
+       "position": 5,
+       "title": "Disposable toilet brush-AliExpress",
+       "link": "https://www.aliexpress.com/w/wholesale-disposable-toilet-brush.html",
+       "domain": "aliexpress.com",
+       "kind": "store / brand",
+       "snippet": "This article explains what a disposable toilet brush is, how to choose and use one effectively, and compares it to traditional brushes, highlighting its ..."
+      },
+      {
+       "position": 7,
+       "title": "Toilet Brushes",
+       "link": "https://joybos.com/collections/toilet-brushes",
+       "domain": "joybos.com",
+       "kind": "store / brand",
+       "snippet": "Joybos® Toilet Bowl Brush And Holder Set With Aluminum Alloy Long Handle F206. $26.95. Joybos® Silicone Toilet Brush with Drain Tray Z178."
+      }
+     ],
+     "paa": [
+      "Does a disposable toilet brush work?",
+      "How to use a disposable toilet brush?",
+      "Which is the best disposable toilet brush?",
+      "What is a toilet brush?"
+     ],
+     "popular_products": [],
+     "ads_on_top": [],
+     "ai_overview": "",
+     "blocks": [
+      "inline_videos",
+      "short_videos",
+      "related_questions",
+      "organic_results",
+      "filters"
+     ],
+     "takeaway": "First result in Germany: amazon.de (marketplace). Amazon here is busy."
+    },
+    {
+     "cc": "nz",
+     "label": "New Zealand",
+     "query": "disposable toilet brush",
+     "image": "asis/toilet-kit_nz_asis.png",
+     "picture": "ok",
+     "top5": [
+      {
+       "position": 1,
+       "title": "Disposable Toilet Brush Set",
+       "link": "https://www.thewarehouse.co.nz/p/disposable-toilet-brush-set/M36856637.html",
+       "domain": "thewarehouse.co.nz",
+       "kind": "big chain",
+       "snippet": "Convenient disposable toilet brush with replaceable heads and built-in cleaning solution, designed for hygienic and efficient bathroom cleaning."
+      },
+      {
+       "position": 2,
+       "title": "MiracleWand™ Magic Toilet Brush - MiracleMop NZ",
+       "link": "https://miracleclean.nz/products/miraclewand",
+       "domain": "miracleclean.nz",
+       "kind": "store / brand",
+       "snippet": "MiracleWand scrubs with disposable scouring pads that clean powerfully — then click off and get thrown away. No dripping. No storage. No lingering mess."
+      },
+      {
+       "position": 4,
+       "title": "Easy drop Disposable Toilet Cleaning Brush - Auckland - Himart",
+       "link": "https://himart.co.nz/product/easy-drop-toilet-bowl-cleaner/?srsltid=AU7gw4Xy3fR2D5PA-Bd_d5aiL8iNw1pd5m_upx9ffKHNJVi7JiuyjzIM",
+       "domain": "himart.co.nz",
+       "kind": "store / brand",
+       "snippet": "Easy drop Disposable Toilet Cleaning Brush $19.00. The cleaning agent dissolves as soon as it touches water, allowing you to instantly start cleaning your ..."
+      },
+      {
+       "position": 5,
+       "title": "Buy Disposable Toilet Brush Toilet Wand with 16 Pieces ...",
+       "link": "https://www.mightyape.co.nz/mn/buy/game-player-disposable-toilet-brush-toilet-wand-with-16-pieces-replacement-heads-8410659455010/",
+       "domain": "mightyape.co.nz",
+       "kind": "marketplace",
+       "snippet": "The disposable head pre-loaded with cleaner, which can effectively eliminate bacteria. Can be discarded immediately after use."
+      },
+      {
+       "position": 6,
+       "title": "oshang Disposable Toilet Brush",
+       "link": "https://www.amazon.com/clp/B09TL4MLZ3",
+       "domain": "amazon.com",
+       "kind": "marketplace",
+       "snippet": "3-in-1 Starter Kit with Toilet Brush Wand, Storage Caddy and Disposable Refill Heads, Kills 99.9 Percent. Disposable Toilet Brush with 136 Refills, Efficient .."
+      }
+     ],
+     "paa": [
+      "Are disposable toilet brushes any good?",
+      "What is the best disposable toilet cleaning brush?",
+      "What are people saying about the MiracleClean toilet brush in New Zealand?",
+      "Does Bunnings sell disposable toilet brushes?"
+     ],
+     "popular_products": [
+      {
+       "title": "Easy drop Disposable Toilet Cleaning Brush",
+       "price": "$18.99",
+       "source": "MightyApe.co.nz"
+      },
+      {
+       "title": "Disposable Toilet Brush Set with Holder + 54 Refill Heads",
+       "price": "$35.64",
+       "source": "Dick Smith NZ"
+      },
+      {
+       "title": "Disposable Toilet Brush Set with 18Pcs Replacement Brush Hea",
+       "price": "$33.73",
+       "source": "MightyApe.co.nz"
+      },
+      {
+       "title": "Topo Bear Disposable Toilet Bowl Brush with 40 Toilet Wand R",
+       "price": "$49.08",
+       "source": "Amazon AU - Amazon.com.au-Seller"
+      },
+      {
+       "title": "Disposable Toilet Brush Set – with Handle, Base & 36 Refill ",
+       "price": "$31.04",
+       "source": "Dick Smith NZ"
+      },
+      {
+       "title": "Toilet Bowl Brush with 30 Refills",
+       "price": "$39.11",
+       "source": "The Warehouse - Marketplace"
+      },
+      {
+       "title": "Efficient Cleaning Disposable Toilet Brush",
+       "price": "$28.49",
+       "source": "Ozerty NZ"
+      },
+      {
+       "title": "Johnson Scrubbing Bubbles Toilet Brush",
+       "price": "$18.90",
+       "source": "Sakura NZ"
+      },
+      {
+       "title": "28PCS Disposable Toilet Brush Crevice Cleaning Brushes,for T",
+       "price": "$42.35",
+       "source": "Dick Smith NZ"
+      },
+      {
+       "title": "Disposable Toilet Brush Set",
+       "price": "$48.49",
+       "source": "Ozerty NZ"
+      }
+     ],
+     "ads_on_top": [],
+     "ai_overview": "A disposable toilet brush features a long handle paired with pre-loaded, replaceable sponge or scrubbing heads that pop off directly into the trash or toilet after use. If you'd like, let me know:",
+     "blocks": [
+      "inline_videos",
+      "immersive_products",
+      "related_questions",
+      "ai_overview",
+      "organic_results",
+      "related_searches",
+      "refine_this_search"
+     ],
+     "takeaway": "First result in New Zealand: thewarehouse.co.nz (big chain). In the product strip: Amazon AU - Amazon.com.au-Seller, Dick Smith NZ, MightyApe.co.nz, Ozerty NZ, Sakura NZ. Amazon here is busy."
+    }
+   ],
+   "compare": {
+    "match_name": "BIG W (A$34)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same white wand, caddy and blue flower-shaped disposable heads.",
+    "brand_image": "toilet-kit/img_1.jpg",
+    "match_image": "lens/toilet-kit_thumb_05.jpg"
+   }
+  },
+  {
    "slug": "neck-cream",
    "name": "Neck Firming Cream (Mudganics)",
    "one_liner": "The map is green only because this is Mudganics' own formula. Neck creams are a swarm: 40 advertisers, 38 new in two months, and 431,000+ bought on Amazon US last month.",
@@ -29709,6 +32451,7 @@
   "cc-cream",
   "swingpro",
   "hair-cream",
+  "toilet-kit",
   "neck-cream",
   "lola-kit",
   "knee-sleeve",

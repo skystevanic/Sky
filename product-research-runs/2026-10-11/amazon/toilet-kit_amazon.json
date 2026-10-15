@@ -1,0 +1,371 @@
+{
+  "slug": "toilet-kit",
+  "query": "disposable toilet brush",
+  "brand": "Benistie",
+  "countries": [
+    {
+      "cc": "au",
+      "label": "Australia",
+      "amazon_site": "amazon.com.au",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 3,800 reviews; 2 of the first 20 have 1,000+; at least 1,250 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 3800,
+      "n_1000_plus": 2,
+      "cheapest": 16.99,
+      "typical": 35.99,
+      "bought_last_month_min": 1250,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Topo Bear Disposable Toilet Brush Holder Set with 40 Toilet Brush Refills Disposable Clean",
+          "price_text": "$37.98",
+          "price": 37.98,
+          "rating": 4.5,
+          "reviews": 3800,
+          "bought_text": "400+ bought in past month",
+          "bought": 400,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"disposable toilet brush\""
+          ],
+          "link": "https://www.amazon.com.au/Topo-Bear-Disposable-Toilet-Refills/dp/B096TD56BJ/",
+          "thumbnail": "https://m.media-amazon.com/images/I/717wt8da7JL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "JEHONN Disposable Toilet Brush with 40PCS Wand Cleaner Refills, Wall Mounted Toilet Bowl B",
+          "price_text": "$36.99",
+          "price": 36.99,
+          "rating": 4.5,
+          "reviews": 2500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com.au/JEHONN-Disposable-Cleaner-Bathroom-Cleaning/dp/B0CKYKS9GR/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71q3H+0k1WL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Shanghigh 2 Pack Disposable Toilet Brush Set with Handles and 60 Refills",
+          "price_text": "$31.41",
+          "price": 31.41,
+          "rating": 3.9,
+          "reviews": 115,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com.au/Shanghigh-Disposable-Toilet-Handles-Refills/dp/B0GTT21PSD/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81Kq7210K7L._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "us",
+      "label": "United States",
+      "amazon_site": "amazon.com",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 179,800 reviews; 7 of the first 20 have 1,000+; at least 169,300 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 179800,
+      "n_1000_plus": 7,
+      "cheapest": 9.99,
+      "typical": 21.99,
+      "bought_last_month_min": 169300,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Clorox ToiletWand Disposable Toilet Cleaner Refills, 30 Count, Kills 99.9% of Germs and Vi",
+          "price_text": "$18.24",
+          "price": 18.24,
+          "rating": 4.8,
+          "reviews": 179800,
+          "bought_text": "60K+ bought in past month",
+          "bought": 60000,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.com/dp/B00U2T6SQ4/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61VM0sjbVNL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Clorox ToiletWand Toilet Cleaning Kit, 1 Starter Kit with 16 Refill Heads",
+          "price_text": "$20.41",
+          "price": 20.41,
+          "rating": 4.7,
+          "reviews": 145600,
+          "bought_text": "40K+ bought in past month",
+          "bought": 40000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com/Clorox-ToiletWand-Disposable-Toilet-Cleaning/dp/B07ZGHZVRY/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81qikz2FZGL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Clorox ToiletWand Toilet Cleaning Starter Kit, 1 Kit with 6 Refill Heads",
+          "price_text": "$12.69",
+          "price": 12.69,
+          "rating": 4.7,
+          "reviews": 145600,
+          "bought_text": "40K+ bought in past month",
+          "bought": 40000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com/Clorox-ToiletWand-Disposable-Toilet-Cleaning/dp/B0010B5EQS/",
+          "thumbnail": "https://m.media-amazon.com/images/I/717u8XrePOL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "amazon_site": "amazon.co.uk",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 3,300 reviews; 2 of the first 20 have 1,000+; at least 5,550 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 3300,
+      "n_1000_plus": 2,
+      "cheapest": 9.44,
+      "typical": 15.34,
+      "bought_last_month_min": 5550,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "JEHONN Disposable Toilet Brush and Holder Set with 48 Cleaner Refills, Wall Mounted Bathro",
+          "price_text": "EUR 25.97",
+          "price": 25.97,
+          "rating": 4.5,
+          "reviews": 3300,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/JEHONN-Disposable-Cleaner-Bathroom-Cleaning/dp/B0CW2MN91F/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71UvTkxSKbL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Toilet Wand Kit with 48 Refills, Disposable Toilet Bowl Brush Disposable Toilet Cleaning S",
+          "price_text": "EUR 16.05",
+          "price": 16.05,
+          "rating": 4.4,
+          "reviews": 2900,
+          "bought_text": "400+ bought in past month",
+          "bought": 400,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"disposable toilet brush\"",
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.co.uk/Refills-Disposable-Cleaning-Storage-Bathroom/dp/B0BHR8SZJ7/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61Id2CtTvGL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "wlich Disposable Toilet Brush Set with 48 Refills, Wall-Mount Holder",
+          "price_text": "EUR 15.34",
+          "price": 15.34,
+          "rating": 4.4,
+          "reviews": 898,
+          "bought_text": "700+ bought in past month",
+          "bought": 700,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/wlich-Disposable-Refills-Bathroom-Cleaning/dp/B0FS1WNTKL/",
+          "thumbnail": "https://m.media-amazon.com/images/I/714u8eb702L._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "ca",
+      "label": "Canada",
+      "amazon_site": "amazon.ca",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 74,700 reviews; 7 of the first 20 have 1,000+; at least 10,000 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 74700,
+      "n_1000_plus": 7,
+      "cheapest": 16.77,
+      "typical": 32.99,
+      "bought_last_month_min": 10000,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Clorox Disinfecting ToiletWand, Toilet Cleaning System, Starter Kit US",
+          "price_text": "$32.99",
+          "price": 32.99,
+          "rating": 4.5,
+          "reviews": 74700,
+          "bought_text": "300+ bought in past month",
+          "bought": 300,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.ca/Toilet-wand-Starter-Kit-US/dp/B0010B5EQS/",
+          "thumbnail": "https://m.media-amazon.com/images/I/717u8XrePOL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Scrubbing Bubbles Fresh Brush Toilet Bowl Cleaning System Starter Kit, Stain Removing, Cit",
+          "price_text": "$16.77",
+          "price": 16.77,
+          "rating": 4.6,
+          "reviews": 13000,
+          "bought_text": "800+ bought in past month",
+          "bought": 800,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.ca/Scrubbing-Bubbles-Cleaning-Starter-Refills/dp/B07872QNMJ/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81vlqplyhtL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "JEHONN Disposable Toilet Brush with 48PCS Wand Cleaner Refills, Wall Mounted Toilet Bowl B",
+          "price_text": "$30.39",
+          "price": 30.39,
+          "rating": 4.4,
+          "reviews": 4100,
+          "bought_text": "300+ bought in past month",
+          "bought": 300,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.ca/JEHONN-Disposable-Cleaner-Bathroom-Cleaning/dp/B0CW2MN91F/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71UvTkxSKbL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "amazon_site": "amazon.de",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 1,700 reviews; 1 of the first 20 have 1,000+; at least 2,500 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 1700,
+      "n_1000_plus": 1,
+      "cheapest": 9.99,
+      "typical": 16.79,
+      "bought_last_month_min": 2500,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Disposable Toilet Brush, Set of 2 Extended Handle and Holder Set Toilet Brushes, Toilet Br",
+          "price_text": "€15.99",
+          "price": 15.99,
+          "rating": 4.4,
+          "reviews": 1700,
+          "bought_text": "400+ bought in past month",
+          "bought": 400,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/Ucaimao-Disposable-Extended-Bathroom-Cleaning/dp/B0DHLGYPJH/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71+tlmxu5LL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Disposable Toilet Brush Set with Toilet Cleaner - Set of 2 Toilet Brush Wall Mounting, 54 ",
+          "price_text": "€14.99",
+          "price": 14.99,
+          "rating": 4.4,
+          "reviews": 826,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"toilettenbürste einweg\"",
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.de/-/en/Disposable-Toilet-Brush-Set-Cleaner/dp/B0FRSST12R/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61L7QtWZL8L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "wlich Disposable Toilet Brush, Pack of 48 Cleaner Refills with Handle",
+          "price_text": "€17.99",
+          "price": 17.99,
+          "rating": 4.4,
+          "reviews": 746,
+          "bought_text": "200+ bought in past month",
+          "bought": 200,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/wlich-Disposable-Toilet-Cleaner-Refills/dp/B0DNS637RM/",
+          "thumbnail": "https://m.media-amazon.com/images/I/719oTKIr1wL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "nz",
+      "label": "New Zealand",
+      "amazon_site": "amazon.com.au",
+      "note": "No Amazon site in New Zealand; this is Amazon Australia, which ships there.",
+      "pressure": "medium",
+      "why": "top listing 3,800 reviews; 2 of the first 20 have 1,000+; at least 1,250 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 3800,
+      "n_1000_plus": 2,
+      "cheapest": 16.99,
+      "typical": 35.99,
+      "bought_last_month_min": 1250,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Topo Bear Disposable Toilet Brush Holder Set with 40 Toilet Brush Refills Disposable Clean",
+          "price_text": "$37.98",
+          "price": 37.98,
+          "rating": 4.5,
+          "reviews": 3800,
+          "bought_text": "400+ bought in past month",
+          "bought": 400,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"disposable toilet brush\""
+          ],
+          "link": "https://www.amazon.com.au/Topo-Bear-Disposable-Toilet-Refills/dp/B096TD56BJ/",
+          "thumbnail": "https://m.media-amazon.com/images/I/717wt8da7JL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "JEHONN Disposable Toilet Brush with 40PCS Wand Cleaner Refills, Wall Mounted Toilet Bowl B",
+          "price_text": "$36.99",
+          "price": 36.99,
+          "rating": 4.5,
+          "reviews": 2500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com.au/JEHONN-Disposable-Cleaner-Bathroom-Cleaning/dp/B0CKYKS9GR/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71q3H+0k1WL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Shanghigh 2 Pack Disposable Toilet Brush Set with Handles and 60 Refills",
+          "price_text": "$31.41",
+          "price": 31.41,
+          "rating": 3.9,
+          "reviews": 115,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com.au/Shanghigh-Disposable-Toilet-Handles-Refills/dp/B0GTT21PSD/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81Kq7210K7L._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

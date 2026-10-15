@@ -1,0 +1,680 @@
+{
+ "slug": "tk-14457",
+ "phrase": "disposable toilet",
+ "checked": "2026-10-15",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22disposable%20toilet%22",
+ "ads_loaded": 200,
+ "capped": true,
+ "stopped_by": "stopped at 200 ads (there are more)",
+ "n_advertisers": 65,
+ "advertisers_with_3_plus_ads": 18,
+ "biggest_advertiser_share": 0.3,
+ "brands_new_in_last_2_months": 43,
+ "brands_advertising_3_plus_months": 17,
+ "ads_started_last_2_months": 144,
+ "ads_older_than_6_months": 13,
+ "pattern": "crowded",
+ "plain": "At least 65 brands advertise it; 17 have kept ads running 3+ months, 43 are new in the last two months. We stopped counting at 200 ads, so the real numbers are higher. Of the 8 biggest shops we could date, 3 are over a year old and 5 opened in the last four months.",
+ "months": {
+  "2025-05": 1,
+  "2026-01": 1,
+  "2026-02": 1,
+  "2026-03": 4,
+  "2026-04": 6,
+  "2026-05": 3,
+  "2026-06": 4,
+  "2026-07": 8,
+  "2026-08": 28,
+  "2026-09": 98,
+  "2026-10": 46
+ },
+ "brand_months": {
+  "2025-05": 1,
+  "2026-01": 1,
+  "2026-02": 1,
+  "2026-03": 3,
+  "2026-04": 2,
+  "2026-05": 2,
+  "2026-06": 3,
+  "2026-07": 7,
+  "2026-08": 9,
+  "2026-09": 20,
+  "2026-10": 16
+ },
+ "top_advertisers": [
+  {
+   "name": "בניסטי - המחסן לצרכן",
+   "pages": 2,
+   "page_names": [
+    "בניסטי - המחסן לצרכן",
+    "מדברים נקי - סודות הניקיון לבית נקי יותר "
+   ],
+   "ads": 60,
+   "oldest_live_ad": "2026-08-18",
+   "page_likes": 1817,
+   "headline": "ככה מנקים שירותים ב-2026 ✨",
+   "shop": "benistie.com",
+   "product_page": "https://benistie.com/products/disposable-toilet-cleaning-kit",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1248784234983296",
+   "shop_open_since": "2026-08-02"
+  },
+  {
+   "name": "Starrember",
+   "pages": 1,
+   "page_names": [
+    "Starrember"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-09-15",
+   "page_likes": 107,
+   "headline": "🔥BIG SALE SPECIAL PRICE £6.99!!⚡50K+ SOLD!🚽💦Hands-Free Cleaning Gadget🧽Disposable toilet c",
+   "shop": "starrember.com",
+   "product_page": "https://starrember.com/products/toilet-cleaning-tool",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1301128916411515",
+   "shop_open_since": "2026-07-20"
+  },
+  {
+   "name": "buyzi.pk",
+   "pages": 1,
+   "page_names": [
+    "buyzi.pk"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-08-25",
+   "page_likes": 4531,
+   "headline": "1000 + Satisfied Customer ⭐⭐⭐⭐⭐",
+   "shop": "buyzi.pk",
+   "product_page": "https://buyzi.pk/products/dispossible-toilet-seat-covers-hygienic-travel-friendly",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=750907778096192",
+   "shop_open_since": "2025-07-24"
+  },
+  {
+   "name": "Chic-lucky",
+   "pages": 1,
+   "page_names": [
+    "Chic-lucky"
+   ],
+   "ads": 8,
+   "oldest_live_ad": "2026-06-26",
+   "page_likes": 13614,
+   "headline": "Traditional brushes? Bacteria traps 🤢—this one changes everything.\n\n✅ No-touch, wall-mount",
+   "shop": "chic-lucky.com",
+   "product_page": "https://chic-lucky.com/products/toilet",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=471107766075254",
+   "shop_open_since": "2026-08-05"
+  },
+  {
+   "name": "Copenrain Shop",
+   "pages": 1,
+   "page_names": [
+    "Copenrain Shop"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-03-31",
+   "page_likes": 3194,
+   "headline": "🧼 Disposable toilet brush with cleaning solution in the head: disposable, without getting ",
+   "shop": "copenrain.com",
+   "product_page": "https://copenrain.com/products/deispo",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=116313661562371",
+   "shop_open_since": "2026-08-25"
+  },
+  {
+   "name": "Shopee",
+   "pages": 1,
+   "page_names": [
+    "Shopee"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-07-13",
+   "page_likes": 3089,
+   "headline": "Shopee🔗👉https://s.shopee.ph/2qTGov3AxP",
+   "shop": "s.shopee.ph",
+   "product_page": "https://s.shopee.ph/2qTGov3AxP",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1405090646463166",
+   "shop_open_since": null
+  },
+  {
+   "name": "Eliana Cart",
+   "pages": 1,
+   "page_names": [
+    "Eliana Cart"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2026-09-30",
+   "page_likes": 704,
+   "headline": "🚨 Public Restroom? Bring Your Own Barrier!",
+   "shop": "gocartgenix.online",
+   "product_page": "https://www.gocartgenix.online/dispotoiletseatcover",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=554507571089162",
+   "shop_open_since": null
+  },
+  {
+   "name": "Sopami",
+   "pages": 1,
+   "page_names": [
+    "Sopami"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": null,
+   "headline": "🤮Keep germs away from you.",
+   "shop": "sopamiclean.com",
+   "product_page": "https://sopamiclean.com/products/sopami-disposable-toilet-wand-kit-no-touch-bathroom-cleaning-system-with-refill-heads",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1284555054747125",
+   "shop_open_since": "2026-07-29"
+  },
+  {
+   "name": "Hverdagsfiks",
+   "pages": 1,
+   "page_names": [
+    "Hverdagsfiks"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-05-25",
+   "page_likes": 117,
+   "headline": "Norges mest virale børste!",
+   "shop": "hverdagsfiks.no",
+   "product_page": "https://hverdagsfiks.no/products/disposable-toilet-brush-cleaner-with-long-handle-bathroom-cleaning-brush-with-replaceable-brush-head-toilet-bathroom-accessories",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=574536775751259",
+   "shop_open_since": "2025-04-07"
+  },
+  {
+   "name": "Travel Store2u",
+   "pages": 1,
+   "page_names": [
+    "Travel Store2u"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-18",
+   "page_likes": 59,
+   "headline": "Disposable Toilet Seat Cover Untuk Tandas Lebih Hygienic",
+   "shop": "laris2u.com",
+   "product_page": "https://laris2u.com/toilet-cover-pack",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=793266777213649",
+   "shop_open_since": null
+  },
+  {
+   "name": "Stardusst",
+   "pages": 1,
+   "page_names": [
+    "Stardusst"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 10621,
+   "headline": "LAST DAY SALE £6.99!!⚡50K+ SOLD!🚽💦",
+   "shop": "stardusst.com",
+   "product_page": "https://stardusst.com/products/toilet-cleaning-tool",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=308432535676425",
+   "shop_open_since": "2025-03-17"
+  },
+  {
+   "name": "Everything Envy",
+   "pages": 1,
+   "page_names": [
+    "Everything Envy"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-04",
+   "page_likes": 125411,
+   "headline": "Your bathroom cleaning routine just got better✨\n\nThis wall-mounted toilet brush uses a fre",
+   "shop": "urlgeni.us",
+   "product_page": "https://urlgeni.us/amzn/mountedtoiletbowlcleanerigstories_EE",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1784938548494601",
+   "shop_open_since": null
+  },
+  {
+   "name": "Potti Kade - The Discount Store",
+   "pages": 1,
+   "page_names": [
+    "Potti Kade - The Discount Store"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-07-12",
+   "page_likes": 5730,
+   "headline": "Disposable Toilet Seat Cover (50PCS Pack) Price – Rs.1190/-",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=482556608858403",
+   "shop_open_since": null
+  },
+  {
+   "name": "Goodsgoo",
+   "pages": 1,
+   "page_names": [
+    "Goodsgoo"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-04-13",
+   "page_likes": 2640,
+   "headline": "🚽✨ Clean without the ick.\n\nThis Disposable Toilet Brush comes with replaceable heads—use, ",
+   "shop": "goodsgoo.com",
+   "product_page": "https://goodsgoo.com/products/deispo",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=212810141911571",
+   "shop_open_since": null
+  },
+  {
+   "name": "Sunny store ph",
+   "pages": 1,
+   "page_names": [
+    "Sunny store ph"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 5,
+   "headline": "{{product.name}}",
+   "shop": "shopee.ph",
+   "product_page": "https://shopee.ph/shop/1852527690",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1388136477708127",
+   "shop_open_since": null
+  },
+  {
+   "name": "Bimzmarketplace",
+   "pages": 1,
+   "page_names": [
+    "Bimzmarketplace"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-08-21",
+   "page_likes": 5732,
+   "headline": "Cleaning shouldn’t take all your energy. 🧹✨\n\nSometimes the problem isn’t how you clean, it",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=2239932346244408",
+   "shop_open_since": null
+  },
+  {
+   "name": "Zenshomeco",
+   "pages": 1,
+   "page_names": [
+    "Zenshomeco"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-07",
+   "page_likes": 14,
+   "headline": "Upgrade Your Toilet Cleaning",
+   "shop": "zenshomeco.ae",
+   "product_page": "https://zenshomeco.ae/products/disposable-toilet-brush-set-with-replacement-heads-for-hygienic-bathroom-cleaning",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=948130161727081",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ehraam House",
+   "pages": 1,
+   "page_names": [
+    "Ehraam House"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-08-20",
+   "page_likes": 420,
+   "headline": "Off UPTO 40% | {{product.name}}|{{product.current_price strip_zeros}}",
+   "shop": "ehraamhouse.pk",
+   "product_page": "https://ehraamhouse.pk/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=899744989895166",
+   "shop_open_since": null
+  },
+  {
+   "name": "Amazon India",
+   "pages": 1,
+   "page_names": [
+    "Amazon India"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-07",
+   "page_likes": 10550889,
+   "headline": "Amazon India",
+   "shop": "amazon.in",
+   "product_page": "https://www.amazon.in/dp/B0C595MMWG",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=100281786832302",
+   "shop_open_since": null
+  },
+  {
+   "name": "Homaz هوماز",
+   "pages": 1,
+   "page_names": [
+    "Homaz هوماز"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-29",
+   "page_likes": 13416,
+   "headline": "{{product.name}}",
+   "shop": "homaz.shop",
+   "product_page": "http://homaz.shop/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=461010700434114",
+   "shop_open_since": null
+  },
+  {
+   "name": "Flowee ",
+   "pages": 2,
+   "page_names": [
+    "Flowee ",
+    "Shopix"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-07",
+   "page_likes": 158,
+   "headline": "Flowee",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1215861714942411",
+   "shop_open_since": null
+  },
+  {
+   "name": "Fyndo ",
+   "pages": 1,
+   "page_names": [
+    "Fyndo "
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 938,
+   "headline": "𝐔𝐏 𝐓𝐎 𝟐𝟕% 𝐎𝐅𝐅!!",
+   "shop": "fyndobd.com",
+   "product_page": "https://fyndobd.com/products/disposable-toilet-cleaner-set",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1031345286723010",
+   "shop_open_since": null
+  },
+  {
+   "name": "Qinerl shop",
+   "pages": 1,
+   "page_names": [
+    "Qinerl shop"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-04",
+   "page_likes": 26,
+   "headline": "🧹 Hygiene im Bad – ohne Berührung, ohne Kompromisse.\nSchluss mit schmutzigen Bürstenköpfen",
+   "shop": "qinerl.com",
+   "product_page": "https://qinerl.com/products/no-touch-disposable-toilet-scrubber-set-3",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1356113434245414",
+   "shop_open_since": null
+  },
+  {
+   "name": "Potty Paper",
+   "pages": 1,
+   "page_names": [
+    "Potty Paper"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 5,
+   "headline": "Public Toilet? No Problem. 💛",
+   "shop": "pottypaper.co.za",
+   "product_page": "https://pottypaper.co.za/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1274737932381657",
+   "shop_open_since": null
+  },
+  {
+   "name": "Cashaion B",
+   "pages": 1,
+   "page_names": [
+    "Cashaion B"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-10",
+   "page_likes": 5635,
+   "headline": "🚚Utánvétes Fizetést",
+   "shop": "cashaion.com",
+   "product_page": "https://cashaion.com/products/eqit",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=344383645414115",
+   "shop_open_since": null
+  },
+  {
+   "name": "Souqi.lb ",
+   "pages": 1,
+   "page_names": [
+    "Souqi.lb "
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 55,
+   "headline": "Disposable Toilet Brush Set 🚽\n\nA cleaner way to clean! ✨\n\n🧽 Disposable sponge heads\n🎁 8 sp",
+   "shop": "souqi-lb.com",
+   "product_page": "https://souqi-lb.com/products/disposable-toilet-brush-set",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1110767958797609",
+   "shop_open_since": null
+  },
+  {
+   "name": "Kiwi Cleaning Tips",
+   "pages": 1,
+   "page_names": [
+    "Kiwi Cleaning Tips"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-03-01",
+   "page_likes": 802,
+   "headline": "Ditch the gross \"germ stick\" in your loo 🤢",
+   "shop": "miracleclean.nz",
+   "product_page": "https://miracleclean.nz/pages/7-reasons-why-bogo",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1024031224123924",
+   "shop_open_since": null
+  },
+  {
+   "name": "Match & Catch",
+   "pages": 1,
+   "page_names": [
+    "Match & Catch"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-05-14",
+   "page_likes": 32567,
+   "headline": "25pcs 990/= Delivery 300/=, If buy 50pcs 1980/= Free Delivery",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102783582150183",
+   "shop_open_since": null
+  },
+  {
+   "name": "casa shop كزا شوب",
+   "pages": 1,
+   "page_names": [
+    "casa shop كزا شوب"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-09",
+   "page_likes": 291,
+   "headline": "غلاف مرحاض",
+   "shop": "victoriaone.me",
+   "product_page": "https://victoriaone.me/pages/aghty-alblastyk-alshy-lkrsy-lmrhad",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=570808086111294",
+   "shop_open_since": null
+  },
+  {
+   "name": "Seecion",
+   "pages": 1,
+   "page_names": [
+    "Seecion"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-02-22",
+   "page_likes": 1831,
+   "headline": "🔥LAST DAY SALE £7.99!!⚡50K+ SOLD!🚽💦Hands-Free Cleaning Gadget🧽Disposable toilet cleaning t",
+   "shop": "seecion.com",
+   "product_page": "https://seecion.com/products/toilet-cleaning-tool1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=279000491964284",
+   "shop_open_since": null
+  },
+  {
+   "name": "Budol Deals",
+   "pages": 1,
+   "page_names": [
+    "Budol Deals"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-31",
+   "page_likes": 464,
+   "headline": "LAZADA: https://s.lazada.com.ph/s.Z6N8Oi?c=d\nDisposable Toilet Seat Cover\n\nDito mabibili:\n",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1251007224753402",
+   "shop_open_since": null
+  },
+  {
+   "name": "Taztool",
+   "pages": 1,
+   "page_names": [
+    "Taztool"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-13",
+   "page_likes": 1129,
+   "headline": "{{product.name | titleize}}",
+   "shop": "taztool.com",
+   "product_page": "https://taztool.com/collections/taztool-collection",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=107673945630535",
+   "shop_open_since": null
+  },
+  {
+   "name": "Suvaam India",
+   "pages": 1,
+   "page_names": [
+    "Suvaam India"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-04-06",
+   "page_likes": 173,
+   "headline": "Buy More, Get More FREE | Upgrade Your Cleaning",
+   "shop": "suvaam.com",
+   "product_page": "https://suvaam.com/products/disposable-toilet-cleaner-brush",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101839992970345",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mega Savings LK",
+   "pages": 1,
+   "page_names": [
+    "Mega Savings LK"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-21",
+   "page_likes": 74,
+   "headline": "Disposable Toilet Seat Cover (50PCS Pack) | Only Rs. 1,290/-",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102200282207551",
+   "shop_open_since": null
+  },
+  {
+   "name": "GoDaily Bd",
+   "pages": 1,
+   "page_names": [
+    "GoDaily Bd"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-03",
+   "page_likes": 8405,
+   "headline": "🛑 𝗣𝘂𝗯𝗹𝗶𝗰 𝗧𝗼𝗶𝗹𝗲𝘁 দেখলেই অস্বস্তি? আর কোনো ভয় নেই! 🦠\n\nবিশেষ করে বাইরে বের হলে—অফিস, শপিংমল, ",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1003357852858790",
+   "shop_open_since": null
+  },
+  {
+   "name": "Britishen",
+   "pages": 1,
+   "page_names": [
+    "Britishen"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-01-30",
+   "page_likes": 1446,
+   "headline": "🧼✨💦Toss the mess, not your hands — disposable toilet wand with preloaded pads for clean an",
+   "shop": "britishen.com",
+   "product_page": "https://britishen.com/products/toilet-cleaning-system",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=339317425942623",
+   "shop_open_since": null
+  },
+  {
+   "name": "Greedass uk",
+   "pages": 1,
+   "page_names": [
+    "Greedass uk"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-03-18",
+   "page_likes": 837,
+   "headline": "🧼✨💦Släng smutsen, inte dina händer — engångstoalettborste med färdigblöta trasor för en re",
+   "shop": "greedass.com",
+   "product_page": "https://greedass.com/products/toilettenreinigungssystem-1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=161924323671634",
+   "shop_open_since": null
+  },
+  {
+   "name": "Aliafrica Mall C11",
+   "pages": 1,
+   "page_names": [
+    "Aliafrica Mall C11"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 781,
+   "headline": "💥💃 😍🤩𝗔𝗹𝗶𝗮𝗳𝗿𝗶𝗰𝗮 𝗠𝗮𝗹𝗹 vous fait craquer 🫶🏻\nC’est la 𝘀𝗮𝗶𝘀𝗼𝗻 𝗱𝗲𝘀 𝗽𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻𝘀 chez 𝗔𝗹𝗶𝗮𝗳𝗿𝗶𝗰𝗮 𝗠𝗮𝗹",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=719400954580749",
+   "shop_open_since": null
+  },
+  {
+   "name": "Luna Isabella",
+   "pages": 1,
+   "page_names": [
+    "Luna Isabella"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": 341,
+   "headline": "Cek Produknya Disini👉  https://s.shopee.co.id/6VO9sjyrql\n\nECOCO Disposable Toilet Brush Si",
+   "shop": "s.shopee.co.id",
+   "product_page": "https://s.shopee.co.id/6VO9sjyrql",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1302943222906690",
+   "shop_open_since": null
+  },
+  {
+   "name": "Chacshop",
+   "pages": 1,
+   "page_names": [
+    "Chacshop"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-02",
+   "page_likes": 4485,
+   "headline": "🎉 No more worries about unhygienic toilets!\n🌟 Disposable toilet seat covers for your safet",
+   "shop": "chacshop.com",
+   "product_page": "https://chacshop.com/products/mtt-1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111130541702252",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "benistie.com": 60,
+  "starrember.com": 10,
+  "buyzi.pk": 10,
+  "chic-lucky.com": 8,
+  "copenrain.com": 7,
+  "s.shopee.ph": 6,
+  "gocartgenix.online": 6,
+  "sopamiclean.com": 5,
+  "hverdagsfiks.no": 4,
+  "laris2u.com": 4,
+  "stardusst.com": 4,
+  "urlgeni.us": 3,
+  "goodsgoo.com": 3,
+  "shopee.ph": 3,
+  "zenshomeco.ae": 3,
+  "ehraamhouse.pk": 3,
+  "amazon.in": 2,
+  "homaz.shop": 2,
+  "api.whatsapp.com": 2,
+  "fyndobd.com": 2,
+  "qinerl.com": 2,
+  "s.shopee.co.id": 2,
+  "pottypaper.co.za": 2,
+  "cashaion.com": 2,
+  "souqi-lb.com": 2
+ },
+ "cost_usd": 1,
+ "shops_checked": 8,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 5
+}

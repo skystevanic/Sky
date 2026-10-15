@@ -1243,6 +1243,86 @@
     "note": "The same white knit brace with a round dial and a gel ring around the kneecap."
    },
    "advertiser_takeaway": "Crowded: 44+ brands advertise \"knee sleeve\". Onecompress leads with 77 ads since April; PeakFlex runs 35 since June, steady for four months. It proves the ads can work, but the product itself is available everywhere."
+  },
+  {
+   "slug": "toilet-kit",
+   "name": "Disposable Toilet Brush Kit (Benistie, Israel)",
+   "brand": "Benistie",
+   "url": "https://benistie.com/products/disposable-toilet-cleaning-kit",
+   "category": "Home cleaning: disposable toilet brush",
+   "price": "₪179 (about US$48)",
+   "ad_days": "Oldest live ad 2026-08-18",
+   "store_platform": "Shopify",
+   "store_launched": "2026-08",
+   "store_products": "5 products: this kit and refill packs",
+   "one_liner": "The good beginner type (home cleaning, refills), but the same kit is in BIG W, B&Q, OTTO and The Warehouse, and Amazon US sells 169,000+ of this kind a month. The one opening is Israel, where this shop advertises alone.",
+   "verdict": "Avoid",
+   "overall": 56,
+   "confidence": "High",
+   "scores": {
+    "saturated": 9,
+    "margin": 7,
+    "viral": 7,
+    "pain": 7,
+    "differentiation": 2
+   },
+   "why": [
+    "Chains sell the same kit: BIG W A$34, B&Q £20, OTTO €19, The Warehouse NZ$31",
+    "65+ brands advertise \"disposable toilet\" in English, 43 of them new in the last two months",
+    "Alibaba lists it from about US$2: the margin is real, but so is the competition"
+   ],
+   "risk": "Anyone can copy it, and in Europe shoppers can already buy it in DIY and home stores.",
+   "next": [
+    "Skip it for the six countries. Note the pattern: home and cleaning products with refills are the right type for you"
+   ],
+   "best_region": "None of the six. In Israel, Benistie runs all 45 Hebrew ads, which is where its proof comes from.",
+   "snapshot": {
+    "icp": "Households who hate a dirty toilet brush",
+    "job": "Clean the toilet without a germy brush",
+    "cogs": "About US$2-5 for the wand and heads (Alibaba)",
+    "margin": "Good on refills; repeat buying",
+    "claims": "Kills 99.9% of germs; one-click head release",
+    "demoable": "Yes: UV-light dirt reveal and one-click head drop"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "fail",
+     "why": "BIG W, B&Q, OTTO, Walmart and The Warehouse sell the same kit"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Amazon US trusted listing at US$33.99; on Temu and Shein"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "fail",
+     "why": "65+ brands, 43 new in two months, advertising \"disposable toilet\""
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Light; refills ship easily"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Avoid unproven germ-kill claims"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on in these six countries"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 5,
+    "match_name": "BIG W (A$34)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same white wand, caddy and blue flower-shaped disposable heads."
+   },
+   "advertiser_takeaway": "In English it's a swarm: 65+ brands, 43 new in two months. In Hebrew, Benistie is alone with 45 ads since 1 September. The product works in ads, but the six markets here are full."
   }
  ]
 }

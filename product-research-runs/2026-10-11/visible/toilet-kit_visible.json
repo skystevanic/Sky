@@ -1,0 +1,102 @@
+{
+ "slug": "toilet-kit",
+ "same": [
+  17,
+  22,
+  36,
+  45
+ ],
+ "top": 12,
+ "countries": {
+  "ca": [
+   {
+    "where": "Amazon",
+    "source": "amazon.ca",
+    "title": "Disposable Toilet Brush with 54 Refill Heads, 2 Handles & Holders Included – No-Touch Toil",
+    "link": "https://www.amazon.ca/dp/B0GJSQPCXS/",
+    "asin": "B0GJSQPCXS",
+    "rank": 5,
+    "price_text": "$35.99",
+    "reviews": 76,
+    "bought": "500+ bought in past month",
+    "bought_number": 500,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/toilet-kit_vis_thumb_017.jpg"
+   },
+   {
+    "where": "Amazon",
+    "source": "amazon.ca",
+    "title": "2 Pack Disposable Toilet Brush and Holder Set,Extended Handle with 48 Cleaner Refills Toil",
+    "link": "https://www.amazon.ca/dp/B0DG36RD5N/",
+    "asin": "B0DG36RD5N",
+    "rank": 6,
+    "price_text": "$39.99",
+    "reviews": 1100,
+    "bought": "400+ bought in past month",
+    "bought_number": 400,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/toilet-kit_vis_thumb_022.jpg"
+   }
+  ],
+  "au": [
+   {
+    "where": "Amazon",
+    "source": "amazon.com.au",
+    "title": "Disposable Toilet Brush Set with 30PCS Replacement Heads, Grey",
+    "link": "https://www.amazon.com.au/Disposable-Replacement-Lengthened-Bathroom-Cleaning/dp/B0DPFG8V8F/",
+    "asin": "B0DPFG8V8F",
+    "rank": 10,
+    "price_text": "$21.99",
+    "reviews": 28,
+    "bought": "100+ bought in past month",
+    "bought_number": 100,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/toilet-kit_vis_thumb_036.jpg"
+   },
+   {
+    "where": "Amazon",
+    "source": "amazon.com.au",
+    "title": "Disposable Toilet Brush 2 Pack Toilet Brush Disposable with 72 Replacement Sponge Brush He",
+    "link": "https://www.amazon.com.au/Disposable-Toilet-Brush-Replacement-Bathroom/dp/B0H7RSLL6G/",
+    "asin": "B0H7RSLL6G",
+    "rank": 12,
+    "price_text": "$35.99",
+    "reviews": 5,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/toilet-kit_vis_thumb_045.jpg"
+   }
+  ],
+  "nz": [
+   {
+    "where": "Amazon",
+    "source": "amazon.com.au",
+    "title": "Disposable Toilet Brush Set with 30PCS Replacement Heads, Grey",
+    "link": "https://www.amazon.com.au/Disposable-Replacement-Lengthened-Bathroom-Cleaning/dp/B0DPFG8V8F/",
+    "asin": "B0DPFG8V8F",
+    "rank": 10,
+    "price_text": "$21.99",
+    "reviews": 28,
+    "bought": "100+ bought in past month",
+    "bought_number": 100,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/toilet-kit_vis_thumb_036.jpg"
+   },
+   {
+    "where": "Amazon",
+    "source": "amazon.com.au",
+    "title": "Disposable Toilet Brush 2 Pack Toilet Brush Disposable with 72 Replacement Sponge Brush He",
+    "link": "https://www.amazon.com.au/Disposable-Toilet-Brush-Replacement-Bathroom/dp/B0H7RSLL6G/",
+    "asin": "B0H7RSLL6G",
+    "rank": 12,
+    "price_text": "$35.99",
+    "reviews": 5,
+    "bought": null,
+    "bought_number": 0,
+    "big_chain": false,
+    "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/visible/toilet-kit_vis_thumb_045.jpg"
+   }
+  ]
+ }
+}

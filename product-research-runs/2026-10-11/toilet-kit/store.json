@@ -1,0 +1,93 @@
+{
+  "input_url": "https://benistie.com/products/disposable-toilet-cleaning-kit",
+  "store_root": "https://benistie.com",
+  "platform": "shopify",
+  "title": "ערכת ניקוי אסלה עם ראשים חד פעמיים",
+  "vendor": "Benistie",
+  "product_type": "",
+  "created_at": "2026-08-02T16:42:04+03:00",
+  "updated_at": "2026-10-15T12:00:44+03:00",
+  "price_min": 179.0,
+  "price_max": 179.0,
+  "was_price": "239.00",
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "179.00",
+      "was": "239.00",
+      "available": null
+    }
+  ],
+  "description": "",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/ae0aebf5186a69c1adf058c7acb0766c.jpg?v=1785683088",
+    "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/WhatsAppImage2026-08-06at21.19.56.jpg?v=1786041341",
+    "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/exec-e06f4c70-ff61-48b4-9f21-359581ed89da.png?v=1791411700",
+    "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/exec-cfbfde3d-6a43-4fd5-af6f-bf4fd5f2a87c.png?v=1791411035",
+    "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/exec-f34525db-6bf6-44ae-90c2-2b7e45ac07c3.png?v=1791411112",
+    "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/89bba5f3f3e299ad728387f63153eaf8.png?v=1785683089",
+    "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/exec-68da9438-9980-4916-8aca-9da6fc3e4fab.png?v=1791411744",
+    "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/7.jpg?v=1785683088"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 5,
+    "first_product_created": "2026-08-02T16:42:04+03:00",
+    "newest": [
+      {
+        "title": "מארז 30 ראשי ניקוי לערכת ניקוי האסלה",
+        "created_at": "2026-10-04",
+        "price": "89.00"
+      },
+      {
+        "title": "מארז 126 ראשי ניקוי נוספים לערכת ניקוי האסלה",
+        "created_at": "2026-08-18",
+        "price": "179.00"
+      },
+      {
+        "title": "מארז 84 ראשי ניקוי נוספים לערכת ניקוי האסלה",
+        "created_at": "2026-08-18",
+        "price": "129.00"
+      },
+      {
+        "title": "מארז 42 ראשי ניקוי נוספים לערכת ניקוי האסלה",
+        "created_at": "2026-08-05",
+        "price": "89.00"
+      },
+      {
+        "title": "ערכת ניקוי אסלה עם ראשים חד פעמיים",
+        "created_at": "2026-08-02",
+        "price": "179.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "ILS",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/toilet-kit/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/ae0aebf5186a69c1adf058c7acb0766c.jpg?v=1785683088"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/toilet-kit/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/WhatsAppImage2026-08-06at21.19.56.jpg?v=1786041341"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/toilet-kit/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/exec-e06f4c70-ff61-48b4-9f21-359581ed89da.png?v=1791411700"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/toilet-kit/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/exec-cfbfde3d-6a43-4fd5-af6f-bf4fd5f2a87c.png?v=1791411035"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/toilet-kit/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/exec-f34525db-6bf6-44ae-90c2-2b7e45ac07c3.png?v=1791411112"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/toilet-kit/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0753/1138/2618/files/89bba5f3f3e299ad728387f63153eaf8.png?v=1785683089"
+    }
+  ]
+}
