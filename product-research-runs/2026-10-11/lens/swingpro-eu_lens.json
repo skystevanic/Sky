@@ -1,0 +1,170 @@
+{
+ "slug": "swingpro-eu",
+ "same": [
+  40,
+  46,
+  52,
+  54
+ ],
+ "brand_price": 89.0,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "nl",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "fr",
+   "status": "crowded",
+   "why": "The same object is on Amazon",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon",
+     "title": "MFMEXUL Badminton Raquette Entraîneur Accessoire Tige Outil ...",
+     "link": "https://www.amazon.fr/MFMEXUL-Entraîneur-Accessoire-Dispositif-LEntraînement/dp/B0H4C4VS1N",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro-eu_thumb_52.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "es",
+   "status": "crowded",
+   "why": "The same object is on Amazon",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon",
+     "title": "MotiveTech Entrenador de Swing para Raqueta de Bádminton ...",
+     "link": "https://www.amazon.es/MotiveTech-Entrenador-Bádminton-Herramienta-Entrenamiento/dp/B0FZVBJTY9",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/swingpro-eu_thumb_54.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "it",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "be",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "at",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "se",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 845.5,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "pl",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 329.3,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "ie",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  }
+ ]
+}
