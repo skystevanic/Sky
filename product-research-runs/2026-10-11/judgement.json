@@ -30,6 +30,91 @@
  "headline": "No clear yes yet, but the peptide body oil is the best lead: one brand has advertised it alone for four months, it is white-label so you can source it, and Germany shows no copies so far.",
  "products": [
   {
+   "slug": "chairblanket",
+   "name": "Waterproof Fleece Chair Blanket (The Chair Blanket)",
+   "brand": "The Chair Blanket / City Bonfires",
+   "url": "https://thechairblanket.com/products/the-chair-blanket",
+   "category": "Outdoor / home: fleece chair cover blanket",
+   "price": "US$59.99",
+   "ad_days": "97-144 active ads, 500+ total (Minea)",
+   "store_platform": "Shopify",
+   "store_launched": "2024-09 (City Bonfires), 2025-07 (thechairblanket.com)",
+   "store_products": "2 products",
+   "one_liner": "A proven US hit (Shark Tank, Lowe's, Target, 500+ ads, about US$3,000-4,800 a day per Minea) that has not reached European shops: in Germany, the Netherlands, Belgium, France and Italy only supplier copies were found.",
+   "verdict": "Backlog",
+   "overall": 68,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 4,
+    "margin": 7,
+    "viral": 8,
+    "pain": 6,
+    "differentiation": 6
+   },
+   "why": [
+    "Proven: City Bonfires runs 97-144 active ads and 500+ in total; Minea estimates US$3,000-4,800 revenue a day",
+    "No European shop found selling it; EU Amazon shows only garden-furniture covers and wheelchair blankets",
+    "Alibaba and AliExpress list copies (\"camping chair cover\", \"chair blanket\"), so it can be sourced"
+   ],
+   "risk": "It is a Shark Tank brand that may hold a patent or design right; and it is bulky to ship.",
+   "next": [
+    "Ask 2-3 AliExpress/Alibaba sellers for price, sample and shipping to Spain; check for an EU design registration on \"The Chair Blanket\"",
+    "If clear, test in the Netherlands, Germany or Belgium before Christmas: fire pit, terrace and football-stand angles"
+   ],
+   "best_region": "Netherlands, Germany and Belgium: big terrace and fire-pit culture, and no seller found.",
+   "snapshot": {
+    "icp": "Homeowners 30-65 with a fire pit or terrace; parents at kids' sports",
+    "job": "Stay warm and dry in an outdoor chair",
+    "cogs": "Unknown until a supplier quotes; similar fleece covers are typically €8-15 landed (estimate)",
+    "margin": "About 70-80% at €55-60 (estimate)",
+    "claims": "Waterproof, windproof, fits most chairs, packs into a bag",
+    "demoable": "Yes: cold wet chair to cosy seat in 10 seconds"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "In the US Lowe's, Target and Walmart sell it; no European chain found"
+    },
+    {
+     "name": "Copies gate",
+     "result": "pass",
+     "why": "In Europe only supplier copies (Alibaba, AliExpress) found"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand (City Bonfires) runs nearly all ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "flag",
+     "why": "Fleece with a waterproof back is bulky; shipping costs more than a gadget"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Textile label needed; check the brand's patent or design rights first"
+    }
+   ],
+   "angles": [
+    "Fire pit and terrace evenings (the Dutch and German \"vuurkorf\"/\"Feuerschale\" culture)",
+    "Football and hockey parents on cold stands",
+    "Camping and festival chairs",
+    "Christmas gift for dad",
+    "TAKEN: \"As seen on Shark Tank\" (City Bonfires)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 33,
+    "match_name": "AliExpress copy",
+    "verdict": "identical",
+    "confidence": "Medium",
+    "note": "The same red buffalo-check fleece cover with waterproof back appears on AliExpress and Alibaba listings."
+   },
+   "advertiser_takeaway": "City Bonfires dominates with 97-144 active ads and 500+ in total since 2024, which is strong proof the ads pay in the US and Canada. No European seller showed up."
+  },
+  {
    "slug": "body-oil",
    "name": "Multi-Peptide Body Oil (NØRD BODY)",
    "brand": "NØRD BODY",

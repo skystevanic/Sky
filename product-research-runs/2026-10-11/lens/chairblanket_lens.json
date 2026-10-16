@@ -1,0 +1,270 @@
+{
+ "slug": "chairblanket",
+ "same": [
+  0,
+  1,
+  6,
+  7,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  32,
+  33,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  46,
+  47
+ ],
+ "brand_price": 59.99,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "us",
+   "status": "blocked",
+   "why": "The same object is sold by Lowe's at $43",
+   "prices": {
+    "brand": 59.99,
+    "cheapest_copy": 43.0,
+    "typical_copy": 60.0,
+    "cheapest_real_copy": 43.0,
+    "priced_copies": 4
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Lowe's",
+     "title": "Garvee Red Buffalo Plaid Reversible Rocking Chair Cushion ...",
+     "link": "https://www.lowes.com/pd/Garvee-Red-Buffalo-Plaid-Reversible-Rocking-Chair-Cushion-Waterproof-Polar-Fleece-Lined-Portable-Seat-Pad-Perfect-for-Patio-Camping-Sports-Bleachers-Foldable-with-Carry-Bag-59-54-27-Inch/9720836",
+     "price_text": "$43",
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_00.jpg"
+    },
+    {
+     "source": "Etsy",
+     "title": "The Chair Blanket™ – the Original Cozy Chair Cover – Turn ...",
+     "link": "https://www.etsy.com/listing/1785007409/the-chair-blanket-the-original-cozy",
+     "price_text": "$60",
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_01.jpg"
+    },
+    {
+     "source": "GoGardenNow",
+     "title": "The Chair Blanket",
+     "link": "https://gogardennow.com/products/the-chair-blanket",
+     "price_text": "$60",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_06.jpg"
+    },
+    {
+     "source": "GetBackyarding.com",
+     "title": "The Chair Blanket – GetBackyarding",
+     "link": "https://getbackyarding.com/products/the-chair-blanket",
+     "price_text": "$60",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_07.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: CITYBONFIRES The Chair Blanket™ Reversible ...",
+     "link": "https://www.amazon.com/clp/B0GK8WXTQ2",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_16.jpg"
+    },
+    {
+     "source": "Target",
+     "title": "Waterproof Camping Chair Cover with Polar Fleece Lining ...",
+     "link": "https://www.target.com/p/waterproof-camping-chair-cover-with-polar-fleece-lining-reversible-outdoor-seat-cushion-for-stadium-bleachers-sports-patio-62-59-30-inch/-/A-1013439165",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_17.jpg"
+    },
+    {
+     "source": "Walmart",
+     "title": "City Bonfires, Chair Blanket, One Size, Waterproof Beige ...",
+     "link": "https://www.walmart.com/ip/The-Chair-Blanket-by-City-Bonfires-SHIPS-11-15-2024/13034167274",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_18.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "CITYBONFIRES The Chair Blanket – Reversible ... - Amazon.com",
+     "link": "https://www.amazon.com/clp/B0DK7W187G",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_19.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: Waterproof Double Sided Chair Blanket, Cozy ...",
+     "link": "https://www.amazon.com/clp/B0GQDKXFXH",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_21.jpg"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: CITYBONFIRES The Chair Blanket – Reversible ...",
+     "link": "https://www.amazon.com/clp/B0FM8DY747",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_25.jpg"
+    },
+    {
+     "source": "Walmart",
+     "title": "The Chair Blanket – Reversible, Waterproof & Sherpa-Lined ...",
+     "link": "https://www.walmart.com/ip/CITYBONFIRES-Chair-Blanket-Reversible-Waterproof-Sherpa-Lined-Stretchable-Elastic-Back-Original-Patio-Chair-Cover-Ideal-Homes-Outdoor-Furniture-Carry/17558416047",
+     "price_text": null,
+     "kind": "big chain",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_26.jpg"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "uk",
+   "status": "crowded",
+   "why": "The same object is on City Bonfires at £49",
+   "prices": {
+    "brand": 44.99,
+    "cheapest_copy": 49.0,
+    "typical_copy": 49.0,
+    "cheapest_real_copy": 49.0,
+    "priced_copies": 1
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "City Bonfires",
+     "title": "The Chair Blanket | Cozy Chair Cover",
+     "link": "https://citybonfires.com/products/the-chair-blanket",
+     "price_text": "£49",
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_35.jpg",
+     "strength": "strong",
+     "strength_why": "a local shop"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "de",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 51.59,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "nl",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 51.59,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "fr",
+   "status": "open",
+   "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+   "prices": {
+    "brand": 51.59,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "es",
+   "status": "crowded",
+   "why": "The same object is on 3-Pack M6x20 Chainsaw Engine Cover Screws",
+   "prices": {
+    "brand": 51.59,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "3-Pack M6x20 Chainsaw Engine Cover Screws",
+     "title": "Waterproof & Reversible Sherpa Camping Chair Blanket – Fits ...",
+     "link": "https://www.ugttec.es/Most-Outdoor-Chairs-With-Carry-Bag-Red-Black-Plaid-u-758937",
+     "price_text": null,
+     "kind": "other store",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/chairblanket_thumb_42.jpg",
+     "strength": "strong",
+     "strength_why": "a local shop"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "it",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 51.59,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "be",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 51.59,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  }
+ ]
+}
