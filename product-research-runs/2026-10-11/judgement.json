@@ -1571,6 +1571,91 @@
     "note": "The same stainless mesh tube with wooden handle."
    },
    "advertiser_takeaway": "BRYN runs 168 of 200 \"grill basket\" ads, but every one started in the last week, so it is a fresh test, not proof. The Home Depot also advertises grill baskets."
+  },
+  {
+   "slug": "levelup",
+   "name": "Gaming Chair Wrap Blanket (Level Up Wrap)",
+   "brand": "Level Up Wrap (Coqui & M)",
+   "url": "https://shop.thelevelupwrap.com/products/the-level-up-warp-neon-nexus",
+   "category": "Gaming / home: wearable chair blanket",
+   "price": "US$89 (shown as reduced from US$124.99)",
+   "ad_days": "Oldest live ad 2026-08-22",
+   "store_platform": "Shopify",
+   "store_launched": "2026-06",
+   "store_products": "11 products: chair wraps and enamel pins",
+   "one_liner": "No copies found in 9 countries: only the brand's own Amazon listings. But it is the brand's own design with no supplier listing, so you would need a factory to make it, which is hard for a first product.",
+   "verdict": "Backlog",
+   "overall": 60,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 4,
+    "margin": 6,
+    "viral": 7,
+    "pain": 5,
+    "differentiation": 7
+   },
+   "why": [
+    "No copy of a chair-attached gaming wrap found in Europe; Amazon there shows only chair covers",
+    "Level Up runs 82 ads since 22 August, alone, and winter is coming",
+    "No AliExpress or Alibaba listing: you would need a custom maker (minimum orders, samples, upfront cash)"
+   ],
+   "risk": "Without a ready supplier you must design and pre-order stock, the riskiest path for a first product.",
+   "next": [
+    "Search Alibaba for \"wearable chair blanket\" or \"office chair blanket hood\" makers and ask minimum order and price",
+    "If one exists under ~€12 with low minimums, test in Germany or the Netherlands this winter"
+   ],
+   "best_region": "Europe (Germany, Netherlands, France, Italy): no chair-attached wrap found there.",
+   "snapshot": {
+    "icp": "Gamers, streamers and remote workers in cold homes",
+    "job": "Stay warm at the desk without a blanket sliding off",
+    "cogs": "Unknown: no supplier listing found (custom-made blanket likely €10-18)",
+    "margin": "About 75-85% at US$89 if made for €12-18 (estimate)",
+    "claims": "Chair-attached, hood, arm snaps, glow-in-the-dark, OEKO-TEX fleece",
+    "demoable": "Yes: glow-in-the-dark reveal in a dark gaming setup"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "No chain sells a chair-attached gaming wrap; chains sell normal gaming hoodies and throws"
+    },
+    {
+     "name": "Copies gate",
+     "result": "pass",
+     "why": "Only the brand's own Amazon listings found"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "One brand owns the ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "flag",
+     "why": "A fleece blanket is bulky: shipping costs more than a gadget"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Textile: needs a fibre-content label in the EU"
+    }
+   ],
+   "angles": [
+    "Remote workers in cold homes (the SnuggleBack office chair blanket proves this in the US)",
+    "Christmas gift for gamer sons and boyfriends",
+    "Streamers: glow-in-the-dark looks great on camera",
+    "Students in cold dorms and shared flats",
+    "TAKEN: \"Not a blanket. A setup upgrade.\" (Level Up Wrap)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 78,
+    "match_name": "Level Up Wrap's own Amazon Spain listing",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "Every exact match was the brand's own listing; other results were ordinary gaming hoodies and throws."
+   },
+   "advertiser_takeaway": "Level Up Wrap is alone: 82 ads, all its own, the oldest from 22 August. But 59 started in August and only 1 in October, so spending may be slowing. Check again in a few weeks."
   }
  ]
 }

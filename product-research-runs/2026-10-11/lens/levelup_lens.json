@@ -1,0 +1,169 @@
+{
+ "slug": "levelup",
+ "same": [
+  53,
+  56,
+  78
+ ],
+ "brand_price": 89.0,
+ "brand_currency": "usd",
+ "countries": [
+  {
+   "cc": "us",
+   "status": "crowded",
+   "why": "The same object is on Amazon.com",
+   "prices": {
+    "brand": 89.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: LEVEL UP WRAP® Manta para silla de juegos que ...",
+     "link": "https://www.amazon.com/-/es/oscuridad-Acogedora-Fijación-ecológico-jugadores/dp/B0F3ZQBVX5?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3PIUJ57TRWDDW",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/levelup_thumb_56.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 58
+  },
+  {
+   "cc": "uk",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 66.75,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "de",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "nl",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "fr",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "es",
+   "status": "crowded",
+   "why": "The same object is on Amazon.es",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.es",
+     "title": "LEVEL UP WRAP® Manta para silla de juego que brilla en la ...",
+     "link": "https://www.amazon.es/LEVEL-UP-oscuridad-ecológico-jugadores/dp/B0F3ZQBVX5",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/levelup_thumb_78.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 59
+  },
+  {
+   "cc": "it",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "be",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 76.54,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  },
+  {
+   "cc": "pl",
+   "status": "open",
+   "why": "Picture search found nobody but the brand selling this object here",
+   "prices": {
+    "brand": 329.3,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 59
+  }
+ ]
+}

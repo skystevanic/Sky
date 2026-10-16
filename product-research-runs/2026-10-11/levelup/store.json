@@ -1,0 +1,106 @@
+{
+  "input_url": "https://shop.thelevelupwrap.com/products/the-level-up-warp-neon-nexus",
+  "store_root": "https://shop.thelevelupwrap.com",
+  "platform": "shopify",
+  "title": "The Level Up Wrap™ - Neon Nexus",
+  "vendor": "The Level Up Wrap™ Shop",
+  "product_type": "Chair-Attached Wrap",
+  "created_at": "2026-06-21T08:53:23+02:00",
+  "updated_at": "2026-10-16T14:00:18+02:00",
+  "price_min": 89.0,
+  "price_max": 89.0,
+  "was_price": "124.99",
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "89.00",
+      "was": "124.99",
+      "available": null
+    }
+  ],
+  "description": "Not a blanket. A setup upgrade. Unlike blankets or hoodies, it stays secured to your chair for hands-free comfort during long sessions. It features a hood, arm snaps, and leg coverage for full-body warmth. Made for gamers, creators, and remote workers. The Neon Nexus pattern leans bold and futuristic, with electric neon lines and a high-contrast look that glows in the dark to light up your setup. What's built in: Chair-attached design: stays stable on your chair, moves with you. Full-body seated coverage: warmth from your shoulders to your legs. Integrated hood: extra cozy when you want it. Arm snaps: keep your hands free to play and type. Leg coverage: stays put while you sit. Made with OEKO-TEX certified fleece. Machine washable.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/1_faea3b40-eb75-4fd7-b93a-6b6a49d808bc.jpg?v=1783846529",
+    "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/1.jpg?v=1782324783",
+    "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/4.png?v=1782292859",
+    "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/3.png?v=1782292859",
+    "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/5.png?v=1782292859",
+    "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/6.png?v=1782292859"
+  ],
+  "tags": "founder-collection",
+  "store": {
+    "n_products": 11,
+    "first_product_created": "2026-06-21T08:52:58+02:00",
+    "newest": [
+      {
+        "title": "Complete Crew Enamel Pin Set — Series 1",
+        "created_at": "2026-10-06",
+        "price": "84.00"
+      },
+      {
+        "title": "Milou – The Coqui Colony Enamel Pin",
+        "created_at": "2026-09-13",
+        "price": "16.00"
+      },
+      {
+        "title": "Luma – Dragon Flight Enamel Pin",
+        "created_at": "2026-09-13",
+        "price": "16.00"
+      },
+      {
+        "title": "Juniper – Woodland Adventure Enamel Pin",
+        "created_at": "2026-09-13",
+        "price": "16.00"
+      },
+      {
+        "title": "Riff – Neon Flock Enamel Pin",
+        "created_at": "2026-09-13",
+        "price": "16.00"
+      },
+      {
+        "title": "Nova – Space Catz Enamel Pin",
+        "created_at": "2026-09-13",
+        "price": "16.00"
+      },
+      {
+        "title": "Poe – Spellbinding Galaxy Crew Enamel Pin",
+        "created_at": "2026-09-13",
+        "price": "16.00"
+      },
+      {
+        "title": "The Level Up Wrap™ - Midnight Black",
+        "created_at": "2026-09-05",
+        "price": "89.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/levelup/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/1_faea3b40-eb75-4fd7-b93a-6b6a49d808bc.jpg?v=1783846529"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/levelup/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/1.jpg?v=1782324783"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/levelup/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/4.png?v=1782292859"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/levelup/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/3.png?v=1782292859"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/levelup/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/5.png?v=1782292859"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/levelup/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1045/8683/8353/files/6.png?v=1782292859"
+    }
+  ]
+}
