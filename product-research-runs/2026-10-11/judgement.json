@@ -56,16 +56,16 @@
     "No European shop found selling it; EU Amazon shows only garden-furniture covers and wheelchair blankets",
     "Alibaba and AliExpress list copies (\"camping chair cover\", \"chair blanket\"), so it can be sourced"
    ],
-   "risk": "It is a Shark Tank brand that may hold a patent or design right; and it is bulky to ship.",
+   "risk": "No ready-made supplier: you would need a factory (minimum order, samples, upfront cash), and it is bulky to ship.",
    "next": [
-    "Ask 2-3 AliExpress/Alibaba sellers for price, sample and shipping to Spain; check for an EU design registration on \"The Chair Blanket\"",
-    "If clear, test in the Netherlands, Germany or Belgium before Christmas: fire pit, terrace and football-stand angles"
+    "Ask 3 Alibaba blanket factories (wheelchair/stadium blanket makers) for price, MOQ and a sample",
+    "Only test if a sample under ~€15 with MOQ 50-100 is possible; target NL/DE/BE"
    ],
    "best_region": "Netherlands, Germany and Belgium: big terrace and fire-pit culture, and no seller found.",
    "snapshot": {
     "icp": "Homeowners 30-65 with a fire pit or terrace; parents at kids' sports",
     "job": "Stay warm and dry in an outdoor chair",
-    "cogs": "Unknown until a supplier quotes; similar fleece covers are typically €8-15 landed (estimate)",
+    "cogs": "No ready-made supplier found (AliExpress, Minea); needs a factory to make it. Similar waterproof fleece blankets are €15-30 on AliExpress",
     "margin": "About 70-80% at €55-60 (estimate)",
     "claims": "Waterproof, windproof, fits most chairs, packs into a bag",
     "demoable": "Yes: cold wet chair to cosy seat in 10 seconds"
