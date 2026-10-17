@@ -1,0 +1,267 @@
+{
+ "slug": "rg-2670",
+ "phrase": "tennis grip",
+ "checked": "2026-10-17",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22tennis%20grip%22",
+ "ads_loaded": 35,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 14,
+ "advertisers_with_3_plus_ads": 4,
+ "biggest_advertiser_share": 0.26,
+ "brands_new_in_last_2_months": 8,
+ "brands_advertising_3_plus_months": 4,
+ "ads_started_last_2_months": 23,
+ "ads_older_than_6_months": 0,
+ "pattern": "crowded",
+ "plain": "14 brands advertise it; 4 have kept ads running 3+ months, 8 are new in the last two months. Of the 6 biggest shops we could date, 6 are over a year old and 0 opened in the last four months.",
+ "months": {
+  "2026-05": 3,
+  "2026-06": 4,
+  "2026-07": 2,
+  "2026-08": 3,
+  "2026-09": 7,
+  "2026-10": 16
+ },
+ "brand_months": {
+  "2026-05": 2,
+  "2026-06": 1,
+  "2026-07": 1,
+  "2026-08": 2,
+  "2026-09": 3,
+  "2026-10": 5
+ },
+ "top_advertisers": [
+  {
+   "name": "Kwski.vn",
+   "pages": 1,
+   "page_names": [
+    "Kwski.vn"
+   ],
+   "ads": 9,
+   "oldest_live_ad": "2026-05-14",
+   "page_likes": 869,
+   "headline": "{{product.name}}",
+   "shop": "shopee.vn",
+   "product_page": "https://shopee.vn/shop/768085171",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=120344597823241",
+   "shop_open_since": null
+  },
+  {
+   "name": "Kawasaki sports official store",
+   "pages": 1,
+   "page_names": [
+    "Kawasaki sports official store"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-05-14",
+   "page_likes": 3492,
+   "headline": "{{product.name}}",
+   "shop": "shopee.ph",
+   "product_page": "https://shopee.ph/shop/589751753",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=158521957346889",
+   "shop_open_since": null
+  },
+  {
+   "name": "GRIPS by Udrippin",
+   "pages": 1,
+   "page_names": [
+    "GRIPS by Udrippin"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-06-16",
+   "page_likes": 727,
+   "headline": "Premium Tennis Grips",
+   "shop": "udrippin.com",
+   "product_page": "https://www.udrippin.com/collections/tennis-grips",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=114254705052159",
+   "shop_open_since": "2023-08-10"
+  },
+  {
+   "name": "Hesacore Pickleball",
+   "pages": 1,
+   "page_names": [
+    "Hesacore Pickleball"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-10-05",
+   "page_likes": 993,
+   "headline": "Hesacore Grip",
+   "shop": "amazon.com",
+   "product_page": "https://www.amazon.com/dp/B0C2XHMYD1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=112687244962291",
+   "shop_open_since": null
+  },
+  {
+   "name": "GO Sport ME",
+   "pages": 1,
+   "page_names": [
+    "GO Sport ME"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-24",
+   "page_likes": 221422,
+   "headline": "{{product.name}}",
+   "shop": "qa.gosportme.com",
+   "product_page": "https://qa.gosportme.com/collections/babolat",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=126224910804632",
+   "shop_open_since": "2021-03-16"
+  },
+  {
+   "name": "Table Tennis Hub",
+   "pages": 1,
+   "page_names": [
+    "Table Tennis Hub"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 13583,
+   "headline": "Revive Your Paddle's Grip",
+   "shop": "tabletennishub.net",
+   "product_page": "https://www.tabletennishub.net/collections/new-products/products/table-tennis-rubber-grip-spray",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=304438723324285",
+   "shop_open_since": "2017-05-18"
+  },
+  {
+   "name": "GO Sport ME",
+   "pages": 1,
+   "page_names": [
+    "GO Sport ME"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 221422,
+   "headline": "Babolat Xcel Gel Tennis Grip X 1 NO SIZE NO SIZE",
+   "shop": "gosportcom.myshopify.com",
+   "product_page": "https://gosportcom.myshopify.com/products/babolat-xcel-gel-x-1-black",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=126224910804632",
+   "shop_open_since": "2021-03-16"
+  },
+  {
+   "name": "SportsGear24X7",
+   "pages": 1,
+   "page_names": [
+    "SportsGear24X7"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-16",
+   "page_likes": 1025,
+   "headline": "{{product.name}}",
+   "shop": "sportsgear24x7.com",
+   "product_page": "http://sportsgear24x7.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=470775076127239",
+   "shop_open_since": null
+  },
+  {
+   "name": "Strawberries and Cream ",
+   "pages": 1,
+   "page_names": [
+    "Strawberries and Cream "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-28",
+   "page_likes": 631,
+   "headline": "Cutest tennis grip",
+   "shop": "strawberriesandcreamny.com",
+   "product_page": "https://strawberriesandcreamny.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=127465507124999",
+   "shop_open_since": "2023-10-02"
+  },
+  {
+   "name": "필라테스리체 삭스",
+   "pages": 1,
+   "page_names": [
+    "필라테스리체 삭스"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": null,
+   "headline": "10월 선정디자인(버터, 브라운 컬러) -5,000원 할인",
+   "shop": "mkt.shopping.naver.com",
+   "product_page": "https://mkt.shopping.naver.com/link/684f819b1493aa51b54bdfa0",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=101617645194637",
+   "shop_open_since": null
+  },
+  {
+   "name": "Wilson Philippines",
+   "pages": 1,
+   "page_names": [
+    "Wilson Philippines"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-15",
+   "page_likes": 18320,
+   "headline": "{{product.name}}",
+   "shop": "ph.wilson.com",
+   "product_page": "https://ph.wilson.com/products/wilson-clash-100l-v3-pink-tennis-racket",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=2295763893776082",
+   "shop_open_since": null
+  },
+  {
+   "name": "CRBN Pickleball",
+   "pages": 1,
+   "page_names": [
+    "CRBN Pickleball"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-06",
+   "page_likes": 23713,
+   "headline": "{{product.name}}",
+   "shop": "crbnpickleball.com",
+   "product_page": "https://crbnpickleball.com/pages/10rw-competitive-grinder",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104249981968648",
+   "shop_open_since": "2021-07-06"
+  },
+  {
+   "name": "RocketGrip",
+   "pages": 1,
+   "page_names": [
+    "RocketGrip"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-01",
+   "page_likes": 9131,
+   "headline": "{{product.name}}",
+   "shop": "rocketgrip.com",
+   "product_page": "http://rocketgrip.com/products/tennis-undergrip",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1260537740676409",
+   "shop_open_since": null
+  },
+  {
+   "name": "Grip Spritz",
+   "pages": 1,
+   "page_names": [
+    "Grip Spritz"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-05",
+   "page_likes": 9105,
+   "headline": "The Secret to Perfect Pickleball Grip",
+   "shop": "gripspritz.com",
+   "product_page": "https://gripspritz.com/products/grip-spritz-racket-sports",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=150667655514499",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "shopee.vn": 9,
+  "shopee.ph": 7,
+  "udrippin.com": 3,
+  "amazon.com": 3,
+  "qa.gosportme.com": 2,
+  "tabletennishub.net": 2,
+  "gosportcom.myshopify.com": 2,
+  "sportsgear24x7.com": 1,
+  "strawberriesandcreamny.com": 1,
+  "mkt.shopping.naver.com": 1,
+  "ph.wilson.com": 1,
+  "crbnpickleball.com": 1,
+  "rocketgrip.com": 1,
+  "gripspritz.com": 1
+ },
+ "cost_usd": 0.1,
+ "shops_checked": 6,
+ "shops_over_a_year_old": 6,
+ "shops_under_4_months_old": 0
+}

@@ -1741,6 +1741,90 @@
     "note": "Every exact match was the brand's own listing; other results were ordinary gaming hoodies and throws."
    },
    "advertiser_takeaway": "Level Up Wrap is alone: 82 ads, all its own, the oldest from 22 August. But 59 started in August and only 1 in October, so spending may be slowing. Check again in a few weeks."
+  },
+  {
+   "slug": "rocketgrip",
+   "name": "Silicone Tennis Undergrip (RocketGrip)",
+   "brand": "RocketGrip",
+   "url": "https://eu.rocketgrip.com/products/tennis-undergrip",
+   "category": "Tennis accessories: silicone grip sleeve",
+   "price": "€28",
+   "ad_days": "148 ads, all started October 2026",
+   "store_platform": "Shopify",
+   "store_launched": "2022-11 (hockey grips first)",
+   "store_products": "45 products: hockey and tennis grips",
+   "one_liner": "An established hockey-grip brand moving into tennis. Few copies in Europe, but it is RocketGrip's own moulded product with no ready supplier, sold at only €28, and its 148 ads are all two weeks old.",
+   "verdict": "Avoid",
+   "overall": 52,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 4,
+    "margin": 5,
+    "viral": 6,
+    "pain": 5,
+    "differentiation": 6
+   },
+   "why": [
+    "Most photo matches were RocketGrip's own Amazon listings or hockey grips; one Italian copy (\"Padel Grip – Octopus\", €29)",
+    "No supplier listing found: it is a custom silicone mould, so a factory would have to make it",
+    "At €28 for one grip there is little left for ads; RocketGrip's tennis ads all started this month"
+   ],
+   "risk": "RocketGrip markets it as unique (\"Only RocketGrip can do this\"); its design may be protected, and a mould needs upfront cash.",
+   "next": [
+    "Skip it as a first product. Watch whether RocketGrip's tennis ads are still running in January"
+   ],
+   "best_region": "None for a beginner.",
+   "snapshot": {
+    "icp": "Club tennis and padel players with sore wrists or sweaty hands",
+    "job": "A softer, non-slip grip that lasts",
+    "cogs": "Unknown: needs a custom silicone mould",
+    "margin": "Low in euros at €28",
+    "claims": "Shock-absorbing, anti-slip, reusable",
+    "demoable": "Moderate: close-ups of grip and sweat"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "Decathlon sells ordinary overgrips, not this sleeve"
+    },
+    {
+     "name": "Copies gate",
+     "result": "pass",
+     "why": "Only one copy found in Europe (Amazon Italy, €29)"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "RocketGrip runs nearly all ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Tiny"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Check RocketGrip's design or patent rights before copying"
+    }
+   ],
+   "angles": [
+    "Padel players (huge in Spain)",
+    "Tennis elbow sufferers (avoid medical claims)",
+    "Pickleball",
+    "Gift for club players",
+    "TAKEN: \"More comfort. More control.\" (RocketGrip)"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 74,
+    "match_name": "RocketGrip's own Amazon Spain listing",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "Most exact matches were RocketGrip's own listings; hockey and cricket sleeves look similar but fit other sports."
+   },
+   "advertiser_takeaway": "RocketGrip runs 148 ads, almost all started in October 2026: a fresh push into tennis by a hockey brand, not yet proof. Only 14 brands advertise \"tennis grip\" at all."
   }
  ]
 }

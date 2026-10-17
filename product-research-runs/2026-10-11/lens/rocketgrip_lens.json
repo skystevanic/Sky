@@ -1,0 +1,239 @@
+{
+ "slug": "rocketgrip",
+ "same": [
+  56,
+  57,
+  58,
+  59,
+  60,
+  64,
+  66,
+  69,
+  70,
+  74,
+  76,
+  80,
+  84,
+  85
+ ],
+ "brand_price": 28.0,
+ "brand_currency": "eur",
+ "countries": [
+  {
+   "cc": "uk",
+   "status": "crowded",
+   "why": "The same object is on eBay UK. 1 other copy",
+   "prices": {
+    "brand": 24.42,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "eBay UK",
+     "title": "Non Slip Cricket Bat Grip Multicolour Handle Rubber Premium ...",
+     "link": "https://www.ebay.co.uk/itm/352211741832",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_58.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    },
+    {
+     "source": "Amazon UK",
+     "title": "ROCKETGRIP Octopus Padel Grip (Pack of 2) - Soft Silicone ...",
+     "link": "https://www.amazon.co.uk/ROCKETGRIP-Octopus-Padel-Undergrip-Pack/dp/B0H6C5ZNMG",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_66.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "de",
+   "status": "crowded",
+   "why": "The same object is on Amazon.de",
+   "prices": {
+    "brand": 28.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.de",
+     "title": "Eishockeysocken Knee-High – Rutschfeste Skate-Socken ...",
+     "link": "https://www.amazon.de/ROCKETGRIP-Eishockeysocken-Grip-Skate-Socken-Kompressionspassform-Feuchtigkeitsableitend/dp/B0GCHWXHNC",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_69.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "nl",
+   "status": "open",
+   "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+   "prices": {
+    "brand": 28.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "fr",
+   "status": "crowded",
+   "why": "The same object is on Amazon",
+   "prices": {
+    "brand": 28.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon",
+     "title": "Buttendz Future Grip de Remplacement pour Bâton de Hockey en ...",
+     "link": "https://www.amazon.fr/Buttendz-Future-Poignée-hockey-rechange/dp/B09HFC5CR4",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_70.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "es",
+   "status": "crowded",
+   "why": "The same object is on Amazon",
+   "prices": {
+    "brand": 28.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon",
+     "title": "RocketGrip Grip Tenis – Undergrip Silicona Suave, Octopus ...",
+     "link": "https://www.amazon.es/RocketGrip-Grip-Tenis-Undergrip-Silicona/dp/B0FTTBTL3M",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_74.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "it",
+   "status": "crowded",
+   "why": "The same object is on Amazon.it. 1 other copy",
+   "prices": {
+    "brand": 28.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.it",
+     "title": "Buttendz Future - Manopola di ricambio per hockey, con ...",
+     "link": "https://www.amazon.it/Buttendz-Future-Manopola-ricambio-rotazione/dp/B09HFC5CR4",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_76.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    },
+    {
+     "source": "Amazon.it",
+     "title": "ROCKETGRIP Grip Ricambio Bastone Hockey – Alternativa al ...",
+     "link": "https://www.amazon.it/ROCKETGRIP-Impugnatura-ricambio-installare-impugnatura/dp/B0C7N73P51",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_80.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 60
+  },
+  {
+   "cc": "be",
+   "status": "open",
+   "why": "No shop sells this object here. It is only on supplier sites such as AliExpress, which is where you would buy it",
+   "prices": {
+    "brand": 28.0,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [],
+   "picture_matches": 60
+  },
+  {
+   "cc": "us",
+   "status": "crowded",
+   "why": "The same object is on Amazon.com. 1 other copy",
+   "prices": {
+    "brand": 32.56,
+    "cheapest_copy": null,
+    "typical_copy": null,
+    "cheapest_real_copy": null,
+    "priced_copies": 0
+   },
+   "findability_checked": false,
+   "same_object_listings": [
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com : Tennis Grip – Soft Silicone Tennis Racket Grip ...",
+     "link": "https://www.amazon.com/Tennis-Grip-Silicone-Racket-Octopus/dp/B0H2YJSZND",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_56.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    },
+    {
+     "source": "Amazon.com",
+     "title": "Amazon.com: ROCKETGRIP Pickleball Grip – Soft Silicone ...",
+     "link": "https://www.amazon.com/Pickleball-Grip-Silicone-Paddle-Octopus/dp/B0H9YG4N85",
+     "price_text": null,
+     "kind": "marketplace",
+     "thumb_file": "/home/user/Sky/product-research-runs/2026-10-11/lens/rocketgrip_thumb_85.jpg",
+     "strength": "strong",
+     "strength_why": "no price to compare"
+    }
+   ],
+   "picture_matches": 60
+  }
+ ]
+}

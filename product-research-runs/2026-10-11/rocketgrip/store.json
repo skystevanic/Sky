@@ -1,0 +1,107 @@
+{
+  "input_url": "https://eu.rocketgrip.com/products/tennis-undergrip",
+  "store_root": "https://eu.rocketgrip.com",
+  "platform": "shopify",
+  "title": "Octopus Tennis Undergrip",
+  "vendor": "RocketGrip",
+  "product_type": "",
+  "created_at": "2025-07-28T19:30:14+03:00",
+  "updated_at": "2026-10-17T11:43:13+03:00",
+  "price_min": 28.0,
+  "price_max": 28.0,
+  "was_price": null,
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Red",
+      "price": "28.00",
+      "was": "",
+      "available": null
+    }
+  ],
+  "description": "Tennis Octopus Undergrip is made for tennis players who demand comfort, control, and joint-friendly performance – every time they step onto the court. Built with advanced silicone cushioning , an octopus-style bump texture , and premium elastic material , this undergrip absorbs vibrations , reduces wrist strain , and keeps your hands dry during intense rallies. Whether you're serving big, slicing low, or grinding through long baseline points, the Undergrip Grip moves with your hand – not against it.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1765/5405/files/octopus-tennis-undergrip-red.jpg?v=1791897918",
+    "https://cdn.shopify.com/s/files/1/1765/5405/files/octopus-tennis-undergrip-no-slipping-red.jpg?v=1791897932",
+    "https://cdn.shopify.com/s/files/1/1765/5405/files/Artboard1copy2-2.jpg?v=1784284041",
+    "https://cdn.shopify.com/s/files/1/1765/5405/files/octopus-tennis-undergrip-details-red.jpg?v=1791904560",
+    "https://cdn.shopify.com/s/files/1/1765/5405/files/octopus-tennis-undergrip-who-red.jpg?v=1791904557",
+    "https://cdn.shopify.com/s/files/1/1765/5405/files/5_4f6078e1-fe97-47b6-a74f-da3aad2d7797.jpg?v=1776951058",
+    "https://cdn.shopify.com/s/files/1/1765/5405/files/7_dd6e7e2c-1940-4352-a0bb-1c87249cb684.jpg?v=1776951058"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 45,
+    "first_product_created": "2022-11-03T14:17:54+02:00",
+    "newest": [
+      {
+        "title": "Tennis Grip Socks",
+        "created_at": "2026-10-16",
+        "price": "28.00"
+      },
+      {
+        "title": "Grip Tackifier",
+        "created_at": "2026-10-12",
+        "price": "0.00"
+      },
+      {
+        "title": "Racket Stringing (Hybrid half set)",
+        "created_at": "2026-10-09",
+        "price": "12.00"
+      },
+      {
+        "title": "Racket Stringing",
+        "created_at": "2026-10-09",
+        "price": "24.00"
+      },
+      {
+        "title": "RocketGrip Tennis Ball Keychain",
+        "created_at": "2026-10-09",
+        "price": "4.95"
+      },
+      {
+        "title": "GRIP+ | Extra Grip Liquid for Racket Sports",
+        "created_at": "2026-09-25",
+        "price": "24.90"
+      },
+      {
+        "title": "Babolat Evo Aero Pink Gen2 (275g)",
+        "created_at": "2026-09-25",
+        "price": "189.00"
+      },
+      {
+        "title": "Babolat Pure Drive Team Spectra Limited Edition (285g)",
+        "created_at": "2026-09-25",
+        "price": "259.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "EUR",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/rocketgrip/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1765/5405/files/octopus-tennis-undergrip-red.jpg?v=1791897918"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/rocketgrip/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1765/5405/files/octopus-tennis-undergrip-no-slipping-red.jpg?v=1791897932"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/rocketgrip/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1765/5405/files/Artboard1copy2-2.jpg?v=1784284041"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/rocketgrip/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1765/5405/files/octopus-tennis-undergrip-details-red.jpg?v=1791904560"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/rocketgrip/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1765/5405/files/octopus-tennis-undergrip-who-red.jpg?v=1791904557"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/rocketgrip/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1765/5405/files/5_4f6078e1-fe97-47b6-a74f-da3aad2d7797.jpg?v=1776951058"
+    }
+  ]
+}
