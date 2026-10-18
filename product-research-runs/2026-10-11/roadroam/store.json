@@ -1,0 +1,109 @@
+{
+  "input_url": "https://first-backer.com/products/roadroam",
+  "store_root": "https://first-backer.com",
+  "platform": "shopify",
+  "title": "Take The Guesswork Out Of RV Leveling",
+  "vendor": "First Backer",
+  "product_type": "pre-order now on Kickstarter",
+  "created_at": "2026-10-10T01:16:58-04:00",
+  "updated_at": "2026-10-18T11:44:03-04:00",
+  "price_min": 79.0,
+  "price_max": 79.0,
+  "was_price": null,
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "79.00",
+      "was": "",
+      "available": null
+    }
+  ],
+  "description": "You have the view, the campsite, and the time to relax, but your RV still is not level. RoadRoam Smart Level closes the gap between knowing there is a tilt and knowing exactly what to do about it. It turns real-time measurements into clear guidance on your phone, showing where to adjust and how many leveling blocks to use. A built-in 6-axis IMU tracks front-to-back and side-to-side tilt, with display accuracy up to 0.25 inch so small changes are easy to read. Use the mobile app for guided setup around your RV, or switch to instant LED Level mode when you want quick visual feedback. Back RoadRoam Smart Level on Kickstarter now. About We are a team passionate about outdoor adventures and smart technology. RoadRoam creates smart solutions for RV travelers, designed to make life on the road simpler, more comfortable, and more enjoyable. Our mission is to help more people confidently explore new places and enjoy the freedom of travel. FAQ What does it mean to back a project (pledge)? When you back a project, you are pre-ordering the product. That means you will get it once it's produced. Besides getting the product itself, you're also joining a community. Follow along the production process, take part in important surveys and give the creator valuable feedback. What is Kickstarter? Kickstarter is a launchpad for creators to raise funds for the initial production of their invention. Backers (that's you!) can support the creator by pre-ordering the product at a discounted price. How do I pledge? In order to pledge, click that green button that says Back this project . You will get to select your shipping country and choose your desired pledge level and reward.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/CL30_92c50f8f-f5e1-4cb7-bdff-2fdc92c649bc.jpg?v=1791609437",
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/CB01_39caa76b-6336-4829-832c-4aad02f7ea2b.png?v=1791609453",
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/CB02_a6d57d10-d32a-4dbb-93f4-8df4f49a3fad.png?v=1791609459",
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/CB03_909d2f14-0319-4a23-9c33-cbc89dcc63f0.png?v=1791609463",
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/SQ_0000_RR_G1_09_9x16_V01.jpg?v=1791609467",
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/SQ_0000_RR_G3_10_1x1_V01.jpg?v=1791609469",
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/SQ_0001_9_c21cf4c4-2214-474e-814e-7fc0f4771fbf.jpg?v=1791609471",
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/SQ_0001_RR_G2_09_9x16_V01.jpg?v=1791609476",
+    "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/SQ_0002_10_4291e7e2-7bf0-4ef9-82a0-ef8d3cb6a56a.jpg?v=1791609479"
+  ],
+  "tags": "survey",
+  "store": {
+    "n_products": 250,
+    "first_product_created": "2024-08-14T09:34:36-04:00",
+    "newest": [
+      {
+        "title": "Your Office Chair Just Got A Workout Upgrade",
+        "created_at": "2026-10-17",
+        "price": "99.00"
+      },
+      {
+        "title": "Keep The Keyring For Your Keys",
+        "created_at": "2026-10-16",
+        "price": "25.00"
+      },
+      {
+        "title": "Your Countertop Just Became A Microbrewery",
+        "created_at": "2026-10-16",
+        "price": "549.00"
+      },
+      {
+        "title": "Cooler That Stays Cool And Packs Easy",
+        "created_at": "2026-10-15",
+        "price": "119.00"
+      },
+      {
+        "title": "Up To 60% Less Bulk Without The Manual Work",
+        "created_at": "2026-10-15",
+        "price": "45.00"
+      },
+      {
+        "title": "Built To Be Used. Designed To Be Collected.",
+        "created_at": "2026-10-15",
+        "price": "299.00"
+      },
+      {
+        "title": "Social Deduction With Evidence, Not Just Accusations.",
+        "created_at": "2026-10-15",
+        "price": "49.00"
+      },
+      {
+        "title": "Two Gardens. One Beautiful Place To Grow.",
+        "created_at": "2026-10-15",
+        "price": "399.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/roadroam/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/CL30_92c50f8f-f5e1-4cb7-bdff-2fdc92c649bc.jpg?v=1791609437"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/roadroam/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/CB01_39caa76b-6336-4829-832c-4aad02f7ea2b.png?v=1791609453"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/roadroam/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/CB02_a6d57d10-d32a-4dbb-93f4-8df4f49a3fad.png?v=1791609459"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/roadroam/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/CB03_909d2f14-0319-4a23-9c33-cbc89dcc63f0.png?v=1791609463"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/roadroam/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/SQ_0000_RR_G1_09_9x16_V01.jpg?v=1791609467"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/roadroam/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0623/7732/8864/files/SQ_0000_RR_G3_10_1x1_V01.jpg?v=1791609469"
+    }
+  ]
+}
