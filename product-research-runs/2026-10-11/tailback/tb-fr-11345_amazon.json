@@ -1,0 +1,66 @@
+{
+  "slug": "tb-fr-11345",
+  "query": "sacoche de selle moto extensible sac à dos",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "fr",
+      "label": "France",
+      "amazon_site": "amazon.fr",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 1,700 reviews; 3 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 1700,
+      "n_1000_plus": 3,
+      "cheapest": 23.99,
+      "typical": 44.99,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Rhinowalk Waterproof Motorcycle Seat Bag 40-60L Expandable Saddle Bag",
+          "price_text": "€119.99",
+          "price": 119.99,
+          "rating": 4.5,
+          "reviews": 1700,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/Rhinowalk-Waterproof-Motorcycle-40-60L-Expandable/dp/B0B7J6JSDM/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81wrZzs7bsL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Rhinowalk Motorcycle Seat Bag Multifunctional Waterproof 20L Motorcycle Rear Trunk Seat Ba",
+          "price_text": "€38.99",
+          "price": 38.99,
+          "rating": 4.4,
+          "reviews": 1100,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/Rhinowalk-Motorcycle-Multifunctional-Professional-Accessories/dp/B0B1LDHHNL/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61zoAHJzJtL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Rhinowalk Motorcycle Saddle Bag 30L Multifunctional Waterproof Rear Rack Saddle Bag Motorc",
+          "price_text": "€45.99",
+          "price": 45.99,
+          "rating": 4.4,
+          "reviews": 1100,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/Rhinowalk-Motorcycle-Multifunctional-Professional-Accessories/dp/B0B1LD69D9/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61lb2vPIPUL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

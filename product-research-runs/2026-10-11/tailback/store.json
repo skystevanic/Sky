@@ -1,0 +1,110 @@
+{
+  "input_url": "https://eu.ripplimpactgear.com/products/rippl-tailback%E2%84%A2-motorcycle-bag",
+  "store_root": "https://eu.ripplimpactgear.com",
+  "platform": "shopify",
+  "title": "Rippl TailBack™ Motorcycle Bag",
+  "vendor": "Rippl Impact Gear",
+  "product_type": "",
+  "created_at": "2025-09-20T09:47:18-07:00",
+  "updated_at": "2026-10-18T10:45:56-07:00",
+  "price_min": 77.95,
+  "price_max": 77.95,
+  "was_price": "170.95",
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "77.95",
+      "was": "170.95",
+      "available": null
+    }
+  ],
+  "description": "The Only Motorcycle Bag That Expands to Fit Your Helmet, Gear & More — Waterproof & Road-Ready Tired of strapping a sweaty backpack to your shoulders or fighting with bags that leak in heavy rain? This dual-use tail bag solves it all. Mount it securely to your rear seat in minutes, stash your helmet, jacket, and touring gear, then convert it into a backpack when you’re off the bike. ✔ Expands from 24 L to 38L — fits a full-face helmet, gloves, tools & more ✔ Double waterproof protection — rain cover + waterproof fabric ✔ Quick 4-step install — secure in under 5 minutes, stays stable at speed ✔ Convertible design — tail bag on the bike, backpack off it ✔ Reflective safety strips — stay visible up to 500 ft at night Why Riders Love It “Fits my helmet and still has space for touring gear. Looks great on the bike and doubles as a backpack. Highly recommend!” – James R. “Rode through heavy rain and my gear stayed bone dry. The rain cover + waterproof fabric combo is unbeatable.” – Aisha K. Perfect For Daily commutes — stash your helmet, laptop, or work gear Weekend tours — carry clothing, gloves & rain gear All-weather riding — proven waterproofing keeps gear safe Night rides — reflective strips keep you visible & safer",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBagMainImage.png?v=1758386729",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/fitseverythingv.png?v=1758386730",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBagFeaturesBennies_1.png?v=1758798784",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBaglifestyleone.png?v=1758798784",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBagFitsallhelmettypes.png?v=1758798784",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBag.png?v=1758798784",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBaglifestyle2.png?v=1758798784",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBag_2.png?v=1758798784",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBagfitsontank.png?v=1758798784",
+    "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBagreflector.png?v=1758798784"
+  ],
+  "tags": "Moto, moto_comfort, moto_journey, review-exc",
+  "store": {
+    "n_products": 56,
+    "first_product_created": "2020-03-24T12:44:06-07:00",
+    "newest": [
+      {
+        "title": "Rippl Switch™ Jacket",
+        "created_at": "2026-10-06",
+        "price": "89.95"
+      },
+      {
+        "title": "LDX™ Rides",
+        "created_at": "2026-09-24",
+        "price": "36.95"
+      },
+      {
+        "title": "The Riding Jeans + Cargos Bundle",
+        "created_at": "2026-09-22",
+        "price": "181.95"
+      },
+      {
+        "title": "The Renegade™ Riding Hoodie 2.0.",
+        "created_at": "2026-07-08",
+        "price": "176.95"
+      },
+      {
+        "title": "Rippl TailBack™ 2.0",
+        "created_at": "2026-06-26",
+        "price": "77.95"
+      },
+      {
+        "title": "Pure Grit™ Riding Jeans 2.0'",
+        "created_at": "2026-06-25",
+        "price": "167.95"
+      },
+      {
+        "title": "The Renegade™ Riding Hoodie 2.0",
+        "created_at": "2026-06-04",
+        "price": "140.95"
+      },
+      {
+        "title": "dB Drops™ Earbuds",
+        "created_at": "2026-05-06",
+        "price": "36.95"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "EUR",
+  "saved_images": [
+    {
+      "file": "product-research-runs/2026-10-11/tailback/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBagMainImage.png?v=1758386729"
+    },
+    {
+      "file": "product-research-runs/2026-10-11/tailback/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/fitseverythingv.png?v=1758386730"
+    },
+    {
+      "file": "product-research-runs/2026-10-11/tailback/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBagFeaturesBennies_1.png?v=1758798784"
+    },
+    {
+      "file": "product-research-runs/2026-10-11/tailback/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBaglifestyleone.png?v=1758798784"
+    },
+    {
+      "file": "product-research-runs/2026-10-11/tailback/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBagFitsallhelmettypes.png?v=1758798784"
+    },
+    {
+      "file": "product-research-runs/2026-10-11/tailback/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0343/1137/2859/files/TailBackBag.png?v=1758798784"
+    }
+  ]
+}

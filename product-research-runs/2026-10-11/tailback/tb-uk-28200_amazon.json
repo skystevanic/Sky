@@ -1,0 +1,66 @@
+{
+  "slug": "tb-uk-28200",
+  "query": "motorcycle tail bag expandable backpack waterproof",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "amazon_site": "amazon.co.uk",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 3,600 reviews; 6 of the first 20 have 1,000+; at least 100 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 3600,
+      "n_1000_plus": 6,
+      "cheapest": 22.79,
+      "typical": 38.34,
+      "bought_last_month_min": 100,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "JFG RACING Motorcycle Bag,Motorcycle Tail Bag,Waterproof Motorbike Seat Bag",
+          "price_text": "£25.99",
+          "price": 25.99,
+          "rating": 3.9,
+          "reviews": 3600,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/JFG-RACING-Motorcycle-Waterproof-Multifunctional/dp/B07K258X6Y/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71XgjCJJFOL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Rhinowalk Motor Pannier Bag 10/20/30L Multifunctional Waterproof Rear Rack Trunk Motorcycl",
+          "price_text": "£36.99",
+          "price": 36.99,
+          "rating": 4.3,
+          "reviews": 2300,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/dp/B08HVMPJQK/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81M+fm+9NLL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Rhinowalk Motorcycle Tail Bag - 40-60L Expandable Motorbike Helmet Bag with Waterproof Rai",
+          "price_text": "£109.99",
+          "price": 109.99,
+          "rating": 4.3,
+          "reviews": 1700,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/dp/B0B7J6JSDM/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81wrZzs7bsL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

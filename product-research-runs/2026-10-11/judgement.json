@@ -2215,6 +2215,78 @@
     "Not worth building angles on"
    ],
    "advertiser_takeaway": "Not checked: Amazon and Temu results were enough to decide."
+  },
+  {
+   "slug": "tailback",
+   "name": "Convertible Motorcycle Tail Bag / Backpack (Rippl TailBack)",
+   "brand": "Rippl Impact Gear",
+   "url": "https://eu.ripplimpactgear.com/products/rippl-tailback%E2%84%A2-motorcycle-bag",
+   "category": "Moto: expandable tail bag that converts to a backpack",
+   "price": "€77.95 (shown as reduced from €170.95)",
+   "store_platform": "Shopify",
+   "store_launched": "2020-03",
+   "store_products": "56 products (moto clothing and gear)",
+   "one_liner": "The same carbon-look 24-38 L tail bag/backpack is on Amazon in all six EU countries checked for €36-66, with MOSISO, Grapelet, VEVOR and Motocentric versions and listings of up to 4,400 reviews.",
+   "verdict": "Avoid",
+   "overall": 42,
+   "confidence": "High",
+   "scores": {
+    "saturated": 9,
+    "margin": 4,
+    "viral": 5,
+    "pain": 5,
+    "differentiation": 2
+   },
+   "why": [
+    "Motocentric sells an \"expandable 25-38 L motorcycle backpack with rain cover\" on Amazon.de for €65.55",
+    "Grapelet's 24 L expandable helmet tail bag sells for €39.99 on Amazon DE, FR and IT",
+    "MOSISO's tail bag/helmet backpack costs €50.99 on Amazon IT and £45.99 on Amazon UK",
+    "VEVOR sells a 22-34 L expandable version for €35.99-39.90 on Amazon NL, FR and IT"
+   ],
+   "risk": "At €77.95 against €36-66 on Amazon with fast delivery, buyers will compare. The bag is also bulky to ship.",
+   "next": [
+    "Skip it"
+   ],
+   "best_region": "None.",
+   "snapshot": {
+    "icp": "Motorcycle commuters and tourers",
+    "job": "Carry a helmet and gear on the bike, then wear it as a backpack",
+    "cogs": "About €15-20 landed (estimate)",
+    "margin": "Capped by €36-66 on Amazon",
+    "claims": "24-38 L, waterproof, converts to a backpack",
+    "demoable": "Yes"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "Not checked"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Same design from several brands on Amazon in DE, NL, ES, FR, IT and the UK"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Not checked"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "fail",
+     "why": "A large bag, costly to ship"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "None"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on"
+   ],
+   "advertiser_takeaway": "Not checked: Amazon results were enough to decide."
   }
  ]
 }

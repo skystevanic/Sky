@@ -1,0 +1,66 @@
+{
+  "slug": "tb-it-29193",
+  "query": "borsa da sella moto espandibile zaino",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "it",
+      "label": "Italy",
+      "amazon_site": "amazon.it",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 4,400 reviews; 6 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 4400,
+      "n_1000_plus": 6,
+      "cheapest": 29.99,
+      "typical": 44.99,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Small Luggage Bag, Double Use Universal Seat Bag",
+          "price_text": "€44.99",
+          "price": 44.99,
+          "rating": 3.8,
+          "reviews": 4400,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.it/-/en/Small-Luggage-Double-Universal-Seat/dp/B07RXJNQHT/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61+xCJfqV9L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Motorcycle Bag, Multi-Function Rear Motorcycle Bag",
+          "price_text": "€30.99",
+          "price": 30.99,
+          "rating": 3.8,
+          "reviews": 4400,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.it/-/en/Motorcycle-Bag-Multi-Function-Rear/dp/B07K258X6Y/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71XgjCJJFOL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "JFG RACING Rear Motorcycle Saddle Bag, Multifunctional Bag",
+          "price_text": "€32.99",
+          "price": 32.99,
+          "rating": 3.8,
+          "reviews": 4400,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.it/-/en/JFG-RACING-Motorcycle-Saddle-Multifunctional/dp/B07K1ZR2XZ/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51FPkr97jdL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "tb-es-26102",
+  "query": "bolsa sillin moto expandible mochila",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "es",
+      "label": "Spain",
+      "amazon_site": "amazon.es",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 2,800 reviews; 5 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 2800,
+      "n_1000_plus": 5,
+      "cheapest": 30.99,
+      "typical": 49.99,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "JFG RACING Motorcycle Rear Seat Bag,Motorcycle Backpacks,Universal",
+          "price_text": "€44.99",
+          "price": 44.99,
+          "rating": 3.9,
+          "reviews": 2800,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/JFG-RACING-Motorcycle-Backpacks-Universal/dp/B07RXJNQHT/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61+xCJfqV9L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Rhinowalk Motorcycle Saddle Bags Waterproof Anti-Vibration Side Shoulder Bags 28L(14L*2) f",
+          "price_text": "€139.99",
+          "price": 139.99,
+          "rating": 4.4,
+          "reviews": 2300,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/Rhinowalk-Motorcycle-Waterproof-Anti-Vibration-Shoulder/dp/B0B7JLFHRQ/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61XkRI5+HeL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "JFG RACING Motorcycle Rear Seat Luggage,Tail Bags Rear Seat Bag Luggage Saddle Bags Multif",
+          "price_text": "€30.99",
+          "price": 30.99,
+          "rating": 3.9,
+          "reviews": 1600,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/JFG-RACING-Motorcycle-Multifunctional-Backpack/dp/B07K258X6Y/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71XgjCJJFOL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

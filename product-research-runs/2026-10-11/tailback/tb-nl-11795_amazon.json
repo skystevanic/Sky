@@ -1,0 +1,66 @@
+{
+  "slug": "tb-nl-11795",
+  "query": "motor tas achterbank uitbreidbaar rugzak",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "nl",
+      "label": "Netherlands",
+      "amazon_site": "amazon.nl",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 3,500 reviews; 7 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 3500,
+      "n_1000_plus": 7,
+      "cheapest": 19.9,
+      "typical": 49.99,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Rhinowalk Motorcycle Rear Bag, Expandable Motorcycle Travel Bags, 60L, Waterproof All Weat",
+          "price_text": "€119.99",
+          "price": 119.99,
+          "rating": 4.5,
+          "reviews": 3500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Rhinowalk-Motorcycle-Expandable-Waterproof-Suitcase/dp/B0B7J6JSDM/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81wrZzs7bsL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Rhinowalk Motorcycle Rear Bag, Expandable Motorcycle Travel Bags, 80L, Waterproof All Weat",
+          "price_text": "€135.99",
+          "price": 135.99,
+          "rating": 4.5,
+          "reviews": 3500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Rhinowalk-Motorcycle-Expandable-Waterproof-Suitcase/dp/B0CSCX7NL9/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81jzNf4F5pL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "BORLENI Motorcycle Rear Bag, Waterproof Luggage Roller, Motorcycle Bag, Waterproof Bag, Sa",
+          "price_text": "€59.99",
+          "price": 59.99,
+          "rating": 4.6,
+          "reviews": 2500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/BORLENI-Motorcycle-Waterproof-Reflective-Kayaking/dp/B0CWV1KYCK/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71LmVUvomVL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

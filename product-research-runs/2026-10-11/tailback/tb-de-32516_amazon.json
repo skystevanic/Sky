@@ -1,0 +1,66 @@
+{
+  "slug": "tb-de-32516",
+  "query": "Motorrad Hecktasche erweiterbar Rucksack wasserdicht",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "de",
+      "label": "Germany",
+      "amazon_site": "amazon.de",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 3,300 reviews; 2 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 3300,
+      "n_1000_plus": 2,
+      "cheapest": 31.99,
+      "typical": 65.55,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "IRON JIA'S Waterproof Motorcycle Tail Bag with Roll Top",
+          "price_text": "€49.99",
+          "price": 49.99,
+          "rating": 4.6,
+          "reviews": 3300,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.de/dp/B0CWNDGHTN/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71s0jczA7jL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Rhinowalk Motorcycle Seat Bags 60-80L Waterproof Motor Rear Seat Bag Luggage Bag Rear Bag ",
+          "price_text": "€135.99",
+          "price": 135.99,
+          "rating": 4.6,
+          "reviews": 1500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/Rhinowalk-Motorcycle-Waterproof-Luggage-Expandable/dp/B0CSCX7NL9/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81jzNf4F5pL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Motorcycle Rear Bag, Waterproof, Universal Motorcycle Bag for Helmets",
+          "price_text": "€44.99",
+          "price": 44.99,
+          "rating": 4.3,
+          "reviews": 897,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/Motorcycle-Waterproof-Universal-Expandable-additional/dp/B08F4B2JZP/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81bEfsy8KdL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}
