@@ -1,0 +1,376 @@
+{
+  "slug": "montaire",
+  "query": "art tracing projector",
+  "brand": "Montaire",
+  "countries": [
+    {
+      "cc": "us",
+      "label": "United States",
+      "amazon_site": "amazon.com",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 5,600 reviews; 2 of the first 20 have 1,000+; at least 25,250 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 5600,
+      "n_1000_plus": 2,
+      "cheapest": 19.99,
+      "typical": 89.0,
+      "bought_last_month_min": 25250,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Mini Projector with WiFi and Bluetooth, AKIYO 2026 Upgraded Projector 1080P",
+          "price_text": "$41.92",
+          "price": 41.92,
+          "rating": 4.2,
+          "reviews": 5600,
+          "bought_text": "2K+ bought in past month",
+          "bought": 2000,
+          "sponsored": false,
+          "badges": [
+            "Overall Pick",
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.com/Projector-AKIYO-O1-Portable-Keystone/dp/B09HT8LL87/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61c5MvIMW4L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Mini Projector with Wifi and Bluetooth, Built-in Apps,Movie Projector",
+          "price_text": "$73.97",
+          "price": 73.97,
+          "rating": 4.5,
+          "reviews": 4900,
+          "bought_text": "20K+ bought in past month",
+          "bought": 20000,
+          "sponsored": false,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.com/Electric-Keystone%E3%80%91Mini-Projector-Bluetooth-Smartphones/dp/B0F7RR3YC6/",
+          "thumbnail": "https://m.media-amazon.com/images/I/619tBk9paQL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Caydo P1 Art Projector with Drawing App for Artists",
+          "price_text": "$159.99",
+          "price": 159.99,
+          "rating": 3.9,
+          "reviews": 243,
+          "bought_text": "200+ bought in past month",
+          "bought": 200,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com/Caydo-Projector-Exclusive-Portable-Compatible/dp/B0DZGRZQWS/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61pGoKyOFcL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "amazon_site": "amazon.de",
+      "note": null,
+      "pressure": "low",
+      "why": "top listing 498 reviews; 0 of the first 20 have 1,000+; at least 100 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 498,
+      "n_1000_plus": 0,
+      "cheapest": 11.6,
+      "typical": 113.64,
+      "bought_last_month_min": 100,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "BUKI FK004 - Drawing Projector, Turquoise",
+          "price_text": "€29.68",
+          "price": 29.68,
+          "rating": 4.4,
+          "reviews": 498,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/BUKI-FK004-Drawing-Projector-Turquoise/dp/B0DBJ4HG3L/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81KfoXvOiDL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Caydo T3 Drawing Projector, Children from 5 Years",
+          "price_text": "€99.99",
+          "price": 99.99,
+          "rating": 4.6,
+          "reviews": 194,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.de/-/en/Caydo-T3-Drawing-Projector-Children/dp/B0FQTHQC66/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81Ber5MuzSL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Caydo P1 Drawing Projector for Artists, Integrated Exclusive Drawing App",
+          "price_text": "€169.99",
+          "price": 169.99,
+          "rating": 4.0,
+          "reviews": 136,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/Caydo-P1-Projector-Integrated-Exclusive/dp/B0DZGZN1XW/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71O7lv+ITmL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "es",
+      "label": "Spain",
+      "amazon_site": "amazon.es",
+      "note": null,
+      "pressure": "low",
+      "why": "top listing 143 reviews; 0 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 143,
+      "n_1000_plus": 0,
+      "cheapest": 8.49,
+      "typical": 129.99,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Caydo P3 Artistic Projector with Exclusive Application for Artists, Portable Projector wit",
+          "price_text": "€229.99",
+          "price": 229.99,
+          "rating": 4.0,
+          "reviews": 143,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.es/dp/B0FF4P23GG/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71J9H-zeMdL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Caydo P3 Artistic Projector with Exclusive Application for Artists, Portable Projector wit",
+          "price_text": "€229.99",
+          "price": 229.99,
+          "rating": 4.0,
+          "reviews": 143,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/Caydo-P3-Application-Correction-Resolution/dp/B0FF4P23GG/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71J9H-zeMdL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Artograph 225-552 EZ Tracer, 4\" x 4\"",
+          "price_text": "€78.31",
+          "price": 78.31,
+          "rating": 3.8,
+          "reviews": 104,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/Artograph-225-552-EZ-Tracer/dp/B01N8W77P4/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51hgx4p9y3S._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "fr",
+      "label": "France",
+      "amazon_site": "amazon.fr",
+      "note": null,
+      "pressure": "low",
+      "why": "top listing 742 reviews; 0 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 742,
+      "n_1000_plus": 0,
+      "cheapest": 14.19,
+      "typical": 119.99,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Classroom Viewer, USB Documents Camera for Teaching 4K with 3 Levels LED Light, Image Reve",
+          "price_text": "€60.32",
+          "price": 60.32,
+          "rating": 4.4,
+          "reviews": 742,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.fr/dp/B0BB2Q8RK6/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61e7akfV-DL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Caydo P3 Drawing Projector, 1080P Native Projector for Artists",
+          "price_text": "€249.99",
+          "price": 249.99,
+          "rating": 4.0,
+          "reviews": 143,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.fr/dp/B0FF4P23GG/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71J9H-zeMdL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Caydo P3 Drawing Projector, 1080P Native Projector for Artists",
+          "price_text": "€249.99",
+          "price": 249.99,
+          "rating": 4.0,
+          "reviews": 143,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/Caydo-P3-Integrated-Application-Correction/dp/B0FF4P23GG/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71J9H-zeMdL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "amazon_site": "amazon.co.uk",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 5,800 reviews; 3 of the first 20 have 1,000+; at least 3,650 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 5800,
+      "n_1000_plus": 3,
+      "cheapest": 29.98,
+      "typical": 91.36,
+      "bought_last_month_min": 3650,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Yoton Y3 Mini Projector, 317g Ultra-Portable, 360° Rotating, Auto Keystone",
+          "price_text": "£29.98",
+          "price": 29.98,
+          "rating": 4.0,
+          "reviews": 5800,
+          "bought_text": "2K+ bought in past month",
+          "bought": 2000,
+          "sponsored": false,
+          "badges": [
+            "Ends in 06:56:55"
+          ],
+          "link": "https://www.amazon.co.uk/Y3-Projector-Ultra-Portable-Rotating-Keystone/dp/B0BX6XQF8L/",
+          "thumbnail": "https://m.media-amazon.com/images/I/41xAXBgVFwL._AC_UY218_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Projector AKIYO O1, Ultra-Portable 360° Rotating Auto Keystone 15000 Lumen",
+          "price_text": "£31.98",
+          "price": 31.98,
+          "rating": 4.1,
+          "reviews": 5700,
+          "bought_text": "300+ bought in past month",
+          "bought": 300,
+          "sponsored": false,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.co.uk/Projector-AKIYO-O1-Portable-Keystone/dp/B09HT8LL87/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61qq0-T1+-L._AC_UY218_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "AKIYO O2 Projector Built-in Apps, 1080P Support Auto Keystone WiFi6, 18000L",
+          "price_text": "£39.70",
+          "price": 39.7,
+          "rating": 4.1,
+          "reviews": 1600,
+          "bought_text": "1K+ bought in past month",
+          "bought": 1000,
+          "sponsored": false,
+          "badges": [
+            "Ends in 06:56:54"
+          ],
+          "link": "https://www.amazon.co.uk/AKIYO-Projector-Bluetooth-Portable-Compatible/dp/B0CJHVDWVW/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71qNV-8dmFL._AC_UY218_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "nl",
+      "label": "Netherlands",
+      "amazon_site": "amazon.nl",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 4,400 reviews; 1 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 4400,
+      "n_1000_plus": 1,
+      "cheapest": 7.18,
+      "typical": 115.7,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Artograph EZ Tracer® Opaque Art Projector for Reproduction of Wall or",
+          "price_text": "€145.62",
+          "price": 145.62,
+          "rating": 3.9,
+          "reviews": 4400,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Artograph-Projector-Reproduction-Expansion-sketching/dp/B007VTPATO/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61400TtEBaL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Buki - FK004 - Drawing Projector",
+          "price_text": "€29.99",
+          "price": 29.99,
+          "rating": 4.5,
+          "reviews": 498,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": [
+            "Amazon's Choice for \"art tracing projector\""
+          ],
+          "link": "https://www.amazon.nl/-/en/Buki-France-FK004-Drawing-Projector/dp/B0DBJ4HG3L/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81KfoXvOiDL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Animal Drawing Projector for Kids – Painting and Drawing Projector Table with Music and 72",
+          "price_text": "€19.99",
+          "price": 19.99,
+          "rating": 4.2,
+          "reviews": 60,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Animal-Drawing-Projector-Kids-Educational/dp/B0FHHKMHK7/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71BJwNJ9yVL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

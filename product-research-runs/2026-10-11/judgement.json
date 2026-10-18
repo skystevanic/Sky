@@ -1985,6 +1985,85 @@
     "note": "The same personalised jersey-shaped LED mirror, sold by many Amazon sellers."
    },
    "advertiser_takeaway": "LumiSport runs 64 of 100 \"specchio LED\" ads, all started this month for Christmas. Fresh test, not proof."
+  },
+  {
+   "slug": "montaire",
+   "name": "Wireless Art Tracing Projector (Montaire)",
+   "brand": "Montaire",
+   "url": "https://montaireco.com/products/montaire-wireless-art-tracing-projector",
+   "category": "Hobby: art tracing projector",
+   "price": "US$89.99 (shown as reduced from US$139.99)",
+   "store_platform": "Shopify",
+   "store_launched": "2026-09",
+   "store_products": "4 products",
+   "one_liner": "A real hobby trend, but it is a Wi-Fi electrical gadget (CE and radio certification), Caydo already owns European Amazon at €70-300, and 5 shops all started advertising it this month.",
+   "verdict": "Avoid",
+   "overall": 53,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 6,
+    "margin": 5,
+    "viral": 8,
+    "pain": 5,
+    "differentiation": 3
+   },
+   "why": [
+    "Amazon US sells the same-looking projectors at US$84-96; Europe is led by the Caydo brand (€70-300)",
+    "5 brands advertise \"tracing projector\", all starting in October: a rush beginning",
+    "A Wi-Fi, battery-powered device needs CE and radio (RED) certification and invites technical returns"
+   ],
+   "risk": "Electronic returns (\"it won't connect\") and certification make this hard for a first product.",
+   "next": [
+    "Skip it as a first product"
+   ],
+   "best_region": "None for a beginner.",
+   "snapshot": {
+    "icp": "Hobby artists, crafters, mural and cake decorators",
+    "job": "Trace any image accurately",
+    "cogs": "About US$30-45 landed (estimate)",
+    "margin": "About 50-60% at US$89.99 (estimate)",
+    "claims": "Wireless, phone app-free, adjustable arm",
+    "demoable": "Yes: very visual drawing videos"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "Not in chains"
+    },
+    {
+     "name": "Copies gate",
+     "result": "flag",
+     "why": "Similar projectors on Amazon at about the same price"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "flag",
+     "why": "5 brands, all started in October"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Wi-Fi and battery: CE and RED radio certification"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on for a beginner"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 0,
+    "match_name": "Amazon US (US$89)",
+    "verdict": "identical",
+    "confidence": "Medium",
+    "note": "Similar black projector on a desk arm, sold under several names."
+   },
+   "advertiser_takeaway": "Only 5 brands advertise \"tracing projector\", led by a shop opened in September (Humva), all from October. It is an early rush, not proof."
   }
  ]
 }

@@ -1,0 +1,120 @@
+{
+ "slug": "mt-5248",
+ "phrase": "tracing projector",
+ "checked": "2026-10-18",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22tracing%20projector%22",
+ "ads_loaded": 36,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 5,
+ "advertisers_with_3_plus_ads": 3,
+ "biggest_advertiser_share": 0.53,
+ "brands_new_in_last_2_months": 5,
+ "brands_advertising_3_plus_months": 0,
+ "ads_started_last_2_months": 36,
+ "ads_older_than_6_months": 0,
+ "pattern": "a handful",
+ "plain": "5 brands advertise it.",
+ "months": {
+  "2026-09": 1,
+  "2026-10": 35
+ },
+ "brand_months": {
+  "2026-09": 1,
+  "2026-10": 4
+ },
+ "top_advertisers": [
+  {
+   "name": "Shop Humva",
+   "pages": 1,
+   "page_names": [
+    "Shop Humva"
+   ],
+   "ads": 19,
+   "oldest_live_ad": "2026-10-13",
+   "page_likes": 112,
+   "headline": "🖼️ Trace Photos & Patterns — Only $19.99",
+   "shop": "tryhumva.com",
+   "product_page": "https://tryhumva.com/products/art-tracing-projector",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1329823113552706",
+   "shop_open_since": "2026-09-15"
+  },
+  {
+   "name": "Civilizek.CL03",
+   "pages": 9,
+   "page_names": [
+    "Civilizek.CL03",
+    "Beyonddraw.BW13",
+    "Civilizek.CK06",
+    "Civilizek.IV07",
+    "Benighty.BI04",
+    "Emboadlie/M"
+   ],
+   "ads": 10,
+   "oldest_live_ad": "2026-10-02",
+   "page_likes": 268,
+   "headline": "Optical Drawing Board",
+   "shop": "wordmindglow.com",
+   "product_page": "https://www.wordmindglow.com/products/optical-tracing-drawing-board-2-3-2-75",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=311751998696360",
+   "shop_open_since": null
+  },
+  {
+   "name": "Tô Nhi",
+   "pages": 1,
+   "page_names": [
+    "Tô Nhi"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-10-17",
+   "page_likes": 4,
+   "headline": "That favourite photo could be your next drawing. 🐾\n\nGetting the proportions onto a blank p",
+   "shop": "glowel1.myshopify.com",
+   "product_page": "https://glowel1.myshopify.com/products/art-tracing-projector-with-flexible-arm-1732444276524552884",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106772868403840",
+   "shop_open_since": "2026-08-07"
+  },
+  {
+   "name": "Kexon",
+   "pages": 1,
+   "page_names": [
+    "Kexon"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-15",
+   "page_likes": 215,
+   "headline": "Can't Draw? Just Project & Trace! 🎨",
+   "shop": "kexon.com",
+   "product_page": "https://www.kexon.com/funnel/news-kexon-tracing-projector-for-drawing---painting",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1022145880973608",
+   "shop_open_since": null
+  },
+  {
+   "name": "Whateveri.shop",
+   "pages": 1,
+   "page_names": [
+    "Whateveri.shop"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-11",
+   "page_likes": 399,
+   "headline": "Optical Drawing Board",
+   "shop": "whateveri.com",
+   "product_page": "https://www.whateveri.com/products/optical-tracing-drawing-board-2-3-4-3-2",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=116620774675139",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "tryhumva.com": 19,
+  "wordmindglow.com": 10,
+  "glowel1.myshopify.com": 5,
+  "kexon.com": 1,
+  "whateveri.com": 1
+ },
+ "cost_usd": 0.15,
+ "shops_checked": 2,
+ "shops_over_a_year_old": 0,
+ "shops_under_4_months_old": 2
+}

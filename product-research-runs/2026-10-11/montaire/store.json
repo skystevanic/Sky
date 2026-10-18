@@ -1,0 +1,87 @@
+{
+  "input_url": "https://montaireco.com/products/montaire-wireless-art-tracing-projector",
+  "store_root": "https://montaireco.com",
+  "platform": "shopify",
+  "title": "Montaire Wireless Art Tracing Projector",
+  "vendor": "Montaire",
+  "product_type": "",
+  "created_at": "2026-09-04T21:20:46-04:00",
+  "updated_at": "2026-10-18T12:02:38-04:00",
+  "price_min": 89.99,
+  "price_max": 89.99,
+  "was_price": "139.99",
+  "n_variants": 1,
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": "89.99",
+      "was": "139.99",
+      "available": null
+    }
+  ],
+  "description": "A wireless art projector that displays images from your phone onto paper, canvas, walls, and other surfaces for easy, accurate tracing.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_05_47_17_PM.png?v=1788819594",
+    "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_05_54_44_PM.png?v=1788819594",
+    "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_05_58_27_PM.png?v=1788819594",
+    "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_06_07_02_PM.png?v=1788819594",
+    "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_06_08_47_PM.png?v=1788819594",
+    "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_06_19_10_PM.png?v=1788819595",
+    "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/0b92ade6-6838-4c17-9c35-44eff99bea8a.png?v=1788574194"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 4,
+    "first_product_created": "2026-09-04T21:20:46-04:00",
+    "newest": [
+      {
+        "title": "Shipping Insurance",
+        "created_at": "2026-09-27",
+        "price": "4.50"
+      },
+      {
+        "title": "Drawing & Coloring Essentials Kit",
+        "created_at": "2026-09-27",
+        "price": "24.99"
+      },
+      {
+        "title": "Complete Projector Case",
+        "created_at": "2026-09-27",
+        "price": "29.99"
+      },
+      {
+        "title": "Montaire Wireless Art Tracing Projector",
+        "created_at": "2026-09-04",
+        "price": "89.99"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/montaire/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_05_47_17_PM.png?v=1788819594"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/montaire/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_05_54_44_PM.png?v=1788819594"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/montaire/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_05_58_27_PM.png?v=1788819594"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/montaire/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_06_07_02_PM.png?v=1788819594"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/montaire/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_06_08_47_PM.png?v=1788819594"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/montaire/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0812/4406/1719/files/ChatGPT_Image_Sep_7_2026_06_19_10_PM.png?v=1788819595"
+    }
+  ]
+}
