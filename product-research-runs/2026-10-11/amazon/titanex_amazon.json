@@ -1,0 +1,371 @@
+{
+  "slug": "titanex",
+  "query": "titanium frying pan non stick",
+  "brand": "TitaneX",
+  "countries": [
+    {
+      "cc": "fr",
+      "label": "France",
+      "amazon_site": "amazon.fr",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 22,900 reviews; 1 of the first 20 have 1,000+; at least 250 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 22900,
+      "n_1000_plus": 1,
+      "cheapest": 18.99,
+      "typical": 43.99,
+      "bought_last_month_min": 250,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Tefal - Jamie Oliver Cook's Direct Non-Stick Coating Frying Pan - 11",
+          "price_text": "€33.49",
+          "price": 33.49,
+          "rating": 4.3,
+          "reviews": 22900,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.fr/-/en/Tefal-Non-Stick-Induction-Thermo-Signal-Indicator/dp/B08GH6R477/",
+          "thumbnail": "https://m.media-amazon.com/images/I/712OJluVuJL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "YASHE 20cm Non Stick Frying Pan, Non-Toxic, PTFE and PFAS Free",
+          "price_text": "€18.99",
+          "price": 18.99,
+          "rating": 4.3,
+          "reviews": 527,
+          "bought_text": "200+ bought in past month",
+          "bought": 200,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/YASHE-20cm-Stick-Frying-Non-Toxic/dp/B0GTS95742/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71IfDbMZRfL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "SENSARTE Non-Stick Induction Frying Pan, 11 in, Titanium Reinforced Coating",
+          "price_text": "€29.99",
+          "price": 29.99,
+          "rating": 4.6,
+          "reviews": 187,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/SENSARTE-Non-Stick-Induction-Reinforced-dishwasher/dp/B0GZN8PHX3/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71+6Btl0bXL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "de",
+      "label": "Germany",
+      "amazon_site": "amazon.de",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 11,700 reviews; 1 of the first 20 have 1,000+; at least 7,500 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 11700,
+      "n_1000_plus": 1,
+      "cheapest": 26.99,
+      "typical": 58.99,
+      "bought_last_month_min": 7500,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Tefal Jamie Oliver Cook's Direct On 28 cm Thermal Signal Frying Pan",
+          "price_text": "€49.99",
+          "price": 49.99,
+          "rating": 4.6,
+          "reviews": 11700,
+          "bought_text": "7K+ bought in past month",
+          "bought": 7000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/Tefal-Stainless-induction-non-stick-E3040644/dp/B08GH6R477/",
+          "thumbnail": "https://m.media-amazon.com/images/I/616N+FuD+WL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Honeycomb Pan 30 cm Induction Non-Stick Frying Pan Honeycomb Structure Ceramic PFAS-Free S",
+          "price_text": "€74.95",
+          "price": 74.95,
+          "rating": 4.4,
+          "reviews": 346,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.de/dp/B0FF4QSNQ2/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81m5x9YbulL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Titanium Pan with Lid Titanium Frying Pan 30 cm for All Hobs",
+          "price_text": "€59.49",
+          "price": 59.49,
+          "rating": 4.1,
+          "reviews": 331,
+          "bought_text": "400+ bought in past month",
+          "bought": 400,
+          "sponsored": false,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.de/-/en/Abijan-Titanium-Pan-Frying-Hobs/dp/B0H4V9WCQZ/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71y7VRd+99L._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "es",
+      "label": "Spain",
+      "amazon_site": "amazon.es",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 7,500 reviews; 3 of the first 20 have 1,000+; at least 3,850 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 7500,
+      "n_1000_plus": 3,
+      "cheapest": 20.49,
+      "typical": 49.88,
+      "bought_last_month_min": 3850,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "BRA Prior | Frying Pan 24 cm, Cast Aluminium with Non-Stick",
+          "price_text": "€20.49",
+          "price": 20.49,
+          "rating": 4.5,
+          "reviews": 7500,
+          "bought_text": "800+ bought in past month",
+          "bought": 800,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/BRA-Aluminium-Non-Stick-including-induction/dp/B00LTT21LW/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61G1F-NkE+L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Monix Copper | Set of 3 Frying Pans 20-24-11 cm",
+          "price_text": "€51.99",
+          "price": 51.99,
+          "rating": 4.3,
+          "reviews": 4700,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/Monix-Non-stick-Aluminium-Particles-Including/dp/B07HBF29Y8/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81ybUSjQdXL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Tefal Ingenio Emotion Set of 3 Frying Pans, Stainless Steel",
+          "price_text": "€69.99",
+          "price": 69.99,
+          "rating": 4.6,
+          "reviews": 1000,
+          "bought_text": "3K+ bought in past month",
+          "bought": 3000,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/Tefal-Stainless-Removable-Induction-Thermo-Signal/dp/B0D36DNPXN/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71nPgX9i+dL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "nl",
+      "label": "Netherlands",
+      "amazon_site": "amazon.nl",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 5,800 reviews; 5 of the first 20 have 1,000+; at least 150 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 5800,
+      "n_1000_plus": 5,
+      "cheapest": 13.84,
+      "typical": 32.29,
+      "bought_last_month_min": 150,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Tefal A704S3 Duetto 3-Piece Frying Pan Set, 20, 24 and 11 in",
+          "price_text": "€72.00",
+          "price": 72.0,
+          "rating": 4.5,
+          "reviews": 5800,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Tefal-A704S3-Duetto-3-Piece-Frying/dp/B086WQWSNT/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61ApiR0YNnL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Frying Pans Induction with Non-Stick Coating 20cm, Omelette Pan Bakpanne Frying Pans Fryin",
+          "price_text": "€19.53",
+          "price": 19.53,
+          "rating": 4.6,
+          "reviews": 4500,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.nl/-/en/Induction-Non-Stick-Omelette-Bakpanne-Aluminum/dp/B087JDZ6DS/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71qQ0L+Ma+L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Jamie Oliver by Tefal Frying Pan 24 cm Stainless Steel, Deep Shape E3040444",
+          "price_text": "€36.99",
+          "price": 36.99,
+          "rating": 4.5,
+          "reviews": 3400,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Oliver-Tefal-Frying-Stainless-E3040444/dp/B08GHXD5XR/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71wL-Sd-x2L._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "it",
+      "label": "Italy",
+      "amazon_site": "amazon.it",
+      "note": null,
+      "pressure": "low",
+      "why": "top listing 314 reviews; 0 of the first 20 have 1,000+; at least 300 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 314,
+      "n_1000_plus": 0,
+      "cheapest": 24.99,
+      "typical": 55.9,
+      "bought_last_month_min": 300,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Lagostina Edera, Set of 2 Non-Stick Frying Pans 24/28 cm",
+          "price_text": "€28.49",
+          "price": 28.49,
+          "rating": 3.8,
+          "reviews": 314,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": false,
+          "badges": [
+            "Limited time deal"
+          ],
+          "link": "https://www.amazon.it/-/en/Lagostina-Edera-Non-Stick-Frying-Pans/dp/B0DG3PZCYF/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61+VfPieoJL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Lagostina Intensive Pro Non-Stick Frying Pan, 32 cm, Scratch Resistant Titanium Coating, F",
+          "price_text": "€55.90",
+          "price": 55.9,
+          "rating": 4.7,
+          "reviews": 242,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.it/-/en/Lagostina-Intensive-Non-Stick-Thermo-Signal-Technology/dp/B0D4DVLCX7/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61xQQ0tk-jL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "SENSARTE Non-Stick Frying Pan 20 cm for Induction and All Fires, Black",
+          "price_text": "€24.99",
+          "price": 24.99,
+          "rating": 4.6,
+          "reviews": 187,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.it/-/en/SENSARTE-Non-Stick-Induction-ergonomic-dishwasher/dp/B0GZN8TF9V/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71+6Btl0bXL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    },
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "amazon_site": "amazon.co.uk",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 17,000 reviews; 4 of the first 20 have 1,000+; at least 1,900 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 17000,
+      "n_1000_plus": 4,
+      "cheapest": 24.99,
+      "typical": 53.54,
+      "bought_last_month_min": 1900,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Tefal Jamie Oliver Stainless Steel Frying Pan 28 cm, Oven Safe",
+          "price_text": "£48.00",
+          "price": 48.0,
+          "rating": 4.6,
+          "reviews": 17000,
+          "bought_text": "1K+ bought in past month",
+          "bought": 1000,
+          "sponsored": false,
+          "badges": [
+            "Amazon Exclusive"
+          ],
+          "link": "https://www.amazon.co.uk/Tefal-Stainless-Non-Stick-Induction-Compatible/dp/B08GH6R477/",
+          "thumbnail": "https://m.media-amazon.com/images/I/616N+FuD+WL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "HexClad 4.3 L Hybrid Nonstick Deep Sauté Frying Pan & Lid, Induction Ready",
+          "price_text": "£179.00",
+          "price": 179.0,
+          "rating": 4.4,
+          "reviews": 6000,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/dp/B0D6HLG8V1/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81In6XS44BL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Cuisinart Chef’s Classic™ 24cm Stainless Steel Frying Pan",
+          "price_text": "£34.99",
+          "price": 34.99,
+          "rating": 4.3,
+          "reviews": 5200,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/dp/B0HHJZC4B5/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51d4fNVhFCL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

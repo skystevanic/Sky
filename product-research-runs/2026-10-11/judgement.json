@@ -1825,6 +1825,86 @@
     "note": "Most exact matches were RocketGrip's own listings; hockey and cricket sleeves look similar but fit other sports."
    },
    "advertiser_takeaway": "RocketGrip runs 148 ads, almost all started in October 2026: a fresh push into tennis by a hockey brand, not yet proof. Only 14 brands advertise \"tennis grip\" at all."
+  },
+  {
+   "slug": "titanex",
+   "name": "Hammered Titanium Frying Pan (TitaneX)",
+   "brand": "TitaneX",
+   "url": "https://titanexofficiel.com/products/titanex%C2%AE-poele-antiadherente-titane",
+   "category": "Kitchen: hybrid titanium frying pan",
+   "price": "€69.90-89.90 (shown as reduced from €140)",
+   "ad_days": "Oldest live ad 2026-08-23",
+   "store_platform": "Shopify",
+   "store_launched": "2026-08",
+   "store_products": "19 products: pans, lids, crêpe pan",
+   "one_liner": "A HexClad-style hammered titanium pan. The same pan is in Amazon's top results in France, Spain and Germany from €30-50, next to Tefal and HexClad.",
+   "verdict": "Avoid",
+   "overall": 48,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 9,
+    "margin": 5,
+    "viral": 6,
+    "pain": 5,
+    "differentiation": 2
+   },
+   "why": [
+    "Amazon France and Spain show 5-7 identical hammered titanium pans in the top 8, from €29.99",
+    "Big brands own the category: Tefal, HexClad, Jamie Oliver by Tefal",
+    "A new copy shop (Titanox) started advertising this month: the swarm is starting"
+   ],
+   "risk": "Food-contact cookware needs an EU declaration of conformity, and \"pure titanium\" claims are often untrue and invite refunds.",
+   "next": [
+    "Skip it"
+   ],
+   "best_region": "None.",
+   "snapshot": {
+    "icp": "Home cooks 30-60",
+    "job": "A non-stick pan that lasts",
+    "cogs": "About €8-15 landed (estimate)",
+    "margin": "About 75% before returns (estimate)",
+    "claims": "Pure titanium, scratch-resistant, lifetime",
+    "demoable": "Yes: steak searing, egg sliding"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "flag",
+     "why": "Tefal and HexClad sell similar pans in every shop"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Identical pans in Amazon's top results from €29.99"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Only 3 brands advertise \"poêle titane\" so far, 2 opened this year"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "About 1 kg"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "Food-contact material: EU declaration of conformity needed"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 0,
+    "match_name": "Amazon France (€46.99)",
+    "verdict": "identical",
+    "confidence": "Medium",
+    "note": "The same hammered stainless-titanium pan sold under many names."
+   },
+   "advertiser_takeaway": "TitaneX runs 18 of 25 \"poêle titane\" ads since 23 August; a copy shop, Titanox, started this month. Small for now, but the product itself is everywhere on Amazon."
   }
  ]
 }

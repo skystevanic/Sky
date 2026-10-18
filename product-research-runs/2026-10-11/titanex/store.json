@@ -1,0 +1,222 @@
+{
+  "input_url": "https://titanexofficiel.com/products/titanex%C2%AE-poele-antiadherente-titane",
+  "store_root": "https://titanexofficiel.com",
+  "platform": "shopify",
+  "title": "TitaneX® – Poêle antiadhérente titane",
+  "vendor": "TitaneX",
+  "product_type": "",
+  "created_at": "2026-08-14T16:10:24+02:00",
+  "updated_at": "2026-10-18T16:47:20+02:00",
+  "price_min": 69.9,
+  "price_max": 89.9,
+  "was_price": "140.00",
+  "n_variants": 20,
+  "variants": [
+    {
+      "title": "22cm / Manche fixe",
+      "price": "69.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "22cm / Manche amovible",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "24cm / Manche fixe",
+      "price": "69.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "24cm / Manche amovible",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "26cm / Manche fixe",
+      "price": "69.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "26cm / Manche amovible",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "28cm / Manche fixe",
+      "price": "69.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "28cm / Manche amovible",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "30cm / Manche fixe",
+      "price": "69.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "30cm / Manche amovible",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "22cm+Couvercle / Manche fixe",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "22cm+Couvercle / Manche amovible",
+      "price": "89.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "24cm+Couvercle / Manche fixe",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "24cm+Couvercle / Manche amovible",
+      "price": "89.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "26cm+Couvercle / Manche fixe",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "26cm+Couvercle / Manche amovible",
+      "price": "89.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "28cm+Couvercle / Manche fixe",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "28cm+Couvercle / Manche amovible",
+      "price": "89.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "30cm+Couvercle / Manche fixe",
+      "price": "79.90",
+      "was": "140.00",
+      "available": null
+    },
+    {
+      "title": "30cm+Couvercle / Manche amovible",
+      "price": "89.90",
+      "was": "140.00",
+      "available": null
+    }
+  ],
+  "description": "",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/DIPSO_AMO_baa01045-123b-40cd-9eb5-3e6fa4457997.webp?v=1786716842",
+    "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/90.webp?v=1788968032",
+    "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/27_294c2477-cae0-48eb-bd7a-6a0cf5dd9910.webp?v=1786716842",
+    "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/23_bfc00730-22f5-4b61-8955-7561d5005f8a.webp?v=1786716841",
+    "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/28_e69ea778-5ef9-4ef7-9fc7-ec7f1f517c58.webp?v=1786716841",
+    "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/Photo_To_Photo_260331_1861199125789771_0cf657d5-a638-4896-8107-a81be1a4d48a.webp?v=1786716841",
+    "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/hf_20260618_221004_475e451c-dec7-4372-8ea7-7459d06d1dc9.webp?v=1786716842",
+    "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/hf_20260621_152440_1_9dad1056-29f4-4271-9a47-da876fa70cfe.webp?v=1786716841"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 19,
+    "first_product_created": "2026-08-14T16:10:16+02:00",
+    "newest": [
+      {
+        "title": "Shipping protection",
+        "created_at": "2026-08-16",
+        "price": "5.00"
+      },
+      {
+        "title": "Crêpière – TitaneX®",
+        "created_at": "2026-08-14",
+        "price": "84.90"
+      },
+      {
+        "title": "Couvercle – TitaneX®",
+        "created_at": "2026-08-14",
+        "price": "14.90"
+      },
+      {
+        "title": "Aiguiseur à rouleau - Kasai™",
+        "created_at": "2026-08-14",
+        "price": "49.90"
+      },
+      {
+        "title": "Ensemble d’Ustensiles - TitaneX®",
+        "created_at": "2026-08-14",
+        "price": "50.00"
+      },
+      {
+        "title": "Casserole Titane Pro - TitaneX®",
+        "created_at": "2026-08-14",
+        "price": "109.90"
+      },
+      {
+        "title": "Coffret 8 Couteaux Japonais - ProChef®",
+        "created_at": "2026-08-14",
+        "price": "129.90"
+      },
+      {
+        "title": "Wok – TitaneX®",
+        "created_at": "2026-08-14",
+        "price": "84.90"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "EUR",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/titanex/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/DIPSO_AMO_baa01045-123b-40cd-9eb5-3e6fa4457997.webp?v=1786716842"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/titanex/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/90.webp?v=1788968032"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/titanex/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/27_294c2477-cae0-48eb-bd7a-6a0cf5dd9910.webp?v=1786716842"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/titanex/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/23_bfc00730-22f5-4b61-8955-7561d5005f8a.webp?v=1786716841"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/titanex/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/28_e69ea778-5ef9-4ef7-9fc7-ec7f1f517c58.webp?v=1786716841"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/titanex/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/1010/8767/4742/files/Photo_To_Photo_260331_1861199125789771_0cf657d5-a638-4896-8107-a81be1a4d48a.webp?v=1786716841"
+    }
+  ]
+}
