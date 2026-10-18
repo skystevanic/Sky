@@ -1,0 +1,66 @@
+{
+  "slug": "bb-de-9640",
+  "query": "Kennzeichenhalter Stoßstangenschutz",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "de",
+      "label": "Germany",
+      "amazon_site": "amazon.de",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 7,900 reviews; 15 of the first 20 have 1,000+; at least 8,400 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 7900,
+      "n_1000_plus": 15,
+      "cheapest": 6.8,
+      "typical": 15.99,
+      "bought_last_month_min": 8400,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Simple Fix Number Plate Holder, Set of 2",
+          "price_text": "€6.80",
+          "price": 6.8,
+          "rating": 4.5,
+          "reviews": 7900,
+          "bought_text": "500+ bought in past month",
+          "bought": 500,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/Simple-Fix-Number-Plate-Holder-black/dp/B0062N13JQ/",
+          "thumbnail": "https://m.media-amazon.com/images/I/613t9YF9ZLL._AC_UY218_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "4 x Plate Holders - Frameless Universal Number Plate Holder",
+          "price_text": "€24.99",
+          "price": 24.99,
+          "rating": 4.6,
+          "reviews": 6800,
+          "bought_text": "1K+ bought in past month",
+          "bought": 1000,
+          "sponsored": true,
+          "badges": null,
+          "link": "https://www.amazon.de/dp/B085DB5B65/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81zEDBjP0lL._AC_UY218_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "PLATEHOLDER® Original – Frameless Universal Number Plate Holder – Invisible and Weatherpro",
+          "price_text": "€24.99",
+          "price": 24.99,
+          "rating": 4.6,
+          "reviews": 6800,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.de/-/en/PLATEHOLDER%C2%AE-Original-Frameless-Weatherproof-Transparent/dp/B0DF51YLLD/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61T4ts1H+bL._AC_UY218_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

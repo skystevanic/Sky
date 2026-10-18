@@ -1,0 +1,66 @@
+{
+  "slug": "bb-nl-4461",
+  "query": "bumper bescherming kenteken",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "nl",
+      "label": "Netherlands",
+      "amazon_site": "amazon.nl",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 1,900 reviews; 1 of the first 20 have 1,000+",
+      "listings_seen": 20,
+      "top_reviews": 1900,
+      "n_1000_plus": 1,
+      "cheapest": 5.46,
+      "typical": 9.99,
+      "bought_last_month_min": null,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Car Door Edge Protector, High Quality Car Edge Protection, Black Rubber Sticker, Pack of 6",
+          "price_text": "€6.99",
+          "price": 6.99,
+          "rating": 4.0,
+          "reviews": 1900,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Cywvynyt-Protector-Quality-Protection-Sticker/dp/B099YMJYX3/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61wkV-IFWiL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Voarge 4 Universal Protective Strips for Car Corner Bumper",
+          "price_text": "€13.99",
+          "price": 13.99,
+          "rating": 4.2,
+          "reviews": 980,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Voarge-Universal-Protective-Strips-Corner/dp/B0BZKJGPKW/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51hWBgJUduL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Voarge Set of 4 Universal Car Corner Bumper Protectors, Anti-Scratch Strip, Stickers (Whit",
+          "price_text": "€14.49",
+          "price": 14.49,
+          "rating": 4.2,
+          "reviews": 980,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.nl/-/en/Voarge-Universal-Protectors-Anti-Scratch-Stickers/dp/B0CFTXHWPY/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51OT3ptlN8L._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

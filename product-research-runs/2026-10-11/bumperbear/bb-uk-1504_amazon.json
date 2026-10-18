@@ -1,0 +1,66 @@
+{
+  "slug": "bb-uk-1504",
+  "query": "number plate bumper guard",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "uk",
+      "label": "United Kingdom",
+      "amazon_site": "amazon.co.uk",
+      "note": null,
+      "pressure": "medium",
+      "why": "top listing 1,900 reviews; 1 of the first 20 have 1,000+; at least 50 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 1900,
+      "n_1000_plus": 1,
+      "cheapest": 4.29,
+      "typical": 15.99,
+      "bought_last_month_min": 50,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "2x Black effect Number Plate Surrounds Holder Frame for all cars ABS PC plastic",
+          "price_text": "£9.99",
+          "price": 9.99,
+          "rating": 4.3,
+          "reviews": 1900,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/effect-Number-Surrounds-Holder-plastic/dp/B00IG9BK7O/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71ruFkuSTxL._AC_UY218_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Cora 000116017 100 Fixing Kit for License Plate, Blue",
+          "price_text": "£7.78",
+          "price": 7.78,
+          "rating": 4.5,
+          "reviews": 398,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/Cora-000116017-100-Fixing-License-Plate-Blue/dp/B00QI797K8/",
+          "thumbnail": "https://m.media-amazon.com/images/I/710DzrIIrHL._AC_UY218_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "2 x Super Black Glossy Universal Number Plate Surrounds Holders Frames M",
+          "price_text": "£14.99",
+          "price": 14.99,
+          "rating": 4.4,
+          "reviews": 372,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.co.uk/Glossy-Universal-Number-Surrounds-Holders/dp/B07Q4F2Z26/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61Q0YdbCt5L._AC_UY218_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "bb-es-29672",
+  "query": "protector matricula parachoques",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "es",
+      "label": "Spain",
+      "amazon_site": "amazon.es",
+      "note": null,
+      "pressure": "low",
+      "why": "top listing 985 reviews; 0 of the first 20 have 1,000+; at least 150 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 985,
+      "n_1000_plus": 0,
+      "cheapest": 5.66,
+      "typical": 14.99,
+      "bought_last_month_min": 150,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Voarge 4 Pieces Universal Protector Car Corner Bumper Guard, Anti-Scratch Strips Sticker, ",
+          "price_text": "€12.49",
+          "price": 12.49,
+          "rating": 4.2,
+          "reviews": 985,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/Voarge-Universal-Protector-Anti-Scratch-Black-4PCS/dp/B0BZKJGPKW/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51hWBgJUduL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Voarge 4 Pieces Universal Protector Car Corner Bumper Guard Protector Anti Scratch Strips ",
+          "price_text": "€12.49",
+          "price": 12.49,
+          "rating": 4.2,
+          "reviews": 985,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/Voarge-Universal-Protector-Scratch-Sticker/dp/B0CFTXHWPY/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51OT3ptlN8L._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Front and Rear Bumper Protector for Car 4PCS Universal Adhesive Bumper Protector Anti-Coll",
+          "price_text": "€10.95",
+          "price": 10.95,
+          "rating": 3.9,
+          "reviews": 860,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.es/-/en/Protector-Universal-Adhesive-Anti-Collision-Anti-scratch/dp/B0B4NDSX78/",
+          "thumbnail": "https://m.media-amazon.com/images/I/6197H80O1cL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

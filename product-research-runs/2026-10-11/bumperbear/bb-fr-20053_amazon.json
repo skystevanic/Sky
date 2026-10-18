@@ -1,0 +1,66 @@
+{
+  "slug": "bb-fr-20053",
+  "query": "protection pare-choc plaque immatriculation",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "fr",
+      "label": "France",
+      "amazon_site": "amazon.fr",
+      "note": null,
+      "pressure": "low",
+      "why": "top listing 991 reviews; 0 of the first 20 have 1,000+; at least 50 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 991,
+      "n_1000_plus": 0,
+      "cheapest": 9.99,
+      "typical": 14.99,
+      "bought_last_month_min": 50,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "Voarge 4 x Universal Car Scratch Protection Tape Adhesive Black",
+          "price_text": "€14.49",
+          "price": 14.49,
+          "rating": 4.3,
+          "reviews": 991,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/Voarge-Universal-Scratch-Protection-Adhesive/dp/B0BZKJGPKW/",
+          "thumbnail": "https://m.media-amazon.com/images/I/51hWBgJUduL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "JNNJ 2 x Car Bumper Protection Strips, PVC Anti-Scratch Self-Adhesive Strip, Anti-Friction",
+          "price_text": "€12.99",
+          "price": 12.99,
+          "rating": 4.2,
+          "reviews": 298,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/JNNJ-Protection-Anti-Scratch-Self-Adhesive-Anti-Friction/dp/B0CCRB3GF7/",
+          "thumbnail": "https://m.media-amazon.com/images/I/61wVGDkgiIL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "Pair (2 PCS) Black Hinged Car License Plate Holders for Bumpers and Flat Surfaces of Cars,",
+          "price_text": "€21.99",
+          "price": 21.99,
+          "rating": 4.4,
+          "reviews": 115,
+          "bought_text": null,
+          "bought": null,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.fr/-/en/License-Holders-Surfaces-Caravans-Trailers/dp/B09JMDN1V3/",
+          "thumbnail": "https://m.media-amazon.com/images/I/71iiQQRGhNL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "bb-us-3048",
+  "query": "license plate bumper guard",
+  "brand": "",
+  "countries": [
+    {
+      "cc": "us",
+      "label": "United States",
+      "amazon_site": "amazon.com",
+      "note": null,
+      "pressure": "high",
+      "why": "top listing 3,800 reviews; 5 of the first 20 have 1,000+; at least 1,250 bought last month across them",
+      "listings_seen": 20,
+      "top_reviews": 3800,
+      "n_1000_plus": 5,
+      "cheapest": 14.95,
+      "typical": 34.95,
+      "bought_last_month_min": 1250,
+      "brand_present": false,
+      "top3": [
+        {
+          "title": "AR-PRO Ultimate License Plate Bumper Guard Screws Included - 2.3\" Thick Rubber License Pla",
+          "price_text": "$18.99",
+          "price": 18.99,
+          "rating": 4.4,
+          "reviews": 3800,
+          "bought_text": "300+ bought in past month",
+          "bought": 300,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com/AR-PRO-Ultimate-License-Bumper-Included/dp/B07W6BW92M/",
+          "thumbnail": "https://m.media-amazon.com/images/I/710WWlX3GeL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "AR-PRO Car License Plate Bumper Guard, 2.3\" Thick Universal Mount (2 Pack)",
+          "price_text": "$34.99",
+          "price": 34.99,
+          "rating": 4.4,
+          "reviews": 3800,
+          "bought_text": "100+ bought in past month",
+          "bought": 100,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com/AR-PRO-Ultimate-Protection-Scratches-Universal/dp/B07ZKGPRNG/",
+          "thumbnail": "https://m.media-amazon.com/images/I/81y0bHqDleL._AC_UL320_.jpg",
+          "is_brand": false
+        },
+        {
+          "title": "BumpShox - The Original Front Bumper Guard & Front Bumper Protection License Plate Frame. ",
+          "price_text": "$34.95",
+          "price": 34.95,
+          "rating": 4.6,
+          "reviews": 3800,
+          "bought_text": "50+ bought in past month",
+          "bought": 50,
+          "sponsored": false,
+          "badges": null,
+          "link": "https://www.amazon.com/LIMITED-BumpShox-MAX-Protection-Ultimate/dp/B016FYFLQC/",
+          "thumbnail": "https://m.media-amazon.com/images/I/91hBmqPn-KL._AC_UL320_.jpg",
+          "is_brand": false
+        }
+      ]
+    }
+  ]
+}

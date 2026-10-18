@@ -2143,6 +2143,78 @@
     "note": "\"Creative Ring Buckle Windproof Reinforced Umbrella\" sold by many sellers."
    },
    "advertiser_takeaway": "Not checked: Amazon results were enough to decide."
+  },
+  {
+   "slug": "bumperbear",
+   "name": "Front Licence-Plate Bumper Guard (BumperBear Slim/Max)",
+   "brand": "BumperBear",
+   "url": "https://bumperbear.com/protector-de-matricula/",
+   "category": "Car: rubber licence-plate bumper guard",
+   "price": "€48.95",
+   "store_platform": "WordPress/WooCommerce",
+   "store_launched": "2019",
+   "store_products": "2 products (Slim, Max)",
+   "one_liner": "A Spanish brand selling since 2019 with only 11 reviews; the same rubber plate guard is on Temu in Spanish, on Amazon US for $18.99 (3,800 reviews), and LEICHTEN already sells it on Amazon Spain and France at €44.",
+   "verdict": "Avoid",
+   "overall": 47,
+   "confidence": "Medium",
+   "scores": {
+    "saturated": 6,
+    "margin": 5,
+    "viral": 5,
+    "pain": 6,
+    "differentiation": 3
+   },
+   "why": [
+    "Temu sells \"protector de matrícula para parachoques\" in Spanish",
+    "AR-PRO sells the same idea for $18.99 on Amazon US (3,800 reviews) and is listed on amazon.es",
+    "LEICHTEN already sells a front plate bumper guard on Amazon Spain and France for €44.26",
+    "The brand itself has only 11 reviews in 6 years: demand is small and local (city parking)"
+   ],
+   "risk": "About 55 cm of rubber per unit: shipping is expensive, and the EU plate size (520 mm) means US stock won't fit.",
+   "next": [
+    "Skip it"
+   ],
+   "best_region": "None.",
+   "snapshot": {
+    "icp": "City drivers who park on the street (Madrid, Barcelona, Paris)",
+    "job": "Stop parking taps from damaging the front bumper",
+    "cogs": "About €8-12 landed with shipping (estimate)",
+    "margin": "OK on paper, capped by €44 Amazon listing",
+    "claims": "Absorbs parking impacts",
+    "demoable": "Yes: tap test"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "Not checked"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Temu (Spanish), Amazon US $18.99, LEICHTEN on Amazon ES/FR"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Not checked"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "About 55 cm long: borderline"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "Must not cover the plate"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on"
+   ],
+   "advertiser_takeaway": "Not checked: Amazon and Temu results were enough to decide."
   }
  ]
 }
