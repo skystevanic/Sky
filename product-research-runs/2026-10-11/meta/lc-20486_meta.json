@@ -1,0 +1,694 @@
+{
+ "slug": "lc-20486",
+ "phrase": "LED mirror",
+ "checked": "2026-10-18",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22LED%20mirror%22",
+ "ads_loaded": 150,
+ "capped": true,
+ "stopped_by": "stopped at 150 ads (there are more)",
+ "n_advertisers": 97,
+ "advertisers_with_3_plus_ads": 9,
+ "biggest_advertiser_share": 0.09,
+ "brands_new_in_last_2_months": 30,
+ "brands_advertising_3_plus_months": 49,
+ "ads_started_last_2_months": 39,
+ "ads_older_than_6_months": 35,
+ "pattern": "crowded",
+ "plain": "At least 97 brands advertise it; 49 have kept ads running 3+ months, 30 are new in the last two months. We stopped counting at 150 ads, so the real numbers are higher. Of the 7 biggest shops we could date, 4 are over a year old and 2 opened in the last four months.",
+ "months": {
+  "2025-03": 1,
+  "2025-04": 1,
+  "2025-07": 2,
+  "2025-10": 5,
+  "2025-11": 4,
+  "2025-12": 1,
+  "2026-01": 8,
+  "2026-02": 2,
+  "2026-03": 3,
+  "2026-04": 8,
+  "2026-05": 15,
+  "2026-06": 13,
+  "2026-07": 21,
+  "2026-08": 27,
+  "2026-09": 18,
+  "2026-10": 21
+ },
+ "brand_months": {
+  "2025-03": 1,
+  "2025-04": 1,
+  "2025-07": 2,
+  "2025-10": 5,
+  "2025-11": 3,
+  "2026-01": 4,
+  "2026-02": 1,
+  "2026-03": 3,
+  "2026-04": 5,
+  "2026-05": 6,
+  "2026-06": 8,
+  "2026-07": 14,
+  "2026-08": 19,
+  "2026-09": 12,
+  "2026-10": 13
+ },
+ "top_advertisers": [
+  {
+   "name": "Global Led Mirror",
+   "pages": 9,
+   "page_names": [
+    "Global Led Mirror",
+    "Khaas Tohfa",
+    "Charmant Bath&Kitchen/Sanitaryware/生活浴室厨房用品",
+    "Ceramic Kingdom",
+    "IPainter",
+    "Kitchen sink and LED mirror factory"
+   ],
+   "ads": 13,
+   "oldest_live_ad": "2026-01-18",
+   "page_likes": 1580,
+   "headline": "Modern ve ışıltılı ledli banyo aynaları!✨🥰 \n\n▪️Bluetooth özelliği ile müzik keyfinize bany",
+   "shop": "api.whatsapp.com",
+   "product_page": "https://api.whatsapp.com/send",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104313425755438",
+   "shop_open_since": null
+  },
+  {
+   "name": "AV Modern Bathrooms",
+   "pages": 1,
+   "page_names": [
+    "AV Modern Bathrooms"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-03-28",
+   "page_likes": 19018,
+   "headline": "{{product.name}}",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109030418308286",
+   "shop_open_since": null
+  },
+  {
+   "name": "UpVanity",
+   "pages": 1,
+   "page_names": [
+    "UpVanity"
+   ],
+   "ads": 6,
+   "oldest_live_ad": "2025-07-19",
+   "page_likes": 22445,
+   "headline": "Luxury Vanities with Smart Defogging LED Mirror 💡",
+   "shop": "upvanity.com",
+   "product_page": "https://upvanity.com/products/modern-bath-vanity-set-brown-split-white-top-36-78-single-double-floating-smart-led-mirror-rear-cabinet",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=369330519608314",
+   "shop_open_since": "2024-08-24"
+  },
+  {
+   "name": "Citykart",
+   "pages": 1,
+   "page_names": [
+    "Citykart"
+   ],
+   "ads": 5,
+   "oldest_live_ad": "2026-10-09",
+   "page_likes": 21,
+   "headline": "⏰ Wake Up Smarter with ZUDEX!",
+   "shop": "zappmart.in",
+   "product_page": "https://zappmart.in/products/zudex-projection-alarm-clock-led-electronic-alarm-clock-7-8-mirror-desk-alarm-clock-with-temperature-adjustable-brightness-snooze-mode-for-bedroom-office",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106675148387875",
+   "shop_open_since": "2026-09-16"
+  },
+  {
+   "name": "Luxo Living AU",
+   "pages": 1,
+   "page_names": [
+    "Luxo Living AU"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2025-10-12",
+   "page_likes": 73632,
+   "headline": "Luxo Living AU",
+   "shop": "luxoliving.com.au",
+   "product_page": "https://www.luxoliving.com.au/collections/dressing-tables",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=456489501096952",
+   "shop_open_since": "2025-03-02"
+  },
+  {
+   "name": "Ricll",
+   "pages": 1,
+   "page_names": [
+    "Ricll"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2025-11-10",
+   "page_likes": 1848,
+   "headline": "{{product.name}}",
+   "shop": "ricll.com",
+   "product_page": "https://ricll.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=374254925778930",
+   "shop_open_since": "2024-07-29"
+  },
+  {
+   "name": "Dreamz Hub Life",
+   "pages": 1,
+   "page_names": [
+    "Dreamz Hub Life"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-19",
+   "page_likes": 30540,
+   "headline": "Portable Rechargeable LED Makeup Mirror",
+   "shop": "dreamzhub.in",
+   "product_page": "https://dreamzhub.in/products/rechargeable-handheld-mirror-with-light",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=110896891919492",
+   "shop_open_since": "2021-10-22"
+  },
+  {
+   "name": "GlowJersey",
+   "pages": 1,
+   "page_names": [
+    "GlowJersey"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-09-27",
+   "page_likes": 208,
+   "headline": "The perfect gift 😍",
+   "shop": "glowjersey.com",
+   "product_page": "https://glowjersey.com/products/soccer",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=964520963422470",
+   "shop_open_since": "2026-03-17"
+  },
+  {
+   "name": "MA Commerce Inc",
+   "pages": 3,
+   "page_names": [
+    "MA Commerce Inc",
+    "Macorner Decor",
+    "Macorner Home Decor"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2025-11-07",
+   "page_likes": 14751,
+   "headline": "🌹💖 Honor her unique spirit with a thoughtful token. This personalized birth flower name mi",
+   "shop": "macorner.co",
+   "product_page": "https://macorner.co/products/custom-birth-flower-name-for-her-gift-for-friends-coworkers-daughters-sisters-personalized-mirror-ma32ri9ye",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=549598668226021",
+   "shop_open_since": "2026-09-03"
+  },
+  {
+   "name": "Glassquick",
+   "pages": 1,
+   "page_names": [
+    "Glassquick"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-08",
+   "page_likes": 36,
+   "headline": "{{product.name}}",
+   "shop": "glassquick.in",
+   "product_page": "https://glassquick.in/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1160714923793076",
+   "shop_open_since": null
+  },
+  {
+   "name": "Wet Wall Designs",
+   "pages": 1,
+   "page_names": [
+    "Wet Wall Designs"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-01-30",
+   "page_likes": 25985,
+   "headline": "£3750 Package offer!🤑💸",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=2162730280490592",
+   "shop_open_since": null
+  },
+  {
+   "name": "Quotes Malayalam",
+   "pages": 1,
+   "page_names": [
+    "Quotes Malayalam"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-15",
+   "page_likes": 42177,
+   "headline": "വീട്ടിന് അടുത്തുള്ള കിലോബസാർ അറിയാൻ WhatsApp ൽ മെസേജ് ചെയ്യൂ",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1922779844650364",
+   "shop_open_since": null
+  },
+  {
+   "name": "The Collected Dwelling",
+   "pages": 1,
+   "page_names": [
+    "The Collected Dwelling"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-10",
+   "page_likes": 216129,
+   "headline": "{{product.name}}",
+   "shop": "urlgeni.us",
+   "product_page": "https://urlgeni.us/amazon/eZKVVX",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103591752667012",
+   "shop_open_since": null
+  },
+  {
+   "name": "City Plumbing UK",
+   "pages": 1,
+   "page_names": [
+    "City Plumbing UK"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-13",
+   "page_likes": 23694,
+   "headline": "{{product.name}}",
+   "shop": "cityplumbing.co.uk",
+   "product_page": "https://www.cityplumbing.co.uk/c/product/bathrooms/c/1800002/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=290922247675580",
+   "shop_open_since": null
+  },
+  {
+   "name": "Plan'H",
+   "pages": 1,
+   "page_names": [
+    "Plan'H"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-04",
+   "page_likes": 1980,
+   "headline": "{{product.name}}",
+   "shop": "goplanh.com",
+   "product_page": "https://goplanh.com/products/smart-led-makeup-bag",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=111575545276482",
+   "shop_open_since": null
+  },
+  {
+   "name": "Raynova LED Mirror",
+   "pages": 1,
+   "page_names": [
+    "Raynova LED Mirror"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-06-26",
+   "page_likes": 319,
+   "headline": "Place the order now, ship today",
+   "shop": "customledmirror.com",
+   "product_page": "https://www.customledmirror.com/pages/led-mirrors-bulk-sale",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=416944371509782",
+   "shop_open_since": null
+  },
+  {
+   "name": "PureLuxe Bathrooms",
+   "pages": 1,
+   "page_names": [
+    "PureLuxe Bathrooms"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2025-11-04",
+   "page_likes": 13260,
+   "headline": "Free LED Mirror (Worth £200) Included",
+   "shop": "offer.pureluxebathrooms.co.uk",
+   "product_page": "https://offer.pureluxebathrooms.co.uk/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=147372955115043",
+   "shop_open_since": null
+  },
+  {
+   "name": "Temu Australia",
+   "pages": 1,
+   "page_names": [
+    "Temu Australia"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-08-29",
+   "page_likes": 220218,
+   "headline": "{{product.short_description}}",
+   "shop": "temu.com",
+   "product_page": "https://www.temu.com/au/kuiper/un3.html",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=116718724643539",
+   "shop_open_since": null
+  },
+  {
+   "name": "Beauty Booth  Bangladesh",
+   "pages": 1,
+   "page_names": [
+    "Beauty Booth  Bangladesh"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-10-04",
+   "page_likes": 5361,
+   "headline": "দিনভর থাকুন Matte & Fresh",
+   "shop": "beautybooth.com.bd",
+   "product_page": "https://beautybooth.com.bd/product/bob-velvet-mist-fixed-focus-powder-02-natural-10gm",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1368684116319728",
+   "shop_open_since": null
+  },
+  {
+   "name": "دريم هاوس",
+   "pages": 1,
+   "page_names": [
+    "دريم هاوس"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-02-18",
+   "page_likes": 158,
+   "headline": "ديكور فندقي \nبدون كشف المفصلات\nبالنظام بي وت \nمع ربر استاين لس استيل \nينفتح من برع او داخل",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=110101635274844",
+   "shop_open_since": null
+  },
+  {
+   "name": "Future Glass Australia",
+   "pages": 1,
+   "page_names": [
+    "Future Glass Australia"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-10",
+   "page_likes": 10341,
+   "headline": "New In: LED Mirrors",
+   "shop": "futureglass.com.au",
+   "product_page": "https://www.futureglass.com.au/collections/led-mirrors",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=105070568033648",
+   "shop_open_since": null
+  },
+  {
+   "name": "Diniart.com - Framing With Us",
+   "pages": 1,
+   "page_names": [
+    "Diniart.com - Framing With Us"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-04-30",
+   "page_likes": 33673,
+   "headline": "🔷 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐋𝐄𝐃 𝐌𝐢𝐫𝐫𝐨𝐫 𝐒𝐢𝐠𝐧 𝐛𝐲 𝐃𝐢𝐧𝐢 𝐀𝐫𝐭\n✨ 𝐂𝐮𝐬𝐭𝐨𝐦 𝐍𝐚𝐦𝐞 & 𝐋𝐨𝐠𝐨 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐰𝐢𝐭𝐡 𝐋𝐢𝐠𝐡𝐭 ✨\n\nআপনার ব্",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109163341224934",
+   "shop_open_since": null
+  },
+  {
+   "name": "Alibaba.com",
+   "pages": 1,
+   "page_names": [
+    "Alibaba.com"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-07-06",
+   "page_likes": 28880076,
+   "headline": "{{product.name}}",
+   "shop": "m.alibaba.com",
+   "product_page": "https://m.alibaba.com/lp/group",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=22437985072",
+   "shop_open_since": null
+  },
+  {
+   "name": "Decor Palace BD",
+   "pages": 1,
+   "page_names": [
+    "Decor Palace BD"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-07-25",
+   "page_likes": 14251,
+   "headline": "Introducing our custom LED Mirror Signboards – designed especially for corporate offices, ",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102098232642446",
+   "shop_open_since": null
+  },
+  {
+   "name": "Homducts",
+   "pages": 1,
+   "page_names": [
+    "Homducts"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-04-29",
+   "page_likes": 148647,
+   "headline": "Bad lighting. Messy bags. No space.\n\nThis fixes all three.\n\nWith a built-in LED mirror and",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=104219171554366",
+   "shop_open_since": null
+  },
+  {
+   "name": "SWISH - Luxury Lifestyle",
+   "pages": 1,
+   "page_names": [
+    "SWISH - Luxury Lifestyle"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-31",
+   "page_likes": 293033,
+   "headline": "দিন শুরু হোক নিখুঁত আত্মবিশ্বাসে – সুইস্ 🇨🇭এলইডি মিররের সঙ্গে।\n\n• এলইডি লাইট – আলোয় আলোয় প",
+   "shop": "bd.swish.global",
+   "product_page": "https://bd.swish.global/product/1021-swish-led-mirror/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1887238414896779",
+   "shop_open_since": null
+  },
+  {
+   "name": "Designer Bathware",
+   "pages": 1,
+   "page_names": [
+    "Designer Bathware"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-02",
+   "page_likes": 1664,
+   "headline": "{{product.name}}",
+   "shop": "designerbathware.com.au",
+   "product_page": "http://designerbathware.com.au/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=709281455877897",
+   "shop_open_since": null
+  },
+  {
+   "name": "Pebble Grey",
+   "pages": 1,
+   "page_names": [
+    "Pebble Grey"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-01",
+   "page_likes": 16929,
+   "headline": "{{product.name}}",
+   "shop": "pebblegrey.co.uk",
+   "product_page": "http://www.pebblegrey.co.uk/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=402629333116032",
+   "shop_open_since": null
+  },
+  {
+   "name": "Hill 16 Tiles",
+   "pages": 1,
+   "page_names": [
+    "Hill 16 Tiles"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-24",
+   "page_likes": 16742,
+   "headline": "Full bathroom supply only package 2499 😍😍\n\nUpgrade your bathroom with our Complete Bathroo",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=244316252908595",
+   "shop_open_since": null
+  },
+  {
+   "name": "Senisto Bath & Kitchen Luxury Home Pvt. Ltd.",
+   "pages": 1,
+   "page_names": [
+    "Senisto Bath & Kitchen Luxury Home Pvt. Ltd."
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-04-11",
+   "page_likes": 624,
+   "headline": "Senisto Bath & Kitchen Luxury Home Pvt. Ltd.",
+   "shop": "fb.com",
+   "product_page": "https://fb.com/messenger_doc/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=624915140709150",
+   "shop_open_since": null
+  },
+  {
+   "name": "Bargain Lane",
+   "pages": 1,
+   "page_names": [
+    "Bargain Lane"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-13",
+   "page_likes": 41601,
+   "headline": "Fresh bins hit Bargain Lane Coliseum this Friday! 🔥 Kick off the weekend with fresh finds ",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=113655020488471",
+   "shop_open_since": null
+  },
+  {
+   "name": "Eviva Outlet",
+   "pages": 1,
+   "page_names": [
+    "Eviva Outlet"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-19",
+   "page_likes": 3341,
+   "headline": "🚨 50% OFF — LIMITED TIME ONLY!\n\nLooking for the perfect vanity? This is your chance 👇\n\n✨ O",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=743061852227752",
+   "shop_open_since": null
+  },
+  {
+   "name": "Casa Luna by The District",
+   "pages": 1,
+   "page_names": [
+    "Casa Luna by The District"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-03-12",
+   "page_likes": 1997,
+   "headline": "₱2,999 lang for 20hrs stay na with own Direct-to-Pool villa - SULIT for Couples, Besties &",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=930810990124799",
+   "shop_open_since": null
+  },
+  {
+   "name": "Amazon.ie",
+   "pages": 1,
+   "page_names": [
+    "Amazon.ie"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-13",
+   "page_likes": 3522,
+   "headline": "{{product.name}}",
+   "shop": "amazon.ie",
+   "product_page": "https://www.amazon.ie/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=554164834448686",
+   "shop_open_since": null
+  },
+  {
+   "name": "Gomez Malaysia",
+   "pages": 1,
+   "page_names": [
+    "Gomez Malaysia"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-08",
+   "page_likes": 3162,
+   "headline": "📍Taman Yarl\nCustomised sintered stone thermoformed travertine basin and cabinet. \nLed mirr",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102193758035754",
+   "shop_open_since": null
+  },
+  {
+   "name": "Gros super plus ",
+   "pages": 1,
+   "page_names": [
+    "Gros super plus "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-20",
+   "page_likes": 5647,
+   "headline": "🔥البيع بالجملة فقط 🔥\nwhatsapp : 27 099 202",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=705675205957532",
+   "shop_open_since": null
+  },
+  {
+   "name": "Dealatcity",
+   "pages": 1,
+   "page_names": [
+    "Dealatcity"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-08-12",
+   "page_likes": 6408,
+   "headline": "{{product.name}}",
+   "shop": "dealatcity.com",
+   "product_page": "http://dealatcity.com/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=106985545030472",
+   "shop_open_since": null
+  },
+  {
+   "name": "Kitchen sink and LED mirror factory",
+   "pages": 1,
+   "page_names": [
+    "Kitchen sink and LED mirror factory"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-02",
+   "page_likes": 5821,
+   "headline": "Kitchen sink and LED mirror factory",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=725017994037548",
+   "shop_open_since": null
+  },
+  {
+   "name": "Alasta",
+   "pages": 1,
+   "page_names": [
+    "Alasta"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2025-10-15",
+   "page_likes": 8278,
+   "headline": "use the code CART5 and get a 5% discount",
+   "shop": "alasta.co.uk",
+   "product_page": "https://alasta.co.uk/cat/led-mirrors/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=262081657286946",
+   "shop_open_since": null
+  },
+  {
+   "name": "Bathrooms E&M ",
+   "pages": 1,
+   "page_names": [
+    "Bathrooms E&M "
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-05-31",
+   "page_likes": 5345,
+   "headline": "🛁 Tired of your old bathroom? Get a complete makeover for just £3,700 — fully supplied & p",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=103574599296520",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "api.whatsapp.com": 13,
+  "upvanity.com": 6,
+  "zappmart.in": 5,
+  "luxoliving.com.au": 4,
+  "ricll.com": 4,
+  "dreamzhub.in": 3,
+  "glowjersey.com": 3,
+  "macorner.co": 3,
+  "glassquick.in": 2,
+  "fb.com": 2,
+  "urlgeni.us": 2,
+  "cityplumbing.co.uk": 2,
+  "goplanh.com": 2,
+  "customledmirror.com": 2,
+  "offer.pureluxebathrooms.co.uk": 2,
+  "temu.com": 2,
+  "beautybooth.com.bd": 2,
+  "futureglass.com.au": 2,
+  "m.alibaba.com": 2,
+  "bd.swish.global": 1,
+  "designerbathware.com.au": 1,
+  "pebblegrey.co.uk": 1,
+  "amazon.ie": 1,
+  "dealatcity.com": 1,
+  "alasta.co.uk": 1
+ },
+ "cost_usd": 0,
+ "shops_checked": 7,
+ "shops_over_a_year_old": 4,
+ "shops_under_4_months_old": 2
+}

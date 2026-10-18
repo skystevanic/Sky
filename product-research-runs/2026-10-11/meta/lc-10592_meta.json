@@ -1,0 +1,312 @@
+{
+ "slug": "lc-10592",
+ "phrase": "specchio LED",
+ "checked": "2026-10-18",
+ "source": "Facebook Ad Library via Apify",
+ "library_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=keyword_exact_phrase&q=%22specchio%20LED%22",
+ "ads_loaded": 100,
+ "capped": false,
+ "stopped_by": "read every live ad",
+ "n_advertisers": 17,
+ "advertisers_with_3_plus_ads": 6,
+ "biggest_advertiser_share": 0.64,
+ "brands_new_in_last_2_months": 12,
+ "brands_advertising_3_plus_months": 4,
+ "ads_started_last_2_months": 88,
+ "ads_older_than_6_months": 0,
+ "pattern": "one brand owns it",
+ "plain": "17 brands, but lumisport.it runs 64 of the 100 ads. Of the 6 biggest shops we could date, 3 are over a year old and 2 opened in the last four months.",
+ "months": {
+  "2026-05": 1,
+  "2026-06": 4,
+  "2026-07": 3,
+  "2026-08": 4,
+  "2026-09": 13,
+  "2026-10": 75
+ },
+ "brand_months": {
+  "2026-05": 1,
+  "2026-06": 2,
+  "2026-07": 2,
+  "2026-08": 2,
+  "2026-09": 6,
+  "2026-10": 4
+ },
+ "top_advertisers": [
+  {
+   "name": "LumiSport Italia",
+   "pages": 1,
+   "page_names": [
+    "LumiSport Italia"
+   ],
+   "ads": 64,
+   "oldest_live_ad": "2026-10-10",
+   "page_likes": 142,
+   "headline": "Il regalo perfetto 😍",
+   "shop": "lumisport.it",
+   "product_page": "https://lumisport.it/products/lumicalcio",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1296311566906280",
+   "shop_open_since": "2026-09-26"
+  },
+  {
+   "name": "Boleco",
+   "pages": 1,
+   "page_names": [
+    "Boleco"
+   ],
+   "ads": 7,
+   "oldest_live_ad": "2026-08-29",
+   "page_likes": 11234,
+   "headline": "{{product.name}}",
+   "shop": "boleco.it",
+   "product_page": "http://boleco.it/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=109365314137164",
+   "shop_open_since": null
+  },
+  {
+   "name": "Medahome",
+   "pages": 1,
+   "page_names": [
+    "Medahome"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-06-03",
+   "page_likes": 19341,
+   "headline": "{{product.name}}",
+   "shop": "medahome.it",
+   "product_page": "https://medahome.it/collections/mobili-da-bagno",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=145225969547487",
+   "shop_open_since": "2024-12-30"
+  },
+  {
+   "name": "BellaEclat",
+   "pages": 1,
+   "page_names": [
+    "BellaEclat"
+   ],
+   "ads": 4,
+   "oldest_live_ad": "2026-10-14",
+   "page_likes": 230,
+   "headline": "💡 Specchio LED: Eleganza e Luce in Un Solo Prodot",
+   "shop": "bellaeclat-store.myshopify.com",
+   "product_page": "https://bellaeclat-store.myshopify.com/products/specchio-trucco-luxevue-con-luci",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1279742625229816",
+   "shop_open_since": "2026-08-27"
+  },
+  {
+   "name": "Italy.shop",
+   "pages": 2,
+   "page_names": [
+    "Italy.shop",
+    "Italia Shop"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-08-31",
+   "page_likes": 1382,
+   "headline": "SPEDIZIONE GRATUITA 🚚",
+   "shop": "dolzystore.com",
+   "product_page": "https://dolzystore.com/products/mobile-portagioie-da-terra-con-specchio-led-organizer-girevole-1",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=757022270826562",
+   "shop_open_since": "2024-02-20"
+  },
+  {
+   "name": "Dea Doccia",
+   "pages": 1,
+   "page_names": [
+    "Dea Doccia"
+   ],
+   "ads": 3,
+   "oldest_live_ad": "2026-10-06",
+   "page_likes": 1310,
+   "headline": "💰 Bagno su misura da 9.000€, pronto in una settimana",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1079943952058051",
+   "shop_open_since": null
+  },
+  {
+   "name": "Amazon Associates",
+   "pages": 1,
+   "page_names": [
+    "Amazon Associates"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-29",
+   "page_likes": 1750,
+   "headline": "#pubblicità\nse ti serve il link —>> TOELETTA ✨🤍\nNon avete idea della soddisfazione di vede",
+   "shop": "amazon.it",
+   "product_page": "https://www.amazon.it/dp/B0CB7RDN4P",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=127498263343",
+   "shop_open_since": null
+  },
+  {
+   "name": "Arcshop",
+   "pages": 1,
+   "page_names": [
+    "Arcshop"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-05-21",
+   "page_likes": 14169,
+   "headline": "⏰ Offerta a Tempo",
+   "shop": "arcshop.it",
+   "product_page": "https://www.arcshop.it/products/mobile-bagno-verde-opaco-100-cm-cannettato-riga",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=409858899462911",
+   "shop_open_since": "2024-03-01"
+  },
+  {
+   "name": "Nipab - Arredo bagno",
+   "pages": 1,
+   "page_names": [
+    "Nipab - Arredo bagno"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-24",
+   "page_likes": 757,
+   "headline": "{{product.name}}",
+   "shop": "nipab.it",
+   "product_page": "https://www.nipab.it/shop/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=703860546384144",
+   "shop_open_since": null
+  },
+  {
+   "name": "GoItali",
+   "pages": 1,
+   "page_names": [
+    "GoItali"
+   ],
+   "ads": 2,
+   "oldest_live_ad": "2026-09-29",
+   "page_likes": 1300,
+   "headline": "Goitali: l'amico degli italiani",
+   "shop": "goitali.com",
+   "product_page": "https://goitali.com/products/10x-magnifying-makeup-mirror-with-led-light-and-suction-cup",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1040112705845849",
+   "shop_open_since": "2026-05-18"
+  },
+  {
+   "name": "Medahome",
+   "pages": 1,
+   "page_names": [
+    "Medahome"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-06-20",
+   "page_likes": 19341,
+   "headline": "Mobili bagno Serie Reid: sospesi o a terra, finitura rovere, lavabo in Solid Surface e spe",
+   "shop": "fb.com",
+   "product_page": "https://fb.com/canvas_doc/1972264686987410",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=145225969547487",
+   "shop_open_since": null
+  },
+  {
+   "name": "Specchiomat",
+   "pages": 1,
+   "page_names": [
+    "Specchiomat"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-08",
+   "page_likes": 854,
+   "headline": "{{product.name}}",
+   "shop": "specchiomat.it",
+   "product_page": "http://specchiomat.it/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=743156922218807",
+   "shop_open_since": null
+  },
+  {
+   "name": "Mery Casertano",
+   "pages": 1,
+   "page_names": [
+    "Mery Casertano"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-30",
+   "page_likes": 1750,
+   "headline": "#pubblicità\nse ti serve il link —>> TOELETTA ✨🤍\nNon avete idea della soddisfazione di vede",
+   "shop": "amazon.it",
+   "product_page": "https://www.amazon.it/dp/B0CB7RDN4P",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=157370494864828",
+   "shop_open_since": null
+  },
+  {
+   "name": "Style Glass Italia",
+   "pages": 1,
+   "page_names": [
+    "Style Glass Italia"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-07-29",
+   "page_likes": 1117,
+   "headline": "instagram.com",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=1577656862488911",
+   "shop_open_since": null
+  },
+  {
+   "name": "Grilli Arredamenti",
+   "pages": 1,
+   "page_names": [
+    "Grilli Arredamenti"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-21",
+   "page_likes": 925,
+   "headline": "Grilli Arredamenti",
+   "shop": null,
+   "product_page": null,
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=499771050085366",
+   "shop_open_since": null
+  },
+  {
+   "name": "Ruke Specchio",
+   "pages": 1,
+   "page_names": [
+    "Ruke Specchio"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-10-16",
+   "page_likes": 19,
+   "headline": "{{product.name}}-{{product.current_price strip_zeros}}",
+   "shop": "rukespecchi.it",
+   "product_page": "https://rukespecchi.it/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=842312352301925",
+   "shop_open_since": null
+  },
+  {
+   "name": "Artalo",
+   "pages": 1,
+   "page_names": [
+    "Artalo"
+   ],
+   "ads": 1,
+   "oldest_live_ad": "2026-09-29",
+   "page_likes": 8412,
+   "headline": "Uno specchio che non ha nessun altro ✨",
+   "shop": "artalo.it",
+   "product_page": "https://www.artalo.it/it/shop/specchi-led/",
+   "their_ads": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=ALL&search_type=page&view_all_page_id=102634599003930",
+   "shop_open_since": null
+  }
+ ],
+ "domains": {
+  "lumisport.it": 64,
+  "boleco.it": 7,
+  "medahome.it": 4,
+  "bellaeclat-store.myshopify.com": 4,
+  "amazon.it": 3,
+  "dolzystore.com": 3,
+  "arcshop.it": 2,
+  "nipab.it": 2,
+  "goitali.com": 2,
+  "fb.com": 1,
+  "specchiomat.it": 1,
+  "rukespecchi.it": 1,
+  "artalo.it": 1
+ },
+ "cost_usd": 0.5,
+ "shops_checked": 6,
+ "shops_over_a_year_old": 3,
+ "shops_under_4_months_old": 2
+}

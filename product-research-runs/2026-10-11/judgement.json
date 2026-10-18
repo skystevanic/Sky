@@ -1905,6 +1905,86 @@
     "note": "The same hammered stainless-titanium pan sold under many names."
    },
    "advertiser_takeaway": "TitaneX runs 18 of 25 \"poêle titane\" ads since 23 August; a copy shop, Titanox, started this month. Small for now, but the product itself is everywhere on Amazon."
+  },
+  {
+   "slug": "lumicalcio",
+   "name": "Personalised LED Football Shirt Mirror (LumiSport)",
+   "brand": "LumiSport Italia",
+   "url": "https://lumisport.it/products/lumicalcio",
+   "category": "Kids' room decor: personalised LED sign",
+   "price": "€34.90-69.90",
+   "ad_days": "Oldest live ad 2026-10-10",
+   "store_platform": "Shopify",
+   "store_launched": "2026-09",
+   "store_products": "4 products: football, basketball, rugby mirrors",
+   "one_liner": "Nearly every top Amazon result in Italy, Spain, Germany and the UK is this exact personalised jersey mirror, from €15-35. LumiSport's ads are one week old.",
+   "verdict": "Avoid",
+   "overall": 47,
+   "confidence": "High",
+   "scores": {
+    "saturated": 9,
+    "margin": 5,
+    "viral": 7,
+    "pain": 3,
+    "differentiation": 2
+   },
+   "why": [
+    "8-10 of the top 10 Amazon results in IT, ES, DE and UK are the same personalised jersey mirror, from £9.99-€35",
+    "Germany's top listings already have 298-429 reviews",
+    "LumiSport's 64 ads all started on or after 10 October: no proof yet"
+   ],
+   "risk": "A personalised LED product means custom orders, CE marking for the light, and no returns on named items.",
+   "next": [
+    "Skip it"
+   ],
+   "best_region": "None.",
+   "snapshot": {
+    "icp": "Parents of football-mad kids, Christmas and birthday gifts",
+    "job": "A personalised bedroom decoration",
+    "cogs": "About €6-10 landed (estimate)",
+    "margin": "About 70% at €34.90 (estimate)",
+    "claims": "Personalised name and number, remote-control colours",
+    "demoable": "Yes: lights up in a dark bedroom"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "Not in chains"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Same item fills Amazon's top 10 in four countries from €15"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "LumiSport runs most \"specchio LED\" ads"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Light"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "flag",
+     "why": "LED electrical product for children's rooms: CE marking and safety checks"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 0,
+    "match_name": "Amazon Italy (€30.99)",
+    "verdict": "identical",
+    "confidence": "High",
+    "note": "The same personalised jersey-shaped LED mirror, sold by many Amazon sellers."
+   },
+   "advertiser_takeaway": "LumiSport runs 64 of 100 \"specchio LED\" ads, all started this month for Christmas. Fresh test, not proof."
   }
  ]
 }
