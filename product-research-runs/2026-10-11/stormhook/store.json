@@ -1,0 +1,126 @@
+{
+  "input_url": "https://vonarishop.com/products/vonari-stormhook-umbrella",
+  "store_root": "https://vonarishop.com",
+  "platform": "shopify",
+  "title": "StormHook™ Umbrella",
+  "vendor": "Vonari",
+  "product_type": "",
+  "created_at": "2026-09-05T02:55:55+02:00",
+  "updated_at": "2026-10-18T18:07:15+02:00",
+  "price_min": 49.9,
+  "price_max": 49.9,
+  "was_price": "89.90",
+  "n_variants": 8,
+  "variants": [
+    {
+      "title": "Black",
+      "price": "49.90",
+      "was": "89.90",
+      "available": null
+    },
+    {
+      "title": "Beige",
+      "price": "49.90",
+      "was": "89.90",
+      "available": null
+    },
+    {
+      "title": "Green",
+      "price": "49.90",
+      "was": "89.90",
+      "available": null
+    },
+    {
+      "title": "Gray",
+      "price": "49.90",
+      "was": "89.90",
+      "available": null
+    },
+    {
+      "title": "Blue",
+      "price": "49.90",
+      "was": "89.90",
+      "available": null
+    },
+    {
+      "title": "Pink",
+      "price": "49.90",
+      "was": "89.90",
+      "available": null
+    },
+    {
+      "title": "Sky Blue",
+      "price": "49.90",
+      "was": "89.90",
+      "available": null
+    },
+    {
+      "title": "Wine Red",
+      "price": "49.90",
+      "was": "89.90",
+      "available": null
+    }
+  ],
+  "description": "Clips to your bag. Comes home with you. Leaving an umbrella on the train or under a café table is easy. StormHook's built-in clip attaches to a bag loop or strap, keeping it with your everyday essentials without taking up another hand. Press once to open the canopy, then press again to fold it. Push the shaft back in by hand until it clicks to reset it. A reinforced frame for rainy, windy days. Reflective details that catch light when illuminated. One storage sleeve included with every umbrella. Choose your colours and your pack. Let the umbrella dry before putting it back in its sleeve.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-studio-v2-en_f6cd1949-9e1f-4210-8f4f-96bde524043e.png?v=1790377554",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-g1-mismo-viento-en_e42e95cf-63e5-4589-82bc-234c67923380.png?v=1790376920",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-03-forme-v2.png?v=1788808432",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-04-usage-v2.png?v=1788808435",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-05-taille-v2.png?v=1788808438",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-07-essai.png?v=1788807678",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-black.png?v=1788807681",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-beige.png?v=1788807684",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-green.png?v=1788807687",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-gray.png?v=1788807690",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-blue.png?v=1788807692",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-pink.png?v=1788807696",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-skyblue.png?v=1788807699",
+    "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-winered.png?v=1788807702"
+  ],
+  "tags": "",
+  "store": {
+    "n_products": 2,
+    "first_product_created": "2026-09-26T20:26:04+02:00",
+    "newest": [
+      {
+        "title": "SoloAlarm™ Vibrating Wristband",
+        "created_at": "2026-10-02",
+        "price": "37.00"
+      },
+      {
+        "title": "StormHook™ Umbrella",
+        "created_at": "2026-09-26",
+        "price": "50.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "saved_images": [
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/stormhook/img_1.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-studio-v2-en_f6cd1949-9e1f-4210-8f4f-96bde524043e.png?v=1790377554"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/stormhook/img_2.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-g1-mismo-viento-en_e42e95cf-63e5-4589-82bc-234c67923380.png?v=1790376920"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/stormhook/img_3.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-03-forme-v2.png?v=1788808432"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/stormhook/img_4.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-04-usage-v2.png?v=1788808435"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/stormhook/img_5.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-05-taille-v2.png?v=1788808438"
+    },
+    {
+      "file": "/home/user/Sky/product-research-runs/2026-10-11/stormhook/img_6.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0976/1017/0696/files/vonari-umb-std-07-essai.png?v=1788807678"
+    }
+  ]
+}

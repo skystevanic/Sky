@@ -2064,6 +2064,85 @@
     "note": "Similar black projector on a desk arm, sold under several names."
    },
    "advertiser_takeaway": "Only 5 brands advertise \"tracing projector\", led by a shop opened in September (Humva), all from October. It is an early rush, not proof."
+  },
+  {
+   "slug": "stormhook",
+   "name": "Ring-Handle Windproof Umbrella (Vonari StormHook)",
+   "brand": "Vonari",
+   "url": "https://vonarishop.com/es/products/vonari-stormhook-umbrella",
+   "category": "Everyday: automatic folding umbrella",
+   "price": "US$49.90 (shown as reduced from US$89.90)",
+   "store_platform": "Shopify",
+   "store_launched": "2026-09",
+   "store_products": "2 products",
+   "one_liner": "The same \"ring buckle\" windproof umbrella is in Amazon's top 8 in Germany, the Netherlands and the UK from £8-29, in a category with listings of 10,000-57,000 reviews.",
+   "verdict": "Avoid",
+   "overall": 46,
+   "confidence": "High",
+   "scores": {
+    "saturated": 9,
+    "margin": 5,
+    "viral": 5,
+    "pain": 5,
+    "differentiation": 2
+   },
+   "why": [
+    "\"Creative Ring Buckle Windproof Umbrella\" is in Amazon's top 8 in DE (€25.99-28.99), NL (€22.99-23.99) and UK (£12.55)",
+    "A hook-handle umbrella sells for £8.59 on Amazon UK with 300+ bought last month",
+    "Umbrella listings with 10,000-57,000 reviews fill every country"
+   ],
+   "risk": "At US$49.90 against €13-29 on Amazon, buyers will compare and return.",
+   "next": [
+    "Skip it"
+   ],
+   "best_region": "None.",
+   "snapshot": {
+    "icp": "Commuters",
+    "job": "Stay dry with hands free",
+    "cogs": "About €4-7 landed (estimate)",
+    "margin": "High on paper, but price-capped by Amazon",
+    "claims": "10 fiberglass ribs, one-button, clip-on hook",
+    "demoable": "Yes: wind test"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "Not checked in chains; Amazon alone is enough to fail"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Same ring-buckle umbrella in Amazon's top 8 in three countries"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Not checked"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Small"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "pass",
+     "why": "None"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on"
+   ],
+   "compare": {
+    "brand_photo": "img_1.jpg",
+    "match_number": 0,
+    "match_name": "Amazon Germany (€25.99)",
+    "verdict": "identical",
+    "confidence": "Medium",
+    "note": "\"Creative Ring Buckle Windproof Reinforced Umbrella\" sold by many sellers."
+   },
+   "advertiser_takeaway": "Not checked: Amazon results were enough to decide."
   }
  ]
 }
