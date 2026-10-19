@@ -2287,6 +2287,78 @@
     "Not worth building angles on"
    ],
    "advertiser_takeaway": "Not checked: Amazon results were enough to decide."
+  },
+  {
+   "slug": "xmas-trail",
+   "name": "Christmas Magic Trail Wall Light",
+   "brand": "ahlwoplus (general store)",
+   "url": "https://ahlwoplus.com/products/christmas-magic-trail-wall-light-a-little-christmas-magic-right-on-your-wall",
+   "category": "Seasonal: LED Christmas wall decoration",
+   "price": "US$49.99",
+   "store_platform": "Shopify",
+   "store_launched": "2026-08",
+   "store_products": "250 products (general dropship store)",
+   "one_liner": "A general store (250 random products, opened August) selling a light-up wall decoration shown only in AI-made pictures; the same product under the same name is already on Amazon UK and AU and on Walmart.",
+   "verdict": "Avoid",
+   "overall": 35,
+   "confidence": "High",
+   "scores": {
+    "saturated": 8,
+    "margin": 5,
+    "viral": 7,
+    "pain": 2,
+    "differentiation": 2
+   },
+   "why": [
+    "\"Christmas Magic Trail Wall Light\" is already listed on Amazon UK, Amazon AU and Walmart (several versions)",
+    "The photos are AI-generated renders, so the real item may look much cheaper and cause returns",
+    "It's a plug-in or battery LED light, which needs CE safety marking in the EU",
+    "It only sells until about mid-December, so there are around 7 weeks to find a supplier, test and ship"
+   ],
+   "risk": "Disappointed buyers (AI photos vs real product), a short season and electrical safety rules.",
+   "next": [
+    "Skip it"
+   ],
+   "best_region": "None.",
+   "snapshot": {
+    "icp": "Christmas decorators",
+    "job": "Decorate an empty wall",
+    "cogs": "Unknown",
+    "margin": "Unknown",
+    "claims": "5K+ bought last week (store claim)",
+    "demoable": "Yes, visually"
+   },
+   "gates": [
+    {
+     "name": "Chain gate",
+     "result": "pass",
+     "why": "Not checked"
+    },
+    {
+     "name": "Copies gate",
+     "result": "fail",
+     "why": "Same name on Amazon UK/AU and Walmart"
+    },
+    {
+     "name": "Swarm gate",
+     "result": "pass",
+     "why": "Not checked"
+    },
+    {
+     "name": "Bulk gate",
+     "result": "pass",
+     "why": "Medium"
+    },
+    {
+     "name": "Regulated gate",
+     "result": "fail",
+     "why": "Electrical LED product needs CE marking"
+    }
+   ],
+   "angles": [
+    "Not worth building angles on"
+   ],
+   "advertiser_takeaway": "Not checked: Google results were enough to decide."
   }
  ]
 }

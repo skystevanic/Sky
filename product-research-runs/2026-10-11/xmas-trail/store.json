@@ -1,0 +1,68 @@
+{
+  "input_url": "https://ahlwoplus.com/products/christmas-magic-trail-wall-light-a-little-christmas-magic-right-on-your-wall",
+  "store_root": "https://ahlwoplus.com",
+  "platform": "shopify",
+  "product_feed_error": "HTTP Error 403: Forbidden",
+  "store": {
+    "n_products": 250,
+    "first_product_created": "2026-08-20T09:05:17-07:00",
+    "newest": [
+      {
+        "title": "⏰ LAST DAY SALE 50% OFF! ✨Unisex Kids' Magnetic Building Set",
+        "created_at": "2026-10-19",
+        "price": "17.99"
+      },
+      {
+        "title": "🏍️ Old Biker Soul – Women Ride Too Shelf Sitter Figurine Collection",
+        "created_at": "2026-10-19",
+        "price": "29.99"
+      },
+      {
+        "title": "Oil-Based Tire Lettering & DIY Detail Pen Waterproof | Quick-Dry | Permanent",
+        "created_at": "2026-10-19",
+        "price": "14.99"
+      },
+      {
+        "title": "☂️ Wizard-Inspired Stained-Glass Canopy Umbrella",
+        "created_at": "2026-10-19",
+        "price": "29.99"
+      },
+      {
+        "title": "🏆5K+ people purchased it in the past week.💥 Pre-lit Christmas Cedar Garland",
+        "created_at": "2026-10-19",
+        "price": "29.00"
+      },
+      {
+        "title": "Fleece Double Layer Integrated Mask Hat",
+        "created_at": "2026-10-19",
+        "price": "19.99"
+      },
+      {
+        "title": "🪳 Reusable No-Spray Roach Trap – Chemical-Free",
+        "created_at": "2026-10-19",
+        "price": "22.00"
+      },
+      {
+        "title": "Womens Long Sleeve Shirts Ruched Hem Fall Tops Lightweight Sweaters",
+        "created_at": "2026-10-19",
+        "price": "35.00"
+      }
+    ],
+    "note": "250 is the feed's page limit; a store with 250 has at least that many."
+  },
+  "price_currency": "USD",
+  "title": "🎁Christmas Magic Trail Wall Light - A Little Christmas Magic, Right on",
+  "price_min": 49.99,
+  "images": [
+    "http://ahlwoplus.com/cdn/shop/files/1be7ec650195dc36becbd0ec0eea12bd.png?v=1789029274"
+  ],
+  "description": "ahlwoplus",
+  "page_text_sample": "🎁Christmas Magic Trail Wall Light - A Little Christmas Magic, Right on – ahlwoplus Skip to content storefront Welcome to our store storefront ⭐⭐⭐⭐⭐🛒Over $49.99 Free Shipping ✈🌎 Worldwide Shipping ✅ 90-Day Free Returns About / Contact FAQ Terms of Service Refund & Return Policy Catalog ahlwoplus Search Log in Cart Your cart is empty Continue shopping Have an account? Log in to check out faster. Cart • 0 items Cart reserved for Loading... Subtotal $0.00 Update Check out American express payment method American Express Apple pay payment method Apple Pay Bancontact payment method Bancontact Diners club payment method Diners Club Discover payment method Discover Google pay payment method Google Pay Master payment method Mastercard Mbway payment method MB WAY Paypal payment method PayPal Shopify pay payment method Shop Pay Visa payment method Visa Skip to product information Open media 1 in modal Open media 2 in modal Open media 3 in modal Open media 4 in modal Open media 5 in modal Open media 6 in modal Open media 7 in modal Open media 8 in modal Open media 9 in modal Open media 10 in modal Open media 11 in modal Open media 12 in modal Open media 13 in modal Open media 14 in modal Open media 15 in modal Open media 16 in modal 🎁Christmas Magic Trail Wall Light - A Little Christmas Magic, Right on Your Wall✨ 🎁Christmas Magic Trail Wall Light - A Little Christmas Magic, Right on Your Wall✨  (1869 Reviews) Regular price $49.99 Regular price $49.99 Sale price $129.99 Unit price /  per ",
+  "saved_images": [
+    {
+      "file": null,
+      "src": "http://ahlwoplus.com/cdn/shop/files/1be7ec650195dc36becbd0ec0eea12bd.png?v=1789029274",
+      "error": "<urlopen error [Errno -2] Name or service not known>"
+    }
+  ]
+}
