@@ -20,6 +20,12 @@
    - Bad: dozens of brands, most started in the last few weeks (a swarm).
    - Not proof yet: one brand whose ads are all only days or weeks old.
 
+### Updated rule (Oct 19): being on Amazon is OK if...
+- Amazon's price is **at least half of yours** (e.g. €25+ on Amazon if you sell at €49), and
+- you can make it **look different**: a bundle, a gift set, better video, or a local language, and
+- **few brands** advertise it (no swarm).
+Only skip it if Amazon sells the same item for **under a third** of your price.
+
 ## 3. What a good first product looks like
 - An everyday annoyance solved **without a health claim**.
 - Categories: home, kitchen, garden, car, cleaning, organisers, pet **accessories**
