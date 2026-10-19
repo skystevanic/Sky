@@ -50,12 +50,28 @@ Check each one for:
 - **Pages needed:** product page, shipping (honest delivery time), 14-day returns, contact, terms, privacy.
 - **Own photos only.** Never use Swng's photos or videos (that's copyright).
 
-## Step 3: Videos (when samples arrive)
-Film 3-5 short vertical videos (10-20 seconds), each with a different hook:
-1. "Hoor je die klik? Dan was je slag goed." (the snap sound, close up)
-2. Padel player at home: "10 minuten per dag, betere slag op de baan."
+## Step 3: Videos (faceless, made with AI tools)
+**Real footage, AI for the rest.**
+- **Film real clips yourself, hands only** (no face), on your phone with the sample:
+  the snap close-up, a swing in the living room, the stick next to a racket, unboxing.
+  This is the proof. AI can't fake the exact product and its sound reliably.
+- **Use AI for:**
+  - scripts and hooks in Dutch
+  - Dutch voice-over
+  - captions and subtitles
+  - editing, cutting and music
+  - product photos with AI backgrounds
+  - extra scene clips (a tennis court, padel players) as b-roll
+- **Don't:**
+  - Show AI-generated videos of the product doing things the real one doesn't. That brings refunds and Meta can ban the ad account.
+  - Use AI "customers" or avatars saying "I used this and my serve got better". That's a fake testimonial and is illegal in the EU.
+  - Show realistic AI people without a small "AI-generated" label. EU rules now require it.
+
+Make 3-5 short vertical videos (10-20 seconds), each with a different hook:
+1. "Hoor je die klik? Dan was je slag goed." (real snap sound, close up)
+2. Padel angle: "10 minuten per dag, betere slag op de baan."
 3. Gift angle: "Het perfecte cadeau voor een tennisser" (**Sinterklaas is 5 Dec**, then Christmas)
-4. Before and after: a messy swing vs a clean swing with the click.
+4. Problem/solution: text on screen "Te laat met je slag?", then real clip of the click.
 
 ## Step 4: Ads (7-day test)
 - **Where:** Meta (Facebook + Instagram), Netherlands + Flemish Belgium.
