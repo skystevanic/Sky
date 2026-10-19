@@ -31,6 +31,18 @@ Check each one for:
 
 **Order 2 samples** (about €30) to your home in Spain, to check quality and **film your own videos**.
 
+
+## Supplier update (Oct 19)
+- The two AliExpress listings cost **€53-58 delivered to Ibiza**. That's far too expensive: no profit at €59.95.
+- The same magnetic "power trainer" sells on **Amazon.de for €13.47 (SOYUZERISH)** and **€18.09 (Jwthee)**, so the factory price is probably €4-8.
+- **New warning:** "Zanory SnapSwing", a direct SwngPro copy, appeared on Amazon France at €39.99-57.99.
+- Cheaper routes:
+  1. **Sample from Amazon** (€13-18, a few days): check quality and film videos.
+  2. **CJdropshipping free sourcing request:** upload the photo and get a quote with EU shipping.
+  3. **Alibaba:** search "badminton tennis power trainer magnetic sound" (e.g. GAIATY BT01) and ask for the price for 10 and 50 pieces.
+  4. **AliExpress search terms:** "power trainer magnetic badminton", "entrenador swing magnético", sort by orders.
+- **Target:** under €12 delivered to the Netherlands. Consider €49.95 instead of €59.95 to narrow the gap with Amazon.
+
 ## Step 2: Shop (while samples travel)
 - **Platform:** Shopify, free trial, then about €30-40 a month. Use a domain with your own brand name, not "Swng".
 - **Language:** the whole shop in **Dutch** (Flemish Belgium speaks Dutch too).
